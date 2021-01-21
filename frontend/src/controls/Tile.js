@@ -37,7 +37,7 @@ class Tile extends Component {
       <div className="tile">
         <div className="tile-icon">
           <div className="example-tile-icon">
-            <i className="icon icon-file centered"></i>
+            <i className="icon icon-file centered" />
           </div>
         </div>
         <div className="tile-content">

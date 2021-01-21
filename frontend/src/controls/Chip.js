@@ -39,9 +39,13 @@ class Chip extends Component {
   render() {
     return (
       <div className="chip">
-        <img src="img/avatar-1.png" className="avatar avatar-sm" />
+        <img src="img/avatar-1.png"
+             className="avatar avatar-sm" />
         Yan Zhu
-        <a href="#" className="btn btn-clear" aria-label="Close" role="button"></a>
+        <a href="#"
+           className="btn btn-clear"
+           aria-label="Close"
+           role="button" />
       </div>
     );
   }

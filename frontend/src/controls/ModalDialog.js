@@ -25,13 +25,30 @@ SOFTWARE.
 import { Component } from "react";
 
 class ModalDialog extends Component {
-  constructor({  }) {
-    super({  });
-    this.state = {};
+  constructor({ title, content, footer }) {
+    super({ title, content, footer });
   }
 
   render() {
     return (
+      <div className="modal active" id="modal-id">
+        <a href="#close" className="modal-overlay" aria-label="Close" />
+        <div className="modal-container">
+          <div className="modal-header">
+            <a href="#close" className="btn btn-clear float-right" aria-label="Close" />
+            <div className="modal-title h5">{ this.props.title }</div>
+          </div>
+          <div className="modal-body">
+            <div className="content">
+              {/* content here */}
+              { this.props.content }
+            </div>
+          </div>
+          <div className="modal-footer">
+            { this.props.footer }
+          </div>
+        </div>
+      </div>
     );
   }
 }

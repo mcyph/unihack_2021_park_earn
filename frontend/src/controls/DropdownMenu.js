@@ -34,8 +34,8 @@ class DropdownMenu extends Component {
     return <>
       {/* basic dropdown button */}
       <div className="dropdown">
-        <a href="#" class="btn btn-link dropdown-toggle" tabindex="0">
-          dropdown menu <i class="icon icon-caret" />
+        <a href="#" className="btn btn-link dropdown-toggle" tabIndex="0">
+          dropdown menu <i className="icon icon-caret" />
         </a>
         {/* menu component */}
         <ul className="menu">
@@ -46,10 +46,10 @@ class DropdownMenu extends Component {
       {/* dropdown button group */}
       <div className="dropdown">
         <div className="btn-group">
-          <a href="#" class="btn">
+          <a href="#" className="btn">
             dropdown button
           </a>
-          <a href="#" className="btn dropdown-toggle" tabindex="0">
+          <a href="#" className="btn dropdown-toggle" tabIndex="0">
             <i className="icon icon-caret" />
           </a>
 

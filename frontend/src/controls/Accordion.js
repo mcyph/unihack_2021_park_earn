@@ -24,13 +24,17 @@ SOFTWARE.
 
 import { Component } from "react";
 
-let __ACCORDION_ID = 0;
-
 class MutuallyExclusiveAccordion extends Component {
-  PARAMS = {
+  static PARAMS = {
     title: Param(SINGLE_LINE_TEXT, ARG_REQUIRED),
     children: Param(ELEMENTS, ARG_REQUIRED)
-  }
+  };
+  static TYPE = {
+    MUTUALLY_EXCLUSIVE: 0,
+    TOGGLE: 1
+  };
+
+  static #accordionId = 0;
 
   /**
    *
@@ -40,7 +44,7 @@ class MutuallyExclusiveAccordion extends Component {
   constructor({ title, children }) {
     super({ title, children });
     this.state = {};
-    this.id = __ACCORDION_ID++;
+    this.id = MutuallyExclusiveAccordion.#accordionId++;
   }
 
   render() {
@@ -69,6 +73,8 @@ class ToggleAccordion extends Component {
     children: Param(ELEMENTS, ARG_REQUIRED)
   }
 
+  #id;
+
   /**
    *
    * @param title
@@ -77,7 +83,7 @@ class ToggleAccordion extends Component {
   constructor({ title, children }) {
     super({ title, children });
     this.state = {};
-    this.id = __ACCORDION_ID++;
+    this.#id = __ACCORDION_ID++;
   }
 
   render() {
@@ -85,11 +91,11 @@ class ToggleAccordion extends Component {
     return (
       <div className="accordion">
         <input type="checkbox"
-               id={`accordion-${this.id}`}
+               id={`accordion-${this.#id}`}
                name="accordion-checkbox"
                hidden />
         <label className="accordion-header"
-               for={`accordion-${this.id}`}>
+               for={`accordion-${this.#id}`}>
           <i className="icon icon-arrow-right mr-1" />
           { this.props.title }
         </label>

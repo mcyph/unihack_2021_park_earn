@@ -25,34 +25,65 @@ SOFTWARE.
 import { Component } from "react";
 
 class Avatar extends Component {
-  PARAMS = {
+  static PARAMS = {
     badge: Param(BOOLEAN, false)
-  }
+  };
+
+  static PRESENCE = {
+    ONLINE: 'online',
+    OFFLINE: '',
+    BUSY: 'busy',
+    AWAY: 'away'
+  };
+  static SIZE = {
+    EXTRA_SMALL: 'avatar-xs', // 16px
+    SMALL: 'avatar-sm',       // 24px
+    MEDIUM: 'avatar',         // 32px (default)
+    LARGE: 'avatar-lg',       // 48px
+    EXTRA_LARGE: 'avatar-xl'  // 64px
+  };
 
   /**
    *
-   * @param striped
-   * @param hover
-   * @param scroll
+   * @param size
+   * @param imgSrc
+   * @param initials
+   * @param badge
+   * @param presence
+   * @param icon
+   * @param iconAlt
    */
-  constructor({ badge, presence, icon }) {
-    super({ badge, presence });
+  constructor({ size, imgSrc, initials,
+                badge, presence, icon, iconAlt }) {
+
+    size = size || Avatar.SIZE.MEDIUM;
+
+    if (!(new Set([
+      Avatar.PRESENCE.ONLINE,
+      Avatar.PRESENCE.OFFLINE,
+      Avatar.PRESENCE.BUSY,
+      Avatar.PRESENCE.AWAY
+    ])).has(presence)) {
+      throw new Error("presence must be one of: online, busy, away");
+    }
+
+    super({ size, imgSrc, initials,
+            badge, presence, icon, iconAlt });
   }
+
   render() {
     return (
-      <figure className="avatar badge" data-badge="8" data-initial="YZ">
-        <img src="img/avatar-3.png" alt="YZ" />
+      <figure className="avatar badge"
+              data-badge={ this.props.badge }
+              data-initial={ this.props.initials }>
+        { this.props.imgSrc ? <img src={ this.props.imgSrc }
+                                   alt={ this.props.initials } /> : '' }
+        { this.props.presence ? <i className={`avatar-presence ${this.props.presence}`} /> : ''}
+        { this.props.icon ? <img src={ this.props.icon }
+                                 className="avatar-icon"
+                                 alt={ this.props.iconAlt } /> : '' }
       </figure>
     );
-  }
-}
-
-class AvatarPresence extends Component {
-  constructor({ presenceType }) {
-    super({ presenceType });
-    if (!(new Set(['online', 'busy', 'away'])).has(presenceType)) {
-      throw new Error("presenceType must be one of: online, busy, away");
-    }
   }
 }
 

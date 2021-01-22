@@ -24,27 +24,36 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class ProgressBar extends Component {
+class Tabs extends Component {
   /**
    *
-   * @param progress
+   * @param items
+   * @param block whether to render as block+expand to full width
    */
-  constructor({ progress }) {
-    super({ progress });
+  constructor({ items, block }) {
+    super({ items, block });
   }
 
   render() {
+    let listItems = [];
+    for (let item of this.props.items) {
+      listItems.push(
+          <li className={ item['active'] ? 'tabs-item active' : 'tabs-item' }>
+            <a href={ item['href'] }>
+              { item['leftButton'] || '' }
+              { item['icon'] || '' }
+              { item['name'] || '' }
+              { item['rightButton'] || '' }
+            </a>
+          </li>
+      );
+    }
     return (
-        <div className="bar bar-sm">
-          <div className="bar-item"
-               role="progressbar"
-               style={{width: `${Math.round(this.props.progress)}%`}}
-               aria-valuenow={ Math.round(this.props.progress) }
-               aria-valuemin="0"
-               aria-valuemax="100" />
-        </div>
+      <ul className={ this.props.block ? "tabs tabs-block" : "tab" }>
+        { listItems }
+      </ul>
     );
   }
 }
 
-export default ProgressBar;
+export default Tabs;

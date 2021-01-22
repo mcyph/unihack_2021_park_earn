@@ -24,42 +24,16 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class TabItem extends Component {
-  /**
-   *
-   * @param block whether to render as block+expand to full width
-   */
-  constructor({ badge, children }) {
-    super({ badge, children });
+class Steps extends Component {
+  constructor({ children }) {
+    super({ children });
   }
 
   render() {
-    // OPEN ISSUE: Make content more restrictive??
-    // class="badge" data-badge="9">
-    return (
-      <li className="tab-item">
-        { this.props.children }
-      </li>
-    );
+    return <ul className="step">
+      { this.props.children }
+    </ul>;
   }
 }
 
-class TabItemButton extends Component {
-  constructor({ buttonType }) {
-    super({ buttonType });
-    if (!new Set(['clear']).has(buttonType)) {
-      throw new Error("Invalid tab item button type: "+buttonType);
-    }
-  }
-
-  render() {
-    // OPEN ISSUE: Make content more restrictive??
-    // class="badge" data-badge="9">
-    return (
-      <span className={`btn btn-${this.props.buttonType}`} />
-    );
-  }
-}
-
-const exportMe = { TabItem, TabItemButton };
-export default exportMe;
+export default Steps;

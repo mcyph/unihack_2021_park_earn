@@ -22,26 +22,23 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
-import { Component } from "react";
+import {Component} from "react";
 
-class Steps extends Component {
-  constructor({ steps }) {
-    super({ steps });
+class TabItemButton extends Component {
+  constructor({ buttonType }) {
+    super({ buttonType });
+    if (!new Set(['clear']).has(buttonType)) {
+      throw new Error("Invalid tabs item button type: "+buttonType);
+    }
   }
 
   render() {
-    let stepItems = [];
-    for (let step of this.props.steps) {
-      stepItems.push(
-        <li className={ step['active'] ? "step-item active" : "step-item" }>
-          <a className="tooltip"
-             href={ step['href'] || '#' }
-             data-tooltip={ step['name'] }>{ step['name'] }</a>
-        </li>
-      );
-    }
-    return <ul className="step">{ stepItems }</ul>;
+    // OPEN ISSUE: Make content more restrictive??
+    // class="badge" data-badge="9">
+    return (
+      <span className={`btn btn-${this.props.buttonType}`} />
+    );
   }
 }
 
-export default Steps;
+export default TabItemButton;

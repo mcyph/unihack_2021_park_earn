@@ -24,22 +24,27 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class TabAction extends Component {
-  /**
-   *
-   * @param block whether to render as block+expand to full width
-   */
-  constructor({ children }) {
-    super({ children });
+class StepItem extends Component {
+  constructor({ name, active, href, onClick }) {
+    super({ name, active, href, onClick });
   }
 
   render() {
+    let spread = {};
+    if (this.props.href)
+      spread['href'] = this.props.href;
+    if (this.props.onClick)
+      spread['onClick'] = this.props.onClick;
+
     return (
-      <li className="tab-item tab-action">
-        { this.props.children }
+      <li className={ this.props.active ? "step-item active" : "step-item" }>
+        <a className="tooltip"
+           data-tooltip={ this.props.name }
+           {...spread}
+        >{ this.props.name }</a>
       </li>
     );
   }
 }
 
-export default TabAction;
+export default StepItem;

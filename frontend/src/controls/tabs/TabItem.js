@@ -24,34 +24,45 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class Tab extends Component {
+class TabItem extends Component {
   /**
    *
+   * @param items
    * @param block whether to render as block+expand to full width
    */
-  constructor({ block }) {
-    super({  });
-    this.state = {};
+  constructor({ name, icon, href, onClick, leftButton, rightButton, active }) {
+    super({ name, icon, href, onClick, leftButton, rightButton, active });
   }
 
   render() {
     return (
-      <ul className="tab tab-block">
-        <li className="tab-item active">
-          <a href="#">Music</a>
-        </li>
-        <li className="tab-item">
-          <a href="#" className="active">Playlists</a>
-        </li>
-        <li className="tab-item">
-          <a href="#">Radio</a>
-        </li>
-        <li className="tab-item">
-          <a href="#">Connect</a>
-        </li>
-      </ul>
+      <li className={ this.props.active ? 'tabs-item active' : 'tabs-item' }>
+        <a href={ this.props.href }>
+          { this.props.leftButton || '' }
+          { this.props.icon || '' }
+          { this.props.name || '' }
+          { this.props.rightButton || '' }
+        </a>
+      </li>
     );
   }
 }
 
-export default Tab;
+class TabItemButton extends Component {
+  constructor({ buttonType }) {
+    super({ buttonType });
+    if (!new Set(['clear']).has(buttonType)) {
+      throw new Error("Invalid tabs item button type: "+buttonType);
+    }
+  }
+
+  render() {
+    // OPEN ISSUE: Make content more restrictive??
+    // class="badge" data-badge="9">
+    return (
+      <span className={`btn btn-${this.props.buttonType}`} />
+    );
+  }
+}
+
+export default Tabs;

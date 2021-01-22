@@ -24,30 +24,24 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class Step extends Component {
+class Steps extends Component {
   constructor({ steps }) {
-    super({  });
-    this.state = {};
+    super({ steps });
   }
 
   render() {
-    return (
-      <ul className="step">
-        <li className="step-item">
-          <a href="#" className="tooltip" data-tooltip="Step 1">Step 1</a>
+    let stepItems = [];
+    for (let step of this.props.steps) {
+      stepItems.push(
+        <li className={ step['active'] ? "step-item active" : "step-item" }>
+          <a className="tooltip"
+             href={ step['href'] || '#' }
+             data-tooltip={ step['name'] }>{ step['name'] }</a>
         </li>
-        <li className="step-item active">
-          <a href="#" className="tooltip" data-tooltip="Step 2">Step 2</a>
-        </li>
-        <li className="step-item">
-          <a href="#" className="tooltip" data-tooltip="Step 3">Step 3</a>
-        </li>
-        <li className="step-item">
-          <a href="#" className="tooltip" data-tooltip="Step 4">Step 4</a>
-        </li>
-      </ul>
-    );
+      );
+    }
+    return <ul className="step">{ stepItems }</ul>;
   }
 }
 
-export default Step;
+export default Steps;

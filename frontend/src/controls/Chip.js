@@ -27,25 +27,25 @@ import { Component } from "react";
 class Chip extends Component {
   /**
    *
+   * @param avatar
    * @param title
    * @param closeButton
    * @param image
    */
-  constructor({ title, closeButton, image }) {
-    super({ title, closeButton, image });
+  constructor({ avatar, title, closeButton, image }) {
+    super({ avatar, title, closeButton, image });
     this.state = {};
   }
 
   render() {
     return (
       <div className="chip">
-        <img src="img/avatar-1.png"
-             className="avatar avatar-sm" />
-        Yan Zhu
-        <a href="#"
-           className="btn btn-clear"
-           aria-label="Close"
-           role="button" />
+        { this.props.avatar || '' }
+        { this.props.title || '' }
+        { this.props.closeButton ? <a href="#"
+                                      className="btn btn-clear"
+                                      aria-label="Close"
+                                      role="button" /> : '' }
       </div>
     );
   }

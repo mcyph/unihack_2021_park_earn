@@ -33,25 +33,25 @@ class Menu extends Component {
   render() {
     return (
       <ul className="menu">
-        <!-- menu header text -->
+        {/* menu header text */}
         <li className="divider" data-content="LINKS">
         </li>
-        <!-- menu item standard -->
+        {/* menu item standard */}
         <li className="menu-item">
           <a href="#">
             <i className="icon icon-link" /> Slack
           </a>
         </li>
-        <!-- menu item with form control -->
+        {/* menu item with form control */}
         <li className="menu-item">
           <label className="form-checkbox">
             <input type="checkbox" />
             <i className="form-icon" /> form-checkbox
           </label>
         </li>
-        <!-- menu divider -->
+        {/* menu divider */}
         <li className="divider" />
-        <!-- menu item with badge -->
+        {/* menu item with badge */}
         <li className="menu-item">
           <a href="#">
             <i className="icon icon-link" /> Settings

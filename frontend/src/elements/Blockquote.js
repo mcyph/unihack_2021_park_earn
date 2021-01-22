@@ -27,17 +27,18 @@ import { Component } from "react";
 class Blockquote extends Component {
   /**
    *
+   * @param quote
    * @param cite
    */
-  constructor({ cite }) {
-    super({ cite });
+  constructor({ quote, cite }) {
+    super({ quote, cite });
   }
 
   render() {
     return (
       <blockquote>
-        <p>The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life. </p>
-        <cite>- Bill Gates</cite>
+        <p>{ this.props.quote }</p>
+        { this.props.cite ? <cite>{ this.props.cite }</cite> : '' }
       </blockquote>
     );
   }

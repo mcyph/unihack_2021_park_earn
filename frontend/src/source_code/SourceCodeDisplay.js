@@ -22,40 +22,42 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
-import React, { Component } from "react";
-import SimpleMDEReact from "react-simplemde-editor";
+import { Component } from "react";
+import { render } from 'react-dom';
+import MonacoEditor from 'react-monaco-editor';
 
-class MarkdownEditor extends Component {
-  constructor({ toolbar, autoSave, spellCheck, language, readOnly, onChange }) {
-    super();
-    this.state = {
-      value: localStorage.getItem(`smde_${this.props.id}`) || this.props.value
-    };
-    // TODO: What does this do???
-    this.defaultProps = {
-      delay: 1000,
-      value: ""
-    };
+class SourceCodeDisplay extends Component {
+  constructor({ width, height, language }) {
+    super({  });
   }
 
   render() {
-    const { options, delay, id, ...rest } = this.props;
+    const code = this.state.code;
+    const options = {
+      selectOnLineNumbers: true
+    };
     return (
-      <SimpleMDEReact
-        {...rest}
-        id={id}
-        value={this.state.value}
-        options={{
-          autosave: {
-            enabled: true,
-            uniqueId: id,
-            delay
-          },
-          ...options
-        }}
+      <MonacoEditor
+        width={ this.props.width || 800 }
+        height={ this.props.height || 600 }
+        language={ this.props.language || "javascript" }
+        theme={ FIXME ? "vs-dark" : "vs-light" }
+        value={code}
+        options={options}
+        onChange={::this.onChange}
+        editorDidMount={::this.editorDidMount}
       />
     );
   }
+
+  editorDidMount(editor, monaco) {
+    console.log('editorDidMount', editor);
+    editor.focus();
+  }
+
+  onChange(newValue, e) {
+    console.log('onChange', newValue, e);
+  }
 }
 
-export default MarkdownEditor;
+export default SourceCodeDisplay;

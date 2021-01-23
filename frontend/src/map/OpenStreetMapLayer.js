@@ -1,23 +1,20 @@
 // https://wiki.openstreetmap.org/wiki/Map_features
 
 class OpenStreetMapLayer {
-  #queryName;
-  #mapboxControl;
-
   constructor(mapboxControl) {
-    this.#queryName = queryName;
-    this.#mapboxControl = mapboxControl;
+    this.__queryName = queryName;
+    this.__mapboxControl = mapboxControl;
   }
 
   remove() {
 
   }
 
-  #sendQuery() {
+  __sendQuery() {
 
   }
 
-  #onLoadData() {
+  __onLoadData() {
 
   }
 

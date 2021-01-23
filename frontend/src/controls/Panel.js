@@ -34,27 +34,26 @@ class Panel extends Component {
    */
   constructor({ title, nav, body, footer }) {
     super({ title, nav, body, footer });
-    this.state = {};
   }
 
   render() {
     return (
       <div className="panel">
-        <div className="panel-header">
-          <div className="panel-title">{ this.props.title }</div>
-        </div>
-        <div className="panel-nav">
-          {/* navigation components: tabs, breadcrumbs or pagination */}
-          { this.props.nav }
-        </div>
-        <div className="panel-body">
-          {/* contents */}
-          { this.props.body }
-        </div>
-        <div className="panel-footer">
-          {/* buttons or inputs */}
-          { this.props.footer }
-        </div>
+        { this.props.title ? <div className="panel-header">
+                               <div className="panel-title">{ this.props.title }</div>
+                             </div> : '' }
+        { this.props.nav ? <div className="panel-nav">
+                             {/* navigation components: tabs, breadcrumbs or pagination */}
+                             { this.props.nav }
+                           </div> : '' }
+        { this.props.body ? <div className="panel-body">
+                              {/* contents */}
+                              { this.props.body }
+                            </div> : '' }
+        { this.props.footer ? <div className="panel-footer">
+                                {/* buttons or inputs */}
+                                { this.props.footer }
+                              </div> : '' }
       </div>
     );
   }

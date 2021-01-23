@@ -25,8 +25,10 @@ SOFTWARE.
 import { Component } from "react";
 
 class Tile extends Component {
-  constructor({  }) {
-    super({  });
+  constructor({ icon, title, subtitle, content, action,
+                centerIconVertically }) {
+    super({ icon, title, subtitle, content, action,
+            centerIconVertically });
     this.state = {};
   }
 
@@ -36,18 +38,14 @@ class Tile extends Component {
     return (
       <div className="tile">
         <div className="tile-icon">
-          <div className="example-tile-icon">
-            <i className="icon icon-file centered" />
-          </div>
+          <div className="example-tile-icon">{ this.props.icon }</div>
         </div>
         <div className="tile-content">
-          <p className="tile-title">The Avengers</p>
-          <p className="tile-subtitle">Earth's Mightiest Heroes joined forces to take on threats that were too big for
-            any one hero to tackle...</p>
+          <p className="tile-title">{ this.props.title }</p>
+          <p className="tile-subtitle">{ this.props.subtitle }</p>
+          { this.props.content || '' }
         </div>
-        <div className="tile-action">
-          <button className="btn btn-primary">Join</button>
-        </div>
+        <div className="tile-action">{ this.props.action }</div>
       </div>
     );
   }

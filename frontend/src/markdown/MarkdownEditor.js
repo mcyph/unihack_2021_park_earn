@@ -23,25 +23,39 @@ SOFTWARE.
  */
 
 import React, { Component } from "react";
+import SimpleMDEReact from "react-simplemde-editor";
 
-class MapboxControl extends Component {
-  static THEMES = {
-    STREETS: 'mapbox://styles/mapbox/streets-v11',
-    LIGHT: 'mapbox://styles/mapbox/light-v10',
-    DARK: 'mapbox://styles/mapbox/dark-v10',
-    OUTDOORS: 'mapbox://styles/mapbox/outdoors-v11',
-    SATELLITE: 'mapbox://styles/mapbox/satellite-v9'
-  };
-
-  constructor({  }) {
-    super({  });
+class MarkdownEditor extends Component {
+  constructor({ toolbar, autoSave, spellCheck, language, readOnly, onChange }) {
+    super({ toolbar, autoSave, spellCheck, language, readOnly, onChange });
+    this.state = {
+      value: localStorage.getItem(`smde_${this.props.id}`) || this.props.value
+    };
+    // TODO: What does this do???
+    this.defaultProps = {
+      delay: 1000,
+      value: ""
+    };
   }
 
   render() {
+    const { options, delay, id, ...rest } = this.props;
     return (
-
+      <SimpleMDEReact
+        {...rest}
+        id={id}
+        value={this.state.value}
+        options={{
+          autosave: {
+            enabled: true,
+            uniqueId: id,
+            delay
+          },
+          ...options
+        }}
+      />
     );
   }
 }
 
-export default MapboxControl;
+export default MarkdownEditor;

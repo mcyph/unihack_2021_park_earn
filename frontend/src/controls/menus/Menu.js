@@ -33,7 +33,7 @@ class Menu extends Component {
   render() {
     return (
       <ul className="menu">
-        {/* menu header text */}
+        {/* menu header natural_language_processing */}
         <li className="divider" data-content="LINKS">
         </li>
         {/* menu item standard */}

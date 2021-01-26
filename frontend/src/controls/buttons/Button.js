@@ -31,13 +31,14 @@ class Button extends Component {
     SMALL: 'btn-sm',
     LARGE: 'btn-lg'
   };
-  static STATES = {
+  static STATE = {
     ACTIVE: 1,
     DISABLED: 2,
     LOADING: 4
   };
   static COLOR = {
     DEFAULT: '',
+    PRIMARY: 'btn-primary',
     ERROR: 'btn-error',
     SUCCESS: 'btn-success'
   };
@@ -50,6 +51,7 @@ class Button extends Component {
   /**
    *
    * @param title
+   * @param onClick
    * @param size
    * @param state
    * @param color
@@ -78,18 +80,28 @@ class Button extends Component {
     }
 
     let state = this.props.state || 0;
-    if (state & Button.STATES.ACTIVE) {
+    if (state & Button.STATE.ACTIVE) {
       className += ' active';
     }
-    if (state & Button.STATES.DISABLED) {
+    if (state & Button.STATE.DISABLED) {
       className += ' disabled';
     }
-    if (state & Button.STATES.LOADING) {
+    if (state & Button.STATE.LOADING) {
       className += ' loading';
     }
 
     return this.props.badge ? <>
-      FIXME
+      <button data-badge={ this.props.badge }
+              onClick={evt => {
+                if (this.props.onClick)
+                  return this.props.onClick(evt);
+              }}
+              className={ className }
+              style={ this.props.style }>
+        { this.props.leftIcon || '' }
+        { this.props.title }
+        { this.props.rightIcon || '' }
+      </button>
     </> : <>
       <button onClick={evt => {
                 if (this.props.onClick)

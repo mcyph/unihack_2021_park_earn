@@ -25,10 +25,6 @@ SOFTWARE.
 import { Component } from "react";
 
 class MutuallyExclusiveAccordion extends Component {
-  static PARAMS = {
-    title: Param(SINGLE_LINE_TEXT, ARG_REQUIRED),
-    children: Param(ELEMENTS, ARG_REQUIRED)
-  };
   static TYPE = {
     MUTUALLY_EXCLUSIVE: 0,
     TOGGLE: 1

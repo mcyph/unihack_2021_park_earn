@@ -25,10 +25,6 @@ SOFTWARE.
 import { Component } from "react";
 
 class Avatar extends Component {
-  static PARAMS = {
-    badge: Param(BOOLEAN, false)
-  };
-
   static PRESENCE = {
     ONLINE: 'online',
     OFFLINE: '',

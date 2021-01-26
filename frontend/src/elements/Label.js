@@ -22,51 +22,32 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
+import { Component } from "react";
+
 class Label extends Component {
-  constructor({ rounded }) {
-    super({ active });
+  static TYPE = {
+    DEFAULT: '',
+    PRIMARY: 'label-primary',
+    SECONDARY: 'label-secondary',
+    SUCCESS: 'label-success',
+    WARNING: 'label-warning',
+    ERROR: 'label-error'
+  };
+
+  constructor({ title, type, rounded }) {
+    super({ title, type, rounded });
   }
   render() {
+    let className = 'label';
+    if (this.props.type)
+      className += ' '+this.props.type;
+    if (this.props.rounded)
+      className += ' label-rounded'
+
+    return <span className={ className }>
+      { this.props.title }
+    </span>
   }
 }
 
-class PrimaryLabel extends Component {
-  constructor({ rounded }) {
-    super({ active });
-  }
-  render() {
-  }
-}
-
-class SecondaryLabel extends Component {
-  constructor({ rounded }) {
-    super({ active });
-  }
-  render() {
-  }
-}
-
-class SuccessLabel extends Component {
-  constructor({ rounded }) {
-    super({ active });
-  }
-  render() {
-  }
-}
-
-class WarningLabel extends Component {
-  constructor({ rounded }) {
-    super({ active });
-  }
-  render() {
-  }
-}
-
-class ErrorLabel extends Component {
-  constructor({ rounded }) {
-    super({ active });
-  }
-  render() {
-  }
-}
-
+export default Label;

@@ -21,3 +21,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
+
+<div className="hero bg-gray">
+  <div className="hero-body">
+    <h1>Hero title</h1>
+    <p>This is a hero example</p>
+  </div>
+</div>
+

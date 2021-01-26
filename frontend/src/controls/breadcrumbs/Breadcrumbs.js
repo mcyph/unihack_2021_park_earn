@@ -25,8 +25,6 @@ SOFTWARE.
 import { Component } from "react";
 
 class Breadcrumbs extends Component {
-  #state;
-
   /**
    * A "breadcrumb"-style navigation
    * e.g. Home / Settings / Change avatar
@@ -34,23 +32,14 @@ class Breadcrumbs extends Component {
    *
    * @param items
    */
-  constructor({ items }) {
-    super({ items });
-    this.#state = {
-      items: items
-    };
-  }
-
-  setItems(items) {
-    this.setState({items: items});
+  constructor({ children }) {
+    super({ children });
   }
 
   render() {
-    let listItems = [];
-    for (let [text, link] of this.state['items']) {
-      listItems.push(<li className="breadcrumb-item"><a href={ link }>{ text }</a></li>);
-    }
-    return <ul className="breadcrumb">{ listItems }</ul>;
+    return <ul className="breadcrumb">
+      { this.props.children }
+    </ul>;
   }
 }
 

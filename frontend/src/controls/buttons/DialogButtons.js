@@ -27,11 +27,14 @@ import Button from "./Button";
 
 class DialogButtons extends Component {
   static ALIGN = {
-    LEFT: 0, RIGHT: 1,
-    CENTRE: 2, CENTER: 2
+    LEFT: 0,
+    RIGHT: 1,
+    CENTRE: 2,
+    CENTER: 2
   };
   static WIDTH = {
     AUTO: 0,
+    BLOCK: 1
   };
 
   static TYPES = {
@@ -40,29 +43,29 @@ class DialogButtons extends Component {
     // Defaults with "OK" and "Yes" emphasized over "Cancel" and "No"
     // This assumes the actions aren't "dangerous" and should encourage
     // the user to think before pressing
-    OK: ['btn-primary', 'OK'],
+    OK: [Button.COLOR.PRIMARY, 'OK'],
     CANCEL: [null, 'Cancel'],
-    YES: ['btn-primary', 'Yes'],
+    YES: [Button.COLOR.PRIMARY, 'Yes'],
     NO: [null, 'No'],
 
-    OK_PRIMARY: ['btn-primary', 'OK'],
-    CANCEL_PRIMARY: ['btn-primary', 'Cancel'],
-    YES_PRIMARY: ['btn-primary', 'Yes'],
-    NO_PRIMARY: ['btn-primary', 'No'],
+    OK_PRIMARY: [Button.COLOR.PRIMARY, 'OK'],
+    CANCEL_PRIMARY: [Button.COLOR.PRIMARY, 'Cancel'],
+    YES_PRIMARY: [Button.COLOR.PRIMARY, 'Yes'],
+    NO_PRIMARY: [Button.COLOR.PRIMARY, 'No'],
 
     OK_SECONDARY: [null, 'OK'],
     CANCEL_SECONDARY: [null, 'Cancel'],
     YES_SECONDARY: [null, 'Yes'],
     NO_SECONDARY: [null, 'No'],
 
-    CLOSE: ['btn-primary', 'Close'],
-    APPLY: ['btn-primary', 'Apply'],
+    CLOSE: [Button.COLOR.PRIMARY, 'Close'],
+    APPLY: [Button.COLOR.PRIMARY, 'Apply'],
     HELP: [null, 'Help'],
-    NEXT: ['btn-primary', 'Next'],
+    NEXT: [Button.COLOR.PRIMARY, 'Next'],
     PREVIOUS: [null, 'Previous'],
     REVERT: [null, 'Revert'],
 
-    ADD: ['btn-primary', 'Add'],
+    ADD: [Button.COLOR.PRIMARY, 'Add'],
     DELETE: [null, 'Delete'],
     REMOVE: [null, 'Remove'],
   };
@@ -71,34 +74,71 @@ class DialogButtons extends Component {
    *
    * @param buttons
    * @param align
-   * @param onButtonClick
+   * @param onClick
    */
-  constructor({ buttonTypes, align, width, onButtonClick }) {
-    super({ buttonTypes, align, width, onButtonClick });
-  }
-
-  setEnabled(enabled, buttonId) {
-    // TODO!
+  constructor({ buttonTypes, onClick,
+                align, containerWidth, buttonWidth, buttonSize }) {
+    super({ buttonTypes, onClick,
+            align, containerWidth, buttonWidth, buttonSize });
   }
 
   render() {
     let buttons = [];
+    let buttonSize = ('buttonSize' in this.props && this.props.buttonSize != null) ?
+        this.props.buttonSize : Button.SIZE.DEFAULT;
+
     for (let buttonType of this.props.buttonTypes) {
       if (buttonType == null) {
-        // TODO!
-      } else {
+        // TODO: Insert a separator!!
+      } else if (this.__isArray(buttonType)) {
         // icon??
         buttons.push(
             <Button
-                className
-                title={ buttonType[1] }
+                color={buttonType[0]}
+                title={buttonType[1]}
+                size={buttonSize}
+                onClick={(id, evt) => {
+                  if (this.props.onClick) {
+                    return this.props.onClick(id, evt)
+                  }
+                }}
             />
         );
+      } else if (this.__isLiteralObject(buttonType)) {
+        // {type: [type], ...} format
+        buttons.push(
+            <Button
+                title={buttonType.type[1]}
+                color={'color' in buttonType ? buttonType.color : buttonType.type[0]}
+                state={'state' in buttonType ? buttonType.state : null}
+                borderStyle={'borderStyle' in buttonType ? buttonType.borderStyle : null}
+                size={'buttonSize' in buttonType ? buttonType.buttonSize : buttonSize}
+                leftIcon={buttonType.leftIcon}
+                rightIcon={buttonType.rightIcon}
+                badge={buttonType.badge}
+                style={buttonType.style}
+                onClick={(id, evt) => {
+                  if (this.props.onClick) {
+                    return this.props.onClick(id, evt)
+                  }
+                }}
+            />
+        );
+      } else {
+        // a JSX element?
+        buttons.push(buttonType);
       }
     }
     return <FIXME>
       { buttons }
     </FIXME>;
+  }
+
+  __isArray(a) {
+    return (!!a) && (a.constructor === Array);
+  }
+  __isLiteralObject(a) {
+    return (!!a) && (a.constructor === Object);
   }
 }
 

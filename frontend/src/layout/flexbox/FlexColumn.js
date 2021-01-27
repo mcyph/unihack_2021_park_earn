@@ -24,23 +24,51 @@ SOFTWARE.
 
 import { Component } from "react";
 
-
-class Column extends Component {
+class FlexColumn extends Component {
   /**
    *
-   * @param striped
-   * @param hover
-   * @param scroll
+   * @param defaultSize
+   * @param xs
+   * @param sm
+   * @param md
+   * @param lg
+   * @param xl
+   * @param mx
+   * @param ml
+   * @param mr
+   * @param children
    */
-  constructor({ xs, sm, md, lg, xl,
-                a1, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11, a12}) {
-    super({ xs, sm, md, lg, xl,
-            a1, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11, a12 });
-
-
+  constructor({ defaultSize, xs, sm, md, lg, xl, mx, ml, mr, children }) {
+    super({ defaultSize, xs, sm, md, lg, xl, mx, ml, mr, children });
   }
+
   render() {
+    let classNames = ['column'];
+    if (this.props.defaultSize) {
+      classNames.push(this.__getClass(null, this.props.defaultSize));
+    }
+    for (let type of ['xs', 'sm', 'md', 'lg', 'xl', 'mx', 'ml', 'mr']) {
+      if (this.props[type]) {
+        classNames.push(this.__getClass(type, this.props[type]));
+      }
+    }
+
+    return (
+      <div className={ classNames.join(' ') }>
+        { this.props.children }
+      </div>
+    );
+  }
+
+  __getClass(type, value) {
+    if (1 <= value <= 12) {
+      return type ? `col-${Math.round(value)}` : `col-${type}-${Math.round(value)}`;
+    } else if (value === 'auto') {
+      return type ? `col-${type}-auto` : `col-auto`; // CHECK ME!!
+    } else {
+      throw new Error(`Invalid value for type ${type}: ${value}!`);
+    }
   }
 }
 
-export default Column;
+export default FlexColumn;

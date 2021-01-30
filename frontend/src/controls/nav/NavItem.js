@@ -25,6 +25,13 @@ SOFTWARE.
 import { Component } from "react";
 
 class NavItem extends Component {
+  /**
+   *
+   * @param text
+   * @param link
+   * @param active
+   * @param subItems
+   */
   constructor({ text, link, active, subItems }) {
     super({ text, link, active, subItems })
     this.text = text;

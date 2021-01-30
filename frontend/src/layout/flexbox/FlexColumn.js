@@ -25,31 +25,42 @@ SOFTWARE.
 import { Component } from "react";
 
 class FlexColumn extends Component {
+  static MARGIN = {
+    NONE: '',
+    LEFT: 'col-lx-auto',
+    RIGHT: 'col-rx-auto',
+    BOTH: 'col-mx-auto'
+  };
+
   /**
    *
    * @param defaultSize
-   * @param xs
-   * @param sm
-   * @param md
-   * @param lg
-   * @param xl
-   * @param mx
-   * @param ml
-   * @param mr
+   * @param extraSmall
+   * @param small
+   * @param medium
+   * @param large
+   * @param extraLarge
+   * @param margin
    * @param children
    */
-  constructor({ defaultSize, xs, sm, md, lg, xl, mx, ml, mr, children }) {
-    super({ defaultSize, xs, sm, md, lg, xl, mx, ml, mr, children });
+  constructor({ defaultSize, extraSmall, small, medium, large, extraLarge,
+                margin, children }) {
+    super({ defaultSize, extraSmall, small, medium, large, extraLarge,
+            margin, children });
   }
 
   render() {
     let classNames = ['column'];
-    if (this.props.defaultSize) {
-      classNames.push(this.__getClass(null, this.props.defaultSize));
-    }
-    for (let type of ['xs', 'sm', 'md', 'lg', 'xl', 'mx', 'ml', 'mr']) {
-      if (this.props[type]) {
-        classNames.push(this.__getClass(type, this.props[type]));
+    for (let [type, value] of [
+      [null, this.props.defaultSize],
+      ['xs', this.props.extraSmall],
+      ['sm', this.props.small],
+      ['md', this.props.medium],
+      ['lg', this.props.large],
+      ['xl', this.props.extraLarge],
+    ]) {
+      if (value) {
+        classNames.push(this.__getClass(type, value));
       }
     }
 
@@ -60,11 +71,24 @@ class FlexColumn extends Component {
     );
   }
 
+  /**
+   *
+   * @param type
+   * @param value
+   * @returns {string|string|*}
+   * @private
+   */
   __getClass(type, value) {
     if (1 <= value <= 12) {
-      return type ? `col-${Math.round(value)}` : `col-${type}-${Math.round(value)}`;
-    } else if (value === 'auto') {
+      // Numbers between 1 and 12 interpreted as twelfths
+      return type ? `col-${type}-${Math.round(value)}` : `col-${Math.round(value)}`;
+    } else if (value === 'auto' || value === 'expand') {
+      // "auto" means "expand"
       return type ? `col-${type}-auto` : `col-auto`; // CHECK ME!!
+    } else if (typeof value === 'string' &&
+               value.test(/.*\/12$/)) {
+      // Allow for explicit "5/12" format meaning "five twelfths"
+      return this.__getClass(type, parseInt(value.split('/')[0]));
     } else {
       throw new Error(`Invalid value for type ${type}: ${value}!`);
     }
@@ -72,3 +96,7 @@ class FlexColumn extends Component {
 }
 
 export default FlexColumn;
+
+//<FlexColumn small={'5/12'}
+//            medium={'3/12'}>
+//</FlexColumn>

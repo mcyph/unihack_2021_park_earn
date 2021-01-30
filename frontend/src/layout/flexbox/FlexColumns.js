@@ -27,22 +27,27 @@ import { Component } from "react";
 class FlexColumns extends Component {
   /**
    *
-   * @param gapless
-   * @param singleLine
-   * @param style
+   * @param gapless `true` for no spaces in between `FlexColumn`s. Defaults to `false`.
+   * @param singleLine `true` to display all `FlexColumn`s on a single line.
+   *                   Defaults to `false` to allow wrapping.
+   * @param style any additional styles
    * @param children
    */
   constructor({ gapless, singleLine, style, children }) {
     super({ gapless, singleLine, style, children });
   }
+
   render() {
     let className = 'columns';
-    if (this.props.singleLine)
+    if (this.props.singleLine) {
       className += ' col-oneline';
-    if (this.props.gapless)
+    }
+    if (this.props.gapless) {
       className += ' col-gapless';
+    }
 
-    return <div className={ className } style={ this.props.style }>
+    return <div className={ className }
+                style={ this.props.style }>
       { this.props.children }
     </div>;
   }

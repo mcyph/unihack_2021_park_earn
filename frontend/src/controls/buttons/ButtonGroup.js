@@ -27,16 +27,17 @@ import { Component } from "react";
 class ButtonGroup extends Component {
   /**
    *
-   * @param buttons
+   * @param style
+   * @param children
    */
-  constructor({ buttons }) {
-    super({ buttons });
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
     return (
       <div className="btn-group btn-group-block">
-        { this.props.buttons }
+        { this.props.children }
       </div>
     );
   }

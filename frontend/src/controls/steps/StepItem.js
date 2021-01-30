@@ -25,6 +25,13 @@ SOFTWARE.
 import { Component } from "react";
 
 class StepItem extends Component {
+  /**
+   *
+   * @param name
+   * @param active
+   * @param href
+   * @param onClick
+   */
   constructor({ name, active, href, onClick }) {
     super({ name, active, href, onClick });
   }

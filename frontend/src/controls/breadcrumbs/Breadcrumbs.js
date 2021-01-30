@@ -30,16 +30,20 @@ class Breadcrumbs extends Component {
    * e.g. Home / Settings / Change avatar
    * that allows seeing where you are and going one above
    *
-   * @param items
+   * @param style
+   * @param children
    */
-  constructor({ children }) {
-    super({ children });
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
-    return <ul className="breadcrumb">
-      { this.props.children }
-    </ul>;
+    return (
+      <ul className="breadcrumb"
+          style={ this.props.style}>
+        { this.props.children }
+      </ul>
+    );
   }
 }
 

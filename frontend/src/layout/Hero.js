@@ -22,10 +22,36 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
-<div className="hero bg-gray">
-  <div className="hero-body">
-    <h1>Hero title</h1>
-    <p>This is a hero example</p>
-  </div>
-</div>
+import { Component } from "react";
 
+class Hero extends Component {
+  static SIZE = {
+    DEFAULT: '',
+    MEDIUM: '',
+    SMALL: 'hero-sm',
+    LARGE: 'hero-lg'
+  }
+
+  /**
+   *
+   * @param title
+   * @param size
+   * @param style
+   * @param children
+   */
+  constructor({ title, size, style, children }) {
+    super({ title, size, style, children });
+  }
+
+  render() {
+    let className = "hero bg-gray "+this.props.size;
+    return <div className={ className }>
+      <div className="hero-body">
+        <h1>{ this.props.title }</h1>
+        <p>{ this.props.children }</p>
+      </div>
+    </div>;
+  }
+}
+
+export default Hero;

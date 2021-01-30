@@ -29,9 +29,13 @@ class BreadcrumbItem extends Component {
    * A "breadcrumb"-style navigation item
    * e.g. one of the items in Home / Settings / Change avatar
    * that allows seeing where you are and going one above
+   *
+   * @param title
+   * @param link
+   * @param style
    */
-  constructor({ title, link }) {
-    super({ title, link });
+  constructor({ title, link, style }) {
+    super({ title, link, style });
   }
 
   render() {

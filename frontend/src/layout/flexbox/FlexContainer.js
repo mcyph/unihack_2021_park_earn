@@ -26,17 +26,22 @@ import { Component } from "react";
 
 class FlexContainer extends Component {
   static WIDTH = {
-    XS: 'grid-xs',
-    SM: 'grid-sm',
-    MD: 'grid-md',
-    LG: 'grid-lg',
-    XL: 'grid-xl'
+    EXTRA_SMALL: 'grid-xs',
+    SMALL: 'grid-sm',
+    MEDIUM: 'grid-md',
+    LARGE: 'grid-lg',
+    EXTRA_LARGE: 'grid-xl'
   };
 
   /**
    *
-   * @param width
-   * @param style
+   * @param width one of:
+   *              * FlexContainer.WIDTH.EXTRA_SMALL
+   *              * FlexContainer.WIDTH.SMALL
+   *              * FlexContainer.WIDTH.MEDIUM
+   *              * FlexContainer.WIDTH.LARGE
+   *              * FlexContainer.WIDTH.EXTRA_LARGE
+   * @param style any additional styles
    * @param children
    */
   constructor({ width, style, children }) {
@@ -50,7 +55,8 @@ class FlexContainer extends Component {
     }
 
     return (
-      <div className={ className } style={ this.props.style }>
+      <div className={ className }
+           style={ this.props.style }>
         { this.props.children }
       </div>
     );

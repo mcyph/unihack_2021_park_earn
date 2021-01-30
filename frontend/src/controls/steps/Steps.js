@@ -25,6 +25,10 @@ SOFTWARE.
 import { Component } from "react";
 
 class Steps extends Component {
+  /**
+   *
+   * @param children
+   */
   constructor({ children }) {
     super({ children });
   }

@@ -52,13 +52,30 @@ class Button extends Component {
    *
    * @param title
    * @param onClick
-   * @param size
-   * @param state
-   * @param color
-   * @param borderStyle
+   * @param size one of:
+   *        * `Button.SIZE.DEFAULT`
+   *        * `Button.SIZE.BLOCK`
+   *        * `Button.SIZE.FULLWIDTH`
+   *        * `Button.SIZE.SMALL`
+   *        * `Button.SIZE.LARGE`
+   * @param state one of:
+   *        * `Button.STATE.ACTIVE`
+   *        * `Button.STATE.DISABLED`
+   *        * `Button.STATE.LOADING`
+   * @param color one of:
+   *        * `Button.COLOR.DEFAULT`
+   *        * `Button.COLOR.PRIMARY`
+   *        * `Button.COLOR.ERROR`
+   *        * `Button.COLOR.SUCCESS`
+   * @param borderStyle one of:
+   *        * `Button.BORDER_STYLE.SQUARE`
+   *        * `Button.BORDER_STYLE.CIRCLE`
+   *        * `Button.BORDER_STYLE.FAB`
+   *        * `Button.BORDER_STYLE.LINK`
    * @param leftIcon
-   * @param rightIcon
-   * @param badge
+   * @param rightIcon same as `leftIcon` but displayed on
+   *        the right hand of the child content
+   * @param badge text to display as a "badge" in the bottom right
    * @param style
    */
   constructor({ title, onClick, size, state, color, borderStyle,

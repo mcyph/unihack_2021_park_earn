@@ -24,39 +24,51 @@ SOFTWARE.
 
 import { Component } from "react";
 
-
-class Grid extends Component {
-  static FRACTIONS = {
-    AUTO: 'col-auto',
-    _1: 'col-1',
-    _2: 'col-2',
-    _3: 'col-3',
-    _4: 'col-4',
-    _5: 'col-5',
-    _6: 'col-6',
-    _7: 'col-7',
-    _8: 'col-8',
-    _9: 'col-9',
-    _10: 'col-10',
-    _11: 'col-11',
-    _12: 'col-12'
-  };
+class Visibility extends Component {
+  static EXTRA_SMALL = 'xs';
+  static SMALL = 'sm';
+  static MEDIUM = 'md';
+  static LARGE = 'lg';
+  static EXTRA_LARGE = 'xl';
 
   /**
    *
-   * @param striped
+   * @param showFor
+   * @param hideFor
+   * @param style
+   * @param children
    */
-  constructor({  }) {
-    super({  });
-
+  constructor({ showFor, hideFor, style, children }) {
+    // https://picturepan2.github.io/spectre/layout/responsive.html
+    super({ showFor, hideFor, style, children });
   }
+
   render() {
+    let classNames = this.__getHideClasses().concat(
+        this.__getShowClasses()
+    );
+
+    return <div className={ classNames.join(' ') }
+                style={ this.props.style }>
+      { this.props.children }
+    </div>;
+  }
+
+  __getShowClasses() {
+    let r = [];
+    for (let i of this.props.showFor) {
+      r.push(`show-${i}`);
+    }
+    return r;
+  }
+
+  __getHideClasses() {
+    let r = [];
+    for (let i of this.props.hideFor) {
+      r.push(`hide-${i}`);
+    }
+    return r;
   }
 }
 
-export default Grid;
-
-
-<Grid xs={Grid.FRACTIONS._1}>
-
-</Grid>
+export default Visibility;

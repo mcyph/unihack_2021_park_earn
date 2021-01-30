@@ -25,6 +25,7 @@ SOFTWARE.
 import { Component } from "react";
 import Button from "./Button";
 
+
 class DialogButtons extends Component {
   static ALIGN = {
     LEFT: 0,
@@ -36,7 +37,6 @@ class DialogButtons extends Component {
     AUTO: 0,
     BLOCK: 1
   };
-
   static TYPES = {
     SEPARATOR: null,
 
@@ -72,9 +72,23 @@ class DialogButtons extends Component {
 
   /**
    *
-   * @param buttons
-   * @param align
+   * @param buttonTypes
    * @param onClick
+   * @param align one of:
+   *        * `DialogButtons.ALIGN.LEFT`
+   *        * `DialogButtons.ALIGN.RIGHT`
+   *        * `DialogButtons.ALIGN.CENTER`
+   *        * `DialogButtons.ALIGN.CENTRE`
+   * @param containerWidth one of:
+   *        * FIXME
+   * @param buttonWidth one of:
+   *        * FIXME
+   * @param buttonSize one of:
+   *        * `Button.SIZE.DEFAULT`
+   *        * `Button.SIZE.BLOCK`
+   *        * `Button.SIZE.FULLWIDTH`
+   *        * `Button.SIZE.SMALL`
+   *        * `Button.SIZE.LARGE`
    */
   constructor({ buttonTypes, onClick,
                 align, containerWidth, buttonWidth, buttonSize }) {
@@ -93,36 +107,36 @@ class DialogButtons extends Component {
       } else if (this.__isArray(buttonType)) {
         // icon??
         buttons.push(
-            <Button
-                color={buttonType[0]}
-                title={buttonType[1]}
-                size={buttonSize}
-                onClick={(id, evt) => {
-                  if (this.props.onClick) {
-                    return this.props.onClick(id, evt)
-                  }
-                }}
-            />
+          <Button
+            color={buttonType[0]}
+            title={buttonType[1]}
+            size={buttonSize}
+            onClick={(id, evt) => {
+              if (this.props.onClick) {
+                return this.props.onClick(id, evt)
+              }
+            }}
+          />
         );
       } else if (this.__isLiteralObject(buttonType)) {
         // {type: [type], ...} format
         buttons.push(
-            <Button
-                title={buttonType.type[1]}
-                color={'color' in buttonType ? buttonType.color : buttonType.type[0]}
-                state={'state' in buttonType ? buttonType.state : null}
-                borderStyle={'borderStyle' in buttonType ? buttonType.borderStyle : null}
-                size={'buttonSize' in buttonType ? buttonType.buttonSize : buttonSize}
-                leftIcon={buttonType.leftIcon}
-                rightIcon={buttonType.rightIcon}
-                badge={buttonType.badge}
-                style={buttonType.style}
-                onClick={(id, evt) => {
-                  if (this.props.onClick) {
-                    return this.props.onClick(id, evt)
-                  }
-                }}
-            />
+          <Button
+            title={buttonType.type[1]}
+            color={'color' in buttonType ? buttonType.color : buttonType.type[0]}
+            state={'state' in buttonType ? buttonType.state : null}
+            borderStyle={'borderStyle' in buttonType ? buttonType.borderStyle : null}
+            size={'buttonSize' in buttonType ? buttonType.buttonSize : buttonSize}
+            leftIcon={buttonType.leftIcon}
+            rightIcon={buttonType.rightIcon}
+            badge={buttonType.badge}
+            style={buttonType.style}
+            onClick={(id, evt) => {
+              if (this.props.onClick) {
+                return this.props.onClick(id, evt)
+              }
+            }}
+          />
         );
       } else {
         // a JSX element?

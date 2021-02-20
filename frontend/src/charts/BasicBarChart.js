@@ -25,6 +25,8 @@ SOFTWARE.
 import { Component } from "react";
 
 class BasicBarChart extends Component {
+    AXIS_TYPE_TIME = 'time';
+
     constructor({ xData, xAxisType, yData, yAxisType, stack, style }) {
         super({ xData, xAxisType, yData, yAxisType, stack, style });
         this.state = {};
@@ -83,13 +85,12 @@ class BasicBarChart extends Component {
             series = [],
             allDates = new Set();
 
-        for (let [x, y] of FIXME) {
+        for (let [dataName, dataItem] of this.props.data) {
             series.push({
-                name: ageRange,
-                type: this.__mode === 'percentiles' ? 'line' : 'bar',
-                areaStyle: this.__mode === 'percentiles' ? {} : null,
-                stack: 'one',
-                data: data[ageRange],
+                name: dataName,
+                type: 'bar',
+                stack: this.props.stack,
+                data: dataItem,
                 symbol: 'roundRect',
                 step: false,
             });
@@ -117,11 +118,11 @@ class BasicBarChart extends Component {
                     containLabel: true
                 },
                 xAxis: {
-                    type: 'time', // CHECK ME!
+                    type: this.props.xAxisType,
                     boundaryGap: false
                 },
                 yAxis: {
-                    type: 'value'
+                    type: this.props.yAxisType
                 },
                 series: series
             }

@@ -24,7 +24,9 @@ SOFTWARE.
 
 import { Component } from "react";
 import Button from "./Button";
-
+import FlexColumn from "../../layout/flexbox/FlexColumn";
+import FlexColumns from "../../layout/flexbox/FlexColumns";
+import FlexContainer from "../../layout/flexbox/FlexContainer";
 
 class DialogButtons extends Component {
   static ALIGN = {
@@ -101,51 +103,76 @@ class DialogButtons extends Component {
     let buttonSize = ('buttonSize' in this.props && this.props.buttonSize != null) ?
         this.props.buttonSize : Button.SIZE.DEFAULT;
 
+    let xx = 0
     for (let buttonType of this.props.buttonTypes) {
+      let nextItemSeparator = this.props.buttonTypes[xx+1] == null;
+
       if (buttonType == null) {
-        // TODO: Insert a separator!!
+        // A special case (separator) which
+        // adds a margin to the right hand side
       } else if (this.__isArray(buttonType)) {
         // icon??
         buttons.push(
-          <Button
-            color={buttonType[0]}
-            title={buttonType[1]}
-            size={buttonSize}
-            onClick={(id, evt) => {
-              if (this.props.onClick) {
-                return this.props.onClick(id, evt)
-              }
-            }}
-          />
+          <FlexColumn margin={
+            nextItemSeparator ?
+                FlexColumn.MARGIN.RIGHT : FlexColumn.MARGIN.NONE
+          }>
+            <Button
+              color={buttonType[0]}
+              title={buttonType[1]}
+              size={buttonSize}
+              onClick={(id, evt) => {
+                if (this.props.onClick) {
+                  return this.props.onClick(id, evt)
+                }
+              }}
+            />
+          </FlexColumn>
         );
       } else if (this.__isLiteralObject(buttonType)) {
         // {type: [type], ...} format
         buttons.push(
-          <Button
-            title={buttonType.type[1]}
-            color={'color' in buttonType ? buttonType.color : buttonType.type[0]}
-            state={'state' in buttonType ? buttonType.state : null}
-            borderStyle={'borderStyle' in buttonType ? buttonType.borderStyle : null}
-            size={'buttonSize' in buttonType ? buttonType.buttonSize : buttonSize}
-            leftIcon={buttonType.leftIcon}
-            rightIcon={buttonType.rightIcon}
-            badge={buttonType.badge}
-            style={buttonType.style}
-            onClick={(id, evt) => {
-              if (this.props.onClick) {
-                return this.props.onClick(id, evt)
-              }
-            }}
-          />
+          <FlexColumn margin={
+            nextItemSeparator ?
+                FlexColumn.MARGIN.RIGHT : FlexColumn.MARGIN.NONE
+          }>
+            <Button
+              title={buttonType.type[1]}
+              color={'color' in buttonType ? buttonType.color : buttonType.type[0]}
+              state={'state' in buttonType ? buttonType.state : null}
+              borderStyle={'borderStyle' in buttonType ? buttonType.borderStyle : null}
+              size={'buttonSize' in buttonType ? buttonType.buttonSize : buttonSize}
+              leftIcon={buttonType.leftIcon}
+              rightIcon={buttonType.rightIcon}
+              badge={buttonType.badge}
+              style={buttonType.style}
+              onClick={(id, evt) => {
+                if (this.props.onClick) {
+                  return this.props.onClick(id, evt)
+                }
+              }}
+            />
+          </FlexColumn>
         );
       } else {
         // a JSX element?
-        buttons.push(buttonType);
+        buttons.push(
+          <FlexColumn margin={
+            nextItemSeparator ?
+                FlexColumn.MARGIN.RIGHT : FlexColumn.MARGIN.NONE
+          }>
+            { buttonType }
+          </FlexColumn>
+        );
       }
+
+      xx += 1;
     }
-    return <FIXME>
-      { buttons }
-    </FIXME>;
+    return <FlexContainer>
+      <FlexColumns>
+        { buttons }
+      </FlexColumns>
+    </FlexContainer>;
   }
 
   __isArray(a) {

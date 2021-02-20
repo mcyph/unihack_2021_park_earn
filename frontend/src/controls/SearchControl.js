@@ -1,3 +1,4 @@
+
 /**
 This file is licensed under the MIT license
 
@@ -24,29 +25,23 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class NavbarSection extends Component {
-  static MODE = {
-    NAVBAR_SECTION: 'navbar-section',
-    NAVBAR_CENTER: 'navbar-center'
-  };
-
-  /**
-   *
-   * @param style
-   * @param children
-   */
-  constructor({ style, children }) {
-    super({ style, children });
+class SearchControl extends Component {
+  constructor({ placeholderText }) {
+    super({ placeholderText });
   }
 
   render() {
     return <>
-      <section className={ this.props.mode || NavbarSection.MODE.NAVBAR_SECTION }
-               style={this.props.style}>
-        { this.props.children }
-      </section>
-    </>;
+      <div className="input-group input-inline">
+        <input className="form-input"
+               type="text"
+               placeholder={ this.props.placeholderText || "search" } />
+        <button className="btn btn-primary input-group-btn">
+          Search
+        </button>
+      </div>
+    </>
   }
 }
 
-export default NavbarSection;
+export default SearchControl;

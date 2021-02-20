@@ -21,3 +21,47 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
+
+import { Component } from "react";
+import EChartsChart from "./EChartsChart";
+
+class BasicPieChart extends Component {
+  constructor(props) {
+    super(props);
+  }
+
+  render() {
+    let option = {
+      title: {
+        text: this.props.title,
+        subtext: this.props.subtitle,
+        left: 'center'
+      },
+      tooltip: {
+        trigger: 'item'
+      },
+      legend: {
+        orient: 'vertical',
+        left: 'left',
+      },
+      series: [
+        {
+          type: 'pie',
+          radius: '50%',
+          data: this.props.data,
+          emphasis: {
+            itemStyle: {
+              shadowBlur: 10,
+              shadowOffsetX: 0,
+              shadowColor: 'rgba(0, 0, 0, 0.5)'
+            }
+          }
+        }
+      ]
+    };
+    return <EChartsChart options={option}
+                         style={this.props.style} />
+  }
+}
+
+export default BasicPieChart;

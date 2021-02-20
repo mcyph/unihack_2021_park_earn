@@ -25,48 +25,20 @@ SOFTWARE.
 import { Component } from "react";
 
 class Navbar extends Component {
-  constructor({  }) {
-    super({  });
+  /**
+   * 
+   * @param style
+   * @param children
+   */
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
     return <>
-      <header className="navbar">
-        <section className="navbar-section">
-          <a href="..."
-             className="navbar-brand mr-2">Spectre.css</a>
-          <a href="..."
-             className="btn btn-link">Docs</a>
-          <a href="..."
-             className="btn btn-link">GitHub</a>
-        </section>
-        <section className="navbar-section">
-          <div className="input-group input-inline">
-            <input className="form-input"
-                   type="text"
-                   placeholder="search" />
-            <button className="btn btn-primary input-group-btn">
-              Search
-            </button>
-          </div>
-        </section>
-      </header>
-      <header className="navbar">
-        <section className="navbar-section">
-          <a href="#"
-             className="btn btn-link">Docs</a>
-          <a href="#"
-             className="btn btn-link">Examples</a>
-        </section>
-        <section className="navbar-center">
-          {/* centered logo or brand */}
-        </section>
-        <section className="navbar-section">
-          <a href="#"
-             className="btn btn-link">Twitter</a>
-          <a href="#"
-             className="btn btn-link">GitHub</a>
-        </section>
+      <header className="navbar"
+              style={ this.props.style }>
+        { this.props.children }
       </header>
     </>;
   }

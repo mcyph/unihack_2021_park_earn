@@ -40,9 +40,15 @@ class BreadcrumbItem extends Component {
 
   render() {
     if (this.props.link) {
-      return <li className="breadcrumb-item"><a href={this.props.link}>{this.props.title}</a></li>;
+      return <li className="breadcrumb-item">
+        <a href={this.props.link}>
+          {this.props.title}
+        </a>
+      </li>;
     } else {
-      return <li className="breadcrumb-item">{this.props.link}</li>;
+      return <li className="breadcrumb-item">
+        {this.props.link}
+      </li>;
     }
   }
 }

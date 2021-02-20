@@ -27,7 +27,7 @@ import { Component } from "react";
 class Hero extends Component {
   static SIZE = {
     DEFAULT: '',
-    MEDIUM: '',
+    MEDIUM: '',  // medium is the default
     SMALL: 'hero-sm',
     LARGE: 'hero-lg'
   }

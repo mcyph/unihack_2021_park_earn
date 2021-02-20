@@ -20,113 +20,88 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
- */
+*/
 
 import { Component } from "react";
 
 class BasicLineChart extends Component {
-    constructor({ xData, xAxisType, yData, yAxisType, stack, style }) {
-        super({ xData, xAxisType, yData, yAxisType, stack, style });
-        this.state = {};
+  constructor({ xData, xAxisType, yData, yAxisType, stack, style }) {
+    super({ xData, xAxisType, yData, yAxisType, stack, style });
+    this.state = {};
+  }
+
+  /*******************************************************************
+   * HTML Rendering
+   *******************************************************************/
+
+  render() {
+    return (
+        <div>
+          <ReactEchartsCore
+              theme={cm.getEChartsTheme()}
+              echarts={echarts}
+              ref={el => {this.reactEChart = el}}
+              option={this.__getOption()}
+              style={{
+                height: "50vh",
+                marginTop: '25px'
+              }}
+          />
+        </div>
+    );
+  }
+
+  /*******************************************************************
+   * Get chart data
+   *******************************************************************/
+
+  __getOption() {
+    let series = [];
+
+    for (let [dataName, dataItem] of this.props.data) {
+      series.push({
+        name: dataName,
+        type: 'line',
+        areaStyle: this.props.filled ? {} : null,
+        stack: this.props.stack,
+        data: dataItem,
+        symbol: 'roundRect',
+        step: false,
+      });
     }
 
-    /*******************************************************************
-     * HTML Rendering
-     *******************************************************************/
+    this.setState({
+      option: {
+        legend: {
 
-    render() {
-        if (!this.state.option) {
-            return null;
-        }
-
-        return (
-            <div>
-                <ReactEchartsCore
-                    theme={cm.getEChartsTheme()}
-                    echarts={echarts}
-                    ref={el => {this.reactEChart = el}}
-                    option={this.state.option}
-                    style={{
-                        height: "50vh",
-                        marginTop: '25px'
-                    }}
-                />
-            </div>
-        );
-    }
-
-    /*******************************************************************
-     * Re-render methods
-     *******************************************************************/
-
-    setMode(mode) {
-        this.__mode = mode;
-        this.__updateSeriesData()
-    }
-
-    setCasesInst(casesData, regionType) {
-        this.__casesData = casesData;
-        this.__regionType = regionType;
-        this.__updateSeriesData()
-    }
-
-    /*******************************************************************
-     * Get chart data
-     *******************************************************************/
-
-    __updateSeriesData() {
-        if (!this.__casesData) {
-            return;
-        }
-
-        let data = {},
-            series = [],
-            allDates = new Set();
-
-        for (let [x, y] of FIXME) {
-            series.push({
-                name: ageRange,
-                type: this.__mode === 'percentiles' ? 'line' : 'bar',
-                areaStyle: this.__mode === 'percentiles' ? {} : null,
-                stack: 'one',
-                data: data[ageRange],
-                symbol: 'roundRect',
-                step: false,
-            });
-        }
-
-        this.setState({
-            option: {
-                legend: {
-
-                },
-                tooltip: {
-                    trigger: 'axis',
-                    axisPointer: {
-                        type: 'cross',
-                        label: {
-                            backgroundColor: '#6a7985'
-                        }
-                    }
-                },
-                grid: {
-                    top: 50,
-                    left: '3%',
-                    right: '4%',
-                    bottom: 50,
-                    containLabel: true
-                },
-                xAxis: {
-                    type: 'time', // CHECK ME!
-                    boundaryGap: false
-                },
-                yAxis: {
-                    type: 'value'
-                },
-                series: series
+        },
+        tooltip: {
+          trigger: 'axis',
+          axisPointer: {
+            type: 'cross',
+            label: {
+              backgroundColor: '#6a7985'
             }
-        });
-    }
+          }
+        },
+        grid: {
+          top: 50,
+          left: '3%',
+          right: '4%',
+          bottom: 50,
+          containLabel: true
+        },
+        xAxis: {
+          type: this.props.xAxisType,
+          boundaryGap: false
+        },
+        yAxis: {
+          type: this.props.yAxisType
+        },
+        series: series
+      }
+    });
+  }
 }
 
 export default BasicLineChart;

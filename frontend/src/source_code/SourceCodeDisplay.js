@@ -27,25 +27,25 @@ import { render } from 'react-dom';
 import MonacoEditor from 'react-monaco-editor';
 
 class SourceCodeDisplay extends Component {
-  constructor({ width, height, language }) {
-    super({  });
+  constructor({ width, height, language, code }) {
+    super({ width, height, language, code });
   }
 
   render() {
-    const code = this.state.code;
     const options = {
       selectOnLineNumbers: true
     };
+
     return (
       <MonacoEditor
         width={ this.props.width || 800 }
         height={ this.props.height || 600 }
         language={ this.props.language || "javascript" }
-        theme={ FIXME ? "vs-dark" : "vs-light" }
-        value={code}
-        options={options}
-        onChange={::this.onChange}
-        editorDidMount={::this.editorDidMount}
+        theme={ false ? "vs-dark" : "vs-light" }
+        value={ this.props.code }
+        options={ options }
+        onChange={ this.onChange.bind(this) }
+        editorDidMount={ this.editorDidMount.bind(this) }
       />
     );
   }

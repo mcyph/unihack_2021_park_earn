@@ -30,27 +30,15 @@ class Tabs extends Component {
    * @param items
    * @param block whether to render as block+expand to full width
    */
-  constructor({ items, block }) {
-    super({ items, block });
+  constructor({ block, style, children }) {
+    super({ block, style, children });
   }
 
   render() {
-    let listItems = [];
-    for (let item of this.props.items) {
-      listItems.push(
-          <li className={ item['active'] ? 'tabs-item active' : 'tabs-item' }>
-            <a href={ item['href'] }>
-              { item['leftButton'] || '' }
-              { item['icon'] || '' }
-              { item['name'] || '' }
-              { item['rightButton'] || '' }
-            </a>
-          </li>
-      );
-    }
     return (
-      <ul className={ this.props.block ? "tabs tabs-block" : "tab" }>
-        { listItems }
+      <ul className={ this.props.block ? "tabs tabs-block" : "tab" }
+          style={ this.props.style }>
+        { this.props.children }
       </ul>
     );
   }

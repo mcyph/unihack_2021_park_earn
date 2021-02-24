@@ -32,23 +32,31 @@ class StepItem extends Component {
    * @param href
    * @param onClick
    */
-  constructor({ name, active, href, onClick }) {
-    super({ name, active, href, onClick });
+  constructor({ active, href, onClick, style, children }) {
+    super({ active, href, onClick, style, children });
   }
 
   render() {
     let spread = {};
-    if (this.props.href)
+    if (this.props.href) {
       spread['href'] = this.props.href;
-    if (this.props.onClick)
+    }
+    if (this.props.onClick) {
       spread['onClick'] = this.props.onClick;
+    }
 
     return (
-      <li className={ this.props.active ? "step-item active" : "step-item" }>
+      <li className={
+            this.props.active ?
+              "step-item active" : "step-item"
+          }
+          style={ this.props.style }>
         <a className="tooltip"
            data-tooltip={ this.props.name }
            {...spread}
-        >{ this.props.name }</a>
+        >
+          { this.props.children }
+        </a>
       </li>
     );
   }

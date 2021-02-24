@@ -25,11 +25,6 @@ SOFTWARE.
 import { Component } from "react";
 
 class TabItem extends Component {
-  /**
-   *
-   * @param items
-   * @param block whether to render as block+expand to full width
-   */
   constructor({ name, icon, href, onClick, leftButton, rightButton, active }) {
     super({ name, icon, href, onClick, leftButton, rightButton, active });
   }
@@ -48,21 +43,4 @@ class TabItem extends Component {
   }
 }
 
-class TabItemButton extends Component {
-  constructor({ buttonType }) {
-    super({ buttonType });
-    if (!new Set(['clear']).has(buttonType)) {
-      throw new Error("Invalid tabs item button type: "+buttonType);
-    }
-  }
-
-  render() {
-    // OPEN ISSUE: Make content more restrictive??
-    // class="badge" data-badge="9">
-    return (
-      <span className={`btn btn-${this.props.buttonType}`} />
-    );
-  }
-}
-
-export default Tabs;
+export default TabItem;

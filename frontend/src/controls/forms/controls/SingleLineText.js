@@ -27,8 +27,8 @@ import Form from "../Form";
 import utility from "../__utility";
 
 class SingleLineText extends Component {
-  constructor({ name, value, placeholder, onChange, validator, style }) {
-    super({ name, value, placeholder, onChange, validator, style });
+  constructor({ name, value, onChange, placeholder, validator, style }) {
+    super({ name, value, onChange, placeholder, validator, style });
   }
 
   render() {

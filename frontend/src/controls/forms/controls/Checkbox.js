@@ -36,8 +36,8 @@ class Checkbox extends Component {
    * @param style
    * @param children
    */
-  constructor({ value, onChange, inline, name, style, children }) {
-    super({ value, onChange, inline, name, style, children });
+  constructor({ name, value, onChange, inline, validator, style, children }) {
+    super({ name, value, onChange, inline, validator, style, children });
   }
 
   render() {

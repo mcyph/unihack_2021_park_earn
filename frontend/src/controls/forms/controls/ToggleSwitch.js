@@ -34,8 +34,8 @@ class ToggleSwitch extends Component {
    * @param style
    * @param children
    */
-  constructor({ name, value, onChange, inline, style, children }) {
-    super({ name, value, onChange, inline, style, children });
+  constructor({ name, value, onChange, inline, validator, style, children }) {
+    super({ name, value, onChange, inline, validator, style, children });
   }
 
   render() {

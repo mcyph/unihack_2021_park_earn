@@ -46,22 +46,18 @@ class Checkbox extends Component {
 
   render() {
     return <Form.FormContext.Consumer>{ context => {
-
       let value = utility.getValue(context, this.props.value);
-
       return <>
         <label className={ this.props.inline ? "form-checkbox form-inline"
                                              : "form-checkbox" }>
-          <input
-            name={ this.props.name }
-            ref={el => {this.__checkbox = el;}}
-            type="checkbox"
-            onChange={() => {
-              utility.onChange(context, this.props.onChange, this.props.name,
-                  !!this.__checkbox.checked);
-            }}
-            { ...(value ? {checked: "checked"} : {}) }
-          />
+          <input type="checkbox"
+                 name={ this.props.name }
+                 { ...(value ? {checked: "checked"} : {}) }
+                 ref={el => {this.__checkbox = el;}}
+                 onChange={() => {
+                   utility.onChange(context, this.props.onChange, this.props.name,
+                       !!this.__checkbox.checked);
+                 }}/>
           <i className="form-icon"/>
           { this.props.children && this.props.children }
         </label>

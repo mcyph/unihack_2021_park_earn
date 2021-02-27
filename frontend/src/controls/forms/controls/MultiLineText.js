@@ -61,9 +61,9 @@ class MultiLineText extends Component {
                </label>
            }
            <textarea className="form-input"
-                     ref={ el => {this.__textarea = el;} }
                      name={ this.props.name }
                      id={ "__mlt_" + this.__id }
+                     ref={ el => {this.__textarea = el;} }
                      placeholder={ this.props.placeholder }
                      rows={ this.props.rows }
                      onChange={() => {

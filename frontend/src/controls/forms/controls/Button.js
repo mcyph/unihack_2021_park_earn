@@ -138,17 +138,17 @@ class Button extends Component {
     }
 
     return <>
-      <button { ...(this.props.badge ?
-                {"data-badge": this.props.badge} : {}) }
+      <button type={ this.props.type }
+              className={ className }
               name={ this.props.name }
               value={ this.props.value }
+              { ...(this.props.badge ?
+                {"data-badge": this.props.badge} : {}) }
               onClick={evt => {
                 if (this.props.onClick) {
                   return this.props.onClick(evt);
                 }
               }}
-              type={ this.props.type }
-              className={ className }
               style={ this.props.style }>
         { this.props.leftIcon || '' }
         { this.props.children }

@@ -71,8 +71,8 @@ class Select extends Component {
       return <>
         <select className={ this.props.inline ? "form-select form-inline"
                                               : "form-select" }
-                ref={ el => {this.__select = el;} }
                 name={ this.props.name }
+                ref={ el => {this.__select = el;} }
                 onChange={() => {
                   utility.onChange(context, this.props.onChange, this.props.name,
                       this.__select.options[this.__select.selectedIndex].value);

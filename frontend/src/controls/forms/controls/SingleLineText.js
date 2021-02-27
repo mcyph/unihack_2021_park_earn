@@ -52,24 +52,22 @@ class SingleLineText extends Component {
       let value = utility.getValue(form, this.props.value);
 
       let r = <>
-        <input
-          ref={ el => {this.__text = el;} }
-          name={ this.props.name }
-          className="form-input"
-          id={ "__slt_"+this.__id }
-          type="text"
-          onChange={() => {
-            utility.onChange(form, this.props.onChange, this.props.name,
-                  this.__text.value);
+        <input type="text"
+               className="form-input"
+               name={ this.props.name }
+               value={ value || "" }
+               id={ "__slt_"+this.__id }
+               ref={ el => {this.__text = el;} }
+               onChange={() => {
+                 utility.onChange(form, this.props.onChange, this.props.name,
+                   this.__text.value);
 
-            if (this.props.validator) {
-              // TODO!!!!
-            }
-          }}
-          value={ value || "" }
-          placeholder={ this.props.placeholder || "" }
-          style={ this.props.style }
-        />
+                 if (this.props.validator) {
+                   // TODO!!!!
+                 }
+               }}
+               placeholder={ this.props.placeholder || "" }
+               style={ this.props.style }/>
       </>;
 
       let hasValidator = utility.hasValidator(form, this.props.validator, this.props.name);
@@ -81,7 +79,6 @@ class SingleLineText extends Component {
             value);
 
         if (hasValidator) {
-          //validateMessage = null; // FIXME!!
           if (validateMessage) {
             cls += " has-error";
           } else if (!validateMessage && this.props.indicateSuccess) {

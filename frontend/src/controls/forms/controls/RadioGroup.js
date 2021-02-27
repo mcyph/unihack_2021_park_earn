@@ -81,12 +81,11 @@ class RadioGroup extends React.Component {
                  style={ this.style }>
             <input type="radio"
                    name={ this.props.name }
-                   value={ value }
+                   { ...(value === selectedValue ? {checked: true} : {}) }
                    onClick={() => {
                      return utility.onChange(form, this.props.onChange, this.props.name,
                          value);
-                   }}
-                   { ...(value === selectedValue ? {checked: true} : {}) } />
+                   }}/>
             <i className="form-icon" /> { text }
           </label>
         </>);

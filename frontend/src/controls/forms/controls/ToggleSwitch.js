@@ -47,10 +47,10 @@ class ToggleSwitch extends Component {
       return <>
         <label className={ this.props.inline ? "form-inline"
                                              : "form-switch" }>
-          <input name={ this.props.name }
+          <input type="checkbox"
+                 name={ this.props.name }
                  { ...(value ? {checked: "checked"} : {}) }
                  ref={el => {this.__checkbox = el;}}
-                 type="checkbox"
                  onChange={() => {
                    utility.onChange(context, this.props.onChange, this.props.name,
                      !!this.__checkbox.checked);

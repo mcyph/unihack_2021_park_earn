@@ -30,14 +30,18 @@ import utility from "../__utility";
 class Checkbox extends Component {
   /**
    *
+   * @param name
    * @param value
    * @param onChange
    * @param inline
+   * @param validator
    * @param style
    * @param children
    */
-  constructor({ name, value, onChange, inline, validator, style, children }) {
-    super({ name, value, onChange, inline, validator, style, children });
+  constructor({ name, value, onChange,
+                inline, validator, style, children }) {
+    super({ name, value, onChange,
+            inline, validator, style, children });
   }
 
   render() {

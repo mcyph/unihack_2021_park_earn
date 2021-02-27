@@ -34,8 +34,10 @@ class ToggleSwitch extends Component {
    * @param style
    * @param children
    */
-  constructor({ name, value, onChange, inline, validator, style, children }) {
-    super({ name, value, onChange, inline, validator, style, children });
+  constructor({ name, value, onChange,
+                inline, validator, style, children }) {
+    super({ name, value, onChange,
+            inline, validator, style, children });
   }
 
   render() {
@@ -45,16 +47,14 @@ class ToggleSwitch extends Component {
       return <>
         <label className={ this.props.inline ? "form-inline"
                                              : "form-switch" }>
-          <input
-            name={ this.props.name }
-            { ...(value ? {checked: "checked"} : {}) }
-            ref={el => {this.__checkbox = el;}}
-            type="checkbox"
-            onChange={() => {
-              utility.onChange(context, this.props.onChange, this.props.name,
-                  !!this.__checkbox.checked);
-            }}
-          />
+          <input name={ this.props.name }
+                 { ...(value ? {checked: "checked"} : {}) }
+                 ref={el => {this.__checkbox = el;}}
+                 type="checkbox"
+                 onChange={() => {
+                   utility.onChange(context, this.props.onChange, this.props.name,
+                     !!this.__checkbox.checked);
+                 }}/>
           <i className="form-icon" />
           { this.props.children && this.props.children }
         </label>

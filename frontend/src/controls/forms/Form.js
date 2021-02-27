@@ -53,10 +53,26 @@ class Form extends Component {
   static string = Joi.string.bind(Joi);
   static symbol = Joi.string.bind(Joi);
 
-  constructor({ values, validators, onChange, onSubmit, disabled, autocomplete, action, method, style }) {
+  /**
+   *
+   * @param action
+   * @param method
+   * @param values
+   * @param onChange
+   * @param onSubmit
+   * @param disabled
+   * @param autocomplete
+   * @param validators
+   * @param style
+   */
+  constructor({ action, method, values, onChange, onSubmit,
+                disabled, autocomplete, validators, style }) {
+
     autocomplete = autocomplete || false;
     method = method || 'get';
-    super({ values, validators, onChange, onSubmit, disabled, autocomplete, action, method, style });
+
+    super({ action, method, values, onChange, onSubmit,
+            disabled, autocomplete, validators, style });
     this.__values = { ...values };
   }
 

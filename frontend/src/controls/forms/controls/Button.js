@@ -62,6 +62,8 @@ class Button extends Component {
   /**
    * A clickable button (or link-like button).
    *
+   * @param name
+   * @param value
    * @param onClick a callback for when clicked/tapped
    * @param size one of:
    *        * `Button.SIZE.DEFAULT`

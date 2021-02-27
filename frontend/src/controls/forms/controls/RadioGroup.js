@@ -32,12 +32,16 @@ let __NAME_ID = 0;
 class RadioGroup extends React.Component {
   /**
    *
-   * @param options
-   * @param selectedOption
    * @param name
+   * @param options
+   * @param value
+   * @param onChange
+   * @param inline
+   * @param validator
    * @param style
    */
-  constructor({ name, options, value, onChange, inline, validator, style }) {
+  constructor({ name, options, value, onChange,
+                inline, validator, style }) {
     if (typeof value === "string") {
       value = options.indexOf(value);
     }
@@ -47,7 +51,8 @@ class RadioGroup extends React.Component {
     if (!name) {
       name = '__radio_'+__NAME_ID++;
     }
-    super({ name, options, value, onChange, inline, validator, style });
+    super({ name, options, value, onChange,
+            inline, validator, style });
   }
 
   render=()=> {

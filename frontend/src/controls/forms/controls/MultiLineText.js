@@ -29,8 +29,21 @@ import utility from "../__utility";
 let __ID = 0;
 
 class MultiLineText extends Component {
-  constructor({ name, value, onChange, placeholder, label, rows, validator, style }) {
-    super({ name, value, onChange, placeholder, label, rows, validator, style });
+  /**
+   *
+   * @param name
+   * @param value
+   * @param onChange
+   * @param placeholder
+   * @param label
+   * @param rows
+   * @param validator
+   * @param style
+   */
+  constructor({ name, value, onChange,
+                placeholder, label, rows, validator, style }) {
+    super({ name, value, onChange,
+            placeholder, label, rows, validator, style });
     this.__id = __ID++;
   }
 

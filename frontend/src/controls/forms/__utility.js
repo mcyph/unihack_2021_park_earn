@@ -45,6 +45,16 @@ let utility = {
                   && form.__getValidatorFromChild(name)) {
       return form.__getValidatorFromChild(name).validate(value);
     }
+  },
+  hasValidator: (form, localValidate, name)=> {
+    if (localValidate) {
+      return true;
+    }
+    else if (form && form.__getValidatorFromChild
+                  && form.__getValidatorFromChild(name)) {
+      return true;
+    }
+    return false;
   }
 };
 

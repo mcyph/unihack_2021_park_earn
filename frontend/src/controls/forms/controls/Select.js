@@ -27,8 +27,20 @@ import Form from "../Form";
 import utility from "../__utility";
 
 class Select extends Component {
-  constructor({ name, options, value, onChange, inline, validator, style }) {
-    super({ name, options, value, onChange, inline, validator, style });
+  /**
+   *
+   * @param name
+   * @param options
+   * @param value
+   * @param onChange
+   * @param inline
+   * @param validator
+   * @param style
+   */
+  constructor({ name, options, value, onChange,
+                inline, validator, style }) {
+    super({ name, options, value, onChange,
+            inline, validator, style });
   }
 
   render() {

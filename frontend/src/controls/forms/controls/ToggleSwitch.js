@@ -34,8 +34,8 @@ class ToggleSwitch extends Component {
    * @param style
    * @param children
    */
-  constructor({ value, onChange, inline, name, style, children }) {
-    super({ value, onChange, inline, name, style, children });
+  constructor({ name, value, onChange, inline, style, children }) {
+    super({ name, value, onChange, inline, style, children });
   }
 
   render() {
@@ -51,7 +51,7 @@ class ToggleSwitch extends Component {
             ref={el => {this.__checkbox = el;}}
             type="checkbox"
             onChange={() => {
-              utility.onChange(context, this.props.onChange,
+              utility.onChange(context, this.props.onChange, this.props.name,
                   !!this.__checkbox.checked);
             }}
           />

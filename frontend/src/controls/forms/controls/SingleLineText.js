@@ -27,8 +27,8 @@ import Form from "../Form";
 import utility from "../__utility";
 
 class SingleLineText extends Component {
-  constructor({ value, placeholder, onChange, validator, name, style }) {
-    super({ value, placeholder, onChange, validator, name, style });
+  constructor({ name, value, placeholder, onChange, validator, style }) {
+    super({ name, value, placeholder, onChange, validator, style });
   }
 
   render() {
@@ -42,7 +42,7 @@ class SingleLineText extends Component {
           className="form-input"
           type="text"
           onChange={() => {
-            utility.onChange(context, this.props.onChange,
+            utility.onChange(context, this.props.onChange, this.props.name,
                   this.__text.value);
 
             if (this.props.validator) {

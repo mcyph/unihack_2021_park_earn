@@ -37,17 +37,17 @@ class RadioGroup extends React.Component {
    * @param name
    * @param style
    */
-  constructor({ options, selectedOption, onChange, inline, name, style }) {
-    if (typeof selectedOption === "string") {
-      selectedOption = options.indexOf(selectedOption);
+  constructor({ name, options, value, onChange, inline, style }) {
+    if (typeof value === "string") {
+      value = options.indexOf(value);
     }
-    if (selectedOption == null || selectedOption === -1) {
-      selectedOption = 0;
+    if (value == null || value === -1) {
+      value = 0;
     }
     if (!name) {
       name = '__radio_'+__NAME_ID++;
     }
-    super({ options, selectedOption, onChange, inline, name, style });
+    super({ name, options, value, onChange, inline, style });
   }
 
   render=()=> {
@@ -78,7 +78,8 @@ class RadioGroup extends React.Component {
                    name={ this.props.name }
                    value={ value }
                    onClick={() => {
-                     return utility.onChange(form, this.props.onChange, this.props.name, value);
+                     return utility.onChange(form, this.props.onChange, this.props.name,
+                         value);
                    }}
                    { ...(value === selectedValue ? {checked: true} : {}) } />
             <i className="form-icon" /> { text }

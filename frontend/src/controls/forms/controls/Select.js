@@ -27,8 +27,8 @@ import Form from "../Form";
 import utility from "../__utility";
 
 class Select extends Component {
-  constructor({ options, value, onChange, inline, name, style }) {
-    super({ options, value, onChange, inline, name, style });
+  constructor({ name, options, value, onChange, inline, style }) {
+    super({ name, options, value, onChange, inline, style });
   }
 
   render() {
@@ -62,7 +62,7 @@ class Select extends Component {
                 ref={ el => {this.__select = el;} }
                 name={ this.props.name }
                 onChange={() => {
-                  utility.onChange(context, this.props.onChange,
+                  utility.onChange(context, this.props.onChange, this.props.name,
                       this.__select.options[this.__select.selectedIndex].value);
                 }}
                 style={ this.style }>

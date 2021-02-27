@@ -29,14 +29,14 @@ import utility from "../__utility";
 let __ID = 0;
 
 class MultiLineText extends Component {
-  constructor({ value, placeholder, label, onChange, validator, name, style }) {
-    super({ value, placeholder, label, onChange, validator, name, style });
+  constructor({ name, value, placeholder, label, rows, onChange, validator, style }) {
+    super({ name, value, placeholder, label, rows, onChange, validator, style });
     this.__id = __ID++;
   }
 
   render() {
-     return <Form.FormContext.Consumer>{ context => {
-       let value = utility.getValue(context, this.props.value);
+     return <Form.FormContext.Consumer>{ form => {
+       let value = utility.getValue(form, this.props.value);
 
        return <>
          <div className="form-group">
@@ -48,10 +48,16 @@ class MultiLineText extends Component {
                </label>
            }
            <textarea className="form-input"
+                     ref={ el => {this.__textarea = el;} }
                      name={ this.props.name }
                      id={ "__mlt_" + this.__id }
                      placeholder={ this.props.placeholder }
-                     rows="3">{ value }</textarea>
+                     rows={ this.props.rows }
+                     onChange={() => {
+                       return utility.onChange(form, this.props.onChange, this.props.name,
+                           this.__textarea.value);
+                     }
+                     }>{ value }</textarea>
          </div>
        </>;
      } }</Form.FormContext.Consumer>;

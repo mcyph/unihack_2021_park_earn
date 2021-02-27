@@ -53,7 +53,7 @@ class Checkbox extends Component {
             ref={el => {this.__checkbox = el;}}
             type="checkbox"
             onChange={() => {
-              utility.onChange(context, this.props.onChange,
+              utility.onChange(context, this.props.onChange, this.props.name,
                   !!this.__checkbox.checked);
             }}
             { ...(value ? {checked: "checked"} : {}) }

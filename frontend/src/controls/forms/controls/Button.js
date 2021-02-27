@@ -25,17 +25,21 @@ SOFTWARE.
 import { Component } from "react";
 
 class Button extends Component {
+  // How large the font/size of buttons are
   static SIZE = {
     DEFAULT: '',
     BLOCK: 'btn-block', FULLWIDTH: 'btn-block',
     SMALL: 'btn-sm',
     LARGE: 'btn-lg'
   };
+  // Whether the button will be clickable, grayed
+  // out or with a spinning loading indicator
   static STATE = {
     ACTIVE: 1,
     DISABLED: 2,
     LOADING: 4
   };
+  // What kind of colour will be used
   static COLOR = {
     DEFAULT: '',
     PRIMARY: 'btn-primary',
@@ -47,10 +51,12 @@ class Button extends Component {
     CIRCLE: 's-circle', FAB: 's-circle',
     LINK: 'btn-link'
   };
+  // The kind of button - default is a standard BUTTON for simple click events
+  // for form purposes SUBMIT/RESET will trigger the relevant event
   static TYPE = {
+    BUTTON: 'button',
     SUBMIT: 'submit',
-    RESET: 'reset',
-    BUTTON: 'button'
+    RESET: 'reset'
   };
 
   /**
@@ -88,8 +94,8 @@ class Button extends Component {
    * @param style any additional styles to add to the form
    * @param children children nodes
    */
-  constructor({ onClick, size, state, color, borderStyle,
-                leftIcon, rightIcon, badge, type, name, style, children }) {
+  constructor({ name, value, onClick, size, state, color, borderStyle,
+                leftIcon, rightIcon, badge, type, style, children }) {
 
     size = size||Button.SIZE.DEFAULT;
     state = state||0;
@@ -98,8 +104,8 @@ class Button extends Component {
     type = type||Button.TYPE.BUTTON;
     style = style||{};
 
-    super({ onClick, size, state, color, borderStyle,
-            leftIcon, rightIcon, badge, type, name, style, children });
+    super({ name, value, onClick, size, state, color, borderStyle,
+            leftIcon, rightIcon, badge, type, style, children });
   }
 
   render() {
@@ -133,9 +139,11 @@ class Button extends Component {
       <button { ...(this.props.badge ?
                 {"data-badge": this.props.badge} : {}) }
               name={ this.props.name }
+              value={ this.props.value }
               onClick={evt => {
-                if (this.props.onClick)
+                if (this.props.onClick) {
                   return this.props.onClick(evt);
+                }
               }}
               type={ this.props.type }
               className={ className }

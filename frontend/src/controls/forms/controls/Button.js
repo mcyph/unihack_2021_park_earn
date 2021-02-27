@@ -47,11 +47,16 @@ class Button extends Component {
     CIRCLE: 's-circle', FAB: 's-circle',
     LINK: 'btn-link'
   };
+  static TYPE = {
+    SUBMIT: 'submit',
+    RESET: 'reset',
+    BUTTON: 'button'
+  };
 
   /**
+   * A clickable button (or link-like button).
    *
-   * @param title
-   * @param onClick
+   * @param onClick a callback for when clicked/tapped
    * @param size one of:
    *        * `Button.SIZE.DEFAULT`
    *        * `Button.SIZE.BLOCK`
@@ -76,15 +81,29 @@ class Button extends Component {
    * @param rightIcon same as `leftIcon` but displayed on
    *        the right hand of the child content
    * @param badge text to display as a "badge" in the bottom right
-   * @param style
+   * @param type one of:
+   *        * `Button.TYPE.BUTTON`
+   *        * `Button.TYPE.SUBMIT`
+   *        * `Button.TYPE.RESET`
+   * @param style any additional styles to add to the form
+   * @param children children nodes
    */
   constructor({ onClick, size, state, color, borderStyle,
-                leftIcon, rightIcon, badge, style, children }) {
+                leftIcon, rightIcon, badge, type, name, style, children }) {
+
+    size = size||Button.SIZE.DEFAULT;
+    state = state||0;
+    color = color||Button.COLOR.DEFAULT;
+    borderStyle = borderStyle||Button.BORDER_STYLE.SQUARE;
+    type = type||Button.TYPE.BUTTON;
+    style = style||{};
+
     super({ onClick, size, state, color, borderStyle,
-            leftIcon, rightIcon, badge, style, children });
+            leftIcon, rightIcon, badge, type, name, style, children });
   }
 
   render() {
+    // Adjust class for size, colour and border style
     let className = 'btn';
     if (this.props.size) {
       className += ' '+this.props.size;
@@ -96,6 +115,9 @@ class Button extends Component {
       className += ' '+this.props.borderStyle;
     }
 
+    // Adjust class for state:
+    // some combinations of these are possible by using e.g.
+    //  Button.STATE.LOADING | Button.STATE.ACTIVE
     let state = this.props.state || 0;
     if (state & Button.STATE.ACTIVE) {
       className += ' active';
@@ -107,23 +129,15 @@ class Button extends Component {
       className += ' loading';
     }
 
-    return this.props.badge ? <>
-      <button data-badge={ this.props.badge }
+    return <>
+      <button { ...(this.props.badge ?
+                {"data-badge": this.props.badge} : {}) }
+              name={ this.props.name }
               onClick={evt => {
                 if (this.props.onClick)
                   return this.props.onClick(evt);
               }}
-              className={ className }
-              style={ this.props.style }>
-        { this.props.leftIcon || '' }
-        { this.props.children }
-        { this.props.rightIcon || '' }
-      </button>
-    </> : <>
-      <button onClick={evt => {
-                if (this.props.onClick)
-                  return this.props.onClick(evt);
-              }}
+              type={ this.props.type }
               className={ className }
               style={ this.props.style }>
         { this.props.leftIcon || '' }

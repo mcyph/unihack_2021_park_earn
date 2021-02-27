@@ -28,8 +28,9 @@ import FlexColumn from "../../../layout/flexbox/FlexColumn";
 import FlexColumns from "../../../layout/flexbox/FlexColumns";
 import FlexContainer from "../../../layout/flexbox/FlexContainer";
 
-class InputGroup extends Component {
-
+class FormGroup extends Component {
+  constructor(props) {
+    super(props);
+  }
 }
 
-export default InputGroup;

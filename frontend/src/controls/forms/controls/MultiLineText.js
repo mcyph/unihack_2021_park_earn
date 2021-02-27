@@ -23,24 +23,39 @@ SOFTWARE.
  */
 
 import { Component } from "react";
+import Form from "../Form";
+import utility from "../__utility";
 
-class ButtonGroup extends Component {
-  /**
-   *
-   * @param style
-   * @param children
-   */
-  constructor({ style, children }) {
-    super({ style, children });
+let __ID = 0;
+
+class MultiLineText extends Component {
+  constructor({ value, placeholder, label, onChange, validator, name, style }) {
+    super({ value, placeholder, label, onChange, validator, name, style });
+    this.__id = __ID++;
   }
 
   render() {
-    return (
-      <div className="btn-group btn-group-block">
-        { this.props.children }
-      </div>
-    );
+     return <Form.FormContext.Consumer>{ context => {
+       let value = utility.getValue(context, this.props.value);
+
+       return <>
+         <div className="form-group">
+           {
+             this.props.label &&
+               <label className="form-label"
+                      htmlFor={ "__mlt_" + this.__id }>
+                 { this.props.label }
+               </label>
+           }
+           <textarea className="form-input"
+                     name={ this.props.name }
+                     id={ "__mlt_" + this.__id }
+                     placeholder={ this.props.placeholder }
+                     rows="3">{ value }</textarea>
+         </div>
+       </>;
+     } }</Form.FormContext.Consumer>;
   }
 }
 
-export default ButtonGroup;
+export default MultiLineText;

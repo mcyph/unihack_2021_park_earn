@@ -23,13 +23,24 @@ SOFTWARE.
  */
 
 import { Component } from "react";
-import Button from "./Button";
-import FlexColumn from "../../../layout/flexbox/FlexColumn";
-import FlexColumns from "../../../layout/flexbox/FlexColumns";
-import FlexContainer from "../../../layout/flexbox/FlexContainer";
 
-class InputGroup extends Component {
+class ButtonGroup extends Component {
+  /**
+   *
+   * @param style
+   * @param children
+   */
+  constructor({ style, children }) {
+    super({ style, children });
+  }
 
+  render() {
+    return <>
+      <div className="btn-group btn-group-block">
+        { this.props.children }
+      </div>
+    </>;
+  }
 }
 
-export default InputGroup;
+export default ButtonGroup;

@@ -23,13 +23,39 @@ SOFTWARE.
  */
 
 import { Component } from "react";
-import Button from "./Button";
-import FlexColumn from "../../../layout/flexbox/FlexColumn";
-import FlexColumns from "../../../layout/flexbox/FlexColumns";
-import FlexContainer from "../../../layout/flexbox/FlexContainer";
+import Form from "../Form";
+import utility from "../__utility";
 
-class InputGroup extends Component {
+class SingleLineText extends Component {
+  constructor({ value, placeholder, onChange, validator, name, style }) {
+    super({ value, placeholder, onChange, validator, name, style });
+  }
 
+  render() {
+    return <Form.FormContext.Consumer>{ context => {
+      let value = utility.getValue(context, this.props.value);
+
+      return <>
+        <input
+          ref={ el => {this.__text = el;} }
+          name={ this.props.name }
+          className="form-input"
+          type="text"
+          onChange={() => {
+            utility.onChange(context, this.props.onChange,
+                  this.__text.value);
+
+            if (this.props.validator) {
+              // TODO!!!!
+            }
+          }}
+          value={ value || "" }
+          placeholder={ this.props.placeholder || "" }
+          style={ this.props.style }
+        />
+      </>;
+    } }</Form.FormContext.Consumer>;
+  }
 }
 
-export default InputGroup;
+export default SingleLineText;

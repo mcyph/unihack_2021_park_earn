@@ -23,10 +23,10 @@ SOFTWARE.
  */
 
 import { Component } from "react";
-import Button from "./Button";
-import FlexColumn from "../../../layout/flexbox/FlexColumn";
-import FlexColumns from "../../../layout/flexbox/FlexColumns";
-import FlexContainer from "../../../layout/flexbox/FlexContainer";
+import Button from "../Button";
+import FlexColumn from "../../../../layout/flexbox/FlexColumn";
+import FlexColumns from "../../../../layout/flexbox/FlexColumns";
+import FlexContainer from "../../../../layout/flexbox/FlexContainer";
 
 class DialogButtons extends Component {
   static ALIGN = {

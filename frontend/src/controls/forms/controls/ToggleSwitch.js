@@ -23,13 +23,44 @@ SOFTWARE.
  */
 
 import { Component } from "react";
-import Button from "./Button";
-import FlexColumn from "../../../layout/flexbox/FlexColumn";
-import FlexColumns from "../../../layout/flexbox/FlexColumns";
-import FlexContainer from "../../../layout/flexbox/FlexContainer";
+import Form from "../Form";
+import utility from "../__utility";
 
-class InputGroup extends Component {
+class ToggleSwitch extends Component {
+  /**
+   *
+   * @param checked
+   * @param onChange
+   * @param style
+   * @param children
+   */
+  constructor({ value, onChange, inline, name, style, children }) {
+    super({ value, onChange, inline, name, style, children });
+  }
 
+  render() {
+    return <Form.FormContext.Consumer>{ context => {
+      let value = utility.getValue(context, this.props.value);
+
+      return <>
+        <label className={ this.props.inline ? "form-inline"
+                                             : "form-switch" }>
+          <input
+            name={ this.props.name }
+            { ...(value ? {checked: "checked"} : {}) }
+            ref={el => {this.__checkbox = el;}}
+            type="checkbox"
+            onChange={() => {
+              utility.onChange(context, this.props.onChange,
+                  !!this.__checkbox.checked);
+            }}
+          />
+          <i className="form-icon" />
+          { this.props.children && this.props.children }
+        </label>
+      </>;
+    } }</Form.FormContext.Consumer>;
+  }
 }
 
-export default InputGroup;
+export default ToggleSwitch;

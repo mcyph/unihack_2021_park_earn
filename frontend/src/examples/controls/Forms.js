@@ -8,6 +8,7 @@ import RadioGroup from "../../controls/forms/controls/options/RadioGroup";
 import Select from "../../controls/forms/controls/options/Select";
 import SingleLineText from "../../controls/forms/controls/text/SingleLineText";
 import ToggleSwitch from "../../controls/forms/controls/toggle/ToggleSwitch";
+import Slider from "../../controls/forms/controls/sliders/Slider";
 
 let Forms = ()=>{
   const [checkbox1, setCheckbox1] = useState(false);
@@ -103,6 +104,14 @@ let Forms = ()=>{
     <h3>Single Line Text</h3>
     <p>
       <SingleLineText value="my value">Single Line Text</SingleLineText>
+    </p>
+
+    <h2>Sliders</h2>
+    <h3>Slider</h3>
+    <p>
+      <Slider min={50}
+              max={100}
+              value={50} />
     </p>
   </>
 };

@@ -1,13 +1,21 @@
-import CommentEditor from "../editors/CommentEditor";
+//import CommentEditor from "../editors/CommentEditor";
 import MarkdownEditor from "../editors/MarkdownEditor";
 import SourceCodeEditor from "../editors/SourceCodeEditor";
 
-function editors() {
+function Editors() {
   return <>
-    <CommentEditor></CommentEditor>
-    <MarkdownEditor></MarkdownEditor>
-    <SourceCodeEditor></SourceCodeEditor>
+    <h2>Editors</h2>
+    <h3>Markdown Editor</h3>
+    <p>
+      <MarkdownEditor></MarkdownEditor>
+    </p>
+    <hr/>
+
+    <h3>Source Code Editor</h3>
+    <p>
+      <SourceCodeEditor></SourceCodeEditor>
+    </p>
   </>;
 }
 
-export default editors;
+export default Editors;

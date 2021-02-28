@@ -8,7 +8,8 @@ import TableFooter from "../../controls/tables_grids/table/TableFooter";
 
 let TablesGrids=()=>{
   return <>
-    <h2>Steps</h2>
+    <h2>Tables/Grids</h2>
+    <h3>Tables</h3>
     <p>
       <Table>
         <TableHeader>

@@ -9,7 +9,7 @@ import NavbarSection from "../controls/navigation/navbar/NavbarSection";
 import Visibility from "../controls/utilities/Visibility";
 import Hero from "../landing/Hero";
 
-let layout=()=>{
+let Layout=()=>{
   return <>
     <FlexContainer>
       <FlexColumns>
@@ -31,4 +31,4 @@ let layout=()=>{
   </>;
 }
 
-export default layout;
+export default Layout;

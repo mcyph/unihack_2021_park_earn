@@ -24,6 +24,7 @@ SOFTWARE.
 
 import React, { Component } from "react";
 import SimpleMDEReact from "react-simplemde-editor";
+import "easymde/dist/easymde.min.css";
 
 class MarkdownEditor extends Component {
   constructor({ toolbar, autoSave, spellCheck, language, readOnly, onChange }) {

@@ -1,5 +1,5 @@
-let map=()=>{
-
+let Map=()=>{
+  return null;
 }
 
-export default map;
+export default Map;

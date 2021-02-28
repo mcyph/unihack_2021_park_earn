@@ -1,5 +1,5 @@
-function gamification() {
-
+function Gamification() {
+  return null;
 }
 
-export default gamification;
+export default Gamification;

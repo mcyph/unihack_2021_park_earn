@@ -3,21 +3,25 @@ import MediaURLPlayer from "../previews/MediaURLPlayer";
 import SourceCodeDisplay from "../previews/SourceCodeDisplay";
 import WikiPreview from "../previews/WikiPreview";
 
-function previews() {
+function Previews() {
   return <>
     <h2>Markup Rendering</h2>
     <h3>Markdown Content</h3>
-    <MarkdownContent>
-      *Markdown content* works **inline**!
-    </MarkdownContent>
+    <blockquote>
+      <MarkdownContent>
+        Hello, `world`!!
+
+        *Markdown content* works **inline**!
+      </MarkdownContent>
+    </blockquote>
     <hr/>
 
     <h3>Source Code Display</h3>
     <SourceCodeDisplay
         language="python"
-        code="print('Hello World!')"
+        code={ "#!/usr/bin/python3\n\nprint('Hello World!')" }
     />
   </>;
 }
 
-export default previews;
+export default Previews;

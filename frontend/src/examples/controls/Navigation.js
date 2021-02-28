@@ -15,13 +15,15 @@ let Navigation=()=>{
         <BreadcrumbItem>Active Item</BreadcrumbItem>
       </Breadcrumbs>
     </p>
+    <hr/>
 
     {/*<h3>Navigation Tree</h3>
     <p>
       <NavTree>
         <NavTreeItem>blah</NavTreeItem>
       </NavTree>
-    </p>*/}
+    </p>
+    <hr/>*/}
 
     <h3>Navigation Bar</h3>
     <Navbar>

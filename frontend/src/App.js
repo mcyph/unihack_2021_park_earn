@@ -9,7 +9,6 @@ import Containers from "./examples/controls/Containers";
 import Forms from "./examples/controls/Forms";
 import Progress from "./examples/controls/Progress";
 import Navigation from "./examples/controls/Navigation";
-import Sliders from "./examples/controls/Sliders";
 import Steps from "./examples/controls/Steps";
 import Floating from "./examples/controls/Floating";
 import Tabs from "./examples/controls/Tabs";
@@ -19,7 +18,7 @@ import Menus from "./examples/controls/Menus";
 import TablesGrids from "./examples/controls/TablesGrids";
 import Utilities from "./examples/controls/Utilities";
 
-import Charts from "./examples/Charts";
+/*import Charts from "./examples/Charts";*/
 import Editors from "./examples/Editors";
 import Gamification from "./examples/Gamification";
 import Landing from "./examples/Landing";
@@ -43,13 +42,12 @@ let MyNav=()=>{
         <li><Link to="/menus">Menus</Link></li>
         <li><Link to="/navigation">Navigation</Link></li>
         <li><Link to="/progress">Progress</Link></li>
-        <li><Link to="/sliders">Sliders</Link></li>
         <li><Link to="/steps">Steps</Link></li>
         <li><Link to="/tables_grids">TablesGrids</Link></li>
         <li><Link to="/tabs">Tabs</Link></li>
         <li><Link to="/utilities">Utilities</Link></li>
 
-        <li><Link to="/charts">Charts</Link></li>
+        {/*<li><Link to="/charts">Charts</Link></li>*/}
         <li><Link to="/editors">Editors</Link></li>
         <li><Link to="/gamification">Gamification</Link></li>
         <li><Link to="/landing">Landing Pages</Link></li>
@@ -86,18 +84,17 @@ let App=()=>{
           <Route path="/menus"><Menus/></Route>
           <Route path="/navigation"><Navigation/></Route>
           <Route path="/progress"><Progress/></Route>
-          <Route path="/sliders"><Sliders/></Route>
           <Route path="/steps"><Steps/></Route>
           <Route path="/tables_grids"><TablesGrids/></Route>
           <Route path="/tabs"><Tabs/></Route>
           <Route path="/utilities"><Utilities/></Route>
 
-          <Route to="/charts"><Charts/></Route>
-          <Route to="/editors"><Editors/></Route>
-          <Route to="/gamification"><Gamification/></Route>
-          <Route to="/landing"><Landing/></Route>
-          <Route to="/layout"><Layout/></Route>
-          <Route to="/map"><Map/></Route>
+          {/*<Route to="/charts"><Charts/></Route>*/}
+          <Route path="/editors"><Editors/></Route>
+          <Route path="/gamification"><Gamification/></Route>
+          <Route path="/landing"><Landing/></Route>
+          <Route path="/layout"><Layout/></Route>
+          <Route path="/map"><Map/></Route>
           <Route path="/previews"><Previews/></Route>
 
           <Route path="/"><Containers/></Route>

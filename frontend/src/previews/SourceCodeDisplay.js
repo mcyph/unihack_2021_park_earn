@@ -1,5 +1,30 @@
 import { Component } from "react";
 import Prism from "prismjs";
+import 'prismjs/themes/prism-okaidia.css'
+import 'prismjs/components/prism-markup-templating';
+import 'prismjs/components/prism-handlebars.min.js'
+import 'prismjs/components/prism-lua.min.js'
+import 'prismjs/components/prism-c.min.js'
+import 'prismjs/components/prism-cpp.min.js'
+import 'prismjs/components/prism-ruby.min.js'
+import 'prismjs/components/prism-java.min.js'
+import 'prismjs/components/prism-javascript.min.js'
+import 'prismjs/components/prism-bash.min.js'
+import 'prismjs/components/prism-csharp.min.js'
+import 'prismjs/components/prism-css.min.js'
+import 'prismjs/components/prism-typescript.min.js'
+import 'prismjs/components/prism-yaml.min.js'
+import 'prismjs/components/prism-json.min.js'
+import 'prismjs/components/prism-swift.min.js'
+import 'prismjs/components/prism-jsx.min.js'
+import 'prismjs/components/prism-dart.min.js'
+import 'prismjs/components/prism-sql.min.js'
+import 'prismjs/components/prism-rust.min.js'
+import 'prismjs/components/prism-php.min.js'
+import 'prismjs/components/prism-perl.min.js'
+import 'prismjs/components/prism-go.min.js'
+import 'prismjs/components/prism-docker.min.js'
+import 'prismjs/components/prism-python.min.js'
 
 // Adapted from
 // https://betterstack.dev/blog/code-highlighting-in-react-using-prismjs/

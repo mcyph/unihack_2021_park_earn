@@ -1,3 +1,5 @@
+import {Component} from "react";
+
 /**
 This file is licensed under the MIT license
 
@@ -22,44 +24,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
-import { Component } from "react";
-
-class Table extends Component {
-  /**
-   *
-   * @param striped
-   * @param hover
-   * @param scroll
-   */
-  constructor({ striped, hover, scroll }) {
-    super({ striped, hover, scroll });
+class TableBody extends Component {
+  constructor({ style, children }) {
+    super({ style, children });
   }
   render() {
+    return <>
+      <tbody>{ this.props.children }</tbody>
+    </>;
   }
 }
 
-class Tr extends Component {
-  constructor({ active }) {
-    super({ active });
-  }
-  render() {
-  }
-}
-
-class Td extends Component {
-  constructor({ active }) {
-    super({ active });
-  }
-  render() {
-  }
-}
-
-class Th extends Component {
-  constructor({ active }) {
-    super({ active });
-  }
-  render() {
-  }
-}
-
-export default Table;
+export default TableBody;

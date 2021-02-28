@@ -52,6 +52,7 @@ let Containers=()=>{
         <CardFooter>Card Footer</CardFooter>
       </Card>
     </p>
+
     <h2>Chip</h2>
     <p>
       <Chip>
@@ -64,6 +65,7 @@ let Containers=()=>{
            role="button" />
       </Chip>
     </p>
+
     <h2>Empty State Container</h2>
     <p>
       <EmptyCont>
@@ -73,6 +75,7 @@ let Containers=()=>{
         <EmptyContControls>Container Controls</EmptyContControls>
       </EmptyCont>
     </p>
+
     <h2>Panel</h2>
     <p>
       <Panel>
@@ -82,6 +85,7 @@ let Containers=()=>{
         <PanelFooter>Panel Footer</PanelFooter>
       </Panel>
     </p>
+
     <h2>Off-Canvas</h2>
     <p>
       <OffCanvas>
@@ -89,6 +93,7 @@ let Containers=()=>{
         <OffCanvasContent>Off-canvas Content</OffCanvasContent>
       </OffCanvas>
     </p>
+
     <h2>Tile</h2>
     <p>
       <Tile>
@@ -99,6 +104,7 @@ let Containers=()=>{
         <TileAction>Tile Action</TileAction>
       </Tile>
     </p>
+
     <h2>Timeline</h2>
     <p>
       <Timeline>

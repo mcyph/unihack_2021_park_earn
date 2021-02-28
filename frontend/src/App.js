@@ -3,142 +3,107 @@ import './App.css';
 import "./spectre/spectre_css_light/spectre.scss";
 import "./spectre/spectre_css_light/spectre-exp.scss";
 import "./spectre/spectre_css_light/spectre-icons.scss";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 import Containers from "./examples/controls/Containers";
 import Forms from "./examples/controls/Forms";
-import Previews from "./examples/previews";
+import Progress from "./examples/controls/Progress";
+import Navigation from "./examples/controls/Navigation";
+import Sliders from "./examples/controls/Sliders";
+import Steps from "./examples/controls/Steps";
+import Floating from "./examples/controls/Floating";
+import Tabs from "./examples/controls/Tabs";
+import Icons from "./examples/controls/Icons";
+import Images from "./examples/controls/Images";
+import Menus from "./examples/controls/Menus";
+import TablesGrids from "./examples/controls/TablesGrids";
+import Utilities from "./examples/controls/Utilities";
 
-// Buttons
-import Button from "./controls/forms/controls/Button";
-import ButtonGroup from "./controls/forms/ButtonGroup";
+import Charts from "./examples/Charts";
+import Editors from "./examples/Editors";
+import Gamification from "./examples/Gamification";
+import Landing from "./examples/Landing";
+import Layout from "./examples/Layout";
+import Map from "./examples/Map";
+import Previews from "./examples/Previews";
 
-// Breadcrumbs (navigation)
-import Breadcrumbs from "./controls/navigation/breadcrumbs/Breadcrumbs";
-import BreadcrumbItem from "./controls/navigation/breadcrumbs/BreadcrumbItem";
-
-// Progress
-import Progress from "./controls/progress/Progress";
-import ProgressBar from "./controls/progress/ProgressBar";
-
-// Sliders
-import Slider from "./controls/forms/controls/sliders/Slider";
-import ComparisonSlider from "./controls/images/ComparisonSlider";
-//import SliderBar from "./controls/sliders/slider_bar/SliderBar";
-//import SliderBarUnits from "./controls/sliders/slider_bar/SliderBarUnits";
-
-// Steps
-import Steps from "./controls/steps/Steps"
-import StepItem from "./controls/steps/StepItem";
-
-// Tabs
-import Tabs from "./controls/tabs/Tabs";
-import TabItem from "./controls/tabs/TabItem";
-import TabItemButton from "./controls/tabs/TabItemButton";
-
-// Tiles
-import Tile from "./controls/containers/tiles/Tile";
-import TileTitle from "./controls/containers/tiles/TileTitle";
-import TileSubtitle from "./controls/containers/tiles/TileSubtitle";
-
-// Timeline
-//import Timeline from "./controls/timeline/Timeline";
-//import TimelineContent from "./controls/timeline/TimelineContent";
-//import TimelineIcon from "./controls/timeline/TimelineIcon";
-//import TimelineLeft from "./controls/timeline/TimelineLeft";
-
-//import Accordion from "./controls/Accordion";
-import Avatar from "./controls/icons/Avatar";
-import Card from "./controls/containers/card/Card";
-import Chip from "./controls/containers/chip/Chip";
-//import DataGrid
-import EmptyCont from "./controls/containers/empty/EmptyCont";
-import ModalDialog from "./controls/floating/ModalDialog";
-import Panel from "./controls/containers/panel/Panel";
-import Parallax from "./controls/images/Parallax";
-import SearchControl from "./controls/forms/convenience/SearchControl";
-import Toast from "./controls/floating/Toast";
 import OffCanvasSidebar from "./controls/containers/offcanvas/OffCanvasSidebar";
 import OffCanvasContent from "./controls/containers/offcanvas/OffCanvasContent";
 import OffCanvas from "./controls/containers/offcanvas/OffCanvas";
-import SourceCodeDisplay from "./previews/SourceCodeDisplay";
-//import NavTree from "./controls/navigation/navtree/NavTree";
-//import NavTreeItem from "./controls/navigation/navtree/NavTreeItem";
 
-function App() {
+let MyNav=()=>{
   return <>
-    <OffCanvas>
-      <OffCanvasSidebar style={{ width: "14rem" }}>
-        Blah blah blahs
-      </OffCanvasSidebar>
-      <OffCanvasContent style={{ width: "14rem" }}>
-        Blah blah blah
-      </OffCanvasContent>
-    </OffCanvas>
+    <nav>
+      <ul>
+        <li><Link to="/containers">Containers</Link></li>
+        <li><Link to="/floating">Floating</Link></li>
+        <li><Link to="/forms">Forms</Link></li>
+        <li><Link to="/icons">Icons</Link></li>
+        <li><Link to="/images">Images</Link></li>
+        <li><Link to="/menus">Menus</Link></li>
+        <li><Link to="/navigation">Navigation</Link></li>
+        <li><Link to="/progress">Progress</Link></li>
+        <li><Link to="/sliders">Sliders</Link></li>
+        <li><Link to="/steps">Steps</Link></li>
+        <li><Link to="/tables_grids">TablesGrids</Link></li>
+        <li><Link to="/tabs">Tabs</Link></li>
+        <li><Link to="/utilities">Utilities</Link></li>
 
-    <div style={{
-      maxWidth: "800px",
-      marginLeft: "15rem"
-    }}>
-      { Containers() }
-      <hr/>
-      { Forms() }
-      <hr/>
-      { Previews() }
-      <hr/>
+        <li><Link to="/charts">Charts</Link></li>
+        <li><Link to="/editors">Editors</Link></li>
+        <li><Link to="/gamification">Gamification</Link></li>
+        <li><Link to="/landing">Landing Pages</Link></li>
+        <li><Link to="/layout">Layout</Link></li>
+        <li><Link to="/map">Map Visualizations</Link></li>
+        <li><Link to="/previews">Previews</Link></li>
+      </ul>
+    </nav>
+  </>;
+}
 
-      <h2>Navigation</h2>
-      <h3>Breadcrumbs</h3>
-      <p>
-        <Breadcrumbs>
-          <BreadcrumbItem href="#">Testing testing 123</BreadcrumbItem>
-          <BreadcrumbItem>Active Item</BreadcrumbItem>
-        </Breadcrumbs>
-      </p>
-      {/*<h3>Navigation Tree</h3>
-      <p>
-        <NavTree>
-          <NavTreeItem>blah</NavTreeItem>
-        </NavTree>
-      </p>*/}
+let App=()=>{
+  return <>
+    <Router>
+      <OffCanvas>
+        <OffCanvasSidebar style={{ width: "14rem", position: "fixed", top: 0, height: "100vh" }}>
+          <MyNav />
+        </OffCanvasSidebar>
+        <OffCanvasContent
+          style={{ width: "14rem", position: "fixed", top: 0, height: "100vh" }}>
+          <MyNav />
+        </OffCanvasContent>
+      </OffCanvas>
 
-      <h2>Progress Indicators</h2>
-      <h3>Progress</h3>
-      <p>
-        <Progress value={50} max={100} />
-      </p>
-      <h3>Progressbar</h3>
-      <p>
-        <ProgressBar value={50} min={0} max={100} />
-      </p>
+      <div style={{ maxWidth: "800px",
+                    marginLeft: "15rem",
+                    paddingTop: "0.9rem" }}>
+        <Switch>
+          <Route path="/containers"><Containers/></Route>
+          <Route path="/floating"><Floating/></Route>
+          <Route path="/forms"><Forms/></Route>
+          <Route path="/icons"><Icons/></Route>
+          <Route path="/images"><Images/></Route>
+          <Route path="/menus"><Menus/></Route>
+          <Route path="/navigation"><Navigation/></Route>
+          <Route path="/progress"><Progress/></Route>
+          <Route path="/sliders"><Sliders/></Route>
+          <Route path="/steps"><Steps/></Route>
+          <Route path="/tables_grids"><TablesGrids/></Route>
+          <Route path="/tabs"><Tabs/></Route>
+          <Route path="/utilities"><Utilities/></Route>
 
-      <h2>Sliders</h2>
-      <h3>Slider</h3>
-      <p>
-        <Slider min={50} max={100} value={50}></Slider>
-      </p>
-      <h3>Image Comparison Slider</h3>
-      <p>
-        <ComparisonSlider beforeImgSrc={"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/" +
-                                        "Oryctolagus_cuniculus_Rcdo.jpg/220px-Oryctolagus_cuniculus_Rcdo.jpg"}
-                          afterImgSrc={"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/" +
-                                       "Oryctolagus_cuniculus_Rcdo.jpg/220px-Oryctolagus_cuniculus_Rcdo.jpg"} />
-      </p>
+          <Route to="/charts"><Charts/></Route>
+          <Route to="/editors"><Editors/></Route>
+          <Route to="/gamification"><Gamification/></Route>
+          <Route to="/landing"><Landing/></Route>
+          <Route to="/layout"><Layout/></Route>
+          <Route to="/map"><Map/></Route>
+          <Route path="/previews"><Previews/></Route>
 
-      <p>
-        <Steps>
-          <StepItem href="#">Step 1</StepItem>
-          <StepItem active={true}>Step 2</StepItem>
-        </Steps>
-      </p>
-
-      <p>
-        <Tabs>
-          <TabItem href="#" name={"tab 1"} />
-          <TabItem href="#" name={"tab 2"} />
-          <TabItem href="#" name={"tab 3"} active={true} />
-        </Tabs>
-      </p>
-    </div>
+          <Route path="/"><Containers/></Route>
+        </Switch>
+      </div>
+    </Router>
   </>;
 }
 

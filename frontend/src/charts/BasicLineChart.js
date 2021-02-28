@@ -25,8 +25,10 @@ SOFTWARE.
 import { Component } from "react";
 
 class BasicLineChart extends Component {
-  constructor({ xData, xAxisType, yData, yAxisType, stack, style }) {
-    super({ xData, xAxisType, yData, yAxisType, stack, style });
+  constructor({ xData, xAxisType, yData, yAxisType,
+                stack, style }) {
+    super({ xData, xAxisType, yData, yAxisType,
+            stack, style });
     this.state = {};
   }
 

@@ -24,9 +24,9 @@ SOFTWARE.
 
 import { Component } from "react";
 import Button from "../Button";
-import FlexColumn from "../../../../layout/flexbox/FlexColumn";
-import FlexColumns from "../../../../layout/flexbox/FlexColumns";
-import FlexContainer from "../../../../layout/flexbox/FlexContainer";
+import FlexColumn from "../../../containers/flexbox/FlexColumn";
+import FlexColumns from "../../../containers/flexbox/FlexColumns";
+import FlexContainer from "../../../containers/flexbox/FlexContainer";
 
 class DialogButtons extends Component {
   static ALIGN = {

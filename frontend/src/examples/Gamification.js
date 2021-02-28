@@ -1,3 +1,5 @@
-function gamification() {}
+function gamification() {
+
+}
 
 export default gamification;

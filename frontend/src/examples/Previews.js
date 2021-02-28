@@ -5,11 +5,18 @@ import WikiPreview from "../previews/WikiPreview";
 
 function previews() {
   return <>
+    <h2>Markup Rendering</h2>
+    <h3>Markdown Content</h3>
     <MarkdownContent>
       *Markdown content* works **inline**!
     </MarkdownContent>
-    <SourceCodeDisplay language="python"
-                       code="print('Hello World!')"/>
+    <hr/>
+
+    <h3>Source Code Display</h3>
+    <SourceCodeDisplay
+        language="python"
+        code="print('Hello World!')"
+    />
   </>;
 }
 

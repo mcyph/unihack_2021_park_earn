@@ -24,35 +24,19 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class EmptyState extends Component {
-  /**
-   *
-   * @param icon
-   * @param title
-   * @param subtitle
-   * @param controls
-   */
-  constructor({ icon, title, subtitle, controls }) {
-    super({ icon, title, subtitle, controls });
-    this.state = {};
+class CardFooter extends Component {
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
-    return (
-      <div className="empty">
-        { this.props.icon ?
-            <div className="empty-icon">
-              <i className={`icon icon-${this.props.icon}`} />
-            </div> : '' }
-        { this.props.title ?
-            <p className="empty-title h5">{ this.props.title }</p> : '' }
-        { this.props.subtitle ?
-            <p className="empty-subtitle">{ this.props.subtitle }</p> : '' }
-        { this.props.controls ?
-            <div className="empty-action">{ this.props.controls }</div> : '' }
+    return <>
+      <div className="card-footer"
+           style={ this.props.style }>
+        { this.props.children }
       </div>
-    );
+    </>;
   }
 }
 
-export default EmptyState;
+export default CardFooter;

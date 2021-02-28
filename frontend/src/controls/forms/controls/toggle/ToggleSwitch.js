@@ -23,26 +23,45 @@ SOFTWARE.
  */
 
 import { Component } from "react";
+import Form from "../../Form";
+import utility from "../../__utility";
 
-class OffCanvasSidebar extends Component {
+class ToggleSwitch extends Component {
   /**
-   * Off-canvas (off-screen) content
    *
+   * @param checked
+   * @param onChange
    * @param style
    * @param children
    */
-  constructor({ style, children }) {
-    super({ style, children });
+  constructor({ name, value, onChange,
+                inline, validator, style, children }) {
+    value = value || false;
+    super({ name, value, onChange,
+            inline, validator, style, children });
   }
 
   render() {
-    return <>
-      <div className="off-canvas-content"
-           style={ this.props.style }>
-        { this.props.children }
-      </div>
-    </>;
+    return <Form.FormContext.Consumer>{ context => {
+      let value = utility.getValue(context, this.props.value);
+
+      return <>
+        <label className={ this.props.inline ? "form-inline"
+                                             : "form-switch" }>
+          <input type="checkbox"
+                 name={ this.props.name }
+                 { ...(value ? {checked: "checked"} : {}) }
+                 ref={el => {this.__checkbox = el;}}
+                 onChange={() => {
+                   let value = !!this.__checkbox.checked;
+                   utility.onChange(context, this.props.onChange, this.props.name, value);
+                 }}/>
+          <i className="form-icon" />
+          { this.props.children && this.props.children }
+        </label>
+      </>;
+    } }</Form.FormContext.Consumer>;
   }
 }
 
-export default OffCanvasSidebar;
+export default ToggleSwitch;

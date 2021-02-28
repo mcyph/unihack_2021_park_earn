@@ -23,8 +23,8 @@ SOFTWARE.
  */
 
 import { Component } from "react";
-import Form from "../Form";
-import utility from "../__utility";
+import Form from "../../Form";
+import utility from "../../__utility";
 
 let __ID = 0;
 
@@ -41,9 +41,9 @@ class SingleLineText extends Component {
    * @param style
    */
   constructor({ name, value, onChange,
-                placeholder, label, validator, indicateSuccess, style }) {
+                placeholder, validator, indicateSuccess, style, children }) {
     super({ name, value, onChange,
-            placeholder, label, validator, indicateSuccess, style });
+            placeholder, validator, indicateSuccess, style, children });
     this.__id = __ID++;
   }
 
@@ -59,8 +59,7 @@ class SingleLineText extends Component {
                id={ "__slt_"+this.__id }
                ref={ el => {this.__text = el;} }
                onChange={() => {
-                 utility.onChange(form, this.props.onChange, this.props.name,
-                   this.__text.value);
+                 utility.onChange(form, this.props.onChange, this.props.name, this.__text.value);
 
                  if (this.props.validator) {
                    // TODO!!!!
@@ -71,9 +70,9 @@ class SingleLineText extends Component {
       </>;
 
       let hasValidator = utility.hasValidator(form, this.props.validator, this.props.name);
-      let hasLabel = !!this.props.label;
+      let hasChildren = !!this.props.children;
 
-      if (hasValidator || hasLabel) {
+      if (hasValidator || hasChildren) {
         let cls = "form-group";
         let validateMessage = utility.validate(form, this.props.validator, this.props.name,
             value);
@@ -88,10 +87,13 @@ class SingleLineText extends Component {
 
         return <>
           <div className={ cls }>
-            <label className="form-label"
-                   htmlFor={ "__slt_"+this.__id }>
-              { this.props.label }
-            </label>
+            {
+              hasChildren &&
+                <label className="form-label"
+                       htmlFor={"__slt_" + this.__id}>
+                  { this.props.children }
+                </label>
+            }
             { r }
             {
               validateMessage &&

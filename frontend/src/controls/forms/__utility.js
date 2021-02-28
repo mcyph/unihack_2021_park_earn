@@ -18,16 +18,22 @@ let utility = {
   onChange: (form, localOnChange, name, value)=>{
     // Send to any immediate callbacks
     if (localOnChange) {
-      return localOnChange(value);
+      localOnChange(value);
+      return true;
     }
     // Send to form control is contained in (if present)
     if (form && form.__onChildChange) {
-      return form.__onChildChange(name, value);
+      form.__onChildChange(name, value);
+      return true;
     }
+    return false
   },
   getValue: (form, childValue, name)=>{
     // First try using the provided value from the child
     if (childValue !== undefined) {
+      if (form && form.__setValueFromChild) {
+        form.__setValueFromChild(name, childValue);
+      }
       return childValue;
     }
     // Next try using the value from the form
@@ -37,16 +43,22 @@ let utility = {
     return undefined;
   },
   validate: (form, localValidate, name, value)=>{
-    // TODO: Elaborate on how to deal with Joi!!
+    // Returns null/undefined on success,
+    // or the error string when validation fails
     if (localValidate) {
-      return localValidate.validate(value);
+      let r = localValidate.validate({name: value});
+      return r[name]['error'] || null;
     }
     else if (form && form.__getValidatorFromChild
                   && form.__getValidatorFromChild(name)) {
-      return form.__getValidatorFromChild(name).validate(value);
+      let r = form.__getValidatorFromChild(name).validate({name: value});
+      return r[name]['error'] || null;
     }
+    return null;
   },
-  hasValidator: (form, localValidate, name)=> {
+  hasValidator: (form, localValidate, name)=>{
+    // Returns a boolean indicating whether "name"
+    // has a validator associated with it
     if (localValidate) {
       return true;
     }

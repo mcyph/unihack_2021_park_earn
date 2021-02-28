@@ -24,24 +24,19 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class Tabs extends Component {
-  /**
-   *
-   * @param items
-   * @param block whether to render as block+expand to full width
-   */
-  constructor({ block, style, children }) {
-    super({ block, style, children });
+class CardBody extends Component {
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
-    return (
-      <ul className={ this.props.block ? "tab tab-block" : "tab" }
-          style={ this.props.style }>
+    return <>
+      <div className="card-body"
+           style={ this.props.style }>
         { this.props.children }
-      </ul>
-    );
+      </div>
+    </>;
   }
 }
 
-export default Tabs;
+export default CardBody;

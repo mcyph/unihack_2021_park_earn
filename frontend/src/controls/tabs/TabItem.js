@@ -31,7 +31,7 @@ class TabItem extends Component {
 
   render() {
     return (
-      <li className={ this.props.active ? 'tabs-item active' : 'tabs-item' }>
+      <li className={ this.props.active ? 'tab-item active' : 'tab-item' }>
         <a href={ this.props.href }>
           { this.props.leftButton || '' }
           { this.props.icon || '' }

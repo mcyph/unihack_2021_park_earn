@@ -24,31 +24,24 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class Chip extends Component {
+class EmptyContControls extends Component {
   /**
    *
-   * @param avatar
-   * @param title
-   * @param closeButton
-   * @param image
+   * @param style
+   * @param children
    */
-  constructor({ avatar, title, closeButton, image }) {
-    super({ avatar, title, closeButton, image });
-    this.state = {};
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
-    return (
-      <div className="chip">
-        { this.props.avatar || '' }
-        { this.props.title || '' }
-        { this.props.closeButton ? <a href="#"
-                                      className="btn btn-clear"
-                                      aria-label="Close"
-                                      role="button" /> : '' }
+    return <>
+      <div className="empty-action"
+           style={ this.props.style }>
+        { this.props.children }
       </div>
-    );
+    </>;
   }
 }
 
-export default Chip;
+export default EmptyContControls;

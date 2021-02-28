@@ -22,26 +22,43 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
-import { Component } from "react";
+// OPEN ISSUE: Replace this with codemirror,
+// so as to use same dependency as markdown editor??
 
-class Tabs extends Component {
-  /**
-   *
-   * @param items
-   * @param block whether to render as block+expand to full width
-   */
-  constructor({ block, style, children }) {
-    super({ block, style, children });
+import { Component } from "react";
+import { render } from 'react-dom';
+import MonacoEditor from 'react-monaco-editor';
+
+class SourceCodeDisplay extends Component {
+  constructor({ width, height, language, code }) {
+    super({ width, height, language, code });
   }
 
   render() {
     return (
-      <ul className={ this.props.block ? "tab tab-block" : "tab" }
-          style={ this.props.style }>
-        { this.props.children }
-      </ul>
+      <MonacoEditor
+        width={ this.props.width || 800 }
+        height={ this.props.height || 600 }
+        language={ this.props.language || "javascript" }
+        theme={ true ? "vs-dark" : "vs-light" }
+        value={ this.props.code }
+        options={{
+          selectOnLineNumbers: true
+        }}
+        onChange={ this.onChange.bind(this) }
+        editorDidMount={ this.editorDidMount.bind(this) }
+      />
     );
+  }
+
+  editorDidMount(editor, monaco) {
+    console.log('editorDidMount', editor);
+    editor.focus();
+  }
+
+  onChange(newValue, e) {
+    console.log('onChange', newValue, e);
   }
 }
 
-export default Tabs;
+export default SourceCodeDisplay;

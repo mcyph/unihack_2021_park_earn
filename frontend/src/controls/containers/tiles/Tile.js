@@ -25,43 +25,19 @@ SOFTWARE.
 import { Component } from "react";
 
 class Tile extends Component {
-  constructor({ icon, iconVerticallyCentered, actionControls, style, children }) {
-    super({ icon, iconVerticallyCentered, actionControls, style, children });
+  constructor({ verticallyCentered, style, children }) {
+    super({ verticallyCentered, style, children });
   }
 
   render() {
     // Add the tile-centered class to the container tile for compact version
     // (this centers vertically)
-    return (
-      <div
-        className={
-          this.props.iconVerticallyCentered ?
-            "tile tile-centered" : "tile"
-        }
-        style={ this.props.style }
-      >
-        {
-          this.props.icon ?
-            <div className="tile-icon">
-              <div className="example-tile-icon">
-                { this.props.icon }
-              </div>
-            </div> : ''
-        }
-        {
-          this.props.children ?
-            <div className="tile-content">
-              { this.props.children }
-            </div> : ''
-        }
-        {
-          this.props.actionControls ?
-            <div className="tile-action">
-              { this.props.actionControls }
-            </div> : ''
-        }
+    return <>
+      <div className={ this.props.verticallyCentered ? "tile tile-centered" : "tile" }
+           style={ this.props.style }>
+        { this.props.children }
       </div>
-    );
+    </>;
   }
 }
 

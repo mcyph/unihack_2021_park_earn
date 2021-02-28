@@ -23,8 +23,8 @@ SOFTWARE.
  */
 
 import React, { Component } from "react";
-import Form from "../Form";
-import utility from "../__utility";
+import Form from "../../Form";
+import utility from "../../__utility";
 
 class Select extends Component {
   /**
@@ -48,10 +48,10 @@ class Select extends Component {
       let selectedValue = utility.getValue(context, this.props.value);
       let out = [];
 
-      for (let option of this.options) {
+      for (let option of this.props.options) {
         let value, text;
 
-        if (option instanceof "string") {
+        if (typeof option === "string") {
           value = text = option;
         } else if (utility.isArray(option)) {
           [value, text] = option;
@@ -74,8 +74,8 @@ class Select extends Component {
                 name={ this.props.name }
                 ref={ el => {this.__select = el;} }
                 onChange={() => {
-                  utility.onChange(context, this.props.onChange, this.props.name,
-                      this.__select.options[this.__select.selectedIndex].value);
+                  let value = this.__select.options[this.__select.selectedIndex].value;
+                  utility.onChange(context, this.props.onChange, this.props.name, value);
                 }}
                 style={ this.style }>
           { out }

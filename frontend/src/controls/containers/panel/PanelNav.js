@@ -24,24 +24,20 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class Tabs extends Component {
-  /**
-   *
-   * @param items
-   * @param block whether to render as block+expand to full width
-   */
-  constructor({ block, style, children }) {
-    super({ block, style, children });
+class PanelNav extends Component {
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
-    return (
-      <ul className={ this.props.block ? "tab tab-block" : "tab" }
-          style={ this.props.style }>
+    return <>
+      <div className="panel-nav"
+           style={ this.props.style }>
+        {/* navigation components: tabs, breadcrumbs or pagination */}
         { this.props.children }
-      </ul>
-    );
+      </div>
+    </>;
   }
 }
 
-export default Tabs;
+export default PanelNav;

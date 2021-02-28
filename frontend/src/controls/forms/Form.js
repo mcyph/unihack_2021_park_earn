@@ -23,15 +23,7 @@ SOFTWARE.
  */
 
 import { Component } from "react";
-import Button from "./Button";
-import FlexColumn from "../../../layout/flexbox/FlexColumn";
-import FlexColumns from "../../../layout/flexbox/FlexColumns";
-import FlexContainer from "../../../layout/flexbox/FlexContainer";
 import utility from "./__utility";
-
-// TODO: Integrate with https://joi.dev/!!
-// It might also pay to use
-// https://developer.mozilla.org/en-US/docs/Web/API/FormData
 
 const Joi = require('joi');
 
@@ -43,7 +35,6 @@ class Form extends Component {
   static any = Joi.any.bind(Joi);
   static alternatives = Joi.alternatives.bind(Joi);
   static array = Joi.array.bind(Joi);
-  static binary = Joi.binary.bind(Joi);
   static boolean = Joi.boolean.bind(Joi);
   static date = Joi.date.bind(Joi);
   static function = Joi.function.bind(Joi);
@@ -86,6 +77,12 @@ class Form extends Component {
     this.__values[name] = value;
   }
 
+  /**
+   *
+   * @param name
+   * @returns {*}
+   * @private
+   */
   __getValueFromChild(name) {
     return this.__values[name];
   }

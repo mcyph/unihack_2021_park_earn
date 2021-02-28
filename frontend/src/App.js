@@ -1,13 +1,16 @@
+import './App.css';
 //import "./spectre/spectre_css_dark/spectre.scss";
 import "./spectre/spectre_css_light/spectre.scss";
 import "./spectre/spectre_css_light/spectre-exp.scss";
 import "./spectre/spectre_css_light/spectre-icons.scss";
-import './App.css';
+
+import Containers from "./examples/controls/Containers";
+import Forms from "./examples/controls/Forms";
+import Previews from "./examples/previews";
 
 // Buttons
-import Button from "./controls/forms/buttons/Button";
-import ButtonGroup from "./controls/forms/buttons/ButtonGroup";
-import DialogButtons from "./controls/forms/buttons/DialogButtons";
+import Button from "./controls/forms/controls/Button";
+import ButtonGroup from "./controls/forms/ButtonGroup";
 
 // Breadcrumbs (navigation)
 import Breadcrumbs from "./controls/navigation/breadcrumbs/Breadcrumbs";
@@ -18,7 +21,7 @@ import Progress from "./controls/progress/Progress";
 import ProgressBar from "./controls/progress/ProgressBar";
 
 // Sliders
-import Slider from "./controls/sliders/Slider";
+import Slider from "./controls/forms/controls/sliders/Slider";
 import ComparisonSlider from "./controls/images/ComparisonSlider";
 //import SliderBar from "./controls/sliders/slider_bar/SliderBar";
 //import SliderBarUnits from "./controls/sliders/slider_bar/SliderBarUnits";
@@ -45,21 +48,21 @@ import TileSubtitle from "./controls/containers/tiles/TileSubtitle";
 
 //import Accordion from "./controls/Accordion";
 import Avatar from "./controls/icons/Avatar";
-import Card from "./controls/containers/Card";
-import Chip from "./controls/containers/Chip";
+import Card from "./controls/containers/card/Card";
+import Chip from "./controls/containers/chip/Chip";
 //import DataGrid
-import EmptyState from "./controls/containers/EmptyState";
+import EmptyCont from "./controls/containers/empty/EmptyCont";
 import ModalDialog from "./controls/floating/ModalDialog";
-import Panel from "./controls/containers/Panel";
+import Panel from "./controls/containers/panel/Panel";
 import Parallax from "./controls/images/Parallax";
-import SearchControl from "./controls/forms/SearchControl";
+import SearchControl from "./controls/forms/convenience/SearchControl";
 import Toast from "./controls/floating/Toast";
 import OffCanvasSidebar from "./controls/containers/offcanvas/OffCanvasSidebar";
 import OffCanvasContent from "./controls/containers/offcanvas/OffCanvasContent";
 import OffCanvas from "./controls/containers/offcanvas/OffCanvas";
-import SourceCodeDisplay from "./source_code/SourceCodeDisplay";
-import NavTree from "./controls/navigation/navtree/NavTree";
-import NavTreeItem from "./controls/navigation/navtree/NavTreeItem";
+import SourceCodeDisplay from "./previews/SourceCodeDisplay";
+//import NavTree from "./controls/navigation/navtree/NavTree";
+//import NavTreeItem from "./controls/navigation/navtree/NavTreeItem";
 
 function App() {
   return <>
@@ -76,28 +79,11 @@ function App() {
       maxWidth: "800px",
       marginLeft: "15rem"
     }}>
-      <h1>Forms</h1>
-      <h2>Buttons</h2>
-      <h3>Standard Button</h3>
-      <p>
-        <Button>Test Button</Button>
-      </p>
-      <h3>Button Group</h3>
-      <p>
-        <ButtonGroup>
-          <Button>Button 1</Button>
-          <Button>Button 2</Button>
-        </ButtonGroup>
-      </p>
-      <h3>Dialog Buttons</h3>
-      <p>
-        <DialogButtons buttonTypes={[
-            DialogButtons.TYPES.HELP,
-            DialogButtons.TYPES.SEPARATOR,
-            DialogButtons.TYPES.OK_PRIMARY,
-            DialogButtons.TYPES.CANCEL
-        ]} />
-      </p>
+      { Containers() }
+      <hr/>
+      { Forms() }
+      <hr/>
+      { Previews() }
       <hr/>
 
       <h2>Navigation</h2>
@@ -108,12 +94,12 @@ function App() {
           <BreadcrumbItem>Active Item</BreadcrumbItem>
         </Breadcrumbs>
       </p>
-      <h3>Navigation Tree</h3>
+      {/*<h3>Navigation Tree</h3>
       <p>
         <NavTree>
           <NavTreeItem>blah</NavTreeItem>
         </NavTree>
-      </p>
+      </p>*/}
 
       <h2>Progress Indicators</h2>
       <h3>Progress</h3>
@@ -149,6 +135,7 @@ function App() {
         <Tabs>
           <TabItem href="#" name={"tab 1"} />
           <TabItem href="#" name={"tab 2"} />
+          <TabItem href="#" name={"tab 3"} active={true} />
         </Tabs>
       </p>
     </div>

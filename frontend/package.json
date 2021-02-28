@@ -2,6 +2,9 @@
   "name": "react_spectrecss_kickstarter",
   "version": "0.1.0",
   "private": true,
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
     "@fortawesome/free-brands-svg-icons": "^5.15.2",
@@ -14,12 +17,16 @@
     "@apollo/client": "^3.3.7",
     "auth0": "^2.31.1",
     "colors.css": "^3.0.0",
+    "deck.gl": "^8.4.9",
     "echarts": "^5.0.1",
     "graphql": "^15.4.0",
     "i18next": "^19.8.4",
-    "mapbox-gl": "^2.0.1",
+    "joi": "^17.4.0",
+    "markdown-to-jsx": "^7.1.1",
+    "prismjs": "^1.23.0",
     "react-monaco-editor": "^0.41.2",
     "react": "^17.0.1",
+    "react-codemirror2": "^7.2.1",
     "react-data-grid": "^7.0.0-canary.35",
     "react-dom": "^17.0.1",
     "react-gravatar": "^2.6.3",
@@ -30,14 +37,13 @@
     "react-split-pane": "^0.1.92",
     "react-syntax-highlighter": "^15.4.3",
     "react-tooltip": "^4.2.13",
-    "spectre.css": "^0.5.9",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "../node_modules/.bin/react-scripts start",
-    "build": "../node_modules/.bin/react-scripts build",
-    "test": "../node_modules/.bin/react-scripts test",
-    "eject": "../node_modules/.bin/react-scripts eject"
+    "start": "node_modules/.bin/react-scripts start",
+    "build": "node_modules/.bin/react-scripts build",
+    "test": "node_modules/.bin/react-scripts test",
+    "eject": "node_modules/.bin/react-scripts eject"
   },
   "eslintConfig": {
     "extends": [

@@ -24,8 +24,8 @@ SOFTWARE.
  */
 
 import React from "react";
-import Form from "../Form";
-import utility from "../__utility";
+import Form from "../../Form";
+import utility from "../../__utility";
 
 let __NAME_ID = 0;
 
@@ -61,10 +61,10 @@ class RadioGroup extends React.Component {
 
       let out = [];
 
-      for (let option of this.options) {
+      for (let option of this.props.options) {
         let value, text;
 
-        if (option instanceof "string") {
+        if (typeof option === "string") {
           value = text = option;
         } else if (utility.isArray(option)) {
           [value, text] = option;
@@ -83,8 +83,7 @@ class RadioGroup extends React.Component {
                    name={ this.props.name }
                    { ...(value === selectedValue ? {checked: true} : {}) }
                    onClick={() => {
-                     return utility.onChange(form, this.props.onChange, this.props.name,
-                         value);
+                     utility.onChange(form, this.props.onChange, this.props.name, value);
                    }}/>
             <i className="form-icon" /> { text }
           </label>

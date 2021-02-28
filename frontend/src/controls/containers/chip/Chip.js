@@ -24,24 +24,29 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class Tabs extends Component {
+class Chip extends Component {
   /**
    *
-   * @param items
-   * @param block whether to render as block+expand to full width
+   * @param closeButton
+   * @param style
+   * @param children
    */
-  constructor({ block, style, children }) {
-    super({ block, style, children });
+  constructor({ closeButton, onClose, style, children }) {
+    super({ closeButton, onClose, style, children });
   }
 
   render() {
     return (
-      <ul className={ this.props.block ? "tab tab-block" : "tab" }
-          style={ this.props.style }>
+      <div className="chip"
+           style={ this.props.style }>
         { this.props.children }
-      </ul>
+        { this.props.closeButton ? <a href="#"
+                                      className="btn btn-clear"
+                                      aria-label="Close"
+                                      role="button" /> : '' }
+      </div>
     );
   }
 }
 
-export default Tabs;
+export default Chip;

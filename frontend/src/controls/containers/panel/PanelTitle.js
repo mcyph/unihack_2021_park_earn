@@ -23,41 +23,20 @@ SOFTWARE.
  */
 
 import { Component } from "react";
-import { render } from 'react-dom';
-import MonacoEditor from 'react-monaco-editor';
 
-class SourceCodeDisplay extends Component {
-  constructor({ width, height, language, code }) {
-    super({ width, height, language, code });
+class PanelTitle extends Component {
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
-    const options = {
-      selectOnLineNumbers: true
-    };
-
-    return (
-      <MonacoEditor
-        width={ this.props.width || 800 }
-        height={ this.props.height || 600 }
-        language={ this.props.language || "javascript" }
-        theme={ false ? "vs-dark" : "vs-light" }
-        value={ this.props.code }
-        options={ options }
-        onChange={ this.onChange.bind(this) }
-        editorDidMount={ this.editorDidMount.bind(this) }
-      />
-    );
-  }
-
-  editorDidMount(editor, monaco) {
-    console.log('editorDidMount', editor);
-    editor.focus();
-  }
-
-  onChange(newValue, e) {
-    console.log('onChange', newValue, e);
+    return <>
+      <div className="panel-title"
+           style={ this.props.style }>
+        { this.props.children }
+      </div>
+    </>;
   }
 }
 
-export default SourceCodeDisplay;
+export default PanelTitle;

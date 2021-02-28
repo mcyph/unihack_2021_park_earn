@@ -23,44 +23,25 @@ SOFTWARE.
  */
 
 import { Component } from "react";
-import Form from "../Form";
-import utility from "../__utility";
 
-class ToggleSwitch extends Component {
+class EmptyCont extends Component {
   /**
    *
-   * @param checked
-   * @param onChange
    * @param style
    * @param children
    */
-  constructor({ name, value, onChange,
-                inline, validator, style, children }) {
-    super({ name, value, onChange,
-            inline, validator, style, children });
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
-    return <Form.FormContext.Consumer>{ context => {
-      let value = utility.getValue(context, this.props.value);
-
-      return <>
-        <label className={ this.props.inline ? "form-inline"
-                                             : "form-switch" }>
-          <input type="checkbox"
-                 name={ this.props.name }
-                 { ...(value ? {checked: "checked"} : {}) }
-                 ref={el => {this.__checkbox = el;}}
-                 onChange={() => {
-                   utility.onChange(context, this.props.onChange, this.props.name,
-                     !!this.__checkbox.checked);
-                 }}/>
-          <i className="form-icon" />
-          { this.props.children && this.props.children }
-        </label>
-      </>;
-    } }</Form.FormContext.Consumer>;
+    return <>
+      <div className="empty"
+           style={ this.props.style }>
+        { this.props.children }
+      </div>
+    </>;
   }
 }
 
-export default ToggleSwitch;
+export default EmptyCont;

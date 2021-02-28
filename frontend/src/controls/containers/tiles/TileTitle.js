@@ -30,10 +30,12 @@ class TileTitle extends Component {
   }
 
   render() {
-    return <p className="tile-title"
-              style={ this.props.style }>
-      { this.props.children }
-    </p>
+    return <>
+      <p className="tile-title"
+         style={ this.props.style }>
+        { this.props.children }
+      </p>
+    </>;
   }
 }
 

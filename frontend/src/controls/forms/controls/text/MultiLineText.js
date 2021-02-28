@@ -23,8 +23,8 @@ SOFTWARE.
  */
 
 import { Component } from "react";
-import Form from "../Form";
-import utility from "../__utility";
+import Form from "../../Form";
+import utility from "../../__utility";
 
 let __ID = 0;
 
@@ -67,8 +67,7 @@ class MultiLineText extends Component {
                      placeholder={ this.props.placeholder }
                      rows={ this.props.rows }
                      onChange={() => {
-                       return utility.onChange(form, this.props.onChange, this.props.name,
-                           this.__textarea.value);
+                       utility.onChange(form, this.props.onChange, this.props.name, this.__textarea.value);
                      }
                      }>{ value }</textarea>
          </div>

@@ -24,24 +24,24 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class Tabs extends Component {
+class EmptyContSubtitle extends Component {
   /**
    *
-   * @param items
-   * @param block whether to render as block+expand to full width
+   * @param style
+   * @param children
    */
-  constructor({ block, style, children }) {
-    super({ block, style, children });
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
-    return (
-      <ul className={ this.props.block ? "tab tab-block" : "tab" }
-          style={ this.props.style }>
+    return <>
+      <p className="empty-subtitle"
+         style={ this.props.style }>
         { this.props.children }
-      </ul>
-    );
+      </p>
+    </>;
   }
 }
 
-export default Tabs;
+export default EmptyContSubtitle;

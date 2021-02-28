@@ -24,24 +24,21 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class Tabs extends Component {
-  /**
-   *
-   * @param items
-   * @param block whether to render as block+expand to full width
-   */
-  constructor({ block, style, children }) {
-    super({ block, style, children });
+class TileIcon extends Component {
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
-    return (
-      <ul className={ this.props.block ? "tab tab-block" : "tab" }
-          style={ this.props.style }>
-        { this.props.children }
-      </ul>
-    );
+    return <>
+      <div className="tile-icon"
+           style={ this.props.style }>
+        <div className="example-tile-icon">
+          { this.props.children }
+        </div>
+      </div>
+    </>;
   }
 }
 
-export default Tabs;
+export default TileIcon;

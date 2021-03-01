@@ -25,28 +25,20 @@ SOFTWARE.
 import { Component } from "react";
 
 class NavTreeItem extends Component {
-  /**
-   *
-   * @param text
-   * @param link
-   * @param active
-   * @param subItems
-   */
-  constructor({ text, link, active, subItems }) {
-    super({ text, link, active, subItems })
-    this.text = text;
-    this.link = link;
+  constructor({ href, active, style, children }) {
+    super({ href, active, style, children })
     this.active = active;
-    this.subItems = subItems;
+    this.style = style;
+    this.children = children;
   }
 
   render() {
-    let item = FIXME;
-    let subItems = FIXME;
-
     return <>
-      { item }
-      { subItems }
+      <li className={ this.props.active ? "nav-item active" : "nav-item" }>
+          <a href={ this.props.href }>
+            { this.props.children }
+          </a>
+      </li>
     </>;
   }
 }

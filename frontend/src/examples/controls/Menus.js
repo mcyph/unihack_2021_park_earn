@@ -5,6 +5,7 @@ import MenuItem from "../../controls/menus/MenuItem";
 
 let Menus=()=>{
   return <>
+    <h2>Menus</h2>
     <Menu>
       <MenuDivider text="Menu Divider 1"  />
       <MenuItem>Menu Item 1</MenuItem>

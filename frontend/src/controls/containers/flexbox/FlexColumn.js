@@ -44,9 +44,9 @@ class FlexColumn extends Component {
    * @param children
    */
   constructor({ defaultSize, extraSmall, small, medium, large, extraLarge,
-                margin, children }) {
+                margin, style, children }) {
     super({ defaultSize, extraSmall, small, medium, large, extraLarge,
-            margin, children });
+            margin, style, children });
   }
 
   render() {
@@ -65,7 +65,8 @@ class FlexColumn extends Component {
     }
 
     return (
-      <div className={ classNames.join(' ') }>
+      <div className={ classNames.join(' ') }
+           style={ this.props.style }>
         { this.props.children }
       </div>
     );

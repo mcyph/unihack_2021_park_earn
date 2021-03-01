@@ -24,7 +24,7 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class FlexColumns extends Component {
+class FlexRow extends Component {
   /**
    *
    * @param gapless `true` for no spaces in between `FlexColumn`s. Defaults to `false`.
@@ -53,4 +53,4 @@ class FlexColumns extends Component {
   }
 }
 
-export default FlexColumns;
+export default FlexRow;

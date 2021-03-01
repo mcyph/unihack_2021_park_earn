@@ -40,22 +40,6 @@ import Hero from "../../controls/containers/Hero";
 let Containers=()=>{
   return <>
     <h1>Containers</h1>
-    <h3>Hero</h3>
-    <h4>Normal Hero</h4>
-    <Hero size={Hero.SIZE.DEFAULT}>
-      <h1>Hero title</h1>
-      <p>Hero body</p>
-    </Hero>
-    <h4>Small Hero</h4>
-    <Hero size={Hero.SIZE.SMALL}>
-      <h1>Hero title</h1>
-      <p>Hero body</p>
-    </Hero>
-    <h4>Large Hero</h4>
-    <Hero size={Hero.SIZE.LARGE}>
-      <h1>Hero title</h1>
-      <p>Hero body</p>
-    </Hero>
 
     <h2>Card</h2>
     <p>
@@ -156,6 +140,23 @@ let Containers=()=>{
         </TimelineItem>
       </Timeline>
     </p>
+
+    <h3>Hero</h3>
+    <h4>Normal Hero</h4>
+    <Hero size={Hero.SIZE.DEFAULT}>
+      <h1>Hero title</h1>
+      <p>Hero body</p>
+    </Hero>
+    <h4>Small Hero</h4>
+    <Hero size={Hero.SIZE.SMALL}>
+      <h1>Hero title</h1>
+      <p>Hero body</p>
+    </Hero>
+    <h4>Large Hero</h4>
+    <Hero size={Hero.SIZE.LARGE}>
+      <h1>Hero title</h1>
+      <p>Hero body</p>
+    </Hero>
   </>
 }
 

@@ -6,6 +6,8 @@ import NavbarLink from "../../controls/navigation/navbar/NavbarLink";
 import NavbarSection from "../../controls/navigation/navbar/NavbarSection";
 import Steps from "../../controls/navigation/steps/Steps";
 import StepItem from "../../controls/navigation/steps/StepItem";
+import NavTree from "../../controls/navigation/navtree/NavTree";
+import NavTreeItem from "../../controls/navigation/navtree/NavTreeItem";
 
 let Navigation=()=>{
   return <>
@@ -19,13 +21,21 @@ let Navigation=()=>{
     </p>
     <hr/>
 
-    {/*<h3>Navigation Tree</h3>
+    <h3>Navigation Tree</h3>
     <p>
       <NavTree>
-        <NavTreeItem>blah</NavTreeItem>
+        <NavTreeItem>Nav Tree Item 1</NavTreeItem>
+        <NavTree>
+          <NavTreeItem active={true}>Nav Tree Item 2</NavTreeItem>
+          <NavTreeItem>Nav Tree Item 3</NavTreeItem>
+        </NavTree>
+        <NavTreeItem>Nav Tree Item 4</NavTreeItem>
+        <NavTree>
+          <NavTreeItem>Nav Tree Item 5</NavTreeItem>
+        </NavTree>
       </NavTree>
     </p>
-    <hr/>*/}
+    <hr/>
 
     <h3>Navigation Bar</h3>
     <Navbar>
@@ -41,6 +51,7 @@ let Navigation=()=>{
         <NavbarLink>Navbar Link 4</NavbarLink>
       </NavbarSection>
     </Navbar>
+    <hr/>
 
     <h3>Steps</h3>
     <p>

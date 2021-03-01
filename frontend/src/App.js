@@ -15,6 +15,11 @@ import Icons from "./examples/controls/Icons";
 import Images from "./examples/controls/Images";
 import Menus from "./examples/controls/Menus";
 import TablesGrids from "./examples/controls/TablesGrids";
+import examplesListing from "./examples/examplesListing.json";
+
+import FlexContainer from "./controls/containers/flexbox/FlexContainer";
+import FlexRow from "./controls/containers/flexbox/FlexRow";
+import FlexColumn from "./controls/containers/flexbox/FlexColumn";
 
 /*import Charts from "./examples/Charts";*/
 import Editors from "./examples/Editors";
@@ -27,30 +32,49 @@ import Previews from "./examples/Previews";
 import OffCanvasSidebar from "./controls/containers/offcanvas/OffCanvasSidebar";
 import OffCanvasContent from "./controls/containers/offcanvas/OffCanvasContent";
 import OffCanvas from "./controls/containers/offcanvas/OffCanvas";
+import SourceCodeDisplay from "./previews/SourceCodeDisplay";
+import NavTree from "./controls/navigation/navtree/NavTree";
+import NavTreeItem from "./controls/navigation/navtree/NavTreeItem";
 
 let MyNav=()=>{
   return <>
     <nav>
-      <ul>
-        <li><Link to="/layout">Layout</Link></li>
-        <li><Link to="/containers">Containers</Link></li>
-        <li><Link to="/forms">Forms</Link></li>
-        <li><Link to="/progress">Progress</Link></li>
-        <li><Link to="/tables_grids">TablesGrids</Link></li>
-        <li><Link to="/tabs">Tabs</Link></li>
-        <li><Link to="/navigation">Navigation</Link></li>
-        <li><Link to="/menus">Menus</Link></li>
-        <li><Link to="/icons">Icons</Link></li>
-        <li><Link to="/floating">Floating</Link></li>
-        <li><Link to="/images">Images</Link></li>
+      <NavTree>
+        <NavTreeItem><Link to="/layout">Layout</Link></NavTreeItem>
+        <NavTreeItem><Link to="/containers">Containers</Link></NavTreeItem>
+        <NavTreeItem><Link to="/forms">Forms</Link></NavTreeItem>
+        <NavTreeItem><Link to="/progress">Progress</Link></NavTreeItem>
+        <NavTreeItem><Link to="/tables_grids">TablesGrids</Link></NavTreeItem>
+        <NavTreeItem><Link to="/tabs">Tabs</Link></NavTreeItem>
+        <NavTreeItem><Link to="/navigation">Navigation</Link></NavTreeItem>
+        <NavTreeItem><Link to="/menus">Menus</Link></NavTreeItem>
+        <NavTreeItem><Link to="/icons">Icons</Link></NavTreeItem>
+        {/*<NavTreeItem><Link to="/floating">Floating</Link></NavTreeItem>*/}
+        <NavTreeItem><Link to="/images">Images</Link></NavTreeItem>
 
         {/*<li><Link to="/charts">Charts</Link></li>*/}
-        <li><Link to="/landing">Landing Pages</Link></li>
-        <li><Link to="/map">Map Visualizations</Link></li>
-        <li><Link to="/editors">Editors</Link></li>
-        <li><Link to="/previews">Previews</Link></li>
-      </ul>
+        {/*<NavTreeItem><Link to="/landing">Landing Pages</Link></NavTreeItem>*/}
+        {/*<NavTreeItem><Link to="/map">Map Visualizations</Link></NavTreeItem>*/}
+        <NavTreeItem><Link to="/editors">Editors</Link></NavTreeItem>
+        <NavTreeItem><Link to="/previews">Previews</Link></NavTreeItem>
+      </NavTree>
     </nav>
+  </>;
+}
+
+let SourceDisplay=({ reactClass, jsonKey })=>{
+  return <>
+    <FlexContainer>
+      <FlexRow>
+        <FlexColumn defaultWidth={6} style={{maxWidth: "50%"}}>
+          { reactClass }
+        </FlexColumn>
+        <FlexColumn defaultWidth={6} style={{maxWidth: "50%"}}>
+          <SourceCodeDisplay language="jsx"
+                             code={ examplesListing[jsonKey] }/>
+        </FlexColumn>
+      </FlexRow>
+    </FlexContainer>
   </>;
 }
 
@@ -67,30 +91,30 @@ let App=()=>{
         </OffCanvasContent>
       </OffCanvas>
 
-      <div style={{ maxWidth: "800px",
+      <div style={{ maxWidth: "1600px",
                     marginLeft: "15rem",
                     paddingTop: "0.9rem" }}>
         <Switch>
-          <Route path="/containers"><Containers/></Route>
-          <Route path="/floating"><Floating/></Route>
-          <Route path="/forms"><Forms/></Route>
-          <Route path="/icons"><Icons/></Route>
-          <Route path="/images"><Images/></Route>
-          <Route path="/menus"><Menus/></Route>
-          <Route path="/navigation"><Navigation/></Route>
-          <Route path="/progress"><Progress/></Route>
-          <Route path="/tables_grids"><TablesGrids/></Route>
-          <Route path="/tabs"><Tabs/></Route>
+          <Route path="/containers"><SourceDisplay reactClass={<Containers/>} jsonKey="Containers"/></Route>
+          <Route path="/floating"><SourceDisplay reactClass={<Floating/>} jsonKey="Floating"/></Route>
+          <Route path="/forms"><SourceDisplay reactClass={<Forms/>} jsonKey="Forms"/></Route>
+          <Route path="/icons"><SourceDisplay reactClass={<Icons/>} jsonKey="Icons"/></Route>
+          <Route path="/images"><SourceDisplay reactClass={<Images/>} jsonKey="Images"/></Route>
+          <Route path="/menus"><SourceDisplay reactClass={<Menus/>} jsonKey="Menus"/></Route>
+          <Route path="/navigation"><SourceDisplay reactClass={<Navigation/>} jsonKey="Navigation"/></Route>
+          <Route path="/progress"><SourceDisplay reactClass={<Progress/>} jsonKey="Progress"/></Route>
+          <Route path="/tables_grids"><SourceDisplay reactClass={<TablesGrids/>} jsonKey="TablesGrids"/></Route>
+          <Route path="/tabs"><SourceDisplay reactClass={<Tabs/>} jsonKey="Tabs"/></Route>
 
-          {/*<Route to="/charts"><Charts/></Route>*/}
-          <Route path="/editors"><Editors/></Route>
-          <Route path="/gamification"><Gamification/></Route>
-          <Route path="/landing"><Landing/></Route>
-          <Route path="/layout"><Layout/></Route>
-          <Route path="/map"><Map/></Route>
-          <Route path="/previews"><Previews/></Route>
+          {/*<Route to="/charts"><SourceDisplay reactClass={<Charts/>} jsonKey="Charts"/></Route>*/}
+          <Route path="/editors"><SourceDisplay reactClass={<Editors/>} jsonKey="Editors"/></Route>
+          <Route path="/gamification"><SourceDisplay reactClass={<Gamification/>} jsonKey="Gamification"/></Route>
+          <Route path="/landing"><SourceDisplay reactClass={<Landing/>} jsonKey="Landing"/></Route>
+          <Route path="/layout"><SourceDisplay reactClass={<Layout/>} jsonKey="Layout"/></Route>
+          <Route path="/map"><SourceDisplay reactClass={<Map/>} jsonKey="Map"/></Route>
+          <Route path="/previews"><SourceDisplay reactClass={<Previews/>} jsonKey="Previews"/></Route>
 
-          <Route path="/"><Containers/></Route>
+          <Route path="/"><SourceDisplay reactClass={<Containers/>} jsonKey="Containers" /></Route>
         </Switch>
       </div>
     </Router>

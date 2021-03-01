@@ -2,7 +2,7 @@
 import MarkdownEditor from "../editors/MarkdownEditor";
 import SourceCodeEditor from "../editors/SourceCodeEditor";
 
-function Editors() {
+let Editors=()=>{
   return <>
     <h2>Editors</h2>
     <h3>Markdown Editor</h3>

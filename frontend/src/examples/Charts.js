@@ -3,7 +3,7 @@ import BasicLineChart from "../charts/BasicLineChart";
 import BasicBarChart from "../charts/BasicBarChart";
 import EChartsChart from "../charts/EChartsChart";
 
-function charts() {
+let Charts=()=>{
   return <>
     <BasicBarChart></BasicBarChart>
     <BasicLineChart></BasicLineChart>
@@ -12,4 +12,4 @@ function charts() {
   </>;
 }
 
-export default charts;
+export default Charts;

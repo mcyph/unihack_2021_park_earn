@@ -25,7 +25,7 @@ SOFTWARE.
 import { Component } from "react";
 import Button from "../Button";
 import FlexColumn from "../../../containers/flexbox/FlexColumn";
-import FlexColumns from "../../../containers/flexbox/FlexColumns";
+import FlexRow from "../../../containers/flexbox/FlexRow";
 import FlexContainer from "../../../containers/flexbox/FlexContainer";
 
 class DialogButtons extends Component {
@@ -171,9 +171,9 @@ class DialogButtons extends Component {
       xx += 1;
     }
     return <FlexContainer>
-      <FlexColumns>
+      <FlexRow>
         { buttons }
-      </FlexColumns>
+      </FlexRow>
     </FlexContainer>;
   }
 

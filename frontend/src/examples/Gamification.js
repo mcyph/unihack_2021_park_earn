@@ -1,4 +1,4 @@
-function Gamification() {
+let Gamification=()=>{
   return null;
 }
 

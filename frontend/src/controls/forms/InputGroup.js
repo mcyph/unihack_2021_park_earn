@@ -25,7 +25,7 @@ SOFTWARE.
 import { Component } from "react";
 import Button from "./Button";
 import FlexColumn from "../../../layout/flexbox/FlexColumn";
-import FlexColumns from "../../../layout/flexbox/FlexColumns";
+import FlexColumns from "../../../layout/flexbox/FlexRow";
 import FlexContainer from "../../../layout/flexbox/FlexContainer";
 
 class InputGroup extends Component {

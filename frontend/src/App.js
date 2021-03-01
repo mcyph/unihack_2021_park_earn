@@ -114,7 +114,7 @@ let App=()=>{
           <Route path="/map"><SourceDisplay reactClass={<Map/>} jsonKey="Map"/></Route>
           <Route path="/previews"><SourceDisplay reactClass={<Previews/>} jsonKey="Previews"/></Route>
 
-          <Route path="/"><SourceDisplay reactClass={<Containers/>} jsonKey="Containers" /></Route>
+          <Route path="/"><SourceDisplay reactClass={<Layout/>} jsonKey="Layout" /></Route>
         </Switch>
       </div>
     </Router>

@@ -3,6 +3,8 @@ import Parallax from "../../controls/images/Parallax";
 
 let Images=()=>{
   return <>
+    <h2>Images</h2>
+
     <h3>Image Comparison Slider</h3>
     <p>
       <ComparisonSlider beforeImgSrc={"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/" +

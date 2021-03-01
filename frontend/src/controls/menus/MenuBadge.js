@@ -24,19 +24,21 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class Timeline extends Component {
+class MenuBadge extends Component {
   constructor({ style, children }) {
     super({ style, children });
   }
 
   render() {
     return <>
-      <div className="timeline"
+      <div className="menu-badge"
            style={ this.props.style }>
-        { this.props.children }
+        <label className="label label-primary">
+          { this.props.children }
+        </label>
       </div>
     </>;
   }
 }
 
-export default Timeline;
+export default MenuBadge;

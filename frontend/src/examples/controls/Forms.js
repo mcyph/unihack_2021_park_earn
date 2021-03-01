@@ -17,6 +17,9 @@ let Forms = ()=>{
   const [toggleSwitch2, setToggleSwitch2] = useState(true);
   const [radioGroup, setRadioGroup] = useState("oranges");
   const [select, setSelect] = useState("apples");
+  const [slider, setSlider] = useState(50);
+  const [singleLineText, setSingleLineText] = useState("my text value");
+  const [multiLineText, setMultiLineText] = useState("my text value");
 
   return <>
     <h1>Forms</h1>
@@ -99,19 +102,26 @@ let Forms = ()=>{
     <h2>Text Controls</h2>
     <h3>Multiline Text</h3>
     <p>
-      <MultiLineText value="my value">Multi Line Text</MultiLineText>
+      <MultiLineText value={ multiLineText }
+                     onChange={ newValue => {setMultiLineText(newValue);} }>
+        Multi Line Text
+      </MultiLineText>
     </p>
     <h3>Single Line Text</h3>
     <p>
-      <SingleLineText value="my value">Single Line Text</SingleLineText>
+      <SingleLineText value={ singleLineText }
+                      onChange={ newValue => {setSingleLineText(newValue);} }>
+        Single Line Text
+      </SingleLineText>
     </p>
 
     <h2>Sliders</h2>
     <h3>Slider</h3>
     <p>
-      <Slider min={50}
+      <Slider min={0}
               max={100}
-              value={50} />
+              value={slider}
+              onChange={ newValue => {setSlider(newValue);} }/>
     </p>
   </>
 };

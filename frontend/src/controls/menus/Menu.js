@@ -25,51 +25,15 @@ SOFTWARE.
 import { Component } from "react";
 
 class Menu extends Component {
-  constructor({  }) {
-    super({  });
-    this.state = {};
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   render() {
     return (
-      <ul className="menu">
-        {/* menu header natural_language_processing */}
-        <li className="divider" data-content="LINKS">
-        </li>
-        {/* menu item standard */}
-        <li className="menu-item">
-          <a href="#">
-            <i className="icon icon-link" /> Slack
-          </a>
-        </li>
-        {/* menu item with form control */}
-        <li className="menu-item">
-          <label className="form-checkbox">
-            <input type="checkbox" />
-            <i className="form-icon" /> form-checkbox
-          </label>
-        </li>
-        {/* menu divider */}
-        <li className="divider" />
-        {/* menu item with badge */}
-        <li className="menu-item">
-          <a href="#">
-            <i className="icon icon-link" /> Settings
-          </a>
-          <div className="menu-badge">
-            <label className="label label-primary">2</label>
-          </div>
-        </li>
-
-        <li className="menu-item">
-          <a href="#">My profile</a>
-          <div className="menu-badge">
-            <label className="form-checkbox">
-              <input type="checkbox" />
-              <i className="form-icon" /> Public
-            </label>
-          </div>
-        </li>
+      <ul className="menu"
+          style={ this.props.style }>
+        { this.props.children }
       </ul>
     );
   }

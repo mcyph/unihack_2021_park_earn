@@ -44,11 +44,13 @@ class Select extends Component {
   }
 
   render() {
+    let that = this;
+
     return <Form.FormContext.Consumer>{ context => {
-      let selectedValue = utility.getValue(context, this.props.value);
+      let selectedValue = utility.getValue(context, that.props.value);
       let out = [];
 
-      for (let option of this.props.options) {
+      for (let option of that.props.options) {
         let value, text;
 
         if (typeof option === "string") {
@@ -69,15 +71,15 @@ class Select extends Component {
         }
       }
       return <>
-        <select className={ this.props.inline ? "form-select form-inline"
+        <select className={ that.props.inline ? "form-select form-inline"
                                               : "form-select" }
-                name={ this.props.name }
-                ref={ el => {this.__select = el;} }
+                name={ that.props.name }
+                ref={ el => {that.__select = el;} }
                 onChange={() => {
-                  let value = this.__select.options[this.__select.selectedIndex].value;
-                  utility.onChange(context, this.props.onChange, this.props.name, value);
+                  let value = that.__select.options[that.__select.selectedIndex].value;
+                  utility.onChange(context, that.props.onChange, that.props.name, value);
                 }}
-                style={ this.style }>
+                style={ that.style }>
           { out }
         </select>
       </>;

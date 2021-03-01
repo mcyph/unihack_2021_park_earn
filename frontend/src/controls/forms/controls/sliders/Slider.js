@@ -26,15 +26,21 @@ import { Component } from "react";
 
 class Slider extends Component {
   constructor({ min, max, value, onChange, tooltip, style }) {
+    if (min == null) {
+      min = 0;
+    }
+    if (max == null) {
+      max = 100;
+    }
     super({ min, max, value, onChange, tooltip, style });
   }
 
   render() {
     return <>
-      <input ref={el => {this.__el = el;}}
+      <input type="range"
              className={ this.props.tooltip ? "slider tooltip" : "slider" }
+             ref={el => {this.__el = el;}}
              style={ this.props.style }
-             type="range"
              min={ this.props.min }
              max={ this.props.max }
              value={ this.props.value }

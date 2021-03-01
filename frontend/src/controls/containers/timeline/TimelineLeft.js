@@ -31,6 +31,10 @@ class TimelineLeft extends Component {
 
   render() {
     return <>
+      <div className="timeline-left"
+           style={this.props.style}>
+        { this.props.children }
+      </div>
     </>;
   }
 }

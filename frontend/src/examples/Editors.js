@@ -13,7 +13,8 @@ function Editors() {
 
     <h3>Source Code Editor</h3>
     <p>
-      <SourceCodeEditor></SourceCodeEditor>
+      <SourceCodeEditor language="python"
+                        value="import this" />
     </p>
   </>;
 }

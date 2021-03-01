@@ -26,39 +26,52 @@ SOFTWARE.
 // so as to use same dependency as markdown editor??
 
 import { Component } from "react";
-import { render } from 'react-dom';
-import MonacoEditor from 'react-monaco-editor';
+import { UnControlled as CodeMirror } from 'react-codemirror2'
 
-class SourceCodeDisplay extends Component {
-  constructor({ width, height, language, code }) {
-    super({ width, height, language, code });
+require("codemirror/mode/xml/xml");
+require("codemirror/mode/css/css");
+require("codemirror/mode/dart/dart");
+require("codemirror/mode/go/go");
+require("codemirror/mode/javascript/javascript");
+require("codemirror/mode/python/python");
+require("codemirror/mode/jinja2/jinja2");
+require("codemirror/mode/markdown/markdown");
+require("codemirror/mode/php/php");
+require("codemirror/mode/perl/perl");
+require("codemirror/mode/sql/sql");
+require("codemirror/mode/ruby/ruby");
+require("codemirror/mode/jsx/jsx");
+require("codemirror/mode/dockerfile/dockerfile");
+require("codemirror/mode/shell/shell");
+
+class SourceCodeEditor extends Component {
+  /**
+   *
+   * @param language
+   * @param value
+   * @param onChange
+   */
+
+  constructor({ language, value, onChange }) {
+    super({ language, value, onChange });
   }
 
   render() {
-    return (
-      <MonacoEditor
-        width={ this.props.width || 800 }
-        height={ this.props.height || 600 }
-        language={ this.props.language || "javascript" }
-        theme={ true ? "vs-dark" : "vs-light" }
-        value={ this.props.code }
+    return <>
+      <CodeMirror
+        value={ this.props.value }
         options={{
-          selectOnLineNumbers: true
+          mode: this.props.language,
+          lineNumbers: true
         }}
-        onChange={ this.onChange.bind(this) }
-        editorDidMount={ this.editorDidMount.bind(this) }
+        onChange={(editor, data, value) => {
+          if (this.props.onChange) {
+            this.props.onChange(value, data, editor);
+          }
+        }}
       />
-    );
-  }
-
-  editorDidMount(editor, monaco) {
-    console.log('editorDidMount', editor);
-    editor.focus();
-  }
-
-  onChange(newValue, e) {
-    console.log('onChange', newValue, e);
+    </>;
   }
 }
 
-export default SourceCodeDisplay;
+export default SourceCodeEditor;

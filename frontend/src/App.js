@@ -9,14 +9,12 @@ import Containers from "./examples/controls/Containers";
 import Forms from "./examples/controls/Forms";
 import Progress from "./examples/controls/Progress";
 import Navigation from "./examples/controls/Navigation";
-import Steps from "./examples/controls/Steps";
 import Floating from "./examples/controls/Floating";
 import Tabs from "./examples/controls/Tabs";
 import Icons from "./examples/controls/Icons";
 import Images from "./examples/controls/Images";
 import Menus from "./examples/controls/Menus";
 import TablesGrids from "./examples/controls/TablesGrids";
-import Utilities from "./examples/controls/Utilities";
 
 /*import Charts from "./examples/Charts";*/
 import Editors from "./examples/Editors";
@@ -34,25 +32,22 @@ let MyNav=()=>{
   return <>
     <nav>
       <ul>
+        <li><Link to="/layout">Layout</Link></li>
         <li><Link to="/containers">Containers</Link></li>
-        <li><Link to="/floating">Floating</Link></li>
         <li><Link to="/forms">Forms</Link></li>
-        <li><Link to="/icons">Icons</Link></li>
-        <li><Link to="/images">Images</Link></li>
-        <li><Link to="/menus">Menus</Link></li>
-        <li><Link to="/navigation">Navigation</Link></li>
         <li><Link to="/progress">Progress</Link></li>
-        <li><Link to="/steps">Steps</Link></li>
         <li><Link to="/tables_grids">TablesGrids</Link></li>
         <li><Link to="/tabs">Tabs</Link></li>
-        <li><Link to="/utilities">Utilities</Link></li>
+        <li><Link to="/navigation">Navigation</Link></li>
+        <li><Link to="/menus">Menus</Link></li>
+        <li><Link to="/icons">Icons</Link></li>
+        <li><Link to="/floating">Floating</Link></li>
+        <li><Link to="/images">Images</Link></li>
 
         {/*<li><Link to="/charts">Charts</Link></li>*/}
-        <li><Link to="/editors">Editors</Link></li>
-        <li><Link to="/gamification">Gamification</Link></li>
         <li><Link to="/landing">Landing Pages</Link></li>
-        <li><Link to="/layout">Layout</Link></li>
         <li><Link to="/map">Map Visualizations</Link></li>
+        <li><Link to="/editors">Editors</Link></li>
         <li><Link to="/previews">Previews</Link></li>
       </ul>
     </nav>
@@ -84,10 +79,8 @@ let App=()=>{
           <Route path="/menus"><Menus/></Route>
           <Route path="/navigation"><Navigation/></Route>
           <Route path="/progress"><Progress/></Route>
-          <Route path="/steps"><Steps/></Route>
           <Route path="/tables_grids"><TablesGrids/></Route>
           <Route path="/tabs"><Tabs/></Route>
-          <Route path="/utilities"><Utilities/></Route>
 
           {/*<Route to="/charts"><Charts/></Route>*/}
           <Route path="/editors"><Editors/></Route>

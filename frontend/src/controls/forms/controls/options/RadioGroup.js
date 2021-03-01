@@ -48,20 +48,20 @@ class RadioGroup extends React.Component {
     if (value == null || value === -1) {
       value = 0;
     }
-    if (!name) {
-      name = '__radio_'+__NAME_ID++;
-    }
     super({ name, options, value, onChange,
             inline, validator, style });
+    this.__name = '__radio_'+(__NAME_ID++);
   }
 
   render=()=> {
+    let that = this;
+
     return <Form.FormContext.Consumer>{ form => {
-      let selectedValue = utility.getValue(form, this.props.value);
+      let selectedValue = utility.getValue(form, that.props.value);
 
       let out = [];
 
-      for (let option of this.props.options) {
+      for (let option of that.props.options) {
         let value, text;
 
         if (typeof option === "string") {
@@ -76,14 +76,14 @@ class RadioGroup extends React.Component {
         }
 
         out.push(<>
-          <label className={ this.props.inline ? "form-radio form-inline"
+          <label className={ that.props.inline ? "form-radio form-inline"
                                                : "form-radio" }
-                 style={ this.style }>
+                 style={ that.props.style }>
             <input type="radio"
-                   name={ this.props.name }
+                   name={ that.props.name || that.__name }
                    { ...(value === selectedValue ? {checked: true} : {}) }
-                   onClick={() => {
-                     utility.onChange(form, this.props.onChange, this.props.name, value);
+                   onChange={() => {
+                     utility.onChange(form, that.props.onChange, that.props.name, value);
                    }}/>
             <i className="form-icon" /> { text }
           </label>

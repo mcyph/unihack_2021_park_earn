@@ -31,6 +31,10 @@ class TimelineContent extends Component {
 
   render() {
     return <>
+      <div className="timeline-content"
+           style={ this.props.style }>
+        { this.props.children }
+      </div>
     </>;
   }
 }

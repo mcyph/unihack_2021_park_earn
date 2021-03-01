@@ -24,19 +24,18 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class Timeline extends Component {
-  constructor({ style, children }) {
-    super({ style, children });
+class MenuDivider extends Component {
+  constructor({ text, style }) {
+    super({ text, style });
   }
 
   render() {
     return <>
-      <div className="timeline"
-           style={ this.props.style }>
-        { this.props.children }
-      </div>
+      <li className="divider"
+          data-content={ this.props.text}
+          style={ this.props.style } />
     </>;
   }
 }
 
-export default Timeline;
+export default MenuDivider;

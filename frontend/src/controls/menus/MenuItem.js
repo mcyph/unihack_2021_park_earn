@@ -24,43 +24,21 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class DropdownMenu extends Component {
-  constructor({  }) {
-    super({  });
-    this.state = {};
+class MenuItem extends Component {
+  constructor({ href, style, children }) {
+    super({ href, style, children });
   }
 
   render() {
     return <>
-      {/* basic dropdown button */}
-      <div className="dropdown">
-        <a href="#" className="btn btn-link dropdown-toggle" tabIndex="0">
-          dropdown menu <i className="icon icon-caret" />
+      <li className="menu-item"
+          style={ this.props.style }>
+        <a href={ this.props.href }>
+          { this.props.children }
         </a>
-        {/* menu component */}
-        <ul className="menu">
-          ...
-        </ul>
-      </div>
-
-      {/* dropdown button group */}
-      <div className="dropdown">
-        <div className="btn-group">
-          <a href="#" className="btn">
-            dropdown button
-          </a>
-          <a href="#" className="btn dropdown-toggle" tabIndex="0">
-            <i className="icon icon-caret" />
-          </a>
-
-          {/* menu component */}
-          <ul className="menu">
-            ...
-          </ul>
-        </div>
-      </div>
+      </li>
     </>;
   }
 }
 
-export default DropdownMenu;
+export default MenuItem;

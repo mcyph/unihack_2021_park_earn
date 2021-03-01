@@ -34,10 +34,29 @@ import PanelBody from "../../controls/containers/panel/PanelBody";
 import PanelNav from "../../controls/containers/panel/PanelNav";
 import PanelFooter from "../../controls/containers/panel/PanelFooter";
 import CardHeader from "../../controls/containers/card/CardHeader";
+import SpectreCSSIcon from "../../controls/icons/SpectreCSSIcon";
+import Hero from "../../controls/containers/Hero";
 
 let Containers=()=>{
   return <>
     <h1>Containers</h1>
+    <h3>Hero</h3>
+    <h4>Normal Hero</h4>
+    <Hero size={Hero.SIZE.DEFAULT}>
+      <h1>Hero title</h1>
+      <p>Hero body</p>
+    </Hero>
+    <h4>Small Hero</h4>
+    <Hero size={Hero.SIZE.SMALL}>
+      <h1>Hero title</h1>
+      <p>Hero body</p>
+    </Hero>
+    <h4>Large Hero</h4>
+    <Hero size={Hero.SIZE.LARGE}>
+      <h1>Hero title</h1>
+      <p>Hero body</p>
+    </Hero>
+
     <h2>Card</h2>
     <p>
       <Card>
@@ -57,9 +76,17 @@ let Containers=()=>{
     <h2>Chip</h2>
     <p>
       <Chip>
-        <img src="img/avatar-1.png"
-             className="avatar avatar-sm" />
-        Chip Item 1
+        <SpectreCSSIcon icon={ SpectreCSSIcon.ACTION.PLUS }/>
+        &nbsp;Chip Item 1
+        <a href="#"
+           className="btn btn-clear"
+           aria-label="Close"
+           role="button" />
+      </Chip>
+
+      <Chip>
+        <SpectreCSSIcon icon={ SpectreCSSIcon.ACTION.EDIT }/>
+        &nbsp;Chip Item 2
         <a href="#"
            className="btn btn-clear"
            aria-label="Close"
@@ -68,7 +95,8 @@ let Containers=()=>{
     </p>
     <hr/>
 
-    <h2>Empty State Container</h2>
+    <h2>Empty Container</h2>
+    Use this to indicate there isn't any content for some reason.
     <p>
       <EmptyCont>
         <EmptyContIcon>Container Icon</EmptyContIcon>
@@ -115,13 +143,13 @@ let Containers=()=>{
     <p>
       <Timeline>
         <TimelineItem>
-          <TimelineLeft><TimelineIcon>Timeline Icon 1</TimelineIcon></TimelineLeft>
+          <TimelineLeft><TimelineIcon /></TimelineLeft>
           <TimelineContent>
             Timeline Content 1
           </TimelineContent>
         </TimelineItem>
         <TimelineItem>
-          <TimelineLeft><TimelineIcon>Timeline Icon 2</TimelineIcon></TimelineLeft>
+          <TimelineLeft><TimelineIcon /></TimelineLeft>
           <TimelineContent>
             Timeline Content 2
           </TimelineContent>

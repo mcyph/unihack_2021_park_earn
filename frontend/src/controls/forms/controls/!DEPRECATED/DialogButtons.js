@@ -24,7 +24,7 @@ SOFTWARE.
 
 import { Component } from "react";
 import Button from "../Button";
-import FlexColumn from "../../../containers/flexbox/FlexColumn";
+import FlexCol from "../../../containers/flexbox/FlexCol";
 import FlexRow from "../../../containers/flexbox/FlexRow";
 import FlexContainer from "../../../containers/flexbox/FlexContainer";
 
@@ -113,9 +113,9 @@ class DialogButtons extends Component {
       } else if (this.__isArray(buttonType)) {
         // icon??
         buttons.push(
-          <FlexColumn margin={
+          <FlexCol margin={
             nextItemSeparator ?
-                FlexColumn.MARGIN.RIGHT : FlexColumn.MARGIN.NONE
+                FlexCol.MARGIN.RIGHT : FlexCol.MARGIN.NONE
           }>
             <Button
               color={buttonType[0]}
@@ -128,14 +128,14 @@ class DialogButtons extends Component {
             >
               { buttonType[1] }
             </Button>
-          </FlexColumn>
+          </FlexCol>
         );
       } else if (this.__isLiteralObject(buttonType)) {
         // {type: [type], ...} format
         buttons.push(
-          <FlexColumn margin={
+          <FlexCol margin={
             nextItemSeparator ?
-                FlexColumn.MARGIN.RIGHT : FlexColumn.MARGIN.NONE
+                FlexCol.MARGIN.RIGHT : FlexCol.MARGIN.NONE
           }>
             <Button
               color={'color' in buttonType ? buttonType.color : buttonType.type[0]}
@@ -154,17 +154,17 @@ class DialogButtons extends Component {
             >
               { buttonType.type[1] }
             </Button>
-          </FlexColumn>
+          </FlexCol>
         );
       } else {
         // a JSX element?
         buttons.push(
-          <FlexColumn margin={
+          <FlexCol margin={
             nextItemSeparator ?
-                FlexColumn.MARGIN.RIGHT : FlexColumn.MARGIN.NONE
+                FlexCol.MARGIN.RIGHT : FlexCol.MARGIN.NONE
           }>
             { buttonType }
-          </FlexColumn>
+          </FlexCol>
         );
       }
 

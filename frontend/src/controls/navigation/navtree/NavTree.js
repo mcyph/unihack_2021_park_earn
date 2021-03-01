@@ -23,8 +23,11 @@ SOFTWARE.
  */
 
 import { Component } from "react";
+import NavTreeItem from "./NavTreeItem";
 
 class NavTree extends Component {
+  static Item = NavTreeItem;
+
   constructor({ style, children }) {
     super({ style, children });
   }

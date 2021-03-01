@@ -24,7 +24,7 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class FlexColumn extends Component {
+class FlexCol extends Component {
   static MARGIN = {
     NONE: '',
     LEFT: 'col-lx-auto',
@@ -96,8 +96,8 @@ class FlexColumn extends Component {
   }
 }
 
-export default FlexColumn;
+export default FlexCol;
 
-//<FlexColumn small={'5/12'}
+//<FlexCol small={'5/12'}
 //            medium={'3/12'}>
-//</FlexColumn>
+//</FlexCol>

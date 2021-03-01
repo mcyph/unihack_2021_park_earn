@@ -27,8 +27,8 @@ import { Component } from "react";
 class FlexRow extends Component {
   /**
    *
-   * @param gapless `true` for no spaces in between `FlexColumn`s. Defaults to `false`.
-   * @param singleLine `true` to display all `FlexColumn`s on a single line.
+   * @param gapless `true` for no spaces in between `FlexCol`s. Defaults to `false`.
+   * @param singleLine `true` to display all `FlexCol`s on a single line.
    *                   Defaults to `false` to allow wrapping.
    * @param style any additional styles
    * @param children

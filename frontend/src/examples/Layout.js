@@ -1,4 +1,4 @@
-import FlexColumn from "../controls/containers/flexbox/FlexColumn";
+import FlexCol from "../controls/containers/flexbox/FlexCol";
 import FlexRow from "../controls/containers/flexbox/FlexRow";
 import FlexContainer from "../controls/containers/flexbox/FlexContainer";
 import EmailLogin from "../landing/login/EmailLogin";
@@ -16,55 +16,55 @@ let Layout=()=>{
     <p>
       <FlexContainer style={{ border: "2px solid lightgray" }}>
         <FlexRow singleLine={true}>
-          <FlexColumn defaultSize={3}>
+          <FlexCol defaultSize={3}>
             <div style={{ background: "lightgreen" }}>
               Flex Row 1 3/12ths
             </div>
-          </FlexColumn>
-          <FlexColumn defaultSize={2}>
+          </FlexCol>
+          <FlexCol defaultSize={2}>
             <div style={{ background: "lightblue" }}>
               Flex Row 1 2/12ths
             </div>
-          </FlexColumn>
-          <FlexColumn defaultSize={6}>
+          </FlexCol>
+          <FlexCol defaultSize={6}>
             <div style={{ background: "lightsalmon" }}>
               Flex Row 1 6/12ths
             </div>
-          </FlexColumn>
+          </FlexCol>
         </FlexRow>
         <FlexRow singleLine={true}>
-          <FlexColumn defaultSize={6}>
+          <FlexCol defaultSize={6}>
             <div style={{ background: "lightsalmon" }}>
               Flex Row 2 6/12ths
             </div>
-          </FlexColumn>
-          <FlexColumn defaultSize={2}>
+          </FlexCol>
+          <FlexCol defaultSize={2}>
             <div style={{ background: "lightblue" }}>
               Flex Row 2 2/12ths
             </div>
-          </FlexColumn>
-          <FlexColumn defaultSize={3}>
+          </FlexCol>
+          <FlexCol defaultSize={3}>
             <div style={{ background: "lightgreen" }}>
               Flex Row 2 3/12ths
             </div>
-          </FlexColumn>
+          </FlexCol>
         </FlexRow>
         <FlexRow singleLine={false}>
-          <FlexColumn defaultSize={6}>
+          <FlexCol defaultSize={6}>
             <div style={{ background: "lightblue" }}>
               Flex Row 3 6/12ths
             </div>
-          </FlexColumn>
-          <FlexColumn defaultSize={6}>
+          </FlexCol>
+          <FlexCol defaultSize={6}>
             <div style={{ background: "lightblue" }}>
               Flex Row 3 6/12ths
             </div>
-          </FlexColumn>
-          <FlexColumn defaultSize={3}>
+          </FlexCol>
+          <FlexCol defaultSize={3}>
             <div style={{ background: "lightblue" }}>
               Flex Row 3 6/12ths
             </div>
-          </FlexColumn>
+          </FlexCol>
         </FlexRow>
       </FlexContainer>
     </p>

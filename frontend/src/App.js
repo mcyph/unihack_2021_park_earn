@@ -21,7 +21,7 @@ import FlexContainer from "./controls/containers/flexbox/FlexContainer";
 import FlexRow from "./controls/containers/flexbox/FlexRow";
 import FlexCol from "./controls/containers/flexbox/FlexCol";
 
-/*import Charts from "./examples/Charts";*/
+import Charts from "./examples/Charts";
 import Editors from "./examples/Editors";
 import Gamification from "./examples/Gamification";
 import Landing from "./examples/Landing";
@@ -52,7 +52,7 @@ let MyNav=()=>{
         {/*<NavTreeItem><Link to="/floating">Floating</Link></NavTreeItem>*/}
         <NavTreeItem><Link to="/images">Images</Link></NavTreeItem>
 
-        {/*<li><Link to="/charts">Charts</Link></li>*/}
+        <NavTreeItem><Link to="/charts">Charts</Link></NavTreeItem>
         {/*<NavTreeItem><Link to="/landing">Landing Pages</Link></NavTreeItem>*/}
         {/*<NavTreeItem><Link to="/map">Map Visualizations</Link></NavTreeItem>*/}
         <NavTreeItem><Link to="/editors">Editors</Link></NavTreeItem>
@@ -106,7 +106,7 @@ let App=()=>{
           <Route path="/tables_grids"><SourceDisplay reactClass={<TablesGrids/>} jsonKey="TablesGrids"/></Route>
           <Route path="/tabs"><SourceDisplay reactClass={<Tabs/>} jsonKey="Tabs"/></Route>
 
-          {/*<Route to="/charts"><SourceDisplay reactClass={<Charts/>} jsonKey="Charts"/></Route>*/}
+          <Route path="/charts"><SourceDisplay reactClass={<Charts/>} jsonKey="Charts"/></Route>
           <Route path="/editors"><SourceDisplay reactClass={<Editors/>} jsonKey="Editors"/></Route>
           <Route path="/gamification"><SourceDisplay reactClass={<Gamification/>} jsonKey="Gamification"/></Route>
           <Route path="/landing"><SourceDisplay reactClass={<Landing/>} jsonKey="Landing"/></Route>

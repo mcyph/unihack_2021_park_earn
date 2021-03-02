@@ -25,7 +25,7 @@ SOFTWARE.
 import { Component } from "react";
 import EChartsChart from "./EChartsChart";
 
-class BasicLineChart extends Component {
+class SankeyChart extends Component {
   constructor({ data, xAxisType, yAxisType, stack, filledArea, style }) {
     super({ data, xAxisType, yAxisType, stack, filledArea, style });
   }
@@ -35,52 +35,58 @@ class BasicLineChart extends Component {
    *******************************************************************/
 
   render() {
-    let series = [];
-    for (let [dataName, dataItem] of this.props.data) {
-      series.push({
-        name: dataName,
-        type: 'line',
-        areaStyle: this.props.filledArea ? {} : null,
-        stack: this.props.stack,
-        data: dataItem,
-        symbol: 'roundRect',
-        step: false,
-      });
-    }
     let options = {
-      legend: {
-
-      },
-      tooltip: {
-        trigger: 'axis',
-        axisPointer: {
-          type: 'cross',
-          label: {
-            backgroundColor: '#6a7985'
-          }
+        series: {
+            type: 'sankey',
+            layout: 'none',
+            emphasis: {
+                focus: 'adjacency'
+            },
+            data: [{
+                name: 'a'
+            }, {
+                name: 'b'
+            }, {
+                name: 'a1'
+            }, {
+                name: 'a2'
+            }, {
+                name: 'b1'
+            }, {
+                name: 'c'
+            }],
+            links: [{
+                source: 'a',
+                target: 'a1',
+                value: 5
+            }, {
+                source: 'a',
+                target: 'a2',
+                value: 3
+            }, {
+                source: 'b',
+                target: 'b1',
+                value: 8
+            }, {
+                source: 'a',
+                target: 'b1',
+                value: 3
+            }, {
+                source: 'b1',
+                target: 'a1',
+                value: 1
+            }, {
+                source: 'b1',
+                target: 'c',
+                value: 2
+            }]
         }
-      },
-      grid: {
-        top: 50,
-        left: '3%',
-        right: '4%',
-        bottom: 50,
-        containLabel: true
-      },
-      xAxis: {
-        type: this.props.xAxisType,
-        boundaryGap: false
-      },
-      yAxis: {
-        type: this.props.yAxisType
-      },
-      series: series
     };
     return <>
-        <EChartsChart options={ options }
-                      style={ this.props.style }/>
+      <EChartsChart options={ options }
+                    style={ this.props.style }/>
     </>;
   }
 }
 
-export default BasicLineChart;
+export default SankeyChart;

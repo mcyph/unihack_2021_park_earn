@@ -20,23 +20,46 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
- */
+*/
 
-import React, { useRef, useEffect } from "react";
-import * as echarts from "echarts";
+import { Component } from "react";
+import EChartsChart from "./EChartsChart";
 
-function EChartsChart({ options, style }) {
-    const myChart = useRef(null)
-    useEffect(() => {
-        const chart = echarts.init(myChart.current)
-        chart.setOption(options)
-    }, [options]);
+class NestedPieChart extends Component {
+  constructor({ data, xAxisType, yAxisType, stack, filledArea, style }) {
+    super({ data, xAxisType, yAxisType, stack, filledArea, style });
+  }
 
-    return (
-      <div ref={myChart}
-           style={style}
-      />
-    );
+  /*******************************************************************
+   * HTML Rendering
+   *******************************************************************/
+
+  render() {
+    let options = {
+        tooltip: {
+            formatter: '{a} <br/>{b} : {c}%'
+        },
+        series: [{
+            name: 'Pressure',
+            type: 'gauge',
+            progress: {
+                show: true
+            },
+            detail: {
+                valueAnimation: true,
+                formatter: '{value}'
+            },
+            data: [{
+                value: 50,
+                name: 'SCORE'
+            }]
+        }]
+    };
+    return <>
+        <EChartsChart options={ options }
+                      style={ this.props.style }/>
+    </>;
+  }
 }
 
-export default EChartsChart;
+export default NestedPieChart;

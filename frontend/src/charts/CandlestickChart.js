@@ -20,23 +20,41 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
- */
+*/
 
-import React, { useRef, useEffect } from "react";
-import * as echarts from "echarts";
+import { Component } from "react";
+import EChartsChart from "./EChartsChart";
 
-function EChartsChart({ options, style }) {
-    const myChart = useRef(null)
-    useEffect(() => {
-        const chart = echarts.init(myChart.current)
-        chart.setOption(options)
-    }, [options]);
+class CandlestickChart extends Component {
+  constructor({ data, xAxisType, yAxisType, stack, filledArea, style }) {
+    super({ data, xAxisType, yAxisType, stack, filledArea, style });
+  }
 
-    return (
-      <div ref={myChart}
-           style={style}
-      />
-    );
+  /*******************************************************************
+   * HTML Rendering
+   *******************************************************************/
+
+  render() {
+    let options = {
+      xAxis: {
+        data: ['2017-10-24', '2017-10-25', '2017-10-26', '2017-10-27']
+      },
+      yAxis: {},
+      series: [{
+        type: 'k',
+        data: [
+          [20, 34, 10,38],
+          [40, 35, 30, 50],
+          [31, 38, 33, 44],
+          [38, 15, 5, 42]
+        ]
+      }]
+    };
+    return <>
+      <EChartsChart options={ options }
+                    style={ this.props.style }/>
+    </>;
+  }
 }
 
-export default EChartsChart;
+export default CandlestickChart;

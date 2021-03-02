@@ -26,8 +26,8 @@ import { Component } from "react";
 import EChartsChart from "./EChartsChart";
 
 class BasicPieChart extends Component {
-  constructor(props) {
-    super(props);
+  constructor({ data, title, subtitle, style }) {
+    super({ data, title, subtitle, style });
   }
 
   render() {
@@ -59,8 +59,8 @@ class BasicPieChart extends Component {
         }
       ]
     };
-    return <EChartsChart options={option}
-                         style={this.props.style} />
+    return <EChartsChart options={ option }
+                         style={ this.props.style } />
   }
 }
 

@@ -23,12 +23,15 @@ SOFTWARE.
  */
 
 import { Component } from "react";
+import EChartsChart from "./EChartsChart";
 
 class BasicBarChart extends Component {
-    AXIS_TYPE_TIME = 'time';
+    static AXIS_TYPE = {
+        TIME: 'time'
+    }
 
-    constructor({ xData, xAxisType, yData, yAxisType, stack, style }) {
-        super({ xData, xAxisType, yData, yAxisType, stack, style });
+    constructor({ data, xAxisType, yAxisType, stack, style }) {
+        super({ data, xAxisType, yAxisType, stack, style });
         this.state = {};
     }
 
@@ -37,54 +40,7 @@ class BasicBarChart extends Component {
      *******************************************************************/
 
     render() {
-        if (!this.state.option) {
-            return null;
-        }
-
-        return (
-            <div>
-                <ReactEchartsCore
-                    theme={cm.getEChartsTheme()}
-                    echarts={echarts}
-                    ref={el => {this.reactEChart = el}}
-                    option={this.state.option}
-                    style={{
-                        height: "50vh",
-                        marginTop: '25px'
-                    }}
-                />
-            </div>
-        );
-    }
-
-    /*******************************************************************
-     * Re-render methods
-     *******************************************************************/
-
-    setMode(mode) {
-        this.__mode = mode;
-        this.__updateSeriesData()
-    }
-
-    setCasesInst(casesData, regionType) {
-        this.__casesData = casesData;
-        this.__regionType = regionType;
-        this.__updateSeriesData()
-    }
-
-    /*******************************************************************
-     * Get chart data
-     *******************************************************************/
-
-    __updateSeriesData() {
-        if (!this.__casesData) {
-            return;
-        }
-
-        let data = {},
-            series = [],
-            allDates = new Set();
-
+        let series = [];
         for (let [dataName, dataItem] of this.props.data) {
             series.push({
                 name: dataName,
@@ -95,38 +51,45 @@ class BasicBarChart extends Component {
                 step: false,
             });
         }
+        let options = {
+            legend: {
 
-        this.setState({
-            option: {
-                legend: {
-
-                },
-                tooltip: {
-                    trigger: 'axis',
-                    axisPointer: {
-                        type: 'cross',
-                        label: {
-                            backgroundColor: '#6a7985'
-                        }
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    type: 'cross',
+                    label: {
+                        backgroundColor: '#6a7985'
                     }
-                },
-                grid: {
-                    top: 50,
-                    left: '3%',
-                    right: '4%',
-                    bottom: 50,
-                    containLabel: true
-                },
-                xAxis: {
-                    type: this.props.xAxisType,
-                    boundaryGap: false
-                },
-                yAxis: {
-                    type: this.props.yAxisType
-                },
-                series: series
-            }
-        });
+                }
+            },
+            grid: {
+                top: 50,
+                left: '3%',
+                right: '4%',
+                bottom: 50,
+                containLabel: true
+            },
+            xAxis: {
+                type: this.props.xAxisType,
+                boundaryGap: false
+            },
+            yAxis: {
+                type: this.props.yAxisType
+            },
+            series: series
+        };
+
+        return <>
+            <div>
+                <EChartsChart
+                    ref={el => {this.reactEChart = el}}
+                    options={ options }
+                    style={ this.props.style }
+                />
+            </div>
+        </>;
     }
 }
 

@@ -25,9 +25,9 @@ SOFTWARE.
 import { Component } from "react";
 import EChartsChart from "./EChartsChart";
 
-class NestedPieChart extends Component {
-  constructor({ data, xAxisType, yAxisType, stack, filledArea, style }) {
-    super({ data, xAxisType, yAxisType, stack, filledArea, style });
+class GaugeChart extends Component {
+  constructor({ value, style }) {
+    super({ value, style });
   }
 
   /*******************************************************************
@@ -50,7 +50,7 @@ class NestedPieChart extends Component {
                 formatter: '{value}'
             },
             data: [{
-                value: 50,
+                value: this.props.value,
                 name: 'SCORE'
             }]
         }]
@@ -62,4 +62,4 @@ class NestedPieChart extends Component {
   }
 }
 
-export default NestedPieChart;
+export default GaugeChart;

@@ -22,12 +22,25 @@
  SOFTWARE.
  */
 
-import { Component } from "react";
+import React, { Component } from "react";
 import EChartsChart from "./EChartsChart";
 
+
+class SunburstItem extends Component {
+  constructor({ name, value, children }) {
+    super({ name, value, children });
+  }
+  render() {
+    return null;
+  }
+}
+
+
 class SunburstChart extends Component {
-  constructor({ data, xAxisType, yAxisType, stack, filledArea, style }) {
-    super({ data, xAxisType, yAxisType, stack, filledArea, style });
+  static Item = SunburstItem;
+
+  constructor({ style }) {
+    super({ style });
   }
 
   /*******************************************************************
@@ -35,56 +48,13 @@ class SunburstChart extends Component {
    *******************************************************************/
 
   render() {
-    let data = [{
-      name: 'Grandpa',
-      children: [{
-        name: 'Uncle Leo',
-        value: 15,
-        children: [{
-          name: 'Cousin Jack',
-          value: 2
-        }, {
-          name: 'Cousin Mary',
-          value: 5,
-          children: [{
-            name: 'Jackson',
-            value: 2
-          }]
-        }, {
-          name: 'Cousin Ben',
-          value: 4
-        }]
-      }, {
-        name: 'Father',
-        value: 10,
-        children: [{
-          name: 'Me',
-          value: 5
-        }, {
-          name: 'Brother Peter',
-          value: 1
-        }]
-      }]
-    }, {
-      name: 'Nancy',
-      children: [{
-        name: 'Uncle Nike',
-        children: [{
-          name: 'Cousin Betty',
-          value: 1
-        }, {
-          name: 'Cousin Jenny',
-          value: 2
-        }]
-      }]
-    }];
     let options = {
       series: {
         type: 'sunburst',
         // emphasis: {
         //     focus: 'ancestor'
         // },
-        data: data,
+        data: React.Children.map(this.props.children, child => this.__getData(child)),
         radius: [0, '90%'],
         label: {
           rotate: 'radial'
@@ -95,6 +65,18 @@ class SunburstChart extends Component {
       <EChartsChart options={ options }
                     style={ this.props.style }/>
     </>;
+  }
+
+  __getData(child) {
+    let r = {
+      name: child.props.name,
+      value: child.props.value,
+      children: React.Children.map(child.props.children, child => this.__getData(child))
+    };
+    if (!r.children || !r.children.length) {
+      delete r.children;
+    }
+    return r;
   }
 }
 

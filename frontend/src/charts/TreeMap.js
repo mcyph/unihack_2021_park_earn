@@ -22,12 +22,27 @@
  SOFTWARE.
  */
 
+import React from "react";
 import { Component } from "react";
 import EChartsChart from "./EChartsChart";
 
+
+class TreeMapItem extends Component {
+  constructor({ name, value, children }) {
+    children = children || [];
+    super({ name, value, children });
+  }
+  render() {
+    return null;
+  }
+}
+
+
 class TreeMap extends Component {
-  constructor({data, xAxisType, yAxisType, stack, filledArea, style}) {
-    super({data, xAxisType, yAxisType, stack, filledArea, style});
+  static Item = TreeMapItem;
+
+  constructor({ style, children }) {
+    super({ style, children });
   }
 
   /*******************************************************************
@@ -38,34 +53,25 @@ class TreeMap extends Component {
     let options = {
       series: [{
         type: 'treemap',
-        data: [{
-          name: 'nodeA',            // First tree
-          value: 10,
-          children: [{
-            name: 'nodeAa',       // First leaf of first tree
-            value: 4
-          }, {
-            name: 'nodeAb',       // Second leaf of first tree
-            value: 6
-          }]
-        }, {
-          name: 'nodeB',            // Second tree
-          value: 20,
-          children: [{
-            name: 'nodeBa',       // Son of first tree
-            value: 20,
-            children: [{
-              name: 'nodeBa1',  // Granson of first tree
-              value: 20
-            }]
-          }]
-        }]
+        data: React.Children.map(this.props.children, child => this.__getData(child))
       }]
     };
     return <>
       <EChartsChart options={ options }
                     style={ this.props.style }/>
     </>;
+  }
+
+  __getData(child) {
+    let r = {
+      name: child.props.name,
+      value: child.props.value,
+      children: React.Children.map(child.props.children, child => this.__getData(child))
+    };
+    if (!r.children || !r.children.length) {
+      delete r.children;
+    }
+    return r;
   }
 }
 

@@ -26,6 +26,13 @@ import React, { useRef, useEffect } from "react";
 import * as echarts from "echarts";
 
 function EChartsChart({ options, style }) {
+    /*options['aria'] = {
+        enabled: true,
+        decal: {
+            show: true
+        }
+    };*/
+
     const myChart = useRef(null)
     useEffect(() => {
         const chart = echarts.init(myChart.current)

@@ -26,6 +26,13 @@ import { Component } from "react";
 import EChartsChart from "./EChartsChart";
 
 class BasicLineChart extends Component {
+  static AXIS_TYPE = {
+    VALUE: 'value',
+    LOG: 'float',
+    CATEGORY: 'category',
+    TIME: 'time'
+  }
+
   constructor({ data, xAxisType, yAxisType, stack, filledArea, style }) {
     super({ data, xAxisType, yAxisType, stack, filledArea, style });
   }

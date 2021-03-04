@@ -32,6 +32,6 @@ a more detailed tutorial up soon.
    
        sudo docker-compose up
    
-   and browse to the address http://localhost:3008 with a 
+   and browse to the address http://localhost:3000 with a 
    web browser for the demo once things are done!
 

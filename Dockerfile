@@ -6,6 +6,6 @@ WORKDIR /src/
 COPY package*.json ./
 RUN npm install
 
-# Run the server on port 3008
-EXPOSE 3008
+# Run the server on port 3000
+EXPOSE 3000
 CMD npm start

@@ -2,7 +2,7 @@ import json
 import pathlib
 
 out = {}
-for js_path in pathlib.Path('.').rglob('*.js'):
+for js_path in pathlib.Path('').rglob('*.js'):
     print(js_path)
     out[js_path.name.rpartition('.')[0]] = js_path.read_text(encoding='utf-8')
 

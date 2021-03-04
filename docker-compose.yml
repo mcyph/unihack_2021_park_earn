@@ -1,0 +1,11 @@
+version: "2"
+services:
+  web:
+    build: .
+    volumes:
+      - .:/src/
+      - /src/node_modules
+    env_file:
+      - .env
+    ports:
+     - '3008:3008'

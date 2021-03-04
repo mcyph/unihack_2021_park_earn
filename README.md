@@ -28,8 +28,13 @@ a more detailed tutorial up soon.
        git clone https://github.com/[my user name here]/react_spectrecss_kickstarter.git
        cd react_spectrecss_kickstarter
    
-3. Then, to run the server, type:
+3. Then, to run the server, type the following from Windows 
+   from an administrator command prompt:
    
+       docker-compose up
+   
+   or the following from linux or unix-like OSes:
+
        sudo docker-compose up
    
    and browse to the address http://localhost:3000 with a 

@@ -15,17 +15,22 @@ import TreeMap from "../charts/TreeMap";
 
 let Charts=()=>{
   return <>
-    <BasicBarChart data={[["test", [[0, 10], [1, 15], [2, 5]]]]}
-                   xAxisType={ BasicBarChart.AXIS_TYPE.VALUE }
+    <BasicBarChart data={[["plot 1", [["apple", 10], ["pear", 15], ["banana", 5]]],
+                          ["plot 2", [["apple", 10], ["pear", 15], ["banana", 5]]],
+                          ["plot 3", [["apple", 10], ["pear", 15], ["banana", 5]]]]}
+                   xAxisType={ BasicBarChart.AXIS_TYPE.CATEGORY }
                    yAxisType={ BasicBarChart.AXIS_TYPE.VALUE }
-                   stack={ true }
-                   style={{ height: "30vh" }}/>
+                   stack={ "blah" }
+                   style={{ height: "50vh" }}/>
     <BasicLineChart data={[["test", [[0, 10], [1, 15], [2, 5]]]]}
                     xAxisType={ BasicLineChart.AXIS_TYPE.VALUE }
                     yAxisType={ BasicLineChart.AXIS_TYPE.VALUE }
                     stack={ true }
                     filledArea={ true }
-                    style={{ height: "30vh" }}/>
+                    style={{ height: "50vh" }}/>
+    <BasicPieChart data={ [['apple', 30], ['orange', 60], ['pear', 10]] }
+                   sort={ BasicPieChart.SORT.ASCENDING }
+                   style={{ height: "50vh" }}/>
     <NestedPieChart innerData={[['Fruit', 50], ['Vegetable', 50]]}
                     outerData={[['Watermelon', 25], ['Banana', 25],
                                 ['Carrot', 25], ['Celery', 25]]}
@@ -37,7 +42,7 @@ let Charts=()=>{
     <FunnelChart data={[['apple', 60], ['banana', 40], ['cherry', 20],
                         ['orange', 80], ['pear', 100]]}
                  sort={ FunnelChart.SORT.ASCENDING }
-                 style={{ height: "30vh" }}/>
+                 style={{ height: "50vh" }}/>
     <GaugeChart value={ 50 }
                 style={{ height: "30vh" }}/>
     <HeatmapCartesian
@@ -72,7 +77,7 @@ let Charts=()=>{
 
       style={{ height: "30vh" }}/>
     <ScatterPlot
-      data={[
+      data={ [
         // TODO!
         [10.0, 8.04],
         [8.07, 6.95],
@@ -96,27 +101,28 @@ let Charts=()=>{
         [12.0, 8.84],
         [7.08, 5.82],
         [5.02, 5.68]
-      ]}
-      style={{ height: "30vh" }}/>
-    <SunburstChart style={{ height: "30vh" }}>
-      <SunburstChart.Item name={'nodeA'} value={10}>
-        <SunburstChart.Item name={'nodeAa'} value={4}/>
-        <SunburstChart.Item name={'nodeAb'} value={6}/>
+      ] }
+      symbolSize={ 20 }
+      style={{ height: "50vh" }}/>
+    <SunburstChart style={{ height: "60vh" }}>
+      <SunburstChart.Item name={'parent 1'} value={10}>
+        <SunburstChart.Item name={'parent 1>child 1'} value={4}/>
+        <SunburstChart.Item name={'parent 1>child 2'} value={6}/>
       </SunburstChart.Item>
-      <SunburstChart.Item name={'nodeB'} value={20}>
-        <SunburstChart.Item name={'nodeBa'} value={20}>
-          <SunburstChart.Item name={'nodeBa1'} value={20}/>
+      <SunburstChart.Item name={'parent 2'} value={20}>
+        <SunburstChart.Item name={'parent 2>child 3'} value={20}>
+          <SunburstChart.Item name={'child 3>child'} value={20}/>
         </SunburstChart.Item>
       </SunburstChart.Item>
     </SunburstChart>
     <TreeMap style={{ height: "30vh" }}>
-      <TreeMap.Item name={'nodeA'} value={10}>
-        <TreeMap.Item name={'nodeAa'} value={4}/>
-        <TreeMap.Item name={'nodeAb'} value={6}/>
+      <TreeMap.Item name={'parent 1'} value={10}>
+        <TreeMap.Item name={'parent 1>child 1'} value={4}/>
+        <TreeMap.Item name={'parent 1>child 2'} value={6}/>
       </TreeMap.Item>
-      <TreeMap.Item name={'nodeB'} value={20}>
-        <TreeMap.Item name={'nodeBa'} value={20}>
-          <TreeMap.Item name={'nodeBa1'} value={20}/>
+      <TreeMap.Item name={'parent 2'} value={20}>
+        <TreeMap.Item name={'parent 2>child 3'} value={20}>
+          <TreeMap.Item name={'child 3>child'} value={20}/>
         </TreeMap.Item>
       </TreeMap.Item>
     </TreeMap>

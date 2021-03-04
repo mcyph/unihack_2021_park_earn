@@ -81,7 +81,14 @@ class BasicLineChart extends Component {
       yAxis: {
         type: this.props.yAxisType
       },
-      series: series
+      series: series,
+
+      aria: {
+        enabled: true,
+        decal: {
+          show: true
+        }
+      }
     };
     return <>
         <EChartsChart options={ options }

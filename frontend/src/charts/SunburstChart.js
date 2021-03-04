@@ -24,11 +24,12 @@
 
 import React, { Component } from "react";
 import EChartsChart from "./EChartsChart";
+import Color from "color";
 
 
 class SunburstItem extends Component {
-  constructor({ name, value, children }) {
-    super({ name, value, children });
+  constructor({ name, value, color, children }) {
+    super({ name, value, color, children });
   }
   render() {
     return null;
@@ -38,9 +39,25 @@ class SunburstItem extends Component {
 
 class SunburstChart extends Component {
   static Item = SunburstItem;
+  static SORT = {
+    NO_SORT: null,
+    ASCENDING: 'asc',
+    DESCENDING: 'desc'
+  };
+  static ROTATE = {
+    NO_ROTATE: 0,
+    RADIAL: 'radial',
+    TANGENTIAL: 'tangential'
+  }
 
-  constructor({ style }) {
-    super({ style });
+  constructor({ sort, rotate, style }) {
+    if (!sort) {
+      sort = SunburstChart.SORT.NO_SORT;
+    }
+    if (rotate == null) {
+      rotate = SunburstChart.ROTATE.RADIAL;
+    }
+    super({ sort, rotate, style });
   }
 
   /*******************************************************************
@@ -51,14 +68,14 @@ class SunburstChart extends Component {
     let options = {
       series: {
         type: 'sunburst',
-        // emphasis: {
-        //     focus: 'ancestor'
-        // },
         data: React.Children.map(this.props.children, child => this.__getData(child)),
         radius: [0, '90%'],
+        sort: this.props.sort,
         label: {
-          rotate: 'radial'
-        }
+          fontSize: "18",
+          rotate: this.props.rotate,
+          formatter: '{b}: {c}'
+        },
       }
     };
     return <>
@@ -71,6 +88,11 @@ class SunburstChart extends Component {
     let r = {
       name: child.props.name,
       value: child.props.value,
+      itemStyle: {
+        color: child.props.color,
+        borderColor: "#aaa",
+      },
+      color: child.props.color ? (Color(child.props.color).isLight() ? 'black' : 'white') : null,
       children: React.Children.map(child.props.children, child => this.__getData(child))
     };
     if (!r.children || !r.children.length) {

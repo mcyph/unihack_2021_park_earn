@@ -67,21 +67,20 @@ class BasicBarChart extends Component {
           }
         }
       },
-      grid: {
-        top: 50,
-        left: '3%',
-        right: '4%',
-        bottom: 50,
-        containLabel: true
-      },
       xAxis: {
-        type: this.props.xAxisType,
-        boundaryGap: false
+        type: this.props.xAxisType
       },
       yAxis: {
         type: this.props.yAxisType
       },
-      series: series
+      series: series,
+
+      aria: {
+        enabled: true,
+        decal: {
+          show: true
+        }
+      }
     };
 
     return <>
@@ -89,6 +88,7 @@ class BasicBarChart extends Component {
         <EChartsChart
             ref={el => {this.reactEChart = el}}
             options={ options }
+
             style={ this.props.style }
         />
       </div>

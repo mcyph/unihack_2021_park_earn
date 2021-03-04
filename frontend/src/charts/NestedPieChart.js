@@ -79,7 +79,14 @@ class NestedPieChart extends Component {
             item => {return {value: item[1], name: item[0]}}
           )
         }
-      ]
+      ],
+
+      aria: {
+        enabled: true,
+        decal: {
+          show: true
+        }
+      }
     };
     return <>
       <EChartsChart options={ options }

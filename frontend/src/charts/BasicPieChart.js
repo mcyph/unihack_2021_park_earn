@@ -26,29 +26,55 @@ import { Component } from "react";
 import EChartsChart from "./EChartsChart";
 
 class BasicPieChart extends Component {
-  constructor({ data, title, subtitle, style }) {
-    super({ data, title, subtitle, style });
+  static SORT = {
+    NO_SORT: null,
+    ASCENDING: 'asc',
+    DESCENDING: 'desc'
+  };
+  static ROTATE = {
+    NO_ROTATE: 0,
+    RADIAL: 'radial',
+    TANGENTIAL: 'tangential'
+  }
+
+  constructor({ data, sort, rotate, style }) {
+    if (!sort) {
+      sort = BasicPieChart.SORT.NO_SORT;
+    }
+    if (rotate == null) {
+      rotate = BasicPieChart.ROTATE.RADIAL;
+    }
+    super({ data, sort, rotate, style });
   }
 
   render() {
+    let data = this.props.data.map(item => {
+      return {name: item[0], value: item[1]}
+    })
+    if (this.props.sort === BasicPieChart.SORT.DESCENDING) {
+      data.sort((a, b) => (a.value > b.value) ? 1 : -1)
+    }
+    else if (this.props.sort === BasicPieChart.SORT.ASCENDING) {
+      data.sort((a, b) => (b.value > a.value) ? 1 : -1)
+    }
+
     let option = {
-      title: {
-        text: this.props.title,
-        subtext: this.props.subtitle,
-        left: 'center'
-      },
       tooltip: {
         trigger: 'item'
       },
-      legend: {
+      /*legend: {
         orient: 'vertical',
         left: 'left',
-      },
+      },*/
       series: [
         {
           type: 'pie',
-          radius: '50%',
-          data: this.props.data,
+          radius: '80%',
+          sort: this.props.sort,
+          label: {
+            formatter: '{b} {d}%'
+          },
+          data: data,
           emphasis: {
             itemStyle: {
               shadowBlur: 10,
@@ -57,7 +83,14 @@ class BasicPieChart extends Component {
             }
           }
         }
-      ]
+      ],
+
+      aria: {
+        enabled: true,
+        decal: {
+          show: true
+        }
+      }
     };
     return <EChartsChart options={ option }
                          style={ this.props.style } />

@@ -25,12 +25,13 @@
 import React from "react";
 import { Component } from "react";
 import EChartsChart from "./EChartsChart";
+import Color from "color";
 
 
 class TreeMapItem extends Component {
-  constructor({ name, value, children }) {
+  constructor({ name, value, color, children }) {
     children = children || [];
-    super({ name, value, children });
+    super({ name, value, color, children });
   }
   render() {
     return null;
@@ -53,6 +54,49 @@ class TreeMap extends Component {
     let options = {
       series: [{
         type: 'treemap',
+        label: {
+          show: true,
+          color: 'black',
+          borderColor: 'white'
+        },
+        upperLabel: {
+          show: true,
+          height: 30,
+          color: 'white'
+        },
+        visibleMin: 500,
+        levels: [
+          {
+            itemStyle: {
+              borderColor: '#777',
+              borderWidth: 0,
+              gapWidth: 1,
+            },
+            upperLabel: {
+              show: false
+            }
+          },
+          {
+            itemStyle: {
+              borderColor: '#555',
+              borderWidth: 5,
+              gapWidth: 1
+            },
+            emphasis: {
+              itemStyle: {
+                borderColor: '#ddd'
+              }
+            }
+          },
+          {
+            colorSaturation: [0.35, 0.5],
+            itemStyle: {
+              borderWidth: 5,
+              gapWidth: 1,
+              borderColorSaturation: 0.6,
+            }
+          }
+        ],
         data: React.Children.map(this.props.children, child => this.__getData(child))
       }]
     };
@@ -66,6 +110,13 @@ class TreeMap extends Component {
     let r = {
       name: child.props.name,
       value: child.props.value,
+      label: {
+        show: true,
+        color: child.props.color ? (Color(child.props.color).isLight() ? 'black' : 'white') : null,
+        shadowColor: child.props.color ? (Color(child.props.color).isLight() ? 'white' : 'black') : null,
+        shadowBlur: 5
+      },
+      itemStyle: {color: child.props.color},
       children: React.Children.map(child.props.children, child => this.__getData(child))
     };
     if (!r.children || !r.children.length) {

@@ -37,6 +37,12 @@ class ScatterPlot extends Component {
     if (symbolSize == null) {
       symbolSize = 20;
     }
+    if (!xAxisType) {
+      xAxisType = ScatterPlot.AXIS_TYPE.CATEGORY;
+    }
+    if (!yAxisType) {
+      yAxisType = ScatterPlot.AXIS_TYPE.VALUE;
+    }
     super({ symbolSize, xAxisType, yAxisType, style, children });
   }
 

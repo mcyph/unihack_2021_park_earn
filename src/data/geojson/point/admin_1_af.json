@@ -1,0 +1,1807 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4455,
+          36.959999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-bds",
+        "area": 14.816003999999996,
+        "bounding_box": [
+          69.999,
+          35.446,
+          74.892,
+          38.474
+        ],
+        "point": [
+          72.4455,
+          36.959999999999994
+        ],
+        "labels": {
+          "alt": "Badahšan",
+          "local": null,
+          "len": 10,
+          "ar": "ولاية بدخشان",
+          "bn": "বাদাখশন প্রদেশ",
+          "de": "Badachschan",
+          "en": "Badakhshan",
+          "es": "Provincia de Badakhshan",
+          "fr": "Badakhchan",
+          "el": "Μπανταχσάν",
+          "hi": "बदख़्शान प्रान्त",
+          "hu": null,
+          "id": "Provinsi Badakhshan",
+          "it": "Badakhshan",
+          "ja": "バダフシャーン州",
+          "ko": "바다흐샨 주",
+          "nl": "Badachsjan",
+          "pl": "Badachszan",
+          "pt": "Badakhshan",
+          "ru": "Бадахшан",
+          "sv": "Badakhshan",
+          "tr": "Badahşan Vilayeti",
+          "vi": "Badakhshan",
+          "zh": "巴达赫尚省"
+        },
+        "population": 1247583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.81299999999999,
+          36.705
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-tak",
+        "area": 2.4285799999999975,
+        "bounding_box": [
+          69.148,
+          35.792,
+          70.478,
+          37.618
+        ],
+        "point": [
+          69.81299999999999,
+          36.705
+        ],
+        "labels": {
+          "alt": "Takar",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية تخار",
+          "bn": "তাখর প্রদেশ",
+          "de": "Tachar",
+          "en": "Takhar",
+          "es": "Provincia de Tahār",
+          "fr": "Takhâr",
+          "el": "Ταχάρ",
+          "hi": "तख़ार प्रान्त",
+          "hu": null,
+          "id": "Takhar",
+          "it": "Takhar",
+          "ja": "タハール州",
+          "ko": "타하르 주",
+          "nl": "Tachar",
+          "pl": "Tachar",
+          "pt": "Takhar",
+          "ru": "Тахар",
+          "sv": "Takhar",
+          "tr": "Tahar Vilayeti",
+          "vi": "Takhar",
+          "zh": "塔哈尔省"
+        },
+        "population": 1172315
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.6815,
+          36.8165
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-kdz",
+        "area": 1.3642069999999897,
+        "bounding_box": [
+          68.025,
+          36.297,
+          69.338,
+          37.336
+        ],
+        "point": [
+          68.6815,
+          36.8165
+        ],
+        "labels": {
+          "alt": "Kondoz|Qonduz|Qunduz",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية كندوز",
+          "bn": "কুন্দুজ প্রদেশ",
+          "de": "Kunduz",
+          "en": "Kunduz Province",
+          "es": "Provincia de Qundūz",
+          "fr": "Kondôz",
+          "el": "Κουντούζ",
+          "hi": "कुंदुज़ प्रान्त",
+          "hu": null,
+          "id": "Provinsi Kondoz",
+          "it": "provincia di Konduz",
+          "ja": "クンドゥーズ州",
+          "ko": "쿤두즈 주",
+          "nl": "Kunduz",
+          "pl": "Kunduz",
+          "pt": "Konduz",
+          "ru": "Кундуз",
+          "sv": "Kondoz",
+          "tr": "Kunduz Vilayeti",
+          "vi": "Tỉnh Kunduz",
+          "zh": "昆都士省"
+        },
+        "population": 905928
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.219,
+          36.5255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-bal",
+        "area": 3.3309799999999936,
+        "bounding_box": [
+          66.249,
+          35.667,
+          68.189,
+          37.384
+        ],
+        "point": [
+          67.219,
+          36.5255
+        ],
+        "labels": {
+          "alt": "Balh|Mazar-i-Sharif|Mazar",
+          "local": null,
+          "len": 5,
+          "ar": "ولاية بلخ",
+          "bn": "বাল্‌খ প্রদেশ",
+          "de": "Balch",
+          "en": "Balkh",
+          "es": "Provincia de Balj",
+          "fr": "Balkh",
+          "el": "Μπαλχ",
+          "hi": "बल्ख़ प्रान्त",
+          "hu": "Balh tartomány",
+          "id": "Provinsi Balkh",
+          "it": "Balkh",
+          "ja": "バルフ州",
+          "ko": "발흐 주",
+          "nl": "Balch",
+          "pl": "Balch",
+          "pt": "Balkh",
+          "ru": "Балх",
+          "sv": "Balkh",
+          "tr": "Belh Vilayeti",
+          "vi": "Balkh",
+          "zh": "巴尔赫省"
+        },
+        "population": 1310552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.834,
+          36.739999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-jow",
+        "area": 2.412300000000003,
+        "bounding_box": [
+          65.103,
+          35.915,
+          66.565,
+          37.565
+        ],
+        "point": [
+          65.834,
+          36.739999999999995
+        ],
+        "labels": {
+          "alt": "Jaozjan|Jozjan|Juzjan|Jouzjan|Shibarghan",
+          "local": null,
+          "len": 7,
+          "ar": "ولاية جوزجان",
+          "bn": "জোওয্‌জান প্রদেশ",
+          "de": "Dschuzdschan",
+          "en": "Jowzjan",
+          "es": "Provincia de Jawzjān",
+          "fr": "Djôzdjân",
+          "el": "Τζοουζτζάν",
+          "hi": "जोज़जान प्रान्त",
+          "hu": null,
+          "id": "Provinsi Jowzjan",
+          "it": "Jowzjan",
+          "ja": "ジューズジャーン州",
+          "ko": "주즈잔 주",
+          "nl": "Jowzjan",
+          "pl": "Dżozdżan",
+          "pt": "Jowzjan",
+          "ru": "Джаузджан",
+          "sv": "Jowzjan",
+          "tr": "Cüzcan Vilayeti",
+          "vi": "Jowzjan",
+          "zh": "朱兹詹省"
+        },
+        "population": 534380
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.84100000000001,
+          36.218999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-fyb",
+        "area": 3.9037680000000012,
+        "bounding_box": [
+          63.887,
+          35.196,
+          65.795,
+          37.242
+        ],
+        "point": [
+          64.84100000000001,
+          36.218999999999994
+        ],
+        "labels": {
+          "alt": "Fariab|Maimana|Meymaneh",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية فاریاب",
+          "bn": "ফারিয়ব প্রদেশ",
+          "de": "Faryab",
+          "en": "Faryab",
+          "es": "Provincia de Fāryāb",
+          "fr": "Fâryâb",
+          "el": "Φαρυάμπ",
+          "hi": "फ़ारयाब प्रान्त",
+          "hu": null,
+          "id": "Provinsi Faryab",
+          "it": "Faryab",
+          "ja": "ファーリヤーブ州",
+          "ko": "파르야브 주",
+          "nl": "Faryab",
+          "pl": "Farjab",
+          "pt": "Faryab",
+          "ru": "Фарьяб",
+          "sv": "Faryab",
+          "tr": "Faryab Vilayeti",
+          "vi": "Faryab",
+          "zh": "法利亚布省"
+        },
+        "population": 1193312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.8495,
+          35.2715
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-bdg",
+        "area": 3.6427949999999787,
+        "bounding_box": [
+          62.652,
+          34.511,
+          65.047,
+          36.032
+        ],
+        "point": [
+          63.8495,
+          35.2715
+        ],
+        "labels": {
+          "alt": "Badghes|Badghisat|Badgis",
+          "local": null,
+          "len": 7,
+          "ar": "ولاية بادغيس",
+          "bn": "বদগিস প্রদেশ",
+          "de": "Badghis",
+          "en": "Badghis",
+          "es": "Provincia de Bādgīs",
+          "fr": "Bâdghîs",
+          "el": "Μπαντγκίς",
+          "hi": "बादग़ीस प्रान्त",
+          "hu": null,
+          "id": "Provinsi Badghis",
+          "it": "Badghis",
+          "ja": "バードギース州",
+          "ko": "바드기스 주",
+          "nl": "Badghis",
+          "pl": "Badghis",
+          "pt": "Badghis",
+          "ru": "Бадгис",
+          "sv": "Badghis",
+          "tr": "Badgis Vilayeti",
+          "vi": "Badghis",
+          "zh": "巴德吉斯省"
+        },
+        "population": 666674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.48350000000001,
+          34.207
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-her",
+        "area": 11.372064000000002,
+        "bounding_box": [
+          60.487,
+          32.783,
+          64.48,
+          35.631
+        ],
+        "point": [
+          62.48350000000001,
+          34.207
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "ولاية هرات",
+          "bn": "হেরত প্রদেশ",
+          "de": "Herat",
+          "en": "Herat",
+          "es": "Provincia de Herāt",
+          "fr": "Hérât",
+          "el": "Χεράτ",
+          "hi": "हेरात प्रान्त",
+          "hu": null,
+          "id": "Provinsi Herat",
+          "it": "provincia di Herat",
+          "ja": "ヘラート州",
+          "ko": "헤라트 주",
+          "nl": "Herat",
+          "pl": "Herat",
+          "pt": "Herat",
+          "ru": "Герат",
+          "sv": "Herat",
+          "tr": "Herat Vilayeti",
+          "vi": "Herat",
+          "zh": "赫拉特省"
+        },
+        "population": 2408312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.205,
+          30.826
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-nim",
+        "area": 7.719592,
+        "bounding_box": [
+          60.844,
+          29.408,
+          63.566,
+          32.244
+        ],
+        "point": [
+          62.205,
+          30.826
+        ],
+        "labels": {
+          "alt": "Neemroze|Nimrod|Nimrooz|Nimroze|Chakhansur",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية نيمروز",
+          "bn": "নিমরুজ প্রদেশ",
+          "de": "Nimrus",
+          "en": "Nimruz",
+          "es": "Provincia de Nimruz",
+          "fr": "Nimrôz",
+          "el": "Νιμρούζ",
+          "hi": "नीमरूज़ प्रान्त",
+          "hu": null,
+          "id": "Nimruz",
+          "it": "Nimruz",
+          "ja": "ニームルーズ州",
+          "ko": "님루즈 주",
+          "nl": "Nimruz",
+          "pl": "Nimroz",
+          "pt": "Nimruz",
+          "ru": "Нимроз",
+          "sv": "Nimruz",
+          "tr": "Nimruz Vilayeti",
+          "vi": "Nimruz",
+          "zh": "尼姆鲁兹省"
+        },
+        "population": 184024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.644,
+          32.453
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-fra",
+        "area": 8.856735999999998,
+        "bounding_box": [
+          60.563,
+          31.389,
+          64.725,
+          33.517
+        ],
+        "point": [
+          62.644,
+          32.453
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "ولاية فراه",
+          "bn": "ফারহ প্রদেশ",
+          "de": "Farah",
+          "en": "Farah",
+          "es": "Provincia de Farāh",
+          "fr": "Farâh",
+          "el": "Φαράχ",
+          "hi": "फ़राह प्रान्त",
+          "hu": null,
+          "id": "Provinsi Farah",
+          "it": "provincia di Farah",
+          "ja": "ファラー州",
+          "ko": "파라 주",
+          "nl": "Farah",
+          "pl": "Farah",
+          "pt": "Farah",
+          "ru": "Фарах",
+          "sv": "Farah",
+          "tr": "Ferah Vilayeti",
+          "vi": "Farah",
+          "zh": "法拉省"
+        },
+        "population": 624285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.104,
+          34.9975
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-knr",
+        "area": 0.988980000000002,
+        "bounding_box": [
+          70.574,
+          34.531,
+          71.634,
+          35.464
+        ],
+        "point": [
+          71.104,
+          34.9975
+        ],
+        "labels": {
+          "alt": "Konarha|Kunarha",
+          "local": null,
+          "len": 5,
+          "ar": "ولاية كنر",
+          "bn": "কুনার",
+          "de": "Kunar",
+          "en": "Kunar",
+          "es": "Provincia de Kunar",
+          "fr": "Kounar",
+          "el": "Κουνάρ",
+          "hi": "कुनर प्रान्त",
+          "hu": null,
+          "id": "Provinsi Kunar",
+          "it": "Konar",
+          "ja": "クナル州",
+          "ko": "쿠나르 주",
+          "nl": "Kunar",
+          "pl": "Kunar",
+          "pt": "Kunar",
+          "ru": "Кунар",
+          "sv": "Konar",
+          "tr": "Kunar Vilayeti",
+          "vi": "Kunar",
+          "zh": "库纳尔省"
+        },
+        "population": 510692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7565,
+          35.4675
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-nur",
+        "area": 1.8854709999999943,
+        "bounding_box": [
+          69.92,
+          34.904,
+          71.593,
+          36.031
+        ],
+        "point": [
+          70.7565,
+          35.4675
+        ],
+        "labels": {
+          "alt": "Nooristan|Nuristão",
+          "local": null,
+          "len": 8,
+          "ar": "ولاية نورستان",
+          "bn": "নুরেস্তন প্রদেশ",
+          "de": "Nuristan",
+          "en": "Nuristan",
+          "es": "Provincia de Nūristān",
+          "fr": "Nourestân",
+          "el": "Νουρεστάν",
+          "hi": "नूरिस्तान प्रान्त",
+          "hu": null,
+          "id": "Nurestan",
+          "it": "provincia di Nurestan",
+          "ja": "ヌーリスターン州",
+          "ko": "누리스탄 주",
+          "nl": "Nooristan",
+          "pl": "Nuristan",
+          "pt": "Nuristão",
+          "ru": "Нуристан",
+          "sv": "Nurestan",
+          "tr": "Nuristan Vilayeti",
+          "vi": "Nuristan",
+          "zh": "努尔斯坦省"
+        },
+        "population": 169666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.304,
+          34.3695
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-nan",
+        "area": 1.4085959999999915,
+        "bounding_box": [
+          69.486,
+          33.939,
+          71.122,
+          34.8
+        ],
+        "point": [
+          70.304,
+          34.3695
+        ],
+        "labels": {
+          "alt": "Ningrahar|Eastern Province",
+          "local": null,
+          "len": 9,
+          "ar": "ولاية ننكرهار",
+          "bn": "নানগারহর প্রদেশ",
+          "de": "Nangarhar",
+          "en": "Nangarhar",
+          "es": "Provincia de Nangarhar",
+          "fr": "Nangarhâr",
+          "el": "Νανγκαράρ",
+          "hi": "नंगरहार प्रान्त",
+          "hu": "Nangarhar",
+          "id": "Provinsi Nangarhar",
+          "it": "Nangarhar",
+          "ja": "ナンガルハール州",
+          "ko": "낭가르하르 주",
+          "nl": "Nangarhar",
+          "pl": "Nangarhar",
+          "pt": "Nangarhar",
+          "ru": "Нангархар",
+          "sv": "Nangarhar",
+          "tr": "Nangarhar Vilayeti",
+          "vi": "Nangarhar",
+          "zh": "楠格哈尔省"
+        },
+        "population": 1770363
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8175,
+          33.3765
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-kho",
+        "area": 0.696642999999997,
+        "bounding_box": [
+          69.341,
+          33.011,
+          70.294,
+          33.742
+        ],
+        "point": [
+          69.8175,
+          33.3765
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "ولاية خوست",
+          "bn": "খোস্ত প্রদেশ",
+          "de": "Chost",
+          "en": "Khost Province",
+          "es": "Provincia de Jost",
+          "fr": "Khôst",
+          "el": "Χοστ",
+          "hi": "ख़ोस्त प्रान्त",
+          "hu": null,
+          "id": "Provinsi Khost",
+          "it": "provincia di Khowst",
+          "ja": "ホースト州",
+          "ko": "호스트 주",
+          "nl": "Khost",
+          "pl": "Chost",
+          "pt": "Khost",
+          "ru": "Хост",
+          "sv": "Khost",
+          "tr": "Host Vilayeti",
+          "vi": "Khost",
+          "zh": "霍斯特省"
+        },
+        "population": 813710
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3825,
+          33.617
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-pka",
+        "area": 1.1214779999999924,
+        "bounding_box": [
+          68.769,
+          33.16,
+          69.996,
+          34.074
+        ],
+        "point": [
+          69.3825,
+          33.617
+        ],
+        "labels": {
+          "alt": "Paktiya|Southern Province",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية بكتيا",
+          "bn": "পাক্‌তিয়া প্রদেশ",
+          "de": "Paktia",
+          "en": "Paktia",
+          "es": "Provincia de Paktiyā",
+          "fr": "Paktiyâ",
+          "el": "Πακτιά",
+          "hi": "पकतिया प्रान्त",
+          "hu": null,
+          "id": "Paktia",
+          "it": "Paktia",
+          "ja": "パクティヤー州",
+          "ko": "팍티야 주",
+          "nl": "Paktia",
+          "pl": "Paktija",
+          "pt": "Paktia",
+          "ru": "Пактия",
+          "sv": "Paktia",
+          "tr": "Paktiya Vilayeti",
+          "vi": "Paktia",
+          "zh": "帕克蒂亚省"
+        },
+        "population": 632275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.65299999999999,
+          32.513000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-pia",
+        "area": 3.025751999999986,
+        "bounding_box": [
+          67.819,
+          31.606,
+          69.487,
+          33.42
+        ],
+        "point": [
+          68.65299999999999,
+          32.513000000000005
+        ],
+        "labels": {
+          "alt": "Paktiya|Paktya|Southern Province",
+          "local": null,
+          "len": 7,
+          "ar": "ولاية بكتيكا",
+          "bn": "পাক্তিকা প্রদেশ",
+          "de": "Paktika",
+          "en": "Paktika",
+          "es": "Provincia de Paktīkā",
+          "fr": "Paktîkâ",
+          "el": "Πακτίκα",
+          "hi": "पकतीका प्रान्त",
+          "hu": null,
+          "id": "Paktika",
+          "it": "Paktika",
+          "ja": "パクティーカー州",
+          "ko": "팍티카 주",
+          "nl": "Paktika",
+          "pl": "Paktika",
+          "pt": "Paktika",
+          "ru": "Пактика",
+          "sv": "Paktika",
+          "tr": "Paktika Vilayeti",
+          "vi": "Paktika",
+          "zh": "帕克蒂卡省"
+        },
+        "population": 468649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.14,
+          32.299
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-zab",
+        "area": 2.893159999999998,
+        "bounding_box": [
+          66.182,
+          31.544,
+          68.098,
+          33.054
+        ],
+        "point": [
+          67.14,
+          32.299
+        ],
+        "labels": {
+          "alt": "Zubul|Zaboul",
+          "local": null,
+          "len": 5,
+          "ar": "ولاية زابل",
+          "bn": "জবোল প্রদেশ",
+          "de": "Zabul",
+          "en": "Zabul",
+          "es": "Provincia de Zābul",
+          "fr": "Zabol",
+          "el": "Ζάμπουλ",
+          "hi": "ज़ाबुल प्रान्त",
+          "hu": null,
+          "id": "Zabul",
+          "it": "Zabol",
+          "ja": "ザーブル州",
+          "ko": "자불 주",
+          "nl": "Zabul",
+          "pl": "Zabol",
+          "pt": "Zabol",
+          "ru": "Забуль",
+          "sv": "Zabol",
+          "tr": "Zabul Vilayeti",
+          "vi": "Zabul",
+          "zh": "扎布尔省"
+        },
+        "population": 326975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.1345,
+          31.0575
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-kan",
+        "area": 9.927485000000015,
+        "bounding_box": [
+          64.499,
+          29.54,
+          67.77,
+          32.575
+        ],
+        "point": [
+          66.1345,
+          31.0575
+        ],
+        "labels": {
+          "alt": "Qandahar",
+          "local": null,
+          "len": 8,
+          "ar": "ولاية قندهار",
+          "bn": "কান্দাহার প্রদেশ",
+          "de": "Kandahar",
+          "en": "Kandahar",
+          "es": "Provincia de Kandahar",
+          "fr": "Kandahâr",
+          "el": "Κανταχάρ",
+          "hi": "कंदहार प्रान्त",
+          "hu": null,
+          "id": "Provinsi Kandahar",
+          "it": "provincia di Kandahar",
+          "ja": "カンダハール州",
+          "ko": "칸다하르 주",
+          "nl": "Kandahar",
+          "pl": "Kandahar",
+          "pt": "Kandahar",
+          "ru": "Кандагар",
+          "sv": "Kandahar",
+          "tr": "Kandehar Vilayeti",
+          "vi": "Kandahar",
+          "zh": "坎大哈省"
+        },
+        "population": 1404547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.9825,
+          31.375
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-hel",
+        "area": 10.96978399999997,
+        "bounding_box": [
+          62.603,
+          29.387,
+          65.362,
+          33.363
+        ],
+        "point": [
+          63.9825,
+          31.375
+        ],
+        "labels": {
+          "alt": "Girishk|Hilmend",
+          "local": null,
+          "len": 7,
+          "ar": "ولاية هلمند",
+          "bn": "হেলমান্দ প্রদেশ",
+          "de": "Helmand",
+          "en": "Helmand",
+          "es": "Provincia de Helmand",
+          "fr": "Helmand",
+          "el": "Χελμάντ",
+          "hi": "हेलमंद प्रान्त",
+          "hu": "Helmand tartomány",
+          "id": "Provinsi Helmand",
+          "it": "Helmand",
+          "ja": "ヘルマンド州",
+          "ko": "헬만드 주",
+          "nl": "Helmand",
+          "pl": "Helmand",
+          "pt": "Helmand",
+          "ru": "Гильменд",
+          "sv": "Helmand",
+          "tr": "Helmend Vilayeti",
+          "vi": "Helmand",
+          "zh": "赫尔曼德省"
+        },
+        "population": 1008367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.30099999999999,
+          33.7315
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-uru",
+        "area": 2.906251999999994,
+        "bounding_box": [
+          65.219,
+          33.06,
+          67.383,
+          34.403
+        ],
+        "point": [
+          66.30099999999999,
+          33.7315
+        ],
+        "labels": {
+          "alt": "Urozgan",
+          "local": null,
+          "len": 7,
+          "ar": "ولاية أروزكان",
+          "bn": "ওরুজ্‌গন প্রদেশ",
+          "de": "Urusgan",
+          "en": "Urozgan",
+          "es": "Provincia de Urūzgān",
+          "fr": "Orozgân",
+          "el": "Ορουζγκάν",
+          "hi": "ओरूज़्गान प्रान्त",
+          "hu": null,
+          "id": "Provinsi Oruzgan",
+          "it": "Oruzgan",
+          "ja": "ウルーズガーン州",
+          "ko": "우루즈간 주",
+          "nl": "Uruzgan",
+          "pl": "Oruzgan",
+          "pt": "Oruzgan",
+          "ru": "Урузган",
+          "sv": "Oruzgan",
+          "tr": "Uruzgan Vilayeti",
+          "vi": "Oruzgan",
+          "zh": "乌鲁兹甘省"
+        },
+        "population": 924648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.0945,
+          32.7965
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-uru",
+        "area": 1.9154850000000014,
+        "bounding_box": [
+          65.178,
+          32.274,
+          67.011,
+          33.319
+        ],
+        "point": [
+          66.0945,
+          32.7965
+        ],
+        "labels": {
+          "alt": "Urozgan",
+          "local": null,
+          "len": 7,
+          "ar": "ولاية أروزكان",
+          "bn": "ওরুজ্‌গন প্রদেশ",
+          "de": "Urusgan",
+          "en": "Urozgan",
+          "es": "Provincia de Urūzgān",
+          "fr": "Orozgân",
+          "el": "Ορουζγκάν",
+          "hi": "ओरूज़्गान प्रान्त",
+          "hu": null,
+          "id": "Provinsi Oruzgan",
+          "it": "Oruzgan",
+          "ja": "ウルーズガーン州",
+          "ko": "우루즈간 주",
+          "nl": "Uruzgan",
+          "pl": "Oruzgan",
+          "pt": "Oruzgan",
+          "ru": "Урузган",
+          "sv": "Oruzgan",
+          "tr": "Uruzgan Vilayeti",
+          "vi": "Oruzgan",
+          "zh": "乌鲁兹甘省"
+        },
+        "population": 924648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.814,
+          33.141000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-gha",
+        "area": 4.207920000000033,
+        "bounding_box": [
+          66.829,
+          32.073,
+          68.799,
+          34.209
+        ],
+        "point": [
+          67.814,
+          33.141000000000005
+        ],
+        "labels": {
+          "alt": "Gazni",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية غزني",
+          "bn": "গজনি প্রদেশ",
+          "de": "Ghazni",
+          "en": "Ghazni",
+          "es": "Provincia de Gazni",
+          "fr": "Ghazni",
+          "el": "Γκαζνί",
+          "hi": "ग़ज़नी प्रान्त",
+          "hu": null,
+          "id": "Provinsi Ghazni",
+          "it": "provincia di Ghazni",
+          "ja": "ガズニー州",
+          "ko": "가즈니 주",
+          "nl": "Ghazni",
+          "pl": "Ghazni",
+          "pt": "Ghazni",
+          "ru": "Газни",
+          "sv": "Ghazni",
+          "tr": "Gazni Vilayeti",
+          "vi": "Ghazni",
+          "zh": "加兹尼省"
+        },
+        "population": 888457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.89949999999999,
+          35.0055
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-par",
+        "area": 1.1862989999999987,
+        "bounding_box": [
+          68.184,
+          34.591,
+          69.615,
+          35.42
+        ],
+        "point": [
+          68.89949999999999,
+          35.0055
+        ],
+        "labels": {
+          "alt": "Charikar",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية بروان",
+          "bn": "পারভন প্রদেশ",
+          "de": "Parwan",
+          "en": "Parwan Province",
+          "es": "Provincia de Parwān",
+          "fr": "Parwân",
+          "el": "Παρβάν",
+          "hi": "परवान प्रान्त",
+          "hu": null,
+          "id": "Provinsi Parwan",
+          "it": "Parvan",
+          "ja": "パルヴァーン州",
+          "ko": "파르반 주",
+          "nl": "Parvan",
+          "pl": "Parwan",
+          "pt": "Parwan",
+          "ru": "Парван",
+          "sv": "Parvan",
+          "tr": "Parvan Vilayeti",
+          "vi": "Tỉnh Parwan",
+          "zh": "帕尔旺省"
+        },
+        "population": 851715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7595,
+          35.477000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-par",
+        "area": 0.8133839999999951,
+        "bounding_box": [
+          69.246,
+          35.081,
+          70.273,
+          35.873
+        ],
+        "point": [
+          69.7595,
+          35.477000000000004
+        ],
+        "labels": {
+          "alt": "Charikar",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية بروان",
+          "bn": "পারভন প্রদেশ",
+          "de": "Parwan",
+          "en": "Parwan Province",
+          "es": "Provincia de Parwān",
+          "fr": "Parwân",
+          "el": "Παρβάν",
+          "hi": "परवान प्रान्त",
+          "hu": null,
+          "id": "Provinsi Parwan",
+          "it": "Parvan",
+          "ja": "パルヴァーン州",
+          "ko": "파르반 주",
+          "nl": "Parvan",
+          "pl": "Parwan",
+          "pt": "Parwan",
+          "ru": "Парван",
+          "sv": "Parvan",
+          "tr": "Parvan Vilayeti",
+          "vi": "Tỉnh Parwan",
+          "zh": "帕尔旺省"
+        },
+        "population": 851715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.38499999999999,
+          34.519000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-kab",
+        "area": 0.8166720000000015,
+        "bounding_box": [
+          68.842,
+          34.143,
+          69.928,
+          34.895
+        ],
+        "point": [
+          69.38499999999999,
+          34.519000000000005
+        ],
+        "labels": {
+          "alt": "Cabul|Kabol|Kaboul",
+          "local": null,
+          "len": 5,
+          "ar": "ولاية كابول",
+          "bn": "কাবুল প্রদেশ",
+          "de": "Kabul",
+          "en": "Kabul Province",
+          "es": "Provincia de Kabul",
+          "fr": "Kaboul",
+          "el": "Καμπούλ",
+          "hi": "काबुल प्रान्त",
+          "hu": null,
+          "id": "Provinsi Kabul",
+          "it": "provincia di Kabul",
+          "ja": "カーブル州",
+          "ko": "카불 주",
+          "nl": "Kabul",
+          "pl": "Kabul",
+          "pt": "Cabul",
+          "ru": "Кабул",
+          "sv": "Kabul",
+          "tr": "Kâbil Vilayeti",
+          "vi": "Tỉnh Kabul",
+          "zh": "喀布尔省"
+        },
+        "population": 4801534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.2085,
+          34.8195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-lag",
+        "area": 0.6855590000000049,
+        "bounding_box": [
+          69.797,
+          34.403,
+          70.62,
+          35.236
+        ],
+        "point": [
+          70.2085,
+          34.8195
+        ],
+        "labels": {
+          "alt": "Lagman",
+          "local": null,
+          "len": 7,
+          "ar": "ولاية لغمان",
+          "bn": "লাগমন প্রদেশ",
+          "de": "Laghman",
+          "en": "Laghman",
+          "es": "Provincia de Laġmān",
+          "fr": "Laghmân",
+          "el": "Λαγκμάν",
+          "hi": "लग़मान प्रान्त",
+          "hu": null,
+          "id": "Laghman",
+          "it": "Laghman",
+          "ja": "ラグマーン州",
+          "ko": "라그만 주",
+          "nl": "Laghman",
+          "pl": "Laghman",
+          "pt": "Laghman",
+          "ru": "Лагман",
+          "sv": "Laghman",
+          "tr": "Lagman Vilayeti",
+          "vi": "Laghman",
+          "zh": "拉格曼省"
+        },
+        "population": 538406
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.305,
+          33.983999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-log",
+        "area": 0.9013599999999922,
+        "bounding_box": [
+          68.712,
+          33.604,
+          69.898,
+          34.364
+        ],
+        "point": [
+          69.305,
+          33.983999999999995
+        ],
+        "labels": {
+          "alt": "Lawghar|Loghar",
+          "local": null,
+          "len": 5,
+          "ar": "ولاية لوكر",
+          "bn": "লগার",
+          "de": "Lugar",
+          "en": "Logar",
+          "es": "Provincia de Lawgar",
+          "fr": "Lôgar",
+          "el": "Λογκάρ",
+          "hi": "लोगर प्रान्त",
+          "hu": null,
+          "id": "Logar",
+          "it": "Lowgar",
+          "ja": "ローガル州",
+          "ko": "로가르 주",
+          "nl": "Logar",
+          "pl": "Logar",
+          "pt": "Logar",
+          "ru": "Логар",
+          "sv": "Lowgar",
+          "tr": "Lovgar Vilayeti",
+          "vi": "Logar",
+          "zh": "洛加尔省"
+        },
+        "population": 451556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.59700000000001,
+          34.9155
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-kap",
+        "area": 0.340053999999996,
+        "bounding_box": [
+          69.278,
+          34.649,
+          69.916,
+          35.182
+        ],
+        "point": [
+          69.59700000000001,
+          34.9155
+        ],
+        "labels": {
+          "alt": "Kapesa",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية كابيسا",
+          "bn": "কপিস' প্রদেশ",
+          "de": "Kapisa",
+          "en": "Kapisa",
+          "es": "Provincia de Kāpīsā",
+          "fr": "Kâpîssâ",
+          "el": "Καπίσα",
+          "hi": "कापीसा प्रान्त",
+          "hu": null,
+          "id": "Provinsi Kapisa",
+          "it": "Kapisa",
+          "ja": "カーピーサー州",
+          "ko": "카피사 주",
+          "nl": "Kapisa",
+          "pl": "Kapisa",
+          "pt": "Capisa",
+          "ru": "Каписа",
+          "sv": "Kapisa",
+          "tr": "Kapisa Vilayeti",
+          "vi": "Kapisa",
+          "zh": "卡比萨省"
+        },
+        "population": 479378
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.11,
+          34.2405
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-war",
+        "area": 1.9224419999999875,
+        "bounding_box": [
+          67.251,
+          33.681,
+          68.969,
+          34.8
+        ],
+        "point": [
+          68.11,
+          34.2405
+        ],
+        "labels": {
+          "alt": "Verdak|Wardag|Maiden",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية وردك",
+          "bn": "ভার্দাক প্রদেশ",
+          "de": "Wardak",
+          "en": "Maidan Wardak",
+          "es": "Provincia de Vardak",
+          "fr": "Wardak",
+          "el": "Βαρντάκ",
+          "hi": "मैदान वरदक प्रान्त",
+          "hu": null,
+          "id": "Maidan Wardak",
+          "it": "Vardak",
+          "ja": "ヴァルダク州",
+          "ko": "바르다크 주",
+          "nl": "Wardak",
+          "pl": "Wardak",
+          "pt": "Maydan-Wardak",
+          "ru": "Вардак",
+          "sv": "Wardak",
+          "tr": "Vardak Vilayeti",
+          "vi": "Wardak",
+          "zh": "瓦尔达克省"
+        },
+        "population": 687409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.307,
+          34.704499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-bam",
+        "area": 2.9885119999999947,
+        "bounding_box": [
+          66.331,
+          33.939,
+          68.283,
+          35.47
+        ],
+        "point": [
+          67.307,
+          34.704499999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "ولاية باميان",
+          "bn": "বামিয়ান প্রদেশ",
+          "de": "Bamiyan",
+          "en": "Bamyan",
+          "es": "Provincia de Bamiyan",
+          "fr": "Bâmiyân",
+          "el": "Μπαμιάν",
+          "hi": "बामयान प्रान्त",
+          "hu": "Bámiján tartomány",
+          "id": "Provinsi Bamiyan",
+          "it": "provincia di Bamiyan",
+          "ja": "バーミヤーン州",
+          "ko": "바미안 주",
+          "nl": "Bamyan",
+          "pl": "Bamian",
+          "pt": "Bamiyan",
+          "ru": "Бамиан",
+          "sv": "Bamiyan",
+          "tr": "Bamyan Vilayeti",
+          "vi": "Bamyan",
+          "zh": "巴米扬省"
+        },
+        "population": 506803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.21799999999999,
+          35.691500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-sar",
+        "area": 2.8974879999999983,
+        "bounding_box": [
+          65.41,
+          34.795,
+          67.026,
+          36.588
+        ],
+        "point": [
+          66.21799999999999,
+          35.691500000000005
+        ],
+        "labels": {
+          "alt": "Sar-e Pul|Saripol",
+          "local": null,
+          "len": 8,
+          "ar": "ولاية سربل",
+          "bn": "সারে পোল প্রদেশ",
+          "de": "Sar-i Pul",
+          "en": "Sar-e Pol",
+          "es": "Provincia de Sar-e Pul",
+          "fr": "Sar-é Pol",
+          "el": "Σαρ-ε Πολ",
+          "hi": "सर-ए-पोल प्रान्त",
+          "hu": null,
+          "id": "Provinsi Sar-e Pol",
+          "it": "Provincia di Sar-e Pol",
+          "ja": "サーレポル州",
+          "ko": "사르이폴 주",
+          "nl": "Sar-e Pol",
+          "pl": "Sar-e Pol",
+          "pt": "Sar-e Pol",
+          "ru": "Сари-Пуль",
+          "sv": "Sar-e Pol",
+          "tr": "Sar-i Pol Vilayeti",
+          "vi": "Sar-e Pol",
+          "zh": "薩爾普勒省"
+        },
+        "population": 614825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.92,
+          34.189
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-gho",
+        "area": 7.867080000000014,
+        "bounding_box": [
+          63.075,
+          33.123,
+          66.765,
+          35.255
+        ],
+        "point": [
+          64.92,
+          34.189
+        ],
+        "labels": {
+          "alt": "Gawr|Ghore|Ghour|Ghur",
+          "local": null,
+          "len": 4,
+          "ar": "ولاية غور",
+          "bn": "গোর প্রদেশ",
+          "de": "Ghor",
+          "en": "Ghōr",
+          "es": "Provincia de Ġawr",
+          "fr": "Ghôr",
+          "el": "Γκοούρ",
+          "hi": "ग़ोर प्रान्त",
+          "hu": null,
+          "id": "Provinsi Ghōr",
+          "it": "Ghowr",
+          "ja": "ゴール州",
+          "ko": "구르 주",
+          "nl": "Ghowr",
+          "pl": "Ghor",
+          "pt": "Ghowr",
+          "ru": "Гур",
+          "sv": "Ghor",
+          "tr": "Gur Vilayeti",
+          "vi": "Ghor",
+          "zh": "古爾省"
+        },
+        "population": 803811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.9865,
+          35.790499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-bgl",
+        "area": 3.042388999999997,
+        "bounding_box": [
+          68.012,
+          35.01,
+          69.961,
+          36.571
+        ],
+        "point": [
+          68.9865,
+          35.790499999999994
+        ],
+        "labels": {
+          "alt": "Baglan|Bughlan",
+          "local": null,
+          "len": 7,
+          "ar": "ولاية بغلان",
+          "bn": "বাগলন প্রদেশ",
+          "de": "Baglan",
+          "en": "Baghlan",
+          "es": "Provincia de Baghlan",
+          "fr": "Baghlân",
+          "el": "Μπαγκλάν",
+          "hi": "बग़लान प्रान्त",
+          "hu": "Baglán tartomány",
+          "id": "Provinsi Baghlan",
+          "it": "Baghlan",
+          "ja": "バグラーン州",
+          "ko": "바글란 주",
+          "nl": "Baghlan",
+          "pl": "Baghlan",
+          "pt": "Baghlan",
+          "ru": "Баглан",
+          "sv": "Baghlan",
+          "tr": "Baglan Vilayeti",
+          "vi": "Baghlan",
+          "zh": "巴格兰省"
+        },
+        "population": 967671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.68299999999999,
+          36.0
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "af",
+        "region_child": "af-sam",
+        "area": 2.1980160000000266,
+        "bounding_box": [
+          66.835,
+          35.352,
+          68.531,
+          36.648
+        ],
+        "point": [
+          67.68299999999999,
+          36.0
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "ولاية سمنكان",
+          "bn": "সামাঙ্গন প্রদেশ",
+          "de": "Samangan",
+          "en": "Samangan",
+          "es": "Provincia de Samangān",
+          "fr": "Samangân",
+          "el": "Σαμανγκάν",
+          "hi": "समंगान प्रान्त",
+          "hu": null,
+          "id": "Samangan",
+          "it": "Samangan",
+          "ja": "サマンガーン州",
+          "ko": "사망간 주",
+          "nl": "Samangan",
+          "pl": "Samangan",
+          "pt": "Samangan",
+          "ru": "Саманган",
+          "sv": "Samangan",
+          "tr": "Samangan Vilayeti",
+          "vi": "Samangan",
+          "zh": "萨曼甘省"
+        },
+        "population": 438465
+      }
+    }
+  ]
+}

@@ -1,0 +1,1171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5045,
+          13.759
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-lc",
+        "area": 3.2044980000000023,
+        "bounding_box": [
+          13.449,
+          13.0,
+          15.56,
+          14.518
+        ],
+        "point": [
+          14.5045,
+          13.759
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "منطقة البحيرة",
+          "bn": "লাক অঞ্চল",
+          "de": "Region Lac",
+          "en": "Lac Region",
+          "es": "Región de Lac",
+          "fr": "Lac",
+          "el": "Λακ",
+          "hi": "लैक क्षेत्र",
+          "hu": null,
+          "id": "Region Lac",
+          "it": "regione del Lago",
+          "ja": "ラク州",
+          "ko": "라크 주",
+          "nl": "Lac",
+          "pl": "Region Lac",
+          "pt": "Região Lac",
+          "ru": "Лак",
+          "sv": "Lac",
+          "tr": "Lac Bölgesi",
+          "vi": "Khu vực Lac",
+          "zh": "湖區"
+        },
+        "population": 633407
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.387999999999998,
+          12.005500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-si",
+        "area": 6.814527999999998,
+        "bounding_box": [
+          19.82,
+          10.919,
+          22.956,
+          13.092
+        ],
+        "point": [
+          21.387999999999998,
+          12.005500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "منطقة سيلا",
+          "bn": "সিলা অঞ্চল",
+          "de": "Region Sila",
+          "en": "Sila Region",
+          "es": "Región de Sila",
+          "fr": "Sila",
+          "el": "Σίλα",
+          "hi": "सिला क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Sila",
+          "it": "regione del Sila",
+          "ja": "シラ州",
+          "ko": "실라 주",
+          "nl": "Sila Region",
+          "pl": "Region Sila",
+          "pt": "Região Sila",
+          "ru": "Сила",
+          "sv": "Sila",
+          "tr": "Sila Bölgesi",
+          "vi": "Khu vực Sila",
+          "zh": "西拉區"
+        },
+        "population": 649873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6055,
+          10.611
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-sa",
+        "area": 10.894823999999995,
+        "bounding_box": [
+          18.846,
+          9.063,
+          22.365,
+          12.159
+        ],
+        "point": [
+          20.6055,
+          10.611
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "منطقة سلامات",
+          "bn": "সালামাত অঞ্চল",
+          "de": "Region Salamat",
+          "en": "Salamat Region",
+          "es": "Región de Salamat",
+          "fr": "Salamat",
+          "el": "Σαλαμάτ",
+          "hi": "सलामत प्रदेश",
+          "hu": null,
+          "id": "Region Salamat",
+          "it": "regione del Salamat",
+          "ja": "サラマト州",
+          "ko": "살라마트 주",
+          "nl": "Salamat",
+          "pl": "Region Salamat",
+          "pt": "Região de Salamat",
+          "ru": "Саламат",
+          "sv": "Salamat",
+          "tr": "Salamat Bölgesi",
+          "vi": "Khu vực Salamat",
+          "zh": "萨拉马特区"
+        },
+        "population": 440841
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.631,
+          9.32
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-mc",
+        "area": 6.754792000000001,
+        "bounding_box": [
+          17.33,
+          8.022,
+          19.932,
+          10.618
+        ],
+        "point": [
+          18.631,
+          9.32
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "منطقة شاري الأوسط",
+          "bn": "মোয়েন চারি অঞ্চল",
+          "de": "Region Moyen-Chari",
+          "en": "Moyen-Chari Region",
+          "es": "Región de Moyen-Chari",
+          "fr": "Moyen-Chari",
+          "el": "Μογιέν-Τσαρί",
+          "hi": "मोयेन-चारी क्षेत्र",
+          "hu": null,
+          "id": "Region Moyen-Chari",
+          "it": "regione di Moyen-Chari",
+          "ja": "モワイヤン・シャリ州",
+          "ko": "무아얭샤리 주",
+          "nl": "Moyen-Chari",
+          "pl": "Region Szari Środkowe",
+          "pt": "Moyen-Chari",
+          "ru": "Среднее Шари",
+          "sv": "Moyen-Chari",
+          "tr": "Moyen-Chari Bölgesi",
+          "vi": "Khu vực Moyen-Chari",
+          "zh": "中沙里區"
+        },
+        "population": 850784
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.604,
+          8.725
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-ma",
+        "area": 2.0875759999999985,
+        "bounding_box": [
+          17.033,
+          7.811,
+          18.175,
+          9.639
+        ],
+        "point": [
+          17.604,
+          8.725
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "منطقة ماندول",
+          "bn": "মান্ডোল অঞ্চল",
+          "de": "Region Mandoul",
+          "en": "Mandoul Region",
+          "es": "Región de Mandoul",
+          "fr": "Mandoul",
+          "el": "Μαντούλ",
+          "hi": "मंडोल क्षेत्र",
+          "hu": null,
+          "id": "Region Mandoul",
+          "it": "regione di Mandoul",
+          "ja": "マンドゥル州",
+          "ko": "망둘 주",
+          "nl": "Mandoul",
+          "pl": "Region Mandoul",
+          "pt": "Mandoul",
+          "ru": "Мандуль",
+          "sv": "Mandoul",
+          "tr": "Mandoul Bölgesi",
+          "vi": "Khu vực Mandoul",
+          "zh": "芒杜爾區"
+        },
+        "population": 882687
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.23,
+          8.299
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-lr",
+        "area": 3.4279159999999984,
+        "bounding_box": [
+          15.211,
+          7.458,
+          17.249,
+          9.14
+        ],
+        "point": [
+          16.23,
+          8.299
+        ],
+        "labels": {
+          "alt": "Logone-Oriental",
+          "local": null,
+          "len": 15,
+          "ar": "منطقة لوقون الشرقي",
+          "bn": "লুগোনে ওরিয়েন্টাল অঞ্চল",
+          "de": "Region Logone Oriental",
+          "en": "Logone Oriental Region",
+          "es": "Región de Logone Oriental",
+          "fr": "Logone Oriental",
+          "el": "Λογκόνε Οριένταλ",
+          "hi": "लॉगोन ओरिएंटल क्षेत्र",
+          "hu": null,
+          "id": "Region Logone Oriental",
+          "it": "regione del Logone Orientale",
+          "ja": "ロゴン・オリエンタル州",
+          "ko": "로곤오리앙탈 주",
+          "nl": "Logone Oriental",
+          "pl": "Region Logone Oriental",
+          "pt": "Região de Logone Oriental",
+          "ru": "Восточный Логон",
+          "sv": "Logone Oriental",
+          "tr": "Logone Oriental Bölgesi",
+          "vi": "Khu vực Logone Oriental",
+          "zh": "東洛貢區"
+        },
+        "population": 1168215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0535,
+          12.449
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-hl",
+        "area": 6.01324,
+        "bounding_box": [
+          14.481,
+          11.493,
+          17.626,
+          13.405
+        ],
+        "point": [
+          16.0535,
+          12.449
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "منطقة حجر لميس",
+          "bn": "হাজের লামিস অঞ্চল",
+          "de": "Region Hadjer-Lamis",
+          "en": "Hadjer-Lamis Region",
+          "es": "Región de Hadjer-Lamis",
+          "fr": "Hadjer-Lamis",
+          "el": "Χάτζερ-Λάμις",
+          "hi": "हद्जर-लामिस क्षेत्र",
+          "hu": null,
+          "id": "Region Hadjer-Lamis",
+          "it": "regione di Hadjer-Lamis",
+          "ja": "ハジェル＝ラミ州",
+          "ko": "하제르라미 주",
+          "nl": "Hadjer-Lamis",
+          "pl": "Region Hadjer-Lamis",
+          "pt": "Hadjer-Lamis",
+          "ru": "Хаджер-Ламис",
+          "sv": "Hadjer-Lamis",
+          "tr": "Hadjer-Lamis Bölgesi",
+          "vi": "Khu vực Hadjer-Lamis",
+          "zh": "哈傑爾-拉密區"
+        },
+        "population": 788286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2185,
+          11.1395
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-cb",
+        "area": 6.964256999999992,
+        "bounding_box": [
+          14.903,
+          9.816,
+          17.534,
+          12.463
+        ],
+        "point": [
+          16.2185,
+          11.1395
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": "منطقة كانم",
+          "bn": "চারি-বাগুরমি অঞ্চল",
+          "de": "Region Chari-Baguirmi",
+          "en": "Chari-Baguirmi Region",
+          "es": "Región de Chari-Baguirmi",
+          "fr": "Région du Chari-Baguirmi",
+          "el": "Τσάρι-Μπαγκουίρμι",
+          "hi": "चारी-बगुरनी क्षेत्र",
+          "hu": null,
+          "id": "Region Chari-Baguirmi",
+          "it": "regione di Chari-Baguirmi",
+          "ja": "シャリ＝バギルミ州",
+          "ko": "샤리바기르미 주",
+          "nl": "Chari-Baguirmi",
+          "pl": "Region Szari-Bagirmi",
+          "pt": "Região de Chari-Baguirmi",
+          "ru": "Шари-Багирми",
+          "sv": "Chari-Baguirmi",
+          "tr": "Chari-Baguirmi Bölgesi",
+          "vi": "Khu vực Chari-Baguirmi",
+          "zh": "沙里-巴吉尔米区"
+        },
+        "population": 1650279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.067499999999999,
+          12.1175
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-nd",
+        "area": 0.013652999999999985,
+        "bounding_box": [
+          15.012,
+          12.056,
+          15.123,
+          12.179
+        ],
+        "point": [
+          15.067499999999999,
+          12.1175
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 18,
+          "ar": "انجمينا",
+          "bn": "ন'জামিনা",
+          "de": "N’Djamena",
+          "en": "N'Djamena",
+          "es": "Yamena",
+          "fr": "N'Djamena",
+          "el": "Ντζαμένα",
+          "hi": "एन जेमीना",
+          "hu": "N’Djamena",
+          "id": "N'Djamena",
+          "it": "N'Djamena",
+          "ja": "ンジャメナ",
+          "ko": "은자메나",
+          "nl": "Ndjamena",
+          "pl": "Ndżamena",
+          "pt": "N'Djamena",
+          "ru": "Нджамена",
+          "sv": "N'Djamena",
+          "tr": "N'Djamena",
+          "vi": "N'Djamena",
+          "zh": "恩賈梅納"
+        },
+        "population": 586814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4845,
+          10.186
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-me",
+        "area": 3.0429539999999977,
+        "bounding_box": [
+          14.723,
+          9.187,
+          16.246,
+          11.185
+        ],
+        "point": [
+          15.4845,
+          10.186
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": "منطقة مايو كيبي الشرقي",
+          "bn": "মায়ো কেবি ইস্ট অঞ্চল",
+          "de": "Region Mayo-Kebbi Est",
+          "en": "Mayo-Kebbi Est Region",
+          "es": "Región de Mayo-Kebbi Este",
+          "fr": "Mayo-Kebbi Est",
+          "el": "Μάγιο-Κέμπι Εστ",
+          "hi": "मेयो-केबी एस्ट प्रदेश",
+          "hu": null,
+          "id": "Region Mayo-Kebbi Est",
+          "it": "regione di Mayo-Kebbi Est",
+          "ja": "東マヨ・ケッビ州",
+          "ko": "마요케비에스트 주",
+          "nl": "Mayo-Kebbi Est",
+          "pl": "Region Mayo-Kebbi Est",
+          "pt": "Mayo-Kebbi Est",
+          "ru": "Восточное Майо-Кеби",
+          "sv": "Mayo-Kebbi Est",
+          "tr": "Mayo-Kebbi Est Bölgesi",
+          "vi": "Khu vực Mayo-Kebbi Est",
+          "zh": "東凱比河區"
+        },
+        "population": 1104497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.706,
+          9.2085
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-mo",
+        "area": 2.384667999999998,
+        "bounding_box": [
+          13.948,
+          8.422,
+          15.464,
+          9.995
+        ],
+        "point": [
+          14.706,
+          9.2085
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "منطقة مايو كيبي الغربي",
+          "bn": "মায়ো কেব্বি ওয়েস্ট অঞ্চল",
+          "de": "Region Mayo-Kebbi Ouest",
+          "en": "Mayo-Kebbi Ouest Region",
+          "es": "Región de Mayo-Kebbi Oeste",
+          "fr": "Mayo-Kebbi Ouest",
+          "el": "Μάγιο-Κέμπι Ουέστ",
+          "hi": "मेयो-केबी आउस्ट क्षेत्र",
+          "hu": null,
+          "id": "Region Mayo-Kebbi Ouest",
+          "it": "regione di Mayo-Kebbi Ovest",
+          "ja": "西マヨ・ケッビ州",
+          "ko": "마요케비우에스트 주",
+          "nl": "Mayo-Kebbi Ouest",
+          "pl": "Region Mayo-Kebbi Ouest",
+          "pt": "Mayo-Kebbi Ouest",
+          "ru": "Западное Майо-Кеби",
+          "sv": "Mayo-Kebbi Ouest",
+          "tr": "Mayo-Kebbi Ouest Bölgesi",
+          "vi": "Khu vực Mayo-Kebbi Ouest",
+          "zh": "西凱比河區"
+        },
+        "population": 807861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.994,
+          18.351
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-x01~",
+        "area": 21.25320000000001,
+        "bounding_box": [
+          20.004,
+          15.681,
+          23.984,
+          21.021
+        ],
+        "point": [
+          21.994,
+          18.351
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "منطقة إنيدي",
+          "bn": "ইন্নেডি অঞ্চল",
+          "de": "Region Ennedi",
+          "en": "Ennedi Region",
+          "es": "Región de Ennedi",
+          "fr": "Ennedi",
+          "el": "Εννέντι",
+          "hi": "एनेडी क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Ennedi",
+          "it": "regione di Ennedi",
+          "ja": "エネディ州",
+          "ko": "엔네디 주",
+          "nl": "Ennedi Region",
+          "pl": "Region Ennedi",
+          "pt": "Região Ennedi",
+          "ru": "Эннеди",
+          "sv": "Ennedi",
+          "tr": "Ennedi Bölgesi",
+          "vi": "Khu vực Ennedi",
+          "zh": "恩內迪區"
+        },
+        "population": 411953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.181,
+          18.6905
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-bo",
+        "area": 35.86891200000001,
+        "bounding_box": [
+          15.469,
+          15.384,
+          20.893,
+          21.997
+        ],
+        "point": [
+          18.181,
+          18.6905
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "منطقة بوركو",
+          "bn": "বুরকু অঞ্চল",
+          "de": "Region Borkou",
+          "en": "Borkou Region",
+          "es": "Región de Borkou",
+          "fr": "Borkou",
+          "el": "Μπόρκου",
+          "hi": "बोर्कू प्रदेश",
+          "hu": null,
+          "id": "Wilayah Borkou",
+          "it": "regione di Borkou",
+          "ja": "ボルク州",
+          "ko": "보르쿠 주",
+          "nl": "Borkou Region",
+          "pl": "Region Borku",
+          "pt": "Região Borkou",
+          "ru": "Борку",
+          "sv": "Borkou",
+          "tr": "Borkou Bölgesi",
+          "vi": "Khu vực Borkou",
+          "zh": "博爾庫區"
+        },
+        "population": 231770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.948500000000003,
+          20.285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-ti",
+        "area": 24.881840000000008,
+        "bounding_box": [
+          14.98,
+          17.125,
+          18.917,
+          23.445
+        ],
+        "point": [
+          16.948500000000003,
+          20.285
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "منطقة تبستي",
+          "bn": "তিবেস্টি অঞ্চল",
+          "de": "Region Tibesti",
+          "en": "Tibesti Region",
+          "es": "Región de Tibesti",
+          "fr": "Tibesti",
+          "el": "Τιμπέστι",
+          "hi": "तिबेस्टी क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Tibesti",
+          "it": "regione di Tibesti",
+          "ja": "ティベスティ州",
+          "ko": "티베스티 주",
+          "nl": "Tibesti Region",
+          "pl": "Region Tibesti",
+          "pt": "Região de Tibesti",
+          "ru": "Тибести",
+          "sv": "Tibesti",
+          "tr": "Tibesti Bölgesi",
+          "vi": "Khu vựcTibesti",
+          "zh": "提貝斯提區"
+        },
+        "population": 45124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1395,
+          15.038
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-ka",
+        "area": 11.437242000000001,
+        "bounding_box": [
+          13.608,
+          13.171,
+          16.671,
+          16.905
+        ],
+        "point": [
+          15.1395,
+          15.038
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "منطقة كانم",
+          "bn": "কানেম অঞ্চল",
+          "de": "Region Kanem",
+          "en": "Kanem Region",
+          "es": "Región de Kanem",
+          "fr": "Kanem",
+          "el": "Κανέμ",
+          "hi": "कानेम प्रदेश",
+          "hu": null,
+          "id": "Region Kanem",
+          "it": "regione di Kanem",
+          "ja": "カネム州",
+          "ko": "카넴 주",
+          "nl": "Kanem",
+          "pl": "Region Kanem",
+          "pt": "Kanem",
+          "ru": "Канем",
+          "sv": "Kanem",
+          "tr": "Kanem Bölgesi",
+          "vi": "Khu vực Kanem",
+          "zh": "加奈姆區"
+        },
+        "population": 528897
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.137999999999998,
+          13.5685
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-od",
+        "area": 4.099076,
+        "bounding_box": [
+          20.0,
+          12.668,
+          22.276,
+          14.469
+        ],
+        "point": [
+          21.137999999999998,
+          13.5685
+        ],
+        "labels": {
+          "alt": "Ouaddai|Ouadaï",
+          "local": null,
+          "len": 7,
+          "ar": "منطقة وداي",
+          "bn": "উয়াডায় অঞ্চল",
+          "de": "Region Wadai",
+          "en": "Ouaddaï Region",
+          "es": "Región de Ouaddaï",
+          "fr": "Ouaddaï",
+          "el": "Ουαντάι",
+          "hi": "उडाई क्षेत्र",
+          "hu": null,
+          "id": "Region Ouaddaï",
+          "it": "regione di Ouaddaï",
+          "ja": "ワダイ州",
+          "ko": "와다이 주",
+          "nl": "Ouaddaï",
+          "pl": "Region Wadaj",
+          "pt": "Ouaddaï",
+          "ru": "Ваддай",
+          "sv": "Ouaddaï",
+          "tr": "Ouaddaï Bölgesi",
+          "vi": "Khu vực Ouaddai",
+          "zh": "瓦達伊區"
+        },
+        "population": 1173638
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5595,
+          14.9575
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-wf",
+        "area": 6.490638999999998,
+        "bounding_box": [
+          20.0,
+          13.917,
+          23.119,
+          15.998
+        ],
+        "point": [
+          21.5595,
+          14.9575
+        ],
+        "labels": {
+          "alt": "Biltine",
+          "local": null,
+          "len": 9,
+          "ar": "منطقة وادي فيرا",
+          "bn": "ওয়াডি ফিরা অঞ্চল",
+          "de": "Region Wadi Fira",
+          "en": "Wadi Fira Region",
+          "es": "Región de Wadi Fira",
+          "fr": "Wadi Fira",
+          "el": "Γουάντι Φίρα",
+          "hi": "वादी फिरा क्षेत्र",
+          "hu": null,
+          "id": "Region Wadi Fira",
+          "it": "regione di Wadi Fira",
+          "ja": "ワジ・フィラ州",
+          "ko": "와디피라 주",
+          "nl": "Wadi Fira",
+          "pl": "Region Wadi Fira",
+          "pt": "Wadi Fira",
+          "ru": "Вади-Фера",
+          "sv": "Wadi Fira",
+          "tr": "Wadi Fira Bölgesi",
+          "vi": "Khu vực Wadi Fira",
+          "zh": "瓦迪菲拉區"
+        },
+        "population": 1021551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7915,
+          14.695
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-bg",
+        "area": 7.915481999999993,
+        "bounding_box": [
+          15.59,
+          13.048,
+          17.993,
+          16.342
+        ],
+        "point": [
+          16.7915,
+          14.695
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "بحر الغزال",
+          "bn": "বার এল গাজেল অঞ্চল",
+          "de": "Region Barh El Gazel",
+          "en": "Bahr el Gazel Region",
+          "es": "Región de Barh El Gazel",
+          "fr": "Région du Barh El Gazel",
+          "el": "Μπαχρ ελ Γκαζέλ",
+          "hi": "बहल एल गेज़ेल क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Bahr el Gazel",
+          "it": "regione di Barh El Gazel",
+          "ja": "バル・エル＝ガゼル州",
+          "ko": "바르엘가젤 주",
+          "nl": "Bahr el Gazel Region",
+          "pl": "Region Bahr El Gazel",
+          "pt": "Barh El Gazel",
+          "ru": "Бахр-эль-Газаль",
+          "sv": "Bahr el Gazel",
+          "tr": "Bahr el Gazel Bölgesi",
+          "vi": "Khu vực Bahr el Gazel",
+          "zh": "加扎勒河區"
+        },
+        "population": 441300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.498,
+          9.621500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-ta",
+        "area": 2.669079999999996,
+        "bounding_box": [
+          15.438,
+          8.992,
+          17.558,
+          10.251
+        ],
+        "point": [
+          16.498,
+          9.621500000000001
+        ],
+        "labels": {
+          "alt": "Tandjile",
+          "local": null,
+          "len": 8,
+          "ar": "منطقة تانجلي",
+          "bn": "তাঞ্জিলে অঞ্চল",
+          "de": "Region Tandjilé",
+          "en": "Tandjilé Region",
+          "es": "Región de Tandjilé",
+          "fr": "Tandjilé",
+          "el": "Ταντζιλέ",
+          "hi": "तंदीले क्षेत्र",
+          "hu": null,
+          "id": "Region Tandjilé",
+          "it": "regione di Tandjilé",
+          "ja": "タンジレ州",
+          "ko": "탕질레 주",
+          "nl": "Tandjilé",
+          "pl": "Region Tandjilé",
+          "pt": "Tandjilé",
+          "ru": "Танджиле",
+          "sv": "Tandjilé",
+          "tr": "Tandjilé Bölgesi",
+          "vi": "Khu vực Tandjilé",
+          "zh": "坦吉萊區"
+        },
+        "population": 841256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.931000000000001,
+          8.748
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-lo",
+        "area": 1.3053600000000012,
+        "bounding_box": [
+          15.265,
+          8.258,
+          16.597,
+          9.238
+        ],
+        "point": [
+          15.931000000000001,
+          8.748
+        ],
+        "labels": {
+          "alt": "Logone-Occidental",
+          "local": null,
+          "len": 17,
+          "ar": "منطقة لوقون الغربي",
+          "bn": "লুুগোনে অক্সিডেন্টাল অঞ্চল",
+          "de": "Region Logone Occidental",
+          "en": "Logone Occidental Region",
+          "es": "Región de Logone Occidental",
+          "fr": "Logone Occidental",
+          "el": "Λογκόνε Οξιντένταλ",
+          "hi": "लोगोन ऑक्सीडोंटल प्रदेश",
+          "hu": null,
+          "id": "Region Logone Occidental",
+          "it": "regione del Logone Occidentale",
+          "ja": "ロゴン・オクシデンタル州",
+          "ko": "로곤옥시당탈 주",
+          "nl": "Logone Occidental",
+          "pl": "Region Logon Zachodni",
+          "pt": "Região Ocidental de Logone",
+          "ru": "Западный Логон",
+          "sv": "Logone Occidental",
+          "tr": "Logone Occidental Bölgesi",
+          "vi": "Khu vực Logone Occidental",
+          "zh": "西洛貢區"
+        },
+        "population": 881341
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.715,
+          11.461500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-gr",
+        "area": 9.31188,
+        "bounding_box": [
+          17.255,
+          9.867,
+          20.175,
+          13.056
+        ],
+        "point": [
+          18.715,
+          11.461500000000001
+        ],
+        "labels": {
+          "alt": "Guera|Baguirmi",
+          "local": null,
+          "len": 5,
+          "ar": "منطقة قيرا",
+          "bn": "গোয়েরা অঞ্চল",
+          "de": "Region Guéra",
+          "en": "Guéra Region",
+          "es": "Región de Guéra",
+          "fr": "Région du Guéra",
+          "el": "Γκουέρα",
+          "hi": "गुएरा प्रदेश",
+          "hu": null,
+          "id": "Wilayah Guéra",
+          "it": "regione di Guéra",
+          "ja": "ゲラ州",
+          "ko": "게라 주",
+          "nl": "Guéra",
+          "pl": "Region Guéra",
+          "pt": "Região de Guera",
+          "ru": "Гера",
+          "sv": "Guéra",
+          "tr": "Guéra Bölgesi",
+          "vi": "Khu vực Guera",
+          "zh": "蓋拉區"
+        },
+        "population": 811146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.625999999999998,
+          14.1645
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "td",
+        "region_child": "td-ba",
+        "area": 13.489085999999995,
+        "bounding_box": [
+          16.947,
+          12.156,
+          20.305,
+          16.173
+        ],
+        "point": [
+          18.625999999999998,
+          14.1645
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "منطقة البطحة",
+          "bn": "বাথা অঞ্চল",
+          "de": "Region Batha",
+          "en": "Batha Region",
+          "es": "Región de Batha",
+          "fr": "Batha",
+          "el": "Μπάθα",
+          "hi": "बाथा प्रदेश",
+          "hu": null,
+          "id": "Region Batha",
+          "it": "regione di Batha",
+          "ja": "バタ州",
+          "ko": "바타 주",
+          "nl": "Batha",
+          "pl": "Region Batha",
+          "pt": "Batha",
+          "ru": "Батха",
+          "sv": "Batha",
+          "tr": "Batha Bölgesi",
+          "vi": "Khu vực Batha",
+          "zh": "巴塔区"
+        },
+        "population": 684786
+      }
+    }
+  ]
+}

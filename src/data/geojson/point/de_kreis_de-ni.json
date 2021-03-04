@@ -1,0 +1,1745 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3875,
+          52.9865
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "oldenburg",
+        "area": 0.2420770000000027,
+        "bounding_box": [
+          8.063,
+          52.8,
+          8.712,
+          53.173
+        ],
+        "point": [
+          8.3875,
+          52.9865
+        ],
+        "labels": {
+          "en": "Oldenburg"
+        },
+        "population": 199058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.055,
+          52.283500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "osnabrück städte",
+        "area": 0.0294839999999992,
+        "bounding_box": [
+          7.929,
+          52.225,
+          8.181,
+          52.342
+        ],
+        "point": [
+          8.055,
+          52.283500000000004
+        ],
+        "labels": {
+          "en": "Osnabrück Städte"
+        },
+        "population": 146806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.067,
+          52.3725
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "osnabrück",
+        "area": 0.6092679999999997,
+        "bounding_box": [
+          7.613,
+          52.037,
+          8.521,
+          52.708
+        ],
+        "point": [
+          8.067,
+          52.3725
+        ],
+        "labels": {
+          "en": "Osnabrück"
+        },
+        "population": 343434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.244,
+          52.66
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "vechta",
+        "area": 0.2070160000000025,
+        "bounding_box": [
+          8.015,
+          52.434,
+          8.473,
+          52.886
+        ],
+        "point": [
+          8.244,
+          52.66
+        ],
+        "labels": {
+          "en": "Vechta"
+        },
+        "population": 135015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.415,
+          53.36
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "wesermarsch",
+        "area": 0.245616000000003,
+        "bounding_box": [
+          8.177,
+          53.102,
+          8.653,
+          53.618
+        ],
+        "point": [
+          8.415,
+          53.36
+        ],
+        "labels": {
+          "en": "Wesermarsch"
+        },
+        "population": 88978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.154,
+          53.7225
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "wesermarsch",
+        "area": 0.0005999999999997258,
+        "bounding_box": [
+          8.134,
+          53.715,
+          8.174,
+          53.73
+        ],
+        "point": [
+          8.154,
+          53.7225
+        ],
+        "labels": {
+          "en": "Wesermarsch"
+        },
+        "population": 88978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.086500000000001,
+          53.570499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "wilhelmshaven städte",
+        "area": 0.023084999999999814,
+        "bounding_box": [
+          8.001,
+          53.503,
+          8.172,
+          53.638
+        ],
+        "point": [
+          8.086500000000001,
+          53.570499999999996
+        ],
+        "labels": {
+          "en": "Wilhelmshaven Städte"
+        },
+        "population": 66379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.705500000000001,
+          53.5325
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "wittmund",
+        "area": 0.20283500000000113,
+        "bounding_box": [
+          7.423,
+          53.353,
+          7.988,
+          53.712
+        ],
+        "point": [
+          7.705500000000001,
+          53.5325
+        ],
+        "labels": {
+          "en": "Wittmund"
+        },
+        "population": 56729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.547499999999999,
+          53.739999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "wittmund",
+        "area": 0.0054059999999998215,
+        "bounding_box": [
+          7.468,
+          53.723,
+          7.627,
+          53.757
+        ],
+        "point": [
+          7.547499999999999,
+          53.739999999999995
+        ],
+        "labels": {
+          "en": "Wittmund"
+        },
+        "population": 56729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7364999999999995,
+          53.7695
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "wittmund",
+        "area": 0.0029190000000001155,
+        "bounding_box": [
+          7.667,
+          53.759,
+          7.806,
+          53.78
+        ],
+        "point": [
+          7.7364999999999995,
+          53.7695
+        ],
+        "labels": {
+          "en": "Wittmund"
+        },
+        "population": 56729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5305,
+          52.275
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "braunschweig städte",
+        "area": 0.03927000000000067,
+        "bounding_box": [
+          10.415,
+          52.19,
+          10.646,
+          52.36
+        ],
+        "point": [
+          10.5305,
+          52.275
+        ],
+        "labels": {
+          "en": "Braunschweig Städte"
+        },
+        "population": 240592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6355,
+          52.5865
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "gifhorn",
+        "area": 0.38873099999999905,
+        "bounding_box": [
+          10.261,
+          52.327,
+          11.01,
+          52.846
+        ],
+        "point": [
+          10.6355,
+          52.5865
+        ],
+        "labels": {
+          "en": "Gifhorn"
+        },
+        "population": 165953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3845,
+          51.8515
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "goslar",
+        "area": 0.267297000000001,
+        "bounding_box": [
+          10.064,
+          51.643,
+          10.705,
+          52.06
+        ],
+        "point": [
+          10.3845,
+          51.8515
+        ],
+        "labels": {
+          "en": "Goslar"
+        },
+        "population": 127107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9645,
+          51.4735
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "göttingen",
+        "area": 0.28186499999999914,
+        "bounding_box": [
+          9.556,
+          51.301,
+          10.373,
+          51.646
+        ],
+        "point": [
+          9.9645,
+          51.4735
+        ],
+        "labels": {
+          "en": "Göttingen"
+        },
+        "population": 231946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8475,
+          52.2605
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "helmstedt",
+        "area": 0.20489099999999882,
+        "bounding_box": [
+          10.603,
+          52.051,
+          11.092,
+          52.47
+        ],
+        "point": [
+          10.8475,
+          52.2605
+        ],
+        "labels": {
+          "en": "Helmstedt"
+        },
+        "population": 84559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.798,
+          51.7665
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "northeim",
+        "area": 0.2715800000000027,
+        "bounding_box": [
+          9.428,
+          51.583,
+          10.168,
+          51.95
+        ],
+        "point": [
+          9.798,
+          51.7665
+        ],
+        "labels": {
+          "en": "Northeim"
+        },
+        "population": 123299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3995,
+          51.692
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "osterode",
+        "area": 0.1587659999999977,
+        "bounding_box": [
+          10.118,
+          51.551,
+          10.681,
+          51.833
+        ],
+        "point": [
+          10.3995,
+          51.692
+        ],
+        "labels": {
+          "en": "Osterode"
+        },
+        "population": 68501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2285,
+          52.315
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "peine",
+        "area": 0.12668400000000143,
+        "bounding_box": [
+          9.999,
+          52.177,
+          10.458,
+          52.453
+        ],
+        "point": [
+          10.2285,
+          52.315
+        ],
+        "labels": {
+          "en": "Peine"
+        },
+        "population": 127496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.367999999999999,
+          52.1245
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "salzgitter städte",
+        "area": 0.056989999999999624,
+        "bounding_box": [
+          10.229,
+          52.022,
+          10.507,
+          52.227
+        ],
+        "point": [
+          10.367999999999999,
+          52.1245
+        ],
+        "labels": {
+          "en": "Salzgitter Städte"
+        },
+        "population": 87867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.660499999999999,
+          52.1415
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "wolfenbüttel",
+        "area": 0.15325300000000117,
+        "bounding_box": [
+          10.429,
+          51.976,
+          10.892,
+          52.307
+        ],
+        "point": [
+          10.660499999999999,
+          52.1415
+        ],
+        "labels": {
+          "en": "Wolfenbüttel"
+        },
+        "population": 116177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.260000000000002,
+          52.0945
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "wolfenbüttel",
+        "area": 0.030429999999999128,
+        "bounding_box": [
+          10.175,
+          52.005,
+          10.345,
+          52.184
+        ],
+        "point": [
+          10.260000000000002,
+          52.0945
+        ],
+        "labels": {
+          "en": "Wolfenbüttel"
+        },
+        "population": 116177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.779,
+          52.406000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "wolfsburg städte",
+        "area": 0.04607999999999997,
+        "bounding_box": [
+          10.651,
+          52.316,
+          10.907,
+          52.496
+        ],
+        "point": [
+          10.779,
+          52.406000000000006
+        ],
+        "labels": {
+          "en": "Wolfsburg Städte"
+        },
+        "population": 119236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.703,
+          52.751000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "diepholz",
+        "area": 0.5006160000000013,
+        "bounding_box": [
+          8.294,
+          52.445,
+          9.112,
+          53.057
+        ],
+        "point": [
+          8.703,
+          52.751000000000005
+        ],
+        "labels": {
+          "en": "Diepholz"
+        },
+        "population": 212347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.422,
+          52.0945
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "hamelin-pyrmont",
+        "area": 0.18992400000000342,
+        "bounding_box": [
+          9.156,
+          51.916,
+          9.688,
+          52.273
+        ],
+        "point": [
+          9.422,
+          52.0945
+        ],
+        "labels": {
+          "en": "Hamelin-Pyrmont"
+        },
+        "population": 138647
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7715,
+          52.405
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "hanover",
+        "area": 0.5836200000000017,
+        "bounding_box": [
+          9.239,
+          52.131,
+          10.304,
+          52.679
+        ],
+        "point": [
+          9.7715,
+          52.405
+        ],
+        "labels": {
+          "en": "Hanover"
+        },
+        "population": 1086672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9455,
+          52.0985
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "hildesheim",
+        "area": 0.25268099999999943,
+        "bounding_box": [
+          9.632,
+          51.897,
+          10.259,
+          52.3
+        ],
+        "point": [
+          9.9455,
+          52.0985
+        ],
+        "labels": {
+          "en": "Hildesheim"
+        },
+        "population": 261002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6055,
+          51.843999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "holzminden",
+        "area": 0.23319999999999924,
+        "bounding_box": [
+          9.314,
+          51.644,
+          9.897,
+          52.044
+        ],
+        "point": [
+          9.6055,
+          51.843999999999994
+        ],
+        "labels": {
+          "en": "Holzminden"
+        },
+        "population": 63633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.122,
+          52.6475
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "nienburg",
+        "area": 0.42886800000000364,
+        "bounding_box": [
+          8.704,
+          52.391,
+          9.54,
+          52.904
+        ],
+        "point": [
+          9.122,
+          52.6475
+        ],
+        "labels": {
+          "en": "Nienburg"
+        },
+        "population": 117625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.208,
+          52.273
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "schaumburg",
+        "area": 0.17495999999999995,
+        "bounding_box": [
+          8.965,
+          52.093,
+          9.451,
+          52.453
+        ],
+        "point": [
+          9.208,
+          52.273
+        ],
+        "labels": {
+          "en": "Schaumburg"
+        },
+        "population": 148871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0885,
+          52.72
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "celle",
+        "area": 0.32589199999999874,
+        "bounding_box": [
+          9.728,
+          52.494,
+          10.449,
+          52.946
+        ],
+        "point": [
+          10.0885,
+          52.72
+        ],
+        "labels": {
+          "en": "Celle"
+        },
+        "population": 169325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8885,
+          53.589
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "cuxhaven",
+        "area": 0.4902540000000009,
+        "bounding_box": [
+          8.484,
+          53.286,
+          9.293,
+          53.892
+        ],
+        "point": [
+          8.8885,
+          53.589
+        ],
+        "labels": {
+          "en": "Cuxhaven"
+        },
+        "population": 304073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.501000000000001,
+          53.9225
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "cuxhaven",
+        "area": 0.0004759999999998934,
+        "bounding_box": [
+          8.487,
+          53.914,
+          8.515,
+          53.931
+        ],
+        "point": [
+          8.501000000000001,
+          53.9225
+        ],
+        "labels": {
+          "en": "Cuxhaven"
+        },
+        "population": 304073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02,
+          53.328
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "harburg",
+        "area": 0.3500280000000002,
+        "bounding_box": [
+          9.557,
+          53.139,
+          10.483,
+          53.517
+        ],
+        "point": [
+          10.02,
+          53.328
+        ],
+        "labels": {
+          "en": "Harburg"
+        },
+        "population": 291155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1775,
+          53.051500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "lüchow-dannenberg",
+        "area": 0.342146999999999,
+        "bounding_box": [
+          10.753,
+          52.85,
+          11.602,
+          53.253
+        ],
+        "point": [
+          11.1775,
+          53.051500000000004
+        ],
+        "labels": {
+          "en": "Lüchow-Dannenberg"
+        },
+        "population": 46418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.619499999999999,
+          53.226
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "lüneburg",
+        "area": 0.39174200000000137,
+        "bounding_box": [
+          10.04,
+          53.057,
+          11.199,
+          53.395
+        ],
+        "point": [
+          10.619499999999999,
+          53.226
+        ],
+        "labels": {
+          "en": "Lüneburg"
+        },
+        "population": 190383
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.778500000000001,
+          53.265
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "osterholz",
+        "area": 0.15974200000000058,
+        "bounding_box": [
+          8.487,
+          53.128,
+          9.07,
+          53.402
+        ],
+        "point": [
+          8.778500000000001,
+          53.265
+        ],
+        "labels": {
+          "en": "Osterholz"
+        },
+        "population": 104751
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.327,
+          53.2585
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "rotenburg",
+        "area": 0.580866,
+        "bounding_box": [
+          8.898,
+          52.92,
+          9.756,
+          53.597
+        ],
+        "point": [
+          9.327,
+          53.2585
+        ],
+        "labels": {
+          "en": "Rotenburg"
+        },
+        "population": 161223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.778500000000001,
+          52.9165
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "soltau-fallingbostel",
+        "area": 0.5756669999999964,
+        "bounding_box": [
+          9.315,
+          52.606,
+          10.242,
+          53.227
+        ],
+        "point": [
+          9.778500000000001,
+          52.9165
+        ],
+        "labels": {
+          "en": "Soltau-Fallingbostel"
+        },
+        "population": 131161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.399000000000001,
+          53.615
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "stade",
+        "area": 0.4108360000000017,
+        "bounding_box": [
+          9.02,
+          53.344,
+          9.778,
+          53.886
+        ],
+        "point": [
+          9.399000000000001,
+          53.615
+        ],
+        "labels": {
+          "en": "Stade"
+        },
+        "population": 200583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5265,
+          52.9945
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "uelzen",
+        "area": 0.321194999999998,
+        "bounding_box": [
+          10.159,
+          52.776,
+          10.894,
+          53.213
+        ],
+        "point": [
+          10.5265,
+          52.9945
+        ],
+        "labels": {
+          "en": "Uelzen"
+        },
+        "population": 89525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.183,
+          52.980000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "verden",
+        "area": 0.23046400000000228,
+        "bounding_box": [
+          8.906,
+          52.772,
+          9.46,
+          53.188
+        ],
+        "point": [
+          9.183,
+          52.980000000000004
+        ],
+        "labels": {
+          "en": "Verden"
+        },
+        "population": 131735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0295,
+          53.204499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "ammerland",
+        "area": 0.17257699999999943,
+        "bounding_box": [
+          7.735,
+          53.058,
+          8.324,
+          53.351
+        ],
+        "point": [
+          8.0295,
+          53.204499999999996
+        ],
+        "labels": {
+          "en": "Ammerland"
+        },
+        "population": 127757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.422000000000001,
+          53.5015
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "aurich",
+        "area": 0.3146079999999958,
+        "bounding_box": [
+          6.998,
+          53.316,
+          7.846,
+          53.687
+        ],
+        "point": [
+          7.422000000000001,
+          53.5015
+        ],
+        "labels": {
+          "en": "Aurich"
+        },
+        "population": 194694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.721,
+          53.588
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "aurich",
+        "area": 0.011159999999999552,
+        "bounding_box": [
+          6.631,
+          53.557,
+          6.811,
+          53.619
+        ],
+        "point": [
+          6.721,
+          53.588
+        ],
+        "labels": {
+          "en": "Aurich"
+        },
+        "population": 194694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9755,
+          53.673
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "aurich",
+        "area": 0.005784000000000211,
+        "bounding_box": [
+          6.855,
+          53.661,
+          7.096,
+          53.685
+        ],
+        "point": [
+          6.9755,
+          53.673
+        ],
+        "labels": {
+          "en": "Aurich"
+        },
+        "population": 194694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2405,
+          53.713499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "aurich",
+        "area": 0.0038949999999996635,
+        "bounding_box": [
+          7.138,
+          53.704,
+          7.343,
+          53.723
+        ],
+        "point": [
+          7.2405,
+          53.713499999999996
+        ],
+        "labels": {
+          "en": "Aurich"
+        },
+        "population": 194694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.883,
+          53.64
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "aurich",
+        "area": 0.001008000000000197,
+        "bounding_box": [
+          6.865,
+          53.626,
+          6.901,
+          53.654
+        ],
+        "point": [
+          6.883,
+          53.64
+        ],
+        "labels": {
+          "en": "Aurich"
+        },
+        "population": 194694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.395,
+          53.730000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "aurich",
+        "area": 0.0006999999999998547,
+        "bounding_box": [
+          7.36,
+          53.725,
+          7.43,
+          53.735
+        ],
+        "point": [
+          7.395,
+          53.730000000000004
+        ],
+        "labels": {
+          "en": "Aurich"
+        },
+        "population": 194694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8309999999999995,
+          53.647
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "aurich",
+        "area": 0.0006799999999998608,
+        "bounding_box": [
+          6.814,
+          53.637,
+          6.848,
+          53.657
+        ],
+        "point": [
+          6.8309999999999995,
+          53.647
+        ],
+        "labels": {
+          "en": "Aurich"
+        },
+        "population": 194694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9555,
+          52.925
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "cloppenburg",
+        "area": 0.30849999999999955,
+        "bounding_box": [
+          7.647,
+          52.675,
+          8.264,
+          53.175
+        ],
+        "point": [
+          7.9555,
+          52.925
+        ],
+        "labels": {
+          "en": "Cloppenburg"
+        },
+        "population": 160939
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.202500000000001,
+          53.345
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "emden städte",
+        "area": 0.036378000000000424,
+        "bounding_box": [
+          7.009,
+          53.298,
+          7.396,
+          53.392
+        ],
+        "point": [
+          7.202500000000001,
+          53.345
+        ],
+        "labels": {
+          "en": "Emden Städte"
+        },
+        "population": 44541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4275,
+          52.691
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "emsland",
+        "area": 0.694589999999996,
+        "bounding_box": [
+          7.005,
+          52.28,
+          7.85,
+          53.102
+        ],
+        "point": [
+          7.4275,
+          52.691
+        ],
+        "labels": {
+          "en": "Emsland"
+        },
+        "population": 313461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.015,
+          53.5075
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "friesland",
+        "area": 0.16755800000000282,
+        "bounding_box": [
+          7.816,
+          53.297,
+          8.214,
+          53.718
+        ],
+        "point": [
+          8.015,
+          53.5075
+        ],
+        "labels": {
+          "en": "Friesland"
+        },
+        "population": 93314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.907,
+          53.784
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "friesland",
+        "area": 0.0024399999999995124,
+        "bounding_box": [
+          7.846,
+          53.774,
+          7.968,
+          53.794
+        ],
+        "point": [
+          7.907,
+          53.784
+        ],
+        "labels": {
+          "en": "Friesland"
+        },
+        "population": 93314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.009500000000001,
+          53.7655
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "friesland",
+        "area": 0.0017630000000001748,
+        "bounding_box": [
+          7.988,
+          53.745,
+          8.031,
+          53.786
+        ],
+        "point": [
+          8.009500000000001,
+          53.7655
+        ],
+        "labels": {
+          "en": "Friesland"
+        },
+        "population": 93314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0024999999999995,
+          52.4495
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "grafschaft bentheim",
+        "area": 0.26308099999999773,
+        "bounding_box": [
+          6.684,
+          52.243,
+          7.321,
+          52.656
+        ],
+        "point": [
+          7.0024999999999995,
+          52.4495
+        ],
+        "labels": {
+          "en": "Grafschaft Bentheim"
+        },
+        "population": 134695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558,
+          53.198
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "leer",
+        "area": 0.2372159999999988,
+        "bounding_box": [
+          7.205,
+          53.03,
+          7.911,
+          53.366
+        ],
+        "point": [
+          7.558,
+          53.198
+        ],
+        "labels": {
+          "en": "Leer"
+        },
+        "population": 164230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.229,
+          53.1435
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-ni",
+        "region_child": "oldenburg städte",
+        "area": 0.02081200000000024,
+        "bounding_box": [
+          8.143,
+          53.083,
+          8.315,
+          53.204
+        ],
+        "point": [
+          8.229,
+          53.1435
+        ],
+        "labels": {
+          "en": "Oldenburg Städte"
+        },
+        "population": 148263
+      }
+    }
+  ]
+}

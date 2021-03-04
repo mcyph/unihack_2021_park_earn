@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0055,
+          49.936
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lu",
+        "region_child": "lu-d",
+        "area": 0.26725999999999656,
+        "bounding_box": [
+          5.715,
+          49.706,
+          6.296,
+          50.166
+        ],
+        "point": [
+          6.0055,
+          49.936
+        ],
+        "labels": {
+          "alt": "Dikrech|Dikkrich",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة ديكرش",
+          "bn": "ডাইকিচ জেলা",
+          "de": "Distrikt Diekirch",
+          "en": "Diekirch District",
+          "es": "Distrito de Diekirch",
+          "fr": "district de Diekirch",
+          "el": "Ντιερκίρτς",
+          "hi": "दाइकिर्च जिला",
+          "hu": null,
+          "id": "Distrik Diekirch",
+          "it": "distretto di Diekirch",
+          "ja": "ディーキルヒ広域行政区",
+          "ko": "디키르히 구",
+          "nl": "District Diekirch",
+          "pl": "Dystrykt Diekirch",
+          "pt": "Diekirch",
+          "ru": "Дикирх",
+          "sv": "Diekirch",
+          "tr": "Diekirch ili",
+          "vi": "Quận Diekirch",
+          "zh": "迪基希區"
+        },
+        "population": 90429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3375,
+          49.652
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lu",
+        "region_child": "lu-g",
+        "area": 0.12804999999999953,
+        "bounding_box": [
+          6.175,
+          49.455,
+          6.5,
+          49.849
+        ],
+        "point": [
+          6.3375,
+          49.652
+        ],
+        "labels": {
+          "alt": "Gréivemaacher",
+          "local": null,
+          "len": 12,
+          "ar": "مقاطعة غريفنماكر",
+          "bn": "গ্রেভেনমাকের জেলা",
+          "de": "Distrikt Grevenmacher",
+          "en": "Grevenmacher District",
+          "es": "Distrito de Grevenmacher",
+          "fr": "district de Grevenmacher",
+          "el": "Επαρχία Γκρεβενμάχερ",
+          "hi": "ग्रेवेनमेचर जिला",
+          "hu": null,
+          "id": "Distrik Grevenmacher",
+          "it": "distretto di Grevenmacher",
+          "ja": "グレーヴェンマハ広域行政区",
+          "ko": "그레벤마허 구",
+          "nl": "District Grevenmacher",
+          "pl": "Dystrykt Grevenmacher",
+          "pt": "Grevenmacher",
+          "ru": "Гревенмахер",
+          "sv": "Grevenmacher",
+          "tr": "Grevenmacher ili",
+          "vi": "Quận Grevenmacher",
+          "zh": "格雷文馬赫區"
+        },
+        "population": 55422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.051500000000001,
+          49.6325
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lu",
+        "region_child": "lu-l",
+        "area": 0.19954299999999767,
+        "bounding_box": [
+          5.791,
+          49.441,
+          6.312,
+          49.824
+        ],
+        "point": [
+          6.051500000000001,
+          49.6325
+        ],
+        "labels": {
+          "alt": "Lëtzebuerg|Luxemburg",
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 452127
+      }
+    }
+  ]
+}

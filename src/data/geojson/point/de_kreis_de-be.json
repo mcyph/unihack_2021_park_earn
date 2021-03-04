@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.431000000000001,
+          52.507
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-be",
+        "region_child": "berlin",
+        "area": 0.22646399999999942,
+        "bounding_box": [
+          13.094,
+          52.339,
+          13.768,
+          52.675
+        ],
+        "point": [
+          13.431000000000001,
+          52.507
+        ],
+        "labels": {
+          "en": "Berlin"
+        },
+        "population": 3197977
+      }
+    }
+  ]
+}

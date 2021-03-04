@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.23949999999999,
+          44.197
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "001",
+        "area": 0.2847800000000025,
+        "bounding_box": [
+          -70.485,
+          43.907,
+          -69.994,
+          44.487
+        ],
+        "point": [
+          -70.23949999999999,
+          44.197
+        ],
+        "labels": {
+          "en": "Androscoggin"
+        },
+        "population": 111721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8585,
+          43.902
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "023",
+        "area": 0.20588399999999887,
+        "bounding_box": [
+          -70.052,
+          43.636,
+          -69.665,
+          44.168
+        ],
+        "point": [
+          -69.8585,
+          43.902
+        ],
+        "labels": {
+          "en": "Sagadahoc"
+        },
+        "population": 36204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.495,
+          44.998999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "029",
+        "area": 1.6640799999999951,
+        "bounding_box": [
+          -68.105,
+          44.317,
+          -66.885,
+          45.681
+        ],
+        "point": [
+          -67.495,
+          44.998999999999995
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 32254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.149,
+          44.4785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "027",
+        "area": 0.39341399999999555,
+        "bounding_box": [
+          -69.506,
+          44.203,
+          -68.792,
+          44.754
+        ],
+        "point": [
+          -69.149,
+          44.4785
+        ],
+        "labels": {
+          "en": "Waldo"
+        },
+        "population": 41493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6055,
+          43.3655
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "031",
+        "area": 0.6879990000000079,
+        "bounding_box": [
+          -70.989,
+          42.917,
+          -70.222,
+          43.814
+        ],
+        "point": [
+          -70.6055,
+          43.3655
+        ],
+        "labels": {
+          "en": "York"
+        },
+        "population": 208190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.648,
+          45.519999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "019",
+        "area": 2.4808319999999977,
+        "bounding_box": [
+          -69.356,
+          44.644,
+          -67.94,
+          46.396
+        ],
+        "point": [
+          -68.648,
+          45.519999999999996
+        ],
+        "labels": {
+          "en": "Penobscot"
+        },
+        "population": 163389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7525,
+          44.414
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "011",
+        "area": 0.46573199999999876,
+        "bounding_box": [
+          -70.133,
+          44.108,
+          -69.372,
+          44.72
+        ],
+        "point": [
+          -69.7525,
+          44.414
+        ],
+        "labels": {
+          "en": "Kennebec"
+        },
+        "population": 127628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6615,
+          44.565
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "017",
+        "area": 1.3182,
+        "bounding_box": [
+          -71.084,
+          43.785,
+          -70.239,
+          45.345
+        ],
+        "point": [
+          -70.6615,
+          44.565
+        ],
+        "labels": {
+          "en": "Oxford"
+        },
+        "population": 61457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3,
+          45.792500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "021",
+        "area": 1.638023999999998,
+        "bounding_box": [
+          -69.824,
+          45.011,
+          -68.776,
+          46.574
+        ],
+        "point": [
+          -69.3,
+          45.792500000000004
+        ],
+        "labels": {
+          "en": "Piscataquis"
+        },
+        "population": 17963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5235,
+          44.0215
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "015",
+        "area": 0.3735829999999932,
+        "bounding_box": [
+          -69.814,
+          43.7,
+          -69.233,
+          44.343
+        ],
+        "point": [
+          -69.5235,
+          44.0215
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 35171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.36,
+          43.819
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "005",
+        "area": 0.7082240000000007,
+        "bounding_box": [
+          -70.863,
+          43.467,
+          -69.857,
+          44.171
+        ],
+        "point": [
+          -70.36,
+          43.819
+        ],
+        "labels": {
+          "en": "Cumberland"
+        },
+        "population": 297926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4105,
+          44.6405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "009",
+        "area": 1.1894750000000058,
+        "bounding_box": [
+          -68.896,
+          44.028,
+          -67.925,
+          45.253
+        ],
+        "point": [
+          -68.4105,
+          44.6405
+        ],
+        "labels": {
+          "en": "Hancock"
+        },
+        "population": 57157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.96799999999999,
+          44.048500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "013",
+        "area": 0.6114779999999987,
+        "bounding_box": [
+          -69.451,
+          43.732,
+          -68.485,
+          44.365
+        ],
+        "point": [
+          -68.96799999999999,
+          44.048500000000004
+        ],
+        "labels": {
+          "en": "Knox"
+        },
+        "population": 39922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.38149999999999,
+          45.063500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "007",
+        "area": 1.0965629999999922,
+        "bounding_box": [
+          -70.835,
+          44.459,
+          -69.928,
+          45.668
+        ],
+        "point": [
+          -70.38149999999999,
+          45.063500000000005
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 32118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.887,
+          46.5165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "003",
+        "area": 4.287263999999984,
+        "bounding_box": [
+          -70.023,
+          45.573,
+          -67.751,
+          47.46
+        ],
+        "point": [
+          -68.887,
+          46.5165
+        ],
+        "labels": {
+          "en": "Aroostook"
+        },
+        "population": 70215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.91,
+          45.5755
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-me",
+        "region_child": "025",
+        "area": 2.5681420000000026,
+        "bounding_box": [
+          -70.553,
+          44.577,
+          -69.267,
+          46.574
+        ],
+        "point": [
+          -69.91,
+          45.5755
+        ],
+        "labels": {
+          "en": "Somerset"
+        },
+        "population": 53400
+      }
+    }
+  ]
+}

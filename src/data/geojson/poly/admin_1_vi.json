@@ -1,0 +1,240 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.559,
+              17.752
+            ],
+            [
+              -64.592,
+              17.768
+            ],
+            [
+              -64.667,
+              17.763
+            ],
+            [
+              -64.69,
+              17.745
+            ],
+            [
+              -64.772,
+              17.793
+            ],
+            [
+              -64.888,
+              17.755
+            ],
+            [
+              -64.876,
+              17.689
+            ],
+            [
+              -64.671,
+              17.717
+            ],
+            [
+              -64.559,
+              17.752
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vi",
+        "region_child": "vi-x01~",
+        "area": 0.034216000000000545,
+        "bounding_box": [
+          -64.888,
+          17.689,
+          -64.559,
+          17.793
+        ],
+        "point": [
+          -64.7235,
+          17.741
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 41129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.701,
+              18.343
+            ],
+            [
+              -64.747,
+              18.374
+            ],
+            [
+              -64.786,
+              18.35
+            ],
+            [
+              -64.736,
+              18.32
+            ],
+            [
+              -64.701,
+              18.343
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vi",
+        "region_child": "vi-x03~",
+        "area": 0.004590000000000301,
+        "bounding_box": [
+          -64.786,
+          18.32,
+          -64.701,
+          18.374
+        ],
+        "point": [
+          -64.7435,
+          18.347
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": "Saint John",
+          "en": "Saint John Parish",
+          "es": "Parroquia de Saint John",
+          "fr": "Saint-John",
+          "el": "Άγιος Ιωάννης",
+          "hi": "सेंट जॉन पल्ली",
+          "hu": null,
+          "id": "Paroki Saint John",
+          "it": "Saint John",
+          "ja": null,
+          "ko": "세인트존 교구",
+          "nl": "Saint John",
+          "pl": "Saint John",
+          "pt": "Saint John",
+          "ru": null,
+          "sv": "Parish of Saint John",
+          "tr": null,
+          "vi": null,
+          "zh": "圣约翰区"
+        },
+        "population": 724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.872,
+              18.315
+            ],
+            [
+              -64.855,
+              18.34
+            ],
+            [
+              -64.929,
+              18.38
+            ],
+            [
+              -64.945,
+              18.337
+            ],
+            [
+              -64.872,
+              18.315
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vi",
+        "region_child": "vi-x02~",
+        "area": 0.005849999999999094,
+        "bounding_box": [
+          -64.945,
+          18.315,
+          -64.855,
+          18.38
+        ],
+        "point": [
+          -64.9,
+          18.3475
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 25668
+      }
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.76299999999998,
+          35.462500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31372",
+        "area": 0.015639999999999946,
+        "bounding_box": [
+          133.671,
+          35.42,
+          133.855,
+          35.505
+        ],
+        "point": [
+          133.76299999999998,
+          35.462500000000006
+        ],
+        "labels": {
+          "ja": "北栄町",
+          "en": "hokuei-cho"
+        },
+        "population": 14180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.51999999999998,
+          35.296
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31403",
+        "area": 0.02006400000000277,
+        "bounding_box": [
+          133.444,
+          35.23,
+          133.596,
+          35.362
+        ],
+        "point": [
+          133.51999999999998,
+          35.296
+        ],
+        "labels": {
+          "ja": "江府町",
+          "en": "kofu-cho"
+        },
+        "population": 3125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.902,
+          35.340500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31364",
+        "area": 0.05124000000000016,
+        "bounding_box": [
+          133.762,
+          35.249,
+          134.042,
+          35.432
+        ],
+        "point": [
+          133.902,
+          35.340500000000006
+        ],
+        "labels": {
+          "ja": "三朝町",
+          "en": "misasa-cho"
+        },
+        "population": 6744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.262,
+          35.2415
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31328",
+        "area": 0.03625000000000078,
+        "bounding_box": [
+          134.137,
+          35.169,
+          134.387,
+          35.314
+        ],
+        "point": [
+          134.262,
+          35.2415
+        ],
+        "labels": {
+          "ja": "智頭町",
+          "en": "chidhu-cho"
+        },
+        "population": 7289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.909,
+          35.4735
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31370",
+        "area": 0.012771999999999699,
+        "bounding_box": [
+          133.847,
+          35.422,
+          133.971,
+          35.525
+        ],
+        "point": [
+          133.909,
+          35.4735
+        ],
+        "labels": {
+          "ja": "湯梨浜町",
+          "en": "yurihama-cho"
+        },
+        "population": 15650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.3605,
+          35.310500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31389",
+        "area": 0.021194999999999055,
+        "bounding_box": [
+          133.293,
+          35.232,
+          133.428,
+          35.389
+        ],
+        "point": [
+          133.3605,
+          35.310500000000005
+        ],
+        "labels": {
+          "ja": "南部町",
+          "en": "nanbu-cho"
+        },
+        "population": 10996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.2355,
+          35.5145
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31204",
+        "area": 0.005474999999998639,
+        "bounding_box": [
+          133.199,
+          35.477,
+          133.272,
+          35.552
+        ],
+        "point": [
+          133.2355,
+          35.5145
+        ],
+        "labels": {
+          "ja": "境港市",
+          "en": "sakaiminato-shi"
+        },
+        "population": 33358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.4115,
+          35.215
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31402",
+        "area": 0.026319999999998785,
+        "bounding_box": [
+          133.294,
+          35.159,
+          133.529,
+          35.271
+        ],
+        "point": [
+          133.4115,
+          35.215
+        ],
+        "labels": {
+          "ja": "日野町",
+          "en": "hino-cho"
+        },
+        "population": 3629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.4425,
+          35.3185
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31390",
+        "area": 0.028222999999997382,
+        "bounding_box": [
+          133.358,
+          35.235,
+          133.527,
+          35.402
+        ],
+        "point": [
+          133.4425,
+          35.3185
+        ],
+        "labels": {
+          "ja": "伯耆町",
+          "en": "hoki-cho"
+        },
+        "population": 11376
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.274,
+          35.1635
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31401",
+        "area": 0.0582360000000018,
+        "bounding_box": [
+          133.136,
+          35.058,
+          133.412,
+          35.269
+        ],
+        "point": [
+          133.274,
+          35.1635
+        ],
+        "labels": {
+          "ja": "日南町",
+          "en": "nichinan-cho"
+        },
+        "population": 5102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.38,
+          35.443
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31384",
+        "area": 0.0006240000000001042,
+        "bounding_box": [
+          133.368,
+          35.43,
+          133.392,
+          35.456
+        ],
+        "point": [
+          133.38,
+          35.443
+        ],
+        "labels": {
+          "ja": "日吉津村",
+          "en": "hiedhu-son"
+        },
+        "population": 3413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.73149999999998,
+          35.3945
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31203",
+        "area": 0.05380300000000179,
+        "bounding_box": [
+          133.576,
+          35.308,
+          133.887,
+          35.481
+        ],
+        "point": [
+          133.73149999999998,
+          35.3945
+        ],
+        "labels": {
+          "ja": "倉吉市",
+          "en": "kurayoshi-shi"
+        },
+        "population": 46557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.33100000000002,
+          35.3765
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31329",
+        "area": 0.03410400000000119,
+        "bounding_box": [
+          134.215,
+          35.303,
+          134.447,
+          35.45
+        ],
+        "point": [
+          134.33100000000002,
+          35.3765
+        ],
+        "labels": {
+          "ja": "八頭町",
+          "en": "yazu-cho"
+        },
+        "population": 17373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.51850000000002,
+          35.44
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31386",
+        "area": 0.03293599999999993,
+        "bounding_box": [
+          133.429,
+          35.348,
+          133.608,
+          35.532
+        ],
+        "point": [
+          133.51850000000002,
+          35.44
+        ],
+        "labels": {
+          "ja": "大山町",
+          "en": "daisen-cho"
+        },
+        "population": 16300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.358,
+          35.5425
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31302",
+        "area": 0.022879999999999623,
+        "bounding_box": [
+          134.278,
+          35.471,
+          134.438,
+          35.614
+        ],
+        "point": [
+          134.358,
+          35.5425
+        ],
+        "labels": {
+          "ja": "岩美町",
+          "en": "iwami-cho"
+        },
+        "population": 11556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.30349999999999,
+          35.5945
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31302",
+        "area": 1.0000000000024443e-06,
+        "bounding_box": [
+          134.303,
+          35.594,
+          134.304,
+          35.595
+        ],
+        "point": [
+          134.30349999999999,
+          35.5945
+        ],
+        "labels": {
+          "ja": "岩美町",
+          "en": "iwami-cho"
+        },
+        "population": 11556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2945,
+          35.590500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31302",
+        "area": 9.999999999740225e-07,
+        "bounding_box": [
+          134.294,
+          35.59,
+          134.295,
+          35.591
+        ],
+        "point": [
+          134.2945,
+          35.590500000000006
+        ],
+        "labels": {
+          "ja": "岩美町",
+          "en": "iwami-cho"
+        },
+        "population": 11556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3005,
+          35.590500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31302",
+        "area": 9.999999999740225e-07,
+        "bounding_box": [
+          134.3,
+          35.59,
+          134.301,
+          35.591
+        ],
+        "point": [
+          134.3005,
+          35.590500000000006
+        ],
+        "labels": {
+          "ja": "岩美町",
+          "en": "iwami-cho"
+        },
+        "population": 11556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.292,
+          35.587500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31302",
+        "area": 0.0,
+        "bounding_box": [
+          134.292,
+          35.587,
+          134.292,
+          35.588
+        ],
+        "point": [
+          134.292,
+          35.587500000000006
+        ],
+        "labels": {
+          "ja": "岩美町",
+          "en": "iwami-cho"
+        },
+        "population": 11556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.356,
+          35.601
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31302",
+        "area": 0.0,
+        "bounding_box": [
+          134.356,
+          35.601,
+          134.356,
+          35.601
+        ],
+        "point": [
+          134.356,
+          35.601
+        ],
+        "labels": {
+          "ja": "岩美町",
+          "en": "iwami-cho"
+        },
+        "population": 11556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1935,
+          35.4225
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31201",
+        "area": 0.14899500000000232,
+        "bounding_box": [
+          133.946,
+          35.272,
+          134.441,
+          35.573
+        ],
+        "point": [
+          134.1935,
+          35.4225
+        ],
+        "labels": {
+          "ja": "鳥取市",
+          "en": "tottori-shi"
+        },
+        "population": 183244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.137,
+          35.54
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31201",
+        "area": 0.0,
+        "bounding_box": [
+          134.136,
+          35.54,
+          134.138,
+          35.54
+        ],
+        "point": [
+          134.137,
+          35.54
+        ],
+        "labels": {
+          "ja": "鳥取市",
+          "en": "tottori-shi"
+        },
+        "population": 183244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.3535,
+          35.438
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31202",
+        "area": 0.03187799999999764,
+        "bounding_box": [
+          133.227,
+          35.375,
+          133.48,
+          35.501
+        ],
+        "point": [
+          133.3535,
+          35.438
+        ],
+        "labels": {
+          "ja": "米子市",
+          "en": "yonago-shi"
+        },
+        "population": 134484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4345,
+          35.336
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31325",
+        "area": 0.03445399999999399,
+        "bounding_box": [
+          134.354,
+          35.229,
+          134.515,
+          35.443
+        ],
+        "point": [
+          134.4345,
+          35.336
+        ],
+        "labels": {
+          "ja": "若桜町",
+          "en": "wakasa-cho"
+        },
+        "population": 3606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.642,
+          35.4385
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-31",
+        "region_child": "31371",
+        "area": 0.027721999999999733,
+        "bounding_box": [
+          133.559,
+          35.355,
+          133.725,
+          35.522
+        ],
+        "point": [
+          133.642,
+          35.4385
+        ],
+        "labels": {
+          "ja": "琴浦町",
+          "en": "kotora-cho"
+        },
+        "population": 17081
+      }
+    }
+  ]
+}

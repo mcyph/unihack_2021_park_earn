@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.442499999999995,
+          39.073499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tm",
+        "region_child": "tm-l",
+        "area": 28.411882999999985,
+        "bounding_box": [
+          60.248,
+          36.85,
+          66.637,
+          41.297
+        ],
+        "point": [
+          63.442499999999995,
+          39.073499999999996
+        ],
+        "labels": {
+          "alt": "Lebap|Chardzhouskaya Oblast",
+          "local": null,
+          "len": 9,
+          "ar": null,
+          "bn": null,
+          "de": "Lebap welaýaty",
+          "en": "Lebap Region",
+          "es": "Provincia de Lebap",
+          "fr": "Lebap",
+          "el": null,
+          "hi": "लेबाप प्रान्त",
+          "hu": null,
+          "id": "Provinsi Lebap",
+          "it": "provincia di Lebap",
+          "ja": "レバプ州",
+          "ko": "레바프 주",
+          "nl": "Lebap",
+          "pl": "Wilajet lebapski",
+          "pt": "Lebap",
+          "ru": "Лебапский велаят",
+          "sv": "Lebap",
+          "tr": "Lebap vilayeti",
+          "vi": "Lebap",
+          "zh": "列巴普州"
+        },
+        "population": 1959323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.594,
+          37.331
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tm",
+        "region_child": "tm-m",
+        "area": 18.642819999999983,
+        "bounding_box": [
+          60.459,
+          35.148,
+          64.729,
+          39.514
+        ],
+        "point": [
+          62.594,
+          37.331
+        ],
+        "labels": {
+          "alt": "Maruy|Marysk|Maryyskaya Oblast",
+          "local": null,
+          "len": 4,
+          "ar": "محافظة ماري",
+          "bn": "মেরি প্রদেশ",
+          "de": "Mary welaýaty",
+          "en": "Mary Province",
+          "es": "Provincia de Mary",
+          "fr": "Mary",
+          "el": "Μέρι",
+          "hi": "मरी प्रान्त",
+          "hu": null,
+          "id": "Provinsi Mary",
+          "it": "provincia di Mary",
+          "ja": "マル州",
+          "ko": "마리 주",
+          "nl": "Mary",
+          "pl": "Wilajet maryjski",
+          "pt": "Mary",
+          "ru": "Марыйский велаят",
+          "sv": "Mary",
+          "tr": "Mary vilayeti",
+          "vi": "Mary",
+          "zh": "馬雷州"
+        },
+        "population": 2169662
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.0835,
+          37.879999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tm",
+        "region_child": "tm-a",
+        "area": 23.45669999999999,
+        "bounding_box": [
+          56.571,
+          35.546,
+          61.596,
+          40.214
+        ],
+        "point": [
+          59.0835,
+          37.879999999999995
+        ],
+        "labels": {
+          "alt": "Akhal|Ashkhabad|Ashkhabadskaya Oblast",
+          "local": null,
+          "len": 4,
+          "ar": "اقليم أهال",
+          "bn": "আহাল প্রদেশ",
+          "de": "Ahal welaýaty",
+          "en": "Ahal Region",
+          "es": "Provincia de Ahal",
+          "fr": "Ahal",
+          "el": "Αχάλ",
+          "hi": "आख़ाल प्रान्त",
+          "hu": null,
+          "id": "Provinsi Ahal",
+          "it": "provincia di Ahal",
+          "ja": "アハル州",
+          "ko": "아할 주",
+          "nl": "Ahal",
+          "pl": "Wilajet achalski",
+          "pt": "Ahal",
+          "ru": "Ахалский велаят",
+          "sv": "Achal",
+          "tr": "Ahal vilayeti",
+          "vi": "Ahal",
+          "zh": "阿哈爾州"
+        },
+        "population": 2915300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.801500000000004,
+          39.8345
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tm",
+        "region_child": "tm-b",
+        "area": 23.73426699999999,
+        "bounding_box": [
+          52.438,
+          37.324,
+          57.165,
+          42.345
+        ],
+        "point": [
+          54.801500000000004,
+          39.8345
+        ],
+        "labels": {
+          "alt": "Krasnovodsk, Krasnovodskaya Oblast",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية بلقان",
+          "bn": "বলকান প্রদেশ",
+          "de": "Balkan welaýaty",
+          "en": "Balkan Region",
+          "es": "Provincia de Balkan",
+          "fr": "Balkan",
+          "el": "Μπαλκάν",
+          "hi": "बलक़ान प्रान्त",
+          "hu": "Balkan",
+          "id": "Provinsi Balkan",
+          "it": "provincia di Balkan",
+          "ja": "バルカン州",
+          "ko": "발칸 주",
+          "nl": "Balkan",
+          "pl": "Wilajet balkański",
+          "pt": "Balkan",
+          "ru": "Балканский велаят",
+          "sv": "Balkan",
+          "tr": "Balkan vilayeti",
+          "vi": "Balkan",
+          "zh": "巴爾坎州"
+        },
+        "population": 811950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.5045,
+          39.55
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tm",
+        "region_child": "tm-b",
+        "area": 0.0058219999999998846,
+        "bounding_box": [
+          53.469,
+          39.509,
+          53.54,
+          39.591
+        ],
+        "point": [
+          53.5045,
+          39.55
+        ],
+        "labels": {
+          "alt": "Krasnovodsk, Krasnovodskaya Oblast",
+          "local": null,
+          "len": 6,
+          "ar": "ولاية بلقان",
+          "bn": "বলকান প্রদেশ",
+          "de": "Balkan welaýaty",
+          "en": "Balkan Region",
+          "es": "Provincia de Balkan",
+          "fr": "Balkan",
+          "el": "Μπαλκάν",
+          "hi": "बलक़ान प्रान्त",
+          "hu": "Balkan",
+          "id": "Provinsi Balkan",
+          "it": "provincia di Balkan",
+          "ja": "バルカン州",
+          "ko": "발칸 주",
+          "nl": "Balkan",
+          "pl": "Wilajet balkański",
+          "pt": "Balkan",
+          "ru": "Балканский велаят",
+          "sv": "Balkan",
+          "tr": "Balkan vilayeti",
+          "vi": "Balkan",
+          "zh": "巴爾坎州"
+        },
+        "population": 811950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.769,
+          41.1285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tm",
+        "region_child": "tm-d",
+        "area": 14.773349999999995,
+        "bounding_box": [
+          56.534,
+          39.476,
+          61.004,
+          42.781
+        ],
+        "point": [
+          58.769,
+          41.1285
+        ],
+        "labels": {
+          "alt": "Dashoguz|Dashhowuz|Dashkhovuz|Tashauzskaya Oblast",
+          "local": null,
+          "len": 7,
+          "ar": "داشوغوز",
+          "bn": "দাসোগুজ",
+          "de": "Daşoguz",
+          "en": "Daşoguz",
+          "es": "Daşoguz",
+          "fr": "Daşoguz",
+          "el": "Ντασογκούζ",
+          "hi": "दाशोग़ुज़",
+          "hu": null,
+          "id": "Daşoguz",
+          "it": "Daşoguz",
+          "ja": "ダショグズ",
+          "ko": "다쇼구즈",
+          "nl": "Daşoguz",
+          "pl": "Daszoguz",
+          "pt": "Daşoguz",
+          "ru": "Дашогуз",
+          "sv": "Tasjauz",
+          "tr": "Daşoğuz",
+          "vi": "Dasoguz",
+          "zh": "达沙古兹"
+        },
+        "population": 1983387
+      }
+    }
+  ]
+}

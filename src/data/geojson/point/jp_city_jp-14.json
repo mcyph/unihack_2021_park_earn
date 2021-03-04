@@ -1,0 +1,2423 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5775,
+          35.541
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14118",
+        "area": 0.004380000000000097,
+        "bounding_box": [
+          139.541,
+          35.511,
+          139.614,
+          35.571
+        ],
+        "point": [
+          139.5775,
+          35.541
+        ],
+        "labels": {
+          "ja": "横浜市都筑区",
+          "en": "yokohama-shi tsudhuki-ku"
+        },
+        "population": 243296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4065,
+          35.492000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14216",
+        "area": 0.0029899999999998548,
+        "bounding_box": [
+          139.374,
+          35.469,
+          139.439,
+          35.515
+        ],
+        "point": [
+          139.4065,
+          35.492000000000004
+        ],
+        "labels": {
+          "ja": "座間市",
+          "en": "zama-shi"
+        },
+        "population": 144152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.623,
+          35.352000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14108",
+        "area": 0.005304000000000658,
+        "bounding_box": [
+          139.589,
+          35.313,
+          139.657,
+          35.391
+        ],
+        "point": [
+          139.623,
+          35.352000000000004
+        ],
+        "labels": {
+          "ja": "横浜市金沢区",
+          "en": "yokohama-shi kanazawa-ku"
+        },
+        "population": 198997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63400000000001,
+          35.326499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14108",
+        "area": 5.6000000000051614e-05,
+        "bounding_box": [
+          139.63,
+          35.323,
+          139.638,
+          35.33
+        ],
+        "point": [
+          139.63400000000001,
+          35.326499999999996
+        ],
+        "labels": {
+          "ja": "横浜市金沢区",
+          "en": "yokohama-shi kanazawa-ku"
+        },
+        "population": 198997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6455,
+          35.3365
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14108",
+        "area": 3.499999999999318e-05,
+        "bounding_box": [
+          139.642,
+          35.334,
+          139.649,
+          35.339
+        ],
+        "point": [
+          139.6455,
+          35.3365
+        ],
+        "labels": {
+          "ja": "横浜市金沢区",
+          "en": "yokohama-shi kanazawa-ku"
+        },
+        "population": 198997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4065,
+          35.349999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14207",
+        "area": 0.005249999999999226,
+        "bounding_box": [
+          139.369,
+          35.315,
+          139.444,
+          35.385
+        ],
+        "point": [
+          139.4065,
+          35.349999999999994
+        ],
+        "labels": {
+          "ja": "茅ヶ崎市",
+          "en": "chigasaki-shi"
+        },
+        "population": 237247
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.531,
+          35.5155
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14113",
+        "area": 0.005076000000000641,
+        "bounding_box": [
+          139.477,
+          35.492,
+          139.585,
+          35.539
+        ],
+        "point": [
+          139.531,
+          35.5155
+        ],
+        "labels": {
+          "ja": "横浜市緑区",
+          "en": "yokohama-shi midori-ku"
+        },
+        "population": 175623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.131,
+          35.391000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14363",
+        "area": 0.00669600000000109,
+        "bounding_box": [
+          139.1,
+          35.337,
+          139.162,
+          35.445
+        ],
+        "point": [
+          139.131,
+          35.391000000000005
+        ],
+        "labels": {
+          "ja": "松田町",
+          "en": "matsuda-machi"
+        },
+        "population": 13699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.45499999999998,
+          35.471500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14213",
+        "area": 0.00504399999999934,
+        "bounding_box": [
+          139.429,
+          35.423,
+          139.481,
+          35.52
+        ],
+        "point": [
+          139.45499999999998,
+          35.471500000000006
+        ],
+        "labels": {
+          "ja": "大和市",
+          "en": "yamato-shi"
+        },
+        "population": 229717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1485,
+          35.254
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14206",
+        "area": 0.027208000000000496,
+        "bounding_box": [
+          139.059,
+          35.178,
+          139.238,
+          35.33
+        ],
+        "point": [
+          139.1485,
+          35.254
+        ],
+        "labels": {
+          "ja": "小田原市",
+          "en": "odawara-shi"
+        },
+        "population": 208384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4885,
+          35.468500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14114",
+        "area": 0.00314899999999981,
+        "bounding_box": [
+          139.465,
+          35.435,
+          139.512,
+          35.502
+        ],
+        "point": [
+          139.4885,
+          35.468500000000006
+        ],
+        "labels": {
+          "ja": "横浜市瀬谷区",
+          "en": "yokohama-shi seya-ku"
+        },
+        "population": 122253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6185,
+          35.4855
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14102",
+        "area": 0.0041409999999996415,
+        "bounding_box": [
+          139.568,
+          35.465,
+          139.669,
+          35.506
+        ],
+        "point": [
+          139.6185,
+          35.4855
+        ],
+        "labels": {
+          "ja": "横浜市神奈川区",
+          "en": "yokohama-shi kanagawa-ku"
+        },
+        "population": 292221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.651,
+          35.4695
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14102",
+        "area": 0.00011000000000024045,
+        "bounding_box": [
+          139.646,
+          35.464,
+          139.656,
+          35.475
+        ],
+        "point": [
+          139.651,
+          35.4695
+        ],
+        "labels": {
+          "ja": "横浜市神奈川区",
+          "en": "yokohama-shi kanagawa-ku"
+        },
+        "population": 292221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5545,
+          35.36
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14115",
+        "area": 0.00384999999999969,
+        "bounding_box": [
+          139.516,
+          35.335,
+          139.593,
+          35.385
+        ],
+        "point": [
+          139.5545,
+          35.36
+        ],
+        "labels": {
+          "ja": "横浜市栄区",
+          "en": "yokohama-shi sakae-ku"
+        },
+        "population": 117087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3875,
+          35.3755
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14321",
+        "area": 0.0017849999999998937,
+        "bounding_box": [
+          139.37,
+          35.35,
+          139.405,
+          35.401
+        ],
+        "point": [
+          139.3875,
+          35.3755
+        ],
+        "labels": {
+          "ja": "寒川町",
+          "en": "samukawa-machi"
+        },
+        "population": 50470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67849999999999,
+          35.544
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14132",
+        "area": 0.0017639999999999561,
+        "bounding_box": [
+          139.654,
+          35.526,
+          139.703,
+          35.562
+        ],
+        "point": [
+          139.67849999999999,
+          35.544
+        ],
+        "labels": {
+          "ja": "川崎市幸区",
+          "en": "kawasaki-shi saiwai-ku"
+        },
+        "population": 133054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.558,
+          35.620000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14135",
+        "area": 0.003956000000000532,
+        "bounding_box": [
+          139.515,
+          35.597,
+          139.601,
+          35.643
+        ],
+        "point": [
+          139.558,
+          35.620000000000005
+        ],
+        "labels": {
+          "ja": "川崎市多摩区",
+          "en": "kawasaki-shi tama-ku"
+        },
+        "population": 163935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3705,
+          35.562
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14152",
+        "area": 0.006649999999999948,
+        "bounding_box": [
+          139.323,
+          35.527,
+          139.418,
+          35.597
+        ],
+        "point": [
+          139.3705,
+          35.562
+        ],
+        "labels": {
+          "ja": "相模原市中央区",
+          "en": "sagamihara-shi chuo-ku"
+        },
+        "population": 287729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5765,
+          35.4645
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14106",
+        "area": 0.004221000000001123,
+        "bounding_box": [
+          139.545,
+          35.431,
+          139.608,
+          35.498
+        ],
+        "point": [
+          139.5765,
+          35.4645
+        ],
+        "labels": {
+          "ja": "横浜市保土ケ谷区",
+          "en": "yokohama-shi hodogaya-ku"
+        },
+        "population": 211122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4905,
+          35.596000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14137",
+        "area": 0.004813999999999894,
+        "bounding_box": [
+          139.449,
+          35.567,
+          139.532,
+          35.625
+        ],
+        "point": [
+          139.4905,
+          35.596000000000004
+        ],
+        "labels": {
+          "ja": "川崎市麻生区",
+          "en": "kawasaki-shi asao-ku"
+        },
+        "population": 174898
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.48000000000002,
+          35.5775
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14137",
+        "area": 0.0003000000000001648,
+        "bounding_box": [
+          139.47,
+          35.57,
+          139.49,
+          35.585
+        ],
+        "point": [
+          139.48000000000002,
+          35.5775
+        ],
+        "labels": {
+          "ja": "川崎市麻生区",
+          "en": "kawasaki-shi asao-ku"
+        },
+        "population": 174898
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.541,
+          35.334
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14204",
+        "area": 0.006863999999998531,
+        "bounding_box": [
+          139.489,
+          35.301,
+          139.593,
+          35.367
+        ],
+        "point": [
+          139.541,
+          35.334
+        ],
+        "labels": {
+          "ja": "鎌倉市",
+          "en": "kamakura-shi"
+        },
+        "population": 180653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2185,
+          35.3365
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14361",
+        "area": 0.0031849999999998555,
+        "bounding_box": [
+          139.186,
+          35.312,
+          139.251,
+          35.361
+        ],
+        "point": [
+          139.2185,
+          35.3365
+        ],
+        "labels": {
+          "ja": "中井町",
+          "en": "nakai-machi"
+        },
+        "population": 10996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6205,
+          35.457
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14103",
+        "area": 0.0010499999999999375,
+        "bounding_box": [
+          139.603,
+          35.442,
+          139.638,
+          35.472
+        ],
+        "point": [
+          139.6205,
+          35.457
+        ],
+        "labels": {
+          "ja": "横浜市西区",
+          "en": "yokohama-shi nishi-ku"
+        },
+        "population": 106748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.16649999999998,
+          35.335499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14362",
+        "area": 0.002744999999999988,
+        "bounding_box": [
+          139.136,
+          35.313,
+          139.197,
+          35.358
+        ],
+        "point": [
+          139.16649999999998,
+          35.335499999999996
+        ],
+        "labels": {
+          "ja": "大井町",
+          "en": "oi-machi"
+        },
+        "population": 16914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58100000000002,
+          35.3925
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14111",
+        "area": 0.003304000000000544,
+        "bounding_box": [
+          139.553,
+          35.363,
+          139.609,
+          35.422
+        ],
+        "point": [
+          139.58100000000002,
+          35.3925
+        ],
+        "labels": {
+          "ja": "横浜市港南区",
+          "en": "yokohama-shi konan-ku"
+        },
+        "population": 205250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.656,
+          35.5755
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14133",
+        "area": 0.0026099999999997714,
+        "bounding_box": [
+          139.627,
+          35.553,
+          139.685,
+          35.598
+        ],
+        "point": [
+          139.656,
+          35.5755
+        ],
+        "labels": {
+          "ja": "川崎市中原区",
+          "en": "kawasaki-shi nakahara-ku"
+        },
+        "population": 179554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2935,
+          35.408500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14214",
+        "area": 0.010033000000000835,
+        "bounding_box": [
+          139.23,
+          35.369,
+          139.357,
+          35.448
+        ],
+        "point": [
+          139.2935,
+          35.408500000000004
+        ],
+        "labels": {
+          "ja": "伊勢原市",
+          "en": "isehara-shi"
+        },
+        "population": 110042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5735,
+          35.586
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14136",
+        "area": 0.0039060000000008927,
+        "bounding_box": [
+          139.527,
+          35.565,
+          139.62,
+          35.607
+        ],
+        "point": [
+          139.5735,
+          35.586
+        ],
+        "labels": {
+          "ja": "川崎市宮前区",
+          "en": "kawasaki-shi miyamae-ku"
+        },
+        "population": 237812
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.125,
+          35.334999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14366",
+        "area": 0.0012240000000000074,
+        "bounding_box": [
+          139.107,
+          35.318,
+          139.143,
+          35.352
+        ],
+        "point": [
+          139.125,
+          35.334999999999994
+        ],
+        "labels": {
+          "ja": "開成町",
+          "en": "kaisei-machi"
+        },
+        "population": 16886
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4065,
+          35.5265
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14153",
+        "area": 0.0073130000000004025,
+        "bounding_box": [
+          139.355,
+          35.491,
+          139.458,
+          35.562
+        ],
+        "point": [
+          139.4065,
+          35.5265
+        ],
+        "labels": {
+          "ja": "相模原市南区",
+          "en": "sagamihara-shi minami-ku"
+        },
+        "population": 254835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.30700000000002,
+          35.358000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14203",
+        "area": 0.0125120000000004,
+        "bounding_box": [
+          139.239,
+          35.312,
+          139.375,
+          35.404
+        ],
+        "point": [
+          139.30700000000002,
+          35.358000000000004
+        ],
+        "labels": {
+          "ja": "平塚市",
+          "en": "hiratsuka-shi"
+        },
+        "population": 271033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.082,
+          35.170500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14384",
+        "area": 0.006831999999999674,
+        "bounding_box": [
+          139.026,
+          35.14,
+          139.138,
+          35.201
+        ],
+        "point": [
+          139.082,
+          35.170500000000004
+        ],
+        "labels": {
+          "ja": "湯河原町",
+          "en": "yugawara-machi"
+        },
+        "population": 27496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.251,
+          35.308
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14342",
+        "area": 0.0015120000000001146,
+        "bounding_box": [
+          139.233,
+          35.287,
+          139.269,
+          35.329
+        ],
+        "point": [
+          139.251,
+          35.308
+        ],
+        "labels": {
+          "ja": "二宮町",
+          "en": "ninomiya-machi"
+        },
+        "population": 25372
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60399999999998,
+          35.272999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14301",
+        "area": 0.002888000000000039,
+        "bounding_box": [
+          139.566,
+          35.254,
+          139.642,
+          35.292
+        ],
+        "point": [
+          139.60399999999998,
+          35.272999999999996
+        ],
+        "labels": {
+          "ja": "葉山町",
+          "en": "hayama-machi"
+        },
+        "population": 32425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5605,
+          35.2715
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14301",
+        "area": 1.0000000000024443e-06,
+        "bounding_box": [
+          139.56,
+          35.271,
+          139.561,
+          35.272
+        ],
+        "point": [
+          139.5605,
+          35.2715
+        ],
+        "labels": {
+          "ja": "葉山町",
+          "en": "hayama-machi"
+        },
+        "population": 32425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.742,
+          35.518
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14131",
+        "area": 0.005832000000000442,
+        "bounding_box": [
+          139.688,
+          35.491,
+          139.796,
+          35.545
+        ],
+        "point": [
+          139.742,
+          35.518
+        ],
+        "labels": {
+          "ja": "川崎市川崎区",
+          "en": "kawasaki-shi kawasaki-ku"
+        },
+        "population": 394825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7575,
+          35.4955
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14131",
+        "area": 0.0009030000000001679,
+        "bounding_box": [
+          139.736,
+          35.485,
+          139.779,
+          35.506
+        ],
+        "point": [
+          139.7575,
+          35.4955
+        ],
+        "labels": {
+          "ja": "川崎市川崎区",
+          "en": "kawasaki-shi kawasaki-ku"
+        },
+        "population": 394825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.728,
+          35.4825
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14131",
+        "area": 0.0006999999999997499,
+        "bounding_box": [
+          139.714,
+          35.47,
+          139.742,
+          35.495
+        ],
+        "point": [
+          139.728,
+          35.4825
+        ],
+        "labels": {
+          "ja": "川崎市川崎区",
+          "en": "kawasaki-shi kawasaki-ku"
+        },
+        "population": 394825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7575,
+          35.518
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14131",
+        "area": 0.00030599999999993794,
+        "bounding_box": [
+          139.749,
+          35.509,
+          139.766,
+          35.527
+        ],
+        "point": [
+          139.7575,
+          35.518
+        ],
+        "labels": {
+          "ja": "川崎市川崎区",
+          "en": "kawasaki-shi kawasaki-ku"
+        },
+        "population": 394825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1325,
+          35.1635
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14383",
+        "area": 0.002772999999999708,
+        "bounding_box": [
+          139.103,
+          35.14,
+          139.162,
+          35.187
+        ],
+        "point": [
+          139.1325,
+          35.1635
+        ],
+        "labels": {
+          "ja": "真鶴町",
+          "en": "manadhuru-machi"
+        },
+        "population": 6724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.603,
+          35.4255
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14105",
+        "area": 0.0023099999999998625,
+        "bounding_box": [
+          139.57,
+          35.408,
+          139.636,
+          35.443
+        ],
+        "point": [
+          139.603,
+          35.4255
+        ],
+        "labels": {
+          "ja": "横浜市南区",
+          "en": "yokohama-shi minami-ku"
+        },
+        "population": 167127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.615,
+          35.5895
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14134",
+        "area": 0.003192000000000782,
+        "bounding_box": [
+          139.587,
+          35.561,
+          139.643,
+          35.618
+        ],
+        "point": [
+          139.615,
+          35.5895
+        ],
+        "labels": {
+          "ja": "川崎市高津区",
+          "en": "kawasaki-shi takatsu-ku"
+        },
+        "population": 205494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.304,
+          35.46
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14212",
+        "area": 0.020367999999998283,
+        "bounding_box": [
+          139.228,
+          35.393,
+          139.38,
+          35.527
+        ],
+        "point": [
+          139.304,
+          35.46
+        ],
+        "labels": {
+          "ja": "厚木市",
+          "en": "atsugi-shi"
+        },
+        "population": 237438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5275,
+          35.476
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14112",
+        "area": 0.005346000000001343,
+        "bounding_box": [
+          139.487,
+          35.443,
+          139.568,
+          35.509
+        ],
+        "point": [
+          139.5275,
+          35.476
+        ],
+        "labels": {
+          "ja": "横浜市旭区",
+          "en": "yokohama-shi asahi-ku"
+        },
+        "population": 211065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.43,
+          35.4375
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14218",
+        "area": 0.0032940000000005053,
+        "bounding_box": [
+          139.403,
+          35.407,
+          139.457,
+          35.468
+        ],
+        "point": [
+          139.43,
+          35.4375
+        ],
+        "labels": {
+          "ja": "綾瀬市",
+          "en": "ayase-shi"
+        },
+        "population": 90405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50150000000002,
+          35.418499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14116",
+        "area": 0.0034769999999992615,
+        "bounding_box": [
+          139.473,
+          35.388,
+          139.53,
+          35.449
+        ],
+        "point": [
+          139.50150000000002,
+          35.418499999999995
+        ],
+        "labels": {
+          "ja": "横浜市泉区",
+          "en": "yokohama-shi izumi-ku"
+        },
+        "population": 139214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2135,
+          35.573499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14151",
+        "area": 0.058114999999996246,
+        "bounding_box": [
+          139.066,
+          35.475,
+          139.361,
+          35.672
+        ],
+        "point": [
+          139.2135,
+          35.573499999999996
+        ],
+        "labels": {
+          "ja": "相模原市緑区",
+          "en": "sagamihara-shi midori-ku"
+        },
+        "population": 203500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.518,
+          35.5595
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14117",
+        "area": 0.0065000000000012504,
+        "bounding_box": [
+          139.468,
+          35.527,
+          139.568,
+          35.592
+        ],
+        "point": [
+          139.518,
+          35.5595
+        ],
+        "labels": {
+          "ja": "横浜市青葉区",
+          "en": "yokohama-shi aoba-ku"
+        },
+        "population": 319827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58749999999998,
+          35.298
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14208",
+        "area": 0.0032120000000001063,
+        "bounding_box": [
+          139.551,
+          35.276,
+          139.624,
+          35.32
+        ],
+        "point": [
+          139.58749999999998,
+          35.298
+        ],
+        "labels": {
+          "ja": "逗子市",
+          "en": "zushi-shi"
+        },
+        "population": 62036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.231,
+          35.495000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14402",
+        "area": 0.013055999999999113,
+        "bounding_box": [
+          139.163,
+          35.447,
+          139.299,
+          35.543
+        ],
+        "point": [
+          139.231,
+          35.495000000000005
+        ],
+        "labels": {
+          "ja": "清川村",
+          "en": "kiyokawa-mura"
+        },
+        "population": 4387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53,
+          35.403
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14110",
+        "area": 0.008279999999998922,
+        "bounding_box": [
+          139.484,
+          35.358,
+          139.576,
+          35.448
+        ],
+        "point": [
+          139.53,
+          35.403
+        ],
+        "labels": {
+          "ja": "横浜市戸塚区",
+          "en": "yokohama-shi totsuka-ku"
+        },
+        "population": 294654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.071,
+          35.312
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14217",
+        "area": 0.010560000000000175,
+        "bounding_box": [
+          139.005,
+          35.272,
+          139.137,
+          35.352
+        ],
+        "point": [
+          139.071,
+          35.312
+        ],
+        "labels": {
+          "ja": "南足柄市",
+          "en": "minamiashigara-shi"
+        },
+        "population": 44329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.40300000000002,
+          35.4385
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14215",
+        "area": 0.005236000000000804,
+        "bounding_box": [
+          139.369,
+          35.4,
+          139.437,
+          35.477
+        ],
+        "point": [
+          139.40300000000002,
+          35.4385
+        ],
+        "labels": {
+          "ja": "海老名市",
+          "en": "ebina-shi"
+        },
+        "population": 140038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4555,
+          35.3665
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14205",
+        "area": 0.015128999999998526,
+        "bounding_box": [
+          139.394,
+          35.305,
+          139.517,
+          35.428
+        ],
+        "point": [
+          139.4555,
+          35.3665
+        ],
+        "labels": {
+          "ja": "藤沢市",
+          "en": "fujisawa-shi"
+        },
+        "population": 437171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.481,
+          35.3005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14205",
+        "area": 9.800000000014006e-05,
+        "bounding_box": [
+          139.474,
+          35.297,
+          139.488,
+          35.304
+        ],
+        "point": [
+          139.481,
+          35.3005
+        ],
+        "labels": {
+          "ja": "藤沢市",
+          "en": "fujisawa-shi"
+        },
+        "population": 437171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4795,
+          35.2975
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14205",
+        "area": 9.99999999981128e-07,
+        "bounding_box": [
+          139.479,
+          35.297,
+          139.48,
+          35.298
+        ],
+        "point": [
+          139.4795,
+          35.2975
+        ],
+        "labels": {
+          "ja": "藤沢市",
+          "en": "fujisawa-shi"
+        },
+        "population": 437171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.478,
+          35.298
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14205",
+        "area": 0.0,
+        "bounding_box": [
+          139.478,
+          35.298,
+          139.478,
+          35.298
+        ],
+        "point": [
+          139.478,
+          35.298
+        ],
+        "labels": {
+          "ja": "藤沢市",
+          "en": "fujisawa-shi"
+        },
+        "population": 437171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3005,
+          35.5275
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14401",
+        "area": 0.006430999999999348,
+        "bounding_box": [
+          139.246,
+          35.498,
+          139.355,
+          35.557
+        ],
+        "point": [
+          139.3005,
+          35.5275
+        ],
+        "labels": {
+          "ja": "愛川町",
+          "en": "aikawa-machi"
+        },
+        "population": 47061
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6205,
+          35.525999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14109",
+        "area": 0.005549999999999547,
+        "bounding_box": [
+          139.583,
+          35.489,
+          139.658,
+          35.563
+        ],
+        "point": [
+          139.6205,
+          35.525999999999996
+        ],
+        "labels": {
+          "ja": "横浜市港北区",
+          "en": "yokohama-shi kohoku-ku"
+        },
+        "population": 339167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6565,
+          35.43
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14104",
+        "area": 0.003725999999999515,
+        "bounding_box": [
+          139.622,
+          35.403,
+          139.691,
+          35.457
+        ],
+        "point": [
+          139.6565,
+          35.43
+        ],
+        "labels": {
+          "ja": "横浜市中区",
+          "en": "yokohama-shi naka-ku"
+        },
+        "population": 183751
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.29250000000002,
+          35.3155
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14341",
+        "area": 0.0030710000000004505,
+        "bounding_box": [
+          139.251,
+          35.297,
+          139.334,
+          35.334
+        ],
+        "point": [
+          139.29250000000002,
+          35.3155
+        ],
+        "labels": {
+          "ja": "大磯町",
+          "en": "oiso-machi"
+        },
+        "population": 34361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.643,
+          35.173500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14210",
+        "area": 0.005548000000001624,
+        "bounding_box": [
+          139.605,
+          35.137,
+          139.681,
+          35.21
+        ],
+        "point": [
+          139.643,
+          35.173500000000004
+        ],
+        "labels": {
+          "ja": "三浦市",
+          "en": "miura-shi"
+        },
+        "population": 46482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619,
+          35.1335
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14210",
+        "area": 0.00019799999999992973,
+        "bounding_box": [
+          139.608,
+          35.129,
+          139.63,
+          35.138
+        ],
+        "point": [
+          139.619,
+          35.1335
+        ],
+        "labels": {
+          "ja": "三浦市",
+          "en": "miura-shi"
+        },
+        "population": 46482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6635,
+          35.1375
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14210",
+        "area": 9.999999999740225e-07,
+        "bounding_box": [
+          139.663,
+          35.137,
+          139.664,
+          35.138
+        ],
+        "point": [
+          139.6635,
+          35.1375
+        ],
+        "labels": {
+          "ja": "三浦市",
+          "en": "miura-shi"
+        },
+        "population": 46482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6165,
+          35.391
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14107",
+        "area": 0.004104000000001334,
+        "bounding_box": [
+          139.588,
+          35.355,
+          139.645,
+          35.427
+        ],
+        "point": [
+          139.6165,
+          35.391
+        ],
+        "labels": {
+          "ja": "横浜市磯子区",
+          "en": "yokohama-shi isogo-ku"
+        },
+        "population": 179884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.673,
+          35.504000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14101",
+        "area": 0.005472000000001239,
+        "bounding_box": [
+          139.635,
+          35.468,
+          139.711,
+          35.54
+        ],
+        "point": [
+          139.673,
+          35.504000000000005
+        ],
+        "labels": {
+          "ja": "横浜市鶴見区",
+          "en": "yokohama-shi tsurumi-ku"
+        },
+        "population": 325836
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6875,
+          35.461
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14101",
+        "area": 0.0006379999999998754,
+        "bounding_box": [
+          139.673,
+          35.45,
+          139.702,
+          35.472
+        ],
+        "point": [
+          139.6875,
+          35.461
+        ],
+        "labels": {
+          "ja": "横浜市鶴見区",
+          "en": "yokohama-shi tsurumi-ku"
+        },
+        "population": 325836
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71249999999998,
+          35.477999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14101",
+        "area": 0.0004000000000000469,
+        "bounding_box": [
+          139.7,
+          35.47,
+          139.725,
+          35.486
+        ],
+        "point": [
+          139.71249999999998,
+          35.477999999999994
+        ],
+        "labels": {
+          "ja": "横浜市鶴見区",
+          "en": "yokohama-shi tsurumi-ku"
+        },
+        "population": 325836
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2165,
+          35.403999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14211",
+        "area": 0.01721400000000077,
+        "bounding_box": [
+          139.141,
+          35.347,
+          139.292,
+          35.461
+        ],
+        "point": [
+          139.2165,
+          35.403999999999996
+        ],
+        "labels": {
+          "ja": "秦野市",
+          "en": "hadano-shi"
+        },
+        "population": 177745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6635,
+          35.26
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14201",
+        "area": 0.023380000000000317,
+        "bounding_box": [
+          139.58,
+          35.19,
+          139.747,
+          35.33
+        ],
+        "point": [
+          139.6635,
+          35.26
+        ],
+        "labels": {
+          "ja": "横須賀市",
+          "en": "yokosuka-shi"
+        },
+        "population": 420015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65050000000002,
+          35.3005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14201",
+        "area": 0.00016900000000013597,
+        "bounding_box": [
+          139.644,
+          35.294,
+          139.657,
+          35.307
+        ],
+        "point": [
+          139.65050000000002,
+          35.3005
+        ],
+        "labels": {
+          "ja": "横須賀市",
+          "en": "yokosuka-shi"
+        },
+        "population": 420015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60399999999998,
+          35.2215
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14201",
+        "area": 1.1999999999972487e-05,
+        "bounding_box": [
+          139.602,
+          35.22,
+          139.606,
+          35.223
+        ],
+        "point": [
+          139.60399999999998,
+          35.2215
+        ],
+        "labels": {
+          "ja": "横須賀市",
+          "en": "yokosuka-shi"
+        },
+        "population": 420015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6945,
+          35.286
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14201",
+        "area": 1.199999999993696e-05,
+        "bounding_box": [
+          139.693,
+          35.284,
+          139.696,
+          35.288
+        ],
+        "point": [
+          139.6945,
+          35.286
+        ],
+        "labels": {
+          "ja": "横須賀市",
+          "en": "yokosuka-shi"
+        },
+        "population": 420015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.599,
+          35.224000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14201",
+        "area": 3.999999999967144e-06,
+        "bounding_box": [
+          139.598,
+          35.223,
+          139.6,
+          35.225
+        ],
+        "point": [
+          139.599,
+          35.224000000000004
+        ],
+        "labels": {
+          "ja": "横須賀市",
+          "en": "yokosuka-shi"
+        },
+        "population": 420015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.608,
+          35.191500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14201",
+        "area": 0.0,
+        "bounding_box": [
+          139.608,
+          35.191,
+          139.608,
+          35.192
+        ],
+        "point": [
+          139.608,
+          35.191500000000005
+        ],
+        "labels": {
+          "ja": "横須賀市",
+          "en": "yokosuka-shi"
+        },
+        "population": 420015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.041,
+          35.420500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14364",
+        "area": 0.044749999999998735,
+        "bounding_box": [
+          138.916,
+          35.331,
+          139.166,
+          35.51
+        ],
+        "point": [
+          139.041,
+          35.420500000000004
+        ],
+        "labels": {
+          "ja": "山北町",
+          "en": "yamakita-machi"
+        },
+        "population": 13153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0475,
+          35.232
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-14",
+        "region_child": "14382",
+        "area": 0.01675800000000289,
+        "bounding_box": [
+          138.974,
+          35.175,
+          139.121,
+          35.289
+        ],
+        "point": [
+          139.0475,
+          35.232
+        ],
+        "labels": {
+          "ja": "箱根町",
+          "en": "hakone-machi"
+        },
+        "population": 15974
+      }
+    }
+  ]
+}

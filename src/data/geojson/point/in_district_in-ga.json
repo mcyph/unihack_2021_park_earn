@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9775,
+          15.6035
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ga",
+        "region_child": "north goa",
+        "area": 0.23619300000000004,
+        "bounding_box": [
+          73.677,
+          15.407,
+          74.278,
+          15.8
+        ],
+        "point": [
+          73.9775,
+          15.6035
+        ],
+        "labels": {
+          "en": "North Goa"
+        },
+        "population": 709280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06,
+          15.2205
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ga",
+        "region_child": "south goa",
+        "area": 0.3527279999999948,
+        "bounding_box": [
+          73.784,
+          14.901,
+          74.336,
+          15.54
+        ],
+        "point": [
+          74.06,
+          15.2205
+        ],
+        "labels": {
+          "en": "South Goa"
+        },
+        "population": 852145
+      }
+    }
+  ]
+}

@@ -1,0 +1,1115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.563,
+          5.432
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng01",
+        "area": 1.03212,
+        "bounding_box": [
+          7.14,
+          4.822,
+          7.986,
+          6.042
+        ],
+        "point": [
+          7.563,
+          5.432
+        ],
+        "labels": {
+          "en": "Abia"
+        },
+        "population": 4228239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.517,
+          9.163499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng02",
+        "area": 8.38715,
+        "bounding_box": [
+          11.342,
+          7.379,
+          13.692,
+          10.948
+        ],
+        "point": [
+          12.517,
+          9.163499999999999
+        ],
+        "labels": {
+          "en": "Adamawa"
+        },
+        "population": 4989507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8955,
+          4.9905
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng03",
+        "area": 0.9091149999999995,
+        "bounding_box": [
+          7.463,
+          4.465,
+          8.328,
+          5.516
+        ],
+        "point": [
+          7.8955,
+          4.9905
+        ],
+        "labels": {
+          "en": "Akwa Ibom"
+        },
+        "population": 6137302
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9825,
+          6.244
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng04",
+        "area": 0.7814480000000001,
+        "bounding_box": [
+          6.626,
+          5.696,
+          7.339,
+          6.792
+        ],
+        "point": [
+          6.9825,
+          6.244
+        ],
+        "labels": {
+          "en": "Anambra"
+        },
+        "population": 6044530
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.886,
+          10.998000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng05",
+        "area": 6.8246479999999945,
+        "bounding_box": [
+          8.765,
+          9.476,
+          11.007,
+          12.52
+        ],
+        "point": [
+          9.886,
+          10.998000000000001
+        ],
+        "labels": {
+          "en": "Bauchi"
+        },
+        "population": 7203965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.996499999999999,
+          4.8275
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng06",
+        "area": 1.3379389999999998,
+        "bounding_box": [
+          5.39,
+          4.276,
+          6.603,
+          5.379
+        ],
+        "point": [
+          5.996499999999999,
+          4.8275
+        ],
+        "labels": {
+          "en": "Bayelsa"
+        },
+        "population": 2535833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.728,
+          7.3025
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng07",
+        "area": 4.096134,
+        "bounding_box": [
+          7.531,
+          6.447,
+          9.925,
+          8.158
+        ],
+        "point": [
+          8.728,
+          7.3025
+        ],
+        "labels": {
+          "en": "Benue"
+        },
+        "population": 6414828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.111,
+          11.8695
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng08",
+        "area": 11.568704000000004,
+        "bounding_box": [
+          11.543,
+          10.025,
+          14.679,
+          13.714
+        ],
+        "point": [
+          13.111,
+          11.8695
+        ],
+        "labels": {
+          "en": "Borno"
+        },
+        "population": 6693267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6755,
+          5.814
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng09",
+        "area": 3.442924,
+        "bounding_box": [
+          7.88,
+          4.732,
+          9.471,
+          6.896
+        ],
+        "point": [
+          8.6755,
+          5.814
+        ],
+        "labels": {
+          "en": "Cross River"
+        },
+        "population": 4015579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8765,
+          5.7595
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng10",
+        "area": 2.647155000000001,
+        "bounding_box": [
+          4.984,
+          5.018,
+          6.769,
+          6.501
+        ],
+        "point": [
+          5.8765,
+          5.7595
+        ],
+        "labels": {
+          "en": "Delta"
+        },
+        "population": 6305670
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9915,
+          6.2385
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng11",
+        "area": 1.0306170000000012,
+        "bounding_box": [
+          7.526,
+          5.685,
+          8.457,
+          6.792
+        ],
+        "point": [
+          7.9915,
+          6.2385
+        ],
+        "labels": {
+          "en": "Ebonyi"
+        },
+        "population": 3260867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.866,
+          6.6695
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng12",
+        "area": 3.1331,
+        "bounding_box": [
+          5.016,
+          5.748,
+          6.716,
+          7.591
+        ],
+        "point": [
+          5.866,
+          6.6695
+        ],
+        "labels": {
+          "en": "Edo"
+        },
+        "population": 4863188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3185,
+          7.7035
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng13",
+        "area": 0.7408350000000002,
+        "bounding_box": [
+          4.864,
+          7.296,
+          5.773,
+          8.111
+        ],
+        "point": [
+          5.3185,
+          7.7035
+        ],
+        "labels": {
+          "en": "Ekiti"
+        },
+        "population": 3695297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.41,
+          6.5184999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng14",
+        "area": 1.1347719999999997,
+        "bounding_box": [
+          6.932,
+          5.925,
+          7.888,
+          7.112
+        ],
+        "point": [
+          7.41,
+          6.5184999999999995
+        ],
+        "labels": {
+          "en": "Enugu"
+        },
+        "population": 4739609
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2545,
+          8.942499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng15",
+        "area": 0.9310290000000014,
+        "bounding_box": [
+          6.779,
+          8.453,
+          7.73,
+          9.432
+        ],
+        "point": [
+          7.2545,
+          8.942499999999999
+        ],
+        "labels": {
+          "en": "Federal Capital Territory"
+        },
+        "population": 4811468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1685,
+          10.4295
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng16",
+        "area": 2.433935000000001,
+        "bounding_box": [
+          10.479,
+          9.547,
+          11.858,
+          11.312
+        ],
+        "point": [
+          11.1685,
+          10.4295
+        ],
+        "labels": {
+          "en": "Gombe"
+        },
+        "population": 3500293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.035500000000001,
+          5.5675
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng17",
+        "area": 0.5891990000000004,
+        "bounding_box": [
+          6.639,
+          5.196,
+          7.432,
+          5.939
+        ],
+        "point": [
+          7.035500000000001,
+          5.5675
+        ],
+        "labels": {
+          "en": "Imo"
+        },
+        "population": 6084332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.369499999999999,
+          11.9895
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng18",
+        "area": 5.0548449999999985,
+        "bounding_box": [
+          8.142,
+          10.96,
+          10.597,
+          13.019
+        ],
+        "point": [
+          9.369499999999999,
+          11.9895
+        ],
+        "labels": {
+          "en": "Jigawa"
+        },
+        "population": 6208694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4575,
+          10.258
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng19",
+        "area": 6.870762000000002,
+        "bounding_box": [
+          6.091,
+          9.001,
+          8.824,
+          11.515
+        ],
+        "point": [
+          7.4575,
+          10.258
+        ],
+        "labels": {
+          "en": "Kaduna"
+        },
+        "population": 9322119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.527000000000001,
+          11.5815
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng20",
+        "area": 3.4140119999999987,
+        "bounding_box": [
+          7.689,
+          10.563,
+          9.365,
+          12.6
+        ],
+        "point": [
+          8.527000000000001,
+          11.5815
+        ],
+        "labels": {
+          "en": "Kano"
+        },
+        "population": 14805225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9495000000000005,
+          12.241
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng21",
+        "area": 4.815818,
+        "bounding_box": [
+          6.854,
+          11.142,
+          9.045,
+          13.34
+        ],
+        "point": [
+          7.9495000000000005,
+          12.241
+        ],
+        "labels": {
+          "en": "Katsina"
+        },
+        "population": 8754832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8255,
+          11.688500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng22",
+        "area": 8.373190999999998,
+        "bounding_box": [
+          3.496,
+          10.114,
+          6.155,
+          13.263
+        ],
+        "point": [
+          4.8255,
+          11.688500000000001
+        ],
+        "labels": {
+          "en": "Kebbi"
+        },
+        "population": 4798852
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.579000000000001,
+          7.632
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng23",
+        "area": 5.530799999999998,
+        "bounding_box": [
+          5.322,
+          6.532,
+          7.836,
+          8.732
+        ],
+        "point": [
+          6.579000000000001,
+          7.632
+        ],
+        "labels": {
+          "en": "Kogi"
+        },
+        "population": 4763127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4685,
+          9.093499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng24",
+        "area": 7.543326999999998,
+        "bounding_box": [
+          2.728,
+          8.01,
+          6.209,
+          10.177
+        ],
+        "point": [
+          4.4685,
+          9.093499999999999
+        ],
+        "labels": {
+          "en": "Kwara"
+        },
+        "population": 3459448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5300000000000002,
+          6.5345
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng25",
+        "area": 0.5369339999999999,
+        "bounding_box": [
+          2.709,
+          6.371,
+          4.351,
+          6.698
+        ],
+        "point": [
+          3.5300000000000002,
+          6.5345
+        ],
+        "labels": {
+          "en": "Lagos"
+        },
+        "population": 13451133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.278,
+          8.586500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng26",
+        "area": 4.386238000000004,
+        "bounding_box": [
+          6.935,
+          7.77,
+          9.621,
+          9.403
+        ],
+        "point": [
+          8.278,
+          8.586500000000001
+        ],
+        "labels": {
+          "en": "Nasarawa"
+        },
+        "population": 2819010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.486,
+          9.7865
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng27",
+        "area": 12.054876000000002,
+        "bounding_box": [
+          3.584,
+          8.202,
+          7.388,
+          11.371
+        ],
+        "point": [
+          5.486,
+          9.7865
+        ],
+        "labels": {
+          "en": "Niger"
+        },
+        "population": 6381902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.648,
+          7.128500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng28",
+        "area": 3.1726760000000005,
+        "bounding_box": [
+          2.686,
+          6.304,
+          4.61,
+          7.953
+        ],
+        "point": [
+          3.648,
+          7.128500000000001
+        ],
+        "labels": {
+          "en": "Ogun"
+        },
+        "population": 6521027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.196,
+          6.824
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng29",
+        "area": 3.011352000000001,
+        "bounding_box": [
+          4.383,
+          5.898,
+          6.009,
+          7.75
+        ],
+        "point": [
+          5.196,
+          6.824
+        ],
+        "labels": {
+          "en": "Ondo"
+        },
+        "population": 5303450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.554,
+          7.539
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng30",
+        "area": 1.1027520000000004,
+        "bounding_box": [
+          4.05,
+          6.992,
+          5.058,
+          8.086
+        ],
+        "point": [
+          4.554,
+          7.539
+        ],
+        "labels": {
+          "en": "Osun"
+        },
+        "population": 5110141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6275,
+          8.1315
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng31",
+        "area": 3.956183,
+        "bounding_box": [
+          2.686,
+          7.081,
+          4.569,
+          9.182
+        ],
+        "point": [
+          3.6275,
+          8.1315
+        ],
+        "labels": {
+          "en": "Oyo"
+        },
+        "population": 8693900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.594999999999999,
+          9.375
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng32",
+        "area": 4.197311999999994,
+        "bounding_box": [
+          8.554,
+          8.367,
+          10.636,
+          10.383
+        ],
+        "point": [
+          9.594999999999999,
+          9.375
+        ],
+        "labels": {
+          "en": "Plateau"
+        },
+        "population": 4727344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9975000000000005,
+          5.0295000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng33",
+        "area": 1.6654110000000013,
+        "bounding_box": [
+          6.398,
+          4.335,
+          7.597,
+          5.724
+        ],
+        "point": [
+          6.9975000000000005,
+          5.0295000000000005
+        ],
+        "labels": {
+          "en": "Rivers"
+        },
+        "population": 8226381
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.461,
+          12.74
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng34",
+        "area": 6.148512000000001,
+        "bounding_box": [
+          4.129,
+          11.586,
+          6.793,
+          13.894
+        ],
+        "point": [
+          5.461,
+          12.74
+        ],
+        "labels": {
+          "en": "Sokoto"
+        },
+        "population": 5770251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.512,
+          8.061
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng35",
+        "area": 8.638912000000001,
+        "bounding_box": [
+          9.124,
+          6.505,
+          11.9,
+          9.617
+        ],
+        "point": [
+          10.512,
+          8.061
+        ],
+        "labels": {
+          "en": "Taraba"
+        },
+        "population": 3281619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.074,
+          11.972999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng36",
+        "area": 7.946592,
+        "bounding_box": [
+          9.658,
+          10.57,
+          12.49,
+          13.376
+        ],
+        "point": [
+          11.074,
+          11.972999999999999
+        ],
+        "labels": {
+          "en": "Yobe"
+        },
+        "population": 3714610
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.082,
+          12.012
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ng",
+        "region_child": "ng37",
+        "area": 5.331360000000001,
+        "bounding_box": [
+          4.922,
+          10.863,
+          7.242,
+          13.161
+        ],
+        "point": [
+          6.082,
+          12.012
+        ],
+        "labels": {
+          "en": "Zamfara"
+        },
+        "population": 4923179
+      }
+    }
+  ]
+}

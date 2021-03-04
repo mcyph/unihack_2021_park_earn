@@ -1,0 +1,2885 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.565,
+          49.2855
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "ansbach städte",
+        "area": 0.021185999999999906,
+        "bounding_box": [
+          10.466,
+          49.232,
+          10.664,
+          49.339
+        ],
+        "point": [
+          10.565,
+          49.2855
+        ],
+        "labels": {
+          "en": "Ansbach Städte"
+        },
+        "population": 39958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5115,
+          49.233000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "ansbach",
+        "area": 0.4150360000000023,
+        "bounding_box": [
+          10.103,
+          48.979,
+          10.92,
+          49.487
+        ],
+        "point": [
+          10.5115,
+          49.233000000000004
+        ],
+        "labels": {
+          "en": "Ansbach"
+        },
+        "population": 170747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.945,
+          49.6275
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "erlangen-höchstadt",
+        "area": 0.21956599999999982,
+        "bounding_box": [
+          10.592,
+          49.472,
+          11.298,
+          49.783
+        ],
+        "point": [
+          10.945,
+          49.6275
+        ],
+        "labels": {
+          "en": "Erlangen-Höchstadt"
+        },
+        "population": 134028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9925,
+          49.59
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "erlangen städte",
+        "area": 0.015290000000000836,
+        "bounding_box": [
+          10.923,
+          49.535,
+          11.062,
+          49.645
+        ],
+        "point": [
+          10.9925,
+          49.59
+        ],
+        "labels": {
+          "en": "Erlangen Städte"
+        },
+        "population": 105243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.966999999999999,
+          49.4835
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "fürth städte",
+        "area": 0.013331999999999847,
+        "bounding_box": [
+          10.901,
+          49.433,
+          11.033,
+          49.534
+        ],
+        "point": [
+          10.966999999999999,
+          49.4835
+        ],
+        "labels": {
+          "en": "Fürth Städte"
+        },
+        "population": 131072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.861,
+          49.4495
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "fürth",
+        "area": 0.06776800000000083,
+        "bounding_box": [
+          10.689,
+          49.351,
+          11.033,
+          49.548
+        ],
+        "point": [
+          10.861,
+          49.4495
+        ],
+        "labels": {
+          "en": "Fürth"
+        },
+        "population": 126399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4505,
+          49.57899999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "neustadt-bad windsheim",
+        "area": 0.2583440000000013,
+        "bounding_box": [
+          10.075,
+          49.407,
+          10.826,
+          49.751
+        ],
+        "point": [
+          10.4505,
+          49.57899999999999
+        ],
+        "labels": {
+          "en": "Neustadt-Bad Windsheim"
+        },
+        "population": 96620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0985,
+          49.433
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "nuremberg städte",
+        "area": 0.04220999999999885,
+        "bounding_box": [
+          10.998,
+          49.328,
+          11.199,
+          49.538
+        ],
+        "point": [
+          11.0985,
+          49.433
+        ],
+        "labels": {
+          "en": "Nuremberg Städte"
+        },
+        "population": 449139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.370999999999999,
+          49.4905
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "nürnberger land",
+        "area": 0.18189000000000047,
+        "bounding_box": [
+          11.136,
+          49.297,
+          11.606,
+          49.684
+        ],
+        "point": [
+          11.370999999999999,
+          49.4905
+        ],
+        "labels": {
+          "en": "Nürnberger Land"
+        },
+        "population": 165153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.139,
+          49.19
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "roth",
+        "area": 0.23126400000000033,
+        "bounding_box": [
+          10.847,
+          48.992,
+          11.431,
+          49.388
+        ],
+        "point": [
+          11.139,
+          49.19
+        ],
+        "labels": {
+          "en": "Roth"
+        },
+        "population": 119278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0355,
+          49.331999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "schwabach städte",
+        "area": 0.009758000000000069,
+        "bounding_box": [
+          10.976,
+          49.291,
+          11.095,
+          49.373
+        ],
+        "point": [
+          11.0355,
+          49.331999999999994
+        ],
+        "labels": {
+          "en": "Schwabach Städte"
+        },
+        "population": 40254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9235,
+          49.028999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "weißenburg-gunzenhausen",
+        "area": 0.19618199999999808,
+        "bounding_box": [
+          10.64,
+          48.856,
+          11.207,
+          49.202
+        ],
+        "point": [
+          10.9235,
+          49.028999999999996
+        ],
+        "labels": {
+          "en": "Weißenburg-Gunzenhausen"
+        },
+        "population": 87558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01,
+          48.783500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "deggendorf",
+        "area": 0.18073600000000095,
+        "bounding_box": [
+          12.754,
+          48.607,
+          13.266,
+          48.96
+        ],
+        "point": [
+          13.01,
+          48.783500000000004
+        ],
+        "labels": {
+          "en": "Deggendorf"
+        },
+        "population": 112965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6525,
+          48.644
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "dingolfing-landau",
+        "area": 0.20383799999999863,
+        "bounding_box": [
+          12.332,
+          48.485,
+          12.973,
+          48.803
+        ],
+        "point": [
+          12.6525,
+          48.644
+        ],
+        "labels": {
+          "en": "Dingolfing-Landau"
+        },
+        "population": 89583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.508,
+          48.8365
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "freyung-grafenau",
+        "area": 0.19614399999999985,
+        "bounding_box": [
+          13.18,
+          48.687,
+          13.836,
+          48.986
+        ],
+        "point": [
+          13.508,
+          48.8365
+        ],
+        "labels": {
+          "en": "Freyung-Grafenau"
+        },
+        "population": 71922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.866,
+          48.7995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "kelheim",
+        "area": 0.23869800000000096,
+        "bounding_box": [
+          11.599,
+          48.576,
+          12.133,
+          49.023
+        ],
+        "point": [
+          11.866,
+          48.7995
+        ],
+        "labels": {
+          "en": "Kelheim"
+        },
+        "population": 115162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1515,
+          48.551500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "landshut städte",
+        "area": 0.022525000000000274,
+        "bounding_box": [
+          12.019,
+          48.509,
+          12.284,
+          48.594
+        ],
+        "point": [
+          12.1515,
+          48.551500000000004
+        ],
+        "labels": {
+          "en": "Landshut Städte"
+        },
+        "population": 60913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.197,
+          48.545500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "landshut",
+        "area": 0.28756000000000326,
+        "bounding_box": [
+          11.881,
+          48.318,
+          12.513,
+          48.773
+        ],
+        "point": [
+          12.197,
+          48.545500000000004
+        ],
+        "labels": {
+          "en": "Landshut"
+        },
+        "population": 157698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4085,
+          48.579499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "passau städte",
+        "area": 0.013065000000001005,
+        "bounding_box": [
+          13.308,
+          48.547,
+          13.509,
+          48.612
+        ],
+        "point": [
+          13.4085,
+          48.579499999999996
+        ],
+        "labels": {
+          "en": "Passau Städte"
+        },
+        "population": 43927
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4075,
+          48.512
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "passau",
+        "area": 0.42184800000000394,
+        "bounding_box": [
+          12.989,
+          48.26,
+          13.826,
+          48.764
+        ],
+        "point": [
+          13.4075,
+          48.512
+        ],
+        "labels": {
+          "en": "Passau"
+        },
+        "population": 183090
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.092500000000001,
+          49.0165
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "regen",
+        "area": 0.20231300000000163,
+        "bounding_box": [
+          12.763,
+          48.863,
+          13.422,
+          49.17
+        ],
+        "point": [
+          13.092500000000001,
+          49.0165
+        ],
+        "labels": {
+          "en": "Regen"
+        },
+        "population": 70154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.826,
+          48.420500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "rottal-inn",
+        "area": 0.28815600000000263,
+        "bounding_box": [
+          12.472,
+          48.217,
+          13.18,
+          48.624
+        ],
+        "point": [
+          12.826,
+          48.420500000000004
+        ],
+        "labels": {
+          "en": "Rottal-Inn"
+        },
+        "population": 112281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5125,
+          48.9225
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "straubing-bogen",
+        "area": 0.3105409999999973,
+        "bounding_box": [
+          12.131,
+          48.719,
+          12.894,
+          49.126
+        ],
+        "point": [
+          12.5125,
+          48.9225
+        ],
+        "labels": {
+          "en": "Straubing-Bogen"
+        },
+        "population": 95336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5765,
+          48.885999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "straubing städte",
+        "area": 0.015334000000000089,
+        "bounding_box": [
+          12.483,
+          48.845,
+          12.67,
+          48.927
+        ],
+        "point": [
+          12.5765,
+          48.885999999999996
+        ],
+        "labels": {
+          "en": "Straubing Städte"
+        },
+        "population": 44736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.746500000000001,
+          48.204499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "altötting",
+        "area": 0.12329100000000157,
+        "bounding_box": [
+          12.547,
+          48.05,
+          12.946,
+          48.359
+        ],
+        "point": [
+          12.746500000000001,
+          48.204499999999996
+        ],
+        "labels": {
+          "en": "Altötting"
+        },
+        "population": 102126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4755,
+          47.735
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "bad tölz-wolfratshausen",
+        "area": 0.20208000000000137,
+        "bounding_box": [
+          11.265,
+          47.495,
+          11.686,
+          47.975
+        ],
+        "point": [
+          11.4755,
+          47.735
+        ],
+        "labels": {
+          "en": "Bad Tölz-Wolfratshausen"
+        },
+        "population": 119998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.872499999999999,
+          47.713499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "berchtesgadener land",
+        "area": 0.23116499999999907,
+        "bounding_box": [
+          12.639,
+          47.466,
+          13.106,
+          47.961
+        ],
+        "point": [
+          12.872499999999999,
+          47.713499999999996
+        ],
+        "labels": {
+          "en": "Berchtesgadener Land"
+        },
+        "population": 100316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3525,
+          48.322500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "dachau",
+        "area": 0.11628300000000122,
+        "bounding_box": [
+          11.119,
+          48.198,
+          11.586,
+          48.447
+        ],
+        "point": [
+          11.3525,
+          48.322500000000005
+        ],
+        "labels": {
+          "en": "Dachau"
+        },
+        "population": 161748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.927499999999998,
+          48.073499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "ebersberg",
+        "area": 0.10272300000000131,
+        "bounding_box": [
+          11.751,
+          47.928,
+          12.104,
+          48.219
+        ],
+        "point": [
+          11.927499999999998,
+          48.073499999999996
+        ],
+        "labels": {
+          "en": "Ebersberg"
+        },
+        "population": 135069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3575,
+          48.902
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "eichstätt",
+        "area": 0.2674580000000027,
+        "bounding_box": [
+          10.971,
+          48.729,
+          11.744,
+          49.075
+        ],
+        "point": [
+          11.3575,
+          48.902
+        ],
+        "labels": {
+          "en": "Eichstätt"
+        },
+        "population": 126850
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9955,
+          48.2945
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "erding",
+        "area": 0.16452300000000014,
+        "bounding_box": [
+          11.736,
+          48.136,
+          12.255,
+          48.453
+        ],
+        "point": [
+          11.9955,
+          48.2945
+        ],
+        "labels": {
+          "en": "Erding"
+        },
+        "population": 133866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7605,
+          48.4405
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "freising",
+        "area": 0.18112499999999954,
+        "bounding_box": [
+          11.498,
+          48.268,
+          12.023,
+          48.613
+        ],
+        "point": [
+          11.7605,
+          48.4405
+        ],
+        "labels": {
+          "en": "Freising"
+        },
+        "population": 171810
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2075,
+          48.189
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "fürstenfeldbruck",
+        "area": 0.08672600000000116,
+        "bounding_box": [
+          10.997,
+          48.086,
+          11.418,
+          48.292
+        ],
+        "point": [
+          11.2075,
+          48.189
+        ],
+        "labels": {
+          "en": "Fürstenfeldbruck"
+        },
+        "population": 214937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1435,
+          47.5625
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "garmisch-partenkirchen",
+        "area": 0.19242300000000195,
+        "bounding_box": [
+          10.863,
+          47.391,
+          11.424,
+          47.734
+        ],
+        "point": [
+          11.1435,
+          47.5625
+        ],
+        "labels": {
+          "en": "Garmisch-Partenkirchen"
+        },
+        "population": 81206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.384,
+          48.7495
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "ingolstadt städte",
+        "area": 0.03370200000000017,
+        "bounding_box": [
+          11.261,
+          48.681,
+          11.507,
+          48.818
+        ],
+        "point": [
+          11.384,
+          48.7495
+        ],
+        "labels": {
+          "en": "Ingolstadt Städte"
+        },
+        "population": 131336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9625,
+          48.0415
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "landsberg",
+        "area": 0.16629499999999808,
+        "bounding_box": [
+          10.752,
+          47.844,
+          11.173,
+          48.239
+        ],
+        "point": [
+          10.9625,
+          48.0415
+        ],
+        "labels": {
+          "en": "Landsberg"
+        },
+        "population": 121998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.837499999999999,
+          47.7595
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "miesbach",
+        "area": 0.16930899999999843,
+        "bounding_box": [
+          11.603,
+          47.579,
+          12.072,
+          47.94
+        ],
+        "point": [
+          11.837499999999999,
+          47.7595
+        ],
+        "labels": {
+          "en": "Miesbach"
+        },
+        "population": 95019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.322,
+          48.2585
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "mühldorf",
+        "area": 0.20032599999999803,
+        "bounding_box": [
+          12.035,
+          48.084,
+          12.609,
+          48.433
+        ],
+        "point": [
+          12.322,
+          48.2585
+        ],
+        "labels": {
+          "en": "Mühldorf"
+        },
+        "population": 104171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.622,
+          48.1025
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "münchen",
+        "area": 0.17771199999999743,
+        "bounding_box": [
+          11.39,
+          47.911,
+          11.854,
+          48.294
+        ],
+        "point": [
+          11.622,
+          48.1025
+        ],
+        "labels": {
+          "en": "München"
+        },
+        "population": 346134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.546,
+          48.1515
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "munich städte",
+        "area": 0.06917399999999996,
+        "bounding_box": [
+          11.363,
+          48.057,
+          11.729,
+          48.246
+        ],
+        "point": [
+          11.546,
+          48.1515
+        ],
+        "labels": {
+          "en": "Munich Städte"
+        },
+        "population": 1481043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.208,
+          48.6385
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "neuburg-schrobenhausen",
+        "area": 0.18338800000000183,
+        "bounding_box": [
+          10.954,
+          48.458,
+          11.462,
+          48.819
+        ],
+        "point": [
+          11.208,
+          48.6385
+        ],
+        "labels": {
+          "en": "Neuburg-Schrobenhausen"
+        },
+        "population": 91092
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.509,
+          48.6085
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "pfaffenhofen",
+        "area": 0.17091000000000073,
+        "bounding_box": [
+          11.298,
+          48.406,
+          11.72,
+          48.811
+        ],
+        "point": [
+          11.509,
+          48.6085
+        ],
+        "labels": {
+          "en": "Pfaffenhofen"
+        },
+        "population": 119105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.107,
+          47.8475
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "rosenheim städte",
+        "area": 0.007100000000000481,
+        "bounding_box": [
+          12.057,
+          47.812,
+          12.157,
+          47.883
+        ],
+        "point": [
+          12.107,
+          47.8475
+        ],
+        "labels": {
+          "en": "Rosenheim Städte"
+        },
+        "population": 60794
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.125499999999999,
+          47.870000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "rosenheim",
+        "area": 0.34593400000000185,
+        "bounding_box": [
+          11.804,
+          47.601,
+          12.447,
+          48.139
+        ],
+        "point": [
+          12.125499999999999,
+          47.870000000000005
+        ],
+        "labels": {
+          "en": "Rosenheim"
+        },
+        "population": 245298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.286999999999999,
+          47.9745
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "starnberg",
+        "area": 0.09575999999999939,
+        "bounding_box": [
+          11.135,
+          47.817,
+          11.439,
+          48.132
+        ],
+        "point": [
+          11.286999999999999,
+          47.9745
+        ],
+        "labels": {
+          "en": "Starnberg"
+        },
+        "population": 123754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.607,
+          47.899
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "traunstein",
+        "area": 0.3013199999999994,
+        "bounding_box": [
+          12.328,
+          47.629,
+          12.886,
+          48.169
+        ],
+        "point": [
+          12.607,
+          47.899
+        ],
+        "labels": {
+          "en": "Traunstein"
+        },
+        "population": 168244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.078,
+          47.784
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "weilheim-schongau",
+        "area": 0.24191999999999916,
+        "bounding_box": [
+          10.718,
+          47.616,
+          11.438,
+          47.952
+        ],
+        "point": [
+          11.078,
+          47.784
+        ],
+        "labels": {
+          "en": "Weilheim-Schongau"
+        },
+        "population": 128308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8975,
+          49.8865
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "bamberg städte",
+        "area": 0.011259000000000517,
+        "bounding_box": [
+          10.828,
+          49.846,
+          10.967,
+          49.927
+        ],
+        "point": [
+          10.8975,
+          49.8865
+        ],
+        "labels": {
+          "en": "Bamberg Städte"
+        },
+        "population": 65863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8475,
+          49.9025
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "bamberg",
+        "area": 0.30399499999999846,
+        "bounding_box": [
+          10.44,
+          49.716,
+          11.255,
+          50.089
+        ],
+        "point": [
+          10.8475,
+          49.9025
+        ],
+        "labels": {
+          "en": "Bamberg"
+        },
+        "population": 149691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.586500000000001,
+          49.9315
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "bayreuth städte",
+        "area": 0.015214999999998903,
+        "bounding_box": [
+          11.497,
+          49.889,
+          11.676,
+          49.974
+        ],
+        "point": [
+          11.586500000000001,
+          49.9315
+        ],
+        "labels": {
+          "en": "Bayreuth Städte"
+        },
+        "population": 69092
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5495,
+          49.876999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "bayreuth",
+        "area": 0.367510000000002,
+        "bounding_box": [
+          11.192,
+          49.62,
+          11.907,
+          50.134
+        ],
+        "point": [
+          11.5495,
+          49.876999999999995
+        ],
+        "labels": {
+          "en": "Bayreuth"
+        },
+        "population": 99807
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9785,
+          50.254999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "coburg städte",
+        "area": 0.011690000000000034,
+        "bounding_box": [
+          10.895,
+          50.22,
+          11.062,
+          50.29
+        ],
+        "point": [
+          10.9785,
+          50.254999999999995
+        ],
+        "labels": {
+          "en": "Coburg Städte"
+        },
+        "population": 35634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.961500000000001,
+          50.2415
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "coburg",
+        "area": 0.14914499999999956,
+        "bounding_box": [
+          10.717,
+          50.089,
+          11.206,
+          50.394
+        ],
+        "point": [
+          10.961500000000001,
+          50.2415
+        ],
+        "labels": {
+          "en": "Coburg"
+        },
+        "population": 86758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1615,
+          49.729
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "forchheim",
+        "area": 0.131693999999998,
+        "bounding_box": [
+          10.928,
+          49.588,
+          11.395,
+          49.87
+        ],
+        "point": [
+          11.1615,
+          49.729
+        ],
+        "labels": {
+          "en": "Forchheim"
+        },
+        "population": 110303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8905,
+          50.313
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "hof städte",
+        "area": 0.014361999999999738,
+        "bounding_box": [
+          11.807,
+          50.27,
+          11.974,
+          50.356
+        ],
+        "point": [
+          11.8905,
+          50.313
+        ],
+        "labels": {
+          "en": "Hof Städte"
+        },
+        "population": 37769
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.843,
+          50.2655
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "hof",
+        "area": 0.20413600000000073,
+        "bounding_box": [
+          11.527,
+          50.104,
+          12.159,
+          50.427
+        ],
+        "point": [
+          11.843,
+          50.2655
+        ],
+        "labels": {
+          "en": "Hof"
+        },
+        "population": 92095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.391,
+          50.34
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "kronach",
+        "area": 0.15943199999999835,
+        "bounding_box": [
+          11.172,
+          50.158,
+          11.61,
+          50.522
+        ],
+        "point": [
+          11.391,
+          50.34
+        ],
+        "labels": {
+          "en": "Kronach"
+        },
+        "population": 64345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.474,
+          50.1005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "kulmbach",
+        "area": 0.14760599999999793,
+        "bounding_box": [
+          11.255,
+          49.932,
+          11.693,
+          50.269
+        ],
+        "point": [
+          11.474,
+          50.1005
+        ],
+        "labels": {
+          "en": "Kulmbach"
+        },
+        "population": 69612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.120999999999999,
+          50.1025
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "lichtenfels",
+        "area": 0.10696400000000175,
+        "bounding_box": [
+          10.879,
+          49.992,
+          11.363,
+          50.213
+        ],
+        "point": [
+          11.120999999999999,
+          50.1025
+        ],
+        "labels": {
+          "en": "Lichtenfels"
+        },
+        "population": 63622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.032,
+          50.099000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "wunsiedel",
+        "area": 0.12531999999999888,
+        "bounding_box": [
+          11.791,
+          49.969,
+          12.273,
+          50.229
+        ],
+        "point": [
+          12.032,
+          50.099000000000004
+        ],
+        "labels": {
+          "en": "Wunsiedel"
+        },
+        "population": 67554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.826,
+          49.4885
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "amberg-sulzbach",
+        "area": 0.33448799999999934,
+        "bounding_box": [
+          11.518,
+          49.217,
+          12.134,
+          49.76
+        ],
+        "point": [
+          11.826,
+          49.4885
+        ],
+        "labels": {
+          "en": "Amberg-Sulzbach"
+        },
+        "population": 96021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8515,
+          49.458
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "amberg städte",
+        "area": 0.011234000000000138,
+        "bounding_box": [
+          11.783,
+          49.417,
+          11.92,
+          49.499
+        ],
+        "point": [
+          11.8515,
+          49.458
+        ],
+        "labels": {
+          "en": "Amberg Städte"
+        },
+        "population": 40208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7425,
+          49.2685
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "cham",
+        "area": 0.39101700000000084,
+        "bounding_box": [
+          12.309,
+          49.043,
+          13.176,
+          49.494
+        ],
+        "point": [
+          12.7425,
+          49.2685
+        ],
+        "labels": {
+          "en": "Cham"
+        },
+        "population": 118209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.567,
+          49.1955
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "neumarkt",
+        "area": 0.36020799999999886,
+        "bounding_box": [
+          11.191,
+          48.956,
+          11.943,
+          49.435
+        ],
+        "point": [
+          11.567,
+          49.1955
+        ],
+        "labels": {
+          "en": "Neumarkt"
+        },
+        "population": 125246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.111999999999998,
+          49.682
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "neustadt",
+        "area": 0.33129599999999904,
+        "bounding_box": [
+          11.636,
+          49.508,
+          12.588,
+          49.856
+        ],
+        "point": [
+          12.111999999999998,
+          49.682
+        ],
+        "labels": {
+          "en": "Neustadt"
+        },
+        "population": 91952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.111,
+          49.024
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "regensburg städte",
+        "area": 0.01771200000000064,
+        "bounding_box": [
+          12.029,
+          48.97,
+          12.193,
+          49.078
+        ],
+        "point": [
+          12.111,
+          49.024
+        ],
+        "labels": {
+          "en": "Regensburg Städte"
+        },
+        "population": 145313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0775,
+          48.995999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "regensburg",
+        "area": 0.3839219999999966,
+        "bounding_box": [
+          11.662,
+          48.765,
+          12.493,
+          49.227
+        ],
+        "point": [
+          12.0775,
+          48.995999999999995
+        ],
+        "labels": {
+          "en": "Regensburg"
+        },
+        "population": 187070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2915,
+          49.3705
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "schwandorf",
+        "area": 0.31834099999999926,
+        "bounding_box": [
+          11.937,
+          49.146,
+          12.646,
+          49.595
+        ],
+        "point": [
+          12.2915,
+          49.3705
+        ],
+        "labels": {
+          "en": "Schwandorf"
+        },
+        "population": 140508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.183,
+          49.908500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "tirschenreuth",
+        "area": 0.22595199999999657,
+        "bounding_box": [
+          11.815,
+          49.755,
+          12.551,
+          50.062
+        ],
+        "point": [
+          12.183,
+          49.908500000000004
+        ],
+        "labels": {
+          "en": "Tirschenreuth"
+        },
+        "population": 69340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.168500000000002,
+          49.665
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "weiden städte",
+        "area": 0.019104000000000707,
+        "bounding_box": [
+          12.069,
+          49.617,
+          12.268,
+          49.713
+        ],
+        "point": [
+          12.168500000000002,
+          49.665
+        ],
+        "labels": {
+          "en": "Weiden Städte"
+        },
+        "population": 39392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.088999999999999,
+          48.4045
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "aichach-friedberg",
+        "area": 0.18876000000000068,
+        "bounding_box": [
+          10.869,
+          48.19,
+          11.309,
+          48.619
+        ],
+        "point": [
+          11.088999999999999,
+          48.4045
+        ],
+        "labels": {
+          "en": "Aichach-Friedberg"
+        },
+        "population": 124545
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.866,
+          48.3575
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "augsburg städte",
+        "area": 0.03939600000000005,
+        "bounding_box": [
+          10.768,
+          48.257,
+          10.964,
+          48.458
+        ],
+        "point": [
+          10.866,
+          48.3575
+        ],
+        "labels": {
+          "en": "Augsburg Städte"
+        },
+        "population": 262488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7455,
+          48.361999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "augsburg",
+        "area": 0.26917799999999986,
+        "bounding_box": [
+          10.499,
+          48.089,
+          10.992,
+          48.635
+        ],
+        "point": [
+          10.7455,
+          48.361999999999995
+        ],
+        "labels": {
+          "en": "Augsburg"
+        },
+        "population": 256174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5265,
+          48.617999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "dillingen",
+        "area": 0.1502359999999994,
+        "bounding_box": [
+          10.262,
+          48.476,
+          10.791,
+          48.76
+        ],
+        "point": [
+          10.5265,
+          48.617999999999995
+        ],
+        "labels": {
+          "en": "Dillingen"
+        },
+        "population": 90129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7325,
+          48.81
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "donau-ries",
+        "area": 0.2864740000000005,
+        "bounding_box": [
+          10.417,
+          48.583,
+          11.048,
+          49.037
+        ],
+        "point": [
+          10.7325,
+          48.81
+        ],
+        "labels": {
+          "en": "Donau-Ries"
+        },
+        "population": 124729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.372499999999999,
+          48.3505
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "günzburg",
+        "area": 0.16952099999999998,
+        "bounding_box": [
+          10.139,
+          48.169,
+          10.606,
+          48.532
+        ],
+        "point": [
+          10.372499999999999,
+          48.3505
+        ],
+        "labels": {
+          "en": "Günzburg"
+        },
+        "population": 117924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6065,
+          47.885999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "kaufbeuren städte",
+        "area": 0.009102000000000136,
+        "bounding_box": [
+          10.551,
+          47.845,
+          10.662,
+          47.927
+        ],
+        "point": [
+          10.6065,
+          47.885999999999996
+        ],
+        "labels": {
+          "en": "Kaufbeuren Städte"
+        },
+        "population": 40266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3065,
+          47.7375
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "kempten städte",
+        "area": 0.011165000000000733,
+        "bounding_box": [
+          10.234,
+          47.699,
+          10.379,
+          47.776
+        ],
+        "point": [
+          10.3065,
+          47.7375
+        ],
+        "labels": {
+          "en": "Kempten Städte"
+        },
+        "population": 64739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.842,
+          47.611000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "lindau",
+        "area": 0.07392000000000166,
+        "bounding_box": [
+          9.611,
+          47.531,
+          10.073,
+          47.691
+        ],
+        "point": [
+          9.842,
+          47.611000000000004
+        ],
+        "labels": {
+          "en": "Lindau"
+        },
+        "population": 74813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16,
+          47.9865
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "memmingen städte",
+        "area": 0.020174000000000025,
+        "bounding_box": [
+          10.083,
+          47.921,
+          10.237,
+          48.052
+        ],
+        "point": [
+          10.16,
+          47.9865
+        ],
+        "labels": {
+          "en": "Memmingen Städte"
+        },
+        "population": 44091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1455,
+          48.299
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "neu-ulm",
+        "area": 0.12769599999999875,
+        "bounding_box": [
+          9.972,
+          48.115,
+          10.319,
+          48.483
+        ],
+        "point": [
+          10.1455,
+          48.299
+        ],
+        "labels": {
+          "en": "Neu-Ulm"
+        },
+        "population": 169425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.234,
+          47.568
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "oberallgäu",
+        "area": 0.332567999999998,
+        "bounding_box": [
+          9.955,
+          47.27,
+          10.513,
+          47.866
+        ],
+        "point": [
+          10.234,
+          47.568
+        ],
+        "labels": {
+          "en": "Oberallgäu"
+        },
+        "population": 152119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6395,
+          47.8155
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "ostallgäu",
+        "area": 0.373177000000003,
+        "bounding_box": [
+          10.328,
+          47.516,
+          10.951,
+          48.115
+        ],
+        "point": [
+          10.6395,
+          47.8155
+        ],
+        "labels": {
+          "en": "Ostallgäu"
+        },
+        "population": 133827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.395,
+          48.028999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "unterallgäu",
+        "area": 0.26120799999999955,
+        "bounding_box": [
+          10.078,
+          47.823,
+          10.712,
+          48.235
+        ],
+        "point": [
+          10.395,
+          48.028999999999996
+        ],
+        "labels": {
+          "en": "Unterallgäu"
+        },
+        "population": 132767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.174,
+          49.971999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "aschaffenburg städte",
+        "area": 0.01560000000000028,
+        "bounding_box": [
+          9.096,
+          49.922,
+          9.252,
+          50.022
+        ],
+        "point": [
+          9.174,
+          49.971999999999994
+        ],
+        "labels": {
+          "en": "Aschaffenburg Städte"
+        },
+        "population": 63908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.241,
+          49.9895
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "aschaffenburg",
+        "area": 0.15694800000000156,
+        "bounding_box": [
+          8.995,
+          49.83,
+          9.487,
+          50.149
+        ],
+        "point": [
+          9.241,
+          49.9895
+        ],
+        "labels": {
+          "en": "Aschaffenburg"
+        },
+        "population": 159452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995999999999999,
+          50.224000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "bad kissingen",
+        "area": 0.3007999999999992,
+        "bounding_box": [
+          9.62,
+          50.024,
+          10.372,
+          50.424
+        ],
+        "point": [
+          9.995999999999999,
+          50.224000000000004
+        ],
+        "labels": {
+          "en": "Bad Kissingen"
+        },
+        "population": 99133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6035,
+          50.040499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "haßberge",
+        "area": 0.21675499999999912,
+        "bounding_box": [
+          10.322,
+          49.848,
+          10.885,
+          50.233
+        ],
+        "point": [
+          10.6035,
+          50.040499999999994
+        ],
+        "labels": {
+          "en": "Haßberge"
+        },
+        "population": 81431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2985,
+          49.7465
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "kitzingen",
+        "area": 0.16840499999999867,
+        "bounding_box": [
+          10.041,
+          49.583,
+          10.556,
+          49.91
+        ],
+        "point": [
+          10.2985,
+          49.7465
+        ],
+        "labels": {
+          "en": "Kitzingen"
+        },
+        "population": 84369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.719000000000001,
+          49.992
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "main-spessart",
+        "area": 0.3259999999999996,
+        "bounding_box": [
+          9.393,
+          49.742,
+          10.045,
+          50.242
+        ],
+        "point": [
+          9.719000000000001,
+          49.992
+        ],
+        "labels": {
+          "en": "Main-Spessart"
+        },
+        "population": 123095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.266,
+          49.7585
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "miltenberg",
+        "area": 0.16060000000000135,
+        "bounding_box": [
+          9.046,
+          49.576,
+          9.486,
+          49.941
+        ],
+        "point": [
+          9.266,
+          49.7585
+        ],
+        "labels": {
+          "en": "Miltenberg"
+        },
+        "population": 128236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2715,
+          50.379999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "rhön-grabfeld",
+        "area": 0.2564099999999981,
+        "bounding_box": [
+          9.925,
+          50.195,
+          10.618,
+          50.565
+        ],
+        "point": [
+          10.2715,
+          50.379999999999995
+        ],
+        "labels": {
+          "en": "Rhön-Grabfeld"
+        },
+        "population": 74988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.220500000000001,
+          50.046
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "schweinfurt städte",
+        "area": 0.009373999999999837,
+        "bounding_box": [
+          10.166,
+          50.003,
+          10.275,
+          50.089
+        ],
+        "point": [
+          10.220500000000001,
+          50.046
+        ],
+        "labels": {
+          "en": "Schweinfurt Städte"
+        },
+        "population": 50752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.244,
+          50.0215
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "schweinfurt",
+        "area": 0.23903999999999972,
+        "bounding_box": [
+          9.956,
+          49.814,
+          10.532,
+          50.229
+        ],
+        "point": [
+          10.244,
+          50.0215
+        ],
+        "labels": {
+          "en": "Schweinfurt"
+        },
+        "population": 108969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.947,
+          49.7745
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "würzburg städte",
+        "area": 0.018354000000000356,
+        "bounding_box": [
+          9.878,
+          49.708,
+          10.016,
+          49.841
+        ],
+        "point": [
+          9.947,
+          49.7745
+        ],
+        "labels": {
+          "en": "Würzburg Städte"
+        },
+        "population": 117419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.911000000000001,
+          49.709999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-by",
+        "region_child": "würzburg",
+        "area": 0.26526400000000044,
+        "bounding_box": [
+          9.63,
+          49.474,
+          10.192,
+          49.946
+        ],
+        "point": [
+          9.911000000000001,
+          49.709999999999994
+        ],
+        "labels": {
+          "en": "Würzburg"
+        },
+        "population": 156553
+      }
+    }
+  ]
+}

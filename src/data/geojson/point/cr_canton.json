@@ -1,0 +1,2825 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2645,
+          10.1665
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "alajuela",
+        "area": 0.10387300000000156,
+        "bounding_box": [
+          -84.369,
+          9.918,
+          -84.16,
+          10.415
+        ],
+        "point": [
+          -84.2645,
+          10.1665
+        ],
+        "labels": {
+          "en": "Alajuela"
+        },
+        "population": 291735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4115,
+          10.227
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "alfaro ruiz",
+        "area": 0.020903999999999156,
+        "bounding_box": [
+          -84.512,
+          10.175,
+          -84.311,
+          10.279
+        ],
+        "point": [
+          -84.4115,
+          10.227
+        ],
+        "labels": {
+          "en": "Alfaro Ruiz"
+        },
+        "population": 11840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.402,
+          9.9845
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "atenas",
+        "area": 0.01624999999999943,
+        "bounding_box": [
+          -84.467,
+          9.922,
+          -84.337,
+          10.047
+        ],
+        "point": [
+          -84.402,
+          9.9845
+        ],
+        "labels": {
+          "en": "Atenas"
+        },
+        "population": 30397
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21350000000001,
+          10.4195
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "grecia",
+        "area": 0.03409299999999829,
+        "bounding_box": [
+          -84.265,
+          10.254,
+          -84.162,
+          10.585
+        ],
+        "point": [
+          -84.21350000000001,
+          10.4195
+        ],
+        "labels": {
+          "en": "Grecia"
+        },
+        "population": 83371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.295,
+          10.102
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "grecia",
+        "area": 0.02719999999999904,
+        "bounding_box": [
+          -84.363,
+          10.002,
+          -84.227,
+          10.202
+        ],
+        "point": [
+          -84.295,
+          10.102
+        ],
+        "labels": {
+          "en": "Grecia"
+        },
+        "population": 83371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.84200000000001,
+          10.7065
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "guatuso",
+        "area": 0.10962000000000012,
+        "bounding_box": [
+          -85.016,
+          10.549,
+          -84.668,
+          10.864
+        ],
+        "point": [
+          -84.84200000000001,
+          10.7065
+        ],
+        "labels": {
+          "en": "Guatuso"
+        },
+        "population": 18138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.684,
+          10.861
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "los chiles",
+        "area": 0.19794400000000334,
+        "bounding_box": [
+          -84.911,
+          10.643,
+          -84.457,
+          11.079
+        ],
+        "point": [
+          -84.684,
+          10.861
+        ],
+        "labels": {
+          "en": "Los Chiles"
+        },
+        "population": 28701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.383,
+          10.1175
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "naranjo",
+        "area": 0.017172000000000534,
+        "bounding_box": [
+          -84.437,
+          10.038,
+          -84.329,
+          10.197
+        ],
+        "point": [
+          -84.383,
+          10.1175
+        ],
+        "labels": {
+          "en": "Naranjo"
+        },
+        "population": 44038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57300000000001,
+          9.8915
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "orotina",
+        "area": 0.02730599999999914,
+        "bounding_box": [
+          -84.684,
+          9.83,
+          -84.462,
+          9.953
+        ],
+        "point": [
+          -84.57300000000001,
+          9.8915
+        ],
+        "labels": {
+          "en": "Orotina"
+        },
+        "population": 26560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.436,
+          10.059000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "palmares",
+        "area": 0.005248000000000521,
+        "bounding_box": [
+          -84.468,
+          10.018,
+          -84.404,
+          10.1
+        ],
+        "point": [
+          -84.436,
+          10.059000000000001
+        ],
+        "labels": {
+          "en": "Palmares"
+        },
+        "population": 44281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24799999999999,
+          10.1125
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "poás",
+        "area": 0.01810000000000146,
+        "bounding_box": [
+          -84.298,
+          10.022,
+          -84.198,
+          10.203
+        ],
+        "point": [
+          -84.24799999999999,
+          10.1125
+        ],
+        "labels": {
+          "en": "Poás"
+        },
+        "population": 30821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51,
+          10.618500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "san carlos",
+        "area": 0.5302919999999992,
+        "bounding_box": [
+          -84.864,
+          10.244,
+          -84.156,
+          10.993
+        ],
+        "point": [
+          -84.51,
+          10.618500000000001
+        ],
+        "labels": {
+          "en": "San Carlos"
+        },
+        "population": 197424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55799999999999,
+          9.968
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "san mateo",
+        "area": 0.023099999999999194,
+        "bounding_box": [
+          -84.663,
+          9.913,
+          -84.453,
+          10.023
+        ],
+        "point": [
+          -84.55799999999999,
+          9.968
+        ],
+        "labels": {
+          "en": "San Mateo"
+        },
+        "population": 6036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6065,
+          10.2285
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "san ramón",
+        "area": 0.18783300000000025,
+        "bounding_box": [
+          -84.797,
+          9.982,
+          -84.416,
+          10.475
+        ],
+        "point": [
+          -84.6065,
+          10.2285
+        ],
+        "labels": {
+          "en": "San Ramón"
+        },
+        "population": 96812
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1555,
+          10.884
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "upala",
+        "area": 0.21235199999999915,
+        "bounding_box": [
+          -85.432,
+          10.692,
+          -84.879,
+          11.076
+        ],
+        "point": [
+          -85.1555,
+          10.884
+        ],
+        "labels": {
+          "en": "Upala"
+        },
+        "population": 49466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.29400000000001,
+          10.171
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-a",
+        "region_child": "valverde vega",
+        "area": 0.03052000000000012,
+        "bounding_box": [
+          -84.364,
+          10.062,
+          -84.224,
+          10.28
+        ],
+        "point": [
+          -84.29400000000001,
+          10.171
+        ],
+        "labels": {
+          "en": "Valverde Vega"
+        },
+        "population": 21965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.797,
+          9.9545
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-c",
+        "region_child": "alvarado",
+        "area": 0.011439999999999811,
+        "bounding_box": [
+          -83.837,
+          9.883,
+          -83.757,
+          10.026
+        ],
+        "point": [
+          -83.797,
+          9.9545
+        ],
+        "labels": {
+          "en": "Alvarado"
+        },
+        "population": 12858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9245,
+          9.7895
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-c",
+        "region_child": "cartago",
+        "area": 0.11909099999999938,
+        "bounding_box": [
+          -84.085,
+          9.604,
+          -83.764,
+          9.975
+        ],
+        "point": [
+          -83.9245,
+          9.7895
+        ],
+        "labels": {
+          "en": "Cartago"
+        },
+        "population": 156932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9005,
+          9.7335
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-c",
+        "region_child": "el guarco",
+        "area": 0.06604500000000259,
+        "bounding_box": [
+          -84.028,
+          9.604,
+          -83.773,
+          9.863
+        ],
+        "point": [
+          -83.9005,
+          9.7335
+        ],
+        "labels": {
+          "en": "El Guarco"
+        },
+        "population": 74840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.69749999999999,
+          9.8065
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-c",
+        "region_child": "jiménez",
+        "area": 0.04754100000000172,
+        "bounding_box": [
+          -83.777,
+          9.657,
+          -83.618,
+          9.956
+        ],
+        "point": [
+          -83.69749999999999,
+          9.8065
+        ],
+        "labels": {
+          "en": "Jiménez"
+        },
+        "population": 17087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98599999999999,
+          9.9225
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-c",
+        "region_child": "la unión",
+        "area": 0.00565800000000061,
+        "bounding_box": [
+          -84.027,
+          9.888,
+          -83.945,
+          9.957
+        ],
+        "point": [
+          -83.98599999999999,
+          9.9225
+        ],
+        "labels": {
+          "en": "La Unión"
+        },
+        "population": 110195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8725,
+          10.002500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-c",
+        "region_child": "oreamuno",
+        "area": 0.04100499999999875,
+        "bounding_box": [
+          -83.942,
+          9.855,
+          -83.803,
+          10.15
+        ],
+        "point": [
+          -83.8725,
+          10.002500000000001
+        ],
+        "labels": {
+          "en": "Oreamuno"
+        },
+        "population": 45648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.757,
+          9.733
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-c",
+        "region_child": "paraíso",
+        "area": 0.09363200000000196,
+        "bounding_box": [
+          -83.89,
+          9.557,
+          -83.624,
+          9.909
+        ],
+        "point": [
+          -83.757,
+          9.733
+        ],
+        "labels": {
+          "en": "Paraíso"
+        },
+        "population": 56089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.562,
+          9.7905
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-c",
+        "region_child": "turrialba",
+        "area": 0.29049999999999976,
+        "bounding_box": [
+          -83.812,
+          9.5,
+          -83.312,
+          10.081
+        ],
+        "point": [
+          -83.562,
+          9.7905
+        ],
+        "labels": {
+          "en": "Turrialba"
+        },
+        "population": 68390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.999,
+          10.259
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-g",
+        "region_child": "abangares",
+        "area": 0.12676800000000107,
+        "bounding_box": [
+          -85.227,
+          10.12,
+          -84.771,
+          10.398
+        ],
+        "point": [
+          -84.999,
+          10.259
+        ],
+        "labels": {
+          "en": "Abangares"
+        },
+        "population": 21151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.24449999999999,
+          10.5145
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-g",
+        "region_child": "bagaces",
+        "area": 0.18252700000000185,
+        "bounding_box": [
+          -85.419,
+          10.253,
+          -85.07,
+          10.776
+        ],
+        "point": [
+          -85.24449999999999,
+          10.5145
+        ],
+        "labels": {
+          "en": "Bagaces"
+        },
+        "population": 23656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1115,
+          10.459
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-g",
+        "region_child": "cañas",
+        "area": 0.13623399999999553,
+        "bounding_box": [
+          -85.243,
+          10.2,
+          -84.98,
+          10.718
+        ],
+        "point": [
+          -85.1115,
+          10.459
+        ],
+        "labels": {
+          "en": "Cañas"
+        },
+        "population": 28732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5915,
+          10.492
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-g",
+        "region_child": "carrillo",
+        "area": 0.1267299999999997,
+        "bounding_box": [
+          -85.81,
+          10.347,
+          -85.373,
+          10.637
+        ],
+        "point": [
+          -85.5915,
+          10.492
+        ],
+        "labels": {
+          "en": "Carrillo"
+        },
+        "population": 43752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.405,
+          9.9655
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-g",
+        "region_child": "hojancha",
+        "area": 0.040075999999999404,
+        "bounding_box": [
+          -85.491,
+          9.849,
+          -85.319,
+          10.082
+        ],
+        "point": [
+          -85.405,
+          9.9655
+        ],
+        "labels": {
+          "en": "Hojancha"
+        },
+        "population": 6310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5955,
+          11.0095
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-g",
+        "region_child": "la cruz",
+        "area": 0.2792950000000014,
+        "bounding_box": [
+          -85.932,
+          10.802,
+          -85.259,
+          11.217
+        ],
+        "point": [
+          -85.5955,
+          11.0095
+        ],
+        "labels": {
+          "en": "La Cruz"
+        },
+        "population": 21039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.498,
+          10.711500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-g",
+        "region_child": "liberia",
+        "area": 0.21929799999999794,
+        "bounding_box": [
+          -85.697,
+          10.436,
+          -85.299,
+          10.987
+        ],
+        "point": [
+          -85.498,
+          10.711500000000001
+        ],
+        "labels": {
+          "en": "Liberia"
+        },
+        "population": 81249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.307,
+          9.9265
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-g",
+        "region_child": "nandayure",
+        "area": 0.11997000000000047,
+        "bounding_box": [
+          -85.462,
+          9.733,
+          -85.152,
+          10.12
+        ],
+        "point": [
+          -85.307,
+          9.9265
+        ],
+        "labels": {
+          "en": "Nandayure"
+        },
+        "population": 12868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.471,
+          10.111
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-g",
+        "region_child": "nicoya",
+        "area": 0.23700000000000188,
+        "bounding_box": [
+          -85.708,
+          9.861,
+          -85.234,
+          10.361
+        ],
+        "point": [
+          -85.471,
+          10.111
+        ],
+        "labels": {
+          "en": "Nicoya"
+        },
+        "population": 62720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6445,
+          10.251
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-g",
+        "region_child": "santa cruz",
+        "area": 0.23150000000000404,
+        "bounding_box": [
+          -85.876,
+          10.001,
+          -85.413,
+          10.501
+        ],
+        "point": [
+          -85.6445,
+          10.251
+        ],
+        "labels": {
+          "en": "Santa Cruz"
+        },
+        "population": 70314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9165,
+          10.5095
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-g",
+        "region_child": "tilarán",
+        "area": 0.08108099999999853,
+        "bounding_box": [
+          -85.053,
+          10.361,
+          -84.78,
+          10.658
+        ],
+        "point": [
+          -84.9165,
+          10.5095
+        ],
+        "labels": {
+          "en": "Tilarán"
+        },
+        "population": 19770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.112,
+          10.084
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-h",
+        "region_child": "barva",
+        "area": 0.007503999999999669,
+        "bounding_box": [
+          -84.14,
+          10.017,
+          -84.084,
+          10.151
+        ],
+        "point": [
+          -84.112,
+          10.084
+        ],
+        "labels": {
+          "en": "Barva"
+        },
+        "population": 42792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1705,
+          9.991
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-h",
+        "region_child": "belén",
+        "area": 0.002856000000000156,
+        "bounding_box": [
+          -84.196,
+          9.963,
+          -84.145,
+          10.019
+        ],
+        "point": [
+          -84.1705,
+          9.991
+        ],
+        "labels": {
+          "en": "Belén"
+        },
+        "population": 39631
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.146,
+          10.011
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-h",
+        "region_child": "flores",
+        "area": 0.0016800000000001024,
+        "bounding_box": [
+          -84.167,
+          9.991,
+          -84.125,
+          10.031
+        ],
+        "point": [
+          -84.146,
+          10.011
+        ],
+        "labels": {
+          "en": "Flores"
+        },
+        "population": 16296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.045,
+          10.176
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-h",
+        "region_child": "heredia",
+        "area": 0.054240000000001835,
+        "bounding_box": [
+          -84.165,
+          10.063,
+          -83.925,
+          10.289
+        ],
+        "point": [
+          -84.045,
+          10.176
+        ],
+        "labels": {
+          "en": "Heredia"
+        },
+        "population": 158651
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1335,
+          9.991
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-h",
+        "region_child": "heredia",
+        "area": 0.002861999999999867,
+        "bounding_box": [
+          -84.16,
+          9.964,
+          -84.107,
+          10.018
+        ],
+        "point": [
+          -84.1335,
+          9.991
+        ],
+        "labels": {
+          "en": "Heredia"
+        },
+        "population": 158651
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0415,
+          10.035499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-h",
+        "region_child": "san isidro",
+        "area": 0.003464999999999444,
+        "bounding_box": [
+          -84.073,
+          10.008,
+          -84.01,
+          10.063
+        ],
+        "point": [
+          -84.0415,
+          10.035499999999999
+        ],
+        "labels": {
+          "en": "San Isidro"
+        },
+        "population": 18036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.088,
+          9.998
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-h",
+        "region_child": "san pablo",
+        "area": 0.0015960000000000713,
+        "bounding_box": [
+          -84.109,
+          9.979,
+          -84.067,
+          10.017
+        ],
+        "point": [
+          -84.088,
+          9.998
+        ],
+        "labels": {
+          "en": "San Pablo"
+        },
+        "population": 44708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0735,
+          10.068999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-h",
+        "region_child": "san rafael",
+        "area": 0.010501999999999867,
+        "bounding_box": [
+          -84.118,
+          10.01,
+          -84.029,
+          10.128
+        ],
+        "point": [
+          -84.0735,
+          10.068999999999999
+        ],
+        "labels": {
+          "en": "San Rafael"
+        },
+        "population": 33744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15100000000001,
+          10.0945
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-h",
+        "region_child": "santa bárbara",
+        "area": 0.007222000000001018,
+        "bounding_box": [
+          -84.174,
+          10.016,
+          -84.128,
+          10.173
+        ],
+        "point": [
+          -84.15100000000001,
+          10.0945
+        ],
+        "labels": {
+          "en": "Santa Bárbara"
+        },
+        "population": 32115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0625,
+          9.999500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-h",
+        "region_child": "santo domingo",
+        "area": 0.007454999999999245,
+        "bounding_box": [
+          -84.115,
+          9.964,
+          -84.01,
+          10.035
+        ],
+        "point": [
+          -84.0625,
+          9.999500000000001
+        ],
+        "labels": {
+          "en": "Santo Domingo"
+        },
+        "population": 52851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.935,
+          10.487
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-h",
+        "region_child": "sarapiquí",
+        "area": 0.2754240000000015,
+        "bounding_box": [
+          -84.163,
+          10.185,
+          -83.707,
+          10.789
+        ],
+        "point": [
+          -83.935,
+          10.487
+        ],
+        "labels": {
+          "en": "Sarapiquí"
+        },
+        "population": 68211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.628,
+          10.2065
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-l",
+        "region_child": "guácimo",
+        "area": 0.10564399999999749,
+        "bounding_box": [
+          -83.782,
+          10.035,
+          -83.474,
+          10.378
+        ],
+        "point": [
+          -83.628,
+          10.2065
+        ],
+        "labels": {
+          "en": "Guácimo"
+        },
+        "population": 47732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2025,
+          9.767
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-l",
+        "region_child": "limón",
+        "area": 0.3649079999999952,
+        "bounding_box": [
+          -83.526,
+          9.485,
+          -82.879,
+          10.049
+        ],
+        "point": [
+          -83.2025,
+          9.767
+        ],
+        "labels": {
+          "en": "Limón"
+        },
+        "population": 94833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.299,
+          10.0155
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-l",
+        "region_child": "matina",
+        "area": 0.1313339999999992,
+        "bounding_box": [
+          -83.458,
+          9.809,
+          -83.14,
+          10.222
+        ],
+        "point": [
+          -83.299,
+          10.0155
+        ],
+        "labels": {
+          "en": "Matina"
+        },
+        "population": 42238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.278,
+          10.2045
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-l",
+        "region_child": "matina",
+        "area": 0.0002760000000000067,
+        "bounding_box": [
+          -83.284,
+          10.193,
+          -83.272,
+          10.216
+        ],
+        "point": [
+          -83.278,
+          10.2045
+        ],
+        "labels": {
+          "en": "Matina"
+        },
+        "population": 42238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6475,
+          10.5015
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-l",
+        "region_child": "pococí",
+        "area": 0.5153749999999988,
+        "bounding_box": [
+          -83.942,
+          10.064,
+          -83.353,
+          10.939
+        ],
+        "point": [
+          -83.6475,
+          10.5015
+        ],
+        "labels": {
+          "en": "Pococí"
+        },
+        "population": 147408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4925,
+          10.1485
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-l",
+        "region_child": "siquirres",
+        "area": 0.14332499999999587,
+        "bounding_box": [
+          -83.713,
+          9.986,
+          -83.272,
+          10.311
+        ],
+        "point": [
+          -83.4925,
+          10.1485
+        ],
+        "labels": {
+          "en": "Siquirres"
+        },
+        "population": 64016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02,
+          9.42
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-l",
+        "region_child": "talamanca",
+        "area": 0.6687439999999992,
+        "bounding_box": [
+          -83.487,
+          9.062,
+          -82.553,
+          9.778
+        ],
+        "point": [
+          -83.02,
+          9.42
+        ],
+        "labels": {
+          "en": "Talamanca"
+        },
+        "population": 36552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0475,
+          9.4285
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "aguirre",
+        "area": 0.1460129999999968,
+        "bounding_box": [
+          -84.252,
+          9.25,
+          -83.843,
+          9.607
+        ],
+        "point": [
+          -84.0475,
+          9.4285
+        ],
+        "labels": {
+          "en": "Aguirre"
+        },
+        "population": 34132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.255,
+          9.0835
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "buenos aires",
+        "area": 0.3702300000000025,
+        "bounding_box": [
+          -83.556,
+          8.776,
+          -82.954,
+          9.391
+        ],
+        "point": [
+          -83.255,
+          9.0835
+        ],
+        "labels": {
+          "en": "Buenos Aires"
+        },
+        "population": 50150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9345,
+          8.5275
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "corredores",
+        "area": 0.079058999999998,
+        "bounding_box": [
+          -83.044,
+          8.347,
+          -82.825,
+          8.708
+        ],
+        "point": [
+          -82.9345,
+          8.5275
+        ],
+        "labels": {
+          "en": "Corredores"
+        },
+        "population": 45889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.90350000000001,
+          8.8925
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "coto brus",
+        "area": 0.1543489999999977,
+        "bounding_box": [
+          -83.095,
+          8.691,
+          -82.712,
+          9.094
+        ],
+        "point": [
+          -82.90350000000001,
+          8.8925
+        ],
+        "labels": {
+          "en": "Coto Brus"
+        },
+        "population": 36797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6495,
+          9.996500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "esparza",
+        "area": 0.049469000000000374,
+        "bounding_box": [
+          -84.745,
+          9.867,
+          -84.554,
+          10.126
+        ],
+        "point": [
+          -84.6495,
+          9.996500000000001
+        ],
+        "labels": {
+          "en": "Esparza"
+        },
+        "population": 50906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.616,
+          9.7165
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "garabito",
+        "area": 0.05594400000000185,
+        "bounding_box": [
+          -84.7,
+          9.55,
+          -84.532,
+          9.883
+        ],
+        "point": [
+          -84.616,
+          9.7165
+        ],
+        "labels": {
+          "en": "Garabito"
+        },
+        "population": 24025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1125,
+          8.427
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "golfito",
+        "area": 0.34776600000000235,
+        "bounding_box": [
+          -83.336,
+          8.038,
+          -82.889,
+          8.816
+        ],
+        "point": [
+          -83.1125,
+          8.427
+        ],
+        "labels": {
+          "en": "Golfito"
+        },
+        "population": 45982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4545,
+          8.5445
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "golfito",
+        "area": 0.12378299999999959,
+        "bounding_box": [
+          -83.636,
+          8.374,
+          -83.273,
+          8.715
+        ],
+        "point": [
+          -83.4545,
+          8.5445
+        ],
+        "labels": {
+          "en": "Golfito"
+        },
+        "population": 45982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.736,
+          10.144
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "montes de oro",
+        "area": 0.04063999999999935,
+        "bounding_box": [
+          -84.816,
+          10.017,
+          -84.656,
+          10.271
+        ],
+        "point": [
+          -84.736,
+          10.144
+        ],
+        "labels": {
+          "en": "Montes de Oro"
+        },
+        "population": 14413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50649999999999,
+          8.882
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "osa",
+        "area": 0.5474699999999986,
+        "bounding_box": [
+          -83.862,
+          8.497,
+          -83.151,
+          9.267
+        ],
+        "point": [
+          -83.50649999999999,
+          8.882
+        ],
+        "labels": {
+          "en": "Osa"
+        },
+        "population": 33943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.88,
+          8.7065
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "osa",
+        "area": 0.0003740000000000828,
+        "bounding_box": [
+          -83.891,
+          8.698,
+          -83.869,
+          8.715
+        ],
+        "point": [
+          -83.88,
+          8.7065
+        ],
+        "labels": {
+          "en": "Osa"
+        },
+        "population": 33943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3535,
+          9.558499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "parrita",
+        "area": 0.08270299999999893,
+        "bounding_box": [
+          -84.57,
+          9.463,
+          -84.137,
+          9.654
+        ],
+        "point": [
+          -84.3535,
+          9.558499999999999
+        ],
+        "labels": {
+          "en": "Parrita"
+        },
+        "population": 19971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0845,
+          9.786
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "puntarenas",
+        "area": 0.19819800000000085,
+        "bounding_box": [
+          -85.299,
+          9.555,
+          -84.87,
+          10.017
+        ],
+        "point": [
+          -85.0845,
+          9.786
+        ],
+        "labels": {
+          "en": "Puntarenas"
+        },
+        "population": 100740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8685,
+          10.153500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "puntarenas",
+        "area": 0.147094999999997,
+        "bounding_box": [
+          -85.07,
+          9.971,
+          -84.667,
+          10.336
+        ],
+        "point": [
+          -84.8685,
+          10.153500000000001
+        ],
+        "labels": {
+          "en": "Puntarenas"
+        },
+        "population": 100740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1475,
+          10.1005
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "puntarenas",
+        "area": 0.005353000000000035,
+        "bounding_box": [
+          -85.198,
+          10.074,
+          -85.097,
+          10.127
+        ],
+        "point": [
+          -85.1475,
+          10.1005
+        ],
+        "labels": {
+          "en": "Puntarenas"
+        },
+        "population": 100740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.061,
+          5.529
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "puntarenas",
+        "area": 0.0038079999999998822,
+        "bounding_box": [
+          -87.095,
+          5.501,
+          -87.027,
+          5.557
+        ],
+        "point": [
+          -87.061,
+          5.529
+        ],
+        "labels": {
+          "en": "Puntarenas"
+        },
+        "population": 100740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90450000000001,
+          9.942499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "puntarenas",
+        "area": 0.000621000000000063,
+        "bounding_box": [
+          -84.918,
+          9.931,
+          -84.891,
+          9.954
+        ],
+        "point": [
+          -84.90450000000001,
+          9.942499999999999
+        ],
+        "labels": {
+          "en": "Puntarenas"
+        },
+        "population": 100740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0595,
+          9.9865
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "puntarenas",
+        "area": 0.0005949999999999232,
+        "bounding_box": [
+          -85.077,
+          9.978,
+          -85.042,
+          9.995
+        ],
+        "point": [
+          -85.0595,
+          9.9865
+        ],
+        "labels": {
+          "en": "Puntarenas"
+        },
+        "population": 100740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.981,
+          9.9875
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "puntarenas",
+        "area": 0.0005699999999999047,
+        "bounding_box": [
+          -85.0,
+          9.98,
+          -84.962,
+          9.995
+        ],
+        "point": [
+          -84.981,
+          9.9875
+        ],
+        "labels": {
+          "en": "Puntarenas"
+        },
+        "population": 100740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.875,
+          9.8445
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "puntarenas",
+        "area": 0.00021000000000015803,
+        "bounding_box": [
+          -84.882,
+          9.837,
+          -84.868,
+          9.852
+        ],
+        "point": [
+          -84.875,
+          9.8445
+        ],
+        "labels": {
+          "en": "Puntarenas"
+        },
+        "population": 100740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8895,
+          9.7685
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-p",
+        "region_child": "puntarenas",
+        "area": 0.00014300000000004755,
+        "bounding_box": [
+          -84.896,
+          9.763,
+          -84.883,
+          9.774
+        ],
+        "point": [
+          -84.8895,
+          9.7685
+        ],
+        "labels": {
+          "en": "Puntarenas"
+        },
+        "population": 100740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23599999999999,
+          9.748999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "acosta",
+        "area": 0.05039999999999854,
+        "bounding_box": [
+          -84.341,
+          9.629,
+          -84.131,
+          9.869
+        ],
+        "point": [
+          -84.23599999999999,
+          9.748999999999999
+        ],
+        "labels": {
+          "en": "Acosta"
+        },
+        "population": 20731
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.118,
+          9.895
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "alajuelita",
+        "area": 0.0049880000000006135,
+        "bounding_box": [
+          -84.147,
+          9.852,
+          -84.089,
+          9.938
+        ],
+        "point": [
+          -84.118,
+          9.895
+        ],
+        "labels": {
+          "en": "Alajuelita"
+        },
+        "population": 117883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1445,
+          9.750499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "aserrí",
+        "area": 0.042343000000000346,
+        "bounding_box": [
+          -84.225,
+          9.619,
+          -84.064,
+          9.882
+        ],
+        "point": [
+          -84.1445,
+          9.750499999999999
+        ],
+        "labels": {
+          "en": "Aserrí"
+        },
+        "population": 78588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0235,
+          9.9265
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "curridabat",
+        "area": 0.0021729999999998135,
+        "bounding_box": [
+          -84.05,
+          9.906,
+          -83.997,
+          9.947
+        ],
+        "point": [
+          -84.0235,
+          9.9265
+        ],
+        "labels": {
+          "en": "Curridabat"
+        },
+        "population": 63769
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0395,
+          9.831
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "desamparados",
+        "area": 0.023490000000000823,
+        "bounding_box": [
+          -84.107,
+          9.744,
+          -83.972,
+          9.918
+        ],
+        "point": [
+          -84.0395,
+          9.831
+        ],
+        "labels": {
+          "en": "Desamparados"
+        },
+        "population": 299354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.88550000000001,
+          9.599499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "dota",
+        "area": 0.0663750000000025,
+        "bounding_box": [
+          -83.998,
+          9.452,
+          -83.773,
+          9.747
+        ],
+        "point": [
+          -83.88550000000001,
+          9.599499999999999
+        ],
+        "labels": {
+          "en": "Dota"
+        },
+        "population": 9494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.146,
+          9.9185
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "escazú",
+        "area": 0.0044640000000001675,
+        "bounding_box": [
+          -84.17,
+          9.872,
+          -84.122,
+          9.965
+        ],
+        "point": [
+          -84.146,
+          9.9185
+        ],
+        "labels": {
+          "en": "Escazú"
+        },
+        "population": 91243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.987,
+          9.9645
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "goicoechea",
+        "area": 0.006370000000000101,
+        "bounding_box": [
+          -84.078,
+          9.947,
+          -83.896,
+          9.982
+        ],
+        "point": [
+          -83.987,
+          9.9645
+        ],
+        "labels": {
+          "en": "Goicoechea"
+        },
+        "population": 132574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.064,
+          9.7025
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "león cortés",
+        "area": 0.01785000000000025,
+        "bounding_box": [
+          -84.149,
+          9.65,
+          -83.979,
+          9.755
+        ],
+        "point": [
+          -84.064,
+          9.7025
+        ],
+        "labels": {
+          "en": "León Cortés"
+        },
+        "population": 13410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0015,
+          9.9495
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "montes de oca",
+        "area": 0.0038149999999998285,
+        "bounding_box": [
+          -84.056,
+          9.932,
+          -83.947,
+          9.967
+        ],
+        "point": [
+          -84.0015,
+          9.9495
+        ],
+        "labels": {
+          "en": "Montes de Oca"
+        },
+        "population": 59886
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2775,
+          9.881
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "mora",
+        "area": 0.034451999999999344,
+        "bounding_box": [
+          -84.408,
+          9.815,
+          -84.147,
+          9.947
+        ],
+        "point": [
+          -84.2775,
+          9.881
+        ],
+        "labels": {
+          "en": "Mora"
+        },
+        "population": 34604
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0175,
+          10.0225
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "moravia",
+        "area": 0.010234999999999862,
+        "bounding_box": [
+          -84.062,
+          9.965,
+          -83.973,
+          10.08
+        ],
+        "point": [
+          -84.0175,
+          10.0225
+        ],
+        "labels": {
+          "en": "Moravia"
+        },
+        "population": 37473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.71549999999999,
+          9.342500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "pérez zeledón",
+        "area": 0.3050250000000018,
+        "bounding_box": [
+          -84.006,
+          9.08,
+          -83.425,
+          9.605
+        ],
+        "point": [
+          -83.71549999999999,
+          9.342500000000001
+        ],
+        "labels": {
+          "en": "Pérez Zeledón"
+        },
+        "population": 146556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3735,
+          9.742
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "puriscal",
+        "area": 0.08387999999999664,
+        "bounding_box": [
+          -84.49,
+          9.562,
+          -84.257,
+          9.922
+        ],
+        "point": [
+          -84.3735,
+          9.742
+        ],
+        "labels": {
+          "en": "Puriscal"
+        },
+        "population": 37552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1,
+          9.9405
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "san josé",
+        "area": 0.006254000000000628,
+        "bounding_box": [
+          -84.153,
+          9.911,
+          -84.047,
+          9.97
+        ],
+        "point": [
+          -84.1,
+          9.9405
+        ],
+        "labels": {
+          "en": "San José"
+        },
+        "population": 197434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.189,
+          9.92
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "santa ana",
+        "area": 0.008976000000000851,
+        "bounding_box": [
+          -84.233,
+          9.869,
+          -84.145,
+          9.971
+        ],
+        "point": [
+          -84.189,
+          9.92
+        ],
+        "labels": {
+          "en": "Santa Ana"
+        },
+        "population": 73683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.066,
+          9.582
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "tarrazú",
+        "area": 0.04636800000000172,
+        "bounding_box": [
+          -84.15,
+          9.444,
+          -83.982,
+          9.72
+        ],
+        "point": [
+          -84.066,
+          9.582
+        ],
+        "labels": {
+          "en": "Tarrazú"
+        },
+        "population": 17225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07900000000001,
+          9.963000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "tibás",
+        "area": 0.0008160000000001151,
+        "bounding_box": [
+          -84.096,
+          9.951,
+          -84.062,
+          9.975
+        ],
+        "point": [
+          -84.07900000000001,
+          9.963000000000001
+        ],
+        "labels": {
+          "en": "Tibás"
+        },
+        "population": 27694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.499,
+          9.753499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "turrubares",
+        "area": 0.0663640000000008,
+        "bounding_box": [
+          -84.593,
+          9.577,
+          -84.405,
+          9.93
+        ],
+        "point": [
+          -84.499,
+          9.753499999999999
+        ],
+        "labels": {
+          "en": "Turrubares"
+        },
+        "population": 6164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.941,
+          10.0805
+        ]
+      },
+      "properties": {
+        "region_schema": "cr_canton",
+        "region_parent": "cr-sj",
+        "region_child": "vásquez de coronado",
+        "area": 0.037464000000001545,
+        "bounding_box": [
+          -84.025,
+          9.969,
+          -83.857,
+          10.192
+        ],
+        "point": [
+          -83.941,
+          10.0805
+        ],
+        "labels": {
+          "en": "Vásquez de Coronado"
+        },
+        "population": 32492
+      }
+    }
+  ]
+}

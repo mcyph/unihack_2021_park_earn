@@ -1,0 +1,429 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.947,
+          42.0465
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kg",
+        "region_child": "kg-y",
+        "area": 8.071140000000007,
+        "bounding_box": [
+          75.637,
+          41.173,
+          80.257,
+          42.92
+        ],
+        "point": [
+          77.947,
+          42.0465
+        ],
+        "labels": {
+          "alt": "Issyk-Kul, Issyk-Kul'skaya Oblast'",
+          "local": null,
+          "len": 8,
+          "ar": "ايسيك كول أوبلاستي",
+          "bn": "ইসিক কুল অঞ্চল",
+          "de": "Gebiet Yssykköl",
+          "en": "Issyk-Kul Region",
+          "es": "Provincia de Ysyk-Kol",
+          "fr": "Yssykköl",
+          "el": "Ισσούκ-Κούλ",
+          "hi": "इसिक कुल प्रांत",
+          "hu": null,
+          "id": "Provinsi Issyk Kul",
+          "it": "provincia di Ysykköl",
+          "ja": "イシク・クル州",
+          "ko": "이식쿨 주",
+          "nl": "Ysykköl",
+          "pl": "Obwód issykkulski",
+          "pt": "Issyk-Kul",
+          "ru": "Иссык-Кульская область",
+          "sv": "Issyk-Kul",
+          "tr": "Issık-Göl İli",
+          "vi": "Issyk Kul",
+          "zh": "伊塞克湖州"
+        },
+        "population": 435059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9935,
+          41.376000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kg",
+        "region_child": "kg-n",
+        "area": 9.701799999999984,
+        "bounding_box": [
+          73.756,
+          40.292,
+          78.231,
+          42.46
+        ],
+        "point": [
+          75.9935,
+          41.376000000000005
+        ],
+        "labels": {
+          "alt": "Tien-Shanskaya Oblast', Tyan'-Shan'",
+          "local": null,
+          "len": 5,
+          "ar": "نارين أوبلاستي",
+          "bn": "নায়েন অঞ্চল",
+          "de": "Gebiet Naryn",
+          "en": "Naryn Region",
+          "es": "Provincia de Naryn",
+          "fr": "Province de Naryn",
+          "el": "Ναρίν",
+          "hi": "नारीन प्रांत",
+          "hu": "Narin tartomány",
+          "id": "Provinsi Naryn",
+          "it": "provincia di Naryn",
+          "ja": "ナルイン州",
+          "ko": "나린 주",
+          "nl": "Naryn",
+          "pl": "Obwód naryński",
+          "pt": "Naryn",
+          "ru": "Нарынская область",
+          "sv": "Naryn",
+          "tr": "Narın ili",
+          "vi": "Khu vực Naryn",
+          "zh": "納倫州"
+        },
+        "population": 255777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.173,
+          40.164500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kg",
+        "region_child": "kg-o",
+        "area": 6.552538000000007,
+        "bounding_box": [
+          71.492,
+          39.19,
+          74.854,
+          41.139
+        ],
+        "point": [
+          73.173,
+          40.164500000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "أوش",
+          "bn": "অস",
+          "de": "Osch",
+          "en": "Osh",
+          "es": "Osh",
+          "fr": "Och",
+          "el": "Ος",
+          "hi": "ओश",
+          "hu": "Os",
+          "id": "Osh",
+          "it": "Oš",
+          "ja": "オシ",
+          "ko": "오시",
+          "nl": "Osj",
+          "pl": "Osz",
+          "pt": "Osh",
+          "ru": "Ош",
+          "sv": "Osj",
+          "tr": "Oş",
+          "vi": "Osh",
+          "zh": "奧什"
+        },
+        "population": 1424046
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1455,
+          42.565
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kg",
+        "region_child": "kg-c",
+        "area": 5.3894320000000215,
+        "bounding_box": [
+          73.079,
+          41.913,
+          77.212,
+          43.217
+        ],
+        "point": [
+          75.1455,
+          42.565
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "تشوي أوبلاستي",
+          "bn": "কায় অঞ্চল",
+          "de": "Gebiet Tschüi",
+          "en": "Chuy Region",
+          "es": "Provincia de Chuy",
+          "fr": "Province de Tchouï",
+          "el": "Τσούι",
+          "hi": "चुय प्रांत",
+          "hu": "Csüi tartomány",
+          "id": "Provinsi Chui",
+          "it": "provincia di Čuj",
+          "ja": "チュイ州",
+          "ko": "추이 주",
+          "nl": "Tsjoej",
+          "pl": "Obwód czujski",
+          "pt": "Chuy",
+          "ru": "Чуйская область",
+          "sv": "Tjüj",
+          "tr": "Çuy İli",
+          "vi": "Chuy",
+          "zh": "楚河州"
+        },
+        "population": 820748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2695,
+          42.45
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kg",
+        "region_child": "kg-t",
+        "area": 2.1757440000000114,
+        "bounding_box": [
+          70.853,
+          42.066,
+          73.686,
+          42.834
+        ],
+        "point": [
+          72.2695,
+          42.45
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "طلاس أوبلاستي",
+          "bn": "তালাস অঞ্চল",
+          "de": "Gebiet Talas",
+          "en": "Talas Region",
+          "es": "Provincia de Talas",
+          "fr": "Province de Talas",
+          "el": "Ταλάς",
+          "hi": "तलास प्रांत",
+          "hu": null,
+          "id": "Provinsi Talas",
+          "it": "provincia di Talas",
+          "ja": "タラス州",
+          "ko": "탈라스 주",
+          "nl": "Talas",
+          "pl": "Obwód tałaski",
+          "pt": "Talas",
+          "ru": "Таласская область",
+          "sv": "Talas",
+          "tr": "Talas İli",
+          "vi": "Talas",
+          "zh": "塔拉斯州"
+        },
+        "population": 247538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.44999999999999,
+          41.513000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kg",
+        "region_child": "kg-j",
+        "area": 6.3811440000000115,
+        "bounding_box": [
+          70.148,
+          40.82,
+          74.752,
+          42.206
+        ],
+        "point": [
+          72.44999999999999,
+          41.513000000000005
+        ],
+        "labels": {
+          "alt": "Djalal-Abad, Dzhalal-Abadskaya Oblast'|Žalal-Abad",
+          "local": null,
+          "len": 10,
+          "ar": "جلال أباد أوبلاستي",
+          "bn": "জালাল আবাদ অঞ্চল",
+          "de": "Gebiet Dschalalabat",
+          "en": "Jalal-Abad Region",
+          "es": "Provincia de Jalal-Abad",
+          "fr": "Province de Jalal-Abad",
+          "el": "Τζαλάλ-Αμπάντ",
+          "hi": "जलालाबाद प्रांत",
+          "hu": null,
+          "id": "Provinsi Jalal-Abad",
+          "it": "provincia di Žalalabad",
+          "ja": "ジャララバード州",
+          "ko": "잘랄아바트 주",
+          "nl": "Dzjalal-Abad",
+          "pl": "Obwód dżalalabadzki",
+          "pt": "Jalal-Abad",
+          "ru": "Джалал-Абадская область",
+          "sv": "Dzjalal-Abad",
+          "tr": "Celal-Abad İli",
+          "vi": "Jalal-Abad",
+          "zh": "賈拉拉巴德州"
+        },
+        "population": 1195583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.888,
+          39.8545
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kg",
+        "region_child": "kg-b",
+        "area": 3.1212359999999983,
+        "bounding_box": [
+          69.226,
+          39.385,
+          72.55,
+          40.324
+        ],
+        "point": [
+          70.888,
+          39.8545
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "باتكين أوبلاستي",
+          "bn": "বাকেন অঞ্চল",
+          "de": "Gebiet Batken",
+          "en": "Batken Region",
+          "es": "Provincia de Batken",
+          "fr": "Province de Batken",
+          "el": "Μπάτκεν",
+          "hi": "बातकेन प्रांत",
+          "hu": null,
+          "id": "Provinsi Batken",
+          "it": "provincia di Batken",
+          "ja": "バトケン州",
+          "ko": "밧켄 주",
+          "nl": "Batken",
+          "pl": "Obwód batkeński",
+          "pt": "Batken",
+          "ru": "Баткенская область",
+          "sv": "Batken",
+          "tr": "Batken İli",
+          "vi": "Khu vực Batken",
+          "zh": "巴特肯州"
+        },
+        "population": 491876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5935,
+          42.870999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kg",
+        "region_child": "kg-gb",
+        "area": 0.020409999999999942,
+        "bounding_box": [
+          74.515,
+          42.806,
+          74.672,
+          42.936
+        ],
+        "point": [
+          74.5935,
+          42.870999999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "بيشكك",
+          "bn": "বিশকেক",
+          "de": "Bischkek",
+          "en": "Bishkek",
+          "es": "Biskek",
+          "fr": "Bichkek",
+          "el": "Μπισκέκ",
+          "hi": "बिश्केक",
+          "hu": "Biskek",
+          "id": "Bishkek",
+          "it": "Biškek",
+          "ja": "ビシュケク",
+          "ko": "비슈케크",
+          "nl": "Bisjkek",
+          "pl": "Biszkek",
+          "pt": "Bisqueque",
+          "ru": "Бишкек",
+          "sv": "Bisjkek",
+          "tr": "Bişkek",
+          "vi": "Bishkek",
+          "zh": "比什凯克"
+        },
+        "population": 901403
+      }
+    }
+  ]
+}

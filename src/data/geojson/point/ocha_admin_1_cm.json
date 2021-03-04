@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1995,
+          7.073
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cm",
+        "region_child": "cm01",
+        "area": 8.879792000000002,
+        "bounding_box": [
+          11.174,
+          5.977,
+          15.225,
+          8.169
+        ],
+        "point": [
+          13.1995,
+          7.073
+        ],
+        "labels": {
+          "en": "Adamaoua"
+        },
+        "population": 1453352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7445,
+          4.6915
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cm",
+        "region_child": "cm02",
+        "area": 9.316184999999999,
+        "bounding_box": [
+          10.252,
+          3.131,
+          13.237,
+          6.252
+        ],
+        "point": [
+          11.7445,
+          4.6915
+        ],
+        "labels": {
+          "en": "Centre"
+        },
+        "population": 5795286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.347000000000001,
+          3.8855
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cm",
+        "region_child": "cm03",
+        "area": 16.446329999999996,
+        "bounding_box": [
+          12.502,
+          1.657,
+          16.192,
+          6.114
+        ],
+        "point": [
+          14.347000000000001,
+          3.8855
+        ],
+        "labels": {
+          "en": "Est"
+        },
+        "population": 1085400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5105,
+          11.501
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cm",
+        "region_child": "cm04",
+        "area": 7.402437999999998,
+        "bounding_box": [
+          13.337,
+          9.924,
+          15.684,
+          13.078
+        ],
+        "point": [
+          14.5105,
+          11.501
+        ],
+        "labels": {
+          "en": "Extreme-Nord"
+        },
+        "population": 4881988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.211500000000001,
+          4.311
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cm",
+        "region_child": "cm05",
+        "area": 3.6853199999999986,
+        "bounding_box": [
+          9.329,
+          3.267,
+          11.094,
+          5.355
+        ],
+        "point": [
+          10.211500000000001,
+          4.311
+        ],
+        "labels": {
+          "en": "Littoral"
+        },
+        "population": 4506755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.91,
+          8.6175
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cm",
+        "region_child": "cm06",
+        "area": 10.861509999999999,
+        "bounding_box": [
+          12.225,
+          7.006,
+          15.595,
+          10.229
+        ],
+        "point": [
+          13.91,
+          8.6175
+        ],
+        "labels": {
+          "en": "Nord"
+        },
+        "population": 3092887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.395,
+          6.387499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cm",
+        "region_child": "cm07",
+        "area": 2.1226500000000006,
+        "bounding_box": [
+          9.594,
+          5.725,
+          11.196,
+          7.05
+        ],
+        "point": [
+          10.395,
+          6.387499999999999
+        ],
+        "labels": {
+          "en": "Nord-Ouest"
+        },
+        "population": 2334537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.586,
+          5.5809999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cm",
+        "region_child": "cm08",
+        "area": 1.9888960000000002,
+        "bounding_box": [
+          9.858,
+          4.898,
+          11.314,
+          6.264
+        ],
+        "point": [
+          10.586,
+          5.5809999999999995
+        ],
+        "labels": {
+          "en": "Ouest"
+        },
+        "population": 2172645
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7465,
+          2.9135
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cm",
+        "region_child": "cm09",
+        "area": 5.7850470000000005,
+        "bounding_box": [
+          9.822,
+          2.162,
+          13.671,
+          3.665
+        ],
+        "point": [
+          11.7465,
+          2.9135
+        ],
+        "labels": {
+          "en": "Sud"
+        },
+        "population": 987110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.308,
+          5.225
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cm",
+        "region_child": "cm10",
+        "area": 4.226216,
+        "bounding_box": [
+          8.499,
+          3.919,
+          10.117,
+          6.531
+        ],
+        "point": [
+          9.308,
+          5.225
+        ],
+        "labels": {
+          "en": "Sud-Ouest"
+        },
+        "population": 1931178
+      }
+    }
+  ]
+}

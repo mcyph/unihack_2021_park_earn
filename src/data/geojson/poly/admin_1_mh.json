@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              169.59,
+              5.801
+            ],
+            [
+              169.615,
+              5.799
+            ],
+            [
+              169.635,
+              5.829
+            ],
+            [
+              169.648,
+              5.87
+            ],
+            [
+              169.653,
+              5.9
+            ],
+            [
+              169.665,
+              5.939
+            ],
+            [
+              169.721,
+              5.977
+            ],
+            [
+              169.7,
+              5.976
+            ],
+            [
+              169.656,
+              5.943
+            ],
+            [
+              169.645,
+              5.917
+            ],
+            [
+              169.639,
+              5.87
+            ],
+            [
+              169.618,
+              5.818
+            ],
+            [
+              169.59,
+              5.801
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mh",
+        "region_child": "mh-l",
+        "area": 0.023318000000000033,
+        "bounding_box": [
+          169.59,
+          5.799,
+          169.721,
+          5.977
+        ],
+        "point": [
+          169.65550000000002,
+          5.888
+        ],
+        "labels": {
+          "alt": "Sunset Islands",
+          "local": null,
+          "len": 12,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              171.394,
+              7.11
+            ],
+            [
+              171.226,
+              7.076
+            ],
+            [
+              171.263,
+              7.068
+            ],
+            [
+              171.293,
+              7.084
+            ],
+            [
+              171.367,
+              7.094
+            ],
+            [
+              171.394,
+              7.11
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mh",
+        "region_child": "mh-t",
+        "area": 0.007056000000000386,
+        "bounding_box": [
+          171.226,
+          7.068,
+          171.394,
+          7.11
+        ],
+        "point": [
+          171.31,
+          7.089
+        ],
+        "labels": {
+          "alt": "Sunrise Islands",
+          "local": null,
+          "len": 11,
+          "ar": "سلسلة راتاك",
+          "bn": "রাতাক চেইন",
+          "de": "Ratak-Kette",
+          "en": "Ratak Chain",
+          "es": "Ratak Chain",
+          "fr": "Îles Ratak",
+          "el": "Ρατάκ Τσέιν",
+          "hi": "रतक चेन",
+          "hu": null,
+          "id": "Ratak Chain",
+          "it": "Isole Ratak",
+          "ja": "ラタック列島",
+          "ko": "라타크 열도",
+          "nl": "Ratak Chain",
+          "pl": "Ratak Chain",
+          "pt": "Cadeia Ratak",
+          "ru": "Цепь Ратак",
+          "sv": "Rataköarna",
+          "tr": "Ratak Chain",
+          "vi": "Chuỗi đảo Ratak",
+          "zh": "拉塔克礁鏈"
+        },
+        "population": 1592
+      }
+    }
+  ]
+}

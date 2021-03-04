@@ -1,0 +1,875 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6855,
+          -41.95
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north-west",
+        "area": 5.912137999999982,
+        "bounding_box": [
+          144.609,
+          -43.323,
+          146.762,
+          -40.577
+        ],
+        "point": [
+          145.6855,
+          -41.95
+        ],
+        "labels": {
+          "en": "North-West"
+        },
+        "population": 107098
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9855,
+          -39.8625
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north-west",
+        "area": 0.17293500000000392,
+        "bounding_box": [
+          143.833,
+          -40.146,
+          144.138,
+          -39.579
+        ],
+        "point": [
+          143.9855,
+          -39.8625
+        ],
+        "labels": {
+          "en": "North-West"
+        },
+        "population": 107098
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.752,
+          -40.5025
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north-west",
+        "area": 0.016973999999998744,
+        "bounding_box": [
+          144.711,
+          -40.606,
+          144.793,
+          -40.399
+        ],
+        "point": [
+          144.752,
+          -40.5025
+        ],
+        "labels": {
+          "en": "North-West"
+        },
+        "population": 107098
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.902,
+          -40.4375
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north-west",
+        "area": 0.012461999999999182,
+        "bounding_box": [
+          144.835,
+          -40.484,
+          144.969,
+          -40.391
+        ],
+        "point": [
+          144.902,
+          -40.4375
+        ],
+        "labels": {
+          "en": "North-West"
+        },
+        "population": 107098
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.15550000000002,
+          -41.5105
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 3.7122690000000236,
+        "bounding_box": [
+          145.951,
+          -42.281,
+          148.36,
+          -40.74
+        ],
+        "point": [
+          147.15550000000002,
+          -41.5105
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.04000000000002,
+          -39.9965
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.3240579999999939,
+        "bounding_box": [
+          147.747,
+          -40.273,
+          148.333,
+          -39.72
+        ],
+        "point": [
+          148.04000000000002,
+          -39.9965
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2345,
+          -40.3895
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.09949500000000117,
+        "bounding_box": [
+          147.987,
+          -40.49,
+          148.482,
+          -40.289
+        ],
+        "point": [
+          148.2345,
+          -40.3895
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.172,
+          -40.5355
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.01740199999999952,
+        "bounding_box": [
+          148.095,
+          -40.592,
+          148.249,
+          -40.479
+        ],
+        "point": [
+          148.172,
+          -40.5355
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.753,
+          -40.06
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.004799999999997806,
+        "bounding_box": [
+          147.723,
+          -40.1,
+          147.783,
+          -40.02
+        ],
+        "point": [
+          147.753,
+          -40.06
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33100000000002,
+          -39.476
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.002703999999999589,
+        "bounding_box": [
+          147.305,
+          -39.502,
+          147.357,
+          -39.45
+        ],
+        "point": [
+          147.33100000000002,
+          -39.476
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8725,
+          -40.31
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.0023460000000004974,
+        "bounding_box": [
+          147.838,
+          -40.327,
+          147.907,
+          -40.293
+        ],
+        "point": [
+          147.8725,
+          -40.31
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3,
+          -40.275999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.0015840000000001484,
+        "bounding_box": [
+          148.278,
+          -40.294,
+          148.322,
+          -40.258
+        ],
+        "point": [
+          148.3,
+          -40.275999999999996
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.91500000000002,
+          -39.695
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.001188000000000346,
+        "bounding_box": [
+          147.888,
+          -39.706,
+          147.942,
+          -39.684
+        ],
+        "point": [
+          147.91500000000002,
+          -39.695
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9875,
+          -39.652
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.001127999999999972,
+        "bounding_box": [
+          147.964,
+          -39.664,
+          148.011,
+          -39.64
+        ],
+        "point": [
+          147.9875,
+          -39.652
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0085,
+          -40.3595
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.000693000000000351,
+        "bounding_box": [
+          147.992,
+          -40.37,
+          148.025,
+          -40.349
+        ],
+        "point": [
+          148.0085,
+          -40.3595
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.247,
+          -40.249
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.0006839999999997108,
+        "bounding_box": [
+          148.228,
+          -40.258,
+          148.266,
+          -40.24
+        ],
+        "point": [
+          148.247,
+          -40.249
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3345,
+          -39.9455
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.000675000000000179,
+        "bounding_box": [
+          148.322,
+          -39.959,
+          148.347,
+          -39.932
+        ],
+        "point": [
+          148.3345,
+          -39.9455
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9245,
+          -40.2705
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.0006209999999995924,
+        "bounding_box": [
+          147.911,
+          -40.282,
+          147.938,
+          -40.259
+        ],
+        "point": [
+          147.9245,
+          -40.2705
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0595,
+          -40.4745
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.00045900000000014847,
+        "bounding_box": [
+          148.046,
+          -40.483,
+          148.073,
+          -40.466
+        ],
+        "point": [
+          148.0595,
+          -40.4745
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9855,
+          -39.2185
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.00034499999999962826,
+        "bounding_box": [
+          146.978,
+          -39.23,
+          146.993,
+          -39.207
+        ],
+        "point": [
+          146.9855,
+          -39.2185
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.10750000000002,
+          -40.3045
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.0003149999999998107,
+        "bounding_box": [
+          148.097,
+          -40.312,
+          148.118,
+          -40.297
+        ],
+        "point": [
+          148.10750000000002,
+          -40.3045
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2935,
+          -39.447
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.00030599999999993794,
+        "bounding_box": [
+          147.285,
+          -39.456,
+          147.302,
+          -39.438
+        ],
+        "point": [
+          147.2935,
+          -39.447
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.341,
+          -40.5035
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "north",
+        "area": 0.00027199999999989743,
+        "bounding_box": [
+          148.333,
+          -40.512,
+          148.349,
+          -40.495
+        ],
+        "point": [
+          148.341,
+          -40.5035
+        ],
+        "labels": {
+          "en": "North"
+        },
+        "population": 136287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.099,
+          -42.6695
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "south",
+        "area": 4.86458999999997,
+        "bounding_box": [
+          145.842,
+          -43.637,
+          148.356,
+          -41.702
+        ],
+        "point": [
+          147.099,
+          -42.6695
+        ],
+        "labels": {
+          "en": "South"
+        },
+        "population": 236632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2625,
+          -43.289500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "south",
+        "area": 0.15447299999998942,
+        "bounding_box": [
+          147.092,
+          -43.516,
+          147.433,
+          -43.063
+        ],
+        "point": [
+          147.2625,
+          -43.289500000000004
+        ],
+        "labels": {
+          "en": "South"
+        },
+        "population": 236632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.80849999999998,
+          -43.04
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "south",
+        "area": 0.1508760000000004,
+        "bounding_box": [
+          147.618,
+          -43.238,
+          147.999,
+          -42.842
+        ],
+        "point": [
+          147.80849999999998,
+          -43.04
+        ],
+        "labels": {
+          "en": "South"
+        },
+        "population": 236632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0855,
+          -42.656
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "south",
+        "area": 0.02498999999999878,
+        "bounding_box": [
+          148.012,
+          -42.741,
+          148.159,
+          -42.571
+        ],
+        "point": [
+          148.0855,
+          -42.656
+        ],
+        "labels": {
+          "en": "South"
+        },
+        "population": 236632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.358,
+          -43.597
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "south",
+        "area": 0.0007999999999996817,
+        "bounding_box": [
+          146.338,
+          -43.607,
+          146.378,
+          -43.587
+        ],
+        "point": [
+          146.358,
+          -43.597
+        ],
+        "labels": {
+          "en": "South"
+        },
+        "population": 236632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.277,
+          -43.647000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "ths",
+        "region_parent": "au-tas",
+        "region_child": "south",
+        "area": 0.0003959999999999874,
+        "bounding_box": [
+          146.268,
+          -43.658,
+          146.286,
+          -43.636
+        ],
+        "point": [
+          146.277,
+          -43.647000000000006
+        ],
+        "labels": {
+          "en": "South"
+        },
+        "population": 236632
+      }
+    }
+  ]
+}

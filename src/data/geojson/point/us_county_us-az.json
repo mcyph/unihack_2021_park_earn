@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.07499999999999,
+          32.752
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "027",
+        "area": 2.116183999999995,
+        "bounding_box": [
+          -114.817,
+          32.039,
+          -113.333,
+          33.465
+        ],
+        "point": [
+          -114.07499999999999,
+          32.752
+        ],
+        "labels": {
+          "en": "Yuma"
+        },
+        "population": 241678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.326,
+          32.9835
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "021",
+        "area": 1.6945400000000062,
+        "bounding_box": [
+          -112.204,
+          32.501,
+          -110.448,
+          33.466
+        ],
+        "point": [
+          -111.326,
+          32.9835
+        ],
+        "labels": {
+          "en": "Pinal"
+        },
+        "population": 799049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.289,
+          35.286
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "017",
+        "area": 3.1748640000000226,
+        "bounding_box": [
+          -110.751,
+          33.568,
+          -109.827,
+          37.004
+        ],
+        "point": [
+          -110.289,
+          35.286
+        ],
+        "labels": {
+          "en": "Navajo"
+        },
+        "population": 118510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2715,
+          33.102500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "011",
+        "area": 0.6074969999999981,
+        "bounding_box": [
+          -109.496,
+          32.426,
+          -109.047,
+          33.779
+        ],
+        "point": [
+          -109.2715,
+          33.102500000000006
+        ],
+        "labels": {
+          "en": "Greenlee"
+        },
+        "population": 8321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.18700000000001,
+          33.275999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "013",
+        "area": 3.537347999999983,
+        "bounding_box": [
+          -113.334,
+          32.505,
+          -111.04,
+          34.047
+        ],
+        "point": [
+          -112.18700000000001,
+          33.275999999999996
+        ],
+        "labels": {
+          "en": "Maricopa"
+        },
+        "population": 4730938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89099999999999,
+          31.97
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "019",
+        "area": 3.1399680000000236,
+        "bounding_box": [
+          -113.334,
+          31.426,
+          -110.448,
+          32.514
+        ],
+        "point": [
+          -111.89099999999999,
+          31.97
+        ],
+        "labels": {
+          "en": "Pima"
+        },
+        "population": 1138099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.75450000000001,
+          31.880499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "003",
+        "area": 1.5472349999999948,
+        "bounding_box": [
+          -110.461,
+          31.333,
+          -109.048,
+          32.428
+        ],
+        "point": [
+          -109.75450000000001,
+          31.880499999999998
+        ],
+        "labels": {
+          "en": "Cochise"
+        },
+        "population": 147845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.05250000000001,
+          35.631
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "005",
+        "area": 7.142631999999984,
+        "bounding_box": [
+          -113.354,
+          34.259,
+          -110.751,
+          37.003
+        ],
+        "point": [
+          -112.05250000000001,
+          35.631
+        ],
+        "labels": {
+          "en": "Coconino"
+        },
+        "population": 154831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.861,
+          33.7415
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "007",
+        "area": 2.602359999999995,
+        "bounding_box": [
+          -111.721,
+          32.985,
+          -110.001,
+          34.498
+        ],
+        "point": [
+          -110.861,
+          33.7415
+        ],
+        "labels": {
+          "en": "Gila"
+        },
+        "population": 55420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7855,
+          33.0385
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "009",
+        "area": 1.6505469999999858,
+        "bounding_box": [
+          -110.457,
+          32.424,
+          -109.114,
+          33.653
+        ],
+        "point": [
+          -109.7855,
+          33.0385
+        ],
+        "labels": {
+          "en": "Graham"
+        },
+        "population": 41970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.642,
+          35.6055
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "015",
+        "area": 6.2127659999999905,
+        "bounding_box": [
+          -114.755,
+          34.21,
+          -112.529,
+          37.001
+        ],
+        "point": [
+          -113.642,
+          35.6055
+        ],
+        "labels": {
+          "en": "Mohave"
+        },
+        "population": 257504
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3985,
+          34.7065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "025",
+        "area": 3.085279000000017,
+        "bounding_box": [
+          -113.334,
+          33.882,
+          -111.463,
+          35.531
+        ],
+        "point": [
+          -112.3985,
+          34.7065
+        ],
+        "labels": {
+          "en": "Yavapai"
+        },
+        "population": 266327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.032,
+          33.671499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "012",
+        "area": 1.807613999999994,
+        "bounding_box": [
+          -114.731,
+          33.025,
+          -113.333,
+          34.318
+        ],
+        "point": [
+          -114.032,
+          33.671499999999995
+        ],
+        "labels": {
+          "en": "La Paz"
+        },
+        "population": 21149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.90950000000001,
+          31.532
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "023",
+        "area": 0.3660000000000012,
+        "bounding_box": [
+          -111.367,
+          31.332,
+          -110.452,
+          31.732
+        ],
+        "point": [
+          -110.90950000000001,
+          31.532
+        ],
+        "labels": {
+          "en": "Santa Cruz"
+        },
+        "population": 58573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.523,
+          35.237
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-az",
+        "region_child": "001",
+        "area": 3.3689440000000115,
+        "bounding_box": [
+          -110.001,
+          33.475,
+          -109.045,
+          36.999
+        ],
+        "point": [
+          -109.523,
+          35.237
+        ],
+        "labels": {
+          "en": "Apache"
+        },
+        "population": 74167
+      }
+    }
+  ]
+}

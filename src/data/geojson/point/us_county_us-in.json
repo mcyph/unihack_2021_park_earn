@@ -1,0 +1,2765 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.10300000000001,
+          41.0115
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "073",
+        "area": 0.18995399999999402,
+        "bounding_box": [
+          -87.276,
+          40.737,
+          -86.93,
+          41.286
+        ],
+        "point": [
+          -87.10300000000001,
+          41.0115
+        ],
+        "labels": {
+          "en": "Jasper"
+        },
+        "population": 37221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.001,
+          41.643
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "151",
+        "area": 0.09172799999999695,
+        "bounding_box": [
+          -85.197,
+          41.526,
+          -84.805,
+          41.76
+        ],
+        "point": [
+          -85.001,
+          41.643
+        ],
+        "labels": {
+          "en": "Steuben"
+        },
+        "population": 35214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.985,
+          38.966
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "115",
+        "area": 0.040299999999998885,
+        "bounding_box": [
+          -85.14,
+          38.901,
+          -84.83,
+          39.031
+        ],
+        "point": [
+          -84.985,
+          38.966
+        ],
+        "labels": {
+          "en": "Ohio"
+        },
+        "population": 6711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6225,
+          38.054500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "123",
+        "area": 0.16285499999999412,
+        "bounding_box": [
+          -86.815,
+          37.843,
+          -86.43,
+          38.266
+        ],
+        "point": [
+          -86.6225,
+          38.054500000000004
+        ],
+        "labels": {
+          "en": "Perry"
+        },
+        "population": 19682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.31049999999999,
+          40.6065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "007",
+        "area": 0.11301300000000301,
+        "bounding_box": [
+          -87.527,
+          40.476,
+          -87.094,
+          40.737
+        ],
+        "point": [
+          -87.31049999999999,
+          40.6065
+        ],
+        "labels": {
+          "en": "Benton"
+        },
+        "population": 8449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48949999999999,
+          40.829
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "069",
+        "area": 0.10876800000000532,
+        "bounding_box": [
+          -85.644,
+          40.653,
+          -85.335,
+          41.005
+        ],
+        "point": [
+          -85.48949999999999,
+          40.829
+        ],
+        "labels": {
+          "en": "Huntington"
+        },
+        "population": 36430
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79249999999999,
+          40.849000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "169",
+        "area": 0.12157199999999892,
+        "bounding_box": [
+          -85.946,
+          40.651,
+          -85.639,
+          41.047
+        ],
+        "point": [
+          -85.79249999999999,
+          40.849000000000004
+        ],
+        "labels": {
+          "en": "Wabash"
+        },
+        "population": 30774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.071,
+          41.0935
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "003",
+        "area": 0.1902800000000026,
+        "bounding_box": [
+          -85.339,
+          40.916,
+          -84.803,
+          41.271
+        ],
+        "point": [
+          -85.071,
+          41.0935
+        ],
+        "labels": {
+          "en": "Allen"
+        },
+        "population": 380398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.26050000000001,
+          41.325
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "099",
+        "area": 0.1272039999999989,
+        "bounding_box": [
+          -86.467,
+          41.171,
+          -86.054,
+          41.479
+        ],
+        "point": [
+          -86.26050000000001,
+          41.325
+        ],
+        "labels": {
+          "en": "Marshall"
+        },
+        "population": 48880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4955,
+          38.5415
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "117",
+        "area": 0.11062500000000064,
+        "bounding_box": [
+          -86.683,
+          38.394,
+          -86.308,
+          38.689
+        ],
+        "point": [
+          -86.4955,
+          38.5415
+        ],
+        "labels": {
+          "en": "Orange"
+        },
+        "population": 20431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.39699999999999,
+          40.978
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "111",
+        "area": 0.1253200000000023,
+        "bounding_box": [
+          -87.527,
+          40.737,
+          -87.267,
+          41.219
+        ],
+        "point": [
+          -87.39699999999999,
+          40.978
+        ],
+        "labels": {
+          "en": "Newton"
+        },
+        "population": 13887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.245,
+          38.062
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "173",
+        "area": 0.1678080000000021,
+        "bounding_box": [
+          -87.473,
+          37.878,
+          -87.017,
+          38.246
+        ],
+        "point": [
+          -87.245,
+          38.062
+        ],
+        "labels": {
+          "en": "Warrick"
+        },
+        "population": 68321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2585,
+          40.7425
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "179",
+        "area": 0.13373099999999974,
+        "bounding_box": [
+          -85.449,
+          40.567,
+          -85.068,
+          40.918
+        ],
+        "point": [
+          -85.2585,
+          40.7425
+        ],
+        "labels": {
+          "en": "Wells"
+        },
+        "population": 27439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3115,
+          40.302
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "171",
+        "area": 0.15365,
+        "bounding_box": [
+          -87.531,
+          40.127,
+          -87.092,
+          40.477
+        ],
+        "point": [
+          -87.3115,
+          40.302
+        ],
+        "labels": {
+          "en": "Warren"
+        },
+        "population": 8479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.37299999999999,
+          41.4615
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "089",
+        "area": 0.18449200000000532,
+        "bounding_box": [
+          -87.527,
+          41.162,
+          -87.219,
+          41.761
+        ],
+        "point": [
+          -87.37299999999999,
+          41.4615
+        ],
+        "labels": {
+          "en": "Lake"
+        },
+        "population": 511279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.895,
+          40.3885
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "157",
+        "area": 0.13960000000000347,
+        "bounding_box": [
+          -87.095,
+          40.214,
+          -86.695,
+          40.563
+        ],
+        "point": [
+          -86.895,
+          40.3885
+        ],
+        "labels": {
+          "en": "Tippecanoe"
+        },
+        "population": 200253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7095,
+          41.499
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "091",
+        "area": 0.23422800000000182,
+        "bounding_box": [
+          -86.933,
+          41.237,
+          -86.486,
+          41.761
+        ],
+        "point": [
+          -86.7095,
+          41.499
+        ],
+        "labels": {
+          "en": "LaPorte"
+        },
+        "population": 112720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0525,
+          40.072500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "057",
+        "area": 0.11163299999999979,
+        "bounding_box": [
+          -86.243,
+          39.926,
+          -85.862,
+          40.219
+        ],
+        "point": [
+          -86.0525,
+          40.072500000000005
+        ],
+        "labels": {
+          "en": "Hamilton"
+        },
+        "population": 419722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.893,
+          38.0015
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "129",
+        "area": 0.18736999999999582,
+        "bounding_box": [
+          -88.098,
+          37.773,
+          -87.688,
+          38.23
+        ],
+        "point": [
+          -87.893,
+          38.0015
+        ],
+        "labels": {
+          "en": "Posey"
+        },
+        "population": 24199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4915,
+          39.292
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "031",
+        "area": 0.1259019999999982,
+        "bounding_box": [
+          -85.687,
+          39.131,
+          -85.296,
+          39.453
+        ],
+        "point": [
+          -85.4915,
+          39.292
+        ],
+        "labels": {
+          "en": "Decatur"
+        },
+        "population": 26324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.876,
+          38.36450000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "037",
+        "area": 0.12726199999999732,
+        "bounding_box": [
+          -87.073,
+          38.203,
+          -86.679,
+          38.526
+        ],
+        "point": [
+          -86.876,
+          38.36450000000001
+        ],
+        "labels": {
+          "en": "Dubois"
+        },
+        "population": 43938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.729,
+          38.694500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "143",
+        "area": 0.08490600000000417,
+        "bounding_box": [
+          -85.888,
+          38.561,
+          -85.57,
+          38.828
+        ],
+        "point": [
+          -85.729,
+          38.694500000000005
+        ],
+        "labels": {
+          "en": "Scott"
+        },
+        "population": 25141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.255,
+          39.1115
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "137",
+        "area": 0.1508600000000003,
+        "bounding_box": [
+          -85.445,
+          38.913,
+          -85.065,
+          39.31
+        ],
+        "point": [
+          -85.255,
+          39.1115
+        ],
+        "labels": {
+          "en": "Ripley"
+        },
+        "population": 30951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.925,
+          39.6255
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "161",
+        "area": 0.0459540000000019,
+        "bounding_box": [
+          -85.036,
+          39.522,
+          -84.814,
+          39.729
+        ],
+        "point": [
+          -84.925,
+          39.6255
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 7299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0565,
+          39.3975
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "047",
+        "area": 0.12509700000000123,
+        "bounding_box": [
+          -85.298,
+          39.268,
+          -84.815,
+          39.527
+        ],
+        "point": [
+          -85.0565,
+          39.3975
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 24124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88550000000001,
+          39.193
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "005",
+        "area": 0.12591399999999883,
+        "bounding_box": [
+          -86.086,
+          39.036,
+          -85.685,
+          39.35
+        ],
+        "point": [
+          -85.88550000000001,
+          39.193
+        ],
+        "labels": {
+          "en": "Bartholomew"
+        },
+        "population": 83391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3735,
+          40.736000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "017",
+        "area": 0.14594999999999617,
+        "bounding_box": [
+          -86.582,
+          40.561,
+          -86.165,
+          40.911
+        ],
+        "point": [
+          -86.3735,
+          40.736000000000004
+        ],
+        "labels": {
+          "en": "Cass"
+        },
+        "population": 37051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.574,
+          40.5845
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "015",
+        "area": 0.12280000000000262,
+        "bounding_box": [
+          -86.774,
+          40.431,
+          -86.374,
+          40.738
+        ],
+        "point": [
+          -86.574,
+          40.5845
+        ],
+        "labels": {
+          "en": "Carroll"
+        },
+        "population": 19920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.894,
+          40.040000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "107",
+        "area": 0.1393000000000042,
+        "bounding_box": [
+          -87.093,
+          39.865,
+          -86.695,
+          40.215
+        ],
+        "point": [
+          -86.894,
+          40.040000000000006
+        ],
+        "labels": {
+          "en": "Montgomery"
+        },
+        "population": 38742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.652,
+          38.3495
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "051",
+        "area": 0.24796799999999874,
+        "bounding_box": [
+          -87.988,
+          38.165,
+          -87.316,
+          38.534
+        ],
+        "point": [
+          -87.652,
+          38.3495
+        ],
+        "labels": {
+          "en": "Gibson"
+        },
+        "population": 34613
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4445,
+          39.8775
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "165",
+        "area": 0.09575700000000432,
+        "bounding_box": [
+          -87.533,
+          39.607,
+          -87.356,
+          40.148
+        ],
+        "point": [
+          -87.4445,
+          39.8775
+        ],
+        "labels": {
+          "en": "Vermillion"
+        },
+        "population": 15699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.399,
+          39.932
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "065",
+        "area": 0.11483999999999989,
+        "bounding_box": [
+          -85.597,
+          39.787,
+          -85.201,
+          40.077
+        ],
+        "point": [
+          -85.399,
+          39.932
+        ],
+        "labels": {
+          "en": "Henry"
+        },
+        "population": 50253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2075,
+          41.041
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "049",
+        "area": 0.1380720000000005,
+        "bounding_box": [
+          -86.469,
+          40.909,
+          -85.946,
+          41.173
+        ],
+        "point": [
+          -86.2075,
+          41.041
+        ],
+        "labels": {
+          "en": "Fulton"
+        },
+        "population": 21424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.076,
+          41.4905
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "127",
+        "area": 0.1590539999999995,
+        "bounding_box": [
+          -87.223,
+          41.22,
+          -86.929,
+          41.761
+        ],
+        "point": [
+          -87.076,
+          41.4905
+        ],
+        "labels": {
+          "en": "Porter"
+        },
+        "population": 182380
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9615,
+          39.037
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "055",
+        "area": 0.1509299999999971,
+        "bounding_box": [
+          -87.241,
+          38.902,
+          -86.682,
+          39.172
+        ],
+        "point": [
+          -86.9615,
+          39.037
+        ],
+        "labels": {
+          "en": "Greene"
+        },
+        "population": 33172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46549999999999,
+          39.62
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "139",
+        "area": 0.1125599999999974,
+        "bounding_box": [
+          -85.633,
+          39.452,
+          -85.298,
+          39.788
+        ],
+        "point": [
+          -85.46549999999999,
+          39.62
+        ],
+        "labels": {
+          "en": "Rush"
+        },
+        "population": 16523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5755,
+          37.997
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "163",
+        "area": 0.08584199999999646,
+        "bounding_box": [
+          -87.701,
+          37.826,
+          -87.45,
+          38.168
+        ],
+        "point": [
+          -87.5755,
+          37.997
+        ],
+        "labels": {
+          "en": "Vanderburgh"
+        },
+        "population": 187912
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10149999999999,
+          39.489999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "081",
+        "area": 0.08909600000000038,
+        "bounding_box": [
+          -86.252,
+          39.342,
+          -85.951,
+          39.638
+        ],
+        "point": [
+          -86.10149999999999,
+          39.489999999999995
+        ],
+        "labels": {
+          "en": "Johnson"
+        },
+        "population": 165067
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.843,
+          39.3195
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "119",
+        "area": 0.13016800000000295,
+        "bounding_box": [
+          -87.055,
+          39.166,
+          -86.631,
+          39.473
+        ],
+        "point": [
+          -86.843,
+          39.3195
+        ],
+        "labels": {
+          "en": "Owen"
+        },
+        "population": 21382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.469,
+          40.304500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "023",
+        "area": 0.11576999999999951,
+        "bounding_box": [
+          -86.696,
+          40.177,
+          -86.242,
+          40.432
+        ],
+        "point": [
+          -86.469,
+          40.304500000000004
+        ],
+        "labels": {
+          "en": "Clinton"
+        },
+        "population": 32737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.76499999999999,
+          39.8215
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "059",
+        "area": 0.09412199999999822,
+        "bounding_box": [
+          -85.954,
+          39.697,
+          -85.576,
+          39.946
+        ],
+        "point": [
+          -85.76499999999999,
+          39.8215
+        ],
+        "labels": {
+          "en": "Hancock"
+        },
+        "population": 85809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0115,
+          40.157
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "135",
+        "area": 0.12698999999999944,
+        "bounding_box": [
+          -85.219,
+          40.004,
+          -84.804,
+          40.31
+        ],
+        "point": [
+          -85.0115,
+          40.157
+        ],
+        "labels": {
+          "en": "Randolph"
+        },
+        "population": 23931
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4425,
+          38.75
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "077",
+        "area": 0.15842400000000276,
+        "bounding_box": [
+          -85.684,
+          38.586,
+          -85.201,
+          38.914
+        ],
+        "point": [
+          -85.4425,
+          38.75
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 33127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.404,
+          39.433499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "167",
+        "area": 0.14308999999999744,
+        "bounding_box": [
+          -87.609,
+          39.259,
+          -87.199,
+          39.608
+        ],
+        "point": [
+          -87.404,
+          39.433499999999995
+        ],
+        "labels": {
+          "en": "Vigo"
+        },
+        "population": 109864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85849999999999,
+          41.598
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "039",
+        "area": 0.13333400000000217,
+        "bounding_box": [
+          -86.063,
+          41.435,
+          -85.654,
+          41.761
+        ],
+        "point": [
+          -85.85849999999999,
+          41.598
+        ],
+        "labels": {
+          "en": "Elkhart"
+        },
+        "population": 212141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89699999999999,
+          38.299
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "043",
+        "area": 0.0647360000000012,
+        "bounding_box": [
+          -86.033,
+          38.18,
+          -85.761,
+          38.418
+        ],
+        "point": [
+          -85.89699999999999,
+          38.299
+        ],
+        "labels": {
+          "en": "Floyd"
+        },
+        "population": 78268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.42699999999999,
+          41.6415
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "087",
+        "area": 0.11044199999999614,
+        "bounding_box": [
+          -85.66,
+          41.523,
+          -85.194,
+          41.76
+        ],
+        "point": [
+          -85.42699999999999,
+          41.6415
+        ],
+        "labels": {
+          "en": "LaGrange"
+        },
+        "population": 40289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11500000000001,
+          38.191500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "061",
+        "area": 0.199089999999997,
+        "bounding_box": [
+          -86.33,
+          37.96,
+          -85.9,
+          38.423
+        ],
+        "point": [
+          -86.11500000000001,
+          38.191500000000005
+        ],
+        "labels": {
+          "en": "Harrison"
+        },
+        "population": 44826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.42750000000001,
+          38.661
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "083",
+        "area": 0.3245579999999981,
+        "bounding_box": [
+          -87.756,
+          38.414,
+          -87.099,
+          38.908
+        ],
+        "point": [
+          -87.42750000000001,
+          38.661
+        ],
+        "labels": {
+          "en": "Knox"
+        },
+        "population": 37521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.699,
+          41.041
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "131",
+        "area": 0.12156799999999986,
+        "bounding_box": [
+          -86.931,
+          40.91,
+          -86.467,
+          41.172
+        ],
+        "point": [
+          -86.699,
+          41.041
+        ],
+        "labels": {
+          "en": "Pulaski"
+        },
+        "population": 13592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22999999999999,
+          39.196
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "013",
+        "area": 0.0893920000000018,
+        "bounding_box": [
+          -86.381,
+          39.048,
+          -86.079,
+          39.344
+        ],
+        "point": [
+          -86.22999999999999,
+          39.196
+        ],
+        "labels": {
+          "en": "Brown"
+        },
+        "population": 15365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7055,
+          38.437
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "019",
+        "area": 0.19686000000000048,
+        "bounding_box": [
+          -85.995,
+          38.267,
+          -85.416,
+          38.607
+        ],
+        "point": [
+          -85.7055,
+          38.437
+        ],
+        "labels": {
+          "en": "Clark"
+        },
+        "population": 125889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.469,
+          39.486000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "109",
+        "area": 0.12964800000000043,
+        "bounding_box": [
+          -86.688,
+          39.338,
+          -86.25,
+          39.634
+        ],
+        "point": [
+          -86.469,
+          39.486000000000004
+        ],
+        "labels": {
+          "en": "Morgan"
+        },
+        "population": 71610
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6545,
+          40.516000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "053",
+        "area": 0.11619599999999927,
+        "bounding_box": [
+          -85.865,
+          40.378,
+          -85.444,
+          40.654
+        ],
+        "point": [
+          -85.6545,
+          40.516000000000005
+        ],
+        "labels": {
+          "en": "Grant"
+        },
+        "population": 66743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.293,
+          41.597
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "141",
+        "area": 0.15350400000000253,
+        "bounding_box": [
+          -86.527,
+          41.433,
+          -86.059,
+          41.761
+        ],
+        "point": [
+          -86.293,
+          41.597
+        ],
+        "labels": {
+          "en": "St. Joseph"
+        },
+        "population": 265887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.69800000000001,
+          41.302
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "149",
+        "area": 0.12156800000000358,
+        "bounding_box": [
+          -86.93,
+          41.171,
+          -86.466,
+          41.433
+        ],
+        "point": [
+          -86.69800000000001,
+          41.302
+        ],
+        "labels": {
+          "en": "Starke"
+        },
+        "population": 22726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.265,
+          40.159499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "045",
+        "area": 0.14524999999999735,
+        "bounding_box": [
+          -87.44,
+          39.952,
+          -87.09,
+          40.367
+        ],
+        "point": [
+          -87.265,
+          40.159499999999994
+        ],
+        "labels": {
+          "en": "Fountain"
+        },
+        "population": 16739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0515,
+          40.311499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "159",
+        "area": 0.07315299999999739,
+        "bounding_box": [
+          -86.243,
+          40.216,
+          -85.86,
+          40.407
+        ],
+        "point": [
+          -86.0515,
+          40.311499999999995
+        ],
+        "labels": {
+          "en": "Tipton"
+        },
+        "population": 16293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4635,
+          38.263999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "025",
+        "area": 0.13833000000000287,
+        "bounding_box": [
+          -86.681,
+          38.105,
+          -86.246,
+          38.423
+        ],
+        "point": [
+          -86.4635,
+          38.263999999999996
+        ],
+        "labels": {
+          "en": "Crawford"
+        },
+        "population": 10546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.994,
+          38.809
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "155",
+        "area": 0.10115600000000043,
+        "bounding_box": [
+          -85.203,
+          38.688,
+          -84.785,
+          38.93
+        ],
+        "point": [
+          -84.994,
+          38.809
+        ],
+        "labels": {
+          "en": "Switzerland"
+        },
+        "population": 12089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3965,
+          40.228
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "035",
+        "area": 0.1109599999999992,
+        "bounding_box": [
+          -85.579,
+          40.076,
+          -85.214,
+          40.38
+        ],
+        "point": [
+          -85.3965,
+          40.228
+        ],
+        "labels": {
+          "en": "Delaware"
+        },
+        "population": 116927
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.018,
+          37.9935
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "147",
+        "area": 0.21234600000000495,
+        "bounding_box": [
+          -87.269,
+          37.782,
+          -86.767,
+          38.205
+        ],
+        "point": [
+          -87.018,
+          37.9935
+        ],
+        "labels": {
+          "en": "Spencer"
+        },
+        "population": 21556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86449999999999,
+          41.2395
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "085",
+        "area": 0.16866500000000095,
+        "bounding_box": [
+          -86.078,
+          41.042,
+          -85.651,
+          41.437
+        ],
+        "point": [
+          -85.86449999999999,
+          41.2395
+        ],
+        "labels": {
+          "en": "Kosciusko"
+        },
+        "population": 80353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.46799999999999,
+          40.052
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "011",
+        "area": 0.11764799999999877,
+        "bounding_box": [
+          -86.696,
+          39.923,
+          -86.24,
+          40.181
+        ],
+        "point": [
+          -86.46799999999999,
+          40.052
+        ],
+        "labels": {
+          "en": "Boone"
+        },
+        "population": 68287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.011,
+          40.4395
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "075",
+        "area": 0.11076999999999816,
+        "bounding_box": [
+          -85.22,
+          40.307,
+          -84.802,
+          40.572
+        ],
+        "point": [
+          -85.011,
+          40.4395
+        ],
+        "labels": {
+          "en": "Jay"
+        },
+        "population": 20871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4495,
+          39.0805
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "153",
+        "area": 0.14958300000000369,
+        "bounding_box": [
+          -87.659,
+          38.902,
+          -87.24,
+          39.259
+        ],
+        "point": [
+          -87.4495,
+          39.0805
+        ],
+        "labels": {
+          "en": "Sullivan"
+        },
+        "population": 21087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.84,
+          40.7365
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "181",
+        "area": 0.18251999999999813,
+        "bounding_box": [
+          -87.1,
+          40.561,
+          -86.58,
+          40.912
+        ],
+        "point": [
+          -86.84,
+          40.7365
+        ],
+        "labels": {
+          "en": "White"
+        },
+        "population": 24107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.42349999999999,
+          41.395
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "113",
+        "area": 0.12130600000000233,
+        "bounding_box": [
+          -85.655,
+          41.264,
+          -85.192,
+          41.526
+        ],
+        "point": [
+          -85.42349999999999,
+          41.395
+        ],
+        "labels": {
+          "en": "Noble"
+        },
+        "population": 48029
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09049999999999,
+          39.3875
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "021",
+        "area": 0.13213900000000087,
+        "bounding_box": [
+          -87.241,
+          39.168,
+          -86.94,
+          39.607
+        ],
+        "point": [
+          -87.09049999999999,
+          39.3875
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 27354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.62,
+          39.001999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "079",
+        "area": 0.1396799999999991,
+        "bounding_box": [
+          -85.8,
+          38.808,
+          -85.44,
+          39.196
+        ],
+        "point": [
+          -85.62,
+          39.001999999999995
+        ],
+        "labels": {
+          "en": "Jennings"
+        },
+        "population": 29640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0915,
+          38.6985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "027",
+        "area": 0.1541250000000005,
+        "bounding_box": [
+          -87.279,
+          38.493,
+          -86.904,
+          38.904
+        ],
+        "point": [
+          -87.0915,
+          38.6985
+        ],
+        "labels": {
+          "en": "Daviess"
+        },
+        "population": 33560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.999,
+          41.397000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "033",
+        "area": 0.10373999999999946,
+        "bounding_box": [
+          -85.194,
+          41.264,
+          -84.804,
+          41.53
+        ],
+        "point": [
+          -84.999,
+          41.397000000000006
+        ],
+        "labels": {
+          "en": "DeKalb"
+        },
+        "population": 43883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.119,
+          40.47
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "067",
+        "area": 0.09868800000000201,
+        "bounding_box": [
+          -86.376,
+          40.374,
+          -85.862,
+          40.566
+        ],
+        "point": [
+          -86.119,
+          40.47
+        ],
+        "labels": {
+          "en": "Howard"
+        },
+        "population": 80552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2675,
+          38.3915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "125",
+        "area": 0.12551099999999635,
+        "bounding_box": [
+          -87.463,
+          38.231,
+          -87.072,
+          38.552
+        ],
+        "point": [
+          -87.2675,
+          38.3915
+        ],
+        "labels": {
+          "en": "Pike"
+        },
+        "population": 12712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.976,
+          39.1215
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "029",
+        "area": 0.11649399999999809,
+        "bounding_box": [
+          -85.133,
+          38.936,
+          -84.819,
+          39.307
+        ],
+        "point": [
+          -84.976,
+          39.1215
+        ],
+        "labels": {
+          "en": "Dearborn"
+        },
+        "population": 55184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0565,
+          38.8975
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "071",
+        "area": 0.18043499999999807,
+        "bounding_box": [
+          -86.318,
+          38.725,
+          -85.795,
+          39.07
+        ],
+        "point": [
+          -86.0565,
+          38.8975
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 43289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.803,
+          38.7
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "101",
+        "area": 0.09922000000000271,
+        "bounding_box": [
+          -86.924,
+          38.495,
+          -86.682,
+          38.905
+        ],
+        "point": [
+          -86.803,
+          38.7
+        ],
+        "labels": {
+          "en": "Martin"
+        },
+        "population": 10363
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.016,
+          39.8605
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "177",
+        "area": 0.1193099999999977,
+        "bounding_box": [
+          -85.221,
+          39.715,
+          -84.811,
+          40.006
+        ],
+        "point": [
+          -85.016,
+          39.8605
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 67011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.791,
+          39.522999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "145",
+        "area": 0.11404799999999828,
+        "bounding_box": [
+          -85.953,
+          39.347,
+          -85.629,
+          39.699
+        ],
+        "point": [
+          -85.791,
+          39.522999999999996
+        ],
+        "labels": {
+          "en": "Shelby"
+        },
+        "population": 46105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5015,
+          39.173500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "105",
+        "area": 0.13468500000000583,
+        "bounding_box": [
+          -86.686,
+          38.991,
+          -86.317,
+          39.356
+        ],
+        "point": [
+          -86.5015,
+          39.173500000000004
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 158151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01650000000001,
+          40.781000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "103",
+        "area": 0.13297999999999677,
+        "bounding_box": [
+          -86.169,
+          40.563,
+          -85.864,
+          40.999
+        ],
+        "point": [
+          -86.01650000000001,
+          40.781000000000006
+        ],
+        "labels": {
+          "en": "Miami"
+        },
+        "population": 37385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72,
+          40.162000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "095",
+        "area": 0.12556800000000473,
+        "bounding_box": [
+          -85.864,
+          39.944,
+          -85.576,
+          40.38
+        ],
+        "point": [
+          -85.72,
+          40.162000000000006
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 130689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.82849999999999,
+          39.668499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "133",
+        "area": 0.14808100000000127,
+        "bounding_box": [
+          -87.015,
+          39.47,
+          -86.642,
+          39.867
+        ],
+        "point": [
+          -86.82849999999999,
+          39.668499999999995
+        ],
+        "labels": {
+          "en": "Putnam"
+        },
+        "population": 40059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13300000000001,
+          39.7795
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "097",
+        "area": 0.11505000000000083,
+        "bounding_box": [
+          -86.328,
+          39.632,
+          -85.938,
+          39.927
+        ],
+        "point": [
+          -86.13300000000001,
+          39.7795
+        ],
+        "labels": {
+          "en": "Marion"
+        },
+        "population": 946411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.221,
+          39.778999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "121",
+        "area": 0.14755200000000487,
+        "bounding_box": [
+          -87.433,
+          39.605,
+          -87.009,
+          39.953
+        ],
+        "point": [
+          -87.221,
+          39.778999999999996
+        ],
+        "labels": {
+          "en": "Parke"
+        },
+        "population": 17328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4975,
+          41.1485
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "183",
+        "area": 0.111046999999997,
+        "bounding_box": [
+          -85.687,
+          41.002,
+          -85.308,
+          41.295
+        ],
+        "point": [
+          -85.4975,
+          41.1485
+        ],
+        "labels": {
+          "en": "Whitley"
+        },
+        "population": 36797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1685,
+          39.656499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "041",
+        "area": 0.07022100000000216,
+        "bounding_box": [
+          -85.302,
+          39.525,
+          -85.035,
+          39.788
+        ],
+        "point": [
+          -85.1685,
+          39.656499999999994
+        ],
+        "labels": {
+          "en": "Fayette"
+        },
+        "population": 23257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.938,
+          40.7455
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "001",
+        "area": 0.09655999999999801,
+        "bounding_box": [
+          -85.074,
+          40.568,
+          -84.802,
+          40.923
+        ],
+        "point": [
+          -84.938,
+          40.7455
+        ],
+        "labels": {
+          "en": "Adams"
+        },
+        "population": 35121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07900000000001,
+          38.6005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "175",
+        "area": 0.1686300000000021,
+        "bounding_box": [
+          -86.31,
+          38.418,
+          -85.848,
+          38.783
+        ],
+        "point": [
+          -86.07900000000001,
+          38.6005
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 29790
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.324,
+          40.4725
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "009",
+        "area": 0.04649400000000178,
+        "bounding_box": [
+          -85.447,
+          40.378,
+          -85.201,
+          40.567
+        ],
+        "point": [
+          -85.324,
+          40.4725
+        ],
+        "labels": {
+          "en": "Blackford"
+        },
+        "population": 11374
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50999999999999,
+          39.7625
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "063",
+        "area": 0.11950999999999702,
+        "bounding_box": [
+          -86.695,
+          39.601,
+          -86.325,
+          39.924
+        ],
+        "point": [
+          -86.50999999999999,
+          39.7625
+        ],
+        "labels": {
+          "en": "Hendricks"
+        },
+        "population": 203572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.47900000000001,
+          38.8395
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-in",
+        "region_child": "093",
+        "area": 0.12444000000000026,
+        "bounding_box": [
+          -86.683,
+          38.687,
+          -86.275,
+          38.992
+        ],
+        "point": [
+          -86.47900000000001,
+          38.8395
+        ],
+        "labels": {
+          "en": "Lawrence"
+        },
+        "population": 46327
+      }
+    }
+  ]
+}

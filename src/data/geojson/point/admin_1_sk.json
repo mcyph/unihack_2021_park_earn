@@ -1,0 +1,429 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.207,
+          49.172
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sk",
+        "region_child": "sk-zi",
+        "area": 1.446640000000004,
+        "bounding_box": [
+          18.362,
+          48.744,
+          20.052,
+          49.6
+        ],
+        "point": [
+          19.207,
+          49.172
+        ],
+        "labels": {
+          "alt": "Žilina",
+          "local": null,
+          "len": 8,
+          "ar": "إقليم جيلينا",
+          "bn": "জিলিনা অঞ্চল",
+          "de": "Žilinský kraj",
+          "en": "Žilina Region",
+          "es": "Región de Žilina",
+          "fr": "Région de Žilina",
+          "el": "Επαρχία Ζιλίνα",
+          "hi": "ज़िलिना प्रदेश",
+          "hu": "Zsolna megye",
+          "id": "Region Žilina",
+          "it": "regione di Žilina",
+          "ja": "ジリナ県",
+          "ko": "질리나 주",
+          "nl": "Žilina",
+          "pl": "Kraj żyliński",
+          "pt": "Žilina",
+          "ru": "Жилинский край",
+          "sv": "Žilina",
+          "tr": "Žilina Bölgesi",
+          "vi": "Khu vực Zilina",
+          "zh": "日利納州"
+        },
+        "population": 677781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.204,
+          49.1035
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sk",
+        "region_child": "sk-pv",
+        "area": 1.835664000000013,
+        "bounding_box": [
+          19.868,
+          48.76,
+          22.54,
+          49.447
+        ],
+        "point": [
+          21.204,
+          49.1035
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم بريشوف",
+          "bn": "প্রেসো অঞ্চল",
+          "de": "Prešovský kraj",
+          "en": "Prešov Region",
+          "es": "Región de Prešov",
+          "fr": "Région de Prešov",
+          "el": "Περιφέρεια Πρέσοβ",
+          "hi": "प्रीसोव क्षेत्र",
+          "hu": "Eperjes megye",
+          "id": "Region Prešov",
+          "it": "regione di Prešov",
+          "ja": "プレショウ県",
+          "ko": "프레쇼프 주",
+          "nl": "Prešov",
+          "pl": "Kraj preszowski",
+          "pt": "Prešov",
+          "ru": "Прешовский край",
+          "sv": "Prešov",
+          "tr": "Prešov Bölgesi",
+          "vi": "Vùng Prešov",
+          "zh": "普列索夫州"
+        },
+        "population": 836405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2795,
+          48.669
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sk",
+        "region_child": "sk-ki",
+        "area": 1.4538780000000084,
+        "bounding_box": [
+          20.188,
+          48.336,
+          22.371,
+          49.002
+        ],
+        "point": [
+          21.2795,
+          48.669
+        ],
+        "labels": {
+          "alt": "Košice",
+          "local": null,
+          "len": 7,
+          "ar": "إقليم كوشيتسه",
+          "bn": "কোসিক অঞ্চল",
+          "de": "Košický kraj",
+          "en": "Košice Region",
+          "es": "Región de Košice",
+          "fr": "Košice",
+          "el": "Περιφέρεια Κόσιτσε",
+          "hi": "कोसिस क्षेत्र",
+          "hu": "Kassa megye",
+          "id": "Region Košice",
+          "it": "regione di Košice",
+          "ja": "コシツェ県",
+          "ko": "코시체 주",
+          "nl": "Košice",
+          "pl": "Kraj koszycki",
+          "pt": "Košice",
+          "ru": "Кошицкий край",
+          "sv": "Košice",
+          "tr": "Košice Bölgesi",
+          "vi": "Khu vực Kosice",
+          "zh": "科希策州"
+        },
+        "population": 827837
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.188000000000002,
+          48.3305
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sk",
+        "region_child": "sk-bl",
+        "area": 0.4478879999999967,
+        "bounding_box": [
+          16.844,
+          48.005,
+          17.532,
+          48.656
+        ],
+        "point": [
+          17.188000000000002,
+          48.3305
+        ],
+        "labels": {
+          "alt": "Bratislava",
+          "local": null,
+          "len": 12,
+          "ar": "إقليم براتيسلافا",
+          "bn": "ব্রাতিসাবা অঞ্চল",
+          "de": "Bratislavský kraj",
+          "en": "Bratislava Region",
+          "es": "Región de Bratislava",
+          "fr": "Région de Bratislava",
+          "el": "Μπρατισλάβα",
+          "hi": "ब्रातिस्लावा प्रदेश",
+          "hu": "Pozsony megye",
+          "id": "Region Bratislava",
+          "it": "regione di Bratislava",
+          "ja": "ブラチスラヴァ県",
+          "ko": "브라티슬라바 주",
+          "nl": "Bratislava",
+          "pl": "Kraj bratysławski",
+          "pt": "Bratislava",
+          "ru": "Братиславский край",
+          "sv": "Bratislava",
+          "tr": "Bratislava Bölgesi",
+          "vi": "Bratislava",
+          "zh": "布拉迪斯拉發州"
+        },
+        "population": 619125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4665,
+          48.317
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sk",
+        "region_child": "sk-ta",
+        "area": 1.1326979999999978,
+        "bounding_box": [
+          16.945,
+          47.774,
+          17.988,
+          48.86
+        ],
+        "point": [
+          17.4665,
+          48.317
+        ],
+        "labels": {
+          "alt": "Trnava",
+          "local": null,
+          "len": 8,
+          "ar": "إقليم ترنافا",
+          "bn": "তানাভা অঞ্চল",
+          "de": "Trnavský kraj",
+          "en": "Trnava Region",
+          "es": "Región de Trnava",
+          "fr": "Région de Trnava",
+          "el": "Τρνάβα",
+          "hi": "ट्रनवा क्षेत्र",
+          "hu": "Nagyszombat megye",
+          "id": "Region Trnava",
+          "it": "regione di Trnava",
+          "ja": "トルナヴァ県",
+          "ko": "트르나바 주",
+          "nl": "Trnava",
+          "pl": "Kraj trnawski",
+          "pt": "Trnava",
+          "ru": "Трнавский край",
+          "sv": "Trnava",
+          "tr": "Trnava Bölgesi",
+          "vi": "Trnava",
+          "zh": "特爾納瓦州"
+        },
+        "population": 553035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.122,
+          48.911
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sk",
+        "region_child": "sk-tc",
+        "area": 1.1916359999999988,
+        "bounding_box": [
+          17.411,
+          48.492,
+          18.833,
+          49.33
+        ],
+        "point": [
+          18.122,
+          48.911
+        ],
+        "labels": {
+          "alt": "Trencín",
+          "local": null,
+          "len": 11,
+          "ar": "إقليم ترنتشين",
+          "bn": "ট্রেঙ্কিন অঞ্চল",
+          "de": "Trenčiansky kraj",
+          "en": "Trenčín Region",
+          "es": "Región de Trenčín",
+          "fr": "Région de Trenčín",
+          "el": "Τρένκιν",
+          "hi": "ट्रेन्सिन क्षेत्र",
+          "hu": "Trencsén megye",
+          "id": "Region Trenčín",
+          "it": "regione di Trenčín",
+          "ja": "トレンチーン県",
+          "ko": "트렌친 주",
+          "nl": "Trenčín",
+          "pl": "Kraj trenczyński",
+          "pt": "Trenčín",
+          "ru": "Тренчинский край",
+          "sv": "Trenčín",
+          "tr": "Trenčín Bölgesi",
+          "vi": "Trenčín",
+          "zh": "特倫欽州"
+        },
+        "population": 587507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.478,
+          48.5015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sk",
+        "region_child": "sk-bc",
+        "area": 1.7408560000000028,
+        "bounding_box": [
+          18.49,
+          48.061,
+          20.466,
+          48.942
+        ],
+        "point": [
+          19.478,
+          48.5015
+        ],
+        "labels": {
+          "alt": "Banská Bystrica",
+          "local": null,
+          "len": 15,
+          "ar": "إقليم بانسكا بيستريتسا",
+          "bn": "বান্সাকা বাইস্ট্রিকা অঞ্চল",
+          "de": "Banskobystrický kraj",
+          "en": "Banská Bystrica Region",
+          "es": "Región de Banská Bystrica",
+          "fr": "Région de Banská Bystrica",
+          "el": "Μπανσκά Μπιστρίκα",
+          "hi": "बैंस्का बिस्त्रिका क्षेत्र",
+          "hu": "Besztercebánya megye",
+          "id": "Region Banská Bystrica",
+          "it": "regione di Banská Bystrica",
+          "ja": "バンスカー・ビストリツァ県",
+          "ko": "반스카비스트리차 주",
+          "nl": "Banská Bystrica",
+          "pl": "Kraj bańskobystrzycki",
+          "pt": "Banská Bystrica",
+          "ru": "Банскобистрицкий край",
+          "sv": "Banská Bystrica",
+          "tr": "Banská Bystrica Bölgesi",
+          "vi": "Khu vực Banská Bystrica",
+          "zh": "班斯卡·比斯特理察州"
+        },
+        "population": 661568
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.391,
+          48.229
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sk",
+        "region_child": "sk-ni",
+        "area": 1.2875519999999956,
+        "bounding_box": [
+          17.719,
+          47.75,
+          19.063,
+          48.708
+        ],
+        "point": [
+          18.391,
+          48.229
+        ],
+        "labels": {
+          "alt": "Nitra",
+          "local": null,
+          "len": 10,
+          "ar": "إقليم نيترا",
+          "bn": "নিট্রা অঞ্চল",
+          "de": "Nitriansky kraj",
+          "en": "Nitra Region",
+          "es": "Región de Nitra",
+          "fr": "Région de Nitra",
+          "el": "Νίτρα",
+          "hi": "निट्रा क्षेत्र",
+          "hu": "Nyitra megye",
+          "id": "Region Nitra",
+          "it": "regione di Nitra",
+          "ja": "ニトラ県",
+          "ko": "니트라 주",
+          "nl": "Nitra",
+          "pl": "Kraj nitrzański",
+          "pt": "Nitra",
+          "ru": "Нитранский край",
+          "sv": "Nitra",
+          "tr": "Nitra Bölgesi",
+          "vi": "Nitra",
+          "zh": "尼特拉州"
+        },
+        "population": 659838
+      }
+    }
+  ]
+}

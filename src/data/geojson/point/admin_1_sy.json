@@ -1,0 +1,800 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.841,
+          33.0875
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-x01~",
+        "area": 0.11404199999999742,
+        "bounding_box": [
+          35.758,
+          32.744,
+          35.924,
+          33.431
+        ],
+        "point": [
+          35.841,
+          33.0875
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 24546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1425,
+          34.260999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-hi",
+        "area": 9.177859999999992,
+        "bounding_box": [
+          36.112,
+          33.131,
+          40.173,
+          35.391
+        ],
+        "point": [
+          38.1425,
+          34.260999999999996
+        ],
+        "labels": {
+          "alt": "Hims|Homs",
+          "local": null,
+          "len": 11,
+          "ar": "محافظة حمص",
+          "bn": "হোমস গভর্নোরেট",
+          "de": "Gouvernement Homs",
+          "en": "Homs Governorate",
+          "es": "Gobernación de Homs",
+          "fr": "Gouvernorat de Homs",
+          "el": "Χομς",
+          "hi": "होम्स प्रान्त",
+          "hu": "Homsz kormányzóság",
+          "id": "Kegubernuran Homs",
+          "it": "governatorato di Homs",
+          "ja": "ホムス県",
+          "ko": "홈스 주",
+          "nl": "Homs",
+          "pl": "Hims",
+          "pt": "Homs",
+          "ru": "Хомс",
+          "sv": "Homs",
+          "tr": "Humus",
+          "vi": "Homs",
+          "zh": "霍姆斯省"
+        },
+        "population": 2241811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.09,
+          34.944500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-ta",
+        "area": 0.2823180000000044,
+        "bounding_box": [
+          35.867,
+          34.628,
+          36.313,
+          35.261
+        ],
+        "point": [
+          36.09,
+          34.944500000000005
+        ],
+        "labels": {
+          "alt": "Tartaus|Tartous",
+          "local": null,
+          "len": 6,
+          "ar": "محافظة طرطوس",
+          "bn": "টারটাস গভর্নোরেট",
+          "de": "Gouvernement Tartus",
+          "en": "Tartus Governorate",
+          "es": "Gobernación de Tartus",
+          "fr": "Gouvernorat de Tartous",
+          "el": "Ταρτούς",
+          "hi": "तरतूस प्रान्त",
+          "hu": "Tartúsz kormányzóság",
+          "id": "Kegubernuran Tartus",
+          "it": "governatorato di Tartus",
+          "ja": "タルトゥース県",
+          "ko": "타르투스 주",
+          "nl": "Tartous",
+          "pl": "Tartus",
+          "pt": "Tartus",
+          "ru": "Тартус",
+          "sv": "Tartus",
+          "tr": "Tartus",
+          "vi": "Tartus",
+          "zh": "塔尔图斯省"
+        },
+        "population": 880982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.075500000000005,
+          33.459
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-rd",
+        "area": 3.815778000000012,
+        "bounding_box": [
+          35.835,
+          32.69,
+          38.316,
+          34.228
+        ],
+        "point": [
+          37.075500000000005,
+          33.459
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "محافظة ريف دمشق",
+          "bn": "রিফ দামাস্ক গভর্নোরেট",
+          "de": "Gouvernement Rif Dimaschq",
+          "en": "Rif Dimashq Governorate",
+          "es": "Gobernación de la campiña de Damasco",
+          "fr": "Gouvernorat de Rif Dimachq",
+          "el": "Ριφ Ντιμάσκ",
+          "hi": "रीफ़ दिमश्क़ प्रान्त",
+          "hu": "Ríf Dimask kormányzóság",
+          "id": "Kegubernuran Rif Dimashq",
+          "it": "governatorato del Rif di Damasco",
+          "ja": "ダマスカス郊外県",
+          "ko": "리프디마슈크 주",
+          "nl": "Rif Dimashq",
+          "pl": "Damaszek",
+          "pt": "Rif Dimashq",
+          "ru": "Дамаск",
+          "sv": "Rif Dimashq",
+          "tr": "Rif Şam",
+          "vi": "Rif Dimashq",
+          "zh": "大马士革农村省"
+        },
+        "population": 3940653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9095,
+          36.429
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-ha",
+        "area": 5.147989999999997,
+        "bounding_box": [
+          39.442,
+          35.552,
+          42.377,
+          37.306
+        ],
+        "point": [
+          40.9095,
+          36.429
+        ],
+        "labels": {
+          "alt": "Al Hasaka|Al-Haska|Al Hassake|El Haseke|Haseke|Hassakeh|Hazakieh|Hassetché|Al Jezira|Jezireh",
+          "local": null,
+          "len": 17,
+          "ar": "محافظة الحسكة",
+          "bn": "আল-হাসাকাহ গভর্নোরেট",
+          "de": "Gouvernement al-Hasaka",
+          "en": "Al-Hasakah Governorate",
+          "es": "Gobernación de Hasaka",
+          "fr": "Gouvernorat d'al-Hasaka",
+          "el": "Αλ Χασακά",
+          "hi": "अल-हसकाह प्रान्त",
+          "hu": "Haszaka kormányzóság",
+          "id": "Kegubernuran Al-Hasakah",
+          "it": "governatorato di al-Hasaka",
+          "ja": "ハサカ県",
+          "ko": "하사카 주",
+          "nl": "Al-Hasakah",
+          "pl": "Al-Hasaka",
+          "pt": "Al-Hasakah",
+          "ru": "Хасеке",
+          "sv": "Al-Hasakah",
+          "tr": "Hasiçi",
+          "vi": "Al-Hasakah",
+          "zh": "哈塞克省"
+        },
+        "population": 1859503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.913,
+          35.9965
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-ra",
+        "area": 2.6670799999999937,
+        "bounding_box": [
+          38.021,
+          35.249,
+          39.805,
+          36.744
+        ],
+        "point": [
+          38.913,
+          35.9965
+        ],
+        "labels": {
+          "alt": "Al Rakka|Raqqa|Al Rashid|Rashid",
+          "local": null,
+          "len": 9,
+          "ar": "محافظة الرقة",
+          "bn": null,
+          "de": "Gouvernement ar-Raqqa",
+          "en": "Al-Raqqah Governorate",
+          "es": "Gobernación de Ar-Raqqa",
+          "fr": "Gouvernorat de Racca",
+          "el": "Αρ Ρακκά",
+          "hi": "अर-रक़्क़ाह​ प्रान्त",
+          "hu": "Rakka kormányzóság",
+          "id": "Kegubernuran Ar-Raqqah",
+          "it": "governatorato di al-Raqqa",
+          "ja": "ラッカ県",
+          "ko": "락까 주",
+          "nl": "Ar-Raqqah",
+          "pl": "Ar-Rakka",
+          "pt": "Ar-Raqqah",
+          "ru": "Ракка",
+          "sv": "Ar-Raqqah",
+          "tr": "Rakka",
+          "vi": "Ar-Raqqah",
+          "zh": "拉卡省"
+        },
+        "population": 1179154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.602999999999994,
+          36.170500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-hl",
+        "area": 3.1420559999999966,
+        "bounding_box": [
+          36.535,
+          35.435,
+          38.671,
+          36.906
+        ],
+        "point": [
+          37.602999999999994,
+          36.170500000000004
+        ],
+        "labels": {
+          "alt": "Aleppo|Alep|Alepo|Haleb|Ḥalab",
+          "local": null,
+          "len": 6,
+          "ar": "محافظة حلب",
+          "bn": null,
+          "de": "Gouvernement Aleppo",
+          "en": "Aleppo Governorate",
+          "es": "Gobernación de Alepo",
+          "fr": "Gouvernorat d'Alep",
+          "el": "Αλέππο",
+          "hi": "हलब प्रान्त",
+          "hu": "Aleppó kormányzóság",
+          "id": "Kegubernuran Aleppo",
+          "it": "governatorato di Aleppo",
+          "ja": "アレッポ県",
+          "ko": "알레포 주",
+          "nl": "Aleppo",
+          "pl": "Aleppo",
+          "pt": "Alepo",
+          "ru": "Халеб",
+          "sv": "Aleppo",
+          "tr": "Halep",
+          "vi": "Aleppo",
+          "zh": "阿勒颇省"
+        },
+        "population": 6133137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.685500000000005,
+          35.824
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-id",
+        "area": 1.0737320000000004,
+        "bounding_box": [
+          36.155,
+          35.318,
+          37.216,
+          36.33
+        ],
+        "point": [
+          36.685500000000005,
+          35.824
+        ],
+        "labels": {
+          "alt": "Adlib|Edleb|Idleb",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة إدلب",
+          "bn": "ইদলিব গভর্নোরেট",
+          "de": "Gouvernement Idlib",
+          "en": "Idlib Governorate",
+          "es": "Gobernación de Idlib",
+          "fr": "Gouvernorat d'Idleb",
+          "el": "Ιντλίμπ",
+          "hi": "इदलिब प्रान्त",
+          "hu": "Idlib kormányzóság",
+          "id": "Kegubernuran Idlib",
+          "it": "governatorato di Idlib",
+          "ja": "イドリブ県",
+          "ko": "이들리브 주",
+          "nl": "Idlib",
+          "pl": "Idlib",
+          "pt": "Idlib",
+          "ru": "Идлиб",
+          "sv": "Idlib",
+          "tr": "İdlip",
+          "vi": "Idlib",
+          "zh": "伊德利卜省"
+        },
+        "population": 1904249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.006,
+          35.573499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-la",
+        "area": 0.38036599999999804,
+        "bounding_box": [
+          35.737,
+          35.22,
+          36.275,
+          35.927
+        ],
+        "point": [
+          36.006,
+          35.573499999999996
+        ],
+        "labels": {
+          "alt": "Latakia|Al Ladhiqiyah|El Ladhiqiya|Lattakia|Lattakieh|Lattikia|Lattaquie",
+          "local": null,
+          "len": 8,
+          "ar": "محافظة اللاذقية",
+          "bn": null,
+          "de": "Gouvernement Latakia",
+          "en": "Latakia Governorate",
+          "es": "Gobernación de Latakia",
+          "fr": "Gouvernorat de Lattaquié",
+          "el": "Λατάκεια",
+          "hi": "लातक़िया प्रान्त",
+          "hu": "Latakia kormányzóság",
+          "id": "Kegubernuran Latakia",
+          "it": "governatorato di Latakia",
+          "ja": "ラタキア県",
+          "ko": "라타키아 주",
+          "nl": "Latakia",
+          "pl": "Latakia",
+          "pt": "Latakia",
+          "ru": "Латакия",
+          "sv": "Latakia",
+          "tr": "Lazkiye",
+          "vi": "Latakia",
+          "zh": "拉塔基亚省"
+        },
+        "population": 1006231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.918,
+          32.771
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-su",
+        "area": 1.047831999999998,
+        "bounding_box": [
+          36.341,
+          32.317,
+          37.495,
+          33.225
+        ],
+        "point": [
+          36.918,
+          32.771
+        ],
+        "labels": {
+          "alt": "Djebel Druze|Jabal Druze|Jebel Druse|Jebel ed Druz|Al Sueida|Es Sueida|Es Suweida|Soueida|Suwaidaa",
+          "local": null,
+          "len": 11,
+          "ar": "محافظة السويداء",
+          "bn": "আস-সুবায়দা গভর্নোরেট",
+          "de": "Gouvernement as-Suwaida",
+          "en": "as-Suwayda Governorate",
+          "es": "Gobernación de Sueida",
+          "fr": "Gouvernorat de Suweyda",
+          "el": "Ας Σουγουαΰντα",
+          "hi": "अस-सुवैदा प्रान्त",
+          "hu": null,
+          "id": "Kegubernuran As-Suwayda",
+          "it": "governatorato di al-Suwayda",
+          "ja": "スワイダー県",
+          "ko": "수와이다 주",
+          "nl": "As-Suwayda",
+          "pl": "As-Suwajda",
+          "pt": "As-Suwayda",
+          "ru": "Эс-Сувейда",
+          "sv": "As-Suwayda'",
+          "tr": "Süveyde",
+          "vi": "As-Suwayda",
+          "zh": "苏韦达省"
+        },
+        "population": 471229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.170500000000004,
+          32.8255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-dr",
+        "area": 0.7505369999999932,
+        "bounding_box": [
+          35.77,
+          32.357,
+          36.571,
+          33.294
+        ],
+        "point": [
+          36.170500000000004,
+          32.8255
+        ],
+        "labels": {
+          "alt": "Dara'a|Dária|Dera`a|Derraa|Hauran",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة درعا",
+          "bn": null,
+          "de": "Gouvernement Dar'a",
+          "en": "Daraa Governorate",
+          "es": "Gobernación de Dar'a",
+          "fr": "Gouvernorat de Deraa",
+          "el": "Νταράα",
+          "hi": "दरआ प्रान्त",
+          "hu": null,
+          "id": "Kegubernuran Daraa",
+          "it": "governatorato di Dar'a",
+          "ja": "ダルアー県",
+          "ko": "다라 주",
+          "nl": "Daraa",
+          "pl": "Dara",
+          "pt": "Dara",
+          "ru": "Деръа",
+          "sv": "Dar'a",
+          "tr": "Dera",
+          "vi": "Daraa",
+          "zh": "德拉省"
+        },
+        "population": 1366686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.275,
+          35.268
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-dy",
+        "area": 4.941871999999997,
+        "bounding_box": [
+          39.242,
+          34.072,
+          41.308,
+          36.464
+        ],
+        "point": [
+          40.275,
+          35.268
+        ],
+        "labels": {
+          "alt": "Dair-Ezzor|Dayr az Zaur|Deir Al Zour|Deir ez Zor|Der Azzor|Dier Elzour",
+          "local": null,
+          "len": 12,
+          "ar": "محافظة دير الزور",
+          "bn": "ডিএর এজ-জর গভর্নোরেট",
+          "de": "Gouvernement Deir ez-Zor",
+          "en": "Deir ez-Zor Governorate",
+          "es": "Gobernación de Deir ez-Zor",
+          "fr": "Gouvernorat de Deir ez-Zor",
+          "el": "Ντέιρ εζ-Ζορ",
+          "hi": "देइर अज़-ज़ोर प्रान्त",
+          "hu": "Dajr ez-Zaur kormányzóság",
+          "id": "Kegubernuran Dayr az-Zawr",
+          "it": "governatorato di Deir el-Zor",
+          "ja": "デリゾール県",
+          "ko": "데이르에조르 주",
+          "nl": "Deir ez-Zor",
+          "pl": "Dajr az-Zaur",
+          "pt": "Deir ez-Zor",
+          "ru": "Дейр-эз-Зор",
+          "sv": "Dayr az-Zawr",
+          "tr": "Deyrizor",
+          "vi": "Deir ez-Zor",
+          "zh": "代尔祖尔省"
+        },
+        "population": 1620102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.911500000000004,
+          33.079499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-qu",
+        "area": 0.06671899999999702,
+        "bounding_box": [
+          35.843,
+          32.836,
+          35.98,
+          33.323
+        ],
+        "point": [
+          35.911500000000004,
+          33.079499999999996
+        ],
+        "labels": {
+          "alt": "Al Qunatirah|Al Qunaytirah|Al Quneitera|El Quneitra|El Kenitra|Kunaitra|Kuneitra|Qunaytira",
+          "local": null,
+          "len": 8,
+          "ar": "محافظة القنيطرة",
+          "bn": "কুনিত্রা গভর্নোরেট",
+          "de": "Gouvernement al-Quneitra",
+          "en": "Quneitra Governorate",
+          "es": "Gobernación de Quneitra",
+          "fr": "Gouvernorat de Qouneitra",
+          "el": "Κουνέιτρα",
+          "hi": "क़ुनेइत्राह​ प्रान्त",
+          "hu": null,
+          "id": "Kegubernuran Quneitra",
+          "it": "governatorato di Quneitra",
+          "ja": "クネイトラ県",
+          "ko": "쿠네이트라 주",
+          "nl": "Quneitra",
+          "pl": "Al-Kunajtira",
+          "pt": "Quneitra",
+          "ru": "Эль-Кунейтра",
+          "sv": "al-Qunaytirah",
+          "tr": "Kuneytire",
+          "vi": "Quneitra",
+          "zh": "库奈特拉省"
+        },
+        "population": 95063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.223,
+          35.304
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-hm",
+        "area": 1.9508320000000086,
+        "bounding_box": [
+          36.144,
+          34.852,
+          38.302,
+          35.756
+        ],
+        "point": [
+          37.223,
+          35.304
+        ],
+        "labels": {
+          "alt": "Hama|Ḥamāh",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة حماة",
+          "bn": "হামা গভর্নোরেট",
+          "de": "Gouvernement Hama",
+          "en": "Hama Governorate",
+          "es": "Gobernación de Hama",
+          "fr": "Gouvernorat de Hama",
+          "el": "Κυβερνείο Χάμα",
+          "hi": "हमा प्रान्त",
+          "hu": "Hamá kormányzóság",
+          "id": "Kegubernuran Hama",
+          "it": "governatorato di Hama",
+          "ja": "ハマー県",
+          "ko": "하마 주",
+          "nl": "Hama",
+          "pl": "Hama",
+          "pt": "Hama",
+          "ru": "Хама",
+          "sv": "Guvernementet Hamah",
+          "tr": "Hama",
+          "vi": "Hama",
+          "zh": "哈馬省"
+        },
+        "population": 1970374
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.271,
+          33.5125
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sy",
+        "region_child": "sy-di",
+        "area": 0.016479999999999894,
+        "bounding_box": [
+          36.191,
+          33.461,
+          36.351,
+          33.564
+        ],
+        "point": [
+          36.271,
+          33.5125
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "محافظة دمشق",
+          "bn": null,
+          "de": "Gouvernement Damaskus",
+          "en": "Damascus Governorate",
+          "es": "Gobernación de Damasco",
+          "fr": "Gouvernorat de Damas",
+          "el": "Δαμασκός",
+          "hi": "दमिश्क़ प्रान्त",
+          "hu": null,
+          "id": "Kegubernuran Damaskus",
+          "it": "governatorato di Damasco",
+          "ja": "ダマスカス県",
+          "ko": "다마스쿠스 주",
+          "nl": "Damascus Governorate",
+          "pl": null,
+          "pt": "Damasco",
+          "ru": "Дамаск",
+          "sv": null,
+          "tr": "Şam",
+          "vi": null,
+          "zh": "大馬士革省"
+        },
+        "population": 1877687
+      }
+    }
+  ]
+}

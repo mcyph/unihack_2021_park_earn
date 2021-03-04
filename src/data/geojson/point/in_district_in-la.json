@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.428,
+          34.707499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-la",
+        "region_child": "leh",
+        "area": 36.94524399999994,
+        "bounding_box": [
+          72.53,
+          32.338,
+          80.326,
+          37.077
+        ],
+        "point": [
+          76.428,
+          34.707499999999996
+        ],
+        "labels": {
+          "en": "Leh"
+        },
+        "population": 1294667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.46000000000001,
+          33.799
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-la",
+        "region_child": "kargil",
+        "area": 4.05042000000003,
+        "bounding_box": [
+          75.377,
+          32.864,
+          77.543,
+          34.734
+        ],
+        "point": [
+          76.46000000000001,
+          33.799
+        ],
+        "labels": {
+          "en": "Kargil"
+        },
+        "population": 156959
+      }
+    }
+  ]
+}

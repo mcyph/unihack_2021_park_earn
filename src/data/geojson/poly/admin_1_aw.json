@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -69.997,
+              12.578
+            ],
+            [
+              -70.049,
+              12.632
+            ],
+            [
+              -70.058,
+              12.537
+            ],
+            [
+              -69.888,
+              12.418
+            ],
+            [
+              -69.88,
+              12.454
+            ],
+            [
+              -69.936,
+              12.532
+            ],
+            [
+              -69.997,
+              12.578
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "aw",
+        "region_child": "aw-x01~",
+        "area": 0.038092000000002534,
+        "bounding_box": [
+          -70.058,
+          12.418,
+          -69.88,
+          12.632
+        ],
+        "point": [
+          -69.969,
+          12.524999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "أروبا",
+          "bn": "আরুবা",
+          "de": "Aruba",
+          "en": "Aruba",
+          "es": "Aruba",
+          "fr": "Aruba",
+          "el": "Αρούμπα",
+          "hi": "अरूबा",
+          "hu": "Aruba",
+          "id": "Aruba",
+          "it": "Aruba",
+          "ja": "アルバ",
+          "ko": "아루바",
+          "nl": "Aruba",
+          "pl": "Aruba",
+          "pt": "Aruba",
+          "ru": "Аруба",
+          "sv": "Aruba",
+          "tr": "Aruba",
+          "vi": "Aruba",
+          "zh": "阿魯巴"
+        },
+        "population": 101587
+      }
+    }
+  ]
+}

@@ -1,0 +1,959 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5765,
+          12.126
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-de",
+        "area": 5.983362000000002,
+        "bounding_box": [
+          22.537,
+          10.687,
+          24.616,
+          13.565
+        ],
+        "point": [
+          23.5765,
+          12.126
+        ],
+        "labels": {
+          "alt": "Dārfūr al Gharbīyah|Gharb Dārfūr",
+          "local": null,
+          "len": 14,
+          "ar": "وسط دار فور",
+          "bn": "সেন্ট্রাল দারফুর",
+          "de": "Wasat Darfur",
+          "en": "Central Darfur",
+          "es": "Darfur Central",
+          "fr": "Darfour-Central",
+          "el": "Κεντρικό Νταρφούρ",
+          "hi": "केंद्रीय दारफुर",
+          "hu": null,
+          "id": "Central Darfur",
+          "it": "Central Darfur",
+          "ja": "中部ダルフール州",
+          "ko": "중앙다르푸르 주",
+          "nl": "Darfoer",
+          "pl": "Darfur Środkowy",
+          "pt": "Darfur Central",
+          "ru": "Центральный Дарфур",
+          "sv": "Centrala Dafur",
+          "tr": "Orta Darfur",
+          "vi": "Miền Trung Darfur",
+          "zh": "中達爾富爾"
+        },
+        "population": 855803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.425,
+          10.8905
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-ds",
+        "area": 12.535446000000004,
+        "bounding_box": [
+          23.006,
+          8.682,
+          25.844,
+          13.099
+        ],
+        "point": [
+          24.425,
+          10.8905
+        ],
+        "labels": {
+          "alt": "Dārfūr al Janūbīyah| Janūb Dārfūr| Darfur méridional| Southern Darfur",
+          "local": null,
+          "len": 15,
+          "ar": "جنوب دارفور",
+          "bn": "দক্ষিণ দারফুর",
+          "de": "Dschanub Darfur",
+          "en": "South Darfur",
+          "es": "Darfur del Sur",
+          "fr": "Darfour du Sud",
+          "el": "Νότιο Νταρφούρ",
+          "hi": "दक्षिण दारफुर",
+          "hu": null,
+          "id": "Darfur Selatan",
+          "it": "Darfur Meridionale",
+          "ja": "南ダルフール州",
+          "ko": "남다르푸르 주",
+          "nl": "Janub-Darfur",
+          "pl": "Darfur Południowy",
+          "pt": "Darfur do Sul",
+          "ru": "Южный Дарфур",
+          "sv": "Janub Darfur",
+          "tr": "Güney Darfur Eyaleti",
+          "vi": "Nam Darfur",
+          "zh": "南达尔富尔省"
+        },
+        "population": 6681319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5385,
+          11.2705
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-ds",
+        "area": 9.731531000000002,
+        "bounding_box": [
+          25.182,
+          9.477,
+          27.895,
+          13.064
+        ],
+        "point": [
+          26.5385,
+          11.2705
+        ],
+        "labels": {
+          "alt": "Dārfūr al Janūbīyah| Janūb Dārfūr| Darfur méridional| Southern Darfur",
+          "local": null,
+          "len": 15,
+          "ar": "جنوب دارفور",
+          "bn": "দক্ষিণ দারফুর",
+          "de": "Dschanub Darfur",
+          "en": "South Darfur",
+          "es": "Darfur del Sur",
+          "fr": "Darfour du Sud",
+          "el": "Νότιο Νταρφούρ",
+          "hi": "दक्षिण दारफुर",
+          "hu": null,
+          "id": "Darfur Selatan",
+          "it": "Darfur Meridionale",
+          "ja": "南ダルフール州",
+          "ko": "남다르푸르 주",
+          "nl": "Janub-Darfur",
+          "pl": "Darfur Południowy",
+          "pt": "Darfur do Sul",
+          "ru": "Южный Дарфур",
+          "sv": "Janub Darfur",
+          "tr": "Güney Darfur Eyaleti",
+          "vi": "Nam Darfur",
+          "zh": "南达尔富尔省"
+        },
+        "population": 6681319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.035,
+          14.186
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-gd",
+        "area": 9.071244000000025,
+        "bounding_box": [
+          33.544,
+          12.665,
+          36.526,
+          15.707
+        ],
+        "point": [
+          35.035,
+          14.186
+        ],
+        "labels": {
+          "alt": "Al Qadarif|Gadarif| Gedaref| Gederaf",
+          "local": null,
+          "len": 7,
+          "ar": "القضارف",
+          "bn": "আল কাদারিফ",
+          "de": "Al-Qadarif",
+          "en": "Al Qadarif",
+          "es": "Gadarif",
+          "fr": "Al Qadarif",
+          "el": "Αλ Κανταρίφ",
+          "hi": "अल कादरीफ",
+          "hu": null,
+          "id": "Al Qadarif",
+          "it": "Gadaref",
+          "ja": "ガダーレフ州",
+          "ko": "알카다리프 주",
+          "nl": "Al-Qadarif",
+          "pl": "Al-Kadarif",
+          "pt": "Gadarife",
+          "ru": "Гедареф",
+          "sv": "Al-Qadarif",
+          "tr": "El Kadarif Eyaleti",
+          "vi": "Al Qadarif",
+          "zh": "加达里夫省"
+        },
+        "population": 1575290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.116,
+          11.0945
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-nb",
+        "area": 6.774414000000008,
+        "bounding_box": [
+          33.083,
+          9.455,
+          35.149,
+          12.734
+        ],
+        "point": [
+          34.116,
+          11.0945
+        ],
+        "labels": {
+          "alt": "An Nīl al Azraq|Nil Bleu|Nilo Azul",
+          "local": null,
+          "len": 9,
+          "ar": "النيل الأزرق",
+          "bn": "ব্লু নীল",
+          "de": "An-Nil al-azraq",
+          "en": "Blue Nile",
+          "es": "Nilo Azul",
+          "fr": "Nil Bleu",
+          "el": "Μπλε Νείλος",
+          "hi": "ब्लू नाइल",
+          "hu": null,
+          "id": "Nil Biru",
+          "it": "Nilo Azzurro",
+          "ja": "青ナイル州",
+          "ko": "청나일 주",
+          "nl": "An-Nil-al-Azraq",
+          "pl": "Nil Błękitny",
+          "pt": "Nilo Azul",
+          "ru": "Голубой Нил",
+          "sv": "An-Nil al-Azraq",
+          "tr": "Mavi Nil Eyaleti",
+          "vi": "Nin Xanh",
+          "zh": "青尼罗省"
+        },
+        "population": 1339940
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.251999999999995,
+          12.984
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-si",
+        "area": 6.450948000000005,
+        "bounding_box": [
+          32.803,
+          11.871,
+          35.701,
+          14.097
+        ],
+        "point": [
+          34.251999999999995,
+          12.984
+        ],
+        "labels": {
+          "alt": "Al Wusţá, Al Awsat |An Nil al Azraq| Central",
+          "local": null,
+          "len": 6,
+          "ar": "سنار",
+          "bn": "সেনার",
+          "de": "Sannar",
+          "en": "Sennar",
+          "es": "Sennar",
+          "fr": "Sannar",
+          "el": "Σένναρ",
+          "hi": "सेनणार",
+          "hu": null,
+          "id": "Sannar",
+          "it": "Sennar",
+          "ja": "センナール州",
+          "ko": "센나르 주",
+          "nl": "Sennar",
+          "pl": "Sannar",
+          "pt": "Sennar",
+          "ru": "Сеннар",
+          "sv": "Sennar",
+          "tr": "Sennar Eyaleti",
+          "vi": "Sennar",
+          "zh": "森纳尔省"
+        },
+        "population": 1750362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8335,
+          19.381500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-no",
+        "area": 43.80292499999998,
+        "bounding_box": [
+          24.981,
+          16.539,
+          32.686,
+          22.224
+        ],
+        "point": [
+          28.8335,
+          19.381500000000003
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "الشمالية",
+          "bn": "নর্দান",
+          "de": "Asch-Schamaliyya",
+          "en": "Northern",
+          "es": "Norte",
+          "fr": "Nord",
+          "el": "Νόρθερν",
+          "hi": "उत्तरी",
+          "hu": null,
+          "id": "Asy-Syamaliyah",
+          "it": "Nord",
+          "ja": "北部州",
+          "ko": "북부 주",
+          "nl": "Ash-Shamaliyah",
+          "pl": "Prowincja Północna",
+          "pt": "Estado do Norte",
+          "ru": "Северный штат",
+          "sv": "Ash-Shamaliyya",
+          "tr": "Kuzey Eyaleti",
+          "vi": "Khu vực Phía Bắc",
+          "zh": "北部省"
+        },
+        "population": 905026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7625,
+          18.955
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-nr",
+        "area": 23.231680000000015,
+        "bounding_box": [
+          31.852,
+          15.915,
+          35.673,
+          21.995
+        ],
+        "point": [
+          33.7625,
+          18.955
+        ],
+        "labels": {
+          "alt": "an Nīl, Nahr an Nīl| Nil| Nile| Nile River|Nilen|Nilo",
+          "local": null,
+          "len": 10,
+          "ar": "نهر النيل",
+          "bn": "নিল নদ",
+          "de": "Nahr an-Nil",
+          "en": "River Nile",
+          "es": "Río Nilo",
+          "fr": "Nil",
+          "el": "Ποταμός Νείλος",
+          "hi": "नील नदी",
+          "hu": null,
+          "id": "Sungai Nil",
+          "it": "Nilo",
+          "ja": "ナイル川州",
+          "ko": "나일 주",
+          "nl": "Nahr-an-Nil",
+          "pl": "Nil",
+          "pt": "Rio Nilo",
+          "ru": "Нил",
+          "sv": "Nahr an-Nil",
+          "tr": "Nil Nehri Eyaleti",
+          "vi": "Sông Nin",
+          "zh": "尼羅省"
+        },
+        "population": 1527940
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.881,
+          19.4925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-rs",
+        "area": 27.24809399999999,
+        "bounding_box": [
+          33.16,
+          16.989,
+          38.602,
+          21.996
+        ],
+        "point": [
+          35.881,
+          19.4925
+        ],
+        "labels": {
+          "alt": "Ba?r al A?mar|Mar Rojo|Mar Rosso|Mar Vermelho|Mer Rouge|Röda havet|Rødehavet|Rotes Meer",
+          "local": null,
+          "len": 7,
+          "ar": "البحر الأحمر",
+          "bn": "লোহিত সাগর",
+          "de": "Al-Bahr al-ahmar",
+          "en": "Red Sea",
+          "es": "Mar Rojo",
+          "fr": "Mer Rouge",
+          "el": "Ερυθρά Θάλασσα",
+          "hi": "लाल सागर",
+          "hu": null,
+          "id": "Laut Merah",
+          "it": "Mar Rosso",
+          "ja": "紅海州",
+          "ko": "홍해 주",
+          "nl": "Al-Bahr-al-Ahmar",
+          "pl": "Prowincja Morza Czerwonego",
+          "pt": "Mar Vermelho",
+          "ru": "Красное море",
+          "sv": "Al-Bahr al-Ahmar",
+          "tr": "Kızıl Deniz Eyaleti",
+          "vi": "Biển Đỏ",
+          "zh": "紅海省"
+        },
+        "population": 2455538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.263999999999996,
+          20.810499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-rs",
+        "area": 0.0035600000000000115,
+        "bounding_box": [
+          37.244,
+          20.766,
+          37.284,
+          20.855
+        ],
+        "point": [
+          37.263999999999996,
+          20.810499999999998
+        ],
+        "labels": {
+          "alt": "Ba?r al A?mar|Mar Rojo|Mar Rosso|Mar Vermelho|Mer Rouge|Röda havet|Rødehavet|Rotes Meer",
+          "local": null,
+          "len": 7,
+          "ar": "البحر الأحمر",
+          "bn": "লোহিত সাগর",
+          "de": "Al-Bahr al-ahmar",
+          "en": "Red Sea",
+          "es": "Mar Rojo",
+          "fr": "Mer Rouge",
+          "el": "Ερυθρά Θάλασσα",
+          "hi": "लाल सागर",
+          "hu": null,
+          "id": "Laut Merah",
+          "it": "Mar Rosso",
+          "ja": "紅海州",
+          "ko": "홍해 주",
+          "nl": "Al-Bahr-al-Ahmar",
+          "pl": "Prowincja Morza Czerwonego",
+          "pt": "Mar Vermelho",
+          "ru": "Красное море",
+          "sv": "Al-Bahr al-Ahmar",
+          "tr": "Kızıl Deniz Eyaleti",
+          "vi": "Biển Đỏ",
+          "zh": "紅海省"
+        },
+        "population": 2455538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.506,
+          15.9175
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-dn",
+        "area": 33.00215399999999,
+        "bounding_box": [
+          23.489,
+          11.827,
+          27.523,
+          20.008
+        ],
+        "point": [
+          25.506,
+          15.9175
+        ],
+        "labels": {
+          "alt": "North Darfur|Darfur ash Shamaliyah|Shamal Darfur|Darfur septentrional",
+          "local": null,
+          "len": 12,
+          "ar": "ولاية شمال دارفور",
+          "bn": "দক্ষিন দারফুর",
+          "de": "Schamal Darfur",
+          "en": "North Darfur",
+          "es": "Darfur del Norte",
+          "fr": "Darfour du Nord",
+          "el": "Βόρειο Νταρφούρ",
+          "hi": "उत्तरी दार्फुर",
+          "hu": null,
+          "id": "Darfur Utara",
+          "it": "Darfur Settentrionale",
+          "ja": "北ダルフール州",
+          "ko": "북다르푸르 주",
+          "nl": "Shamal-Darfur",
+          "pl": "Darfur Północny",
+          "pt": "Darfur do Norte",
+          "ru": "Северный Дарфур",
+          "sv": "Shamal Darfur",
+          "tr": "Kuzey Darfur Eyaleti",
+          "vi": "Bắc Darfur",
+          "zh": "北達爾富爾省"
+        },
+        "population": 2797647
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.98,
+          13.8895
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-dw",
+        "area": 8.709897999999999,
+        "bounding_box": [
+          21.809,
+          12.03,
+          24.151,
+          15.749
+        ],
+        "point": [
+          22.98,
+          13.8895
+        ],
+        "labels": {
+          "alt": "Dārfūr al Gharbīyah|Gharb Dārfūr",
+          "local": null,
+          "len": 14,
+          "ar": "ولاية غرب دارفور",
+          "bn": "পশ্চিম দারফুর",
+          "de": "Gharb Darfur",
+          "en": "West Darfur",
+          "es": "Darfur del Oeste",
+          "fr": "Darfour-Occidental",
+          "el": "Δυτικό Νταρφούρ",
+          "hi": "पश्चिम दारफुर",
+          "hu": null,
+          "id": "Darfur Barat",
+          "it": "Darfur Occidentale",
+          "ja": "西ダルフール州",
+          "ko": "서다르푸르 주",
+          "nl": "Gharb-Darfur",
+          "pl": "Darfur Zachodni",
+          "pt": "Darfur Ocidental",
+          "ru": "Западный Дарфур",
+          "sv": "Gharb Darfur",
+          "tr": "Batı Darfur Eyaleti",
+          "vi": "Bang West Darfur",
+          "zh": "西达尔富尔省"
+        },
+        "population": 1258668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.593999999999994,
+          15.892
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-ka",
+        "area": 7.185719999999999,
+        "bounding_box": [
+          34.196,
+          14.607,
+          36.992,
+          17.177
+        ],
+        "point": [
+          35.593999999999994,
+          15.892
+        ],
+        "labels": {
+          "alt": "Cassala|Kessala",
+          "local": null,
+          "len": 7,
+          "ar": "كسلا",
+          "bn": "কাসালা",
+          "de": "Kassala",
+          "en": "Kassala",
+          "es": "Kasala",
+          "fr": "Kassala",
+          "el": "Κάσσαλα",
+          "hi": "कसाला",
+          "hu": null,
+          "id": "Kassala",
+          "it": "Cassala",
+          "ja": "カッサラ州",
+          "ko": "카살라 주",
+          "nl": "Kassala",
+          "pl": "Kassala",
+          "pt": "Kassala",
+          "ru": "Кассала",
+          "sv": "Kassala",
+          "tr": "Kassala Eyaleti",
+          "vi": "Kassala",
+          "zh": "卡萨拉省"
+        },
+        "population": 2338174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3635,
+          13.6045
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-nw",
+        "area": 5.426419000000007,
+        "bounding_box": [
+          31.518,
+          12.0,
+          33.209,
+          15.209
+        ],
+        "point": [
+          32.3635,
+          13.6045
+        ],
+        "labels": {
+          "alt": "An Baḥr al Abyad|An Nīl al-Abyad|Nil Blanc|Nilo Branco",
+          "local": null,
+          "len": 10,
+          "ar": "النيل الأبيض",
+          "bn": "হোয়াইট নিল",
+          "de": "An-Nil al-abyad",
+          "en": "White Nile",
+          "es": "Nilo Blanco",
+          "fr": "Nil Blanc",
+          "el": "Λευκός Νείλος",
+          "hi": "सफ़ेद नील",
+          "hu": null,
+          "id": "Nil Putih",
+          "it": "Nilo Bianco",
+          "ja": "白ナイル州",
+          "ko": "백나일 주",
+          "nl": "An-Nil-al-Abyad",
+          "pl": "Nil Biały",
+          "pt": "Nilo Branco",
+          "ru": "Белый Нил",
+          "sv": "An-Nil al-Abyad",
+          "tr": "Beyaz Nil Eyaleti",
+          "vi": "Nin Trắng",
+          "zh": "白尼罗省"
+        },
+        "population": 2353697
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.830000000000002,
+          11.0305
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-ks",
+        "area": 17.77131000000001,
+        "bounding_box": [
+          27.225,
+          9.325,
+          32.435,
+          12.736
+        ],
+        "point": [
+          29.830000000000002,
+          11.0305
+        ],
+        "labels": {
+          "alt": "Southern Kordofan|South Kordufan|Janūb Kurdufān|Janub Kurdufun|Kurdufān al Janūbīyah|Kordofan méridional",
+          "local": null,
+          "len": 14,
+          "ar": "جنوب كردفان",
+          "bn": "সাউথ কোদোফ্যান",
+          "de": "Dschanub Kurdufan",
+          "en": "South Kordofan",
+          "es": "Kordofán del Sur",
+          "fr": "Kordofan du Sud",
+          "el": "Νότιο Κορντοφάν",
+          "hi": "दक्षिणी कोर्डोफैन",
+          "hu": "Dél-Kordofán",
+          "id": "Kurdufan Selatan",
+          "it": "Kordofan Meridionale",
+          "ja": "南コルドファン州",
+          "ko": "남쿠르두판 주",
+          "nl": "Janub-Kordofan",
+          "pl": "Kordofan Południowy",
+          "pt": "Cordofão do Sul",
+          "ru": "Южный Кордофан",
+          "sv": "Janub Kurdufan",
+          "tr": "Güney Kordofan Eyaleti",
+          "vi": "Nam Kordofan",
+          "zh": "南科尔多凡省"
+        },
+        "population": 1439123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.336,
+          14.4795
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-gz",
+        "area": 3.486149999999999,
+        "bounding_box": [
+          32.421,
+          13.527,
+          34.251,
+          15.432
+        ],
+        "point": [
+          33.336,
+          14.4795
+        ],
+        "labels": {
+          "alt": "Al Jazirah",
+          "local": null,
+          "len": 6,
+          "ar": "الجزيرة",
+          "bn": "আল জাজিরা",
+          "de": "Al-Dschazira",
+          "en": "Al Jazirah",
+          "es": "Gezira",
+          "fr": "Al Jazirah",
+          "el": "Αλ Τζαζίρα",
+          "hi": "अल जज़ीरा",
+          "hu": null,
+          "id": "Al Jazirah",
+          "it": "Gezira",
+          "ja": "ジャジーラ州",
+          "ko": "알자지라 주",
+          "nl": "Al-Jazirah",
+          "pl": "Al-Dżazira",
+          "pt": "Al Jazirah",
+          "ru": "Эль-Гезира",
+          "sv": "Al-Jazirah",
+          "tr": "El Cezire Eyaleti",
+          "vi": "Al Jazirah",
+          "zh": "杰济拉省"
+        },
+        "population": 4068007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.982,
+          15.925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-kh",
+        "area": 4.11792,
+        "bounding_box": [
+          31.602,
+          15.179,
+          34.362,
+          16.671
+        ],
+        "point": [
+          32.982,
+          15.925
+        ],
+        "labels": {
+          "alt": "Al Kharţūm|Al Khurţūm|Cartum|Jartum|Khartum",
+          "local": null,
+          "len": 8,
+          "ar": "الخرطوم",
+          "bn": "খার্তুম",
+          "de": "Al-Chartum",
+          "en": "Khartoum",
+          "es": "Jartum",
+          "fr": "Khartoum",
+          "el": "Χαρτούμ",
+          "hi": "खार्तूम",
+          "hu": null,
+          "id": "Khartum",
+          "it": "Khartum",
+          "ja": "ハルツーム州",
+          "ko": "하르툼 주",
+          "nl": "Khartoem",
+          "pl": "Chartum",
+          "pt": "Cartum",
+          "ru": "Хартум",
+          "sv": "Khartoum",
+          "tr": "Hartum Eyaleti",
+          "vi": "Khartoum",
+          "zh": "喀土穆省"
+        },
+        "population": 7317998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6125,
+          14.009999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sd",
+        "region_child": "sd-kn",
+        "area": 28.777157999999986,
+        "bounding_box": [
+          26.917,
+          11.341,
+          32.308,
+          16.679
+        ],
+        "point": [
+          29.6125,
+          14.009999999999998
+        ],
+        "labels": {
+          "alt": "Kordofan septentrional| Kurdufān ash Shamālīyah| Shamāl Kurdufān| North Kordofan",
+          "local": null,
+          "len": 14,
+          "ar": "ولاية شمال كردفان",
+          "bn": "উত্তর কুর্দফান",
+          "de": "Schamal Kurdufan",
+          "en": "North Kurdufan",
+          "es": "Kordofán del Norte",
+          "fr": "Kordofan du Nord",
+          "el": "Βόρειο Κορντοφάν",
+          "hi": "उत्तर कुर्दुफान",
+          "hu": null,
+          "id": "Kurdufan Utara",
+          "it": "Kordofan Settentrionale",
+          "ja": "北コルドファン州",
+          "ko": "북쿠르두판 주",
+          "nl": "Shamal-Kordofan",
+          "pl": "Kordofan Północny",
+          "pt": "Cordofão do Norte",
+          "ru": "Северный Кордофан",
+          "sv": "Shamal Kurdufan",
+          "tr": "Kuzey Kordofan Eyaleti",
+          "vi": "Bắc Kurdufan",
+          "zh": "北科尔多凡省"
+        },
+        "population": 4004583
+      }
+    }
+  ]
+}

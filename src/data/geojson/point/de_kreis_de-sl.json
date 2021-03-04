@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6625,
+          49.4975
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sl",
+        "region_child": "merzig-wadern",
+        "area": 0.14821499999999962,
+        "bounding_box": [
+          6.355,
+          49.377,
+          6.97,
+          49.618
+        ],
+        "point": [
+          6.6625,
+          49.4975
+        ],
+        "labels": {
+          "en": "Merzig-Wadern"
+        },
+        "population": 100812
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.109,
+          49.3695
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sl",
+        "region_child": "neunkirchen",
+        "area": 0.057833999999999525,
+        "bounding_box": [
+          6.92,
+          49.293,
+          7.298,
+          49.446
+        ],
+        "point": [
+          7.109,
+          49.3695
+        ],
+        "labels": {
+          "en": "Neunkirchen"
+        },
+        "population": 118924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9275,
+          49.2485
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sl",
+        "region_child": "saarbrücken städte",
+        "area": 0.11625900000000042,
+        "bounding_box": [
+          6.713,
+          49.113,
+          7.142,
+          49.384
+        ],
+        "point": [
+          6.9275,
+          49.2485
+        ],
+        "labels": {
+          "en": "Saarbrücken Städte"
+        },
+        "population": 312185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.765000000000001,
+          49.35850000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sl",
+        "region_child": "saarlouis",
+        "area": 0.1357459999999997,
+        "bounding_box": [
+          6.538,
+          49.209,
+          6.992,
+          49.508
+        ],
+        "point": [
+          6.765000000000001,
+          49.35850000000001
+        ],
+        "labels": {
+          "en": "Saarlouis"
+        },
+        "population": 187959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.241,
+          49.2655
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sl",
+        "region_child": "saarpfalz",
+        "area": 0.10294199999999812,
+        "bounding_box": [
+          7.07,
+          49.115,
+          7.412,
+          49.416
+        ],
+        "point": [
+          7.241,
+          49.2655
+        ],
+        "labels": {
+          "en": "Saarpfalz"
+        },
+        "population": 137221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.103999999999999,
+          49.531
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sl",
+        "region_child": "sankt wendel",
+        "area": 0.09697599999999974,
+        "bounding_box": [
+          6.895,
+          49.415,
+          7.313,
+          49.647
+        ],
+        "point": [
+          7.103999999999999,
+          49.531
+        ],
+        "labels": {
+          "en": "Sankt Wendel"
+        },
+        "population": 83694
+      }
+    }
+  ]
+}

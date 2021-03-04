@@ -1,0 +1,959 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.227999999999994,
+          37.042500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-da",
+        "area": 1.1584299999999967,
+        "bounding_box": [
+          42.357,
+          36.71,
+          44.099,
+          37.375
+        ],
+        "point": [
+          43.227999999999994,
+          37.042500000000004
+        ],
+        "labels": {
+          "alt": "Dahuk|D'hok",
+          "local": null,
+          "len": 5,
+          "ar": "دهوك",
+          "bn": "দহুক প্রদেশ",
+          "de": "Gouvernement Dahuk",
+          "en": "Dohuk Governorate",
+          "es": "Gobernación de Duhok",
+          "fr": "Dahuk",
+          "el": "Ντοχούκ",
+          "hi": "दोहूक प्रान्त",
+          "hu": "Dahúk kormányzóság",
+          "id": "Kegubernuran Dahuk",
+          "it": "governatorato di Dahuk",
+          "ja": "ドホーク県",
+          "ko": "다후크 주",
+          "nl": "Duhok",
+          "pl": "Dahuk",
+          "pt": "Dahuk",
+          "ru": "Дахук",
+          "sv": "Dahuk",
+          "tr": "Duhok ili",
+          "vi": "Tỉnh Dohuk",
+          "zh": "杜胡克省"
+        },
+        "population": 2707434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.177499999999995,
+          36.370999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-ar",
+        "area": 3.234489999999998,
+        "bounding_box": [
+          43.32,
+          35.428,
+          45.035,
+          37.314
+        ],
+        "point": [
+          44.177499999999995,
+          36.370999999999995
+        ],
+        "labels": {
+          "alt": "Arbela|Erbil|Irbil",
+          "local": null,
+          "len": 5,
+          "ar": "أربيل",
+          "bn": "আর্বিল প্রদেশ",
+          "de": "Arbil",
+          "en": "Erbil Governorate",
+          "es": "Gobernación de Erbil",
+          "fr": "Erbil",
+          "el": "Ερμπίλ",
+          "hi": "अरबील प्रान्त",
+          "hu": "Erbíl kormányzóság",
+          "id": "Kegubernuran Arbil",
+          "it": "governatorato di Arbil",
+          "ja": "アルビール県",
+          "ko": "아르빌 주",
+          "nl": "Arbil",
+          "pl": "Irbil",
+          "pt": "Arbil",
+          "ru": "Эрбиль",
+          "sv": "Arbil",
+          "tr": "Erbil ili",
+          "vi": "Tỉnh Erbil",
+          "zh": "埃爾比勒省"
+        },
+        "population": 2600241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.546,
+          30.2015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-ba",
+        "area": 4.24535,
+        "bounding_box": [
+          46.561,
+          29.124,
+          48.531,
+          31.279
+        ],
+        "point": [
+          47.546,
+          30.2015
+        ],
+        "labels": {
+          "alt": "Basra|Bassora",
+          "local": null,
+          "len": 9,
+          "ar": "محافظة البصرة",
+          "bn": "বাসরাহ প্রদেশ",
+          "de": "Basra",
+          "en": "Basra Governorate",
+          "es": "Gobernación de Basora",
+          "fr": "Al-Basra",
+          "el": "Μπάσρα Γκοβερνοράτε",
+          "hi": "बसरा प्रान्त",
+          "hu": "Baszra kormányzóság",
+          "id": "Kegubernuran Basra",
+          "it": "governatorato di Bassora",
+          "ja": "バスラ県",
+          "ko": "바스라 주",
+          "nl": "Basra",
+          "pl": "Basra",
+          "pt": "Baçorá",
+          "ru": "Басра",
+          "sv": "Basra",
+          "tr": "Basra ili",
+          "vi": "Tỉnh Basra",
+          "zh": "巴士拉省"
+        },
+        "population": 3372549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.284499999999994,
+          30.3955
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-mu",
+        "area": 7.784465000000006,
+        "bounding_box": [
+          43.824,
+          29.063,
+          46.745,
+          31.728
+        ],
+        "point": [
+          45.284499999999994,
+          30.3955
+        ],
+        "labels": {
+          "alt": "Al-Muthanna",
+          "local": null,
+          "len": 12,
+          "ar": "محافظة المثنى",
+          "bn": "আল মুসান্না প্রদেশ",
+          "de": "al-Muthanna",
+          "en": "Al Muthanna Governorate",
+          "es": "Gobernación de Mutana",
+          "fr": "Al-Muthanna",
+          "el": "Αλ Μουθάννα",
+          "hi": "मुसन्ना प्रान्त",
+          "hu": "Muszanna kormányzóság",
+          "id": "Kegubernuran Al Muthanna",
+          "it": "governatorato di al-Muthanna",
+          "ja": "ムサンナー県",
+          "ko": "무탄나 주",
+          "nl": "Al-Muthanna",
+          "pl": "Al-Musanna",
+          "pt": "Al-Muthanna",
+          "ru": "Мутанна",
+          "sv": "Al-Muthanna",
+          "tr": "Mutanna ili",
+          "vi": "Tỉnh Al Muthanna",
+          "zh": "穆薩納省"
+        },
+        "population": 983542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.43,
+          35.5225
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-su",
+        "area": 3.536859999999993,
+        "bounding_box": [
+          44.54,
+          34.529,
+          46.32,
+          36.516
+        ],
+        "point": [
+          45.43,
+          35.5225
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "السليمانية",
+          "bn": "আস সুলায়মানিয়াহ প্রদেশ",
+          "de": "as-Sulaimaniyya",
+          "en": "Sulaymaniyah Governorate",
+          "es": "Gobernación de Solimania",
+          "fr": "As-Sulaymaniya",
+          "el": "Σουλαϊμανιγιά",
+          "hi": "सुलयमानियाह प्रान्त",
+          "hu": "Szulejmánijja kormányzóság",
+          "id": "Kegubernuran As Sulaymaniyah",
+          "it": "governatorato di Sulaymaniyya",
+          "ja": "スレイマニヤ県",
+          "ko": "술라이마니야 주",
+          "nl": "Sulaymaniyah",
+          "pl": "As-Sulajmanijja",
+          "pt": "As-Sulaymaniyah",
+          "ru": "Сулеймания",
+          "sv": "Sulaymaniyya",
+          "tr": "Süleymaniye ili",
+          "vi": "Tỉnh Sulaymaniyah",
+          "zh": "蘇萊曼尼亞省"
+        },
+        "population": 2258628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1045,
+          34.057
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-di",
+        "area": 3.620214000000005,
+        "bounding_box": [
+          44.245,
+          33.004,
+          45.964,
+          35.11
+        ],
+        "point": [
+          45.1045,
+          34.057
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظة ديالى",
+          "bn": "দিয়ালা প্রদেশ",
+          "de": "Governorat Diyala",
+          "en": "Diyala Governorate",
+          "es": "Gobernación de Diala",
+          "fr": "Diyala",
+          "el": "Ντιγιάλα",
+          "hi": "दियाला प्रान्त",
+          "hu": "Dijála kormányzóság",
+          "id": "Kegubernuran Diyala",
+          "it": "governatorato di Diyala",
+          "ja": "ディヤーラー県",
+          "ko": "디얄라 주",
+          "nl": "Diyala",
+          "pl": "Dijala",
+          "pt": "Diyala",
+          "ru": "Дияла",
+          "sv": "Diyala",
+          "tr": "Diyala ili",
+          "vi": "Tỉnh Diyala",
+          "zh": "迪亞拉省"
+        },
+        "population": 2878344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.569,
+          32.719
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-wa",
+        "area": 3.216780000000005,
+        "bounding_box": [
+          44.534,
+          31.942,
+          46.604,
+          33.496
+        ],
+        "point": [
+          45.569,
+          32.719
+        ],
+        "labels": {
+          "alt": "Kut|Kut-al-Imara",
+          "local": null,
+          "len": 5,
+          "ar": "واسط",
+          "bn": "ওয়াসিত প্রদেশ",
+          "de": "al-Wasit",
+          "en": "Wasit Governorate",
+          "es": "Gobernación de Wasit",
+          "fr": "Wasit",
+          "el": "Βάσιτ",
+          "hi": "वासित प्रान्त",
+          "hu": "Vászit kormányzóság",
+          "id": "Kegubernuran Wasit",
+          "it": "governatorato di Wasit",
+          "ja": "ワーシト県",
+          "ko": "와시트 주",
+          "nl": "Wasit",
+          "pl": "Wasit",
+          "pt": "Wasit",
+          "ru": "Васит",
+          "sv": "Wasit",
+          "tr": "Vasit ili",
+          "vi": "Tỉnh Wasit",
+          "zh": "瓦西特省"
+        },
+        "population": 1543543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.072500000000005,
+          31.9765
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-ma",
+        "area": 2.5784390000000075,
+        "bounding_box": [
+          46.311,
+          31.13,
+          47.834,
+          32.823
+        ],
+        "point": [
+          47.072500000000005,
+          31.9765
+        ],
+        "labels": {
+          "alt": "`Amara",
+          "local": null,
+          "len": 6,
+          "ar": "ميسان",
+          "bn": "মায়সান প্রদেশ",
+          "de": "Maisan",
+          "en": "Maysan Governorate",
+          "es": "Gobernación de Mesena",
+          "fr": "Maysan",
+          "el": "Μέισαν",
+          "hi": "मयसान प्रान्त",
+          "hu": "Mejszán kormányzóság",
+          "id": "Kegubernuran Maysan",
+          "it": "governatorato di Maysan",
+          "ja": "マイサーン県",
+          "ko": "마이산 주",
+          "nl": "Maysan",
+          "pl": "Majsan",
+          "pt": "Maysan",
+          "ru": "Майсан",
+          "sv": "Maysan",
+          "tr": "Maysan ili",
+          "vi": "Tỉnh Maysan",
+          "zh": "米桑省"
+        },
+        "population": 1319592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.531,
+          32.855
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-an",
+        "area": 25.399296000000007,
+        "bounding_box": [
+          38.775,
+          30.551,
+          44.287,
+          35.159
+        ],
+        "point": [
+          41.531,
+          32.855
+        ],
+        "labels": {
+          "alt": "Dulaim|Ramadi",
+          "local": null,
+          "len": 8,
+          "ar": "محافظة الأنبار",
+          "bn": "আল আনবার প্রদেশ",
+          "de": "al-Anbar",
+          "en": "Al Anbar Governorate",
+          "es": "Gobernación de Ambar",
+          "fr": "Al-Anbar",
+          "el": "Κυβερνείο Ανμπάρ",
+          "hi": "अनबार प्रान्त",
+          "hu": "Anbár kormányzóság",
+          "id": "Kegubernuran Al Anbar",
+          "it": "governatorato di al-Anbar",
+          "ja": "アンバール県",
+          "ko": "안바르 주",
+          "nl": "Al-Anbar",
+          "pl": "Al-Anbar",
+          "pt": "Al-Anbar",
+          "ru": "Анбар",
+          "sv": "al-Anbar",
+          "tr": "Anbar ili",
+          "vi": "Tỉnh Al Anbar",
+          "zh": "安巴尔省"
+        },
+        "population": 2642618
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.754999999999995,
+          31.079
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-na",
+        "area": 4.918319999999991,
+        "bounding_box": [
+          42.783,
+          29.814,
+          44.727,
+          32.344
+        ],
+        "point": [
+          43.754999999999995,
+          31.079
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "النجف",
+          "bn": "নাজাফ প্রদেশ",
+          "de": "Gouvernement Nadschaf",
+          "en": "Najaf Governorate",
+          "es": "Gobernación de Nayaf",
+          "fr": "An-Najaf",
+          "el": "Νατζάφ",
+          "hi": "नजफ़ प्रान्त",
+          "hu": "Nedzsef kormányzóság",
+          "id": "Kegubernuran Najaf",
+          "it": "governatorato di Najaf",
+          "ja": "ナジャフ県",
+          "ko": "나자프 주",
+          "nl": "An-Najaf",
+          "pl": "An-Nadżaf",
+          "pt": "An-Najaf",
+          "ru": "Наджаф",
+          "sv": "Najaf",
+          "tr": "Necef ili",
+          "vi": "Tỉnh Najaf",
+          "zh": "納傑夫省"
+        },
+        "population": 1738676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7445,
+          36.004999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-ni",
+        "area": 6.563969999999984,
+        "bounding_box": [
+          41.192,
+          34.948,
+          44.297,
+          37.062
+        ],
+        "point": [
+          42.7445,
+          36.004999999999995
+        ],
+        "labels": {
+          "alt": "Al-Mawsil|Mosul|Ninive|N¡nive|Nineveh|Niniveh",
+          "local": null,
+          "len": 6,
+          "ar": "نينوى",
+          "bn": "নিনাওয়া প্রদেশ",
+          "de": "Ninawa",
+          "en": "Nineveh Governorate",
+          "es": "Gobernación de Nínive",
+          "fr": "Ninive",
+          "el": "Ντουχόκ",
+          "hi": "नीनवा प्रान्त",
+          "hu": "Ninive kormányzóság",
+          "id": "Kegubernuran Ninawa",
+          "it": "governatorato di Ninive",
+          "ja": "ニーナワー県",
+          "ko": "니나와 주",
+          "nl": "Ninawa",
+          "pl": "Niniwa",
+          "pt": "Ninawa",
+          "ru": "Найнава",
+          "sv": "Ninawa",
+          "tr": "Nineve ili",
+          "vi": "Tỉnh Duhok",
+          "zh": "尼尼微省"
+        },
+        "population": 4268685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7285,
+          34.578
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-sd",
+        "area": 5.667750000000001,
+        "bounding_box": [
+          42.491,
+          33.433,
+          44.966,
+          35.723
+        ],
+        "point": [
+          43.7285,
+          34.578
+        ],
+        "labels": {
+          "alt": "Salah ad-Din|Salaheddin",
+          "local": null,
+          "len": 11,
+          "ar": "صلاح الدين",
+          "bn": "সালাহউদ্দিন প্রদেশ",
+          "de": "Salah ad-Din",
+          "en": "Saladin Governorate",
+          "es": "Gobernación de Saladino",
+          "fr": "Salah ad-Din",
+          "el": "Κυβερνείο Σαλαντίν",
+          "hi": "सलाहुद्दीन प्रान्त",
+          "hu": "Szaláh ed-Dín kormányzóság",
+          "id": "Kegubernuran Salah ad Din",
+          "it": "governatorato di Salah al-Din",
+          "ja": "サラーフッディーン県",
+          "ko": "살라딘 주",
+          "nl": "Salah ad Din",
+          "pl": "Salah Ad-Din",
+          "pt": "Salah-ad-Din",
+          "ru": "Салах-эд-Дин",
+          "sv": "Saladin",
+          "tr": "Selahaddin ili",
+          "vi": "Tỉnh Saladin",
+          "zh": "萨拉赫丁省"
+        },
+        "population": 3653011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.036,
+          35.295500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-ts",
+        "area": 1.8092920000000028,
+        "bounding_box": [
+          43.27,
+          34.705,
+          44.802,
+          35.886
+        ],
+        "point": [
+          44.036,
+          35.295500000000004
+        ],
+        "labels": {
+          "alt": "Kirkuk|Tamin",
+          "local": null,
+          "len": 9,
+          "ar": "كركوك",
+          "bn": "কির্কুক প্রদেশ",
+          "de": "Kirkuk",
+          "en": "Kirkuk Governorate",
+          "es": "Gobernación de Kirkuk",
+          "fr": "Kirkouk",
+          "el": "Κίρκουκ Γκοβερνοράτε",
+          "hi": "करकूक प्रान्त",
+          "hu": "Kirkuk kormányzóság",
+          "id": "Provinsi Kirkuk",
+          "it": "Governatorato di Kirkuk",
+          "ja": "キルクーク県",
+          "ko": "키르쿠크 주",
+          "nl": "Kirkoek",
+          "pl": "Kirkuk",
+          "pt": "Kirkuk",
+          "ru": "Киркук",
+          "sv": "Kirkuk",
+          "tr": "Kerkük ili",
+          "vi": "Tỉnh Kirkuk",
+          "zh": "基爾庫克省"
+        },
+        "population": 1837240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3845,
+          33.304
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-bg",
+        "area": 0.08115200000000011,
+        "bounding_box": [
+          44.226,
+          33.176,
+          44.543,
+          33.432
+        ],
+        "point": [
+          44.3845,
+          33.304
+        ],
+        "labels": {
+          "alt": "Bagd |Bagdad",
+          "local": null,
+          "len": 7,
+          "ar": "محافظة بغداد",
+          "bn": "বাগদাদ প্রদেশ",
+          "de": "Gouvernorat Bagdad",
+          "en": "Baghdad Governorate",
+          "es": "Gobernación de Bagdad",
+          "fr": "Bagdad",
+          "el": null,
+          "hi": "बग़दाद प्रान्त",
+          "hu": "Bagdad kormányzóság",
+          "id": "Kegubernuran Bagdad",
+          "it": "governatorato di Baghdad",
+          "ja": "バグダード県",
+          "ko": "바그다드 주",
+          "nl": "Bagdad",
+          "pl": "Bagdad",
+          "pt": "Bagdad",
+          "ru": "Багдад",
+          "sv": "Guvernementet Bagdad",
+          "tr": "Bağdat ili",
+          "vi": null,
+          "zh": "巴格達省"
+        },
+        "population": 4105873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.509,
+          32.662499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-bb",
+        "area": 1.486862000000001,
+        "bounding_box": [
+          43.82,
+          32.123,
+          45.198,
+          33.202
+        ],
+        "point": [
+          44.509,
+          32.662499999999994
+        ],
+        "labels": {
+          "alt": "Babylon|Hilla",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة بابل",
+          "bn": "বাবিল প্রদেশ",
+          "de": "Babil",
+          "en": "Babylon Governorate",
+          "es": "Gobernación de Babilonia",
+          "fr": "Babil",
+          "el": "Μπάμπιλον Γκοβερνοράτε",
+          "hi": "बाबिल प्रान्त",
+          "hu": "Bábil kormányzóság",
+          "id": "Kegubernuran Babil",
+          "it": "governatorato di Babil",
+          "ja": "バービル県",
+          "ko": "바빌 주",
+          "nl": "Babil",
+          "pl": "Babil",
+          "pt": "Babil",
+          "ru": "Бабиль",
+          "sv": "Babil",
+          "tr": "Babil ili",
+          "vi": "Tỉnh Babylon",
+          "zh": "巴比倫省"
+        },
+        "population": 2614034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.11,
+          31.8285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-qa",
+        "area": 1.5291119999999998,
+        "bounding_box": [
+          44.434,
+          31.263,
+          45.786,
+          32.394
+        ],
+        "point": [
+          45.11,
+          31.8285
+        ],
+        "labels": {
+          "alt": "Diwaniyah",
+          "local": null,
+          "len": 12,
+          "ar": "محافظة القادسية",
+          "bn": "আল-কাদিসিয়্যাহ প্রদেশ",
+          "de": "al-Qadisiyya",
+          "en": "Al-Qādisiyyah Governorate",
+          "es": "Gobernación de Cadisia",
+          "fr": "Al-Qadisiyya",
+          "el": "Αλ Καντισιγιά Γκοβερνοράτε",
+          "hi": "क़ादिसियाह​ प्रान्त",
+          "hu": "Kádiszijja kormányzóság",
+          "id": "Kegubernuran Al-Qādisiyyah",
+          "it": "governatorato di al-Qadisiyya",
+          "ja": "カーディーシーヤ県",
+          "ko": "카디시야 주",
+          "nl": "Al-Qadisiyah",
+          "pl": "Al-Kadisijja",
+          "pt": "Al-Qadisiyyah",
+          "ru": "Кадисия",
+          "sv": "al-Qadisiyya",
+          "tr": "Kadisiye ili",
+          "vi": "Tỉnh Al-Qadisiyyah",
+          "zh": "卡迪西亞省"
+        },
+        "population": 1878848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.420500000000004,
+          31.256500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-dq",
+        "area": 2.139212999999997,
+        "bounding_box": [
+          45.706,
+          30.508,
+          47.135,
+          32.005
+        ],
+        "point": [
+          46.420500000000004,
+          31.256500000000003
+        ],
+        "labels": {
+          "alt": "Dhi Qar|Muntafiq|Nasiriyah|Thi-Qar",
+          "local": null,
+          "len": 7,
+          "ar": "ذي قار",
+          "bn": "জি কার প্রদেশ",
+          "de": "Dhi Qar",
+          "en": "Dhi Qar Governorate",
+          "es": "Gobernación de Di Car",
+          "fr": "Dhi Qar",
+          "el": "Ντι Καρ",
+          "hi": "ज़ी क़ार प्रान्त",
+          "hu": "Dzi Kár kormányzóság",
+          "id": "Kegubernuran Dhi Qar",
+          "it": "governatorato di Dhi Qar",
+          "ja": "ジーカール県",
+          "ko": "디카르 주",
+          "nl": "Dhi Qar",
+          "pl": "Zi Kar",
+          "pt": "Dhi Qar",
+          "ru": "Ди-Кар",
+          "sv": "Dhi Qar",
+          "tr": "Zi Kar İli",
+          "vi": "Tỉnh Dhi Qar",
+          "zh": "濟加爾省"
+        },
+        "population": 2508131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.765,
+          32.497
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "iq",
+        "region_child": "iq-ka",
+        "area": 0.729064000000004,
+        "bounding_box": [
+          43.211,
+          32.168,
+          44.319,
+          32.826
+        ],
+        "point": [
+          43.765,
+          32.497
+        ],
+        "labels": {
+          "alt": "Kerbela",
+          "local": null,
+          "len": 8,
+          "ar": "كربلاء",
+          "bn": "কারবালা প্রদেশ",
+          "de": "Karbala",
+          "en": "Karbala Governorate",
+          "es": "Gobernación de Kerbala",
+          "fr": "Karbala",
+          "el": "Κάρμπαλα",
+          "hi": "करबला प्रान्त",
+          "hu": "Kerbela kormányzóság",
+          "id": "Kegubernuran Karbala",
+          "it": "governatorato di Kerbela",
+          "ja": "カルバラー県",
+          "ko": "카르발라 주",
+          "nl": "Karbala",
+          "pl": "Karbala",
+          "pt": "Karbala",
+          "ru": "Кербела",
+          "sv": "Karbala",
+          "tr": "Kerbela ili",
+          "vi": "Tỉnh Karbala",
+          "zh": "卡爾巴拉省"
+        },
+        "population": 1513917
+      }
+    }
+  ]
+}

@@ -1,0 +1,815 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6375,
+          49.6255
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "bergstraße",
+        "area": 0.1394030000000001,
+        "bounding_box": [
+          8.362,
+          49.499,
+          8.913,
+          49.752
+        ],
+        "point": [
+          8.6375,
+          49.6255
+        ],
+        "labels": {
+          "en": "Bergstraße"
+        },
+        "population": 250420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.877500000000001,
+          49.4485
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "bergstraße",
+        "area": 0.013794999999999731,
+        "bounding_box": [
+          8.8,
+          49.404,
+          8.955,
+          49.493
+        ],
+        "point": [
+          8.877500000000001,
+          49.4485
+        ],
+        "labels": {
+          "en": "Bergstraße"
+        },
+        "population": 250420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.796,
+          49.863
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "darmstadt-dieburg",
+        "area": 0.14631600000000067,
+        "bounding_box": [
+          8.529,
+          49.726,
+          9.063,
+          50.0
+        ],
+        "point": [
+          8.796,
+          49.863
+        ],
+        "labels": {
+          "en": "Darmstadt-Dieburg"
+        },
+        "population": 289441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.665,
+          49.8765
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "darmstadt städte",
+        "area": 0.02945000000000014,
+        "bounding_box": [
+          8.57,
+          49.799,
+          8.76,
+          49.954
+        ],
+        "point": [
+          8.665,
+          49.8765
+        ],
+        "labels": {
+          "en": "Darmstadt Städte"
+        },
+        "population": 137086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.651,
+          50.1175
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "frankfurt am main städte",
+        "area": 0.06527199999999925,
+        "bounding_box": [
+          8.487,
+          50.018,
+          8.815,
+          50.217
+        ],
+        "point": [
+          8.651,
+          50.1175
+        ],
+        "labels": {
+          "en": "Frankfurt am Main Städte"
+        },
+        "population": 710132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4735,
+          49.9005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "groß-gerau",
+        "area": 0.12300499999999819,
+        "bounding_box": [
+          8.305,
+          49.718,
+          8.642,
+          50.083
+        ],
+        "point": [
+          8.4735,
+          49.9005
+        ],
+        "labels": {
+          "en": "Groß-Gerau"
+        },
+        "population": 248410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.532499999999999,
+          50.2845
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "hochtaunuskreis",
+        "area": 0.10413899999999805,
+        "bounding_box": [
+          8.333,
+          50.154,
+          8.732,
+          50.415
+        ],
+        "point": [
+          8.532499999999999,
+          50.2845
+        ],
+        "labels": {
+          "en": "Hochtaunuskreis"
+        },
+        "population": 244292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2715,
+          50.266000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "main-kinzig-kreis",
+        "area": 0.37611000000000316,
+        "bounding_box": [
+          8.799,
+          50.067,
+          9.744,
+          50.465
+        ],
+        "point": [
+          9.2715,
+          50.266000000000005
+        ],
+        "labels": {
+          "en": "Main-Kinzig-Kreis"
+        },
+        "population": 378667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.476500000000001,
+          50.0925
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "main-taunus-kreis städte",
+        "area": 0.05518499999999998,
+        "bounding_box": [
+          8.335,
+          49.995,
+          8.618,
+          50.19
+        ],
+        "point": [
+          8.476500000000001,
+          50.0925
+        ],
+        "labels": {
+          "en": "Main-Taunus-Kreis Städte"
+        },
+        "population": 236211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9785,
+          49.670500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "odenwaldkreis",
+        "area": 0.1413270000000009,
+        "bounding_box": [
+          8.794,
+          49.479,
+          9.163,
+          49.862
+        ],
+        "point": [
+          8.9785,
+          49.670500000000004
+        ],
+        "labels": {
+          "en": "Odenwaldkreis"
+        },
+        "population": 91683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.799,
+          50.0925
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "offenbach am main städte",
+        "area": 0.010857999999999823,
+        "bounding_box": [
+          8.738,
+          50.048,
+          8.86,
+          50.137
+        ],
+        "point": [
+          8.799,
+          50.0925
+        ],
+        "labels": {
+          "en": "Offenbach am Main Städte"
+        },
+        "population": 91259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.836500000000001,
+          50.04
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "offenbach",
+        "area": 0.08666800000000116,
+        "bounding_box": [
+          8.606,
+          49.946,
+          9.067,
+          50.134
+        ],
+        "point": [
+          8.836500000000001,
+          50.04
+        ],
+        "labels": {
+          "en": "Offenbach"
+        },
+        "population": 325853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.107,
+          50.13249999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "rheingau-taunus-kreis",
+        "area": 0.2080120000000003,
+        "bounding_box": [
+          7.785,
+          49.971,
+          8.429,
+          50.294
+        ],
+        "point": [
+          8.107,
+          50.13249999999999
+        ],
+        "labels": {
+          "en": "Rheingau-Taunus-Kreis"
+        },
+        "population": 184204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.915,
+          50.329
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "wetteraukreis",
+        "area": 0.2573759999999989,
+        "bounding_box": [
+          8.532,
+          50.161,
+          9.298,
+          50.497
+        ],
+        "point": [
+          8.915,
+          50.329
+        ],
+        "labels": {
+          "en": "Wetteraukreis"
+        },
+        "population": 279657
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.264,
+          50.0685
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "wiesbaden städte",
+        "area": 0.04216000000000035,
+        "bounding_box": [
+          8.128,
+          49.991,
+          8.4,
+          50.146
+        ],
+        "point": [
+          8.264,
+          50.0685
+        ],
+        "labels": {
+          "en": "Wiesbaden Städte"
+        },
+        "population": 280735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84,
+          50.560500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "gießen",
+        "area": 0.17392199999999938,
+        "bounding_box": [
+          8.537,
+          50.417,
+          9.143,
+          50.704
+        ],
+        "point": [
+          8.84,
+          50.560500000000005
+        ],
+        "labels": {
+          "en": "Gießen"
+        },
+        "population": 249521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.392,
+          50.6375
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "lahn-dill-kreis",
+        "area": 0.2659020000000007,
+        "bounding_box": [
+          8.119,
+          50.394,
+          8.665,
+          50.881
+        ],
+        "point": [
+          8.392,
+          50.6375
+        ],
+        "labels": {
+          "en": "Lahn-Dill-Kreis"
+        },
+        "population": 243232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2345,
+          50.4275
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "limburg-weilburg",
+        "area": 0.16583100000000137,
+        "bounding_box": [
+          7.984,
+          50.262,
+          8.485,
+          50.593
+        ],
+        "point": [
+          8.2345,
+          50.4275
+        ],
+        "labels": {
+          "en": "Limburg-Weilburg"
+        },
+        "population": 158481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7655,
+          50.832
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "marburg-biedenkopf",
+        "area": 0.25693199999999883,
+        "bounding_box": [
+          8.369,
+          50.67,
+          9.162,
+          50.994
+        ],
+        "point": [
+          8.7655,
+          50.832
+        ],
+        "labels": {
+          "en": "Marburg-Biedenkopf"
+        },
+        "population": 228153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.286999999999999,
+          50.6065
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "vogelsbergkreis",
+        "area": 0.323390000000003,
+        "bounding_box": [
+          8.922,
+          50.385,
+          9.652,
+          50.828
+        ],
+        "point": [
+          9.286999999999999,
+          50.6065
+        ],
+        "labels": {
+          "en": "Vogelsbergkreis"
+        },
+        "population": 97681
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7575,
+          50.584
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "fulda",
+        "area": 0.2956499999999972,
+        "bounding_box": [
+          9.429,
+          50.359,
+          10.086,
+          50.809
+        ],
+        "point": [
+          9.7575,
+          50.584
+        ],
+        "labels": {
+          "en": "Fulda"
+        },
+        "population": 213089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.756,
+          50.9045
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "hersfeld-rotenburg",
+        "area": 0.2302559999999994,
+        "bounding_box": [
+          9.444,
+          50.72,
+          10.068,
+          51.089
+        ],
+        "point": [
+          9.756,
+          50.9045
+        ],
+        "labels": {
+          "en": "Hersfeld-Rotenburg"
+        },
+        "population": 112162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.467500000000001,
+          51.310500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "kassel städte",
+        "area": 0.019383000000000157,
+        "bounding_box": [
+          9.361,
+          51.265,
+          9.574,
+          51.356
+        ],
+        "point": [
+          9.467500000000001,
+          51.310500000000005
+        ],
+        "labels": {
+          "en": "Kassel Städte"
+        },
+        "population": 199370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4345,
+          51.4145
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "kassel",
+        "area": 0.31185499999999994,
+        "bounding_box": [
+          9.113,
+          51.172,
+          9.756,
+          51.657
+        ],
+        "point": [
+          9.4345,
+          51.4145
+        ],
+        "labels": {
+          "en": "Kassel"
+        },
+        "population": 221794
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.381499999999999,
+          51.0135
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "schwalm-eder-kreis",
+        "area": 0.38386500000000257,
+        "bounding_box": [
+          8.989,
+          50.769,
+          9.774,
+          51.258
+        ],
+        "point": [
+          9.381499999999999,
+          51.0135
+        ],
+        "labels": {
+          "en": "Schwalm-Eder-Kreis"
+        },
+        "population": 168934
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.86,
+          51.226
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "waldeck-frankenberg",
+        "area": 0.4383279999999985,
+        "bounding_box": [
+          8.486,
+          50.933,
+          9.234,
+          51.519
+        ],
+        "point": [
+          8.86,
+          51.226
+        ],
+        "labels": {
+          "en": "Waldeck-Frankenberg"
+        },
+        "population": 147653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.934000000000001,
+          51.208
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-he",
+        "region_child": "werra-meißner-kreis",
+        "area": 0.2569439999999996,
+        "bounding_box": [
+          9.631,
+          50.996,
+          10.237,
+          51.42
+        ],
+        "point": [
+          9.934000000000001,
+          51.208
+        ],
+        "labels": {
+          "en": "Werra-Meißner-Kreis"
+        },
+        "population": 92576
+      }
+    }
+  ]
+}

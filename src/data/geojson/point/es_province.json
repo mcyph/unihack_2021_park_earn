@@ -1,0 +1,3397 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.335,
+          35.885999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-ce",
+        "area": 0.0067079999999996665,
+        "bounding_box": [
+          -5.378,
+          35.847,
+          -5.292,
+          35.925
+        ],
+        "point": [
+          -5.335,
+          35.885999999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "سبتة",
+          "bn": "সিউচা",
+          "de": "Ceuta",
+          "en": "Ceuta",
+          "es": "Ceuta",
+          "fr": "Ceuta",
+          "el": "Θέουτα",
+          "hi": "सेउटा",
+          "hu": "Ceuta",
+          "id": "Ceuta",
+          "it": "Ceuta",
+          "ja": "セウタ",
+          "ko": "세우타",
+          "nl": "Ceuta",
+          "pl": "Ceuta",
+          "pt": "Ceuta",
+          "ru": "Сеута",
+          "sv": "Ceuta",
+          "tr": "Ceuta",
+          "vi": "Ceuta",
+          "zh": "休达"
+        },
+        "population": 103199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94,
+          35.299
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-ml",
+        "area": 0.003347999999999888,
+        "bounding_box": [
+          -2.967,
+          35.268,
+          -2.913,
+          35.33
+        ],
+        "point": [
+          -2.94,
+          35.299
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مليلية",
+          "bn": "মেলিলা",
+          "de": "Melilla",
+          "en": "Melilla",
+          "es": "Melilla",
+          "fr": "Melilla",
+          "el": "Μελίγια",
+          "hi": "मेलिला",
+          "hu": "Melilla",
+          "id": "Melilla",
+          "it": "Melilla",
+          "ja": "メリリャ",
+          "ko": "멜리야",
+          "nl": "Melilla",
+          "pl": "Melilla",
+          "pt": "Melilla",
+          "ru": "Мелилья",
+          "sv": "Melilla",
+          "tr": "Melilla",
+          "vi": "Melilla",
+          "zh": "梅利利亚"
+        },
+        "population": 93115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.619,
+          42.6065
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-na",
+        "area": 2.438460000000005,
+        "bounding_box": [
+          -2.493,
+          41.909,
+          -0.745,
+          43.304
+        ],
+        "point": [
+          -1.619,
+          42.6065
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "منطقة نافارا",
+          "bn": "নাবারা",
+          "de": "Autonome Gemeinschaft Navarra",
+          "en": "Navarre",
+          "es": "Navarra",
+          "fr": "communauté forale de Navarre",
+          "el": "Ναβάρρα",
+          "hi": "नावारा",
+          "hu": "Navarra",
+          "id": "Navarra",
+          "it": "Navarra",
+          "ja": "ナバラ州",
+          "ko": "나바라 지방",
+          "nl": "Navarra",
+          "pl": "Nawarra",
+          "pt": "Navarra",
+          "ru": "Наварра",
+          "sv": "Navarra",
+          "tr": "Navarra",
+          "vi": "Navarra",
+          "zh": "納瓦拉"
+        },
+        "population": 696894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1545,
+          43.1475
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-ss",
+        "area": 0.4004550000000038,
+        "bounding_box": [
+          -2.559,
+          42.9,
+          -1.75,
+          43.395
+        ],
+        "point": [
+          -2.1545,
+          43.1475
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "غيبوثكوا",
+          "bn": "গিপুজকোয়া",
+          "de": "Gipuzkoa",
+          "en": "Gipuzkoa",
+          "es": "Guipúzcoa",
+          "fr": "Guipuscoa",
+          "el": "Γκιπούθκοα",
+          "hi": "जिपूज़को",
+          "hu": "Gipuzkoa",
+          "id": "Gipuzkoa",
+          "it": "Guipúzcoa",
+          "ja": "ギプスコア県",
+          "ko": "기푸스코아 주",
+          "nl": "Gipuzkoa",
+          "pl": "Prowincja Guipúzcoa",
+          "pt": "Guipúscoa",
+          "ru": "Гипускоа",
+          "sv": "Guipúzcoa",
+          "tr": "Guipúzcoa ili",
+          "vi": "Guipuscoa",
+          "zh": "吉普斯夸省"
+        },
+        "population": 718252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08050000000000002,
+          42.135
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-hu",
+        "area": 2.6389439999999964,
+        "bounding_box": [
+          -0.922,
+          41.351,
+          0.761,
+          42.919
+        ],
+        "point": [
+          -0.08050000000000002,
+          42.135
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "وشقة",
+          "bn": "হুয়েস্কা প্রদেশ",
+          "de": "Provinz Huesca",
+          "en": "Huesca Province",
+          "es": "provincia de Huesca",
+          "fr": "province de Huesca",
+          "el": "επαρχία της Ουέσκας",
+          "hi": "ह्यूसका प्रांत",
+          "hu": "Huesca",
+          "id": "Provinsi Huesca",
+          "it": "Provincia di Huesca",
+          "ja": "ウエスカ県",
+          "ko": "우에스카 주",
+          "nl": "Huesca",
+          "pl": "Huesca",
+          "pt": "Huesca",
+          "ru": "Уэска",
+          "sv": "Huesca",
+          "tr": "Huesca ili",
+          "vi": "Huesca",
+          "zh": "韋斯卡省"
+        },
+        "population": 243866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.086,
+          42.0355
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-l",
+        "area": 2.429970000000006,
+        "bounding_box": [
+          0.329,
+          41.233,
+          1.843,
+          42.838
+        ],
+        "point": [
+          1.086,
+          42.0355
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "لاردة",
+          "bn": "লিইডা প্রদেশ",
+          "de": "Provinz Lleida",
+          "en": "Lleida Province",
+          "es": "Provincia de Lérida",
+          "fr": "province de Lérida",
+          "el": "Επαρχία της Λιέιδα",
+          "hi": "लीडा प्रांत",
+          "hu": "Lleida",
+          "id": "Provinsi Lleida",
+          "it": "Provincia di Lleida",
+          "ja": "リェイダ県",
+          "ko": "예이다 주",
+          "nl": "Lerida",
+          "pl": "Lleida",
+          "pt": "Província de Lérida",
+          "ru": "Льейда",
+          "sv": "Lleida",
+          "tr": "Lérida ili",
+          "vi": "Lérida",
+          "zh": "莱里达省"
+        },
+        "population": 521926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.515,
+          42.07
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-gi",
+        "area": 1.3618879999999984,
+        "bounding_box": [
+          1.712,
+          41.646,
+          3.318,
+          42.494
+        ],
+        "point": [
+          2.515,
+          42.07
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "جرندة",
+          "bn": "গিরোনা প্রদেশ",
+          "de": "Provinz Girona",
+          "en": "Girona Province",
+          "es": "provincia de Gerona",
+          "fr": "province de Gérone",
+          "el": "Ζιρόνα",
+          "hi": "गिरोना प्रांत",
+          "hu": "Girona",
+          "id": "Provinsi Girona",
+          "it": "Provincia di Girona",
+          "ja": "ジローナ県",
+          "ko": "지로나 주",
+          "nl": "Gerona",
+          "pl": "Girona",
+          "pt": "Girona",
+          "ru": "Жирона",
+          "sv": "Girona",
+          "tr": "Gerona ili",
+          "vi": "Girona",
+          "zh": "赫羅納省"
+        },
+        "population": 938562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.540000000000001,
+          42.194500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-or",
+        "area": 1.2302680000000048,
+        "bounding_box": [
+          -8.342,
+          41.811,
+          -6.738,
+          42.578
+        ],
+        "point": [
+          -7.540000000000001,
+          42.194500000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "أورينسي",
+          "bn": "ওরেন্স প্রদেশ",
+          "de": "Provinz Ourense",
+          "en": "Ourense Province",
+          "es": "Provincia de Orense",
+          "fr": "province d'Ourense",
+          "el": "Ουρένσε",
+          "hi": "ओउरेंस प्रांत",
+          "hu": "Ourense",
+          "id": "Provinsi Ourense",
+          "it": "Provincia di Ourense",
+          "ja": "オウレンセ県",
+          "ko": "오렌세 주",
+          "nl": "Ourense",
+          "pl": "Ourense",
+          "pt": "Ourense",
+          "ru": "Оренсе",
+          "sv": "Orense",
+          "tr": "Ourense ili",
+          "vi": "Ourense",
+          "zh": "奥伦塞省"
+        },
+        "population": 322136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4075,
+          42.379999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-po",
+        "area": 0.9980300000000059,
+        "bounding_box": [
+          -8.935,
+          41.907,
+          -7.88,
+          42.853
+        ],
+        "point": [
+          -8.4075,
+          42.379999999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "بونتيفيدرا",
+          "bn": "পন্টেভেদ্রা প্রদেশ",
+          "de": "Provinz Pontevedra",
+          "en": "Pontevedra Province",
+          "es": "provincia de Pontevedra",
+          "fr": "province de Pontevedra",
+          "el": "Επαρχία της Ποντεβέδρα",
+          "hi": "पोंटेवेड्रा प्रांत",
+          "hu": "Pontevedra",
+          "id": "Provinsi Pontevedra",
+          "it": "Provincia di Pontevedra",
+          "ja": "ポンテベドラ県",
+          "ko": "폰테베드라 주",
+          "nl": "Pontevedra",
+          "pl": "Pontevedra",
+          "pt": "Pontevedra",
+          "ru": "Понтеведра",
+          "sv": "Pontevedra",
+          "tr": "Pontevedra ili",
+          "vi": "Pontevedra",
+          "zh": "蓬特韋德拉省"
+        },
+        "population": 956783
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.127000000000001,
+          41.686499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-za",
+        "area": 2.0348680000000052,
+        "bounding_box": [
+          -7.025,
+          41.12,
+          -5.229,
+          42.253
+        ],
+        "point": [
+          -6.127000000000001,
+          41.686499999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "سمورة",
+          "bn": "জামোড়া প্রদেশ",
+          "de": "Provinz Zamora",
+          "en": "Zamora Province",
+          "es": "Provincia de Zamora",
+          "fr": "province de Zamora",
+          "el": "Επαρχία της Θαμόρα",
+          "hi": "ज़मोरा प्रांत",
+          "hu": "Zamora",
+          "id": "Provinsi Zamora",
+          "it": "provincia di Zamora",
+          "ja": "サモラ県",
+          "ko": "사모라 주",
+          "nl": "Zamora",
+          "pl": "Zamora",
+          "pt": "Zamora",
+          "ru": "Самора",
+          "sv": "Zamora",
+          "tr": "Zamora ili",
+          "vi": "Zamora",
+          "zh": "萨莫拉省"
+        },
+        "population": 186213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.019,
+          40.7745
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-sa",
+        "area": 1.951221999999991,
+        "bounding_box": [
+          -6.942,
+          40.246,
+          -5.096,
+          41.303
+        ],
+        "point": [
+          -6.019,
+          40.7745
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "شلمنقة",
+          "bn": "সালামানকা প্রদেশ",
+          "de": "Provinz Salamanca",
+          "en": "Salamanca Province",
+          "es": "Provincia de Salamanca",
+          "fr": "province de Salamanque",
+          "el": "Σαλαμάνκα",
+          "hi": "सैलामैंका प्रांत",
+          "hu": "Salamanca",
+          "id": "Provinsi Salamanca",
+          "it": "Provincia di Salamanca",
+          "ja": "サラマンカ県",
+          "ko": "살라망카 주",
+          "nl": "Salamanca",
+          "pl": "Salamanka",
+          "pt": "Salamanca",
+          "ru": "Саламанка",
+          "sv": "Salamanca",
+          "tr": "Salamanca ili",
+          "vi": "Salamanca",
+          "zh": "萨拉曼卡省"
+        },
+        "population": 355522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.250500000000001,
+          39.7545
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-cc",
+        "area": 3.781011000000008,
+        "bounding_box": [
+          -7.557,
+          39.031,
+          -4.944,
+          40.478
+        ],
+        "point": [
+          -6.250500000000001,
+          39.7545
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "قصرش",
+          "bn": "সিরেরেস প্রদেশ",
+          "de": "Provinz Cáceres",
+          "en": "Cáceres Province",
+          "es": "provincia de Cáceres",
+          "fr": "province de Cáceres",
+          "el": "Επαρχία του Κάθερες",
+          "hi": "कासेरेस प्रांत",
+          "hu": "Cáceres",
+          "id": "Provinsi Cáceres",
+          "it": "Provincia di Cáceres",
+          "ja": "カセレス県",
+          "ko": "카세레스 주",
+          "nl": "Cáceres",
+          "pl": "Cáceres",
+          "pt": "Cáceres",
+          "ru": "Касерес",
+          "sv": "Cáceres",
+          "tr": "Cáceres ili",
+          "vi": "Cáceres",
+          "zh": "卡塞雷斯省"
+        },
+        "population": 422919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.026,
+          38.694500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-ba",
+        "area": 4.028326000000008,
+        "bounding_box": [
+          -7.359,
+          37.939,
+          -4.693,
+          39.45
+        ],
+        "point": [
+          -6.026,
+          38.694500000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "بطليوس",
+          "bn": "বাদাজোজ প্রদেশ",
+          "de": "Provinz Badajoz",
+          "en": "Badajoz Province",
+          "es": "provincia de Badajoz",
+          "fr": "province de Badajoz",
+          "el": "Μπαδαχόθ",
+          "hi": "बदाओज़ प्रांत",
+          "hu": "Badajoz tartomány",
+          "id": "Provinsi Badajoz",
+          "it": "Provincia di Badajoz",
+          "ja": "バダホス県",
+          "ko": "바다호스 주",
+          "nl": "Badajoz",
+          "pl": "Badajoz",
+          "pt": "Badajoz",
+          "ru": "Бадахос",
+          "sv": "Badajoz",
+          "tr": "Badajoz ili",
+          "vi": "Badajoz",
+          "zh": "巴达霍斯省"
+        },
+        "population": 725363
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7605,
+          36.522999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-ca",
+        "area": 1.3907299999999982,
+        "bounding_box": [
+          -6.433,
+          36.006,
+          -5.088,
+          37.04
+        ],
+        "point": [
+          -5.7605,
+          36.522999999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "قادس",
+          "bn": "কাদিস প্রদেশ",
+          "de": "Provinz Cádiz",
+          "en": "Cádiz Province",
+          "es": "provincia de Cádiz",
+          "fr": "province de Cadix",
+          "el": "Επαρχία Κάδιθ",
+          "hi": "कैडीज़ प्रांत",
+          "hu": "Cádiz",
+          "id": "Provinsi Cádiz",
+          "it": "Provincia di Cadice",
+          "ja": "カディス県",
+          "ko": "카디스 주",
+          "nl": "Cádiz",
+          "pl": "Kadyks",
+          "pt": "Cádis",
+          "ru": "Кадис",
+          "sv": "Cádiz",
+          "tr": "Cádiz ili",
+          "vi": "Cádiz",
+          "zh": "加的斯省"
+        },
+        "population": 1109772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8285,
+          37.503
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-h",
+        "area": 1.9501700000000015,
+        "bounding_box": [
+          -7.53,
+          36.808,
+          -6.127,
+          38.198
+        ],
+        "point": [
+          -6.8285,
+          37.503
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "ولبة",
+          "bn": "হুল্ভা প্রদেশ",
+          "de": "Provinz Huelva",
+          "en": "Huelva Province",
+          "es": "Provincia de Huelva",
+          "fr": "province de Huelva",
+          "el": "Επαρχία της Ουέλβα",
+          "hi": "हुएल्वा प्रांत",
+          "hu": "Huelva tartomány",
+          "id": "Provinsi Huelva",
+          "it": "Provincia di Huelva",
+          "ja": "ウエルバ県",
+          "ko": "우엘바 주",
+          "nl": "Huelva",
+          "pl": "Huelva",
+          "pt": "Província de Huelva",
+          "ru": "Уэльва",
+          "sv": "Huelva",
+          "tr": "Huelva ili",
+          "vi": "Huelva",
+          "zh": "韋爾瓦省"
+        },
+        "population": 550933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0855,
+          41.754999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-b",
+        "area": 1.5595099999999968,
+        "bounding_box": [
+          1.393,
+          41.192,
+          2.778,
+          42.318
+        ],
+        "point": [
+          2.0855,
+          41.754999999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "برشلونة",
+          "bn": "বার্সেলোনা প্রদেশ",
+          "de": "Provinz Barcelona",
+          "en": "Barcelona Province",
+          "es": "provincia de Barcelona",
+          "fr": "province de Barcelone",
+          "el": "Επαρχία της Βαρκελώνης",
+          "hi": "बार्सीलोना प्रांत",
+          "hu": "Barcelona tartomány",
+          "id": "Provinsi Barcelona",
+          "it": "Provincia di Barcellona",
+          "ja": "バルセロナ県",
+          "ko": "바르셀로나 주",
+          "nl": "Barcelona",
+          "pl": "Barcelona",
+          "pt": "Barcelona",
+          "ru": "Барселона",
+          "sv": "Barcelona",
+          "tr": "Barselona ili",
+          "vi": "Barcelona",
+          "zh": "巴塞罗那省"
+        },
+        "population": 6217331
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8985000000000001,
+          41.0505
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-t",
+        "area": 1.5220989999999994,
+        "bounding_box": [
+          0.173,
+          40.526,
+          1.624,
+          41.575
+        ],
+        "point": [
+          0.8985000000000001,
+          41.0505
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "طراغونة",
+          "bn": "তারাগোনা প্রদেশ",
+          "de": "Tarragona",
+          "en": "Tarragona Province",
+          "es": "provincia de Tarragona",
+          "fr": "province de Tarragone",
+          "el": "Επαρχία της Ταρραγκόνα",
+          "hi": "टेरागोना",
+          "hu": "Tarragona",
+          "id": "Provinsi Tarragona",
+          "it": "Provincia di Tarragona",
+          "ja": "タラゴナ県",
+          "ko": "타라고나 주",
+          "nl": "Tarragona",
+          "pl": "Tarragona",
+          "pt": "Tarragona",
+          "ru": "Таррагона",
+          "sv": "Tarragona",
+          "tr": "Tarragona İli",
+          "vi": "Tarragona",
+          "zh": "塔拉戈纳省"
+        },
+        "population": 933137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15749999999999997,
+          40.2475
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-cs",
+        "area": 1.4515949999999969,
+        "bounding_box": [
+          -0.839,
+          39.715,
+          0.524,
+          40.78
+        ],
+        "point": [
+          -0.15749999999999997,
+          40.2475
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "كاستيون",
+          "bn": "ক্যাস্টেল্লন প্রদেশ",
+          "de": "Provinz Castellón",
+          "en": "Castellón Province",
+          "es": "Provincia de Castellón",
+          "fr": "province de Castellón",
+          "el": "Επαρχία της Καστελιό",
+          "hi": "कास्टेलोन प्रांत",
+          "hu": "Castellón",
+          "id": "Provinsi Castellón",
+          "it": "provincia di Castellón",
+          "ja": "カステリョン県",
+          "ko": "카스테욘 주",
+          "nl": "Castellón",
+          "pl": "Castellón",
+          "pt": "Castellón",
+          "ru": "Кастельон",
+          "sv": "Castellón",
+          "tr": "Castellón",
+          "vi": "Castellón",
+          "zh": "卡斯特利翁省"
+        },
+        "population": 718723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7659999999999999,
+          39.3365
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-v",
+        "area": 1.888949999999995,
+        "bounding_box": [
+          -1.501,
+          38.694,
+          -0.031,
+          39.979
+        ],
+        "point": [
+          -0.7659999999999999,
+          39.3365
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "بلنسية",
+          "bn": "ভ্যালেন্সিয়া প্রদেশ",
+          "de": "Provinz Valencia",
+          "en": "Valencia Province",
+          "es": "Provincia de Valencia",
+          "fr": "province de Valence",
+          "el": "Επαρχία της Βαλένθια",
+          "hi": "वैलेंसिया प्रांत",
+          "hu": "Valencia tartomány",
+          "id": "Provinsi Valencia",
+          "it": "Provincia di Valencia",
+          "ja": "バレンシア県",
+          "ko": "발렌시아 주",
+          "nl": "Valencia",
+          "pl": "Walencja",
+          "pt": "Valência",
+          "ru": "Валенсия",
+          "sv": "Valencia",
+          "tr": "Valencia Province",
+          "vi": "Valencia",
+          "zh": "巴倫西亞省"
+        },
+        "population": 2887299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2645,
+          40.073499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-v",
+        "area": 0.056456999999999515,
+        "bounding_box": [
+          -1.449,
+          39.997,
+          -1.08,
+          40.15
+        ],
+        "point": [
+          -1.2645,
+          40.073499999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "بلنسية",
+          "bn": "ভ্যালেন্সিয়া প্রদেশ",
+          "de": "Provinz Valencia",
+          "en": "Valencia Province",
+          "es": "Provincia de Valencia",
+          "fr": "province de Valence",
+          "el": "Επαρχία της Βαλένθια",
+          "hi": "वैलेंसिया प्रांत",
+          "hu": "Valencia tartomány",
+          "id": "Provinsi Valencia",
+          "it": "Provincia di Valencia",
+          "ja": "バレンシア県",
+          "ko": "발렌시아 주",
+          "nl": "Valencia",
+          "pl": "Walencja",
+          "pt": "Valência",
+          "ru": "Валенсия",
+          "sv": "Valencia",
+          "tr": "Valencia Province",
+          "vi": "Valencia",
+          "zh": "巴倫西亞省"
+        },
+        "population": 2887299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.42400000000000004,
+          38.3645
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-a",
+        "area": 1.3646920000000082,
+        "bounding_box": [
+          -1.082,
+          37.846,
+          0.234,
+          38.883
+        ],
+        "point": [
+          -0.42400000000000004,
+          38.3645
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "أليكانتي",
+          "bn": "আলিকান্তে প্রদেশ",
+          "de": "Provinz Alicante",
+          "en": "Alicante Province",
+          "es": "Provincia de Alicante",
+          "fr": "province d'Alicante",
+          "el": "Επαρχία του Αλικάντε",
+          "hi": "एलिसाण्ट प्रान्त",
+          "hu": "Alicante tartomány",
+          "id": "Provinsi Alicante",
+          "it": "provincia di Alicante",
+          "ja": "アリカンテ県",
+          "ko": "알리칸테 주",
+          "nl": "Alicante",
+          "pl": "Alicante",
+          "pt": "Alicante",
+          "ru": "Аликанте",
+          "sv": "Alicante",
+          "tr": "Alicante ili",
+          "vi": "Alicante",
+          "zh": "阿利坎特省"
+        },
+        "population": 2206396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.522,
+          38.067499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-mu",
+        "area": 2.2434819999999958,
+        "bounding_box": [
+          -2.339,
+          37.381,
+          -0.705,
+          38.754
+        ],
+        "point": [
+          -1.522,
+          38.067499999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "منطقة مرسية",
+          "bn": "মুর্সিয়া অঞ্চল",
+          "de": "Autonome Gemeinschaft Region Murcia",
+          "en": "Region of Murcia",
+          "es": "Región de Murcia",
+          "fr": "région de Murcie",
+          "el": "Περιοχή της Μούρθια",
+          "hi": "मर्सिया",
+          "hu": "Murcia tartomány",
+          "id": "Murcia",
+          "it": "regione di Murcia",
+          "ja": "ムルシア州",
+          "ko": "무르시아 지방",
+          "nl": "Murcia",
+          "pl": "Murcja",
+          "pt": "Região de Múrcia",
+          "ru": "Мурсия",
+          "sv": "Murcia",
+          "tr": "Murcia",
+          "vi": "Vùng Murcia",
+          "zh": "穆尔西亚自治区"
+        },
+        "population": 1711200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.391,
+          37.298
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-al",
+        "area": 1.8515279999999958,
+        "bounding_box": [
+          -3.14,
+          36.68,
+          -1.642,
+          37.916
+        ],
+        "point": [
+          -2.391,
+          37.298
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "المرية",
+          "bn": "আল্মেরিয়া প্রদেশ",
+          "de": "Provinz Almería",
+          "en": "Almería Province",
+          "es": "Provincia de Almería",
+          "fr": "province d'Almería",
+          "el": "Αλμερία",
+          "hi": "आल्मेरिया प्रान्त",
+          "hu": "Almería",
+          "id": "Provinsi Almería",
+          "it": "Provincia di Almería",
+          "ja": "アルメリア県",
+          "ko": "알메리아 주",
+          "nl": "Almería",
+          "pl": "Almería",
+          "pt": "Almeria",
+          "ru": "Альмерия",
+          "sv": "Almería",
+          "tr": "Almería ili",
+          "vi": "Almería",
+          "zh": "阿爾梅里亞省"
+        },
+        "population": 805741
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.265,
+          37.3885
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-gr",
+        "area": 2.9223500000000113,
+        "bounding_box": [
+          -4.32,
+          36.696,
+          -2.21,
+          38.081
+        ],
+        "point": [
+          -3.265,
+          37.3885
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "غرناطة",
+          "bn": "গ্রানাডা প্রদেশ",
+          "de": "Provinz Granada",
+          "en": "Granada Province",
+          "es": "Provincia de Granada",
+          "fr": "province de Grenade",
+          "el": "Γρανάδα",
+          "hi": "ग्रानादा प्रान्त",
+          "hu": "Granada",
+          "id": "Provinsi Granada",
+          "it": "Provincia di Granada",
+          "ja": "グラナダ県",
+          "ko": "그라나다 주",
+          "nl": "Granada",
+          "pl": "Grenada",
+          "pt": "Granada",
+          "ru": "Гранада",
+          "sv": "Granada",
+          "tr": "Granada ili",
+          "vi": "Granada",
+          "zh": "格拉納達省"
+        },
+        "population": 1010517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6805,
+          36.787499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-ma",
+        "area": 1.7903250000000033,
+        "bounding_box": [
+          -5.593,
+          36.297,
+          -3.768,
+          37.278
+        ],
+        "point": [
+          -4.6805,
+          36.787499999999994
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مالقة",
+          "bn": null,
+          "de": "Málaga",
+          "en": "Málaga Province",
+          "es": "provincia de Málaga",
+          "fr": "province de Málaga",
+          "el": "Μάλαγα",
+          "hi": null,
+          "hu": "Málaga",
+          "id": "Provinsi Málaga",
+          "it": "Provincia di Malaga",
+          "ja": "マラガ県",
+          "ko": "말라가 주",
+          "nl": "Málaga",
+          "pl": "Malaga",
+          "pt": "Málaga",
+          "ru": "Малага",
+          "sv": "Málaga",
+          "tr": "Málaga ili",
+          "vi": "Málaga",
+          "zh": "馬拉加省"
+        },
+        "population": 1768653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5905,
+          37.515
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-se",
+        "area": 2.523750000000007,
+        "bounding_box": [
+          -6.528,
+          36.842,
+          -4.653,
+          38.188
+        ],
+        "point": [
+          -5.5905,
+          37.515
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إشبيلية",
+          "bn": "সেভিলি প্রদেশ",
+          "de": "Sevilla",
+          "en": "Seville Province",
+          "es": "provincia de Sevilla",
+          "fr": "province de Séville",
+          "el": "Σεβίλλη",
+          "hi": "सेविल प्रांत",
+          "hu": "Sevilla",
+          "id": "Provinsi Sevilla",
+          "it": "Provincia di Siviglia",
+          "ja": "セビリア県",
+          "ko": "세비야 주",
+          "nl": "Sevilla",
+          "pl": "Sewilla",
+          "pt": "Província de Sevilha",
+          "ru": "Севилья",
+          "sv": "Sevilla",
+          "tr": "Sevilla ili",
+          "vi": "Sevilla",
+          "zh": "塞維利亞省"
+        },
+        "population": 2134646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4735,
+          43.1415
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-c",
+        "area": 1.8364549999999955,
+        "bounding_box": [
+          -9.251,
+          42.551,
+          -7.696,
+          43.732
+        ],
+        "point": [
+          -8.4735,
+          43.1415
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "لا كورونيا",
+          "bn": "এ করুনা প্রদেশ",
+          "de": "Provinz A Coruña",
+          "en": "A Coruña",
+          "es": "provincia de La Coruña",
+          "fr": "province de La Corogne",
+          "el": "Α Κορούνια",
+          "hi": "ला कोरूनिया प्रान्त",
+          "hu": "A Coruña",
+          "id": "Provinsi A Coruña",
+          "it": "Provincia della Coruña",
+          "ja": "ア・コルーニャ県",
+          "ko": "라코루냐 주",
+          "nl": "A Coruña",
+          "pl": "A Coruña",
+          "pt": "Corunha",
+          "ru": "Ла-Корунья",
+          "sv": "La Coruña",
+          "tr": "A Coruña ili",
+          "vi": "A Coruña",
+          "zh": "拉科鲁尼亚省"
+        },
+        "population": 1132569
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.414,
+          43.028999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-lu",
+        "area": 1.6478319999999982,
+        "bounding_box": [
+          -8.0,
+          42.326,
+          -6.828,
+          43.732
+        ],
+        "point": [
+          -7.414,
+          43.028999999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "لوغو",
+          "bn": "লুগো প্রদেশ",
+          "de": "Provinz Lugo",
+          "en": "Lugo Province",
+          "es": "Provincia de Lugo",
+          "fr": "province de Lugo",
+          "el": "Λούγκο",
+          "hi": "लूगो प्रांत",
+          "hu": "Lugo",
+          "id": "Provinsi Lugo",
+          "it": "Provincia di Lugo",
+          "ja": "ルーゴ県",
+          "ko": "루고 주",
+          "nl": "Lugo",
+          "pl": "Lugo",
+          "pt": "Lugo",
+          "ru": "Луго",
+          "sv": "Lugo",
+          "tr": "Lugo ili",
+          "vi": "Lugo",
+          "zh": "卢戈省"
+        },
+        "population": 338021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8405000000000005,
+          43.289
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-o",
+        "area": 1.9844439999999932,
+        "bounding_box": [
+          -7.167,
+          42.915,
+          -4.514,
+          43.663
+        ],
+        "point": [
+          -5.8405000000000005,
+          43.289
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "منطقة أستورياس",
+          "bn": "আস্তুরিয়াস",
+          "de": "Asturien",
+          "en": "Asturias",
+          "es": "Asturias",
+          "fr": "Asturies",
+          "el": "Αστούριες",
+          "hi": "आस्तुरियास",
+          "hu": "Asztúria",
+          "id": "Asturias",
+          "it": "Asturie",
+          "ja": "アストゥリアス州",
+          "ko": "아스투리아스 지방",
+          "nl": "Asturië",
+          "pl": "Asturia",
+          "pt": "Astúrias",
+          "ru": "Астурия",
+          "sv": "Asturien",
+          "tr": "Asturies",
+          "vi": "Asturies",
+          "zh": "阿斯图里亚斯"
+        },
+        "population": 1071120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9915,
+          43.14
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-s",
+        "area": 1.2674740000000082,
+        "bounding_box": [
+          -4.832,
+          42.763,
+          -3.151,
+          43.517
+        ],
+        "point": [
+          -3.9915,
+          43.14
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "منطقة كانتابريا",
+          "bn": "কান্তাব্রিয়া",
+          "de": "Autonome Gemeinschaft Kantabrien",
+          "en": "Cantabria",
+          "es": "Cantabria",
+          "fr": "Cantabrie",
+          "el": "Κανταβρία",
+          "hi": "कंटैब्रिया",
+          "hu": "Kantábria",
+          "id": "Cantabria",
+          "it": "Cantabria",
+          "ja": "カンタブリア州",
+          "ko": "칸타브리아 지방",
+          "nl": "Cantabrië",
+          "pl": "Kantabria",
+          "pt": "Cantábria",
+          "ru": "Кантабрия",
+          "sv": "Kantabrien",
+          "tr": "Kantabria",
+          "vi": "Cantabria",
+          "zh": "坎塔布里亚"
+        },
+        "population": 637482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.919,
+          43.2355
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-bi",
+        "area": 0.43929600000000213,
+        "bounding_box": [
+          -3.431,
+          43.021,
+          -2.407,
+          43.45
+        ],
+        "point": [
+          -2.919,
+          43.2355
+        ],
+        "labels": {
+          "alt": "Biscay|Vizcaya",
+          "local": null,
+          "len": 7,
+          "ar": "بيسكاي",
+          "bn": "বিসকে",
+          "de": "Bizkaia",
+          "en": "Biscay",
+          "es": "Vizcaya",
+          "fr": "Biscaye",
+          "el": "Βισκαϊκή",
+          "hi": "बिस्के",
+          "hu": "Bizkaia",
+          "id": "Vizcaya",
+          "it": "Biscaglia",
+          "ja": "ビスカヤ県",
+          "ko": "비스카야 주",
+          "nl": "Biskaje",
+          "pl": "Vizcaya",
+          "pt": "Biscaia",
+          "ru": "Бискайя",
+          "sv": "Biscaya",
+          "tr": "Biskay",
+          "vi": "Biscay",
+          "zh": "比斯開省"
+        },
+        "population": 1180007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5215,
+          28.282
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-tf",
+        "area": 0.4497300000000011,
+        "bounding_box": [
+          -16.916,
+          27.997,
+          -16.127,
+          28.567
+        ],
+        "point": [
+          -16.5215,
+          28.282
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 22,
+          "ar": "سانتا كروث دي تينيريفه",
+          "bn": "স্যান্টা ক্রুজ দে টেনেলিফে প্রদেশ",
+          "de": "Provinz Santa Cruz de Tenerife",
+          "en": "Santa Cruz de Tenerife Province",
+          "es": "provincia de Santa Cruz de Tenerife",
+          "fr": "province de Santa Cruz de Ténérife",
+          "el": "Σάντα Κρούθ Ντε Τενερίφε",
+          "hi": "सैंटा क्रूज़ डी टैनेरीफ प्रांत",
+          "hu": "Santa Cruz de Tenerife",
+          "id": "Provinsi Santa Cruz de Tenerife",
+          "it": "Provincia di Santa Cruz de Tenerife",
+          "ja": "サンタ・クルス・デ・テネリフェ県",
+          "ko": "산타크루스데테네리페 주",
+          "nl": "Santa Cruz de Tenerife",
+          "pl": "Santa Cruz de Tenerife",
+          "pt": "Santa Cruz de Tenerife",
+          "ru": "Санта-Крус-де-Тенерифе",
+          "sv": "Santa Cruz de Tenerife",
+          "tr": "Santa Cruz de Tenerife İli",
+          "vi": "Santa Cruz de Tenerife",
+          "zh": "聖克魯斯-德特內里費省"
+        },
+        "population": 1033306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.8615,
+          28.6555
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-tf",
+        "area": 0.11268100000000046,
+        "bounding_box": [
+          -18.002,
+          28.455,
+          -17.721,
+          28.856
+        ],
+        "point": [
+          -17.8615,
+          28.6555
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 22,
+          "ar": "سانتا كروث دي تينيريفه",
+          "bn": "স্যান্টা ক্রুজ দে টেনেলিফে প্রদেশ",
+          "de": "Provinz Santa Cruz de Tenerife",
+          "en": "Santa Cruz de Tenerife Province",
+          "es": "provincia de Santa Cruz de Tenerife",
+          "fr": "province de Santa Cruz de Ténérife",
+          "el": "Σάντα Κρούθ Ντε Τενερίφε",
+          "hi": "सैंटा क्रूज़ डी टैनेरीफ प्रांत",
+          "hu": "Santa Cruz de Tenerife",
+          "id": "Provinsi Santa Cruz de Tenerife",
+          "it": "Provincia di Santa Cruz de Tenerife",
+          "ja": "サンタ・クルス・デ・テネリフェ県",
+          "ko": "산타크루스데테네리페 주",
+          "nl": "Santa Cruz de Tenerife",
+          "pl": "Santa Cruz de Tenerife",
+          "pt": "Santa Cruz de Tenerife",
+          "ru": "Санта-Крус-де-Тенерифе",
+          "sv": "Santa Cruz de Tenerife",
+          "tr": "Santa Cruz de Tenerife İli",
+          "vi": "Santa Cruz de Tenerife",
+          "zh": "聖克魯斯-德特內里費省"
+        },
+        "population": 1033306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0195,
+          27.747
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-tf",
+        "area": 0.059009999999999986,
+        "bounding_box": [
+          -18.16,
+          27.642,
+          -17.879,
+          27.852
+        ],
+        "point": [
+          -18.0195,
+          27.747
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 22,
+          "ar": "سانتا كروث دي تينيريفه",
+          "bn": "স্যান্টা ক্রুজ দে টেনেলিফে প্রদেশ",
+          "de": "Provinz Santa Cruz de Tenerife",
+          "en": "Santa Cruz de Tenerife Province",
+          "es": "provincia de Santa Cruz de Tenerife",
+          "fr": "province de Santa Cruz de Ténérife",
+          "el": "Σάντα Κρούθ Ντε Τενερίφε",
+          "hi": "सैंटा क्रूज़ डी टैनेरीफ प्रांत",
+          "hu": "Santa Cruz de Tenerife",
+          "id": "Provinsi Santa Cruz de Tenerife",
+          "it": "Provincia di Santa Cruz de Tenerife",
+          "ja": "サンタ・クルス・デ・テネリフェ県",
+          "ko": "산타크루스데테네리페 주",
+          "nl": "Santa Cruz de Tenerife",
+          "pl": "Santa Cruz de Tenerife",
+          "pt": "Santa Cruz de Tenerife",
+          "ru": "Санта-Крус-де-Тенерифе",
+          "sv": "Santa Cruz de Tenerife",
+          "tr": "Santa Cruz de Tenerife İli",
+          "vi": "Santa Cruz de Tenerife",
+          "zh": "聖克魯斯-德特內里費省"
+        },
+        "population": 1033306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2205,
+          28.113
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-tf",
+        "area": 0.046060000000000774,
+        "bounding_box": [
+          -17.343,
+          28.019,
+          -17.098,
+          28.207
+        ],
+        "point": [
+          -17.2205,
+          28.113
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 22,
+          "ar": "سانتا كروث دي تينيريفه",
+          "bn": "স্যান্টা ক্রুজ দে টেনেলিফে প্রদেশ",
+          "de": "Provinz Santa Cruz de Tenerife",
+          "en": "Santa Cruz de Tenerife Province",
+          "es": "provincia de Santa Cruz de Tenerife",
+          "fr": "province de Santa Cruz de Ténérife",
+          "el": "Σάντα Κρούθ Ντε Τενερίφε",
+          "hi": "सैंटा क्रूज़ डी टैनेरीफ प्रांत",
+          "hu": "Santa Cruz de Tenerife",
+          "id": "Provinsi Santa Cruz de Tenerife",
+          "it": "Provincia di Santa Cruz de Tenerife",
+          "ja": "サンタ・クルス・デ・テネリフェ県",
+          "ko": "산타크루스데테네리페 주",
+          "nl": "Santa Cruz de Tenerife",
+          "pl": "Santa Cruz de Tenerife",
+          "pt": "Santa Cruz de Tenerife",
+          "ru": "Санта-Крус-де-Тенерифе",
+          "sv": "Santa Cruz de Tenerife",
+          "tr": "Santa Cruz de Tenerife İli",
+          "vi": "Santa Cruz de Tenerife",
+          "zh": "聖克魯斯-德特內里費省"
+        },
+        "population": 1033306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.1325,
+          28.4025
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-gc",
+        "area": 0.4267210000000013,
+        "bounding_box": [
+          -14.436,
+          28.051,
+          -13.829,
+          28.754
+        ],
+        "point": [
+          -14.1325,
+          28.4025
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "لاس بالماس",
+          "bn": "লাস পালমাস  প্রদেশ",
+          "de": "Provinz Las Palmas",
+          "en": "Las Palmas Province",
+          "es": "Provincia de Las Palmas",
+          "fr": "province de Las Palmas",
+          "el": "Λας Πάλμας",
+          "hi": "लास पाल्मास प्रांत",
+          "hu": "Las Palmas",
+          "id": "Provinsi Las Palmas",
+          "it": "Provincia di Las Palmas",
+          "ja": "ラス・パルマス県",
+          "ko": "라스팔마스 주",
+          "nl": "Las Palmas",
+          "pl": "Las Palmas",
+          "pt": "Las Palmas",
+          "ru": "Лас-Пальмас",
+          "sv": "Las Palmas",
+          "tr": "Las Palmas ili",
+          "vi": "Las Palmas",
+          "zh": "拉斯帕爾馬斯省"
+        },
+        "population": 1191482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.592,
+          27.9505
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-gc",
+        "area": 0.1939840000000001,
+        "bounding_box": [
+          -15.816,
+          27.734,
+          -15.368,
+          28.167
+        ],
+        "point": [
+          -15.592,
+          27.9505
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "لاس بالماس",
+          "bn": "লাস পালমাস  প্রদেশ",
+          "de": "Provinz Las Palmas",
+          "en": "Las Palmas Province",
+          "es": "Provincia de Las Palmas",
+          "fr": "province de Las Palmas",
+          "el": "Λας Πάλμας",
+          "hi": "लास पाल्मास प्रांत",
+          "hu": "Las Palmas",
+          "id": "Provinsi Las Palmas",
+          "it": "Provincia di Las Palmas",
+          "ja": "ラス・パルマス県",
+          "ko": "라스팔마스 주",
+          "nl": "Las Palmas",
+          "pl": "Las Palmas",
+          "pt": "Las Palmas",
+          "ru": "Лас-Пальмас",
+          "sv": "Las Palmas",
+          "tr": "Las Palmas ili",
+          "vi": "Las Palmas",
+          "zh": "拉斯帕爾馬斯省"
+        },
+        "population": 1191482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.639,
+          29.04
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-gc",
+        "area": 0.17679999999999943,
+        "bounding_box": [
+          -13.86,
+          28.84,
+          -13.418,
+          29.24
+        ],
+        "point": [
+          -13.639,
+          29.04
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "لاس بالماس",
+          "bn": "লাস পালমাস  প্রদেশ",
+          "de": "Provinz Las Palmas",
+          "en": "Las Palmas Province",
+          "es": "Provincia de Las Palmas",
+          "fr": "province de Las Palmas",
+          "el": "Λας Πάλμας",
+          "hi": "लास पाल्मास प्रांत",
+          "hu": "Las Palmas",
+          "id": "Provinsi Las Palmas",
+          "it": "Provincia di Las Palmas",
+          "ja": "ラス・パルマス県",
+          "ko": "라스팔마스 주",
+          "nl": "Las Palmas",
+          "pl": "Las Palmas",
+          "pt": "Las Palmas",
+          "ru": "Лас-Пальмас",
+          "sv": "Las Palmas",
+          "tr": "Las Palmas ili",
+          "vi": "Las Palmas",
+          "zh": "拉斯帕爾馬斯省"
+        },
+        "population": 1191482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9135,
+          39.6025
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-pm",
+        "area": 0.7410370000000016,
+        "bounding_box": [
+          2.358,
+          39.269,
+          3.469,
+          39.936
+        ],
+        "point": [
+          2.9135,
+          39.6025
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "منطقة جزر البليار",
+          "bn": "বেলারিক আইল্যান্ডস",
+          "de": "Balearische Inseln",
+          "en": "Balearic Islands",
+          "es": "Islas Baleares",
+          "fr": "Îles Baléares",
+          "el": "Βαλεαρίδες Νήσοι",
+          "hi": "बैलेरिक द्वीपसमूह",
+          "hu": "Baleár-szigetek",
+          "id": "Kepulauan Balears",
+          "it": "isole Baleari",
+          "ja": "バレアレス諸島",
+          "ko": "발레아레스 제도",
+          "nl": "Balearen",
+          "pl": "Baleary",
+          "pt": "Baleares",
+          "ru": "Балеарские острова",
+          "sv": "Balearerna",
+          "tr": "Balear Adaları",
+          "vi": "Quần đảo Baleares",
+          "zh": "巴利阿里群島"
+        },
+        "population": 1314932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.053,
+          39.942
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-pm",
+        "area": 0.12599999999999767,
+        "bounding_box": [
+          3.803,
+          39.816,
+          4.303,
+          40.068
+        ],
+        "point": [
+          4.053,
+          39.942
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "منطقة جزر البليار",
+          "bn": "বেলারিক আইল্যান্ডস",
+          "de": "Balearische Inseln",
+          "en": "Balearic Islands",
+          "es": "Islas Baleares",
+          "fr": "Îles Baléares",
+          "el": "Βαλεαρίδες Νήσοι",
+          "hi": "बैलेरिक द्वीपसमूह",
+          "hu": "Baleár-szigetek",
+          "id": "Kepulauan Balears",
+          "it": "isole Baleari",
+          "ja": "バレアレス諸島",
+          "ko": "발레아레스 제도",
+          "nl": "Balearen",
+          "pl": "Baleary",
+          "pt": "Baleares",
+          "ru": "Балеарские острова",
+          "sv": "Balearerna",
+          "tr": "Balear Adaları",
+          "vi": "Quần đảo Baleares",
+          "zh": "巴利阿里群島"
+        },
+        "population": 1314932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4175,
+          38.988
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-pm",
+        "area": 0.1068600000000021,
+        "bounding_box": [
+          1.212,
+          38.858,
+          1.623,
+          39.118
+        ],
+        "point": [
+          1.4175,
+          38.988
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "منطقة جزر البليار",
+          "bn": "বেলারিক আইল্যান্ডস",
+          "de": "Balearische Inseln",
+          "en": "Balearic Islands",
+          "es": "Islas Baleares",
+          "fr": "Îles Baléares",
+          "el": "Βαλεαρίδες Νήσοι",
+          "hi": "बैलेरिक द्वीपसमूह",
+          "hu": "Baleár-szigetek",
+          "id": "Kepulauan Balears",
+          "it": "isole Baleari",
+          "ja": "バレアレス諸島",
+          "ko": "발레아레스 제도",
+          "nl": "Balearen",
+          "pl": "Baleary",
+          "pt": "Baleares",
+          "ru": "Балеарские острова",
+          "sv": "Balearerna",
+          "tr": "Balear Adaları",
+          "vi": "Quần đảo Baleares",
+          "zh": "巴利阿里群島"
+        },
+        "population": 1314932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4545,
+          38.713499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-pm",
+        "area": 0.010153000000000724,
+        "bounding_box": [
+          1.383,
+          38.678,
+          1.526,
+          38.749
+        ],
+        "point": [
+          1.4545,
+          38.713499999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "منطقة جزر البليار",
+          "bn": "বেলারিক আইল্যান্ডস",
+          "de": "Balearische Inseln",
+          "en": "Balearic Islands",
+          "es": "Islas Baleares",
+          "fr": "Îles Baléares",
+          "el": "Βαλεαρίδες Νήσοι",
+          "hi": "बैलेरिक द्वीपसमूह",
+          "hu": "Baleár-szigetek",
+          "id": "Kepulauan Balears",
+          "it": "isole Baleari",
+          "ja": "バレアレス諸島",
+          "ko": "발레아레스 제도",
+          "nl": "Balearen",
+          "pl": "Baleary",
+          "pt": "Baleares",
+          "ru": "Балеарские острова",
+          "sv": "Balearerna",
+          "tr": "Balear Adaları",
+          "vi": "Quần đảo Baleares",
+          "zh": "巴利阿里群島"
+        },
+        "population": 1314932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8944999999999999,
+          41.845
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-z",
+        "area": 4.567227999999998,
+        "bounding_box": [
+          -2.166,
+          40.947,
+          0.377,
+          42.743
+        ],
+        "point": [
+          -0.8944999999999999,
+          41.845
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "سرقسطة",
+          "bn": "জাারাগোজা প্রদেশ",
+          "de": "Provinz Saragossa",
+          "en": "Zaragoza Province",
+          "es": "Provincia de Zaragoza",
+          "fr": "province de Saragosse",
+          "el": "επαρχία της Σαραγόσας",
+          "hi": "ज़ारागोज़ा प्रांत",
+          "hu": "Zaragoza",
+          "id": "Provinsi Zaragoza",
+          "it": "provincia di Saragozza",
+          "ja": "サラゴサ県",
+          "ko": "사라고사 주",
+          "nl": "Zaragoza",
+          "pl": "Saragossa",
+          "pt": "Saragoça",
+          "ru": "Сарагоса",
+          "sv": "Zaragoza",
+          "tr": "Zaragoza ili",
+          "vi": "Zaragoza",
+          "zh": "薩拉戈薩省"
+        },
+        "population": 1088704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.403,
+          42.285
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-lo",
+        "area": 1.029611999999995,
+        "bounding_box": [
+          -3.12,
+          41.926,
+          -1.686,
+          42.644
+        ],
+        "point": [
+          -2.403,
+          42.285
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "منطقة لا ريوخا",
+          "bn": "লা রিওজা",
+          "de": "La Rioja",
+          "en": "La Rioja",
+          "es": "La Rioja",
+          "fr": "La Rioja",
+          "el": "Λα Ριόχα",
+          "hi": "ला रिओजा",
+          "hu": "La Rioja",
+          "id": "La Rioja",
+          "it": "La Rioja",
+          "ja": "ラ・リオハ州",
+          "ko": "라리오하 지방",
+          "nl": "La Rioja",
+          "pl": "La Rioja",
+          "pt": "La Rioja",
+          "ru": "Риоха",
+          "sv": "La Rioja",
+          "tr": "La Rioja",
+          "vi": "La Rioja",
+          "zh": "拉里奥哈"
+        },
+        "population": 404347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7605,
+          42.845
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-vi",
+        "area": 0.7217519999999978,
+        "bounding_box": [
+          -3.279,
+          42.497,
+          -2.242,
+          43.193
+        ],
+        "point": [
+          -2.7605,
+          42.845
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "ألافا",
+          "bn": "এলাভা",
+          "de": "Álava",
+          "en": "Araba / Álava",
+          "es": "Álava",
+          "fr": "province d'Alava",
+          "el": "Αλάβα",
+          "hi": "अलवा प्रान्त",
+          "hu": "Araba",
+          "id": "Álava",
+          "it": "Álava",
+          "ja": "アラバ県",
+          "ko": "알라바 주",
+          "nl": "Álava",
+          "pl": "Araba",
+          "pt": "Álava",
+          "ru": "Алава",
+          "sv": "Álava",
+          "tr": "Álava ili",
+          "vi": "Álava",
+          "zh": "阿拉瓦省"
+        },
+        "population": 357181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8915,
+          38.724000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-ab",
+        "area": 2.7598919999999874,
+        "bounding_box": [
+          -2.88,
+          38.026,
+          -0.903,
+          39.422
+        ],
+        "point": [
+          -1.8915,
+          38.724000000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "البسيط",
+          "bn": "আল্বাসেটে প্রদেশ",
+          "de": "Provinz Albacete",
+          "en": "Albacete Province",
+          "es": "Provincia de Albacete",
+          "fr": "province d'Albacete",
+          "el": "Αλμπαθέτε",
+          "hi": "आल्बासेते प्रान्त",
+          "hu": "Albacete",
+          "id": "Provinsi Albacete",
+          "it": "Provincia di Albacete",
+          "ja": "アルバセテ県",
+          "ko": "알바세테 주",
+          "nl": "Albacete",
+          "pl": "Albacete",
+          "pt": "Albacete",
+          "ru": "Альбасете",
+          "sv": "Albacete",
+          "tr": "Albacete ili",
+          "vi": "Albacete",
+          "zh": "阿爾瓦塞特省"
+        },
+        "population": 438451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7590000000000001,
+          40.6095
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-te",
+        "area": 3.123921999999994,
+        "bounding_box": [
+          -1.808,
+          39.865,
+          0.29,
+          41.354
+        ],
+        "point": [
+          -0.7590000000000001,
+          40.6095
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "تيروال",
+          "bn": null,
+          "de": "Provinz Teruel",
+          "en": "Teruel Province",
+          "es": "Provincia de Teruel",
+          "fr": "province de Teruel",
+          "el": "Επαρχία του Τερουέλ",
+          "hi": null,
+          "hu": "Teruel",
+          "id": "Provinsi Teruel",
+          "it": "provincia di Teruel",
+          "ja": "テルエル県",
+          "ko": "테루엘 주",
+          "nl": "Teruel",
+          "pl": "Teruel",
+          "pt": "Teruel",
+          "ru": "Теруэль",
+          "sv": "Teruel",
+          "tr": "Teruel İli",
+          "vi": "Teruel",
+          "zh": "特魯埃爾省"
+        },
+        "population": 150956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1545,
+          39.943
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-cu",
+        "area": 2.8912080000000047,
+        "bounding_box": [
+          -3.164,
+          39.227,
+          -1.145,
+          40.659
+        ],
+        "point": [
+          -2.1545,
+          39.943
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "قونكة",
+          "bn": "কুয়েঙ্কা প্রদেশ",
+          "de": "Provinz Cuenca",
+          "en": "Cuenca Province",
+          "es": "provincia de Cuenca",
+          "fr": "province de Cuenca",
+          "el": "Κουένκα",
+          "hi": "कुएँका प्रांत",
+          "hu": "Cuenca",
+          "id": "Provinsi Cuenca",
+          "it": "Provincia di Cuenca",
+          "ja": "クエンカ県",
+          "ko": "쿠엥카 주",
+          "nl": "Cuenca",
+          "pl": "Cuenca",
+          "pt": "Cuenca",
+          "ru": "Куэнка",
+          "sv": "Cuenca",
+          "tr": "Cuenca ili",
+          "vi": "Cuenca",
+          "zh": "昆卡省"
+        },
+        "population": 233311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1495,
+          39.784
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-to",
+        "area": 2.6021840000000047,
+        "bounding_box": [
+          -5.391,
+          39.26,
+          -2.908,
+          40.308
+        ],
+        "point": [
+          -4.1495,
+          39.784
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "طليطلة",
+          "bn": null,
+          "de": "Provinz Toledo",
+          "en": "Toledo Province",
+          "es": "Provincia de Toledo",
+          "fr": "province de Tolède",
+          "el": "Τολέδο",
+          "hi": "टोलेडो प्रान्त",
+          "hu": "Toledo",
+          "id": "Provinsi Toledo",
+          "it": "provincia di Toledo",
+          "ja": "トレド県",
+          "ko": "톨레도 주",
+          "nl": "Toledo",
+          "pl": "Toledo",
+          "pt": "Toledo",
+          "ru": "Толедо",
+          "sv": "Toledo",
+          "tr": "Toledo ili",
+          "vi": "Toledo",
+          "zh": "托萊多省"
+        },
+        "population": 902776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.899,
+          42.634
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-le",
+        "area": 2.8268640000000067,
+        "bounding_box": [
+          -7.071,
+          42.031,
+          -4.727,
+          43.237
+        ],
+        "point": [
+          -5.899,
+          42.634
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "ليون",
+          "bn": null,
+          "de": "Provinz León",
+          "en": "León Province",
+          "es": "Provincia de León",
+          "fr": "province de León",
+          "el": "Επαρχία Λεόν",
+          "hi": "साँचा:स्पेन के प्रान्त",
+          "hu": "León",
+          "id": "Provinsi León",
+          "it": "provincia di León",
+          "ja": "レオン県",
+          "ko": "레온 주",
+          "nl": "León",
+          "pl": "León",
+          "pt": "Leão",
+          "ru": "Леон",
+          "sv": "León",
+          "tr": "León ili",
+          "vi": "León",
+          "zh": "莱昂省"
+        },
+        "population": 497969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6639999999999997,
+          41.602999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-so",
+        "area": 1.8789200000000004,
+        "bounding_box": [
+          -3.542,
+          41.068,
+          -1.786,
+          42.138
+        ],
+        "point": [
+          -2.6639999999999997,
+          41.602999999999994
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "سوريا",
+          "bn": "সোরিয়া প্রদেশ",
+          "de": "Provinz Soria",
+          "en": "Soria Province",
+          "es": "Provincia de Soria",
+          "fr": "province de Soria",
+          "el": "Επαρχία της Σόρια",
+          "hi": "सोरिया प्रांत",
+          "hu": "Soria",
+          "id": "Provinsi Soria",
+          "it": "provincia di Soria",
+          "ja": "ソリア県",
+          "ko": "소리아 주",
+          "nl": "Soria",
+          "pl": "Soria",
+          "pt": "Sória",
+          "ru": "Сория",
+          "sv": "Soria",
+          "tr": "Soria ili",
+          "vi": "Soria",
+          "zh": "索里亚省"
+        },
+        "population": 96352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5840000000000005,
+          42.328500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-bu",
+        "area": 2.595078000000003,
+        "bounding_box": [
+          -4.331,
+          41.46,
+          -2.837,
+          43.197
+        ],
+        "point": [
+          -3.5840000000000005,
+          42.328500000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "برغش",
+          "bn": "বুর্গোস প্রদেশ",
+          "de": "Provinz Burgos",
+          "en": "Burgos Province",
+          "es": "Provincia de Burgos",
+          "fr": "province de Burgos",
+          "el": "Επαρχία του Μπούργκος",
+          "hi": "बर्गोस प्रांत",
+          "hu": "Burgos",
+          "id": "Provinsi Burgos",
+          "it": "provincia di Burgos",
+          "ja": "ブルゴス県",
+          "ko": "부르고스 주",
+          "nl": "Burgos",
+          "pl": "Burgos",
+          "pt": "Burgos",
+          "ru": "Бургос",
+          "sv": "Burgos",
+          "tr": "Burgos ili",
+          "vi": "Burgos",
+          "zh": "布尔戈斯省"
+        },
+        "population": 402588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7119999999999997,
+          42.7245
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-bu",
+        "area": 0.043367999999998665,
+        "bounding_box": [
+          -2.868,
+          42.655,
+          -2.556,
+          42.794
+        ],
+        "point": [
+          -2.7119999999999997,
+          42.7245
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "برغش",
+          "bn": "বুর্গোস প্রদেশ",
+          "de": "Provinz Burgos",
+          "en": "Burgos Province",
+          "es": "Provincia de Burgos",
+          "fr": "province de Burgos",
+          "el": "Επαρχία του Μπούργκος",
+          "hi": "बर्गोस प्रांत",
+          "hu": "Burgos",
+          "id": "Provinsi Burgos",
+          "it": "provincia di Burgos",
+          "ja": "ブルゴス県",
+          "ko": "부르고스 주",
+          "nl": "Burgos",
+          "pl": "Burgos",
+          "pt": "Burgos",
+          "ru": "Бургос",
+          "sv": "Burgos",
+          "tr": "Burgos ili",
+          "vi": "Burgos",
+          "zh": "布尔戈斯省"
+        },
+        "population": 402588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9445,
+          40.625
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-av",
+        "area": 1.6610200000000037,
+        "bounding_box": [
+          -5.728,
+          40.095,
+          -4.161,
+          41.155
+        ],
+        "point": [
+          -4.9445,
+          40.625
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "آبلة",
+          "bn": "এভিলা প্রদেশ",
+          "de": "Provinz Ávila",
+          "en": "Ávila Province",
+          "es": "Provincia de Ávila",
+          "fr": "province d'Ávila",
+          "el": "Αβίλα",
+          "hi": "एविला प्रांत",
+          "hu": "Ávila",
+          "id": "Provinsi Ávila",
+          "it": "provincia di Ávila",
+          "ja": "アビラ県",
+          "ko": "아빌라 주",
+          "nl": "Ávila",
+          "pl": "Ávila",
+          "pt": "Ávila",
+          "ru": "Авила",
+          "sv": "Ávila",
+          "tr": "Ávila ili",
+          "vi": "Ávila",
+          "zh": "阿维拉省"
+        },
+        "population": 179485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4705,
+          42.4095
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-p",
+        "area": 1.4279790000000014,
+        "bounding_box": [
+          -5.027,
+          41.768,
+          -3.914,
+          43.051
+        ],
+        "point": [
+          -4.4705,
+          42.4095
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "بالنثيا",
+          "bn": "প্যালেসিয়া প্রদেশ",
+          "de": "Provinz Palencia",
+          "en": "Palencia Province",
+          "es": "Provincia de Palencia",
+          "fr": "province de Palencia",
+          "el": "Επαρχία της Παλένθια",
+          "hi": "पैलेन्सिया प्रांत",
+          "hu": "Palencia",
+          "id": "Provinsi Palencia",
+          "it": "provincia di Palencia",
+          "ja": "パレンシア県",
+          "ko": "팔렌시아 주",
+          "nl": "Palencia",
+          "pl": "Palencia",
+          "pt": "Palência",
+          "ru": "Паленсия",
+          "sv": "Palencia",
+          "tr": "Palencia ili",
+          "vi": "Palencia",
+          "zh": "帕伦西亚省"
+        },
+        "population": 167472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.841,
+          38.964
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-cr",
+        "area": 2.932591999999998,
+        "bounding_box": [
+          -5.037,
+          38.351,
+          -2.645,
+          39.577
+        ],
+        "point": [
+          -3.841,
+          38.964
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "ثيوداد ريال",
+          "bn": "কিউদাদ",
+          "de": "Provinz Ciudad Real",
+          "en": "Ciudad Real Province",
+          "es": "Provincia de Ciudad Real",
+          "fr": "province de Ciudad Real",
+          "el": "Θιουδάδ Ρεάλ",
+          "hi": "सिदाद रियल प्रांत",
+          "hu": "Ciudad Real",
+          "id": "Provinsi Ciudad Real",
+          "it": "provincia di Ciudad Real",
+          "ja": "シウダ・レアル県",
+          "ko": "시우다드레알 주",
+          "nl": "Ciudad Real",
+          "pl": "Ciudad Real",
+          "pt": "Cidade Real",
+          "ru": "Сьюдад-Реаль",
+          "sv": "Ciudad Real",
+          "tr": "Ciudad Real ili",
+          "vi": "Ciudad Real",
+          "zh": "雷阿爾城省"
+        },
+        "population": 573496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8485,
+          39.4615
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-cr",
+        "area": 0.03609899999999998,
+        "bounding_box": [
+          -4.944,
+          39.367,
+          -4.753,
+          39.556
+        ],
+        "point": [
+          -4.8485,
+          39.4615
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "ثيوداد ريال",
+          "bn": "কিউদাদ",
+          "de": "Provinz Ciudad Real",
+          "en": "Ciudad Real Province",
+          "es": "Provincia de Ciudad Real",
+          "fr": "province de Ciudad Real",
+          "el": "Θιουδάδ Ρεάλ",
+          "hi": "सिदाद रियल प्रांत",
+          "hu": "Ciudad Real",
+          "id": "Provinsi Ciudad Real",
+          "it": "provincia di Ciudad Real",
+          "ja": "シウダ・レアル県",
+          "ko": "시우다드레알 주",
+          "nl": "Ciudad Real",
+          "pl": "Ciudad Real",
+          "pt": "Cidade Real",
+          "ru": "Сьюдад-Реаль",
+          "sv": "Ciudad Real",
+          "tr": "Ciudad Real ili",
+          "vi": "Ciudad Real",
+          "zh": "雷阿爾城省"
+        },
+        "population": 573496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.791,
+          37.957499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-co",
+        "area": 2.434780000000006,
+        "bounding_box": [
+          -5.581,
+          37.187,
+          -4.001,
+          38.728
+        ],
+        "point": [
+          -4.791,
+          37.957499999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة قرطبة",
+          "bn": "কর্ডোবা প্রদেশ",
+          "de": "Córdoba",
+          "en": "Córdoba Province",
+          "es": "Provincia de Córdoba",
+          "fr": "Cordoue",
+          "el": "Κόρδοβα",
+          "hi": "कोर्डोबा प्रांत",
+          "hu": "Córdoba",
+          "id": "Provinsi Córdoba",
+          "it": "Provincia di Cordova",
+          "ja": "コルドバ県",
+          "ko": "코르도바 주",
+          "nl": "Córdoba",
+          "pl": "Kordoba",
+          "pt": "Córdova",
+          "ru": "Кордова",
+          "sv": "Córdoba",
+          "tr": "Córdoba ili",
+          "vi": "Córdoba",
+          "zh": "科爾多瓦省"
+        },
+        "population": 836844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5415,
+          40.74
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-gu",
+        "area": 2.3384760000000027,
+        "bounding_box": [
+          -3.546,
+          40.158,
+          -1.537,
+          41.322
+        ],
+        "point": [
+          -2.5415,
+          40.74
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "غوادالاخارا",
+          "bn": "গুয়াডালাজারা প্রদেশ",
+          "de": "Provinz Guadalajara",
+          "en": "Guadalajara Province",
+          "es": "provincia de Guadalajara",
+          "fr": "province de Guadalajara",
+          "el": "Επαρχία της Γουαδαλαχάρα",
+          "hi": "ग्वाडलाजारा प्रांत",
+          "hu": "Guadalajara",
+          "id": "Provinsi Guadalajara",
+          "it": "Provincia di Guadalajara",
+          "ja": "グアダラハラ県",
+          "ko": "과달라하라 주",
+          "nl": "Guadalajara",
+          "pl": "Guadalajara",
+          "pt": "Guadalajara",
+          "ru": "Гвадалахара",
+          "sv": "Guadalajara",
+          "tr": "Guadalajara ili",
+          "vi": "Guadalajara",
+          "zh": "瓜達拉哈拉省"
+        },
+        "population": 341433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.357,
+          37.9555
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-j",
+        "area": 2.1413700000000015,
+        "bounding_box": [
+          -4.284,
+          37.378,
+          -2.43,
+          38.533
+        ],
+        "point": [
+          -3.357,
+          37.9555
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "خاين",
+          "bn": "জিয়ান প্রদেশ",
+          "de": "Jaén",
+          "en": "Jaén Province",
+          "es": "provincia de Jaén",
+          "fr": "province de Jaén",
+          "el": "Χαέν",
+          "hi": "जैएन प्रांत",
+          "hu": "Jaén",
+          "id": "Provinsi Jaén",
+          "it": "Provincia di Jaén",
+          "ja": "ハエン県",
+          "ko": "하엔 주",
+          "nl": "Jaén",
+          "pl": "Jaén",
+          "pt": "Jaén",
+          "ru": "Хаэн",
+          "sv": "Jaén",
+          "tr": "Jaén ili",
+          "vi": "Jaén",
+          "zh": "哈恩省"
+        },
+        "population": 691276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8225,
+          40.577
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-m",
+        "area": 1.7538300000000027,
+        "bounding_box": [
+          -4.572,
+          39.992,
+          -3.073,
+          41.162
+        ],
+        "point": [
+          -3.8225,
+          40.577
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "منطقة مدريد",
+          "bn": null,
+          "de": "Autonome Gemeinschaft Madrid",
+          "en": "Community of Madrid",
+          "es": "Comunidad de Madrid",
+          "fr": "communauté de Madrid",
+          "el": "Κοινότητα της Μαδρίτης",
+          "hi": null,
+          "hu": "Madrid tartomány",
+          "id": "Madrid",
+          "it": "comunità di Madrid",
+          "ja": "マドリード州",
+          "ko": "마드리드 지방",
+          "nl": "Madrid",
+          "pl": "Madryt",
+          "pt": "Comunidade de Madrid",
+          "ru": "Мадрид",
+          "sv": "Madrid",
+          "tr": "Madrid",
+          "vi": "Cộng đồng Madrid",
+          "zh": "马德里自治区"
+        },
+        "population": 7491270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9565,
+          41.108000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-sg",
+        "area": 1.4392499999999941,
+        "bounding_box": [
+          -4.714,
+          40.633,
+          -3.199,
+          41.583
+        ],
+        "point": [
+          -3.9565,
+          41.108000000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "شقوبية",
+          "bn": null,
+          "de": "Provinz Segovia",
+          "en": "Segovia Province",
+          "es": "Provincia de Segovia",
+          "fr": "province de Ségovie",
+          "el": "Επαρχία της Σεγόβια",
+          "hi": null,
+          "hu": "Segovia",
+          "id": "Provinsi Segovia",
+          "it": "provincia di Segovia",
+          "ja": "セゴビア県",
+          "ko": "세고비아 주",
+          "nl": "Segovia",
+          "pl": "Segowia",
+          "pt": "Segóvia",
+          "ru": "Сеговия",
+          "sv": "Segovia",
+          "tr": "Segovia ili",
+          "vi": "Segovia",
+          "zh": "塞哥維亞省"
+        },
+        "population": 178845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.686,
+          41.707499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-va",
+        "area": 1.6962299999999944,
+        "bounding_box": [
+          -5.391,
+          41.106,
+          -3.981,
+          42.309
+        ],
+        "point": [
+          -4.686,
+          41.707499999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "بلد الوليد",
+          "bn": "ভ্যাল্লাদোলিড প্রদেশ",
+          "de": "Provinz Valladolid",
+          "en": "Valladolid Province",
+          "es": "Provincia de Valladolid",
+          "fr": "province de Valladolid",
+          "el": "Επαρχία του Βαγιαδολίδ",
+          "hi": "वेलाडोलिड प्रांत",
+          "hu": "Valladolid",
+          "id": "Provinsi Valladolid",
+          "it": "Provincia di Valladolid",
+          "ja": "バリャドリッド県",
+          "ko": "바야돌리드 주",
+          "nl": "Valladolid",
+          "pl": "Valladolid",
+          "pt": "Valhadolide",
+          "ru": "Вальядолид",
+          "sv": "Valladolid",
+          "tr": "Valladolid ili",
+          "vi": "Valladolid",
+          "zh": "巴利亞多利德省"
+        },
+        "population": 565299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4715,
+          42.051500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "es_province",
+        "region_parent": "es",
+        "region_child": "es-va",
+        "area": 0.009009000000000125,
+        "bounding_box": [
+          -5.521,
+          42.006,
+          -5.422,
+          42.097
+        ],
+        "point": [
+          -5.4715,
+          42.051500000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "بلد الوليد",
+          "bn": "ভ্যাল্লাদোলিড প্রদেশ",
+          "de": "Provinz Valladolid",
+          "en": "Valladolid Province",
+          "es": "Provincia de Valladolid",
+          "fr": "province de Valladolid",
+          "el": "Επαρχία του Βαγιαδολίδ",
+          "hi": "वेलाडोलिड प्रांत",
+          "hu": "Valladolid",
+          "id": "Provinsi Valladolid",
+          "it": "Provincia di Valladolid",
+          "ja": "バリャドリッド県",
+          "ko": "바야돌리드 주",
+          "nl": "Valladolid",
+          "pl": "Valladolid",
+          "pt": "Valhadolide",
+          "ru": "Вальядолид",
+          "sv": "Valladolid",
+          "tr": "Valladolid ili",
+          "vi": "Valladolid",
+          "zh": "巴利亞多利德省"
+        },
+        "population": 565299
+      }
+    }
+  ]
+}

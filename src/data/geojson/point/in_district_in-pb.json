@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.24600000000001,
+          31.901500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "gurdaspur",
+        "area": 0.43664999999999754,
+        "bounding_box": [
+          74.891,
+          31.594,
+          75.601,
+          32.209
+        ],
+        "point": [
+          75.24600000000001,
+          31.901500000000002
+        ],
+        "labels": {
+          "en": "Gurdaspur"
+        },
+        "population": 1760196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.911,
+          31.608
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "hoshiarpur",
+        "area": 0.8285519999999958,
+        "bounding_box": [
+          75.474,
+          31.134,
+          76.348,
+          32.082
+        ],
+        "point": [
+          75.911,
+          31.608
+        ],
+        "labels": {
+          "en": "Hoshiarpur"
+        },
+        "population": 1745964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.946,
+          31.773
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "amritsar",
+        "area": 0.5166239999999983,
+        "bounding_box": [
+          74.488,
+          31.491,
+          75.404,
+          32.055
+        ],
+        "point": [
+          74.946,
+          31.773
+        ],
+        "labels": {
+          "en": "Amritsar"
+        },
+        "population": 2817475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.515,
+          31.292
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "jalandhar",
+        "area": 0.5711520000000009,
+        "bounding_box": [
+          75.077,
+          30.966,
+          75.953,
+          31.618
+        ],
+        "point": [
+          75.515,
+          31.292
+        ],
+        "labels": {
+          "en": "Jalandhar"
+        },
+        "population": 2446706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9,
+          31.3215
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "tarn taran",
+        "area": 0.3892200000000024,
+        "bounding_box": [
+          74.51,
+          31.072,
+          75.29,
+          31.571
+        ],
+        "point": [
+          74.9,
+          31.3215
+        ],
+        "labels": {
+          "en": "Tarn Taran"
+        },
+        "population": 1283503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5115,
+          31.091
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "rupnagar",
+        "area": 0.3084300000000025,
+        "bounding_box": [
+          76.288,
+          30.746,
+          76.735,
+          31.436
+        ],
+        "point": [
+          76.5115,
+          31.091
+        ],
+        "labels": {
+          "en": "Rupnagar"
+        },
+        "population": 716658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.15299999999999,
+          31.1265
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "shahid bhagat singh nagar",
+        "area": 0.2299499999999996,
+        "bounding_box": [
+          75.788,
+          30.969,
+          76.518,
+          31.284
+        ],
+        "point": [
+          76.15299999999999,
+          31.1265
+        ],
+        "labels": {
+          "en": "Shahid Bhagat Singh Nagar"
+        },
+        "population": 635663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1705,
+          30.319
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "fazilka",
+        "area": 0.43226400000000215,
+        "bounding_box": [
+          73.88,
+          29.947,
+          74.461,
+          30.691
+        ],
+        "point": [
+          74.1705,
+          30.319
+        ],
+        "labels": {
+          "en": "Fazilka"
+        },
+        "population": 1154551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.16149999999999,
+          30.789499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "moga",
+        "area": 0.31157500000000055,
+        "bounding_box": [
+          74.904,
+          30.487,
+          75.419,
+          31.092
+        ],
+        "point": [
+          75.16149999999999,
+          30.789499999999997
+        ],
+        "labels": {
+          "en": "Moga"
+        },
+        "population": 1027916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.84049999999999,
+          30.7895
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "ludhiana",
+        "area": 0.4419190000000001,
+        "bounding_box": [
+          75.357,
+          30.561,
+          76.324,
+          31.018
+        ],
+        "point": [
+          75.84049999999999,
+          30.7895
+        ],
+        "labels": {
+          "en": "Ludhiana"
+        },
+        "population": 3972464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.73,
+          30.651
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "s.a.s. nagar",
+        "area": 0.24044799999999938,
+        "bounding_box": [
+          76.522,
+          30.362,
+          76.938,
+          30.94
+        ],
+        "point": [
+          76.73,
+          30.651
+        ],
+        "labels": {
+          "en": "S.A.S. Nagar"
+        },
+        "population": 1664236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.572,
+          30.86
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "s.a.s. nagar",
+        "area": 0.00021600000000001636,
+        "bounding_box": [
+          76.566,
+          30.851,
+          76.578,
+          30.869
+        ],
+        "point": [
+          76.572,
+          30.86
+        ],
+        "labels": {
+          "en": "S.A.S. Nagar"
+        },
+        "population": 1664236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.763,
+          30.601
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "faridkot",
+        "area": 0.273540000000003,
+        "bounding_box": [
+          74.472,
+          30.366,
+          75.054,
+          30.836
+        ],
+        "point": [
+          74.763,
+          30.601
+        ],
+        "labels": {
+          "en": "Faridkot"
+        },
+        "population": 653469
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35499999999999,
+          30.661
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "fatehgarh sahib",
+        "area": 0.2421720000000036,
+        "bounding_box": [
+          76.076,
+          30.444,
+          76.634,
+          30.878
+        ],
+        "point": [
+          76.35499999999999,
+          30.661
+        ],
+        "labels": {
+          "en": "Fatehgarh Sahib"
+        },
+        "population": 632309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.533,
+          30.2875
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "sri muktsar sahib",
+        "area": 0.44101400000000324,
+        "bounding_box": [
+          74.244,
+          29.906,
+          74.822,
+          30.669
+        ],
+        "point": [
+          74.533,
+          30.2875
+        ],
+        "labels": {
+          "en": "Sri Muktsar Sahib"
+        },
+        "population": 1151984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.87950000000001,
+          30.2095
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "sangrur",
+        "area": 0.6262849999999871,
+        "bounding_box": [
+          75.555,
+          29.727,
+          76.204,
+          30.692
+        ],
+        "point": [
+          75.87950000000001,
+          30.2095
+        ],
+        "labels": {
+          "en": "Sangrur"
+        },
+        "population": 1843195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4915,
+          30.372
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "barnala",
+        "area": 0.22229999999999733,
+        "bounding_box": [
+          75.254,
+          30.138,
+          75.729,
+          30.606
+        ],
+        "point": [
+          75.4915,
+          30.372
+        ],
+        "labels": {
+          "en": "Barnala"
+        },
+        "population": 679835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.003,
+          30.179000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "bathinda",
+        "area": 0.602887999999993,
+        "bounding_box": [
+          74.629,
+          29.776,
+          75.377,
+          30.582
+        ],
+        "point": [
+          75.003,
+          30.179000000000002
+        ],
+        "labels": {
+          "en": "Bathinda"
+        },
+        "population": 1695414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.38550000000001,
+          30.21
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "patiala",
+        "area": 0.6729799999999926,
+        "bounding_box": [
+          75.983,
+          29.792,
+          76.788,
+          30.628
+        ],
+        "point": [
+          76.38550000000001,
+          30.21
+        ],
+        "labels": {
+          "en": "Patiala"
+        },
+        "population": 2274535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.47200000000001,
+          29.875500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "mansa",
+        "area": 0.40553599999999207,
+        "bounding_box": [
+          75.168,
+          29.542,
+          75.776,
+          30.209
+        ],
+        "point": [
+          75.47200000000001,
+          29.875500000000002
+        ],
+        "labels": {
+          "en": "Mansa"
+        },
+        "population": 740844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6825,
+          30.884500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "ferozepur",
+        "area": 0.5159490000000047,
+        "bounding_box": [
+          74.216,
+          30.608,
+          75.149,
+          31.161
+        ],
+        "point": [
+          74.6825,
+          30.884500000000003
+        ],
+        "labels": {
+          "en": "Ferozepur"
+        },
+        "population": 1059932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6265,
+          32.30200000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "pathankot",
+        "area": 0.2553980000000013,
+        "bounding_box": [
+          75.321,
+          32.093,
+          75.932,
+          32.511
+        ],
+        "point": [
+          75.6265,
+          32.30200000000001
+        ],
+        "labels": {
+          "en": "Pathankot"
+        },
+        "population": 701171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2815,
+          31.386
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "kapurthala",
+        "area": 0.33950399999999953,
+        "bounding_box": [
+          74.96,
+          31.122,
+          75.603,
+          31.65
+        ],
+        "point": [
+          75.2815,
+          31.386
+        ],
+        "labels": {
+          "en": "Kapurthala"
+        },
+        "population": 865798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.78999999999999,
+          31.2695
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-pb",
+        "region_child": "kapurthala",
+        "area": 0.04967999999999912,
+        "bounding_box": [
+          75.67,
+          31.166,
+          75.91,
+          31.373
+        ],
+        "point": [
+          75.78999999999999,
+          31.2695
+        ],
+        "labels": {
+          "en": "Kapurthala"
+        },
+        "population": 865798
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7235,
+          17.741
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vi",
+        "region_child": "vi-x01~",
+        "area": 0.034216000000000545,
+        "bounding_box": [
+          -64.888,
+          17.689,
+          -64.559,
+          17.793
+        ],
+        "point": [
+          -64.7235,
+          17.741
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 41129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7435,
+          18.347
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vi",
+        "region_child": "vi-x03~",
+        "area": 0.004590000000000301,
+        "bounding_box": [
+          -64.786,
+          18.32,
+          -64.701,
+          18.374
+        ],
+        "point": [
+          -64.7435,
+          18.347
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": "Saint John",
+          "en": "Saint John Parish",
+          "es": "Parroquia de Saint John",
+          "fr": "Saint-John",
+          "el": "Άγιος Ιωάννης",
+          "hi": "सेंट जॉन पल्ली",
+          "hu": null,
+          "id": "Paroki Saint John",
+          "it": "Saint John",
+          "ja": null,
+          "ko": "세인트존 교구",
+          "nl": "Saint John",
+          "pl": "Saint John",
+          "pt": "Saint John",
+          "ru": null,
+          "sv": "Parish of Saint John",
+          "tr": null,
+          "vi": null,
+          "zh": "圣约翰区"
+        },
+        "population": 724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.9,
+          18.3475
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vi",
+        "region_child": "vi-x02~",
+        "area": 0.005849999999999094,
+        "bounding_box": [
+          -64.945,
+          18.315,
+          -64.855,
+          18.38
+        ],
+        "point": [
+          -64.9,
+          18.3475
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 25668
+      }
+    }
+  ]
+}

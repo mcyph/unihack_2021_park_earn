@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0945,
+          28.7845
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dl",
+        "region_child": "north delhi",
+        "area": 0.05114300000000141,
+        "bounding_box": [
+          76.966,
+          28.685,
+          77.223,
+          28.884
+        ],
+        "point": [
+          77.0945,
+          28.7845
+        ],
+        "labels": {
+          "en": "North Delhi"
+        },
+        "population": 2163196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2585,
+          28.7195
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dl",
+        "region_child": "north east delhi",
+        "area": 0.00797900000000071,
+        "bounding_box": [
+          77.219,
+          28.669,
+          77.298,
+          28.77
+        ],
+        "point": [
+          77.2585,
+          28.7195
+        ],
+        "labels": {
+          "en": "North East Delhi"
+        },
+        "population": 1428082
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06700000000001,
+          28.6475
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dl",
+        "region_child": "west delhi",
+        "area": 0.02302799999999923,
+        "bounding_box": [
+          76.953,
+          28.597,
+          77.181,
+          28.698
+        ],
+        "point": [
+          77.06700000000001,
+          28.6475
+        ],
+        "labels": {
+          "en": "West Delhi"
+        },
+        "population": 2869210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.294,
+          28.6115
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dl",
+        "region_child": "east delhi",
+        "area": 0.008544000000000192,
+        "bounding_box": [
+          77.246,
+          28.567,
+          77.342,
+          28.656
+        ],
+        "point": [
+          77.294,
+          28.6115
+        ],
+        "labels": {
+          "en": "East Delhi"
+        },
+        "population": 1366342
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9725,
+          28.585
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dl",
+        "region_child": "south west delhi",
+        "area": 0.043460000000000484,
+        "bounding_box": [
+          76.84,
+          28.503,
+          77.105,
+          28.667
+        ],
+        "point": [
+          76.9725,
+          28.585
+        ],
+        "labels": {
+          "en": "South West Delhi"
+        },
+        "population": 1731696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.21600000000001,
+          28.703000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dl",
+        "region_child": "central delhi",
+        "area": 0.0178000000000016,
+        "bounding_box": [
+          77.166,
+          28.614,
+          77.266,
+          28.792
+        ],
+        "point": [
+          77.21600000000001,
+          28.703000000000003
+        ],
+        "labels": {
+          "en": "Central Delhi"
+        },
+        "population": 1737098
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.15350000000001,
+          28.564500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dl",
+        "region_child": "new delhi",
+        "area": 0.03332700000000081,
+        "bounding_box": [
+          77.05,
+          28.484,
+          77.257,
+          28.645
+        ],
+        "point": [
+          77.15350000000001,
+          28.564500000000002
+        ],
+        "labels": {
+          "en": "New Delhi"
+        },
+        "population": 1137281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1825,
+          28.4875
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dl",
+        "region_child": "south delhi",
+        "area": 0.02359499999999999,
+        "bounding_box": [
+          77.111,
+          28.405,
+          77.254,
+          28.57
+        ],
+        "point": [
+          77.1825,
+          28.4875
+        ],
+        "labels": {
+          "en": "South Delhi"
+        },
+        "population": 1637700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2935,
+          28.677
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dl",
+        "region_child": "shahdara",
+        "area": 0.005687999999999749,
+        "bounding_box": [
+          77.254,
+          28.641,
+          77.333,
+          28.713
+        ],
+        "point": [
+          77.2935,
+          28.677
+        ],
+        "labels": {
+          "en": "Shahdara"
+        },
+        "population": 1528964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2765,
+          28.5455
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dl",
+        "region_child": "south east delhi",
+        "area": 0.01762499999999889,
+        "bounding_box": [
+          77.206,
+          28.483,
+          77.347,
+          28.608
+        ],
+        "point": [
+          77.2765,
+          28.5455
+        ],
+        "labels": {
+          "en": "South East Delhi"
+        },
+        "population": 1735108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06649999999999,
+          28.7425
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dl",
+        "region_child": "north west delhi",
+        "area": 0.037599000000001374,
+        "bounding_box": [
+          76.942,
+          28.667,
+          77.191,
+          28.818
+        ],
+        "point": [
+          77.06649999999999,
+          28.7425
+        ],
+        "labels": {
+          "en": "North West Delhi"
+        },
+        "population": 2318537
+      }
+    }
+  ]
+}

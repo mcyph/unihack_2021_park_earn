@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1425,
+          0.27049999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ga",
+        "region_child": "ga01",
+        "area": 2.697333,
+        "bounding_box": [
+          9.298,
+          -0.528,
+          10.987,
+          1.069
+        ],
+        "point": [
+          10.1425,
+          0.27049999999999996
+        ],
+        "labels": {
+          "en": "Estuaire"
+        },
+        "population": 1067010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.627500000000001,
+          -1.213
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ga",
+        "region_child": "ga02",
+        "area": 4.410978000000002,
+        "bounding_box": [
+          12.753,
+          -2.474,
+          14.502,
+          0.048
+        ],
+        "point": [
+          13.627500000000001,
+          -1.213
+        ],
+        "labels": {
+          "en": "Haut-Ogooue"
+        },
+        "population": 815125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.587499999999999,
+          -0.49
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ga",
+        "region_child": "ga03",
+        "area": 2.95065,
+        "bounding_box": [
+          9.6,
+          -1.237,
+          11.575,
+          0.257
+        ],
+        "point": [
+          10.587499999999999,
+          -0.49
+        ],
+        "labels": {
+          "en": "Moyen-Ogooue"
+        },
+        "population": 104414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.207,
+          -1.569
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ga",
+        "region_child": "ga04",
+        "area": 6.3229000000000015,
+        "bounding_box": [
+          9.882,
+          -2.762,
+          12.532,
+          -0.376
+        ],
+        "point": [
+          11.207,
+          -1.569
+        ],
+        "labels": {
+          "en": "Ngounie"
+        },
+        "population": 150549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0465,
+          -3.1085000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ga",
+        "region_child": "ga05",
+        "area": 3.553381000000001,
+        "bounding_box": [
+          10.026,
+          -3.979,
+          12.067,
+          -2.238
+        ],
+        "point": [
+          11.0465,
+          -3.1085000000000003
+        ],
+        "labels": {
+          "en": "Nyanga"
+        },
+        "population": 71759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.885,
+          0.34850000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ga",
+        "region_child": "ga06",
+        "area": 6.971385999999998,
+        "bounding_box": [
+          11.272,
+          -0.732,
+          14.498,
+          1.429
+        ],
+        "point": [
+          12.885,
+          0.34850000000000003
+        ],
+        "labels": {
+          "en": "Ogooue-Ivindo"
+        },
+        "population": 97680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.544,
+          -0.7985
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ga",
+        "region_child": "ga07",
+        "area": 4.4997500000000015,
+        "bounding_box": [
+          11.519,
+          -1.896,
+          13.569,
+          0.299
+        ],
+        "point": [
+          12.544,
+          -0.7985
+        ],
+        "labels": {
+          "en": "Ogooue-Lolo"
+        },
+        "population": 120365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.645499999999998,
+          -1.5215
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ga",
+        "region_child": "ga08",
+        "area": 4.8239410000000005,
+        "bounding_box": [
+          8.7,
+          -2.797,
+          10.591,
+          -0.246
+        ],
+        "point": [
+          9.645499999999998,
+          -1.5215
+        ],
+        "labels": {
+          "en": "Ogooue-Maritime"
+        },
+        "population": 188095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.818000000000001,
+          1.273
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ga",
+        "region_child": "ga09",
+        "area": 6.218472,
+        "bounding_box": [
+          10.336,
+          0.224,
+          13.3,
+          2.322
+        ],
+        "point": [
+          11.818000000000001,
+          1.273
+        ],
+        "labels": {
+          "en": "Woleu-Ntem"
+        },
+        "population": 332655
+      }
+    }
+  ]
+}

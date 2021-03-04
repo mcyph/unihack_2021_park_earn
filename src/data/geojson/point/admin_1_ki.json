@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.33300000000003,
+          1.8425
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ki",
+        "region_child": "ki-x01~",
+        "area": 0.08184400000000061,
+        "bounding_box": [
+          -157.491,
+          1.713,
+          -157.175,
+          1.972
+        ],
+        "point": [
+          -157.33300000000003,
+          1.8425
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.887,
+          -5.622
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ki",
+        "region_child": "ki-x02~",
+        "area": 0.0009880000000002762,
+        "bounding_box": [
+          -155.906,
+          -5.635,
+          -155.868,
+          -5.609
+        ],
+        "point": [
+          -155.887,
+          -5.622
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 0,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,1955 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21549999999999,
+          38.102999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "109",
+        "area": 1.1168299999999967,
+        "bounding_box": [
+          -107.002,
+          37.748,
+          -105.429,
+          38.458
+        ],
+        "point": [
+          -106.21549999999999,
+          38.102999999999994
+        ],
+        "labels": {
+          "en": "Saguache"
+        },
+        "population": 5931
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.352,
+          40.876000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "115",
+        "area": 0.15290799999999966,
+        "bounding_box": [
+          -102.653,
+          40.749,
+          -102.051,
+          41.003
+        ],
+        "point": [
+          -102.352,
+          40.876000000000005
+        ],
+        "labels": {
+          "en": "Sedgwick"
+        },
+        "population": 2050
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.60900000000001,
+          38.829499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "017",
+        "area": 0.4906799999999946,
+        "bounding_box": [
+          -103.173,
+          38.612,
+          -102.045,
+          39.047
+        ],
+        "point": [
+          -102.60900000000001,
+          38.829499999999996
+        ],
+        "labels": {
+          "en": "Cheyenne"
+        },
+        "population": 1511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4225,
+          38.078
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "027",
+        "area": 0.280126,
+        "bounding_box": [
+          -105.797,
+          37.891,
+          -105.048,
+          38.265
+        ],
+        "point": [
+          -105.4225,
+          38.078
+        ],
+        "labels": {
+          "en": "Custer"
+        },
+        "population": 5129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.93,
+          37.32
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "067",
+        "area": 0.5747200000000071,
+        "bounding_box": [
+          -108.379,
+          37.0,
+          -107.481,
+          37.64
+        ],
+        "point": [
+          -107.93,
+          37.32
+        ],
+        "labels": {
+          "en": "La Plata"
+        },
+        "population": 59938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.714,
+          37.8025
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "111",
+        "area": 0.1664000000000016,
+        "bounding_box": [
+          -107.97,
+          37.64,
+          -107.458,
+          37.965
+        ],
+        "point": [
+          -107.714,
+          37.8025
+        ],
+        "labels": {
+          "en": "San Juan"
+        },
+        "population": 875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.946,
+          39.172
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "097",
+        "area": 0.40351999999999494,
+        "bounding_box": [
+          -107.466,
+          38.978,
+          -106.426,
+          39.366
+        ],
+        "point": [
+          -106.946,
+          39.172
+        ],
+        "labels": {
+          "en": "Pitkin"
+        },
+        "population": 19755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.769,
+          39.1305
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "093",
+        "area": 0.7717499999999919,
+        "bounding_box": [
+          -106.21,
+          38.693,
+          -105.328,
+          39.568
+        ],
+        "point": [
+          -105.769,
+          39.1305
+        ],
+        "labels": {
+          "en": "Park"
+        },
+        "population": 17781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.74600000000001,
+          37.554
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "003",
+        "area": 0.23205599999999987,
+        "bounding_box": [
+          -106.039,
+          37.356,
+          -105.453,
+          37.752
+        ],
+        "point": [
+          -105.74600000000001,
+          37.554
+        ],
+        "labels": {
+          "en": "Alamosa"
+        },
+        "population": 15962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.39500000000001,
+          37.956
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "099",
+        "area": 0.4419560000000003,
+        "bounding_box": [
+          -102.748,
+          37.643,
+          -102.042,
+          38.269
+        ],
+        "point": [
+          -102.39500000000001,
+          37.956
+        ],
+        "labels": {
+          "en": "Prowers"
+        },
+        "population": 10889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.182,
+          40.6115
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "081",
+        "area": 1.3608540000000018,
+        "bounding_box": [
+          -109.051,
+          40.22,
+          -107.313,
+          41.003
+        ],
+        "point": [
+          -108.182,
+          40.6115
+        ],
+        "labels": {
+          "en": "Moffat"
+        },
+        "population": 14433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.224,
+          39.522000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "059",
+        "area": 0.27439999999999515,
+        "bounding_box": [
+          -105.399,
+          39.13,
+          -105.049,
+          39.914
+        ],
+        "point": [
+          -105.224,
+          39.522000000000006
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 566026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.108,
+          39.641
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "117",
+        "area": 0.37715199999999943,
+        "bounding_box": [
+          -106.44,
+          39.357,
+          -105.776,
+          39.925
+        ],
+        "point": [
+          -106.108,
+          39.641
+        ],
+        "labels": {
+          "en": "Summit"
+        },
+        "population": 33262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55250000000001,
+          38.1285
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "101",
+        "area": 0.784638999999999,
+        "bounding_box": [
+          -105.051,
+          37.735,
+          -104.054,
+          38.522
+        ],
+        "point": [
+          -104.55250000000001,
+          38.1285
+        ],
+        "labels": {
+          "en": "Pueblo"
+        },
+        "population": 178825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3735,
+          40.087999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "013",
+        "area": 0.22435000000000277,
+        "bounding_box": [
+          -105.694,
+          39.913,
+          -105.053,
+          40.263
+        ],
+        "point": [
+          -105.3735,
+          40.087999999999994
+        ],
+        "labels": {
+          "en": "Boulder"
+        },
+        "population": 323159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0675,
+          39.965
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "013",
+        "area": 0.0004060000000000331,
+        "bounding_box": [
+          -105.082,
+          39.958,
+          -105.053,
+          39.972
+        ],
+        "point": [
+          -105.0675,
+          39.965
+        ],
+        "labels": {
+          "en": "Boulder"
+        },
+        "population": 323159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.85499999999999,
+          39.763999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "031",
+        "area": 0.15300000000000372,
+        "bounding_box": [
+          -105.11,
+          39.614,
+          -104.6,
+          39.914
+        ],
+        "point": [
+          -104.85499999999999,
+          39.763999999999996
+        ],
+        "labels": {
+          "en": "Denver"
+        },
+        "population": 632197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.28,
+          38.4105
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "085",
+        "area": 0.8065199999999948,
+        "bounding_box": [
+          -109.06,
+          38.152,
+          -107.5,
+          38.669
+        ],
+        "point": [
+          -108.28,
+          38.4105
+        ],
+        "labels": {
+          "en": "Montrose"
+        },
+        "population": 50846
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.64500000000001,
+          39.6375
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "037",
+        "area": 0.5393499999999973,
+        "bounding_box": [
+          -107.114,
+          39.35,
+          -106.176,
+          39.925
+        ],
+        "point": [
+          -106.64500000000001,
+          39.6375
+        ],
+        "labels": {
+          "en": "Eagle"
+        },
+        "population": 65237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.388,
+          37.964
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "113",
+        "area": 0.49780000000000424,
+        "bounding_box": [
+          -109.043,
+          37.774,
+          -107.733,
+          38.154
+        ],
+        "point": [
+          -108.388,
+          37.964
+        ],
+        "labels": {
+          "en": "San Miguel"
+        },
+        "population": 8160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4505,
+          37.3245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "023",
+        "area": 0.42241900000000737,
+        "bounding_box": [
+          -105.771,
+          36.995,
+          -105.13,
+          37.654
+        ],
+        "point": [
+          -105.4505,
+          37.3245
+        ],
+        "labels": {
+          "en": "Costilla"
+        },
+        "population": 3411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0635,
+          39.966499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "014",
+        "area": 0.03177499999999851,
+        "bounding_box": [
+          -105.166,
+          39.889,
+          -104.961,
+          40.044
+        ],
+        "point": [
+          -105.0635,
+          39.966499999999996
+        ],
+        "labels": {
+          "en": "Broomfield"
+        },
+        "population": 73122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23949999999999,
+          38.739999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "015",
+        "area": 0.4585559999999953,
+        "bounding_box": [
+          -106.6,
+          38.422,
+          -105.879,
+          39.058
+        ],
+        "point": [
+          -106.23949999999999,
+          38.739999999999995
+        ],
+        "labels": {
+          "en": "Chaffee"
+        },
+        "population": 19512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.78,
+          38.318
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "025",
+        "area": 0.2279600000000068,
+        "bounding_box": [
+          -104.058,
+          38.113,
+          -103.502,
+          38.523
+        ],
+        "point": [
+          -103.78,
+          38.318
+        ],
+        "labels": {
+          "en": "Crowley"
+        },
+        "population": 6117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4765,
+          38.478
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "043",
+        "area": 0.4721200000000009,
+        "bounding_box": [
+          -106.013,
+          38.258,
+          -104.94,
+          38.698
+        ],
+        "point": [
+          -105.4765,
+          38.478
+        ],
+        "labels": {
+          "en": "Fremont"
+        },
+        "population": 47528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.925,
+          37.656
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "055",
+        "area": 0.8334479999999962,
+        "bounding_box": [
+          -105.499,
+          37.293,
+          -104.351,
+          38.019
+        ],
+        "point": [
+          -104.925,
+          37.656
+        ],
+        "labels": {
+          "en": "Huerfano"
+        },
+        "population": 5728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.94,
+          38.943
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "029",
+        "area": 0.4829000000000038,
+        "bounding_box": [
+          -108.379,
+          38.668,
+          -107.501,
+          39.218
+        ],
+        "point": [
+          -107.94,
+          38.943
+        ],
+        "labels": {
+          "en": "Delta"
+        },
+        "population": 34574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0415,
+          39.729
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "045",
+        "area": 1.465794000000002,
+        "bounding_box": [
+          -109.051,
+          39.366,
+          -107.032,
+          40.092
+        ],
+        "point": [
+          -108.0415,
+          39.729
+        ],
+        "labels": {
+          "en": "Garfield"
+        },
+        "population": 72844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.04400000000001,
+          39.9375
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "103",
+        "area": 1.1580500000000034,
+        "bounding_box": [
+          -109.051,
+          39.65,
+          -107.037,
+          40.225
+        ],
+        "point": [
+          -108.04400000000001,
+          39.9375
+        ],
+        "labels": {
+          "en": "Rio Blanco"
+        },
+        "population": 7420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.807,
+          40.2625
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "087",
+        "area": 0.3587780000000059,
+        "bounding_box": [
+          -104.15,
+          40.001,
+          -103.464,
+          40.524
+        ],
+        "point": [
+          -103.807,
+          40.2625
+        ],
+        "labels": {
+          "en": "Morgan"
+        },
+        "population": 29202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.60499999999999,
+          39.041
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "073",
+        "area": 0.9471000000000049,
+        "bounding_box": [
+          -104.056,
+          38.516,
+          -103.154,
+          39.566
+        ],
+        "point": [
+          -103.60499999999999,
+          39.041
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 4913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.50800000000001,
+          37.319500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "083",
+        "area": 0.689716000000003,
+        "bounding_box": [
+          -109.046,
+          36.999,
+          -107.97,
+          37.64
+        ],
+        "point": [
+          -108.50800000000001,
+          37.319500000000005
+        ],
+        "labels": {
+          "en": "Montezuma"
+        },
+        "population": 27375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.37950000000001,
+          39.8695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "001",
+        "area": 0.35426099999999594,
+        "bounding_box": [
+          -105.053,
+          39.738,
+          -103.706,
+          40.001
+        ],
+        "point": [
+          -104.37950000000001,
+          39.8695
+        ],
+        "labels": {
+          "en": "Adams"
+        },
+        "population": 560396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9195,
+          37.6835
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "079",
+        "area": 0.2629329999999954,
+        "bounding_box": [
+          -107.145,
+          37.392,
+          -106.694,
+          37.975
+        ],
+        "point": [
+          -106.9195,
+          37.6835
+        ],
+        "labels": {
+          "en": "Mineral"
+        },
+        "population": 606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.72999999999999,
+          37.954
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "089",
+        "area": 0.4130080000000008,
+        "bounding_box": [
+          -104.062,
+          37.643,
+          -103.398,
+          38.265
+        ],
+        "point": [
+          -103.72999999999999,
+          37.954
+        ],
+        "labels": {
+          "en": "Otero"
+        },
+        "population": 17488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.35849999999999,
+          40.594
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "095",
+        "area": 0.19187999999999694,
+        "bounding_box": [
+          -102.666,
+          40.438,
+          -102.051,
+          40.75
+        ],
+        "point": [
+          -102.35849999999999,
+          40.594
+        ],
+        "labels": {
+          "en": "Phillips"
+        },
+        "population": 4396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8215,
+          38.1125
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "091",
+        "area": 0.27386100000000124,
+        "bounding_box": [
+          -108.132,
+          37.892,
+          -107.511,
+          38.333
+        ],
+        "point": [
+          -107.8215,
+          38.1125
+        ],
+        "labels": {
+          "en": "Ouray"
+        },
+        "population": 5260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.072,
+          37.9555
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "011",
+        "area": 0.4150000000000009,
+        "bounding_box": [
+          -103.404,
+          37.643,
+          -102.74,
+          38.268
+        ],
+        "point": [
+          -103.072,
+          37.9555
+        ],
+        "labels": {
+          "en": "Bent"
+        },
+        "population": 7037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.979,
+          37.208
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "007",
+        "area": 0.43459200000000225,
+        "bounding_box": [
+          -107.482,
+          36.992,
+          -106.476,
+          37.424
+        ],
+        "point": [
+          -106.979,
+          37.208
+        ],
+        "labels": {
+          "en": "Archuleta"
+        },
+        "population": 14790
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.03450000000001,
+          40.461
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "107",
+        "area": 0.8856279999999951,
+        "bounding_box": [
+          -107.443,
+          39.919,
+          -106.626,
+          41.003
+        ],
+        "point": [
+          -107.03450000000001,
+          40.461
+        ],
+        "labels": {
+          "en": "Routt"
+        },
+        "population": 28068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.29599999999999,
+          37.785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "053",
+        "area": 0.4271599999999902,
+        "bounding_box": [
+          -107.591,
+          37.423,
+          -107.001,
+          38.147
+        ],
+        "point": [
+          -107.29599999999999,
+          37.785
+        ],
+        "labels": {
+          "en": "Hinsdale"
+        },
+        "population": 905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.315,
+          40.501000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "123",
+        "area": 1.4869680000000125,
+        "bounding_box": [
+          -105.057,
+          40.0,
+          -103.573,
+          41.002
+        ],
+        "point": [
+          -104.315,
+          40.501000000000005
+        ],
+        "labels": {
+          "en": "Weld"
+        },
+        "population": 354291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.56899999999999,
+          40.628
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "069",
+        "area": 0.9264799999999902,
+        "bounding_box": [
+          -106.195,
+          40.258,
+          -104.943,
+          40.998
+        ],
+        "point": [
+          -105.56899999999999,
+          40.628
+        ],
+        "labels": {
+          "en": "Larimer"
+        },
+        "population": 357250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.36099999999999,
+          39.2185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "065",
+        "area": 0.1462500000000022,
+        "bounding_box": [
+          -106.586,
+          39.056,
+          -106.136,
+          39.381
+        ],
+        "point": [
+          -106.36099999999999,
+          39.2185
+        ],
+        "labels": {
+          "en": "Lake"
+        },
+        "population": 6838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.375,
+          37.617000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "105",
+        "area": 0.29386400000000285,
+        "bounding_box": [
+          -106.712,
+          37.399,
+          -106.038,
+          37.835
+        ],
+        "point": [
+          -106.375,
+          37.617000000000004
+        ],
+        "labels": {
+          "en": "Rio Grande"
+        },
+        "population": 11942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.549,
+          39.8425
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "047",
+        "area": 0.05768200000000204,
+        "bounding_box": [
+          -105.7,
+          39.747,
+          -105.398,
+          39.938
+        ],
+        "point": [
+          -105.549,
+          39.8425
+        ],
+        "labels": {
+          "en": "Gilpin"
+        },
+        "population": 5989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.42699999999999,
+          40.004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "125",
+        "area": 0.6574880000000042,
+        "bounding_box": [
+          -102.804,
+          39.568,
+          -102.05,
+          40.44
+        ],
+        "point": [
+          -102.42699999999999,
+          40.004
+        ],
+        "labels": {
+          "en": "Yuma"
+        },
+        "population": 10238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.36250000000001,
+          40.6635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "057",
+        "area": 0.6932590000000026,
+        "bounding_box": [
+          -106.873,
+          40.324,
+          -105.852,
+          41.003
+        ],
+        "point": [
+          -106.36250000000001,
+          40.6635
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 1233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.60499999999999,
+          39.306
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "063",
+        "area": 0.5981760000000014,
+        "bounding_box": [
+          -103.163,
+          39.038,
+          -102.047,
+          39.574
+        ],
+        "point": [
+          -102.60499999999999,
+          39.306
+        ],
+        "labels": {
+          "en": "Kit Carson"
+        },
+        "population": 8532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.662,
+          39.7085
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "019",
+        "area": 0.15153600000000114,
+        "bounding_box": [
+          -105.926,
+          39.565,
+          -105.398,
+          39.852
+        ],
+        "point": [
+          -105.662,
+          39.7085
+        ],
+        "labels": {
+          "en": "Clear Creek"
+        },
+        "population": 8599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1165,
+          40.718500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "075",
+        "area": 0.5278769999999987,
+        "bounding_box": [
+          -103.582,
+          40.435,
+          -102.651,
+          41.002
+        ],
+        "point": [
+          -103.1165,
+          40.718500000000006
+        ],
+        "labels": {
+          "en": "Logan"
+        },
+        "population": 25073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2435,
+          40.002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "121",
+        "area": 0.8083439999999934,
+        "bounding_box": [
+          -103.707,
+          39.566,
+          -102.78,
+          40.438
+        ],
+        "point": [
+          -103.2435,
+          40.002
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 4710
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.995,
+          39.3475
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "035",
+        "area": 0.29191599999999973,
+        "bounding_box": [
+          -105.329,
+          39.129,
+          -104.661,
+          39.566
+        ],
+        "point": [
+          -104.995,
+          39.3475
+        ],
+        "labels": {
+          "en": "Douglas"
+        },
+        "population": 463762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1985,
+          37.199
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "021",
+        "area": 0.39401000000000297,
+        "bounding_box": [
+          -106.679,
+          36.994,
+          -105.718,
+          37.404
+        ],
+        "point": [
+          -106.1985,
+          37.199
+        ],
+        "labels": {
+          "en": "Conejos"
+        },
+        "population": 8107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5625,
+          38.8245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "041",
+        "area": 0.6238309999999961,
+        "bounding_box": [
+          -105.073,
+          38.519,
+          -104.052,
+          39.13
+        ],
+        "point": [
+          -104.5625,
+          38.8245
+        ],
+        "labels": {
+          "en": "El Paso"
+        },
+        "population": 749394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7755,
+          38.44
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "061",
+        "area": 0.5120500000000049,
+        "bounding_box": [
+          -103.507,
+          38.265,
+          -102.044,
+          38.615
+        ],
+        "point": [
+          -102.7755,
+          38.44
+        ],
+        "labels": {
+          "en": "Kiowa"
+        },
+        "population": 1210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1345,
+          38.889
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "119",
+        "area": 0.18846200000000232,
+        "bounding_box": [
+          -105.33,
+          38.648,
+          -104.939,
+          39.13
+        ],
+        "point": [
+          -105.1345,
+          38.889
+        ],
+        "labels": {
+          "en": "Teller"
+        },
+        "population": 26511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9405,
+          38.702
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "051",
+        "area": 1.5417900000000102,
+        "bounding_box": [
+          -107.635,
+          38.147,
+          -106.246,
+          39.257
+        ],
+        "point": [
+          -106.9405,
+          38.702
+        ],
+        "labels": {
+          "en": "Gunnison"
+        },
+        "population": 16761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.56450000000001,
+          37.3185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "009",
+        "area": 0.6802949999999972,
+        "bounding_box": [
+          -103.087,
+          36.993,
+          -102.042,
+          37.644
+        ],
+        "point": [
+          -102.56450000000001,
+          37.3185
+        ],
+        "labels": {
+          "en": "Baca"
+        },
+        "population": 3174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.1885,
+          39.216499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "039",
+        "area": 0.6652489999999991,
+        "bounding_box": [
+          -104.663,
+          38.866,
+          -103.714,
+          39.567
+        ],
+        "point": [
+          -104.1885,
+          39.216499999999996
+        ],
+        "labels": {
+          "en": "Elbert"
+        },
+        "population": 26479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.21950000000001,
+          38.933499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "077",
+        "area": 1.4574269999999931,
+        "bounding_box": [
+          -109.06,
+          38.5,
+          -107.379,
+          39.367
+        ],
+        "point": [
+          -108.21950000000001,
+          38.933499999999995
+        ],
+        "labels": {
+          "en": "Mesa"
+        },
+        "population": 184095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.452,
+          37.6905
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "033",
+        "area": 0.4858020000000025,
+        "bounding_box": [
+          -109.043,
+          37.485,
+          -107.861,
+          37.896
+        ],
+        "point": [
+          -108.452,
+          37.6905
+        ],
+        "labels": {
+          "en": "Dolores"
+        },
+        "population": 2309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3805,
+          39.6525
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "005",
+        "area": 0.23841900000000096,
+        "bounding_box": [
+          -105.054,
+          39.564,
+          -103.707,
+          39.741
+        ],
+        "point": [
+          -104.3805,
+          39.6525
+        ],
+        "labels": {
+          "en": "Arapahoe"
+        },
+        "population": 670127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.11500000000001,
+          37.405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "071",
+        "area": 1.7139199999999946,
+        "bounding_box": [
+          -105.155,
+          36.993,
+          -103.075,
+          37.817
+        ],
+        "point": [
+          -104.11500000000001,
+          37.405
+        ],
+        "labels": {
+          "en": "Las Animas"
+        },
+        "population": 15804
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1395,
+          40.084999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-co",
+        "region_child": "049",
+        "area": 0.8236540000000004,
+        "bounding_box": [
+          -106.653,
+          39.684,
+          -105.626,
+          40.486
+        ],
+        "point": [
+          -106.1395,
+          40.084999999999994
+        ],
+        "labels": {
+          "en": "Grand"
+        },
+        "population": 17716
+      }
+    }
+  ]
+}

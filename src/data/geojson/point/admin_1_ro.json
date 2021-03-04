@@ -1,0 +1,2231 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.899,
+          47.704
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-sm",
+        "area": 1.1345119999999944,
+        "bounding_box": [
+          22.168,
+          47.316,
+          23.63,
+          48.092
+        ],
+        "point": [
+          22.899,
+          47.704
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة ساتو ماري",
+          "bn": "সাতু মার কাউন্টি",
+          "de": "Kreis Satu Mare",
+          "en": "Satu Mare County",
+          "es": "Satu Mare",
+          "fr": "județ de Satu Mare",
+          "el": "επαρχία Σάτου Μάρε",
+          "hi": "सातू मेअर काउंटी",
+          "hu": "Szatmár megye",
+          "id": "Provinsi Satu Mare",
+          "it": "distretto di Satu Mare",
+          "ja": "サトゥ・マーレ県",
+          "ko": "사투마레 주",
+          "nl": "District Satu Mare",
+          "pl": "Okręg Satu Mare",
+          "pt": "Satu Mare",
+          "ru": "Сату-Маре",
+          "sv": "Satu Mare",
+          "tr": "Satu Mare ili",
+          "vi": "Hạt Satu Mare",
+          "zh": "薩圖馬雷縣"
+        },
+        "population": 331806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7295,
+          46.2755
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-ar",
+        "area": 1.5690149999999998,
+        "bounding_box": [
+          20.704,
+          45.893,
+          22.755,
+          46.658
+        ],
+        "point": [
+          21.7295,
+          46.2755
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة أراد",
+          "bn": "আরাদ কাউন্টি",
+          "de": "Kreis Arad",
+          "en": "Arad County",
+          "es": "Arad",
+          "fr": "județ d'Arad",
+          "el": "Αράντ",
+          "hi": "अराद काउंटी",
+          "hu": "Arad megye",
+          "id": "Provinsi Arad",
+          "it": "distretto di Arad",
+          "ja": "アラド県",
+          "ko": "아라드 주",
+          "nl": "District Arad",
+          "pl": "Okręg Arad",
+          "pt": "Arad",
+          "ru": "Арад",
+          "sv": "Arad",
+          "tr": "Arad ili",
+          "vi": "Arad",
+          "zh": "阿拉德縣"
+        },
+        "population": 403511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.113500000000002,
+          46.982
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-bh",
+        "area": 1.6906540000000003,
+        "bounding_box": [
+          21.424,
+          46.369,
+          22.803,
+          47.595
+        ],
+        "point": [
+          22.113500000000002,
+          46.982
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة بيهور",
+          "bn": "বিহোর কাউন্টি",
+          "de": "Kreis Bihor",
+          "en": "Bihor County",
+          "es": "Bihor",
+          "fr": "județ de Bihor",
+          "el": "Μπιχόρ",
+          "hi": "बिहोर काउंटी",
+          "hu": "Bihar megye",
+          "id": "Provinsi Bihor",
+          "it": "distretto di Bihor",
+          "ja": "ビホル県",
+          "ko": "비호르 주",
+          "nl": "District Bihor",
+          "pl": "Okręg Bihor",
+          "pt": "Bihor",
+          "ru": "Бихор",
+          "sv": "Bihor",
+          "tr": "Bihor ili",
+          "vi": "Bihor",
+          "zh": "比霍爾縣"
+        },
+        "population": 554195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.392,
+          45.6635
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-tm",
+        "area": 2.3462580000000037,
+        "bounding_box": [
+          20.243,
+          45.153,
+          22.541,
+          46.174
+        ],
+        "point": [
+          21.392,
+          45.6635
+        ],
+        "labels": {
+          "alt": "Timiș",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة تيميش",
+          "bn": "টিমিস কাউন্টি",
+          "de": "Kreis Timiș",
+          "en": "Timiș County",
+          "es": "Timiș",
+          "fr": "județ de Timiș",
+          "el": "Τίμις",
+          "hi": "टिमिस काउंटी",
+          "hu": "Temes megye",
+          "id": "Provinsi Timiș",
+          "it": "distretto di Timiș",
+          "ja": "ティミシュ県",
+          "ko": "티미슈 주",
+          "nl": "District Timiș",
+          "pl": "Okręg Temesz",
+          "pt": "Timiș",
+          "ru": "Тимиш",
+          "sv": "Timiș",
+          "tr": "Timiș ili",
+          "vi": "Hạt Timis",
+          "zh": "蒂米什縣"
+        },
+        "population": 691879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.761499999999998,
+          44.596000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-mh",
+        "area": 1.443359999999998,
+        "bounding_box": [
+          22.034,
+          44.1,
+          23.489,
+          45.092
+        ],
+        "point": [
+          22.761499999999998,
+          44.596000000000004
+        ],
+        "labels": {
+          "alt": "Mehedinți",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة ميهيدينتي",
+          "bn": "মেহেদিন্তি কাউন্টি",
+          "de": "Kreis Mehedinți",
+          "en": "Mehedinți County",
+          "es": "Mehedinți",
+          "fr": "Județ de Mehedinți",
+          "el": "Μεχεντίντι",
+          "hi": "महेदिंती काउंटी",
+          "hu": "Mehedinți megye",
+          "id": "Provinsi Mehedinți",
+          "it": "distretto di Mehedinți",
+          "ja": "メヘディンチ県",
+          "ko": "메헤딘치 주",
+          "nl": "District Mehedinți",
+          "pl": "Okręg Mehedinți",
+          "pt": "Mehedinți",
+          "ru": "Мехединци",
+          "sv": "Mehedinți",
+          "tr": "Mehedinți ili",
+          "vi": "Hạt Mehedinti",
+          "zh": "梅赫丁茨縣"
+        },
+        "population": 195913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.561999999999998,
+          44.242000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-dj",
+        "area": 1.3850279999999957,
+        "bounding_box": [
+          22.851,
+          43.755,
+          24.273,
+          44.729
+        ],
+        "point": [
+          23.561999999999998,
+          44.242000000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة دولج",
+          "bn": "ডলি কাউন্টি",
+          "de": "Kreis Dolj",
+          "en": "Dolj County",
+          "es": "Dolj",
+          "fr": "Județ de Dolj",
+          "el": "Ντόλτζ",
+          "hi": "डॉल्ज काउंटी",
+          "hu": "Dolj megye",
+          "id": "Provinsi Dolj",
+          "it": "distretto di Dolj",
+          "ja": "ドルジュ県",
+          "ko": "돌지 주",
+          "nl": "District Dolj",
+          "pl": "Okręg Dolj",
+          "pt": "Dolj",
+          "ru": "Долж",
+          "sv": "Dolj",
+          "tr": "Dolj ili",
+          "vi": "Hạt Dolj",
+          "zh": "多爾日縣"
+        },
+        "population": 592311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1515,
+          44.3125
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-cl",
+        "area": 0.8662709999999991,
+        "bounding_box": [
+          26.28,
+          44.064,
+          28.023,
+          44.561
+        ],
+        "point": [
+          27.1515,
+          44.3125
+        ],
+        "labels": {
+          "alt": "Călărași|Kalarasch",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة كالاراسي",
+          "bn": "কালারাসি কাউন্টি",
+          "de": "Kreis Călărași",
+          "en": "Călărași County",
+          "es": "Călărași",
+          "fr": "Județ de Călărași",
+          "el": "Καλαράσι",
+          "hi": "कालारसी काउंटी",
+          "hu": "Călărași megye",
+          "id": "Provinsi Călărași",
+          "it": "distretto di Călărași",
+          "ja": "カララシ県",
+          "ko": "컬러라시 주",
+          "nl": "District Călărași",
+          "pl": "Okręg Călărași",
+          "pt": "Călărași",
+          "ru": "Кэлэраши",
+          "sv": "Călărași",
+          "tr": "Călărași ili",
+          "vi": "Hạt Calarasi",
+          "zh": "克勒拉希縣"
+        },
+        "population": 14067159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1825,
+          44.091
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-tr",
+        "area": 0.962273999999994,
+        "bounding_box": [
+          24.632,
+          43.654,
+          25.733,
+          44.528
+        ],
+        "point": [
+          25.1825,
+          44.091
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة تيلورمان",
+          "bn": "টেলেওরম্যান কাউন্টি",
+          "de": "Kreis Teleorman",
+          "en": "Teleorman County",
+          "es": "Teleorman",
+          "fr": "Județ de Teleorman",
+          "el": "Τελεορμάν",
+          "hi": "टेलीओर्नान काउंटी",
+          "hu": "Teleorman megye",
+          "id": "Provinsi Teleorman",
+          "it": "distretto di Teleorman",
+          "ja": "テレオルマン県",
+          "ko": "텔레오르만 주",
+          "nl": "District Teleorman",
+          "pl": "Okręg Teleorman",
+          "pt": "Teleorman",
+          "ru": "Телеорман",
+          "sv": "Teleorman",
+          "tr": "Teleorman ili",
+          "vi": "Hạt Teleorman",
+          "zh": "特列奧爾曼縣"
+        },
+        "population": 333000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.977,
+          44.1425
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-gr",
+        "area": 0.8182020000000022,
+        "bounding_box": [
+          25.494,
+          43.719,
+          26.46,
+          44.566
+        ],
+        "point": [
+          25.977,
+          44.1425
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة جورجيو",
+          "bn": "গিউরগিউ কাউন্টি",
+          "de": "Kreis Giurgiu",
+          "en": "Giurgiu County",
+          "es": "Giurgiu",
+          "fr": "Județ de Giurgiu",
+          "el": "Γκιούρτζιου",
+          "hi": "जिर्गिउ काउंटी",
+          "hu": "Giurgiu megye",
+          "id": "Provinsi Giurgiu",
+          "it": "distretto di Giurgiu",
+          "ja": "ジュルジュ県",
+          "ko": "지우르지우 주",
+          "nl": "District Giurgiu",
+          "pl": "Okręg Giurgiu",
+          "pt": "Giurgiu",
+          "ru": "Джурджу",
+          "sv": "Giurgiu",
+          "tr": "Yergöğü ili",
+          "vi": "Hạt Giurgiu",
+          "zh": "久爾久縣"
+        },
+        "population": 589258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0485,
+          44.259
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-ct",
+        "area": 1.667368000000004,
+        "bounding_box": [
+          27.253,
+          43.735,
+          28.844,
+          44.783
+        ],
+        "point": [
+          28.0485,
+          44.259
+        ],
+        "labels": {
+          "alt": "Constanța|Konstanza",
+          "local": null,
+          "len": 9,
+          "ar": "إقليم كونستانتسا",
+          "bn": "কনস্ট্যান্টা কাউন্টি",
+          "de": "Kreis Constanța",
+          "en": "Constanța County",
+          "es": "Constanța",
+          "fr": "Județ de Constanța",
+          "el": "Κονστάντα",
+          "hi": "कॉस्टैंटा काउंटी",
+          "hu": "Constanța megye",
+          "id": "Provinsi Constanța",
+          "it": "distretto di Costanza",
+          "ja": "コンスタンツァ県",
+          "ko": "콘스탄차 주",
+          "nl": "District Constanța",
+          "pl": "Okręg Konstanca",
+          "pt": "Constança",
+          "ru": "Констанца",
+          "sv": "Constanța",
+          "tr": "Köstence ili",
+          "vi": "Constanta",
+          "zh": "康斯坦察縣"
+        },
+        "population": 730135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3785,
+          44.334
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-ot",
+        "area": 1.0943099999999948,
+        "bounding_box": [
+          23.906,
+          43.755,
+          24.851,
+          44.913
+        ],
+        "point": [
+          24.3785,
+          44.334
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "مقاطعة أولت",
+          "bn": "ওল্ট কাউন্টি",
+          "de": "Kreis Olt",
+          "en": "Olt County",
+          "es": "Olt",
+          "fr": "Județ d'Olt",
+          "el": "Όλτ",
+          "hi": "ओल्ट काउंटी",
+          "hu": "Olt megye",
+          "id": "Provinsi Olt",
+          "it": "distretto di Olt",
+          "ja": "オルト県",
+          "ko": "올트 주",
+          "nl": "District Olt",
+          "pl": "Okręg Aluta",
+          "pt": "Olt",
+          "ru": "Олт",
+          "sv": "Olt",
+          "tr": "Olt ili",
+          "vi": "Hạt Olt",
+          "zh": "奧爾特縣"
+        },
+        "population": 376715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0335,
+          45.12949999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-cs",
+        "area": 1.4372490000000016,
+        "bounding_box": [
+          21.36,
+          44.596,
+          22.707,
+          45.663
+        ],
+        "point": [
+          22.0335,
+          45.12949999999999
+        ],
+        "labels": {
+          "alt": "Caraș-Severin",
+          "local": null,
+          "len": 13,
+          "ar": "مقاطعة كاراس-سيفيرين",
+          "bn": "কারাস-সেভারিন কাউন্টি",
+          "de": "Kreis Caraș-Severin",
+          "en": "Caraș-Severin County",
+          "es": "Caraș-Severin",
+          "fr": "Județ de Caraș-Severin",
+          "el": "Καράς-Σεβερίν",
+          "hi": "करास-सेवेरिन काउंटी",
+          "hu": "Krassó-Szörény megye",
+          "id": "Provinsi Caraș-Severin",
+          "it": "distretto di Caraș-Severin",
+          "ja": "カラシュ＝セヴェリン県",
+          "ko": "카라슈세베린 주",
+          "nl": "Caraș-Severin",
+          "pl": "Okręg Caraș-Severin",
+          "pt": "Caraș-Severin",
+          "ru": "Караш-Северин",
+          "sv": "Caraș-Severin",
+          "tr": "Caraș-Severin ili",
+          "vi": "Hạt Caras-Severin",
+          "zh": "卡拉什-塞維林縣"
+        },
+        "population": 257791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.767000000000003,
+          47.8505
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-bt",
+        "area": 1.1248160000000011,
+        "bounding_box": [
+          26.103,
+          47.427,
+          27.431,
+          48.274
+        ],
+        "point": [
+          26.767000000000003,
+          47.8505
+        ],
+        "labels": {
+          "alt": "Botoşani|Botoschani",
+          "local": null,
+          "len": 8,
+          "ar": "إقليم بوتوشان",
+          "bn": "বোতোসানি কাউন্টি",
+          "de": "Kreis Botoșani",
+          "en": "Botoșani County",
+          "es": "Botoșani",
+          "fr": "județ de Botoșani",
+          "el": "Μποτοσάνι",
+          "hi": "बोतोसानी काउंटी",
+          "hu": "Botoșani megye",
+          "id": "Provinsi Botoșani",
+          "it": "distretto di Botoșani",
+          "ja": "ボトシャニ県",
+          "ko": "보토샤니 주",
+          "nl": "District Botoșani",
+          "pl": "Okręg Botoszany",
+          "pt": "Botoșani",
+          "ru": "Ботошани",
+          "sv": "Botoșani",
+          "tr": "Botoșani ili",
+          "vi": "Botoșani",
+          "zh": "博托沙尼縣"
+        },
+        "population": 412525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.302500000000002,
+          47.195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-is",
+        "area": 1.2405960000000018,
+        "bounding_box": [
+          26.482,
+          46.817,
+          28.123,
+          47.573
+        ],
+        "point": [
+          27.302500000000002,
+          47.195
+        ],
+        "labels": {
+          "alt": "Iași|Jassy",
+          "local": null,
+          "len": 4,
+          "ar": "إقليم ياش",
+          "bn": "ইয়াসি কাউন্টি",
+          "de": "Kreis Iași",
+          "en": "Iași County",
+          "es": "Iași",
+          "fr": "Județ de Iași",
+          "el": "Ιασί",
+          "hi": "इयासी काउंटी",
+          "hu": "Iași megye",
+          "id": "Provinsi Iași",
+          "it": "distretto di Iași",
+          "ja": "ヤシ県",
+          "ko": "이아시 주",
+          "nl": "District Iași",
+          "pl": "Okręg Jassy",
+          "pt": "Iași",
+          "ru": "Яссы",
+          "sv": "Iași",
+          "tr": "Yaș ili",
+          "vi": "Hạt Iasi",
+          "zh": "雅西縣"
+        },
+        "population": 750996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.725499999999997,
+          46.519999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-vs",
+        "area": 0.9452279999999943,
+        "bounding_box": [
+          27.205,
+          46.066,
+          28.246,
+          46.974
+        ],
+        "point": [
+          27.725499999999997,
+          46.519999999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم فاسلوي",
+          "bn": "ভাস্লুয়ী কাউন্টি",
+          "de": "Kreis Vaslui",
+          "en": "Vaslui County",
+          "es": "Vaslui",
+          "fr": "județ de Vaslui",
+          "el": "Βασλούι",
+          "hi": "वास्लूय काउंटी",
+          "hu": "Vaslui megye",
+          "id": "Provinsi Vaslui",
+          "it": "distretto di Vaslui",
+          "ja": "ヴァスルイ県",
+          "ko": "바슬루이 주",
+          "nl": "District Vaslui",
+          "pl": "Okręg Vaslui",
+          "pt": "Vaslui",
+          "ru": "Васлуй",
+          "sv": "Vaslui",
+          "tr": "Vaslui ili",
+          "vi": "Hạt Vaslui",
+          "zh": "瓦斯盧伊縣"
+        },
+        "population": 338531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.737000000000002,
+          45.7615
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-gl",
+        "area": 0.7007479999999968,
+        "bounding_box": [
+          27.259,
+          45.395,
+          28.215,
+          46.128
+        ],
+        "point": [
+          27.737000000000002,
+          45.7615
+        ],
+        "labels": {
+          "alt": "Galați|Galatz",
+          "local": null,
+          "len": 6,
+          "ar": "إقليم غالاتس",
+          "bn": "গালোতি কাউন্টি",
+          "de": "Kreis Galați",
+          "en": "Galați County",
+          "es": "Galați",
+          "fr": "Județ de Galați",
+          "el": "Γκαλάτι",
+          "hi": "गलाती काउंटी",
+          "hu": "Galați megye",
+          "id": "Provinsi Galați",
+          "it": "distretto di Galați",
+          "ja": "ガラツィ県",
+          "ko": "갈라치 주",
+          "nl": "District Galați",
+          "pl": "Okręg Gałacz",
+          "pt": "Galați",
+          "ru": "Галац",
+          "sv": "Galați",
+          "tr": "Galați ili",
+          "vi": "Hạt Galati",
+          "zh": "加拉茨縣"
+        },
+        "population": 465070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.807000000000002,
+          47.5125
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-sv",
+        "area": 1.6106300000000082,
+        "bounding_box": [
+          24.942,
+          47.047,
+          26.672,
+          47.978
+        ],
+        "point": [
+          25.807000000000002,
+          47.5125
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إقليم سوتشيافا",
+          "bn": "সুচিভা কাউন্টি",
+          "de": "Kreis Suceava",
+          "en": "Suceava County",
+          "es": "Suceava",
+          "fr": "Județ de Suceava",
+          "el": "Σουκεάβα",
+          "hi": "सुसेवा काउंटी",
+          "hu": "Suceava megye",
+          "id": "Provinsi Suceava",
+          "it": "distretto di Suceava",
+          "ja": "スチャヴァ県",
+          "ko": "수체아바 주",
+          "nl": "District Suceava",
+          "pl": "Okręg Suczawa",
+          "pt": "Suceava",
+          "ru": "Сучава",
+          "sv": "Suceava",
+          "tr": "Suceava ili",
+          "vi": "Hạt Suceava",
+          "zh": "蘇恰瓦縣"
+        },
+        "population": 579580
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9955,
+          47.6555
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-mm",
+        "area": 1.4391529999999992,
+        "bounding_box": [
+          22.969,
+          47.305,
+          25.022,
+          48.006
+        ],
+        "point": [
+          23.9955,
+          47.6555
+        ],
+        "labels": {
+          "alt": "Maramureș",
+          "local": null,
+          "len": 9,
+          "ar": null,
+          "bn": null,
+          "de": "Kreis Maramureș",
+          "en": "Maramureș County",
+          "es": "Maramureș",
+          "fr": "Județ de Maramureș",
+          "el": null,
+          "hi": "मारमुरेस काउंटी",
+          "hu": "Máramaros megye",
+          "id": "Provinsi Maramureș",
+          "it": "distretto di Maramureș",
+          "ja": "マラムレシュ県",
+          "ko": "마라무레슈 주",
+          "nl": "District Maramureș",
+          "pl": "Okręg Marmarosz",
+          "pt": "Maramureș",
+          "ru": "Марамуреш",
+          "sv": "Maramureș",
+          "tr": "Maramureș ili",
+          "vi": null,
+          "zh": "馬拉穆列什縣"
+        },
+        "population": 448843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.832,
+          45.065
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-tl",
+        "area": 1.3013000000000063,
+        "bounding_box": [
+          27.987,
+          44.68,
+          29.677,
+          45.45
+        ],
+        "point": [
+          28.832,
+          45.065
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة تولسيا",
+          "bn": "তুলসিয়া কাউন্টি",
+          "de": "Kreis Tulcea",
+          "en": "Tulcea County",
+          "es": "Tulcea",
+          "fr": "Județ de Tulcea",
+          "el": "Τουλκέα",
+          "hi": "टलसी काउंटी",
+          "hu": "Tulcea megye",
+          "id": "Provinsi Tulcea",
+          "it": "distretto di Tulcea",
+          "ja": "トゥルチャ県",
+          "ko": "툴체아 주",
+          "nl": "District Tulcea",
+          "pl": "Okręg Tulcza",
+          "pt": "Tulcea",
+          "ru": "Тулча",
+          "sv": "Tulcea",
+          "tr": "Tulcea ili",
+          "vi": "Hạt Tulcea",
+          "zh": "圖爾恰縣"
+        },
+        "population": 181386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.454,
+          46.8735
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-cj",
+        "area": 1.4428299999999954,
+        "bounding_box": [
+          22.669,
+          46.414,
+          24.239,
+          47.333
+        ],
+        "point": [
+          23.454,
+          46.8735
+        ],
+        "labels": {
+          "alt": "Klausenburg",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة كلوج",
+          "bn": "ক্লুজ কাউন্টি",
+          "de": "Kreis Cluj",
+          "en": "Cluj County",
+          "es": "Cluj",
+          "fr": "Județ de Cluj",
+          "el": "Κλούτζ",
+          "hi": "क्लुए काउंटी",
+          "hu": "Kolozs megye",
+          "id": "Provinsi Cluj",
+          "it": "distretto di Cluj",
+          "ja": "クルジュ県",
+          "ko": "클루지 주",
+          "nl": "District Cluj",
+          "pl": "Okręg Kluż",
+          "pt": "Cluj",
+          "ru": "Клуж",
+          "sv": "Cluj",
+          "tr": "Cluj",
+          "vi": "Hạt Cluj",
+          "zh": "克魯日縣"
+        },
+        "population": 677122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.512999999999998,
+          47.165
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-bn",
+        "area": 0.9647439999999983,
+        "bounding_box": [
+          23.936,
+          46.747,
+          25.09,
+          47.583
+        ],
+        "point": [
+          24.512999999999998,
+          47.165
+        ],
+        "labels": {
+          "alt": "Bistrişa-Năsăud|Bistritz",
+          "local": null,
+          "len": 15,
+          "ar": "مقاطعة بيستريتا-ناسود",
+          "bn": "বিস্ত্রিৎসা-নাসাউদ কাউন্টি",
+          "de": "Kreis Bistrița-Năsăud",
+          "en": "Bistrița-Năsăud County",
+          "es": "Bistrița-Năsăud",
+          "fr": "Județ de Bistrița-Năsăud",
+          "el": "Μπιστρίτα-Νασόντ",
+          "hi": "बिस्ट्रिटा-नसाऊद काउंटी",
+          "hu": "Beszterce-Naszód megye",
+          "id": "Provinsi Bistrița-Năsăud",
+          "it": "distretto di Bistrița-Năsăud",
+          "ja": "ビストリツァ＝ナサウド県",
+          "ko": "비스트리차너서우드 주",
+          "nl": "Bistrița-Năsăud",
+          "pl": "Okręg Bistrița-Năsăud",
+          "pt": "Bistrița-Năsăud",
+          "ru": "Бистрица-Нэсэуд",
+          "sv": "Bistrița-Năsăud",
+          "tr": "Bistrița-Năsăud ili",
+          "vi": "Bistrița-Năsăud",
+          "zh": "比斯特里察-訥瑟烏德縣"
+        },
+        "population": 266147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1535,
+          47.147
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-sj",
+        "area": 0.7096219999999952,
+        "bounding_box": [
+          22.494,
+          46.878,
+          23.813,
+          47.416
+        ],
+        "point": [
+          23.1535,
+          47.147
+        ],
+        "labels": {
+          "alt": "Sălaj",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة سالاج",
+          "bn": "সালাজ কাউন্টি",
+          "de": "Kreis Sălaj",
+          "en": "Sălaj County",
+          "es": "Sălaj",
+          "fr": "Județ de Sălaj",
+          "el": "Σάλατζ",
+          "hi": "सलाय काउंटी",
+          "hu": "Szilágy megye",
+          "id": "Provinsi Sălaj",
+          "it": "distretto di Sălaj",
+          "ja": "サラージュ県",
+          "ko": "설라지 주",
+          "nl": "Sălaj",
+          "pl": "Okręg Sălaj",
+          "pt": "Sălaj",
+          "ru": "Сэлаж",
+          "sv": "Sălaj",
+          "tr": "Sălaj ili",
+          "vi": "Hạt Salaj",
+          "zh": "瑟拉日縣"
+        },
+        "population": 199945
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.599,
+          44.944
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-db",
+        "area": 0.8737599999999979,
+        "bounding_box": [
+          25.169,
+          44.436,
+          26.029,
+          45.452
+        ],
+        "point": [
+          25.599,
+          44.944
+        ],
+        "labels": {
+          "alt": "Dâmbovița",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة دامبوفيتا",
+          "bn": "ডাম্বোভিটা কাউন্টি",
+          "de": "Kreis Dâmbovița",
+          "en": "Dâmbovița County",
+          "es": "Dâmbovița",
+          "fr": "Județ de Dâmbovița",
+          "el": "Νταμποβίτα",
+          "hi": "दम्बोविता काउंटी",
+          "hu": "Dâmbovița megye",
+          "id": "Provinsi Dâmbovița",
+          "it": "distretto di Dâmbovița",
+          "ja": "ドゥンボヴィツァ県",
+          "ko": "듬보비차 주",
+          "nl": "District Dâmbovița",
+          "pl": "Okręg Dymbowica",
+          "pt": "Dâmbovița",
+          "ru": "Дымбовица",
+          "sv": "Dâmbovița",
+          "tr": "Dâmbovița ili",
+          "vi": "Hạt Dambovita",
+          "zh": "登博維察縣"
+        },
+        "population": 495604
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1635,
+          44.5145
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-if",
+        "area": 0.27834299999999856,
+        "bounding_box": [
+          25.889,
+          44.261,
+          26.438,
+          44.768
+        ],
+        "point": [
+          26.1635,
+          44.5145
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة إلفوف",
+          "bn": "ইলফোভ",
+          "de": "Kreis Ilfov",
+          "en": "Ilfov County",
+          "es": "Ilfov",
+          "fr": "Județ d'Ilfov",
+          "el": "Ίλφοβ",
+          "hi": "लेफ़ॉव काउंटी",
+          "hu": "Ilfov megye",
+          "id": "Provinsi Ilfov",
+          "it": "distretto di Ilfov",
+          "ja": "イルフォヴ県",
+          "ko": "일포브 주",
+          "nl": "District Ilfov",
+          "pl": "Okręg Ilfov",
+          "pt": "Ilfov",
+          "ru": "Илфов",
+          "sv": "Ilfov",
+          "tr": "Ilfov ili",
+          "vi": "Hạt Ilfov",
+          "zh": "伊爾福夫縣"
+        },
+        "population": 687933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.886,
+          44.9965
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-ag",
+        "area": 1.0868480000000018,
+        "bounding_box": [
+          24.438,
+          44.39,
+          25.334,
+          45.603
+        ],
+        "point": [
+          24.886,
+          44.9965
+        ],
+        "labels": {
+          "alt": "Argeș",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة أرغيس",
+          "bn": "আর্জেস কাউন্টি",
+          "de": "Kreis Argeș",
+          "en": "Argeș County",
+          "es": "Argeș",
+          "fr": "județ d'Argeș",
+          "el": "Άρτζες",
+          "hi": "अर्जेस काउंटी",
+          "hu": "Argeș megye",
+          "id": "Provinsi Argeș",
+          "it": "distretto di Argeș",
+          "ja": "アルジェシュ県",
+          "ko": "아르제슈 주",
+          "nl": "District Argeș",
+          "pl": "Okręg Ardżesz",
+          "pt": "Argeș",
+          "ru": "Арджеш",
+          "sv": "Argeș",
+          "tr": "Argeș ili",
+          "vi": "Argeș",
+          "zh": "阿爾傑什縣"
+        },
+        "population": 575358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2045,
+          44.951499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-gj",
+        "area": 1.0254310000000064,
+        "bounding_box": [
+          22.566,
+          44.55,
+          23.843,
+          45.353
+        ],
+        "point": [
+          23.2045,
+          44.951499999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة غورج",
+          "bn": "গর্জ কাউন্টি",
+          "de": "Kreis Gorj",
+          "en": "Gorj County",
+          "es": "Gorj",
+          "fr": "Județ de Gorj",
+          "el": "Γκορτζ",
+          "hi": "गोर्ज काउंटी",
+          "hu": "Gorj megye",
+          "id": "Provinsi Gorj",
+          "it": "distretto di Gorj",
+          "ja": "ゴルジュ県",
+          "ko": "고르지 주",
+          "nl": "District Gorj",
+          "pl": "Okręg Gorj",
+          "pt": "Gorj",
+          "ru": "Горж",
+          "sv": "Gorj",
+          "tr": "Gorj ili",
+          "vi": "Hạt Gorj",
+          "zh": "戈爾日縣"
+        },
+        "population": 293676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9705,
+          45.787000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-hd",
+        "area": 1.3467139999999993,
+        "bounding_box": [
+          22.355,
+          45.24,
+          23.586,
+          46.334
+        ],
+        "point": [
+          22.9705,
+          45.787000000000006
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة هوندوارا",
+          "bn": "হুনেদোয়ারা কাউন্টি",
+          "de": "Hunedoara",
+          "en": "Hunedoara County",
+          "es": "Hunedoara",
+          "fr": "județ de Hunedoara",
+          "el": "Χουνεντοάρα",
+          "hi": "हूनेदोआरा काउंटी",
+          "hu": "Hunyad megye",
+          "id": "Provinsi Hunedoara",
+          "it": "distretto di Hunedoara",
+          "ja": "フネドアラ県",
+          "ko": "후네도아라 주",
+          "nl": "District Hunedoara",
+          "pl": "Okręg Hunedoara",
+          "pt": "Hunedoara",
+          "ru": "Хунедоара",
+          "sv": "Hunedoara",
+          "tr": "Hunedoara ili",
+          "vi": "Hạt Hunedoara",
+          "zh": "胡內多阿拉縣"
+        },
+        "population": 364691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.061500000000002,
+          45.042
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-vl",
+        "area": 0.9951100000000035,
+        "bounding_box": [
+          23.584,
+          44.521,
+          24.539,
+          45.563
+        ],
+        "point": [
+          24.061500000000002,
+          45.042
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة فالسيا",
+          "bn": "ভ্যালসিয়া",
+          "de": "Kreis Vâlcea",
+          "en": "Vâlcea County",
+          "es": "Vâlcea",
+          "fr": "Județ de Vâlcea",
+          "el": "Βάλτσεα",
+          "hi": "वैल्सिया काउंटी",
+          "hu": "Vâlcea megye",
+          "id": "Provinsi Vâlcea",
+          "it": "distretto di Vâlcea",
+          "ja": "ヴルチャ県",
+          "ko": "블체아 주",
+          "nl": "District Vâlcea",
+          "pl": "Okręg Vâlcea",
+          "pt": "Vâlcea",
+          "ru": "Вылча",
+          "sv": "Vâlcea",
+          "tr": "Vâlcea ili",
+          "vi": "Hạt Vâlcea",
+          "zh": "沃爾恰縣"
+        },
+        "population": 335416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.017,
+          45.123999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-ph",
+        "area": 0.9063279999999978,
+        "bounding_box": [
+          25.43,
+          44.738,
+          26.604,
+          45.51
+        ],
+        "point": [
+          26.017,
+          45.123999999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة يراهوفا",
+          "bn": "প্রাহোভা কাউন্টি",
+          "de": "Kreis Prahova",
+          "en": "Prahova County",
+          "es": "Prahova",
+          "fr": "Județ de Prahova",
+          "el": "Πράχοβα",
+          "hi": "प्रहोवा काउंटी",
+          "hu": "Prahova megye",
+          "id": "Provinsi Prahova",
+          "it": "distretto di Prahova",
+          "ja": "プラホヴァ県",
+          "ko": "프라호바 주",
+          "nl": "District Prahova",
+          "pl": "Okręg Prahova",
+          "pt": "Prahova",
+          "ru": "Прахова",
+          "sv": "Prahova",
+          "tr": "Prahova ili",
+          "vi": "Hạt Prahova",
+          "zh": "普拉霍瓦縣"
+        },
+        "population": 700783
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9695,
+          45.927499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-cv",
+        "area": 0.7495369999999958,
+        "bounding_box": [
+          25.454,
+          45.564,
+          26.485,
+          46.291
+        ],
+        "point": [
+          25.9695,
+          45.927499999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة كوفاسنا",
+          "bn": "কোভাস্না কাউন্টি",
+          "de": "Kreis Covasna",
+          "en": "Covasna County",
+          "es": "Covasna",
+          "fr": "județ de Covasna",
+          "el": "Κοβάσνα",
+          "hi": "कोवासना काउंटी",
+          "hu": "Kovászna megye",
+          "id": "Provinsi Covasna",
+          "it": "distretto di Covasna",
+          "ja": "コヴァスナ県",
+          "ko": "코바스나 주",
+          "nl": "District Covasna",
+          "pl": "Okręg Covasna",
+          "pt": "Covasna",
+          "ru": "Ковасна",
+          "sv": "Covasna",
+          "tr": "Covasna ili",
+          "vi": "Hạt Covasna",
+          "zh": "科瓦斯納縣"
+        },
+        "population": 201099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.979999999999997,
+          45.7795
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-vn",
+        "area": 0.9419999999999954,
+        "bounding_box": [
+          26.38,
+          45.387,
+          27.58,
+          46.172
+        ],
+        "point": [
+          26.979999999999997,
+          45.7795
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إقليم فرنتشيا",
+          "bn": "ভ্রান্সিয়া কাউন্টি",
+          "de": "Kreis Vrancea",
+          "en": "Vrancea County",
+          "es": "Vrancea",
+          "fr": "Județ de Vrancea",
+          "el": "Βράντσεα",
+          "hi": "व्रान्सी काउंटी",
+          "hu": "Vrancea megye",
+          "id": "Provinsi Vrancea",
+          "it": "distretto di Vrancea",
+          "ja": "ヴランチャ県",
+          "ko": "브란체아 주",
+          "nl": "District Vrancea",
+          "pl": "Okręg Vrancea",
+          "pt": "Vrancea",
+          "ru": "Вранча",
+          "sv": "Vrancea",
+          "tr": "Vrancea ili",
+          "vi": "Vrancea",
+          "zh": "弗朗恰縣"
+        },
+        "population": 300206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.734499999999997,
+          45.281499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-bz",
+        "area": 1.436210999999998,
+        "bounding_box": [
+          26.046,
+          44.76,
+          27.423,
+          45.803
+        ],
+        "point": [
+          26.734499999999997,
+          45.281499999999994
+        ],
+        "labels": {
+          "alt": "Buzău",
+          "local": null,
+          "len": 5,
+          "ar": "إقليم بوزاو",
+          "bn": "বুজাউ কাউন্টি",
+          "de": "Kreis Buzău",
+          "en": "Buzău County",
+          "es": "Buzău",
+          "fr": "Județ de Buzău",
+          "el": "Μπουζάου",
+          "hi": "बुज़ू काउंटी",
+          "hu": "Buzău megye",
+          "id": "Provinsi Buzău",
+          "it": "distretto di Buzău",
+          "ja": "ブザウ県",
+          "ko": "부저우 주",
+          "nl": "District Buzău",
+          "pl": "Okręg Buzău",
+          "pt": "Buzău",
+          "ru": "Бузэу",
+          "sv": "Buzău",
+          "tr": "Buzău ili",
+          "vi": "Hạt Buzau",
+          "zh": "布澤烏縣"
+        },
+        "population": 412809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.375,
+          45.7765
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-bv",
+        "area": 1.1266500000000037,
+        "bounding_box": [
+          24.65,
+          45.388,
+          26.1,
+          46.165
+        ],
+        "point": [
+          25.375,
+          45.7765
+        ],
+        "labels": {
+          "alt": "Braşov|Kronstadt|Stalin",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة براسوف",
+          "bn": "ব্রাসোভ কাউন্টি",
+          "de": "Kreis Brașov",
+          "en": "Brașov County",
+          "es": "Brașov",
+          "fr": "Județ de Brașov",
+          "el": "Επαρχία Μπράσοβ",
+          "hi": "ब्रसोव काउंटी",
+          "hu": "Brassó megye",
+          "id": "Provinsi Brașov",
+          "it": "distretto di Brașov",
+          "ja": "ブラショフ県",
+          "ko": "브라쇼브 주",
+          "nl": "District Brașov",
+          "pl": "Okręg Braszów",
+          "pt": "Brașov",
+          "ru": "Брашов",
+          "sv": "Brașov",
+          "tr": "Brașov ili",
+          "vi": "Brașov",
+          "zh": "布拉索夫縣"
+        },
+        "population": 513507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2955,
+          45.858000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-sb",
+        "area": 1.1148760000000044,
+        "bounding_box": [
+          23.609,
+          45.452,
+          24.982,
+          46.264
+        ],
+        "point": [
+          24.2955,
+          45.858000000000004
+        ],
+        "labels": {
+          "alt": "Hermannstadt",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة سيبيو",
+          "bn": "সিবিউ কাউন্টি",
+          "de": "Kreis Sibiu",
+          "en": "Sibiu County",
+          "es": "Sibiu",
+          "fr": "Județ de Sibiu",
+          "el": "Σίμπιου",
+          "hi": "सिबिउ काउंटी",
+          "hu": "Szeben megye",
+          "id": "Provinsi Sibiu",
+          "it": "distretto di Sibiu",
+          "ja": "シビウ県",
+          "ko": "시비우 주",
+          "nl": "District Sibiu",
+          "pl": "Okręg Sybin",
+          "pt": "Sibiu",
+          "ru": "Сибиу",
+          "sv": "Sibiu",
+          "tr": "Sibiu ili",
+          "vi": "Hạt Sibiu",
+          "zh": "錫比烏縣"
+        },
+        "population": 373696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6305,
+          46.5835
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-ms",
+        "area": 1.3683630000000022,
+        "bounding_box": [
+          23.972,
+          46.064,
+          25.289,
+          47.103
+        ],
+        "point": [
+          24.6305,
+          46.5835
+        ],
+        "labels": {
+          "alt": "Mureș",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة موريس",
+          "bn": "মুর কাউন্টি",
+          "de": "Kreis Mureș",
+          "en": "Mureș County",
+          "es": "Mureș",
+          "fr": "Județ de Mureș",
+          "el": "Μουρές",
+          "hi": "म्यूरेस काउंटी",
+          "hu": "Maros megye",
+          "id": "Provinsi Mureș",
+          "it": "distretto di Mureș",
+          "ja": "ムレシュ県",
+          "ko": "무레슈 주",
+          "nl": "District Mureș",
+          "pl": "Okręg Marusza",
+          "pt": "Mureș",
+          "ru": "Муреш",
+          "sv": "Mureș",
+          "tr": "Mureș ili",
+          "vi": "Hạt Mures",
+          "zh": "穆列什縣"
+        },
+        "population": 523205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.585,
+          46.6205
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-hr",
+        "area": 1.4570639999999953,
+        "bounding_box": [
+          24.877,
+          46.106,
+          26.293,
+          47.135
+        ],
+        "point": [
+          25.585,
+          46.6205
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة هارغيتا",
+          "bn": "হারঘিতা কাউন্টি",
+          "de": "Kreis Harghita",
+          "en": "Harghita County",
+          "es": "Harghita",
+          "fr": "Județ de Harghita",
+          "el": "Χαργκίτα",
+          "hi": "हरघिता काउंटी",
+          "hu": "Hargita megye",
+          "id": "Provinsi Harghita",
+          "it": "distretto di Harghita",
+          "ja": "ハルギタ県",
+          "ko": "하르기타 주",
+          "nl": "Harghita",
+          "pl": "Okręg Harghita",
+          "pt": "Harghita",
+          "ru": "Харгита",
+          "sv": "Harghita",
+          "tr": "Harghita ili",
+          "vi": "Hạt Harghita",
+          "zh": "哈爾吉塔縣"
+        },
+        "population": 296970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.455,
+          46.963
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-nt",
+        "area": 1.0348799999999956,
+        "bounding_box": [
+          25.671,
+          46.633,
+          27.239,
+          47.293
+        ],
+        "point": [
+          26.455,
+          46.963
+        ],
+        "labels": {
+          "alt": "Neamț",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة نيامتس",
+          "bn": "নিমট কাউন্টি",
+          "de": "Kreis Neamț",
+          "en": "Neamț County",
+          "es": "Neamț",
+          "fr": "Județ de Neamț",
+          "el": "Κομητεία Νεάμτς",
+          "hi": "नीम्ट काउंटी",
+          "hu": "Neamț megye",
+          "id": "Provinsi Neamț",
+          "it": "distretto di Neamț",
+          "ja": "ネアムツ県",
+          "ko": "네암츠 주",
+          "nl": "District Neamț",
+          "pl": "Okręg Neamț",
+          "pt": "Neamț",
+          "ru": "Нямц",
+          "sv": "Neamț",
+          "tr": "Neamț ili",
+          "vi": "Hạt Neamt",
+          "zh": "尼亞姆茨縣"
+        },
+        "population": 391427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.764499999999998,
+          46.3945
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-bc",
+        "area": 1.1649810000000007,
+        "bounding_box": [
+          26.009,
+          46.009,
+          27.52,
+          46.78
+        ],
+        "point": [
+          26.764499999999998,
+          46.3945
+        ],
+        "labels": {
+          "alt": "Bacău",
+          "local": null,
+          "len": 5,
+          "ar": "إقليم باكاو",
+          "bn": null,
+          "de": "Kreis Bacău",
+          "en": "Bacău County",
+          "es": "Bacău",
+          "fr": "județ de Bacău",
+          "el": null,
+          "hi": null,
+          "hu": "Bákó megye",
+          "id": "Provinsi Bacău",
+          "it": "distretto di Bacău",
+          "ja": "バカウ県",
+          "ko": "바커우 주",
+          "nl": "District Bacău",
+          "pl": "Okręg Bacău",
+          "pt": "Bacău",
+          "ru": "Бакэу",
+          "sv": "Bacău",
+          "tr": "Bacău ili",
+          "vi": "Bacău",
+          "zh": "巴克烏縣"
+        },
+        "population": 541424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.439999999999998,
+          46.006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-ab",
+        "area": 1.6814719999999939,
+        "bounding_box": [
+          22.688,
+          45.447,
+          24.192,
+          46.565
+        ],
+        "point": [
+          23.439999999999998,
+          46.006
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "إقليم ألبا",
+          "bn": "এলবা কাউন্টি",
+          "de": "Kreis Alba",
+          "en": "Alba",
+          "es": "Alba",
+          "fr": "județ d'Alba",
+          "el": "Άλμπα",
+          "hi": "अल्बा काउंटी",
+          "hu": "Fehér megye",
+          "id": "Provinsi Alba",
+          "it": "distretto di Alba",
+          "ja": "アルバ県",
+          "ko": "알바 주",
+          "nl": "District Alba",
+          "pl": "Okręg Alba",
+          "pt": "Alba",
+          "ru": "Алба",
+          "sv": "Alba",
+          "tr": "Alba ili",
+          "vi": "Alba",
+          "zh": "阿爾巴縣"
+        },
+        "population": 310548
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.621000000000002,
+          45.127
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-br",
+        "area": 0.8154479999999998,
+        "bounding_box": [
+          27.064,
+          44.761,
+          28.178,
+          45.493
+        ],
+        "point": [
+          27.621000000000002,
+          45.127
+        ],
+        "labels": {
+          "alt": "Brăila",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة برايلا",
+          "bn": "ব্রাইলা কাউন্টি",
+          "de": "Kreis Brăila",
+          "en": "Brăila County",
+          "es": "Brăila",
+          "fr": "Județ de Brăila",
+          "el": "Βραΐλα",
+          "hi": "ब्रायला काउंटी",
+          "hu": "Brăila megye",
+          "id": "Provinsi Brăila",
+          "it": "distretto di Brăila",
+          "ja": "ブライラ県",
+          "ko": "브러일라 주",
+          "nl": "District Brăila",
+          "pl": "Okręg Braiła",
+          "pt": "Brăila",
+          "ru": "Брэила",
+          "sv": "Brăila",
+          "tr": "Brăila ili",
+          "vi": "Hạt Brăila",
+          "zh": "布勒伊拉縣"
+        },
+        "population": 281034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.189500000000002,
+          44.61
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-il",
+        "area": 0.9378900000000105,
+        "bounding_box": [
+          26.27,
+          44.355,
+          28.109,
+          44.865
+        ],
+        "point": [
+          27.189500000000002,
+          44.61
+        ],
+        "labels": {
+          "alt": "Ialomița",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة إيالوميتا",
+          "bn": "ইয়ালোমিতা কাউন্টি",
+          "de": "Kreis Ialomița",
+          "en": "Ialomița County",
+          "es": "Ialomița",
+          "fr": "Județ de Ialomița",
+          "el": "Ιαλομίτα",
+          "hi": "इआलोमिटा काउंटी",
+          "hu": "Ialomița megye",
+          "id": "Provinsi Ialomița",
+          "it": "distretto di Ialomița",
+          "ja": "ヤロミツァ県",
+          "ko": "이알로미차 주",
+          "nl": "District Ialomița",
+          "pl": "Okręg Jałomica",
+          "pt": "Ialomița",
+          "ru": "Яломица",
+          "sv": "Ialomița",
+          "tr": "Ialomița ili",
+          "vi": "Hạt Ialomita",
+          "zh": "雅洛米察縣"
+        },
+        "population": 300156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.086,
+          44.482
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ro",
+        "region_child": "ro-b",
+        "area": 0.04884000000000083,
+        "bounding_box": [
+          25.976,
+          44.371,
+          26.196,
+          44.593
+        ],
+        "point": [
+          26.086,
+          44.482
+        ],
+        "labels": {
+          "alt": "Bucarest|Bucareste|Bucureşti|Bukarest",
+          "local": null,
+          "len": 9,
+          "ar": "بوخارست",
+          "bn": "বুখারেস্ট",
+          "de": "Bukarest",
+          "en": "Bucharest",
+          "es": "Bucarest",
+          "fr": "Bucarest",
+          "el": "Βουκουρέστι",
+          "hi": "बुखारेस्ट",
+          "hu": "Bukarest",
+          "id": "Bukares",
+          "it": "Bucarest",
+          "ja": "ブカレスト",
+          "ko": "부쿠레슈티",
+          "nl": "Boekarest",
+          "pl": "Bukareszt",
+          "pt": "Bucareste",
+          "ru": "Бухарест",
+          "sv": "Bukarest",
+          "tr": "Bükreș",
+          "vi": "Bucharest",
+          "zh": "布加勒斯特"
+        },
+        "population": 1743149
+      }
+    }
+  ]
+}

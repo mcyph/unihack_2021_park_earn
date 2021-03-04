@@ -1,0 +1,1175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.47049999999999,
+          46.2655
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "069",
+        "area": 0.12411499999999996,
+        "bounding_box": [
+          -123.728,
+          46.145,
+          -123.213,
+          46.386
+        ],
+        "point": [
+          -123.47049999999999,
+          46.2655
+        ],
+        "labels": {
+          "en": "Wahkiakum"
+        },
+        "population": 4135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3655,
+          46.588499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "041",
+        "area": 0.8281649999999887,
+        "bounding_box": [
+          -123.373,
+          46.383,
+          -121.358,
+          46.794
+        ],
+        "point": [
+          -122.3655,
+          46.588499999999996
+        ],
+        "labels": {
+          "en": "Lewis"
+        },
+        "population": 83296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.6555,
+          47.944
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "031",
+        "area": 1.8053879999999929,
+        "bounding_box": [
+          -124.715,
+          47.518,
+          -122.596,
+          48.37
+        ],
+        "point": [
+          -123.6555,
+          47.944
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 33964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9225,
+          46.312
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "013",
+        "area": 0.40001400000000475,
+        "bounding_box": [
+          -118.242,
+          45.999,
+          -117.603,
+          46.625
+        ],
+        "point": [
+          -117.9225,
+          46.312
+        ],
+        "labels": {
+          "en": "Columbia"
+        },
+        "population": 4094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.69550000000001,
+          47.1665
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "037",
+        "area": 1.3233569999999995,
+        "bounding_box": [
+          -121.464,
+          46.736,
+          -119.927,
+          47.597
+        ],
+        "point": [
+          -120.69550000000001,
+          47.1665
+        ],
+        "labels": {
+          "en": "Kittitas"
+        },
+        "population": 50174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.68299999999999,
+          48.037
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "061",
+        "area": 0.813248000000005,
+        "bounding_box": [
+          -122.459,
+          47.775,
+          -120.907,
+          48.299
+        ],
+        "point": [
+          -121.68299999999999,
+          48.037
+        ],
+        "labels": {
+          "en": "Snohomish"
+        },
+        "population": 849500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6945,
+          46.564499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "077",
+        "area": 1.7381929999999954,
+        "bounding_box": [
+          -121.523,
+          46.04,
+          -119.866,
+          47.089
+        ],
+        "point": [
+          -120.6945,
+          46.564499999999995
+        ],
+        "labels": {
+          "en": "Yakima"
+        },
+        "population": 265684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.85900000000001,
+          48.471000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "047",
+        "area": 2.168759999999997,
+        "bounding_box": [
+          -120.882,
+          47.941,
+          -118.836,
+          49.001
+        ],
+        "point": [
+          -119.85900000000001,
+          48.471000000000004
+        ],
+        "labels": {
+          "en": "Okanogan"
+        },
+        "population": 42466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.432,
+          47.6535
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "063",
+        "area": 0.6185759999999947,
+        "bounding_box": [
+          -117.824,
+          47.259,
+          -117.04,
+          48.048
+        ],
+        "point": [
+          -117.432,
+          47.6535
+        ],
+        "labels": {
+          "en": "Spokane"
+        },
+        "population": 531177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5955,
+          48.123000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "029",
+        "area": 0.315649999999996,
+        "bounding_box": [
+          -122.863,
+          47.828,
+          -122.328,
+          48.418
+        ],
+        "point": [
+          -122.5955,
+          48.123000000000005
+        ],
+        "labels": {
+          "en": "Island"
+        },
+        "population": 86104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.873,
+          48.183499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "009",
+        "area": 1.235616000000004,
+        "bounding_box": [
+          -124.849,
+          47.867,
+          -122.897,
+          48.5
+        ],
+        "point": [
+          -123.873,
+          48.183499999999995
+        ],
+        "labels": {
+          "en": "Clallam"
+        },
+        "population": 79399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91550000000001,
+          48.3965
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "065",
+        "area": 1.1739389999999834,
+        "bounding_box": [
+          -118.401,
+          47.792,
+          -117.43,
+          49.001
+        ],
+        "point": [
+          -117.91550000000001,
+          48.3965
+        ],
+        "labels": {
+          "en": "Stevens"
+        },
+        "population": 47350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3305,
+          48.5225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "051",
+        "area": 0.570135000000007,
+        "bounding_box": [
+          -117.629,
+          48.045,
+          -117.032,
+          49.0
+        ],
+        "point": [
+          -117.3305,
+          48.5225
+        ],
+        "labels": {
+          "en": "Pend Oreille"
+        },
+        "population": 14060
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.989,
+          48.814
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "073",
+        "area": 1.0024160000000115,
+        "bounding_box": [
+          -123.322,
+          48.626,
+          -120.656,
+          49.002
+        ],
+        "point": [
+          -121.989,
+          48.814
+        ],
+        "labels": {
+          "en": "Whatcom"
+        },
+        "population": 241198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5205,
+          47.906000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "007",
+        "area": 1.7040899999999963,
+        "bounding_box": [
+          -121.181,
+          47.261,
+          -119.86,
+          48.551
+        ],
+        "point": [
+          -120.5205,
+          47.906000000000006
+        ],
+        "labels": {
+          "en": "Chelan"
+        },
+        "population": 79030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.19800000000001,
+          46.2285
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "003",
+        "area": 0.2633880000000067,
+        "bounding_box": [
+          -117.48,
+          45.995,
+          -116.916,
+          46.462
+        ],
+        "point": [
+          -117.19800000000001,
+          46.2285
+        ],
+        "labels": {
+          "en": "Asotin"
+        },
+        "population": 22699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.48750000000001,
+          48.4155
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "019",
+        "area": 0.8942849999999983,
+        "bounding_box": [
+          -118.87,
+          47.831,
+          -118.105,
+          49.0
+        ],
+        "point": [
+          -118.48750000000001,
+          48.4155
+        ],
+        "labels": {
+          "en": "Ferry"
+        },
+        "population": 7798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6345,
+          47.685500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "017",
+        "area": 1.2726770000000103,
+        "bounding_box": [
+          -120.318,
+          47.22,
+          -118.951,
+          48.151
+        ],
+        "point": [
+          -119.6345,
+          47.685500000000005
+        ],
+        "labels": {
+          "en": "Douglas"
+        },
+        "population": 45349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4085,
+          46.282
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "005",
+        "area": 0.832236000000009,
+        "bounding_box": [
+          -119.875,
+          45.836,
+          -118.942,
+          46.728
+        ],
+        "point": [
+          -119.4085,
+          46.282
+        ],
+        "labels": {
+          "en": "Benton"
+        },
+        "population": 215584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5455,
+          46.3505
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "023",
+        "area": 0.44767500000000704,
+        "bounding_box": [
+          -117.863,
+          45.998,
+          -117.228,
+          46.703
+        ],
+        "point": [
+          -117.5455,
+          46.3505
+        ],
+        "labels": {
+          "en": "Garfield"
+        },
+        "population": 2142
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.805,
+          47.432500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "033",
+        "area": 1.0259839999999896,
+        "bounding_box": [
+          -122.541,
+          47.084,
+          -121.069,
+          47.781
+        ],
+        "point": [
+          -121.805,
+          47.432500000000005
+        ],
+        "labels": {
+          "en": "King"
+        },
+        "population": 2137076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.76599999999999,
+          46.5145
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "049",
+        "area": 0.4572619999999967,
+        "bounding_box": [
+          -124.175,
+          46.235,
+          -123.357,
+          46.794
+        ],
+        "point": [
+          -123.76599999999999,
+          46.5145
+        ],
+        "labels": {
+          "en": "Pacific"
+        },
+        "population": 20839
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.73949999999999,
+          45.825500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "039",
+        "area": 0.7669330000000001,
+        "bounding_box": [
+          -121.613,
+          45.606,
+          -119.866,
+          46.045
+        ],
+        "point": [
+          -120.73949999999999,
+          45.825500000000005
+        ],
+        "labels": {
+          "en": "Klickitat"
+        },
+        "population": 21576
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98599999999999,
+          48.558
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "055",
+        "area": 0.30794400000000755,
+        "bounding_box": [
+          -123.268,
+          48.285,
+          -122.704,
+          48.831
+        ],
+        "point": [
+          -122.98599999999999,
+          48.558
+        ],
+        "labels": {
+          "en": "San Juan"
+        },
+        "population": 17696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.79400000000001,
+          47.163
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "027",
+        "area": 0.9438240000000008,
+        "bounding_box": [
+          -124.43,
+          46.792,
+          -123.158,
+          47.534
+        ],
+        "point": [
+          -123.79400000000001,
+          47.163
+        ],
+        "labels": {
+          "en": "Grays Harbor"
+        },
+        "population": 78955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.729,
+          46.1195
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "015",
+        "area": 0.5251860000000037,
+        "bounding_box": [
+          -123.218,
+          45.851,
+          -122.24,
+          46.388
+        ],
+        "point": [
+          -122.729,
+          46.1195
+        ],
+        "labels": {
+          "en": "Cowlitz"
+        },
+        "population": 112806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.51599999999999,
+          46.3035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "071",
+        "area": 0.6373499999999975,
+        "bounding_box": [
+          -119.041,
+          46.0,
+          -117.991,
+          46.607
+        ],
+        "point": [
+          -118.51599999999999,
+          46.3035
+        ],
+        "labels": {
+          "en": "Walla Walla"
+        },
+        "population": 62751
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5085,
+          47.2935
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "025",
+        "area": 1.429253000000007,
+        "bounding_box": [
+          -120.043,
+          46.625,
+          -118.974,
+          47.962
+        ],
+        "point": [
+          -119.5085,
+          47.2935
+        ],
+        "labels": {
+          "en": "Grant"
+        },
+        "population": 106298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.664,
+          46.9985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "001",
+        "area": 0.7430699999999997,
+        "bounding_box": [
+          -119.369,
+          46.735,
+          -117.959,
+          47.262
+        ],
+        "point": [
+          -118.664,
+          46.9985
+        ],
+        "labels": {
+          "en": "Adams"
+        },
+        "population": 21273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5205,
+          45.802
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "011",
+        "area": 0.28431600000000395,
+        "bounding_box": [
+          -122.796,
+          45.544,
+          -122.245,
+          46.06
+        ],
+        "point": [
+          -122.5205,
+          45.802
+        ],
+        "labels": {
+          "en": "Clark"
+        },
+        "population": 523620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3995,
+          47.608999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "043",
+        "area": 0.8103780000000014,
+        "bounding_box": [
+          -118.98,
+          47.26,
+          -117.819,
+          47.958
+        ],
+        "point": [
+          -118.3995,
+          47.608999999999995
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 11047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7325,
+          47.688
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "035",
+        "area": 0.3482699999999945,
+        "bounding_box": [
+          -123.038,
+          47.403,
+          -122.427,
+          47.973
+        ],
+        "point": [
+          -122.7325,
+          47.688
+        ],
+        "labels": {
+          "en": "Kitsap"
+        },
+        "population": 272531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.644,
+          46.839
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "075",
+        "area": 1.0212399999999962,
+        "bounding_box": [
+          -118.249,
+          46.417,
+          -117.039,
+          47.261
+        ],
+        "point": [
+          -117.644,
+          46.839
+        ],
+        "labels": {
+          "en": "Whitman"
+        },
+        "population": 49135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.15299999999999,
+          47.3445
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "045",
+        "area": 0.3706500000000006,
+        "bounding_box": [
+          -123.506,
+          47.082,
+          -122.8,
+          47.607
+        ],
+        "point": [
+          -123.15299999999999,
+          47.3445
+        ],
+        "labels": {
+          "en": "Mason"
+        },
+        "population": 74722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.726,
+          48.4765
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "057",
+        "area": 0.7494359999999916,
+        "bounding_box": [
+          -122.764,
+          48.296,
+          -120.688,
+          48.657
+        ],
+        "point": [
+          -121.726,
+          48.4765
+        ],
+        "labels": {
+          "en": "Skagit"
+        },
+        "population": 132409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.113,
+          47.066
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "053",
+        "area": 0.9991280000000087,
+        "bounding_box": [
+          -122.852,
+          46.728,
+          -121.374,
+          47.404
+        ],
+        "point": [
+          -122.113,
+          47.066
+        ],
+        "labels": {
+          "en": "Pierce"
+        },
+        "population": 901654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.703,
+          46.978
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "067",
+        "area": 0.43200000000000216,
+        "bounding_box": [
+          -123.203,
+          46.762,
+          -122.203,
+          47.194
+        ],
+        "point": [
+          -122.703,
+          46.978
+        ],
+        "labels": {
+          "en": "Thurston"
+        },
+        "population": 306767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.826,
+          46.465999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "021",
+        "area": 0.6857759999999994,
+        "bounding_box": [
+          -119.454,
+          46.193,
+          -118.198,
+          46.739
+        ],
+        "point": [
+          -118.826,
+          46.465999999999994
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 123723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8835,
+          45.969
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wa",
+        "region_child": "059",
+        "area": 0.6157200000000059,
+        "bounding_box": [
+          -122.25,
+          45.549,
+          -121.517,
+          46.389
+        ],
+        "point": [
+          -121.8835,
+          45.969
+        ],
+        "labels": {
+          "en": "Skamania"
+        },
+        "population": 12436
+      }
+    }
+  ]
+}

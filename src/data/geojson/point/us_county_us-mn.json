@@ -1,0 +1,2615 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6205,
+          45.903
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "095",
+        "area": 0.2621280000000011,
+        "bounding_box": [
+          -93.811,
+          45.559,
+          -93.43,
+          46.247
+        ],
+        "point": [
+          -93.6205,
+          45.903
+        ],
+        "labels": {
+          "en": "Mille Lacs"
+        },
+        "population": 30464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.09,
+          43.674
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "045",
+        "area": 0.2505599999999989,
+        "bounding_box": [
+          -92.45,
+          43.5,
+          -91.73,
+          43.848
+        ],
+        "point": [
+          -92.09,
+          43.674
+        ],
+        "labels": {
+          "en": "Fillmore"
+        },
+        "population": 21040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.095,
+          45.037
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "073",
+        "area": 0.3322240000000028,
+        "bounding_box": [
+          -96.453,
+          44.805,
+          -95.737,
+          45.269
+        ],
+        "point": [
+          -96.095,
+          45.037
+        ],
+        "labels": {
+          "en": "Lac qui Parle"
+        },
+        "population": 6548
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.256,
+          44.805
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "085",
+        "area": 0.17219999999999377,
+        "bounding_box": [
+          -94.502,
+          44.63,
+          -94.01,
+          44.98
+        ],
+        "point": [
+          -94.256,
+          44.805
+        ],
+        "labels": {
+          "en": "McLeod"
+        },
+        "population": 38659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9,
+          46.071
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "153",
+        "area": 0.3051519999999985,
+        "bounding_box": [
+          -95.156,
+          45.773,
+          -94.644,
+          46.369
+        ],
+        "point": [
+          -94.9,
+          46.071
+        ],
+        "labels": {
+          "en": "Todd"
+        },
+        "population": 25349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.753,
+          43.674499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "105",
+        "area": 0.21009799999999934,
+        "bounding_box": [
+          -96.054,
+          43.5,
+          -95.452,
+          43.849
+        ],
+        "point": [
+          -95.753,
+          43.674499999999995
+        ],
+        "labels": {
+          "en": "Nobles"
+        },
+        "population": 21989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.43299999999999,
+          46.592
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "001",
+        "area": 0.6640079999999944,
+        "bounding_box": [
+          -93.812,
+          46.154,
+          -93.054,
+          47.03
+        ],
+        "point": [
+          -93.43299999999999,
+          46.592
+        ],
+        "labels": {
+          "en": "Aitkin"
+        },
+        "population": 17304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9205,
+          47.1085
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "057",
+        "area": 0.31972500000000065,
+        "bounding_box": [
+          -95.183,
+          46.804,
+          -94.658,
+          47.413
+        ],
+        "point": [
+          -94.9205,
+          47.1085
+        ],
+        "labels": {
+          "en": "Hubbard"
+        },
+        "population": 22391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1545,
+          43.674
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "063",
+        "area": 0.20914799999999906,
+        "bounding_box": [
+          -95.455,
+          43.5,
+          -94.854,
+          43.848
+        ],
+        "point": [
+          -95.1545,
+          43.674
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 9434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.862,
+          44.0225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "039",
+        "area": 0.1284320000000046,
+        "bounding_box": [
+          -93.046,
+          43.848,
+          -92.678,
+          44.197
+        ],
+        "point": [
+          -92.862,
+          44.0225
+        ],
+        "labels": {
+          "en": "Dodge"
+        },
+        "population": 22921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.349,
+          43.673500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "047",
+        "area": 0.209399999999996,
+        "bounding_box": [
+          -93.649,
+          43.499,
+          -93.049,
+          43.848
+        ],
+        "point": [
+          -93.349,
+          43.673500000000004
+        ],
+        "labels": {
+          "en": "Freeborn"
+        },
+        "population": 30027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.445,
+          45.586
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "121",
+        "area": 0.2185439999999994,
+        "bounding_box": [
+          -95.759,
+          45.412,
+          -95.131,
+          45.76
+        ],
+        "point": [
+          -95.445,
+          45.586
+        ],
+        "labels": {
+          "en": "Pope"
+        },
+        "population": 10688
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1985,
+          44.587
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "143",
+        "area": 0.2255820000000015,
+        "bounding_box": [
+          -94.629,
+          44.456,
+          -93.768,
+          44.718
+        ],
+        "point": [
+          -94.1985,
+          44.587
+        ],
+        "labels": {
+          "en": "Sibley"
+        },
+        "population": 15033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.38399999999999,
+          44.015
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "109",
+        "area": 0.2208199999999966,
+        "bounding_box": [
+          -92.689,
+          43.834,
+          -92.079,
+          44.196
+        ],
+        "point": [
+          -92.38399999999999,
+          44.015
+        ],
+        "labels": {
+          "en": "Olmsted"
+        },
+        "population": 168134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.006,
+          45.152
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "067",
+        "area": 0.25995599999999425,
+        "bounding_box": [
+          -95.255,
+          44.891,
+          -94.757,
+          45.413
+        ],
+        "point": [
+          -95.006,
+          45.152
+        ],
+        "labels": {
+          "en": "Kandiyohi"
+        },
+        "population": 43349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2525,
+          43.675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "133",
+        "area": 0.14034999999999925,
+        "bounding_box": [
+          -96.453,
+          43.5,
+          -96.052,
+          43.85
+        ],
+        "point": [
+          -96.2525,
+          43.675
+        ],
+        "labels": {
+          "en": "Rock"
+        },
+        "population": 9735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.587,
+          44.022
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "161",
+        "area": 0.1259759999999978,
+        "bounding_box": [
+          -93.768,
+          43.848,
+          -93.406,
+          44.196
+        ],
+        "point": [
+          -93.587,
+          44.022
+        ],
+        "labels": {
+          "en": "Waseca"
+        },
+        "population": 18941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.161,
+          44.022
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "033",
+        "area": 0.2101919999999991,
+        "bounding_box": [
+          -95.463,
+          43.848,
+          -94.859,
+          44.196
+        ],
+        "point": [
+          -95.161,
+          44.022
+        ],
+        "labels": {
+          "en": "Cottonwood"
+        },
+        "population": 11160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.75550000000001,
+          48.278999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "071",
+        "area": 1.1682340000000124,
+        "bounding_box": [
+          -94.43,
+          47.846,
+          -93.081,
+          48.712
+        ],
+        "point": [
+          -93.75550000000001,
+          48.278999999999996
+        ],
+        "labels": {
+          "en": "Koochiching"
+        },
+        "population": 12328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.61449999999999,
+          43.9785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "165",
+        "area": 0.1281510000000013,
+        "bounding_box": [
+          -94.86,
+          43.848,
+          -94.369,
+          44.109
+        ],
+        "point": [
+          -94.61449999999999,
+          43.9785
+        ],
+        "labels": {
+          "en": "Watonwan"
+        },
+        "population": 10465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.892,
+          45.200500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "171",
+        "area": 0.3292999999999979,
+        "bounding_box": [
+          -94.262,
+          44.978,
+          -93.522,
+          45.423
+        ],
+        "point": [
+          -93.892,
+          45.200500000000005
+        ],
+        "labels": {
+          "en": "Wright"
+        },
+        "population": 171006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.506,
+          46.8905
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "027",
+        "area": 0.34802800000000383,
+        "bounding_box": [
+          -96.84,
+          46.63,
+          -96.172,
+          47.151
+        ],
+        "point": [
+          -96.506,
+          46.8905
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 69068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.594,
+          44.678
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "139",
+        "area": 0.1706399999999995,
+        "bounding_box": [
+          -93.91,
+          44.543,
+          -93.278,
+          44.813
+        ],
+        "point": [
+          -93.594,
+          44.678
+        ],
+        "labels": {
+          "en": "Scott"
+        },
+        "population": 191800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6785,
+          46.9345
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "005",
+        "area": 0.45142099999999186,
+        "bounding_box": [
+          -96.195,
+          46.716,
+          -95.162,
+          47.153
+        ],
+        "point": [
+          -95.6785,
+          46.9345
+        ],
+        "labels": {
+          "en": "Becker"
+        },
+        "population": 35327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4665,
+          47.325
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "107",
+        "area": 0.27965000000000345,
+        "bounding_box": [
+          -96.866,
+          47.15,
+          -96.067,
+          47.5
+        ],
+        "point": [
+          -96.4665,
+          47.325
+        ],
+        "labels": {
+          "en": "Norman"
+        },
+        "population": 6320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8945,
+          45.5135
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "025",
+        "area": 0.21532499999999694,
+        "bounding_box": [
+          -93.142,
+          45.296,
+          -92.647,
+          45.731
+        ],
+        "point": [
+          -92.8945,
+          45.5135
+        ],
+        "labels": {
+          "en": "Chisago"
+        },
+        "population": 69470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.378,
+          48.3585
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "089",
+        "area": 0.5856100000000047,
+        "bounding_box": [
+          -97.163,
+          48.172,
+          -95.593,
+          48.545
+        ],
+        "point": [
+          -96.378,
+          48.3585
+        ],
+        "labels": {
+          "en": "Marshall"
+        },
+        "population": 8743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6815,
+          44.019999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "169",
+        "area": 0.27506999999999293,
+        "bounding_box": [
+          -92.079,
+          43.847,
+          -91.284,
+          44.193
+        ],
+        "point": [
+          -91.6815,
+          44.019999999999996
+        ],
+        "labels": {
+          "en": "Winona"
+        },
+        "population": 52768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0085,
+          47.974999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "007",
+        "area": 1.343569999999995,
+        "bounding_box": [
+          -95.603,
+          47.41,
+          -94.414,
+          48.54
+        ],
+        "point": [
+          -95.0085,
+          47.974999999999994
+        ],
+        "labels": {
+          "en": "Beltrami"
+        },
+        "population": 50050
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.843,
+          44.413
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "083",
+        "area": 0.21799999999999997,
+        "bounding_box": [
+          -96.093,
+          44.195,
+          -95.593,
+          44.631
+        ],
+        "point": [
+          -95.843,
+          44.413
+        ],
+        "labels": {
+          "en": "Lyon"
+        },
+        "population": 26251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.64150000000001,
+          44.454499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "049",
+        "area": 0.41468099999999475,
+        "bounding_box": [
+          -93.041,
+          44.195,
+          -92.242,
+          44.714
+        ],
+        "point": [
+          -92.64150000000001,
+          44.454499999999996
+        ],
+        "labels": {
+          "en": "Goodhue"
+        },
+        "population": 46883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7375,
+          47.462
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "061",
+        "area": 1.1912620000000027,
+        "bounding_box": [
+          -94.419,
+          47.025,
+          -93.056,
+          47.899
+        ],
+        "point": [
+          -93.7375,
+          47.462
+        ],
+        "labels": {
+          "en": "Itasca"
+        },
+        "population": 46277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5095,
+          45.1095
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "093",
+        "area": 0.2205449999999997,
+        "bounding_box": [
+          -94.763,
+          44.892,
+          -94.256,
+          45.327
+        ],
+        "point": [
+          -94.5095,
+          45.1095
+        ],
+        "labels": {
+          "en": "Meeker"
+        },
+        "population": 23636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2865,
+          45.945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "065",
+        "area": 0.1990200000000002,
+        "bounding_box": [
+          -93.519,
+          45.731,
+          -93.054,
+          46.159
+        ],
+        "point": [
+          -93.2865,
+          45.945
+        ],
+        "labels": {
+          "en": "Kanabec"
+        },
+        "population": 17628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.886,
+          48.875
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "077",
+        "area": 0.9304520000000022,
+        "bounding_box": [
+          -95.343,
+          48.366,
+          -94.429,
+          49.384
+        ],
+        "point": [
+          -94.886,
+          48.875
+        ],
+        "labels": {
+          "en": "Lake of the Woods"
+        },
+        "population": 3753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.26599999999999,
+          44.414
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "081",
+        "area": 0.16231600000000315,
+        "bounding_box": [
+          -96.453,
+          44.197,
+          -96.079,
+          44.631
+        ],
+        "point": [
+          -96.26599999999999,
+          44.414
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 5452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.71350000000001,
+          46.4125
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "111",
+        "area": 0.6934850000000079,
+        "bounding_box": [
+          -96.281,
+          46.107,
+          -95.146,
+          46.718
+        ],
+        "point": [
+          -95.71350000000001,
+          46.4125
+        ],
+        "labels": {
+          "en": "Otter Tail"
+        },
+        "population": 57618
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2805,
+          46.8795
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "021",
+        "area": 1.2186390000000094,
+        "bounding_box": [
+          -94.787,
+          46.278,
+          -93.774,
+          47.481
+        ],
+        "point": [
+          -94.2805,
+          46.8795
+        ],
+        "labels": {
+          "en": "Cass"
+        },
+        "population": 30035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.031,
+          44.695499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "037",
+        "area": 0.2685020000000026,
+        "bounding_box": [
+          -93.33,
+          44.471,
+          -92.732,
+          44.92
+        ],
+        "point": [
+          -93.031,
+          44.695499999999996
+        ],
+        "labels": {
+          "en": "Dakota"
+        },
+        "population": 438672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2975,
+          47.4995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "075",
+        "area": 1.4160449999999924,
+        "bounding_box": [
+          -91.8,
+          46.795,
+          -90.795,
+          48.204
+        ],
+        "point": [
+          -91.2975,
+          47.4995
+        ],
+        "labels": {
+          "en": "Lake"
+        },
+        "population": 10801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.265,
+          45.224999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "003",
+        "area": 0.18772000000000116,
+        "bounding_box": [
+          -93.512,
+          45.035,
+          -93.018,
+          45.415
+        ],
+        "point": [
+          -93.265,
+          45.224999999999994
+        ],
+        "labels": {
+          "en": "Anoka"
+        },
+        "population": 371786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7495,
+          43.674499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "099",
+        "area": 0.20974899999999766,
+        "bounding_box": [
+          -93.05,
+          43.5,
+          -92.449,
+          43.849
+        ],
+        "point": [
+          -92.7495,
+          43.674499999999995
+        ],
+        "labels": {
+          "en": "Mower"
+        },
+        "population": 39728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7635,
+          44.022
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "101",
+        "area": 0.20984399999999745,
+        "bounding_box": [
+          -96.065,
+          43.848,
+          -95.462,
+          44.196
+        ],
+        "point": [
+          -95.7635,
+          44.022
+        ],
+        "labels": {
+          "en": "Murray"
+        },
+        "population": 8371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.106,
+          45.0065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "123",
+        "area": 0.05782800000000041,
+        "bounding_box": [
+          -93.228,
+          44.888,
+          -92.984,
+          45.125
+        ],
+        "point": [
+          -93.106,
+          45.0065
+        ],
+        "labels": {
+          "en": "Ramsey"
+        },
+        "population": 511888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5265,
+          46.326499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "167",
+        "area": 0.31850699999999854,
+        "bounding_box": [
+          -96.788,
+          46.022,
+          -96.265,
+          46.631
+        ],
+        "point": [
+          -96.5265,
+          46.326499999999996
+        ],
+        "labels": {
+          "en": "Wilkin"
+        },
+        "population": 6090
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.267,
+          45.573
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "059",
+        "area": 0.15906800000000126,
+        "bounding_box": [
+          -93.514,
+          45.412,
+          -93.02,
+          45.734
+        ],
+        "point": [
+          -93.267,
+          45.573
+        ],
+        "labels": {
+          "en": "Isanti"
+        },
+        "population": 45905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.056,
+          45.6915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "009",
+        "area": 0.15740999999999877,
+        "bounding_box": [
+          -94.353,
+          45.559,
+          -93.759,
+          45.824
+        ],
+        "point": [
+          -94.056,
+          45.6915
+        ],
+        "labels": {
+          "en": "Benton"
+        },
+        "population": 43487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.946,
+          46.587
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "159",
+        "area": 0.19096800000000103,
+        "bounding_box": [
+          -95.164,
+          46.368,
+          -94.728,
+          46.806
+        ],
+        "point": [
+          -94.946,
+          46.587
+        ],
+        "labels": {
+          "en": "Wadena"
+        },
+        "population": 14258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0415,
+          48.0545
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "113",
+        "area": 0.22147900000000237,
+        "bounding_box": [
+          -96.501,
+          47.934,
+          -95.582,
+          48.175
+        ],
+        "point": [
+          -96.0415,
+          48.0545
+        ],
+        "labels": {
+          "en": "Pennington"
+        },
+        "population": 14273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2045,
+          44.281
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "157",
+        "area": 0.24116399999999855,
+        "bounding_box": [
+          -92.551,
+          44.107,
+          -91.858,
+          44.455
+        ],
+        "point": [
+          -92.2045,
+          44.281
+        ],
+        "labels": {
+          "en": "Wabasha"
+        },
+        "population": 22228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.881,
+          45.0215
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "163",
+        "area": 0.15538200000000443,
+        "bounding_box": [
+          -93.022,
+          44.746,
+          -92.74,
+          45.297
+        ],
+        "point": [
+          -92.881,
+          45.0215
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 281110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.086,
+          46.480999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "035",
+        "area": 0.4030000000000021,
+        "bounding_box": [
+          -94.396,
+          46.156,
+          -93.776,
+          46.806
+        ],
+        "point": [
+          -94.086,
+          46.480999999999995
+        ],
+        "labels": {
+          "en": "Crow Wing"
+        },
+        "population": 70930
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.555,
+          45.8035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "155",
+        "area": 0.2639479999999982,
+        "bounding_box": [
+          -96.857,
+          45.585,
+          -96.253,
+          46.022
+        ],
+        "point": [
+          -96.555,
+          45.8035
+        ],
+        "labels": {
+          "en": "Traverse"
+        },
+        "population": 3082
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.906,
+          44.739000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "173",
+        "area": 0.4302479999999977,
+        "bounding_box": [
+          -96.452,
+          44.542,
+          -95.36,
+          44.936
+        ],
+        "point": [
+          -95.906,
+          44.739000000000004
+        ],
+        "labels": {
+          "en": "Yellow Medicine"
+        },
+        "population": 9621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28200000000001,
+          44.37
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "131",
+        "area": 0.16912800000000097,
+        "bounding_box": [
+          -93.525,
+          44.196,
+          -93.039,
+          44.544
+        ],
+        "point": [
+          -93.28200000000001,
+          44.37
+        ],
+        "labels": {
+          "en": "Rice"
+        },
+        "population": 73099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5935,
+          45.528499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "145",
+        "area": 0.538849000000004,
+        "bounding_box": [
+          -95.14,
+          45.282,
+          -94.047,
+          45.775
+        ],
+        "point": [
+          -94.5935,
+          45.528499999999994
+        ],
+        "labels": {
+          "en": "Stearns"
+        },
+        "population": 171532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8295,
+          45.403000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "141",
+        "area": 0.20064599999999871,
+        "bounding_box": [
+          -94.149,
+          45.246,
+          -93.51,
+          45.56
+        ],
+        "point": [
+          -93.8295,
+          45.403000000000006
+        ],
+        "labels": {
+          "en": "Sherburne"
+        },
+        "population": 121215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.773,
+          44.37
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "079",
+        "area": 0.17330400000000112,
+        "bounding_box": [
+          -94.022,
+          44.196,
+          -93.524,
+          44.544
+        ],
+        "point": [
+          -93.773,
+          44.37
+        ],
+        "labels": {
+          "en": "Le Sueur"
+        },
+        "population": 28698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.443,
+          47.64
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "137",
+        "area": 2.5964200000000037,
+        "bounding_box": [
+          -93.098,
+          46.649,
+          -91.788,
+          48.631
+        ],
+        "point": [
+          -92.443,
+          47.64
+        ],
+        "labels": {
+          "en": "St. Louis"
+        },
+        "population": 199543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2575,
+          47.745000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "031",
+        "area": 1.5520979999999962,
+        "bounding_box": [
+          -91.032,
+          47.244,
+          -89.483,
+          48.246
+        ],
+        "point": [
+          -90.2575,
+          47.745000000000005
+        ],
+        "labels": {
+          "en": "Cook"
+        },
+        "population": 5185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0125,
+          45.934
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "051",
+        "area": 0.17745000000000247,
+        "bounding_box": [
+          -96.266,
+          45.759,
+          -95.759,
+          46.109
+        ],
+        "point": [
+          -96.0125,
+          45.934
+        ],
+        "labels": {
+          "en": "Grant"
+        },
+        "population": 5755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.64150000000001,
+          44.953
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "023",
+        "area": 0.3164000000000033,
+        "bounding_box": [
+          -96.037,
+          44.753,
+          -95.246,
+          45.153
+        ],
+        "point": [
+          -95.64150000000001,
+          44.953
+        ],
+        "labels": {
+          "en": "Chippewa"
+        },
+        "population": 11949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.94800000000001,
+          43.674
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "043",
+        "area": 0.20880000000000234,
+        "bounding_box": [
+          -94.248,
+          43.5,
+          -93.648,
+          43.848
+        ],
+        "point": [
+          -93.94800000000001,
+          43.674
+        ],
+        "labels": {
+          "en": "Faribault"
+        },
+        "population": 13190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6785,
+          46.593
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "017",
+        "area": 0.2720959999999961,
+        "bounding_box": [
+          -93.065,
+          46.417,
+          -92.292,
+          46.769
+        ],
+        "point": [
+          -92.6785,
+          46.593
+        ],
+        "labels": {
+          "en": "Carlton"
+        },
+        "population": 39729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.718,
+          46.0745
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "115",
+        "area": 0.5856499999999961,
+        "bounding_box": [
+          -93.143,
+          45.73,
+          -92.293,
+          46.419
+        ],
+        "point": [
+          -92.718,
+          46.0745
+        ],
+        "labels": {
+          "en": "Pine"
+        },
+        "population": 33216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0005,
+          45.586
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "149",
+        "area": 0.17643600000000123,
+        "bounding_box": [
+          -96.254,
+          45.412,
+          -95.747,
+          45.76
+        ],
+        "point": [
+          -96.0005,
+          45.586
+        ],
+        "labels": {
+          "en": "Stevens"
+        },
+        "population": 9402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8125,
+          48.772
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "069",
+        "area": 0.3897579999999982,
+        "bounding_box": [
+          -97.238,
+          48.543,
+          -96.387,
+          49.001
+        ],
+        "point": [
+          -96.8125,
+          48.772
+        ],
+        "labels": {
+          "en": "Kittson"
+        },
+        "population": 3928
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.551,
+          43.674
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "091",
+        "area": 0.2115840000000008,
+        "bounding_box": [
+          -94.855,
+          43.5,
+          -94.247,
+          43.848
+        ],
+        "point": [
+          -94.551,
+          43.674
+        ],
+        "labels": {
+          "en": "Martin"
+        },
+        "population": 20006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2085,
+          46.061499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "097",
+        "area": 0.5111750000000019,
+        "bounding_box": [
+          -94.653,
+          45.774,
+          -93.764,
+          46.349
+        ],
+        "point": [
+          -94.2085,
+          46.061499999999995
+        ],
+        "labels": {
+          "en": "Morrison"
+        },
+        "population": 34909
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2585,
+          44.022999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "117",
+        "area": 0.13537200000000585,
+        "bounding_box": [
+          -96.453,
+          43.849,
+          -96.064,
+          44.197
+        ],
+        "point": [
+          -96.2585,
+          44.022999999999996
+        ],
+        "labels": {
+          "en": "Pipestone"
+        },
+        "population": 9211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.991,
+          44.67400000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "129",
+        "area": 0.42989599999999556,
+        "bounding_box": [
+          -95.484,
+          44.456,
+          -94.498,
+          44.892
+        ],
+        "point": [
+          -94.991,
+          44.67400000000001
+        ],
+        "labels": {
+          "en": "Renville"
+        },
+        "population": 14425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8095,
+          47.325
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "087",
+        "area": 0.1809499999999993,
+        "bounding_box": [
+          -96.068,
+          47.15,
+          -95.551,
+          47.5
+        ],
+        "point": [
+          -95.8095,
+          47.325
+        ],
+        "labels": {
+          "en": "Mahnomen"
+        },
+        "population": 5682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.473,
+          45.0165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "053",
+        "area": 0.2710679999999963,
+        "bounding_box": [
+          -93.767,
+          44.786,
+          -93.179,
+          45.247
+        ],
+        "point": [
+          -93.473,
+          45.0165
+        ],
+        "labels": {
+          "en": "Hennepin"
+        },
+        "population": 1185190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.739,
+          44.303
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "015",
+        "area": 0.2885999999999984,
+        "bounding_box": [
+          -95.109,
+          44.108,
+          -94.369,
+          44.498
+        ],
+        "point": [
+          -94.739,
+          44.303
+        ],
+        "labels": {
+          "en": "Brown"
+        },
+        "population": 24709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3545,
+          44.306
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "103",
+        "area": 0.2576060000000023,
+        "bounding_box": [
+          -94.781,
+          44.155,
+          -93.928,
+          44.457
+        ],
+        "point": [
+          -94.3545,
+          44.306
+        ],
+        "labels": {
+          "en": "Nicollet"
+        },
+        "population": 36316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4545,
+          45.933499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "041",
+        "area": 0.22021899999999797,
+        "bounding_box": [
+          -95.77,
+          45.759,
+          -95.139,
+          46.108
+        ],
+        "point": [
+          -95.4545,
+          45.933499999999995
+        ],
+        "labels": {
+          "en": "Douglas"
+        },
+        "population": 39405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.68199999999999,
+          45.282
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "151",
+        "area": 0.22846399999999417,
+        "bounding_box": [
+          -96.118,
+          45.151,
+          -95.246,
+          45.413
+        ],
+        "point": [
+          -95.68199999999999,
+          45.282
+        ],
+        "labels": {
+          "en": "Swift"
+        },
+        "population": 8060
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.226,
+          44.0225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "147",
+        "area": 0.12633799999999953,
+        "bounding_box": [
+          -93.407,
+          43.848,
+          -93.045,
+          44.197
+        ],
+        "point": [
+          -93.226,
+          44.0225
+        ],
+        "labels": {
+          "en": "Steele"
+        },
+        "population": 39914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.096,
+          47.8625
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "125",
+        "area": 0.15867000000000436,
+        "bounding_box": [
+          -96.483,
+          47.76,
+          -95.709,
+          47.965
+        ],
+        "point": [
+          -96.096,
+          47.8625
+        ],
+        "labels": {
+          "en": "Red Lake"
+        },
+        "population": 3914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.376,
+          47.586
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "029",
+        "area": 0.3601800000000002,
+        "bounding_box": [
+          -95.583,
+          47.151,
+          -95.169,
+          48.021
+        ],
+        "point": [
+          -95.376,
+          47.586
+        ],
+        "labels": {
+          "en": "Clearwater"
+        },
+        "population": 8944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4695,
+          45.3815
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "011",
+        "area": 0.298978999999997,
+        "bounding_box": [
+          -96.835,
+          45.177,
+          -96.104,
+          45.586
+        ],
+        "point": [
+          -96.4695,
+          45.3815
+        ],
+        "labels": {
+          "en": "Big Stone"
+        },
+        "population": 4748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.07,
+          44.056
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "013",
+        "area": 0.25126400000000204,
+        "bounding_box": [
+          -94.372,
+          43.848,
+          -93.768,
+          44.264
+        ],
+        "point": [
+          -94.07,
+          44.056
+        ],
+        "labels": {
+          "en": "Blue Earth"
+        },
+        "population": 73162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.35,
+          47.8365
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "119",
+        "area": 1.075950000000001,
+        "bounding_box": [
+          -97.147,
+          47.499,
+          -95.553,
+          48.174
+        ],
+        "point": [
+          -96.35,
+          47.8365
+        ],
+        "labels": {
+          "en": "Polk"
+        },
+        "population": 32277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2305,
+          44.447
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "127",
+        "area": 0.36741599999999797,
+        "bounding_box": [
+          -95.595,
+          44.195,
+          -94.866,
+          44.699
+        ],
+        "point": [
+          -95.2305,
+          44.447
+        ],
+        "labels": {
+          "en": "Redwood"
+        },
+        "population": 15306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.47399999999999,
+          43.674
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "055",
+        "area": 0.17784400000000042,
+        "bounding_box": [
+          -91.731,
+          43.501,
+          -91.217,
+          43.847
+        ],
+        "point": [
+          -91.47399999999999,
+          43.674
+        ],
+        "labels": {
+          "en": "Houston"
+        },
+        "population": 18392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.76599999999999,
+          44.8095
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "019",
+        "area": 0.16678800000000082,
+        "bounding_box": [
+          -94.012,
+          44.64,
+          -93.52,
+          44.979
+        ],
+        "point": [
+          -93.76599999999999,
+          44.8095
+        ],
+        "labels": {
+          "en": "Carver"
+        },
+        "population": 119243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7475,
+          48.7695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mn",
+        "region_child": "135",
+        "area": 0.6062149999999971,
+        "bounding_box": [
+          -96.405,
+          48.539,
+          -95.09,
+          49.0
+        ],
+        "point": [
+          -95.7475,
+          48.7695
+        ],
+        "labels": {
+          "en": "Roseau"
+        },
+        "population": 14799
+      }
+    }
+  ]
+}

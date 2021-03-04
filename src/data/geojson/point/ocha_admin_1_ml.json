@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.991,
+          12.608
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ml",
+        "region_child": "ml09",
+        "area": 0.02833599999999987,
+        "bounding_box": [
+          -8.068,
+          12.516,
+          -7.914,
+          12.7
+        ],
+        "point": [
+          -7.991,
+          12.608
+        ],
+        "labels": {
+          "en": "Bamako"
+        },
+        "population": 3273422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3159999999999998,
+          16.991999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ml",
+        "region_child": "ml07",
+        "area": 23.926499999999997,
+        "bounding_box": [
+          -1.609,
+          14.947,
+          4.241,
+          19.037
+        ],
+        "point": [
+          1.3159999999999998,
+          16.991999999999997
+        ],
+        "labels": {
+          "en": "Gao"
+        },
+        "population": 924714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.187000000000001,
+          13.793
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ml",
+        "region_child": "ml01",
+        "area": 15.609780000000004,
+        "bounding_box": [
+          -12.242,
+          11.894,
+          -8.132,
+          15.692
+        ],
+        "point": [
+          -10.187000000000001,
+          13.793
+        ],
+        "labels": {
+          "en": "Kayes"
+        },
+        "population": 2988186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0939999999999999,
+          19.805500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ml",
+        "region_child": "ml08",
+        "area": 26.529300000000013,
+        "bounding_box": [
+          -2.056,
+          17.7,
+          4.244,
+          21.911
+        ],
+        "point": [
+          1.0939999999999999,
+          19.805500000000002
+        ],
+        "labels": {
+          "en": "Kidal"
+        },
+        "population": 134566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.55,
+          13.4895
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ml",
+        "region_child": "ml02",
+        "area": 12.754611999999998,
+        "bounding_box": [
+          -9.136,
+          11.479,
+          -5.964,
+          15.5
+        ],
+        "point": [
+          -7.55,
+          13.4895
+        ],
+        "labels": {
+          "en": "Koulikoro"
+        },
+        "population": 4713652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.209,
+          14.527000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ml",
+        "region_child": "ml05",
+        "area": 13.454532000000007,
+        "bounding_box": [
+          -5.666,
+          13.158,
+          -0.752,
+          15.896
+        ],
+        "point": [
+          -3.209,
+          14.527000000000001
+        ],
+        "labels": {
+          "en": "Mopti"
+        },
+        "population": 2905601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.519500000000001,
+          14.05
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ml",
+        "region_child": "ml04",
+        "area": 9.375246000000002,
+        "bounding_box": [
+          -7.081,
+          12.549,
+          -3.958,
+          15.551
+        ],
+        "point": [
+          -5.519500000000001,
+          14.05
+        ],
+        "labels": {
+          "en": "Segou"
+        },
+        "population": 3368425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5344999999999995,
+          11.488
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ml",
+        "region_child": "ml03",
+        "area": 11.358515999999998,
+        "bounding_box": [
+          -8.676,
+          10.162,
+          -4.393,
+          12.814
+        ],
+        "point": [
+          -6.5344999999999995,
+          11.488
+        ],
+        "labels": {
+          "en": "Sikasso"
+        },
+        "population": 4062398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2885,
+          19.998
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ml",
+        "region_child": "ml06",
+        "area": 65.536204,
+        "bounding_box": [
+          -6.564,
+          14.996,
+          -0.013,
+          25.0
+        ],
+        "point": [
+          -3.2885,
+          19.998
+        ],
+        "labels": {
+          "en": "Tombouctou"
+        },
+        "population": 1099021
+      }
+    }
+  ]
+}

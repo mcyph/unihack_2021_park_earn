@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8985,
+          11.2285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "dj",
+        "region_child": "dj-as",
+        "area": 0.2910810000000012,
+        "bounding_box": [
+          42.608,
+          10.978,
+          43.189,
+          11.479
+        ],
+        "point": [
+          42.8985,
+          11.2285
+        ],
+        "labels": {
+          "alt": "`Ali Sabîh",
+          "local": null,
+          "len": 10,
+          "ar": "إقليم علي صبيح",
+          "bn": "আলি সাবি অঞ্চল",
+          "de": "Ali Sabieh",
+          "en": "Ali Sabieh Region",
+          "es": "Región de Ali Sabieh",
+          "fr": "Région d'Ali Sabieh",
+          "el": "Περιφέρεια Αλί Σαμπί",
+          "hi": "अली सबीह प्रदेश",
+          "hu": null,
+          "id": "Wilayah Ali Sabieh",
+          "it": "regione di Ali Sabieh",
+          "ja": "アリ・サビエ州",
+          "ko": "알리사비에 주",
+          "nl": "Ali Sabieh",
+          "pl": "Region Ali Sabieh",
+          "pt": "Região de Ali Sabieh",
+          "ru": "Али Сабье",
+          "sv": "Ali Sabieh",
+          "tr": "Ali Sabieh Bölgesi",
+          "vi": "Khu vực Ali Sabieh",
+          "zh": "阿里薩比州"
+        },
+        "population": 142430
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.803,
+          11.4595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "dj",
+        "region_child": "dj-ar",
+        "area": 0.3407639999999985,
+        "bounding_box": [
+          42.365,
+          11.265,
+          43.241,
+          11.654
+        ],
+        "point": [
+          42.803,
+          11.4595
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "إقليم عرتا",
+          "bn": "আরটা অঞ্চল",
+          "de": "Arta",
+          "en": "Arta Region",
+          "es": "Región de Arta",
+          "fr": "Région d'Arta",
+          "el": "Περιφέρεια Άρτα",
+          "hi": "आर्टा क्षेत्र",
+          "hu": "Arta régió",
+          "id": "Wilayah Arta",
+          "it": "regione di Arta",
+          "ja": "アルタ州",
+          "ko": "아르타 주",
+          "nl": "Arta",
+          "pl": "Region Arta",
+          "pt": "Região de Arta",
+          "ru": "Арта",
+          "sv": "Arta",
+          "tr": "Arta Bölgesi",
+          "vi": "Khu vực Arta",
+          "zh": "阿爾塔州"
+        },
+        "population": 75183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.228,
+          11.411000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "dj",
+        "region_child": "dj-di",
+        "area": 0.900519999999998,
+        "bounding_box": [
+          41.749,
+          10.941,
+          42.707,
+          11.881
+        ],
+        "point": [
+          42.228,
+          11.411000000000001
+        ],
+        "labels": {
+          "alt": "Dikkil",
+          "local": null,
+          "len": 6,
+          "ar": "دخيل",
+          "bn": "ডিকি অঞ্চল",
+          "de": "Dikhil",
+          "en": "Dikhil Region",
+          "es": "Dikhil",
+          "fr": "Région de Dikhil",
+          "el": "Περιφέρεια Ντικίλ",
+          "hi": "दिखील क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Dikhil",
+          "it": "regione di Dikhil",
+          "ja": "ディキル州",
+          "ko": "디킬 주",
+          "nl": "Dikhil",
+          "pl": "Region Dikhil",
+          "pt": "Região de Dikhil",
+          "ru": "Дихил",
+          "sv": "Dikhil",
+          "tr": "Dikhil Bölgesi",
+          "vi": "Khu vực Dikhil",
+          "zh": "迪基爾州"
+        },
+        "population": 115570
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5305,
+          12.0335
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "dj",
+        "region_child": "dj-ta",
+        "area": 1.081002999999996,
+        "bounding_box": [
+          41.975,
+          11.547,
+          43.086,
+          12.52
+        ],
+        "point": [
+          42.5305,
+          12.0335
+        ],
+        "labels": {
+          "alt": "Tadjoura",
+          "local": null,
+          "len": 9,
+          "ar": "إقليم تاجورة",
+          "bn": "তাজুরাহ অঞ্চল",
+          "de": "Tadjoura",
+          "en": "Tadjourah Region",
+          "es": "Tadjoura",
+          "fr": "Région de Tadjourah",
+          "el": "Περιφέρεια Ταντζουρά",
+          "hi": "तदजौरा क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Tadjourah",
+          "it": "regione di Tagiura",
+          "ja": "タジュラ州",
+          "ko": "타주라 주",
+          "nl": "Tadjourah",
+          "pl": "Region Tadżura",
+          "pt": "Região de Tadjourah",
+          "ru": "Таджурах",
+          "sv": "Tadjourah",
+          "tr": "Tadjourah Bölgesi",
+          "vi": "Khu vực Tadjourah",
+          "zh": "塔朱拉州"
+        },
+        "population": 168672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.048,
+          12.2735
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "dj",
+        "region_child": "dj-ob",
+        "area": 0.6447979999999975,
+        "bounding_box": [
+          42.677,
+          11.839,
+          43.419,
+          12.708
+        ],
+        "point": [
+          43.048,
+          12.2735
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إقليم أوبوك",
+          "bn": "ওবাক অঞ্চল",
+          "de": "Obock",
+          "en": "Obock Region",
+          "es": "Región de Obock",
+          "fr": "Obock",
+          "el": "Περιφέρεια Ομπόκ",
+          "hi": "ओबॉक क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Obock",
+          "it": "regione di Obock",
+          "ja": "オボック州",
+          "ko": "오보크 주",
+          "nl": "Obock",
+          "pl": "Region Obock",
+          "pt": "Região de Obock",
+          "ru": "Обок",
+          "sv": "Obock",
+          "tr": "Obuk Bölgesi",
+          "vi": "Khu vực Obock",
+          "zh": "奧博克州"
+        },
+        "population": 64883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.037000000000006,
+          11.56
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "dj",
+        "region_child": "dj-dj",
+        "area": 0.022304000000000074,
+        "bounding_box": [
+          42.901,
+          11.519,
+          43.173,
+          11.601
+        ],
+        "point": [
+          43.037000000000006,
+          11.56
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "جيبوتي",
+          "bn": "জিবুতি",
+          "de": "Dschibuti",
+          "en": "Djibouti",
+          "es": "Yibuti",
+          "fr": "Djibouti",
+          "el": "Τζιμπουτί",
+          "hi": "जिबूटी",
+          "hu": "Dzsibuti",
+          "id": "Djibouti",
+          "it": "Gibuti",
+          "ja": "ジブチ市",
+          "ko": "지부티",
+          "nl": "Djibouti",
+          "pl": "Dżibuti",
+          "pt": "Djibouti",
+          "ru": "Джибути",
+          "sv": "Djibouti",
+          "tr": "Cibuti",
+          "vi": "Djibouti",
+          "zh": "吉布地市"
+        },
+        "population": 522061
+      }
+    }
+  ]
+}

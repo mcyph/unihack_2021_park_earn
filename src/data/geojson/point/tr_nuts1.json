@@ -1,0 +1,470 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4195,
+          41.266999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr1",
+        "area": 0.5090580000000006,
+        "bounding_box": [
+          27.991,
+          40.97,
+          28.848,
+          41.564
+        ],
+        "point": [
+          28.4195,
+          41.266999999999996
+        ],
+        "labels": {
+          "tr": "İstanbul",
+          "en": "İstanbul"
+        },
+        "population": 10363947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4,
+          41.0265
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr1",
+        "area": 0.40728399999999715,
+        "bounding_box": [
+          28.934,
+          40.808,
+          29.866,
+          41.245
+        ],
+        "point": [
+          29.4,
+          41.0265
+        ],
+        "labels": {
+          "tr": "İstanbul",
+          "en": "İstanbul"
+        },
+        "population": 10363947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5375,
+          39.7425
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr2",
+        "area": 3.7419410000000055,
+        "bounding_box": [
+          26.106,
+          39.089,
+          28.969,
+          40.396
+        ],
+        "point": [
+          27.5375,
+          39.7425
+        ],
+        "labels": {
+          "tr": "Batı Marmara",
+          "en": "Batı Marmara"
+        },
+        "population": 3347964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1075,
+          41.320499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr2",
+        "area": 3.298715000000004,
+        "bounding_box": [
+          26.033,
+          40.553,
+          28.182,
+          42.088
+        ],
+        "point": [
+          27.1075,
+          41.320499999999996
+        ],
+        "labels": {
+          "tr": "Batı Marmara",
+          "en": "Batı Marmara"
+        },
+        "population": 3347964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.846,
+          40.1755
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr2",
+        "area": 0.1409039999999998,
+        "bounding_box": [
+          25.618,
+          40.021,
+          26.074,
+          40.33
+        ],
+        "point": [
+          25.846,
+          40.1755
+        ],
+        "labels": {
+          "tr": "Batı Marmara",
+          "en": "Batı Marmara"
+        },
+        "population": 3347964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0395,
+          38.087500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr3",
+        "area": 18.409287000000006,
+        "bounding_box": [
+          26.459,
+          36.304,
+          31.62,
+          39.871
+        ],
+        "point": [
+          29.0395,
+          38.087500000000006
+        ],
+        "labels": {
+          "tr": "Ege",
+          "en": "Ege"
+        },
+        "population": 10077243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3585,
+          40.1435
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr4",
+        "area": 9.162642999999987,
+        "bounding_box": [
+          28.157,
+          39.103,
+          32.56,
+          41.184
+        ],
+        "point": [
+          30.3585,
+          40.1435
+        ],
+        "labels": {
+          "tr": "Doğu Marmara",
+          "en": "Doğu Marmara"
+        },
+        "population": 7473725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.627,
+          38.525
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr5",
+        "area": 15.619736000000023,
+        "bounding_box": [
+          30.825,
+          36.358,
+          34.429,
+          40.692
+        ],
+        "point": [
+          32.627,
+          38.525
+        ],
+        "labels": {
+          "tr": "Batı Anadolu",
+          "en": "Batı Anadolu"
+        },
+        "population": 8326926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4795,
+          37.2355
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr6",
+        "area": 22.923328999999992,
+        "bounding_box": [
+          29.261,
+          35.877,
+          37.698,
+          38.594
+        ],
+        "point": [
+          33.4795,
+          37.2355
+        ],
+        "labels": {
+          "tr": "Akdeniz",
+          "en": "Akdeniz"
+        },
+        "population": 9410853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.021,
+          38.92
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr7",
+        "area": 17.72740799999998,
+        "bounding_box": [
+          33.258,
+          37.316,
+          38.784,
+          40.524
+        ],
+        "point": [
+          36.021,
+          38.92
+        ],
+        "labels": {
+          "tr": "Orta Anadolu",
+          "en": "Orta Anadolu"
+        },
+        "population": 3958910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.44,
+          40.976
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr8",
+        "area": 13.028736000000025,
+        "bounding_box": [
+          31.296,
+          39.94,
+          37.584,
+          42.012
+        ],
+        "point": [
+          34.44,
+          40.976
+        ],
+        "labels": {
+          "tr": "Batı Karadeniz",
+          "en": "Batı Karadeniz"
+        },
+        "population": 3978410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.593,
+          40.730000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tr9",
+        "area": 9.233520000000034,
+        "bounding_box": [
+          36.671,
+          39.94,
+          42.515,
+          41.52
+        ],
+        "point": [
+          39.593,
+          40.730000000000004
+        ],
+        "labels": {
+          "tr": "Doğu Karadeniz",
+          "en": "Doğu Karadeniz"
+        },
+        "population": 2089868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.581,
+          40.239999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "tra",
+        "area": 16.995060000000006,
+        "bounding_box": [
+          38.35,
+          38.925,
+          44.812,
+          41.555
+        ],
+        "point": [
+          41.581,
+          40.239999999999995
+        ],
+        "labels": {
+          "tr": "Kuzeydoğu Anadolu",
+          "en": "Kuzeydoğu Anadolu"
+        },
+        "population": 2001545
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.067,
+          38.283
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "trb",
+        "area": 18.480960000000024,
+        "bounding_box": [
+          37.341,
+          37.043,
+          44.793,
+          39.523
+        ],
+        "point": [
+          41.067,
+          38.283
+        ],
+        "labels": {
+          "tr": "Ortadoğu Anadolu",
+          "en": "Ortadoğu Anadolu"
+        },
+        "population": 3715497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9855,
+          37.696
+        ]
+      },
+      "properties": {
+        "region_schema": "tr_nuts1",
+        "region_parent": "tr",
+        "region_child": "trc",
+        "area": 14.373638000000014,
+        "bounding_box": [
+          36.466,
+          36.675,
+          43.505,
+          38.717
+        ],
+        "point": [
+          39.9855,
+          37.696
+        ],
+        "labels": {
+          "tr": "Güneydoğu Anadolu",
+          "en": "Güneydoğu Anadolu"
+        },
+        "population": 8870602
+      }
+    }
+  ]
+}

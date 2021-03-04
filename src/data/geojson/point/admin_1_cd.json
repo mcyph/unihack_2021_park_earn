@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4735,
+          1.3160000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-eq",
+        "area": 60.633166000000024,
+        "bounding_box": [
+          16.525,
+          -2.523,
+          24.422,
+          5.155
+        ],
+        "point": [
+          20.4735,
+          1.3160000000000003
+        ],
+        "labels": {
+          "alt": "Equator|Equatorial",
+          "local": null,
+          "len": 8,
+          "ar": "إكواتور",
+          "bn": "ইকুয়েটর",
+          "de": "Équateur",
+          "en": "Équateur",
+          "es": "Équateur",
+          "fr": "Équateur",
+          "el": "Εκουατόρ",
+          "hi": "इक्वेट्योर",
+          "hu": "Egyenlítői tartomány",
+          "id": "Équateur",
+          "it": "Provincia dell'Equatore",
+          "ja": "赤道州",
+          "ko": "에카퇴르 주",
+          "nl": "Équateur",
+          "pl": "Prowincja Równikowa",
+          "pt": "Équateur",
+          "ru": "Экваториальная провинция",
+          "sv": "Équateur",
+          "tr": "Equateur",
+          "vi": "Equateur",
+          "zh": null
+        },
+        "population": 11073328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4475,
+          -4.4275
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-bn",
+        "area": 37.69119700000001,
+        "bounding_box": [
+          15.888,
+          -8.109,
+          21.007,
+          -0.746
+        ],
+        "point": [
+          18.4475,
+          -4.4275
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "بانداندو",
+          "bn": "বান্দুন্দো প্রদেশ",
+          "de": "Bandundu",
+          "en": "Bandundu Province",
+          "es": "Bandundu",
+          "fr": "Bandundu",
+          "el": "Μπαντούντου",
+          "hi": "बान्दुन्दु प्रान्त",
+          "hu": "Bandundu tartomány",
+          "id": "Provinsi Bandundu",
+          "it": "Provincia di Bandundu",
+          "ja": "バンドゥンドゥ州",
+          "ko": "반둔두 주",
+          "nl": "Bandundu",
+          "pl": "Bandundu",
+          "pt": "Bandundu",
+          "ru": "Бандунду",
+          "sv": "Bandundu",
+          "tr": "Bandundu",
+          "vi": "Bandundu",
+          "zh": "班顿杜省"
+        },
+        "population": 8518382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.849499999999999,
+          -4.4864999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-kn",
+        "area": 1.5241269999999987,
+        "bounding_box": [
+          15.151,
+          -5.032,
+          16.548,
+          -3.941
+        ],
+        "point": [
+          15.849499999999999,
+          -4.4864999999999995
+        ],
+        "labels": {
+          "alt": "Kinshasa|Léopoldville",
+          "local": null,
+          "len": 13,
+          "ar": "كينشاسا",
+          "bn": "কিনশাসা",
+          "de": "Kinshasa",
+          "en": "Kinshasa",
+          "es": "Kinsasa",
+          "fr": "Kinshasa",
+          "el": "Κινσάσα",
+          "hi": "किन्शासा",
+          "hu": "Kinshasa",
+          "id": "Kinshasa",
+          "it": "Kinshasa",
+          "ja": "キンシャサ",
+          "ko": "킨샤사",
+          "nl": "Kinshasa",
+          "pl": "Kinszasa",
+          "pt": "Kinshasa",
+          "ru": "Киншаса",
+          "sv": "Kinshasa",
+          "tr": "Kinşasa",
+          "vi": "Kinshasa",
+          "zh": "金夏沙"
+        },
+        "population": 7954334
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.245000000000001,
+          -5.164999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-bc",
+        "area": 7.216632,
+        "bounding_box": [
+          12.211,
+          -6.052,
+          16.279,
+          -4.278
+        ],
+        "point": [
+          14.245000000000001,
+          -5.164999999999999
+        ],
+        "labels": {
+          "alt": "Bas-Zaire|Bas-Zaïre|Kongo-Central|Lower Zaire",
+          "local": null,
+          "len": 9,
+          "ar": "الكونغو الوسطى",
+          "bn": "বাস-কঙ্গো",
+          "de": "Kongo Central",
+          "en": "Bas-Congo province",
+          "es": "Bajo Congo",
+          "fr": "Bas-Congo",
+          "el": "Μπας-Κονγκό",
+          "hi": "बा-कोंगो प्रान्त",
+          "hu": "Alsó-Kongó",
+          "id": "Kongo Central",
+          "it": "provincia del Basso Congo",
+          "ja": "コンゴ中央州",
+          "ko": "바콩고 주",
+          "nl": "Kongo-Central",
+          "pl": "Kongo Środkowe",
+          "pt": "Congo Central",
+          "ru": "Нижнее Конго",
+          "sv": "Kongo-Central",
+          "tr": "Bas-Congo",
+          "vi": "Bas-Congo",
+          "zh": "下刚果省"
+        },
+        "population": 3080246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.825,
+          -5.9115
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-bc",
+        "area": 0.013600000000000006,
+        "bounding_box": [
+          12.745,
+          -5.954,
+          12.905,
+          -5.869
+        ],
+        "point": [
+          12.825,
+          -5.9115
+        ],
+        "labels": {
+          "alt": "Bas-Zaire|Bas-Zaïre|Kongo-Central|Lower Zaire",
+          "local": null,
+          "len": 9,
+          "ar": "الكونغو الوسطى",
+          "bn": "বাস-কঙ্গো",
+          "de": "Kongo Central",
+          "en": "Bas-Congo province",
+          "es": "Bajo Congo",
+          "fr": "Bas-Congo",
+          "el": "Μπας-Κονγκό",
+          "hi": "बा-कोंगो प्रान्त",
+          "hu": "Alsó-Kongó",
+          "id": "Kongo Central",
+          "it": "provincia del Basso Congo",
+          "ja": "コンゴ中央州",
+          "ko": "바콩고 주",
+          "nl": "Kongo-Central",
+          "pl": "Kongo Środkowe",
+          "pt": "Congo Central",
+          "ru": "Нижнее Конго",
+          "sv": "Kongo-Central",
+          "tr": "Bas-Congo",
+          "vi": "Bas-Congo",
+          "zh": "下刚果省"
+        },
+        "population": 3080246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.787,
+          1.6320000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-or",
+        "area": 67.26919600000001,
+        "bounding_box": [
+          22.294,
+          -2.111,
+          31.28,
+          5.375
+        ],
+        "point": [
+          26.787,
+          1.6320000000000001
+        ],
+        "labels": {
+          "alt": "Haut-Zaire|Haut-ZaïreUpper Zaire",
+          "local": null,
+          "len": 9,
+          "ar": "أوريونتال",
+          "bn": "ওরিয়েন্টালে প্রদেশ",
+          "de": "Orientale",
+          "en": "Orientale Province",
+          "es": "Provincia Oriental",
+          "fr": "Province orientale",
+          "el": "Οριεντάλε",
+          "hi": "पूर्वी प्रान्त",
+          "hu": "Orientale tartomány",
+          "id": "Provinsi Orientale",
+          "it": "provincia Orientale",
+          "ja": "東部州",
+          "ko": "동부 주",
+          "nl": "Orientale",
+          "pl": "Prowincja Wschodnia",
+          "pt": "Orientale",
+          "ru": "Восточная провинция",
+          "sv": "Orientale",
+          "tr": "Doğu Bölgesi",
+          "vi": "Orientale",
+          "zh": "开赛省"
+        },
+        "population": 13116532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.116,
+          -3.3345000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-sk",
+        "area": 8.627289999999999,
+        "bounding_box": [
+          26.821,
+          -5.0,
+          29.411,
+          -1.669
+        ],
+        "point": [
+          28.116,
+          -3.3345000000000002
+        ],
+        "labels": {
+          "alt": "Sud-Kivou|Sud Kivou|Sud Kivu",
+          "local": null,
+          "len": 8,
+          "ar": "كيفو الجنوبية",
+          "bn": "দক্ষিণ কিভু",
+          "de": "Sud-Kivu",
+          "en": "South Kivu",
+          "es": "Kivu del Sur",
+          "fr": "Sud-Kivu",
+          "el": "Νότιο Κίβου",
+          "hi": "दक्षिण कीवू प्रान्त",
+          "hu": "Dél-Kivu tartomány",
+          "id": "Sud-Kivu",
+          "it": "provincia del Kivu Sud",
+          "ja": "南キヴ州",
+          "ko": "남키부 주",
+          "nl": "Zuid-Kivu",
+          "pl": "Kiwu Południowe",
+          "pt": "Sud-Kivu",
+          "ru": "Южное Киву",
+          "sv": "Södra Kivu-provinsen",
+          "tr": "Güney Kivu",
+          "vi": "Nam Kivu",
+          "zh": "南基伍省"
+        },
+        "population": 6052939
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2515,
+          -9.229
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-ka",
+        "area": 76.13045799999998,
+        "bounding_box": [
+          21.751,
+          -13.458,
+          30.752,
+          -5.0
+        ],
+        "point": [
+          26.2515,
+          -9.229
+        ],
+        "labels": {
+          "alt": "Shaba",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة كاتانغا",
+          "bn": "কাটাঙ্গা প্রদেশ",
+          "de": "Katanga",
+          "en": "Katanga Province",
+          "es": "Katanga",
+          "fr": "Katanga",
+          "el": "Κατάνγκα",
+          "hi": "काटंगा प्रदेश",
+          "hu": "Katanga tartomány",
+          "id": "Provinsi Katanga",
+          "it": "provincia di Katanga",
+          "ja": "カタンガ州",
+          "ko": "카탕가 주",
+          "nl": "Katanga",
+          "pl": "Katanga",
+          "pt": "Katanga",
+          "ru": "Катанга",
+          "sv": "Katanga",
+          "tr": "Katanga",
+          "vi": "Katanga",
+          "zh": "加丹加省"
+        },
+        "population": 28342689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5945,
+          -0.5499999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-nk",
+        "area": 8.369399999999995,
+        "bounding_box": [
+          27.207,
+          -2.058,
+          29.982,
+          0.958
+        ],
+        "point": [
+          28.5945,
+          -0.5499999999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "كيفو الشمالية",
+          "bn": "উত্তর কিভু",
+          "de": "Nord-Kivu",
+          "en": "North Kivu",
+          "es": "Kivu del Norte",
+          "fr": "Nord-Kivu",
+          "el": "Βόρειο Κίβου",
+          "hi": "उत्तर कीवू प्रान्त",
+          "hu": "Észak-Kivu tartomány",
+          "id": "Nord-Kivu",
+          "it": "provincia del Kivu Nord",
+          "ja": "北キヴ州",
+          "ko": "북키부 주",
+          "nl": "Noord-Kivu",
+          "pl": "Kiwu Północne",
+          "pt": "Nord-Kivu",
+          "ru": "Северное Киву",
+          "sv": "Norra Kivu-provinsen",
+          "tr": "Kuzey Kivu",
+          "vi": "Bắc Kivu",
+          "zh": "北基伍省"
+        },
+        "population": 9225431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7145,
+          -5.12
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-kw",
+        "area": 22.520537999999995,
+        "bounding_box": [
+          19.69,
+          -7.901,
+          23.739,
+          -2.339
+        ],
+        "point": [
+          21.7145,
+          -5.12
+        ],
+        "labels": {
+          "alt": "Kasai West|West Kasai|West Kassai",
+          "local": null,
+          "len": 16,
+          "ar": "كاساي الغربية",
+          "bn": "কাসোাই-ওক্সিডেন্টাল",
+          "de": "Kasaï-Occidental",
+          "en": "Kasaï-Occidental",
+          "es": "Kasai Occidental",
+          "fr": "Kasaï occidental",
+          "el": "Κασάι-Οξιντένταλ",
+          "hi": "कासाइ-पश्चिमी प्रान्त",
+          "hu": "Nyugat-Kasai tartomány",
+          "id": "Kasai-Occidental",
+          "it": "provincia del Kasai Occidentale",
+          "ja": "西カサイ州",
+          "ko": "카사이옥시당탈 주",
+          "nl": "West-Kasaï",
+          "pl": "Kasai Zachodnie",
+          "pt": "Kasaï Ocidental",
+          "ru": "Западное Касаи",
+          "sv": "Kasaï-Occidental",
+          "tr": "Batı Kasai",
+          "vi": "Kasai-Occidental",
+          "zh": "西开赛省"
+        },
+        "population": 13414549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.084,
+          -4.842
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-ke",
+        "area": 27.059039999999985,
+        "bounding_box": [
+          21.899,
+          -7.938,
+          26.269,
+          -1.746
+        ],
+        "point": [
+          24.084,
+          -4.842
+        ],
+        "labels": {
+          "alt": "East Kasai|Kasai East",
+          "local": null,
+          "len": 14,
+          "ar": "كاساي الشرقية",
+          "bn": "কাসাই-ওরিয়েন্টাল",
+          "de": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "es": "Kasai Oriental",
+          "fr": "Kasaï-Oriental",
+          "el": "Κασάι-Οριεντάλ",
+          "hi": "कासाइ-पूर्वी प्रान्त",
+          "hu": "Kelet-Kasai tartomány",
+          "id": "Kasai-Oriental",
+          "it": "provincia del Kasai Orientale",
+          "ja": "東カサイ州",
+          "ko": "카사이오리앙탈 주",
+          "nl": "Oost-Kasaï",
+          "pl": "Kasai Wschodnie",
+          "pt": "Kasaï-Oriental",
+          "ru": "Восточное Касаи",
+          "sv": "Kasaï-Oriental",
+          "tr": "Doğu Kasai",
+          "vi": "Kasai-Oriental",
+          "zh": "东开赛省"
+        },
+        "population": 10104371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.637999999999998,
+          -2.545
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cd",
+        "region_child": "cd-ma",
+        "area": 21.476339999999993,
+        "bounding_box": [
+          24.451,
+          -5.0,
+          28.825,
+          -0.09
+        ],
+        "point": [
+          26.637999999999998,
+          -2.545
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مانيما",
+          "bn": "মানেইমা",
+          "de": "Maniema",
+          "en": "Maniema",
+          "es": "Maniema",
+          "fr": "Maniema",
+          "el": "Μανιέμα",
+          "hi": "मानिएमा प्रान्त",
+          "hu": "Maniema tartomány",
+          "id": "Maniema",
+          "it": "provincia di Maniema",
+          "ja": "マニエマ州",
+          "ko": "마니에마 주",
+          "nl": "Maniema",
+          "pl": "Maniema",
+          "pt": "Maniema",
+          "ru": "Маниема",
+          "sv": "Maniema",
+          "tr": "Maniema",
+          "vi": "Maniema",
+          "zh": "马涅马省"
+        },
+        "population": 3056710
+      }
+    }
+  ]
+}

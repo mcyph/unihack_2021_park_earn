@@ -1,0 +1,270 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.9465,
+          9.123000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sl",
+        "region_child": "sl-n",
+        "area": 4.729914000000001,
+        "bounding_box": [
+          -13.301,
+          8.25,
+          -10.592,
+          9.996
+        ],
+        "point": [
+          -11.9465,
+          9.123000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "المحافظة الشمالية",
+          "bn": "নর্দান প্রদেশ",
+          "de": "Northern",
+          "en": "Northern Province",
+          "es": "Provincia del Norte",
+          "fr": "province du Nord",
+          "el": "Βόρεια Περιφέρεια",
+          "hi": "उत्तरी प्रांत",
+          "hu": null,
+          "id": "Provinsi Utara",
+          "it": "provincia del Nord",
+          "ja": "北部州",
+          "ko": "북부 주",
+          "nl": "Northern",
+          "pl": "Prowincja Północna",
+          "pt": "Northern",
+          "ru": "Северная провинция",
+          "sv": "Nord",
+          "tr": "Northern Province",
+          "vi": "Tỉnh Phía Bắc",
+          "zh": "北方省"
+        },
+        "population": 2267261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.931000000000001,
+          8.2075
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sl",
+        "region_child": "sl-e",
+        "area": 2.2390500000000007,
+        "bounding_box": [
+          -11.58,
+          7.345,
+          -10.282,
+          9.07
+        ],
+        "point": [
+          -10.931000000000001,
+          8.2075
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "المحافظة الشرقية",
+          "bn": "ইস্টার্ন প্রদেশ",
+          "de": "Eastern",
+          "en": "Eastern Province",
+          "es": "Provincia del Este",
+          "fr": "Province de l'Est",
+          "el": "Ανατολική Περιφέρεια",
+          "hi": "पूर्वी प्रांत",
+          "hu": null,
+          "id": "Provinsi Timur",
+          "it": "provincia dell'Est",
+          "ja": "東部州",
+          "ko": "동부 주",
+          "nl": "Eastern",
+          "pl": "Prowincja Wschodnia",
+          "pt": "Eastern",
+          "ru": "Восточная провинция",
+          "sv": "Östra provinsen",
+          "tr": "Eastern Province",
+          "vi": "Tỉnh Phía Đông",
+          "zh": "東方省"
+        },
+        "population": 1472363
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.0625,
+          7.7135
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sl",
+        "region_child": "sl-s",
+        "area": 2.9189929999999986,
+        "bounding_box": [
+          -12.981,
+          6.919,
+          -11.144,
+          8.508
+        ],
+        "point": [
+          -12.0625,
+          7.7135
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "المحافظة الجنوبية",
+          "bn": "দক্ষিণ প্রদেশ",
+          "de": "Southern",
+          "en": "Southern Province",
+          "es": "Provincia del Sur",
+          "fr": "Province du Sud",
+          "el": "Νότια Περιφέρεια",
+          "hi": "दक्षिणी प्रांत",
+          "hu": null,
+          "id": "Provinsi Selatan",
+          "it": "provincia del Sud",
+          "ja": "南部州",
+          "ko": "남부 주",
+          "nl": "Southern",
+          "pl": "Prowincja Południowa",
+          "pt": "Província do Sul",
+          "ru": "Южная провинция",
+          "sv": "Södra provinsen",
+          "tr": "Southern Province",
+          "vi": "Tỉnh Phía Nam",
+          "zh": "南方省"
+        },
+        "population": 1567000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.7225,
+          7.522
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sl",
+        "region_child": "sl-s",
+        "area": 0.10832399999999981,
+        "bounding_box": [
+          -12.952,
+          7.404,
+          -12.493,
+          7.64
+        ],
+        "point": [
+          -12.7225,
+          7.522
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "المحافظة الجنوبية",
+          "bn": "দক্ষিণ প্রদেশ",
+          "de": "Southern",
+          "en": "Southern Province",
+          "es": "Provincia del Sur",
+          "fr": "Province du Sud",
+          "el": "Νότια Περιφέρεια",
+          "hi": "दक्षिणी प्रांत",
+          "hu": null,
+          "id": "Provinsi Selatan",
+          "it": "provincia del Sud",
+          "ja": "南部州",
+          "ko": "남부 주",
+          "nl": "Southern",
+          "pl": "Prowincja Południowa",
+          "pt": "Província do Sul",
+          "ru": "Южная провинция",
+          "sv": "Södra provinsen",
+          "tr": "Southern Province",
+          "vi": "Tỉnh Phía Nam",
+          "zh": "南方省"
+        },
+        "population": 1567000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.087,
+          8.34
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sl",
+        "region_child": "sl-w",
+        "area": 0.11444399999999998,
+        "bounding_box": [
+          -13.274,
+          8.187,
+          -12.9,
+          8.493
+        ],
+        "point": [
+          -13.087,
+          8.34
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "المقاطعة الغربية",
+          "bn": "পশ্চিমাঞ্চল",
+          "de": "Western",
+          "en": "Western Area",
+          "es": "Área Occidental",
+          "fr": "Zone de l'Ouest",
+          "el": "Δυτική Περιφέρεια",
+          "hi": "पश्चिमी क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Barat",
+          "it": "Area occidentale della Sierra Leone",
+          "ja": "西部地域",
+          "ko": "서부 구",
+          "nl": "Western",
+          "pl": "Obszar Zachodni",
+          "pt": "Western Area",
+          "ru": "Западная область",
+          "sv": "Freetown Peninsula",
+          "tr": "Western Area",
+          "vi": "Khu vực Phía Tây",
+          "zh": "西部區"
+        },
+        "population": 1107328
+      }
+    }
+  ]
+}

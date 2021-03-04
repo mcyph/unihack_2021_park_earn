@@ -1,0 +1,635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.68,
+          41.128
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "037",
+        "area": 0.2857920000000033,
+        "bounding_box": [
+          -74.992,
+          40.899,
+          -74.368,
+          41.357
+        ],
+        "point": [
+          -74.68,
+          41.128
+        ],
+        "labels": {
+          "en": "Sussex"
+        },
+        "population": 154456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.938,
+          39.802
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "007",
+        "area": 0.1567520000000007,
+        "bounding_box": [
+          -75.14,
+          39.608,
+          -74.736,
+          39.996
+        ],
+        "point": [
+          -74.938,
+          39.802
+        ],
+        "labels": {
+          "en": "Camden"
+        },
+        "population": 523501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3,
+          40.666
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "039",
+        "area": 0.04824800000000008,
+        "bounding_box": [
+          -74.463,
+          40.592,
+          -74.137,
+          40.74
+        ],
+        "point": [
+          -74.3,
+          40.666
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 543548
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8165,
+          39.0565
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "009",
+        "area": 0.3761049999999992,
+        "bounding_box": [
+          -75.168,
+          38.789,
+          -74.465,
+          39.324
+        ],
+        "point": [
+          -74.8165,
+          39.0565
+        ],
+        "labels": {
+          "en": "Cape May"
+        },
+        "population": 92527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.725,
+          39.863
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "005",
+        "area": 0.42880000000000146,
+        "bounding_box": [
+          -75.06,
+          39.543,
+          -74.39,
+          40.183
+        ],
+        "point": [
+          -74.725,
+          39.863
+        ],
+        "labels": {
+          "en": "Burlington"
+        },
+        "population": 475478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.41749999999999,
+          40.43
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "023",
+        "area": 0.15286600000000414,
+        "bounding_box": [
+          -74.631,
+          40.251,
+          -74.204,
+          40.609
+        ],
+        "point": [
+          -74.41749999999999,
+          40.43
+        ],
+        "labels": {
+          "en": "Middlesex"
+        },
+        "population": 879011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0755,
+          40.730500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "017",
+        "area": 0.03203699999999946,
+        "bounding_box": [
+          -74.166,
+          40.642,
+          -73.985,
+          40.819
+        ],
+        "point": [
+          -74.0755,
+          40.730500000000006
+        ],
+        "labels": {
+          "en": "Hudson"
+        },
+        "population": 653613
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.25,
+          40.3025
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "025",
+        "area": 0.32630999999999744,
+        "bounding_box": [
+          -74.615,
+          40.079,
+          -73.885,
+          40.526
+        ],
+        "point": [
+          -74.25,
+          40.3025
+        ],
+        "labels": {
+          "en": "Monmouth"
+        },
+        "population": 650863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.60050000000001,
+          40.566
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "035",
+        "area": 0.1516799999999986,
+        "bounding_box": [
+          -74.798,
+          40.374,
+          -74.403,
+          40.758
+        ],
+        "point": [
+          -74.60050000000001,
+          40.566
+        ],
+        "labels": {
+          "en": "Somerset"
+        },
+        "population": 351336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.259,
+          39.823499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "029",
+        "area": 0.40983599999999315,
+        "bounding_box": [
+          -74.553,
+          39.475,
+          -73.965,
+          40.172
+        ],
+        "point": [
+          -74.259,
+          39.823499999999996
+        ],
+        "labels": {
+          "en": "Ocean"
+        },
+        "population": 646054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.146,
+          39.701499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "015",
+        "area": 0.20067400000000277,
+        "bounding_box": [
+          -75.415,
+          39.515,
+          -74.877,
+          39.888
+        ],
+        "point": [
+          -75.146,
+          39.701499999999996
+        ],
+        "labels": {
+          "en": "Gloucester"
+        },
+        "population": 322419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1485,
+          39.3125
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "011",
+        "area": 0.3042089999999976,
+        "bounding_box": [
+          -75.445,
+          39.056,
+          -74.852,
+          39.569
+        ],
+        "point": [
+          -75.1485,
+          39.3125
+        ],
+        "labels": {
+          "en": "Cumberland"
+        },
+        "population": 168351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.581,
+          40.8675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "027",
+        "area": 0.27006599999999636,
+        "bounding_box": [
+          -74.89,
+          40.649,
+          -74.272,
+          41.086
+        ],
+        "point": [
+          -74.581,
+          40.8675
+        ],
+        "labels": {
+          "en": "Morris"
+        },
+        "population": 516020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2425,
+          40.7915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "013",
+        "area": 0.06086499999999993,
+        "bounding_box": [
+          -74.372,
+          40.674,
+          -74.113,
+          40.909
+        ],
+        "point": [
+          -74.2425,
+          40.7915
+        ],
+        "labels": {
+          "en": "Essex"
+        },
+        "population": 780059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.083,
+          40.9525
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "003",
+        "area": 0.13721399999999986,
+        "bounding_box": [
+          -74.272,
+          40.771,
+          -73.894,
+          41.134
+        ],
+        "point": [
+          -74.083,
+          40.9525
+        ],
+        "labels": {
+          "en": "Bergen"
+        },
+        "population": 934541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9865,
+          40.843
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "041",
+        "area": 0.21836999999999507,
+        "bounding_box": [
+          -75.204,
+          40.592,
+          -74.769,
+          41.094
+        ],
+        "point": [
+          -74.9865,
+          40.843
+        ],
+        "labels": {
+          "en": "Warren"
+        },
+        "population": 115827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.305,
+          41.0115
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "031",
+        "area": 0.15166800000000136,
+        "bounding_box": [
+          -74.503,
+          40.82,
+          -74.107,
+          41.203
+        ],
+        "point": [
+          -74.305,
+          41.0115
+        ],
+        "labels": {
+          "en": "Passaic"
+        },
+        "population": 508231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.31299999999999,
+          39.5755
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "033",
+        "area": 0.2213819999999992,
+        "bounding_box": [
+          -75.564,
+          39.355,
+          -75.062,
+          39.796
+        ],
+        "point": [
+          -75.31299999999999,
+          39.5755
+        ],
+        "labels": {
+          "en": "Salem"
+        },
+        "population": 67184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.949,
+          40.5635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "019",
+        "area": 0.22090799999999466,
+        "bounding_box": [
+          -75.195,
+          40.339,
+          -74.703,
+          40.788
+        ],
+        "point": [
+          -74.949,
+          40.5635
+        ],
+        "labels": {
+          "en": "Hunterdon"
+        },
+        "population": 134311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.60849999999999,
+          39.51
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "001",
+        "area": 0.33131999999999834,
+        "bounding_box": [
+          -74.985,
+          39.29,
+          -74.232,
+          39.73
+        ],
+        "point": [
+          -74.60849999999999,
+          39.51
+        ],
+        "labels": {
+          "en": "Atlantic"
+        },
+        "population": 297385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71199999999999,
+          40.281
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nj",
+        "region_child": "021",
+        "area": 0.13213200000000158,
+        "bounding_box": [
+          -74.943,
+          40.138,
+          -74.481,
+          40.424
+        ],
+        "point": [
+          -74.71199999999999,
+          40.281
+        ],
+        "labels": {
+          "en": "Mercer"
+        },
+        "population": 381523
+      }
+    }
+  ]
+}

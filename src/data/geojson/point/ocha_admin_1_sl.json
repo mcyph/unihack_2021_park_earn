@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.934000000000001,
+          8.2095
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sl",
+        "region_child": "sl01",
+        "area": 2.285892,
+        "bounding_box": [
+          -11.592,
+          7.341,
+          -10.276,
+          9.078
+        ],
+        "point": [
+          -10.934000000000001,
+          8.2095
+        ],
+        "labels": {
+          "en": "Eastern"
+        },
+        "population": 1503230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.94,
+          9.131
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sl",
+        "region_child": "sl02",
+        "area": 4.7482159999999975,
+        "bounding_box": [
+          -13.306,
+          8.262,
+          -10.574,
+          10.0
+        ],
+        "point": [
+          -11.94,
+          9.131
+        ],
+        "labels": {
+          "en": "Northern"
+        },
+        "population": 2267252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.0685,
+          7.705500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sl",
+        "region_child": "sl03",
+        "area": 2.9005170000000007,
+        "bounding_box": [
+          -12.994,
+          6.922,
+          -11.143,
+          8.489
+        ],
+        "point": [
+          -12.0685,
+          7.705500000000001
+        ],
+        "labels": {
+          "en": "Southern"
+        },
+        "population": 1574982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.7155,
+          7.5455000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sl",
+        "region_child": "sl03",
+        "area": 0.08471100000000001,
+        "bounding_box": [
+          -12.942,
+          7.452,
+          -12.489,
+          7.639
+        ],
+        "point": [
+          -12.7155,
+          7.5455000000000005
+        ],
+        "labels": {
+          "en": "Southern"
+        },
+        "population": 1574982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.1035,
+          8.349
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sl",
+        "region_child": "sl04",
+        "area": 0.11204199999999999,
+        "bounding_box": [
+          -13.289,
+          8.198,
+          -12.918,
+          8.5
+        ],
+        "point": [
+          -13.1035,
+          8.349
+        ],
+        "labels": {
+          "en": "Western"
+        },
+        "population": 1374135
+      }
+    }
+  ]
+}

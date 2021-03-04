@@ -1,0 +1,1648 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7945,
+          67.05199999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-bd",
+        "area": 34.66841600000003,
+        "bounding_box": [
+          15.426,
+          65.068,
+          24.163,
+          69.036
+        ],
+        "point": [
+          19.7945,
+          67.05199999999999
+        ],
+        "labels": {
+          "alt": "Norrbottens län",
+          "local": null,
+          "len": 10,
+          "ar": "محافظة نوربوتن",
+          "bn": "নরব্রোটন কাউন্টি",
+          "de": "Norrbottens län",
+          "en": "Norrbotten County",
+          "es": "Provincia de Norrbotten",
+          "fr": "Comté de Norrbotten",
+          "el": "Νορμπότεν",
+          "hi": "नॉरबॉत्तेन लैन",
+          "hu": "Norrbotten megye",
+          "id": "Daerah Norrbotten",
+          "it": "Norrbotten",
+          "ja": "ノールボッテン県",
+          "ko": "노르보텐 주",
+          "nl": "Norrbottens län",
+          "pl": "Norrbotten",
+          "pt": "Norrbotten",
+          "ru": "Норрботтен",
+          "sv": "Norrbottens län",
+          "tr": "Norrbotten ili",
+          "vi": "Norrbotten",
+          "zh": "北博滕省"
+        },
+        "population": 222375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9695,
+          64.893
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-ac",
+        "area": 21.26625200000005,
+        "bounding_box": [
+          14.333,
+          63.431,
+          21.606,
+          66.355
+        ],
+        "point": [
+          17.9695,
+          64.893
+        ],
+        "labels": {
+          "alt": "Västerbottens län",
+          "local": null,
+          "len": 12,
+          "ar": "محافظة وستربوتن",
+          "bn": "ভ্যাস্টারবটেন বিভাগ",
+          "de": "Västerbottens län",
+          "en": "Västerbotten County",
+          "es": "Provincia de Västerbotten",
+          "fr": "Comté de Västerbotten",
+          "el": "Βαστερμπότεν",
+          "hi": "वेस्तरबॉत्तेन लैन",
+          "hu": "Västerbotten megye",
+          "id": "Daerah Västerbotten",
+          "it": "Västerbotten",
+          "ja": "ヴェステルボッテン県",
+          "ko": "베스테르보텐 주",
+          "nl": "Västerbottens län",
+          "pl": "Västerbotten",
+          "pt": "Västerbotten",
+          "ru": "Вестерботтен",
+          "sv": "Västerbottens län",
+          "tr": "Västerbotten ili",
+          "vi": "Västerbotten",
+          "zh": "西博滕省"
+        },
+        "population": 254917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.480500000000001,
+          63.3485
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-z",
+        "area": 17.58374099999997,
+        "bounding_box": [
+          11.992,
+          61.582,
+          16.969,
+          65.115
+        ],
+        "point": [
+          14.480500000000001,
+          63.3485
+        ],
+        "labels": {
+          "alt": "Jämtlands län",
+          "local": null,
+          "len": 8,
+          "ar": "محافظة يمتلاند",
+          "bn": "জামটল্যান্ড কাউন্টি",
+          "de": "Jämtlands län",
+          "en": "Jämtland County",
+          "es": "Provincia de Jämtland",
+          "fr": "Comté de Jämtland",
+          "el": "κομητεία της Ιεμτλανδς",
+          "hi": "येम्तलान्द लैन",
+          "hu": "Jämtland megye",
+          "id": "Daerah Jämtland",
+          "it": "contea di Jämtland",
+          "ja": "イェムトランド県",
+          "ko": "옘틀란드 주",
+          "nl": "Jämtlands län",
+          "pl": "Jämtlands län",
+          "pt": "condado da Jämtland",
+          "ru": "Емтланд",
+          "sv": "Jämtlands län",
+          "tr": "Jämtland ili",
+          "vi": "hạt Jämtland",
+          "zh": "耶姆特兰省"
+        },
+        "population": 126277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.439499999999999,
+          61.078500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-w",
+        "area": 10.891004999999987,
+        "bounding_box": [
+          12.162,
+          59.883,
+          16.717,
+          62.274
+        ],
+        "point": [
+          14.439499999999999,
+          61.078500000000005
+        ],
+        "labels": {
+          "alt": "Dalecarlia|Kopparberg",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة دالرناس",
+          "bn": "দালার্না কাউন্টি",
+          "de": "Dalarnas län",
+          "en": "Dalarna County",
+          "es": "Provincia de Dalarna",
+          "fr": "Comté de Dalécarlie",
+          "el": "Νταλάρνα",
+          "hi": "दालारना लैन",
+          "hu": "Dalarna megye",
+          "id": "Daerah Dalarna",
+          "it": "Contea di Dalarna",
+          "ja": "ダーラナ県",
+          "ko": "달라르나 주",
+          "nl": "Dalarnas län",
+          "pl": "Dalarna",
+          "pt": "Dalarna",
+          "ru": "Даларна",
+          "sv": "Dalarnas län",
+          "tr": "Dalarna ili",
+          "vi": "Dalarna",
+          "zh": "达拉纳省"
+        },
+        "population": 279440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0795,
+          59.8995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-s",
+        "area": 6.493575000000013,
+        "bounding_box": [
+          11.677,
+          58.742,
+          14.482,
+          61.057
+        ],
+        "point": [
+          13.0795,
+          59.8995
+        ],
+        "labels": {
+          "alt": "Värmlands län",
+          "local": null,
+          "len": 8,
+          "ar": "محافظة ورملاند",
+          "bn": "ভার্মাল্যান্ড কাউন্টি",
+          "de": "Värmlands län",
+          "en": "Värmland County",
+          "es": "Provincia de Värmland",
+          "fr": "Comté de Värmland",
+          "el": "κομητεία της βερμλανδς",
+          "hi": "वैर्मलान्द लैन",
+          "hu": "Värmland megye",
+          "id": "Daerah Värmland",
+          "it": "contea di Värmland",
+          "ja": "ヴェルムランド県",
+          "ko": "베름란드 주",
+          "nl": "Värmlands län",
+          "pl": "Värmlands län",
+          "pt": "condado da Värmland",
+          "ru": "Вермланд",
+          "sv": "Värmlands län",
+          "tr": "Värmland ili",
+          "vi": "hạt Värmland",
+          "zh": "韦姆兰省"
+        },
+        "population": 275778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96,
+          58.206
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-o",
+        "area": 7.77099200000002,
+        "bounding_box": [
+          11.108,
+          57.157,
+          14.812,
+          59.255
+        ],
+        "point": [
+          12.96,
+          58.206
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "محافظة وسترا يوتالاند",
+          "bn": "ভঁসট্রা গোঁটাল্যান্ড কাউন্টি",
+          "de": "Västra Götalands län",
+          "en": "Västra Götaland County",
+          "es": "Provincia de Västra Götaland",
+          "fr": "Comté de Västra Götaland",
+          "el": "Κομητεία Βέστρα Γκέταλαντ",
+          "hi": "वेस्त्रा योतालान्द लैन",
+          "hu": "Västra Götaland megye",
+          "id": "Daerah Västra Götaland",
+          "it": "contea di Västra Götaland",
+          "ja": "ヴェストラ・イェータランド県",
+          "ko": "베스트라예탈란드 주",
+          "nl": "Västra Götalands län",
+          "pl": "Västra Götalands län",
+          "pt": "condado da Västra Götaland",
+          "ru": "Вестра-Гёталанд",
+          "sv": "Västra Götalands län",
+          "tr": "Västra Götaland ili",
+          "vi": "hạt Västra Götaland",
+          "zh": "西约塔兰省"
+        },
+        "population": 1654262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.607,
+          58.1855
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-o",
+        "area": 0.0795999999999993,
+        "bounding_box": [
+          11.407,
+          58.086,
+          11.807,
+          58.285
+        ],
+        "point": [
+          11.607,
+          58.1855
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "محافظة وسترا يوتالاند",
+          "bn": "ভঁসট্রা গোঁটাল্যান্ড কাউন্টি",
+          "de": "Västra Götalands län",
+          "en": "Västra Götaland County",
+          "es": "Provincia de Västra Götaland",
+          "fr": "Comté de Västra Götaland",
+          "el": "Κομητεία Βέστρα Γκέταλαντ",
+          "hi": "वेस्त्रा योतालान्द लैन",
+          "hu": "Västra Götaland megye",
+          "id": "Daerah Västra Götaland",
+          "it": "contea di Västra Götaland",
+          "ja": "ヴェストラ・イェータランド県",
+          "ko": "베스트라예탈란드 주",
+          "nl": "Västra Götalands län",
+          "pl": "Västra Götalands län",
+          "pt": "condado da Västra Götaland",
+          "ru": "Вестра-Гёталанд",
+          "sv": "Västra Götalands län",
+          "tr": "Västra Götaland ili",
+          "vi": "hạt Västra Götaland",
+          "zh": "西约塔兰省"
+        },
+        "population": 1654262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.618500000000001,
+          57.9975
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-o",
+        "area": 0.029642999999999586,
+        "bounding_box": [
+          11.498,
+          57.936,
+          11.739,
+          58.059
+        ],
+        "point": [
+          11.618500000000001,
+          57.9975
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "محافظة وسترا يوتالاند",
+          "bn": "ভঁসট্রা গোঁটাল্যান্ড কাউন্টি",
+          "de": "Västra Götalands län",
+          "en": "Västra Götaland County",
+          "es": "Provincia de Västra Götaland",
+          "fr": "Comté de Västra Götaland",
+          "el": "Κομητεία Βέστρα Γκέταλαντ",
+          "hi": "वेस्त्रा योतालान्द लैन",
+          "hu": "Västra Götaland megye",
+          "id": "Daerah Västra Götaland",
+          "it": "contea di Västra Götaland",
+          "ja": "ヴェストラ・イェータランド県",
+          "ko": "베스트라예탈란드 주",
+          "nl": "Västra Götalands län",
+          "pl": "Västra Götalands län",
+          "pt": "condado da Västra Götaland",
+          "ru": "Вестра-Гёталанд",
+          "sv": "Västra Götalands län",
+          "tr": "Västra Götaland ili",
+          "vi": "hạt Västra Götaland",
+          "zh": "西约塔兰省"
+        },
+        "population": 1654262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0705,
+          63.082499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-y",
+        "area": 8.393678999999967,
+        "bounding_box": [
+          14.825,
+          62.148,
+          19.316,
+          64.017
+        ],
+        "point": [
+          17.0705,
+          63.082499999999996
+        ],
+        "labels": {
+          "alt": "Västernorrlands län",
+          "local": null,
+          "len": 14,
+          "ar": "محافظة وسترنورلاند",
+          "bn": "ভ্যাস্টারনরল্যান্ড কাউন্টি",
+          "de": "Västernorrlands län",
+          "en": "Västernorrland County",
+          "es": "Provincia de Västernorrland",
+          "fr": "Comté de Västernorrland",
+          "el": "Βαστερνορλάντ",
+          "hi": "वेस्तरनॉरलान्द लैन",
+          "hu": "Västernorrland megye",
+          "id": "Daerah Västernorrland",
+          "it": "Västernorrland",
+          "ja": "ヴェステルノールランド県",
+          "ko": "베스테르노를란드 주",
+          "nl": "Västernorrlands län",
+          "pl": "Västernorrland",
+          "pt": "Västernorrland",
+          "ru": "Вестерноррланд",
+          "sv": "Västernorrlands län",
+          "tr": "Västernorrland ili",
+          "vi": "Västernorrland",
+          "zh": "西诺尔兰省"
+        },
+        "population": 221257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.083,
+          62.721500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-y",
+        "area": 0.01031800000000002,
+        "bounding_box": [
+          18.006,
+          62.688,
+          18.16,
+          62.755
+        ],
+        "point": [
+          18.083,
+          62.721500000000006
+        ],
+        "labels": {
+          "alt": "Västernorrlands län",
+          "local": null,
+          "len": 14,
+          "ar": "محافظة وسترنورلاند",
+          "bn": "ভ্যাস্টারনরল্যান্ড কাউন্টি",
+          "de": "Västernorrlands län",
+          "en": "Västernorrland County",
+          "es": "Provincia de Västernorrland",
+          "fr": "Comté de Västernorrland",
+          "el": "Βαστερνορλάντ",
+          "hi": "वेस्तरनॉरलान्द लैन",
+          "hu": "Västernorrland megye",
+          "id": "Daerah Västernorrland",
+          "it": "Västernorrland",
+          "ja": "ヴェステルノールランド県",
+          "ko": "베스테르노를란드 주",
+          "nl": "Västernorrlands län",
+          "pl": "Västernorrland",
+          "pt": "Västernorrland",
+          "ru": "Вестерноррланд",
+          "sv": "Västernorrlands län",
+          "tr": "Västernorrland ili",
+          "vi": "Västernorrland",
+          "zh": "西诺尔兰省"
+        },
+        "population": 221257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.000999999999998,
+          61.283
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-x",
+        "area": 6.513471999999996,
+        "bounding_box": [
+          14.482,
+          60.211,
+          17.52,
+          62.355
+        ],
+        "point": [
+          16.000999999999998,
+          61.283
+        ],
+        "labels": {
+          "alt": "Gävleborgs län",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة يافلبورغ",
+          "bn": "গ্যাভ্লেবার্গ কাউন্টি",
+          "de": "Gävleborgs län",
+          "en": "Gävleborg County",
+          "es": "Provincia de Gävleborg",
+          "fr": "Comté de Gävleborg",
+          "el": "Γκάβλεμποργκ",
+          "hi": "यैव्लेबॉर्य लैन",
+          "hu": "Gävleborg megye",
+          "id": "Daerah Gävleborg",
+          "it": "Gävleborg",
+          "ja": "イェヴレボリ県",
+          "ko": "예블레보리 주",
+          "nl": "Gävleborgs län",
+          "pl": "Gävleborg",
+          "pt": "Gävleborg",
+          "ru": "Евлеборг",
+          "sv": "Gävleborgs län",
+          "tr": "Gävleborg ili",
+          "vi": "Gävleborg",
+          "zh": "耶夫勒堡省"
+        },
+        "population": 276130
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.681,
+          60.0165
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-c",
+        "area": 2.2329840000000103,
+        "bounding_box": [
+          16.797,
+          59.385,
+          18.565,
+          60.648
+        ],
+        "point": [
+          17.681,
+          60.0165
+        ],
+        "labels": {
+          "alt": "Uppsala län",
+          "local": null,
+          "len": 7,
+          "ar": "محافظة اوبسالا",
+          "bn": "আপসালা কাউন্টি",
+          "de": "Uppsala län",
+          "en": "Uppsala County",
+          "es": "Provincia de Upsala",
+          "fr": "Comté d'Uppsala",
+          "el": "Ουπσάλα",
+          "hi": "उप्साला लैन",
+          "hu": "Uppsala megye",
+          "id": "Daerah Uppsala",
+          "it": "contea di Uppsala",
+          "ja": "ウプサラ県",
+          "ko": "웁살라 주",
+          "nl": "Uppsala län",
+          "pl": "Uppsala län",
+          "pt": "condado da Uppsala",
+          "ru": "Уппсала",
+          "sv": "Uppsala län",
+          "tr": "Uppsala ili",
+          "vi": "hạt Uppsala",
+          "zh": "乌普萨拉省"
+        },
+        "population": 352831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.469,
+          60.403
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-c",
+        "area": 0.024624000000000017,
+        "bounding_box": [
+          18.388,
+          60.327,
+          18.55,
+          60.479
+        ],
+        "point": [
+          18.469,
+          60.403
+        ],
+        "labels": {
+          "alt": "Uppsala län",
+          "local": null,
+          "len": 7,
+          "ar": "محافظة اوبسالا",
+          "bn": "আপসালা কাউন্টি",
+          "de": "Uppsala län",
+          "en": "Uppsala County",
+          "es": "Provincia de Upsala",
+          "fr": "Comté d'Uppsala",
+          "el": "Ουπσάλα",
+          "hi": "उप्साला लैन",
+          "hu": "Uppsala megye",
+          "id": "Daerah Uppsala",
+          "it": "contea di Uppsala",
+          "ja": "ウプサラ県",
+          "ko": "웁살라 주",
+          "nl": "Uppsala län",
+          "pl": "Uppsala län",
+          "pt": "condado da Uppsala",
+          "ru": "Уппсала",
+          "sv": "Uppsala län",
+          "tr": "Uppsala ili",
+          "vi": "hạt Uppsala",
+          "zh": "乌普萨拉省"
+        },
+        "population": 352831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.185000000000002,
+          59.528999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-ab",
+        "area": 2.228400000000013,
+        "bounding_box": [
+          17.285,
+          58.91,
+          19.085,
+          60.148
+        ],
+        "point": [
+          18.185000000000002,
+          59.528999999999996
+        ],
+        "labels": {
+          "alt": "Stockholms län|Estocolmo|Stoccolmo",
+          "local": null,
+          "len": 9,
+          "ar": "محافظة ستوكهولم",
+          "bn": "স্টকহোম কাউন্টি",
+          "de": "Stockholms län",
+          "en": "Stockholm County",
+          "es": "Provincia de Estocolmo",
+          "fr": "Comté de Stockholm",
+          "el": "κομητεία της Στοκχόλμης",
+          "hi": "स्टॉकहोम लैन",
+          "hu": "Stockholm megye",
+          "id": "Daerah Stockholm",
+          "it": "contea di Stoccolma",
+          "ja": "ストックホルム県",
+          "ko": "스톡홀름주",
+          "nl": "Stockholms län",
+          "pl": "Sztokholm",
+          "pt": "condado de Estocolmo",
+          "ru": "Стокгольм",
+          "sv": "Stockholms län",
+          "tr": "Stokholm ili",
+          "vi": "hạt Stockholm",
+          "zh": "斯德哥爾摩省"
+        },
+        "population": 2318959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.584,
+          59.484
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-ab",
+        "area": 0.016060000000000005,
+        "bounding_box": [
+          18.511,
+          59.429,
+          18.657,
+          59.539
+        ],
+        "point": [
+          18.584,
+          59.484
+        ],
+        "labels": {
+          "alt": "Stockholms län|Estocolmo|Stoccolmo",
+          "local": null,
+          "len": 9,
+          "ar": "محافظة ستوكهولم",
+          "bn": "স্টকহোম কাউন্টি",
+          "de": "Stockholms län",
+          "en": "Stockholm County",
+          "es": "Provincia de Estocolmo",
+          "fr": "Comté de Stockholm",
+          "el": "κομητεία της Στοκχόλμης",
+          "hi": "स्टॉकहोम लैन",
+          "hu": "Stockholm megye",
+          "id": "Daerah Stockholm",
+          "it": "contea di Stoccolma",
+          "ja": "ストックホルム県",
+          "ko": "스톡홀름주",
+          "nl": "Stockholms län",
+          "pl": "Sztokholm",
+          "pt": "condado de Estocolmo",
+          "ru": "Стокгольм",
+          "sv": "Stockholms län",
+          "tr": "Stokholm ili",
+          "vi": "hạt Stockholm",
+          "zh": "斯德哥爾摩省"
+        },
+        "population": 2318959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.413,
+          59.055
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-ab",
+        "area": 0.012383999999999645,
+        "bounding_box": [
+          18.341,
+          59.012,
+          18.485,
+          59.098
+        ],
+        "point": [
+          18.413,
+          59.055
+        ],
+        "labels": {
+          "alt": "Stockholms län|Estocolmo|Stoccolmo",
+          "local": null,
+          "len": 9,
+          "ar": "محافظة ستوكهولم",
+          "bn": "স্টকহোম কাউন্টি",
+          "de": "Stockholms län",
+          "en": "Stockholm County",
+          "es": "Provincia de Estocolmo",
+          "fr": "Comté de Stockholm",
+          "el": "κομητεία της Στοκχόλμης",
+          "hi": "स्टॉकहोम लैन",
+          "hu": "Stockholm megye",
+          "id": "Daerah Stockholm",
+          "it": "contea di Stoccolma",
+          "ja": "ストックホルム県",
+          "ko": "스톡홀름주",
+          "nl": "Stockholms län",
+          "pl": "Sztokholm",
+          "pt": "condado de Estocolmo",
+          "ru": "Стокгольм",
+          "sv": "Stockholms län",
+          "tr": "Stokholm ili",
+          "vi": "hạt Stockholm",
+          "zh": "斯德哥爾摩省"
+        },
+        "population": 2318959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.171999999999997,
+          59.363
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-ab",
+        "area": 0.005719999999999557,
+        "bounding_box": [
+          18.107,
+          59.341,
+          18.237,
+          59.385
+        ],
+        "point": [
+          18.171999999999997,
+          59.363
+        ],
+        "labels": {
+          "alt": "Stockholms län|Estocolmo|Stoccolmo",
+          "local": null,
+          "len": 9,
+          "ar": "محافظة ستوكهولم",
+          "bn": "স্টকহোম কাউন্টি",
+          "de": "Stockholms län",
+          "en": "Stockholm County",
+          "es": "Provincia de Estocolmo",
+          "fr": "Comté de Stockholm",
+          "el": "κομητεία της Στοκχόλμης",
+          "hi": "स्टॉकहोम लैन",
+          "hu": "Stockholm megye",
+          "id": "Daerah Stockholm",
+          "it": "contea di Stoccolma",
+          "ja": "ストックホルム県",
+          "ko": "스톡홀름주",
+          "nl": "Stockholms län",
+          "pl": "Sztokholm",
+          "pt": "condado de Estocolmo",
+          "ru": "Стокгольм",
+          "sv": "Stockholms län",
+          "tr": "Stokholm ili",
+          "vi": "hạt Stockholm",
+          "zh": "斯德哥爾摩省"
+        },
+        "population": 2318959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4765,
+          59.259
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-ab",
+        "area": 0.00558000000000021,
+        "bounding_box": [
+          18.43,
+          59.229,
+          18.523,
+          59.289
+        ],
+        "point": [
+          18.4765,
+          59.259
+        ],
+        "labels": {
+          "alt": "Stockholms län|Estocolmo|Stoccolmo",
+          "local": null,
+          "len": 9,
+          "ar": "محافظة ستوكهولم",
+          "bn": "স্টকহোম কাউন্টি",
+          "de": "Stockholms län",
+          "en": "Stockholm County",
+          "es": "Provincia de Estocolmo",
+          "fr": "Comté de Stockholm",
+          "el": "κομητεία της Στοκχόλμης",
+          "hi": "स्टॉकहोम लैन",
+          "hu": "Stockholm megye",
+          "id": "Daerah Stockholm",
+          "it": "contea di Stoccolma",
+          "ja": "ストックホルム県",
+          "ko": "스톡홀름주",
+          "nl": "Stockholms län",
+          "pl": "Sztokholm",
+          "pt": "condado de Estocolmo",
+          "ru": "Стокгольм",
+          "sv": "Stockholms län",
+          "tr": "Stokholm ili",
+          "vi": "hạt Stockholm",
+          "zh": "斯德哥爾摩省"
+        },
+        "population": 2318959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.633499999999998,
+          59.0785
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-d",
+        "area": 1.8022089999999915,
+        "bounding_box": [
+          15.64,
+          58.625,
+          17.627,
+          59.532
+        ],
+        "point": [
+          16.633499999999998,
+          59.0785
+        ],
+        "labels": {
+          "alt": "Södermanlands län|Sörmland",
+          "local": null,
+          "len": 12,
+          "ar": "محافظة سودرمانلاند",
+          "bn": "সোডারম্যানল্যান্ড কাউন্টি",
+          "de": "Södermanlands län",
+          "en": "Södermanland County",
+          "es": "Provincia de Södermanland",
+          "fr": "Comté de Södermanland",
+          "el": "Σοντερμανλάντ",
+          "hi": "सोदरमानलान्द लैन",
+          "hu": "Södermanland megye",
+          "id": "Daerah Södermanland",
+          "it": "contea di Södermanland",
+          "ja": "セーデルマンランド県",
+          "ko": "쇠데르만란드 주",
+          "nl": "Södermanlands län",
+          "pl": "Södermanlands län",
+          "pt": "condado da Södermanland",
+          "ru": "Сёдерманланд",
+          "sv": "Södermanlands län",
+          "tr": "Södermanland ili",
+          "vi": "hạt Södermanland",
+          "zh": "南曼兰省"
+        },
+        "population": 281092
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6475,
+          58.361000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-e",
+        "area": 3.163225999999986,
+        "bounding_box": [
+          14.429,
+          57.712,
+          16.866,
+          59.01
+        ],
+        "point": [
+          15.6475,
+          58.361000000000004
+        ],
+        "labels": {
+          "alt": "Östergötlands län",
+          "local": null,
+          "len": 12,
+          "ar": "مقاطعة أوسترغوتلاند",
+          "bn": "ওঁস্টারগটল্যান্ড কাউন্টি",
+          "de": "Östergötlands län",
+          "en": "Östergötland County",
+          "es": "Provincia de Östergötland",
+          "fr": "Comté d'Östergötland",
+          "el": "κομητεία της Έστεργέτλανδς",
+          "hi": "ओस्तरयोतलान्द लैन",
+          "hu": "Östergötland megye",
+          "id": "Daerah Östergötland",
+          "it": "contea di Östergötland",
+          "ja": "エステルイェータランド県",
+          "ko": "외스테르예틀란드 주",
+          "nl": "Östergötlands län",
+          "pl": "Östergötlands län",
+          "pt": "condado da Östergötland",
+          "ru": "Эстергётланд",
+          "sv": "Östergötlands län",
+          "tr": "Östergötland ili",
+          "vi": "hạt Östergötland",
+          "zh": "东约特兰省"
+        },
+        "population": 457539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0685,
+          57.2255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-h",
+        "area": 2.538389000000002,
+        "bounding_box": [
+          15.363,
+          56.326,
+          16.774,
+          58.125
+        ],
+        "point": [
+          16.0685,
+          57.2255
+        ],
+        "labels": {
+          "alt": "Kalmar län",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة كالمار",
+          "bn": "কাল্মার কাউন্টি",
+          "de": "Kalmar län",
+          "en": "Kalmar County",
+          "es": "Provincia de Kalmar",
+          "fr": "Comté de Kalmar",
+          "el": "κομητεία της Καλμαρς",
+          "hi": "कल्मार लैन",
+          "hu": "Kalmar megye",
+          "id": "Daerah Kalmar",
+          "it": "Contea di Kalmar",
+          "ja": "カルマル県",
+          "ko": "칼마르 주",
+          "nl": "Kalmar län",
+          "pl": "Kalmar län",
+          "pt": "condado da Kalmar",
+          "ru": "Кальмар",
+          "sv": "Kalmar län",
+          "tr": "Kalmar ili",
+          "vi": "hạt Kalmar",
+          "zh": "卡尔马省"
+        },
+        "population": 211274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.758,
+          56.7885
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-h",
+        "area": 0.8213460000000018,
+        "bounding_box": [
+          16.391,
+          56.229,
+          17.125,
+          57.348
+        ],
+        "point": [
+          16.758,
+          56.7885
+        ],
+        "labels": {
+          "alt": "Kalmar län",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة كالمار",
+          "bn": "কাল্মার কাউন্টি",
+          "de": "Kalmar län",
+          "en": "Kalmar County",
+          "es": "Provincia de Kalmar",
+          "fr": "Comté de Kalmar",
+          "el": "κομητεία της Καλμαρς",
+          "hi": "कल्मार लैन",
+          "hu": "Kalmar megye",
+          "id": "Daerah Kalmar",
+          "it": "Contea di Kalmar",
+          "ja": "カルマル県",
+          "ko": "칼마르 주",
+          "nl": "Kalmar län",
+          "pl": "Kalmar län",
+          "pt": "condado da Kalmar",
+          "ru": "Кальмар",
+          "sv": "Kalmar län",
+          "tr": "Kalmar ili",
+          "vi": "hạt Kalmar",
+          "zh": "卡尔马省"
+        },
+        "population": 211274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.239999999999998,
+          56.2525
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-k",
+        "area": 0.8276519999999957,
+        "bounding_box": [
+          14.414,
+          56.002,
+          16.066,
+          56.503
+        ],
+        "point": [
+          15.239999999999998,
+          56.2525
+        ],
+        "labels": {
+          "alt": "Blekinge län",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة بليكينج",
+          "bn": "ব্লেকিঞ্জে কাউন্টি",
+          "de": "Blekinge län",
+          "en": "Blekinge County",
+          "es": "Provincia de Blekinge",
+          "fr": "Comté de Blekinge",
+          "el": "κομητεία της Μπλεκιγγες",
+          "hi": "ब्लकिंगे लैन",
+          "hu": "Blekinge megye",
+          "id": "Daerah Blekinge",
+          "it": "contea di Blekinge",
+          "ja": "ブレーキンゲ県",
+          "ko": "블레킹에 주",
+          "nl": "Blekinge län",
+          "pl": "Blekinge län",
+          "pt": "Blekinge",
+          "ru": "Блекинге",
+          "sv": "Blekinge län",
+          "tr": "Blekinge ili",
+          "vi": "hạt Blekinge",
+          "zh": "布萊金厄省"
+        },
+        "population": 115762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.546,
+          55.943
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-m",
+        "area": 2.4900719999999943,
+        "bounding_box": [
+          12.505,
+          55.345,
+          14.587,
+          56.541
+        ],
+        "point": [
+          13.546,
+          55.943
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة اسكونه",
+          "bn": "স্কান কাউন্টি",
+          "de": "Skåne län",
+          "en": "Skåne County",
+          "es": "Provincia de Escania",
+          "fr": "Comté de Scanie",
+          "el": "κομητεία της Σκωνες",
+          "hi": "स्कॉने लैन",
+          "hu": "Skåne megye",
+          "id": "County Skåne",
+          "it": "contea della Scania",
+          "ja": "スコーネ県",
+          "ko": "스코네 주",
+          "nl": "Skåne län",
+          "pl": "Skania",
+          "pt": "Escânia",
+          "ru": "Сконе",
+          "sv": "Skåne län",
+          "tr": "Skåne ili",
+          "vi": "hạt Skåne",
+          "zh": "斯科讷省"
+        },
+        "population": 1287486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7985,
+          56.9795
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-n",
+        "area": 2.2799429999999936,
+        "bounding_box": [
+          11.903,
+          56.343,
+          13.694,
+          57.616
+        ],
+        "point": [
+          12.7985,
+          56.9795
+        ],
+        "labels": {
+          "alt": "Hallands län",
+          "local": null,
+          "len": 7,
+          "ar": "محافظة هاللاند",
+          "bn": "হল্যান্ড কাউন্টি",
+          "de": "Hallands län",
+          "en": "Halland County",
+          "es": "Provincia de Halland",
+          "fr": "Comté de Halland",
+          "el": "κομητεία της Ηαλαντς",
+          "hi": "हल्लान्द लैन",
+          "hu": "Halland megye",
+          "id": "Daerah Halland",
+          "it": "contea di Halland",
+          "ja": "ハッランド県",
+          "ko": "할란드 주",
+          "nl": "Hallands län",
+          "pl": "Hallands län",
+          "pt": "condado da Halland",
+          "ru": "Халланд",
+          "sv": "Hallands län",
+          "tr": "Halland ili",
+          "vi": "hạt Halland",
+          "zh": "哈兰省"
+        },
+        "population": 319143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.569499999999998,
+          57.4165
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-i",
+        "area": 0.9438229999999991,
+        "bounding_box": [
+          18.099,
+          56.915,
+          19.04,
+          57.918
+        ],
+        "point": [
+          18.569499999999998,
+          57.4165
+        ],
+        "labels": {
+          "alt": "Gotlands län|Gothland|Gottland",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة جوتلاندز",
+          "bn": "গটল্যান্ড কাউন্টি",
+          "de": "Gotlands län",
+          "en": "Gotland County",
+          "es": "Provincia de Gotland",
+          "fr": "Comté de Gotland",
+          "el": "Γκότλαντ",
+          "hi": "गॉतलान्द लैन",
+          "hu": "Gotland megye",
+          "id": "Daerah Gotland",
+          "it": "Gotland",
+          "ja": "ゴットランド県",
+          "ko": "고틀란드 주",
+          "nl": "Gotlands län",
+          "pl": "Gotland",
+          "pt": "Gotland",
+          "ru": "Готланд",
+          "sv": "Gotlands län",
+          "tr": "Gotland ili",
+          "vi": "Gotland",
+          "zh": "哥得兰省"
+        },
+        "population": 54928
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.155,
+          57.9195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-i",
+        "area": 0.0318600000000013,
+        "bounding_box": [
+          19.037,
+          57.852,
+          19.273,
+          57.987
+        ],
+        "point": [
+          19.155,
+          57.9195
+        ],
+        "labels": {
+          "alt": "Gotlands län|Gothland|Gottland",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة جوتلاندز",
+          "bn": "গটল্যান্ড কাউন্টি",
+          "de": "Gotlands län",
+          "en": "Gotland County",
+          "es": "Provincia de Gotland",
+          "fr": "Comté de Gotland",
+          "el": "Γκότλαντ",
+          "hi": "गॉतलान्द लैन",
+          "hu": "Gotland megye",
+          "id": "Daerah Gotland",
+          "it": "Gotland",
+          "ja": "ゴットランド県",
+          "ko": "고틀란드 주",
+          "nl": "Gotlands län",
+          "pl": "Gotland",
+          "pt": "Gotland",
+          "ru": "Готланд",
+          "sv": "Gotlands län",
+          "tr": "Gotland ili",
+          "vi": "Gotland",
+          "zh": "哥得兰省"
+        },
+        "population": 54928
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4205,
+          59.758
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-u",
+        "area": 2.1318239999999977,
+        "bounding_box": [
+          15.455,
+          59.206,
+          17.386,
+          60.31
+        ],
+        "point": [
+          16.4205,
+          59.758
+        ],
+        "labels": {
+          "alt": "Västmanlands län",
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة فستمانلاند",
+          "bn": "ভ্যাস্টম্যানল্যান্ড কাউন্টি",
+          "de": "Västmanlands län",
+          "en": "Västmanland County",
+          "es": "Provincia de Västmanland",
+          "fr": "Comté de Västmanland",
+          "el": "Βαστμανλάντ",
+          "hi": "वेस्तमानलान्द लैन",
+          "hu": "Västmanland megye",
+          "id": "Daerah Västmanland",
+          "it": "Västmanland",
+          "ja": "ヴェストマンランド県",
+          "ko": "베스트만란드 주",
+          "nl": "Västmanlands län",
+          "pl": "Västmanland",
+          "pt": "Västmanland",
+          "ru": "Вестманланд",
+          "sv": "Västmanlands län",
+          "tr": "Västmanland ili",
+          "vi": "Västmanland",
+          "zh": "西曼兰省"
+        },
+        "population": 277248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3765,
+          57.558499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-f",
+        "area": 3.42466299999999,
+        "bounding_box": [
+          13.09,
+          56.893,
+          15.663,
+          58.224
+        ],
+        "point": [
+          14.3765,
+          57.558499999999995
+        ],
+        "labels": {
+          "alt": "Jönköpings län",
+          "local": null,
+          "len": 9,
+          "ar": "محافظة يونشوبينغ",
+          "bn": "জঙ্কোপিং কাউন্টি",
+          "de": "Jönköpings län",
+          "en": "Jönköping County",
+          "es": "Provincia de Jönköping",
+          "fr": "Comté de Jönköping",
+          "el": "κομητεία της Γιέντσεπινγκ",
+          "hi": "योनशोपिंग लैन",
+          "hu": "Jönköping megye",
+          "id": "Daerah Jönköping",
+          "it": "contea di Jönköping",
+          "ja": "ヨンショーピング県",
+          "ko": "옌셰핑 주",
+          "nl": "Jönköpings län",
+          "pl": "Jönköpings län",
+          "pt": "condado da Jönköping",
+          "ru": "Йёнчёпинг",
+          "sv": "Jönköpings län",
+          "tr": "Jönköping ili",
+          "vi": "hạt Jönköping",
+          "zh": "延雪平省"
+        },
+        "population": 332872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.057500000000001,
+          59.372
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-t",
+        "area": 2.1678359999999977,
+        "bounding_box": [
+          14.311,
+          58.646,
+          15.804,
+          60.098
+        ],
+        "point": [
+          15.057500000000001,
+          59.372
+        ],
+        "labels": {
+          "alt": "Örebro|Örebro län",
+          "local": null,
+          "len": 6,
+          "ar": "محافظة اوربرو",
+          "bn": "ওঁরেব্রো কাউন্টি",
+          "de": "Örebro län",
+          "en": "Örebro County",
+          "es": "Provincia de Örebro",
+          "fr": "Comté d'Örebro",
+          "el": "Όρεμπρο",
+          "hi": "ओरेब्रो लैन",
+          "hu": "Örebro megye",
+          "id": "Daerah Örebro",
+          "it": "Örebro",
+          "ja": "エレブルー県",
+          "ko": "외레브로 주",
+          "nl": "Örebro län",
+          "pl": "Örebro",
+          "pt": "Örebro",
+          "ru": "Эребру",
+          "sv": "Örebro län",
+          "tr": "Örebro ili",
+          "vi": "Örebro",
+          "zh": "厄勒布鲁省"
+        },
+        "population": 295581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.577,
+          56.809
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "se",
+        "region_child": "se-g",
+        "area": 2.167451999999998,
+        "bounding_box": [
+          13.308,
+          56.382,
+          15.846,
+          57.236
+        ],
+        "point": [
+          14.577,
+          56.809
+        ],
+        "labels": {
+          "alt": "Kronobergs län",
+          "local": null,
+          "len": 9,
+          "ar": "محافظة كرونوبري",
+          "bn": "ক্যারিনো ক্রোনোবার্গ কাউন্টি",
+          "de": "Kronobergs län",
+          "en": "Kronoberg County",
+          "es": "Provincia de Kronoberg",
+          "fr": "Comté de Kronoberg",
+          "el": "Κρονομπέργκ",
+          "hi": "क्रूनुबैर्य लैन",
+          "hu": "Kronoberg megye",
+          "id": "Daerah Kronoberg",
+          "it": "Contea di Kronoberg",
+          "ja": "クロノベリ県",
+          "ko": "크로노베리 주",
+          "nl": "Kronobergs län",
+          "pl": "Kronoberg",
+          "pt": "Kronoberg",
+          "ru": "Крунуберг",
+          "sv": "Kronobergs län",
+          "tr": "Kronoberg ili",
+          "vi": "Kronoberg",
+          "zh": "克鲁努贝里省"
+        },
+        "population": 194604
+      }
+    }
+  ]
+}

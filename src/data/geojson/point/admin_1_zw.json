@@ -1,0 +1,535 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2215,
+          -18.600499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zw",
+        "region_child": "zw-mn",
+        "area": 13.901354999999997,
+        "bounding_box": [
+          25.219,
+          -20.336,
+          29.224,
+          -16.865
+        ],
+        "point": [
+          27.2215,
+          -18.600499999999997
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 18,
+          "ar": "إقليم ماتابيليلاند الشمالية",
+          "bn": "মাতাবেলেল্যান্ড উত্তর প্রদেশ",
+          "de": "Provinz Matabeleland North",
+          "en": "Matabeleland North Province",
+          "es": "Matabelelandia Septentrional",
+          "fr": "Matabeleland septentrional",
+          "el": "Βόρεια Ματαμπελελάνδη",
+          "hi": "माटेबेलेलैंड उत्तरी प्रांत",
+          "hu": null,
+          "id": "Matabeleland Utara",
+          "it": "provincia del Matabeleland Settentrionale",
+          "ja": "北マタベレランド州",
+          "ko": "북마타벨랜드 주",
+          "nl": "Matabeleland North",
+          "pl": "Matabeleland Północny",
+          "pt": "Matabeleland Norte",
+          "ru": "Северный Матабелеленд",
+          "sv": "Matabeleland North",
+          "tr": "Kuzey Matabeleland",
+          "vi": "Tỉnh Matabeleland North",
+          "zh": "北馬塔貝萊蘭省"
+        },
+        "population": 806938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.887,
+          -20.912
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zw",
+        "region_child": "zw-ms",
+        "area": 12.597000000000012,
+        "bounding_box": [
+          26.677,
+          -22.337,
+          31.097,
+          -19.487
+        ],
+        "point": [
+          28.887,
+          -20.912
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 18,
+          "ar": "إقليم ماتابيليلاند الجنوبية",
+          "bn": "মাটাবেলেল্যান্ড দক্ষিন প্রদেশ",
+          "de": "Provinz Matabeleland South",
+          "en": "Matabeleland South Province",
+          "es": "Matabelelandia Meridional",
+          "fr": "Matabeleland méridional",
+          "el": "Νότια Ματαμπελελάνδη",
+          "hi": "माताबेलेलैंड दक्षिण प्रांत",
+          "hu": null,
+          "id": "Matabeleland Selatan",
+          "it": "provincia del Matabeleland Meridionale",
+          "ja": "南マタベレランド州",
+          "ko": "남마타벨랜드 주",
+          "nl": "Matabeleland South",
+          "pl": "Matabeleland Południowy",
+          "pt": "Matabeleland Sul",
+          "ru": "Южный Матабелеленд",
+          "sv": "Matabeleland South",
+          "tr": "Güney Matabeleland",
+          "vi": "Tỉnh Matabeleland South",
+          "zh": "南馬塔貝萊蘭省"
+        },
+        "population": 699672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0685,
+          -20.778
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zw",
+        "region_child": "zw-mv",
+        "area": 8.68107799999999,
+        "bounding_box": [
+          29.728,
+          -22.397,
+          32.409,
+          -19.159
+        ],
+        "point": [
+          31.0685,
+          -20.778
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "منطقة ماسفينغو",
+          "bn": "মাাভিঙ্গো প্রদেশ",
+          "de": "Provinz Masvingo",
+          "en": "Masvingo Province",
+          "es": "Provincia de Masvingo",
+          "fr": "Province de Masvingo",
+          "el": "Μασβίνγκο",
+          "hi": "मैसविंगो प्रांत",
+          "hu": null,
+          "id": "Provinsi Masvingo",
+          "it": "Provincia di Masvingo",
+          "ja": "マシンゴ州",
+          "ko": "마스빙고 주",
+          "nl": "Masvingo",
+          "pl": "Masvingo",
+          "pt": "Masvingo",
+          "ru": "Масвинго",
+          "sv": "Masvingo",
+          "tr": "Masvingo",
+          "vi": "Tỉnh Masvingo",
+          "zh": "馬斯溫戈省"
+        },
+        "population": 1617007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.502499999999998,
+          -17.2385
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zw",
+        "region_child": "zw-mw",
+        "area": 9.607872999999993,
+        "bounding_box": [
+          28.023,
+          -18.862,
+          30.982,
+          -15.615
+        ],
+        "point": [
+          29.502499999999998,
+          -17.2385
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "إقليم ماشونالاند الغربية",
+          "bn": "ম্যাশনাল্যান্ড ওয়েস্ট প্রদেশ",
+          "de": "Provinz Mashonaland West",
+          "en": "Mashonaland West Province",
+          "es": "Mashonalandia Occidental",
+          "fr": "Mashonaland occidental",
+          "el": "Δυτική Μασοναλάνδη",
+          "hi": "मशोनालैंड पश्चिमी प्रांत",
+          "hu": null,
+          "id": "Mashonaland Barat",
+          "it": "provincia del Mashonaland Occidentale",
+          "ja": "西マショナランド州",
+          "ko": "서마쇼날랜드 주",
+          "nl": "Mashonaland West",
+          "pl": "Maszona Zachodnia",
+          "pt": "Mashonaland Oeste",
+          "ru": "Западный Машоналенд",
+          "sv": "Mashonaland West",
+          "tr": "Batı Mashonaland",
+          "vi": "Tỉnh Mashonaland West",
+          "zh": "西馬紹納蘭省"
+        },
+        "population": 1774465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.391,
+          -16.686
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zw",
+        "region_child": "zw-mc",
+        "area": 5.628000000000011,
+        "bounding_box": [
+          30.051,
+          -17.736,
+          32.731,
+          -15.636
+        ],
+        "point": [
+          31.391,
+          -16.686
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 19,
+          "ar": "مقاطعة ماشونالاند الوسطى",
+          "bn": "ম্যাশোনাল্যান্ড কেন্দ্রীয় প্রদেশ",
+          "de": "Provinz Mashonaland Central",
+          "en": "Mashonaland Central Province",
+          "es": "Mashonalandia Central",
+          "fr": "Mashonaland central",
+          "el": "Κεντρική Μασοναλάνδη",
+          "hi": "मशोनालैंड मध्य प्रांत",
+          "hu": null,
+          "id": "Mashonaland Pusat",
+          "it": "provincia del Mashonaland Centrale",
+          "ja": "中央マショナランド州",
+          "ko": "중앙마쇼날랜드 주",
+          "nl": "Mashonaland Central",
+          "pl": "Maszona Środkowa",
+          "pt": "Mashonaland Central",
+          "ru": "Центральный Машоналенд",
+          "sv": "Mashonaland Central",
+          "tr": "Mashonaland Merkez",
+          "vi": "Tỉnh Miền Trung Mashonaland",
+          "zh": "中馬紹納蘭省"
+        },
+        "population": 1268404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.666,
+          -17.976999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zw",
+        "region_child": "zw-me",
+        "area": 6.749540000000004,
+        "bounding_box": [
+          30.363,
+          -19.272,
+          32.969,
+          -16.682
+        ],
+        "point": [
+          31.666,
+          -17.976999999999997
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "إقليم ماشونالاند الشرقية",
+          "bn": "ম্যাশনাল্যান্ড পূর্ব প্রদেশ",
+          "de": "Provinz Mashonaland East",
+          "en": "Mashonaland East Province",
+          "es": "Mashonalandia Oriental",
+          "fr": "Mashonaland oriental",
+          "el": "Ανατολική Μασοναλάνδη",
+          "hi": "माशोनालैंड पूर्व प्रांत",
+          "hu": null,
+          "id": "Mashonaland Timur",
+          "it": "provincia del Mashonaland Orientale",
+          "ja": "東マショナランド州",
+          "ko": "동마쇼날랜드 주",
+          "nl": "Mashonaland East",
+          "pl": "Maszona Wschodnia",
+          "pt": "Mashonaland Este",
+          "ru": "Восточный Машоналенд",
+          "sv": "Mashonaland East",
+          "tr": "Doğu Mashonaland",
+          "vi": "Tỉnh Mashonaland East",
+          "zh": "東馬紹納蘭省"
+        },
+        "population": 1582606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1185,
+          -19.2875
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zw",
+        "region_child": "zw-ma",
+        "area": 7.4350769999999855,
+        "bounding_box": [
+          31.199,
+          -21.309,
+          33.038,
+          -17.266
+        ],
+        "point": [
+          32.1185,
+          -19.2875
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "إقليم مانيكالاند",
+          "bn": "মনিকাল্যান্ড প্রদেশ",
+          "de": "Provinz Manicaland",
+          "en": "Manicaland Province",
+          "es": "Manicalandia",
+          "fr": "Manicaland",
+          "el": "Μανικαλάνδη",
+          "hi": "मैनिकालैंड प्रांत",
+          "hu": null,
+          "id": "Manicaland",
+          "it": "provincia del Manicaland",
+          "ja": "マニカランド州",
+          "ko": "마니칼랜드 주",
+          "nl": "Manicaland",
+          "pl": "Manicaland",
+          "pt": "Manicaland",
+          "ru": "Маникаленд",
+          "sv": "Manicaland",
+          "tr": "Manicaland",
+          "vi": "Tỉnh Manicaland",
+          "zh": "馬尼卡蘭省"
+        },
+        "population": 1859973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.432000000000002,
+          -19.0925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zw",
+        "region_child": "zw-mi",
+        "area": 11.133454000000011,
+        "bounding_box": [
+          28.005,
+          -21.043,
+          30.859,
+          -17.142
+        ],
+        "point": [
+          29.432000000000002,
+          -19.0925
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إقليم ميدلاندس",
+          "bn": "মিডল্যান্ডস প্রদেশ",
+          "de": "Provinz Midlands",
+          "en": "Midlands Province",
+          "es": "Midlands",
+          "fr": "Province des Midlands",
+          "el": "Μίντλαντς",
+          "hi": "मिडलैंड्स प्रांत",
+          "hu": null,
+          "id": "Provinsi Midlands",
+          "it": "provincia delle Midland",
+          "ja": "ミッドランズ州",
+          "ko": "미들랜즈 주",
+          "nl": "Midlands",
+          "pl": "Midlands",
+          "pt": "Midlands",
+          "ru": "Мидлендс",
+          "sv": "Midlands",
+          "tr": "Midlands",
+          "vi": "Tỉnh Midlands",
+          "zh": "中部省"
+        },
+        "population": 1732705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0505,
+          -17.86
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zw",
+        "region_child": "zw-ha",
+        "area": 0.13308399999999934,
+        "bounding_box": [
+          30.879,
+          -18.054,
+          31.222,
+          -17.666
+        ],
+        "point": [
+          31.0505,
+          -17.86
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم هراري",
+          "bn": null,
+          "de": "Provinz Harare",
+          "en": "Harare Province",
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": "Harare",
+          "ru": "Хараре",
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 2317236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5565,
+          -20.134
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zw",
+        "region_child": "zw-bu",
+        "area": 0.058709999999999894,
+        "bounding_box": [
+          28.414,
+          -20.237,
+          28.699,
+          -20.031
+        ],
+        "point": [
+          28.5565,
+          -20.134
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "بولاوايو",
+          "bn": "বুলাওয়ে",
+          "de": "Bulawayo",
+          "en": "Bulawayo",
+          "es": "Bulawayo",
+          "fr": "Bulawayo",
+          "el": "Μπουλαουάγιο",
+          "hi": "बुलावायो",
+          "hu": "Bulawayo",
+          "id": "Bulawayo",
+          "it": "Bulawayo",
+          "ja": "ブラワヨ",
+          "ko": "불라와요",
+          "nl": "Bulawayo",
+          "pl": "Bulawayo",
+          "pt": "Bulawayo",
+          "ru": "Булавайо",
+          "sv": "Bulawayo",
+          "tr": "Bulawayo",
+          "vi": "Bulawayo",
+          "zh": "布拉瓦约"
+        },
+        "population": 620780
+      }
+    }
+  ]
+}

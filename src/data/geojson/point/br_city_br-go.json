@@ -1,0 +1,7415 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.674499999999995,
+          -17.5585
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "mineiros",
+        "area": 1.8275049999999988,
+        "bounding_box": [
+          -53.251,
+          -18.351,
+          -52.098,
+          -16.766
+        ],
+        "point": [
+          -52.674499999999995,
+          -17.5585
+        ],
+        "labels": {
+          "en": "Mineiros"
+        },
+        "population": 71989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0655,
+          -17.25
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santa rita do araguaia",
+        "area": 0.3044099999999969,
+        "bounding_box": [
+          -53.248,
+          -17.667,
+          -52.883,
+          -16.833
+        ],
+        "point": [
+          -53.0655,
+          -17.25
+        ],
+        "labels": {
+          "en": "Santa Rita do Araguaia"
+        },
+        "population": 13437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.626,
+          -18.383000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "chapadão do céu",
+        "area": 0.42182400000000037,
+        "bounding_box": [
+          -52.964,
+          -18.695,
+          -52.288,
+          -18.071
+        ],
+        "point": [
+          -52.626,
+          -18.383000000000003
+        ],
+        "labels": {
+          "en": "Chapadão do Céu"
+        },
+        "population": 13011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.706500000000005,
+          -17.3385
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "portelândia",
+        "area": 0.1033209999999997,
+        "bounding_box": [
+          -52.893,
+          -17.477,
+          -52.52,
+          -17.2
+        ],
+        "point": [
+          -52.706500000000005,
+          -17.3385
+        ],
+        "labels": {
+          "en": "Portelândia"
+        },
+        "population": 3999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.482,
+          -16.899
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "doverlândia",
+        "area": 0.5479919999999994,
+        "bounding_box": [
+          -52.836,
+          -17.286,
+          -52.128,
+          -16.512
+        ],
+        "point": [
+          -52.482,
+          -16.899
+        ],
+        "labels": {
+          "en": "Doverlândia"
+        },
+        "population": 7474
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.207,
+          -18.223
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "serranópolis",
+        "area": 0.9485879999999961,
+        "bounding_box": [
+          -52.784,
+          -18.634,
+          -51.63,
+          -17.812
+        ],
+        "point": [
+          -52.207,
+          -18.223
+        ],
+        "labels": {
+          "en": "Serranópolis"
+        },
+        "population": 8681
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4435,
+          -16.34
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "baliza",
+        "area": 0.25748399999999666,
+        "bounding_box": [
+          -52.693,
+          -16.598,
+          -52.194,
+          -16.082
+        ],
+        "point": [
+          -52.4435,
+          -16.34
+        ],
+        "labels": {
+          "en": "Baliza"
+        },
+        "population": 5921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2585,
+          -17.487000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "perolândia",
+        "area": 0.17787000000000147,
+        "bounding_box": [
+          -52.528,
+          -17.652,
+          -51.989,
+          -17.322
+        ],
+        "point": [
+          -52.2585,
+          -17.487000000000002
+        ],
+        "labels": {
+          "en": "Perolândia"
+        },
+        "population": 3117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.082,
+          -18.806
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "aporé",
+        "area": 0.5250079999999991,
+        "bounding_box": [
+          -52.5,
+          -19.12,
+          -51.664,
+          -18.492
+        ],
+        "point": [
+          -52.082,
+          -18.806
+        ],
+        "labels": {
+          "en": "Aporé"
+        },
+        "population": 4305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.743,
+          -16.976
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "caiapônia",
+        "area": 1.4193400000000016,
+        "bounding_box": [
+          -52.432,
+          -17.491,
+          -51.054,
+          -16.461
+        ],
+        "point": [
+          -51.743,
+          -16.976
+        ],
+        "labels": {
+          "en": "Caiapônia"
+        },
+        "population": 19029
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.090999999999994,
+          -15.988500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "aragarças",
+        "area": 0.19278000000000028,
+        "bounding_box": [
+          -52.361,
+          -16.167,
+          -51.821,
+          -15.81
+        ],
+        "point": [
+          -52.090999999999994,
+          -15.988500000000002
+        ],
+        "labels": {
+          "en": "Aragarças"
+        },
+        "population": 19253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.068,
+          -16.196
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "bom jardim de goiás",
+        "area": 0.2853840000000011,
+        "bounding_box": [
+          -52.321,
+          -16.478,
+          -51.815,
+          -15.914
+        ],
+        "point": [
+          -52.068,
+          -16.196
+        ],
+        "labels": {
+          "en": "Bom Jardim de Goiás"
+        },
+        "population": 8635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7305,
+          -17.9035
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "jataí",
+        "area": 1.4606189999999974,
+        "bounding_box": [
+          -52.306,
+          -18.538,
+          -51.155,
+          -17.269
+        ],
+        "point": [
+          -51.7305,
+          -17.9035
+        ],
+        "labels": {
+          "en": "Jataí"
+        },
+        "population": 102650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8575,
+          -16.3705
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "piranhas",
+        "area": 0.3340829999999993,
+        "bounding_box": [
+          -52.147,
+          -16.659,
+          -51.568,
+          -16.082
+        ],
+        "point": [
+          -51.8575,
+          -16.3705
+        ],
+        "labels": {
+          "en": "Piranhas"
+        },
+        "population": 10344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.325,
+          -18.89
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "itarumã",
+        "area": 1.0087159999999988,
+        "bounding_box": [
+          -51.924,
+          -19.311,
+          -50.726,
+          -18.469
+        ],
+        "point": [
+          -51.325,
+          -18.89
+        ],
+        "labels": {
+          "en": "Itarumã"
+        },
+        "population": 7290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.54,
+          -15.847999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "montes claros de goiás",
+        "area": 0.4922279999999974,
+        "bounding_box": [
+          -51.879,
+          -16.211,
+          -51.201,
+          -15.485
+        ],
+        "point": [
+          -51.54,
+          -15.847999999999999
+        ],
+        "labels": {
+          "en": "Montes Claros de Goiás"
+        },
+        "population": 7980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.605000000000004,
+          -16.3425
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "arenópolis",
+        "area": 0.2909280000000031,
+        "bounding_box": [
+          -51.837,
+          -16.656,
+          -51.373,
+          -16.029
+        ],
+        "point": [
+          -51.605000000000004,
+          -16.3425
+        ],
+        "labels": {
+          "en": "Arenópolis"
+        },
+        "population": 2692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.274,
+          -19.14
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "itajá",
+        "area": 0.646199999999999,
+        "bounding_box": [
+          -51.724,
+          -19.499,
+          -50.824,
+          -18.781
+        ],
+        "point": [
+          -51.274,
+          -19.14
+        ],
+        "labels": {
+          "en": "Itajá"
+        },
+        "population": 4918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.044,
+          -17.7185
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "rio verde",
+        "area": 1.7321460000000022,
+        "bounding_box": [
+          -51.733,
+          -18.347,
+          -50.355,
+          -17.09
+        ],
+        "point": [
+          -51.044,
+          -17.7185
+        ],
+        "labels": {
+          "en": "Rio Verde"
+        },
+        "population": 267026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2355,
+          -15.5275
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "jussara",
+        "area": 0.9931950000000005,
+        "bounding_box": [
+          -51.708,
+          -16.053,
+          -50.763,
+          -15.002
+        ],
+        "point": [
+          -51.2355,
+          -15.5275
+        ],
+        "labels": {
+          "en": "Jussara"
+        },
+        "population": 18193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.444500000000005,
+          -16.695999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "palestina de goiás",
+        "area": 0.20836200000000013,
+        "bounding_box": [
+          -51.67,
+          -16.927,
+          -51.219,
+          -16.465
+        ],
+        "point": [
+          -51.444500000000005,
+          -16.695999999999998
+        ],
+        "labels": {
+          "en": "Palestina de Goiás"
+        },
+        "population": 3447
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.364000000000004,
+          -16.198500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "diorama",
+        "area": 0.12952800000000017,
+        "bounding_box": [
+          -51.616,
+          -16.327,
+          -51.112,
+          -16.07
+        ],
+        "point": [
+          -51.364000000000004,
+          -16.198500000000003
+        ],
+        "labels": {
+          "en": "Diorama"
+        },
+        "population": 2433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.084,
+          -18.7325
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "caçu",
+        "area": 0.8018300000000004,
+        "bounding_box": [
+          -51.527,
+          -19.185,
+          -50.641,
+          -18.28
+        ],
+        "point": [
+          -51.084,
+          -18.7325
+        ],
+        "labels": {
+          "en": "Caçu"
+        },
+        "population": 16646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.239999999999995,
+          -17.244500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "montividiu",
+        "area": 0.3461499999999977,
+        "bounding_box": [
+          -51.541,
+          -17.532,
+          -50.939,
+          -16.957
+        ],
+        "point": [
+          -51.239999999999995,
+          -17.244500000000002
+        ],
+        "labels": {
+          "en": "Montividiu"
+        },
+        "population": 14472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2765,
+          -19.186500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "lagoa santa",
+        "area": 0.09112499999999946,
+        "bounding_box": [
+          -51.464,
+          -19.308,
+          -51.089,
+          -19.065
+        ],
+        "point": [
+          -51.2765,
+          -19.186500000000002
+        ],
+        "labels": {
+          "en": "Lagoa Santa"
+        },
+        "population": 1109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.284,
+          -18.2205
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "aparecida do rio doce",
+        "area": 0.09336599999999955,
+        "bounding_box": [
+          -51.455,
+          -18.357,
+          -51.113,
+          -18.084
+        ],
+        "point": [
+          -51.284,
+          -18.2205
+        ],
+        "labels": {
+          "en": "Aparecida do Rio Doce"
+        },
+        "population": 2450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.193,
+          -16.450499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "iporá",
+        "area": 0.18327399999999924,
+        "bounding_box": [
+          -51.44,
+          -16.636,
+          -50.946,
+          -16.265
+        ],
+        "point": [
+          -51.193,
+          -16.450499999999998
+        ],
+        "labels": {
+          "en": "Iporá"
+        },
+        "population": 31260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.217,
+          -15.6615
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santa fé de goiás",
+        "area": 0.22389600000000134,
+        "bounding_box": [
+          -51.445,
+          -15.907,
+          -50.989,
+          -15.416
+        ],
+        "point": [
+          -51.217,
+          -15.6615
+        ],
+        "labels": {
+          "en": "Santa Fé de Goiás"
+        },
+        "population": 5572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.065,
+          -16.688000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "ivolândia",
+        "area": 0.35938399999999976,
+        "bounding_box": [
+          -51.399,
+          -16.957,
+          -50.731,
+          -16.419
+        ],
+        "point": [
+          -51.065,
+          -16.688000000000002
+        ],
+        "labels": {
+          "en": "Ivolândia"
+        },
+        "population": 2393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.167500000000004,
+          -15.203
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "britânia",
+        "area": 0.2772419999999982,
+        "bounding_box": [
+          -51.409,
+          -15.49,
+          -50.926,
+          -14.916
+        ],
+        "point": [
+          -51.167500000000004,
+          -15.203
+        ],
+        "labels": {
+          "en": "Britânia"
+        },
+        "population": 5799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.995999999999995,
+          -18.602
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cachoeira alta",
+        "area": 0.31103999999999843,
+        "bounding_box": [
+          -51.239,
+          -18.922,
+          -50.753,
+          -18.282
+        ],
+        "point": [
+          -50.995999999999995,
+          -18.602
+        ],
+        "labels": {
+          "en": "Cachoeira Alta"
+        },
+        "population": 12955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.926,
+          -16.178
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "fazenda nova",
+        "area": 0.3147359999999996,
+        "bounding_box": [
+          -51.258,
+          -16.415,
+          -50.594,
+          -15.941
+        ],
+        "point": [
+          -50.926,
+          -16.178
+        ],
+        "labels": {
+          "en": "Fazenda Nova"
+        },
+        "population": 5725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.122,
+          -16.663
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "amorinópolis",
+        "area": 0.07808,
+        "bounding_box": [
+          -51.244,
+          -16.823,
+          -51.0,
+          -16.503
+        ],
+        "point": [
+          -51.122,
+          -16.663
+        ],
+        "labels": {
+          "en": "Amorinópolis"
+        },
+        "population": 3137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.054,
+          -16.1705
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "jaupaci",
+        "area": 0.09011799999999971,
+        "bounding_box": [
+          -51.211,
+          -16.314,
+          -50.897,
+          -16.027
+        ],
+        "point": [
+          -51.054,
+          -16.1705
+        ],
+        "labels": {
+          "en": "Jaupaci"
+        },
+        "population": 2764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9585,
+          -14.716
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "aruanã",
+        "area": 0.5324400000000029,
+        "bounding_box": [
+          -51.176,
+          -15.328,
+          -50.741,
+          -14.104
+        ],
+        "point": [
+          -50.9585,
+          -14.716
+        ],
+        "labels": {
+          "en": "Aruanã"
+        },
+        "population": 11005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.792,
+          -15.739
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "itapirapuã",
+        "area": 0.39753600000000033,
+        "bounding_box": [
+          -51.12,
+          -16.042,
+          -50.464,
+          -15.436
+        ],
+        "point": [
+          -50.792,
+          -15.739
+        ],
+        "labels": {
+          "en": "Itapirapuã"
+        },
+        "population": 5666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.644499999999994,
+          -17.051000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "paraúna",
+        "area": 0.6300400000000018,
+        "bounding_box": [
+          -51.059,
+          -17.431,
+          -50.23,
+          -16.671
+        ],
+        "point": [
+          -50.644499999999994,
+          -17.051000000000002
+        ],
+        "labels": {
+          "en": "Paraúna"
+        },
+        "population": 10986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.884,
+          -16.3555
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "israelândia",
+        "area": 0.11247600000000171,
+        "bounding_box": [
+          -51.066,
+          -16.51,
+          -50.702,
+          -16.201
+        ],
+        "point": [
+          -50.884,
+          -16.3555
+        ],
+        "labels": {
+          "en": "Israelândia"
+        },
+        "population": 2784
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.793,
+          -15.31
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "matrinchã",
+        "area": 0.31910400000000144,
+        "bounding_box": [
+          -51.07,
+          -15.598,
+          -50.516,
+          -15.022
+        ],
+        "point": [
+          -50.793,
+          -15.31
+        ],
+        "labels": {
+          "en": "Matrinchã"
+        },
+        "population": 4299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5305,
+          -18.4525
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "quirinópolis",
+        "area": 0.5530849999999997,
+        "bounding_box": [
+          -50.966,
+          -18.77,
+          -50.095,
+          -18.135
+        ],
+        "point": [
+          -50.5305,
+          -18.4525
+        ],
+        "labels": {
+          "en": "Quirinópolis"
+        },
+        "population": 51140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.787,
+          -16.508000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "moiporá",
+        "area": 0.08646399999999911,
+        "bounding_box": [
+          -50.98,
+          -16.62,
+          -50.594,
+          -16.396
+        ],
+        "point": [
+          -50.787,
+          -16.508000000000003
+        ],
+        "labels": {
+          "en": "Moiporá"
+        },
+        "population": 1530
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.595,
+          -18.805
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "paranaiguara",
+        "area": 0.1856520000000006,
+        "bounding_box": [
+          -50.838,
+          -18.996,
+          -50.352,
+          -18.614
+        ],
+        "point": [
+          -50.595,
+          -18.805
+        ],
+        "labels": {
+          "en": "Paranaiguara"
+        },
+        "population": 9471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.590999999999994,
+          -14.8325
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "mozarlândia",
+        "area": 0.25862400000000013,
+        "bounding_box": [
+          -50.879,
+          -15.057,
+          -50.303,
+          -14.608
+        ],
+        "point": [
+          -50.590999999999994,
+          -14.8325
+        ],
+        "labels": {
+          "en": "Mozarlândia"
+        },
+        "population": 16052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.511,
+          -14.0275
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "nova crixás",
+        "area": 1.0501739999999993,
+        "bounding_box": [
+          -50.88,
+          -14.739,
+          -50.142,
+          -13.316
+        ],
+        "point": [
+          -50.511,
+          -14.0275
+        ],
+        "labels": {
+          "en": "Nova Crixás"
+        },
+        "population": 12794
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.701,
+          -16.713
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cachoeira de goiás",
+        "area": 0.0589679999999984,
+        "bounding_box": [
+          -50.818,
+          -16.839,
+          -50.584,
+          -16.587
+        ],
+        "point": [
+          -50.701,
+          -16.713
+        ],
+        "labels": {
+          "en": "Cachoeira de Goiás"
+        },
+        "population": 1347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.6475,
+          -16.055500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "novo brasil",
+        "area": 0.12459300000000172,
+        "bounding_box": [
+          -50.822,
+          -16.234,
+          -50.473,
+          -15.877
+        ],
+        "point": [
+          -50.6475,
+          -16.055500000000002
+        ],
+        "labels": {
+          "en": "Novo Brasil"
+        },
+        "population": 2973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.433,
+          -15.1355
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "araguapaz",
+        "area": 0.3733240000000026,
+        "bounding_box": [
+          -50.831,
+          -15.37,
+          -50.035,
+          -14.901
+        ],
+        "point": [
+          -50.433,
+          -15.1355
+        ],
+        "labels": {
+          "en": "Araguapaz"
+        },
+        "population": 7725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56,
+          -17.787
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santa helena de goiás",
+        "area": 0.1668400000000006,
+        "bounding_box": [
+          -50.775,
+          -17.981,
+          -50.345,
+          -17.593
+        ],
+        "point": [
+          -50.56,
+          -17.787
+        ],
+        "labels": {
+          "en": "Santa Helena de Goiás"
+        },
+        "population": 38499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.634,
+          -17.518
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santo antônio da barra",
+        "area": 0.06815999999999829,
+        "bounding_box": [
+          -50.754,
+          -17.66,
+          -50.514,
+          -17.376
+        ],
+        "point": [
+          -50.634,
+          -17.518
+        ],
+        "labels": {
+          "en": "Santo Antônio da Barra"
+        },
+        "population": 4825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5905,
+          -19.016
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "são simão",
+        "area": 0.05734000000000064,
+        "bounding_box": [
+          -50.708,
+          -19.138,
+          -50.473,
+          -18.894
+        ],
+        "point": [
+          -50.5905,
+          -19.016
+        ],
+        "labels": {
+          "en": "São Simão"
+        },
+        "population": 22245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4075,
+          -15.446
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "faina",
+        "area": 0.2730339999999997,
+        "bounding_box": [
+          -50.731,
+          -15.657,
+          -50.084,
+          -15.235
+        ],
+        "point": [
+          -50.4075,
+          -15.446
+        ],
+        "labels": {
+          "en": "Faina"
+        },
+        "population": 6351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.573,
+          -16.361
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "córrego do ouro",
+        "area": 0.0703999999999997,
+        "bounding_box": [
+          -50.683,
+          -16.521,
+          -50.463,
+          -16.201
+        ],
+        "point": [
+          -50.573,
+          -16.361
+        ],
+        "labels": {
+          "en": "Córrego do Ouro"
+        },
+        "population": 2304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.510999999999996,
+          -16.676000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "aurilândia",
+        "area": 0.10260000000000215,
+        "bounding_box": [
+          -50.661,
+          -16.847,
+          -50.361,
+          -16.505
+        ],
+        "point": [
+          -50.510999999999996,
+          -16.676000000000002
+        ],
+        "labels": {
+          "en": "Aurilândia"
+        },
+        "population": 3138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2205,
+          -15.8385
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "goiás",
+        "area": 0.48023900000000136,
+        "bounding_box": [
+          -50.647,
+          -16.12,
+          -49.794,
+          -15.557
+        ],
+        "point": [
+          -50.2205,
+          -15.8385
+        ],
+        "labels": {
+          "en": "Goiás"
+        },
+        "population": 22538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.372,
+          -18.152
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "castelândia",
+        "area": 0.07801600000000165,
+        "bounding_box": [
+          -50.584,
+          -18.244,
+          -50.16,
+          -18.06
+        ],
+        "point": [
+          -50.372,
+          -18.152
+        ],
+        "labels": {
+          "en": "Castelândia"
+        },
+        "population": 3439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3125,
+          -17.423000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "acreúna",
+        "area": 0.23166000000000211,
+        "bounding_box": [
+          -50.56,
+          -17.657,
+          -50.065,
+          -17.189
+        ],
+        "point": [
+          -50.3125,
+          -17.423000000000002
+        ],
+        "labels": {
+          "en": "Acreúna"
+        },
+        "population": 22492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.214,
+          -12.986
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "são miguel do araguaia",
+        "area": 0.9408719999999996,
+        "bounding_box": [
+          -50.612,
+          -13.577,
+          -49.816,
+          -12.395
+        ],
+        "point": [
+          -50.214,
+          -12.986
+        ],
+        "labels": {
+          "en": "São Miguel do Araguaia"
+        },
+        "population": 21761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.36,
+          -16.461
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "são luís de montes belos",
+        "area": 0.13728000000000032,
+        "bounding_box": [
+          -50.555,
+          -16.637,
+          -50.165,
+          -16.285
+        ],
+        "point": [
+          -50.36,
+          -16.461
+        ],
+        "labels": {
+          "en": "São Luís de Montes Belos"
+        },
+        "population": 34208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.456,
+          -16.1675
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "buriti de goiás",
+        "area": 0.03737000000000144,
+        "bounding_box": [
+          -50.557,
+          -16.26,
+          -50.355,
+          -16.075
+        ],
+        "point": [
+          -50.456,
+          -16.1675
+        ],
+        "labels": {
+          "en": "Buriti de Goiás"
+        },
+        "population": 2475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3735,
+          -16.325499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "sanclerlândia",
+        "area": 0.1258810000000016,
+        "bounding_box": [
+          -50.545,
+          -16.509,
+          -50.202,
+          -16.142
+        ],
+        "point": [
+          -50.3735,
+          -16.325499999999998
+        ],
+        "labels": {
+          "en": "Sanclerlândia"
+        },
+        "population": 7595
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.346999999999994,
+          -18.043
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "maurilândia",
+        "area": 0.0736000000000002,
+        "bounding_box": [
+          -50.507,
+          -18.158,
+          -50.187,
+          -17.928
+        ],
+        "point": [
+          -50.346999999999994,
+          -18.043
+        ],
+        "labels": {
+          "en": "Maurilândia"
+        },
+        "population": 14784
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.312,
+          -17.798000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "turvelândia",
+        "area": 0.1537799999999984,
+        "bounding_box": [
+          -50.477,
+          -18.031,
+          -50.147,
+          -17.565
+        ],
+        "point": [
+          -50.312,
+          -17.798000000000002
+        ],
+        "labels": {
+          "en": "Turvelândia"
+        },
+        "population": 5467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.349999999999994,
+          -16.625500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "firminópolis",
+        "area": 0.10025199999999905,
+        "bounding_box": [
+          -50.492,
+          -16.802,
+          -50.208,
+          -16.449
+        ],
+        "point": [
+          -50.349999999999994,
+          -16.625500000000002
+        ],
+        "labels": {
+          "en": "Firminópolis"
+        },
+        "population": 13054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.369,
+          -16.805500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "são joão da paraúna",
+        "area": 0.03898199999999898,
+        "bounding_box": [
+          -50.458,
+          -16.915,
+          -50.28,
+          -16.696
+        ],
+        "point": [
+          -50.369,
+          -16.805500000000002
+        ],
+        "labels": {
+          "en": "São João da Paraúna"
+        },
+        "population": 1867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.201499999999996,
+          -13.778
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "mundo novo",
+        "area": 0.2745900000000027,
+        "bounding_box": [
+          -50.484,
+          -14.021,
+          -49.919,
+          -13.535
+        ],
+        "point": [
+          -50.201499999999996,
+          -13.778
+        ],
+        "labels": {
+          "en": "Mundo Novo"
+        },
+        "population": 5192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.071,
+          -14.6305
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "crixás",
+        "area": 0.7622939999999971,
+        "bounding_box": [
+          -50.448,
+          -15.136,
+          -49.694,
+          -14.125
+        ],
+        "point": [
+          -50.071,
+          -14.6305
+        ],
+        "labels": {
+          "en": "Crixás"
+        },
+        "population": 16981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.159499999999994,
+          -16.178
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "mossâmedes",
+        "area": 0.13257799999999983,
+        "bounding_box": [
+          -50.379,
+          -16.329,
+          -49.94,
+          -16.027
+        ],
+        "point": [
+          -50.159499999999994,
+          -16.178
+        ],
+        "labels": {
+          "en": "Mossâmedes"
+        },
+        "population": 4307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.158500000000004,
+          -18.504
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "gouvelândia",
+        "area": 0.09396000000000085,
+        "bounding_box": [
+          -50.289,
+          -18.684,
+          -50.028,
+          -18.324
+        ],
+        "point": [
+          -50.158500000000004,
+          -18.504
+        ],
+        "labels": {
+          "en": "Gouvelândia"
+        },
+        "population": 6086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.134,
+          -17.922
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "porteirão",
+        "area": 0.09845200000000003,
+        "bounding_box": [
+          -50.297,
+          -18.073,
+          -49.971,
+          -17.771
+        ],
+        "point": [
+          -50.134,
+          -17.922
+        ],
+        "labels": {
+          "en": "Porteirão"
+        },
+        "population": 3967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.171,
+          -17.128500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "jandaia",
+        "area": 0.12905400000000045,
+        "bounding_box": [
+          -50.308,
+          -17.364,
+          -50.034,
+          -16.893
+        ],
+        "point": [
+          -50.171,
+          -17.128500000000003
+        ],
+        "labels": {
+          "en": "Jandaia"
+        },
+        "population": 6017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.201499999999996,
+          -16.808999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "palminópolis",
+        "area": 0.052260000000000445,
+        "bounding_box": [
+          -50.302,
+          -16.939,
+          -50.101,
+          -16.679
+        ],
+        "point": [
+          -50.201499999999996,
+          -16.808999999999997
+        ],
+        "labels": {
+          "en": "Palminópolis"
+        },
+        "population": 3584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.123000000000005,
+          -16.577
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "turvânia",
+        "area": 0.06199999999999939,
+        "bounding_box": [
+          -50.247,
+          -16.702,
+          -49.999,
+          -16.452
+        ],
+        "point": [
+          -50.123000000000005,
+          -16.577
+        ],
+        "labels": {
+          "en": "Turvânia"
+        },
+        "population": 4557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.189,
+          -16.386
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "adelândia",
+        "area": 0.020183999999999883,
+        "bounding_box": [
+          -50.247,
+          -16.473,
+          -50.131,
+          -16.299
+        ],
+        "point": [
+          -50.189,
+          -16.386
+        ],
+        "labels": {
+          "en": "Adelândia"
+        },
+        "population": 2549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.960499999999996,
+          -17.505499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "edéia",
+        "area": 0.3008970000000004,
+        "bounding_box": [
+          -50.21,
+          -17.807,
+          -49.711,
+          -17.204
+        ],
+        "point": [
+          -49.960499999999996,
+          -17.505499999999998
+        ],
+        "labels": {
+          "en": "Edéia"
+        },
+        "population": 12428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.907,
+          -13.541
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "bonópolis",
+        "area": 0.2767359999999985,
+        "bounding_box": [
+          -50.275,
+          -13.729,
+          -49.539,
+          -13.353
+        ],
+        "point": [
+          -49.907,
+          -13.541
+        ],
+        "labels": {
+          "en": "Bonópolis"
+        },
+        "population": 4715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.865,
+          -18.1985
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "bom jesus de goiás",
+        "area": 0.2525859999999992,
+        "bounding_box": [
+          -50.188,
+          -18.394,
+          -49.542,
+          -18.003
+        ],
+        "point": [
+          -49.865,
+          -18.1985
+        ],
+        "labels": {
+          "en": "Bom Jesus de Goiás"
+        },
+        "population": 24440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.667500000000004,
+          -17.990499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "goiatuba",
+        "area": 0.43315500000000207,
+        "bounding_box": [
+          -50.17,
+          -18.206,
+          -49.165,
+          -17.775
+        ],
+        "point": [
+          -49.667500000000004,
+          -17.990499999999997
+        ],
+        "labels": {
+          "en": "Goiatuba"
+        },
+        "population": 33917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.957,
+          -16.3945
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "anicuns",
+        "area": 0.128828,
+        "bounding_box": [
+          -50.171,
+          -16.545,
+          -49.743,
+          -16.244
+        ],
+        "point": [
+          -49.957,
+          -16.3945
+        ],
+        "labels": {
+          "en": "Anicuns"
+        },
+        "population": 21723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.929,
+          -17.2075
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "indiara",
+        "area": 0.2220660000000003,
+        "bounding_box": [
+          -50.148,
+          -17.461,
+          -49.71,
+          -16.954
+        ],
+        "point": [
+          -49.929,
+          -17.2075
+        ],
+        "labels": {
+          "en": "Indiara"
+        },
+        "population": 15839
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.938,
+          -16.837
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "palmeiras de goiás",
+        "area": 0.21735999999999878,
+        "bounding_box": [
+          -50.158,
+          -17.084,
+          -49.718,
+          -16.59
+        ],
+        "point": [
+          -49.938,
+          -16.837
+        ],
+        "labels": {
+          "en": "Palmeiras de Goiás"
+        },
+        "population": 30501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.930499999999995,
+          -15.569500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "itapuranga",
+        "area": 0.20092500000000063,
+        "bounding_box": [
+          -50.168,
+          -15.781,
+          -49.693,
+          -15.358
+        ],
+        "point": [
+          -49.930499999999995,
+          -15.569500000000001
+        ],
+        "labels": {
+          "en": "Itapuranga"
+        },
+        "population": 25690
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0145,
+          -15.311
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "morro agudo de goiás",
+        "area": 0.04432200000000062,
+        "bounding_box": [
+          -50.139,
+          -15.4,
+          -49.89,
+          -15.222
+        ],
+        "point": [
+          -50.0145,
+          -15.311
+        ],
+        "labels": {
+          "en": "Morro Agudo de Goiás"
+        },
+        "population": 2233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0625,
+          -15.682
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "guaraíta",
+        "area": 0.03073999999999912,
+        "bounding_box": [
+          -50.135,
+          -15.788,
+          -49.99,
+          -15.576
+        ],
+        "point": [
+          -50.0625,
+          -15.682
+        ],
+        "labels": {
+          "en": "Guaraíta"
+        },
+        "population": 2025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8855,
+          -17.738
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "vicentinópolis",
+        "area": 0.12976600000000155,
+        "bounding_box": [
+          -50.087,
+          -17.899,
+          -49.684,
+          -17.577
+        ],
+        "point": [
+          -49.8855,
+          -17.738
+        ],
+        "labels": {
+          "en": "Vicentinópolis"
+        },
+        "population": 9022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.969,
+          -14.136
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "uirapuru",
+        "area": 0.1905119999999999,
+        "bounding_box": [
+          -50.158,
+          -14.388,
+          -49.78,
+          -13.884
+        ],
+        "point": [
+          -49.969,
+          -14.136
+        ],
+        "labels": {
+          "en": "Uirapuru"
+        },
+        "population": 2832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9035,
+          -18.498
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "inaciolândia",
+        "area": 0.09482999999999919,
+        "bounding_box": [
+          -50.067,
+          -18.643,
+          -49.74,
+          -18.353
+        ],
+        "point": [
+          -49.9035,
+          -18.498
+        ],
+        "labels": {
+          "en": "Inaciolândia"
+        },
+        "population": 6208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9855,
+          -16.2745
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "americano do brasil",
+        "area": 0.027006999999999576,
+        "bounding_box": [
+          -50.105,
+          -16.331,
+          -49.866,
+          -16.218
+        ],
+        "point": [
+          -49.9855,
+          -16.2745
+        ],
+        "labels": {
+          "en": "Americano do Brasil"
+        },
+        "population": 6154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8665,
+          -15.197
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "rubiataba",
+        "area": 0.10773000000000078,
+        "bounding_box": [
+          -50.066,
+          -15.332,
+          -49.667,
+          -15.062
+        ],
+        "point": [
+          -49.8665,
+          -15.197
+        ],
+        "labels": {
+          "en": "Rubiataba"
+        },
+        "population": 19686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.942499999999995,
+          -15.0445
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "nova américa",
+        "area": 0.037683000000000466,
+        "bounding_box": [
+          -50.061,
+          -15.124,
+          -49.824,
+          -14.965
+        ],
+        "point": [
+          -49.942499999999995,
+          -15.0445
+        ],
+        "labels": {
+          "en": "Nova América"
+        },
+        "population": 2343
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8395,
+          -16.115000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "itaberaí",
+        "area": 0.26356199999999913,
+        "bounding_box": [
+          -50.041,
+          -16.442,
+          -49.638,
+          -15.788
+        ],
+        "point": [
+          -49.8395,
+          -16.115000000000002
+        ],
+        "labels": {
+          "en": "Itaberaí"
+        },
+        "population": 44944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.468500000000006,
+          -18.3755
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "itumbiara",
+        "area": 0.5533169999999984,
+        "bounding_box": [
+          -49.978,
+          -18.647,
+          -48.959,
+          -18.104
+        ],
+        "point": [
+          -49.468500000000006,
+          -18.3755
+        ],
+        "labels": {
+          "en": "Itumbiara"
+        },
+        "population": 106299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8665,
+          -16.583
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "nazário",
+        "area": 0.03822600000000061,
+        "bounding_box": [
+          -50.005,
+          -16.652,
+          -49.728,
+          -16.514
+        ],
+        "point": [
+          -49.8665,
+          -16.583
+        ],
+        "labels": {
+          "en": "Nazário"
+        },
+        "population": 9507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7735,
+          -17.405
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "edealina",
+        "area": 0.1273739999999993,
+        "bounding_box": [
+          -49.923,
+          -17.618,
+          -49.624,
+          -17.192
+        ],
+        "point": [
+          -49.7735,
+          -17.405
+        ],
+        "labels": {
+          "en": "Edealina"
+        },
+        "population": 3698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.592,
+          -13.841999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "amaralina",
+        "area": 0.24600799999999937,
+        "bounding_box": [
+          -49.974,
+          -14.003,
+          -49.21,
+          -13.681
+        ],
+        "point": [
+          -49.592,
+          -13.841999999999999
+        ],
+        "labels": {
+          "en": "Amaralina"
+        },
+        "population": 3645
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.674499999999995,
+          -13.2405
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "novo planalto",
+        "area": 0.32566299999999815,
+        "bounding_box": [
+          -49.98,
+          -13.507,
+          -49.369,
+          -12.974
+        ],
+        "point": [
+          -49.674499999999995,
+          -13.2405
+        ],
+        "labels": {
+          "en": "Novo Planalto"
+        },
+        "population": 4532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.811,
+          -15.733
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "heitoraí",
+        "area": 0.03860800000000055,
+        "bounding_box": [
+          -49.938,
+          -15.809,
+          -49.684,
+          -15.657
+        ],
+        "point": [
+          -49.811,
+          -15.733
+        ],
+        "labels": {
+          "en": "Heitoraí"
+        },
+        "population": 3728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.836,
+          -15.352
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "são patrício",
+        "area": 0.0227520000000002,
+        "bounding_box": [
+          -49.915,
+          -15.424,
+          -49.757,
+          -15.28
+        ],
+        "point": [
+          -49.836,
+          -15.352
+        ],
+        "labels": {
+          "en": "São Patrício"
+        },
+        "population": 2116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.747,
+          -17.104
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cezarina",
+        "area": 0.10773600000000055,
+        "bounding_box": [
+          -49.881,
+          -17.305,
+          -49.613,
+          -16.903
+        ],
+        "point": [
+          -49.747,
+          -17.104
+        ],
+        "labels": {
+          "en": "Cezarina"
+        },
+        "population": 8737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.738,
+          -15.4185
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "carmo do rio verde",
+        "area": 0.07700999999999959,
+        "bounding_box": [
+          -49.889,
+          -15.546,
+          -49.587,
+          -15.291
+        ],
+        "point": [
+          -49.738,
+          -15.4185
+        ],
+        "labels": {
+          "en": "Carmo do Rio Verde"
+        },
+        "population": 9958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.560500000000005,
+          -17.537
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "pontalina",
+        "area": 0.2592100000000009,
+        "bounding_box": [
+          -49.825,
+          -17.782,
+          -49.296,
+          -17.292
+        ],
+        "point": [
+          -49.560500000000005,
+          -17.537
+        ],
+        "labels": {
+          "en": "Pontalina"
+        },
+        "population": 17652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6845,
+          -14.3105
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santa terezinha de goiás",
+        "area": 0.3134430000000012,
+        "bounding_box": [
+          -49.896,
+          -14.681,
+          -49.473,
+          -13.94
+        ],
+        "point": [
+          -49.6845,
+          -14.3105
+        ],
+        "labels": {
+          "en": "Santa Terezinha de Goiás"
+        },
+        "population": 8776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7655,
+          -16.488500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "avelinópolis",
+        "area": 0.026969000000000305,
+        "bounding_box": [
+          -49.84,
+          -16.579,
+          -49.691,
+          -16.398
+        ],
+        "point": [
+          -49.7655,
+          -16.488500000000002
+        ],
+        "labels": {
+          "en": "Avelinópolis"
+        },
+        "population": 2344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.634,
+          -14.9205
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "itapaci",
+        "area": 0.14895000000000072,
+        "bounding_box": [
+          -49.859,
+          -15.086,
+          -49.409,
+          -14.755
+        ],
+        "point": [
+          -49.634,
+          -14.9205
+        ],
+        "labels": {
+          "en": "Itapaci"
+        },
+        "population": 24427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.599999999999994,
+          -18.490499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cachoeira dourada",
+        "area": 0.08935600000000085,
+        "bounding_box": [
+          -49.778,
+          -18.616,
+          -49.422,
+          -18.365
+        ],
+        "point": [
+          -49.599999999999994,
+          -18.490499999999997
+        ],
+        "labels": {
+          "en": "Cachoeira Dourada"
+        },
+        "population": 7951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.604,
+          -17.77
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "joviânia",
+        "area": 0.08398399999999855,
+        "bounding_box": [
+          -49.785,
+          -17.886,
+          -49.423,
+          -17.654
+        ],
+        "point": [
+          -49.604,
+          -17.77
+        ],
+        "labels": {
+          "en": "Joviânia"
+        },
+        "population": 7423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6885,
+          -16.781
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "campestre de goiás",
+        "area": 0.04366000000000066,
+        "bounding_box": [
+          -49.781,
+          -16.899,
+          -49.596,
+          -16.663
+        ],
+        "point": [
+          -49.6885,
+          -16.781
+        ],
+        "labels": {
+          "en": "Campestre de Goiás"
+        },
+        "population": 3637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.729,
+          -14.702
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "guarinos",
+        "area": 0.0913919999999999,
+        "bounding_box": [
+          -49.825,
+          -14.94,
+          -49.633,
+          -14.464
+        ],
+        "point": [
+          -49.729,
+          -14.702
+        ],
+        "labels": {
+          "en": "Guarinos"
+        },
+        "population": 1861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3575,
+          -14.024000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "mara rosa",
+        "area": 0.37357600000000235,
+        "bounding_box": [
+          -49.834,
+          -14.22,
+          -48.881,
+          -13.828
+        ],
+        "point": [
+          -49.3575,
+          -14.024000000000001
+        ],
+        "labels": {
+          "en": "Mara Rosa"
+        },
+        "population": 7236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.713,
+          -16.366
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "araçu",
+        "area": 0.02568000000000081,
+        "bounding_box": [
+          -49.773,
+          -16.473,
+          -49.653,
+          -16.259
+        ],
+        "point": [
+          -49.713,
+          -16.366
+        ],
+        "labels": {
+          "en": "Araçu"
+        },
+        "population": 3530
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6105,
+          -17.085
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "varjão",
+        "area": 0.08093800000000075,
+        "bounding_box": [
+          -49.752,
+          -17.228,
+          -49.469,
+          -16.942
+        ],
+        "point": [
+          -49.6105,
+          -17.085
+        ],
+        "labels": {
+          "en": "Varjão"
+        },
+        "population": 3806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.592,
+          -16.917499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "guapó",
+        "area": 0.09137400000000014,
+        "bounding_box": [
+          -49.749,
+          -17.063,
+          -49.435,
+          -16.772
+        ],
+        "point": [
+          -49.592,
+          -16.917499999999997
+        ],
+        "labels": {
+          "en": "Guapó"
+        },
+        "population": 14138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.581,
+          -16.217
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "itauçu",
+        "area": 0.0807119999999991,
+        "bounding_box": [
+          -49.758,
+          -16.331,
+          -49.404,
+          -16.103
+        ],
+        "point": [
+          -49.581,
+          -16.217
+        ],
+        "labels": {
+          "en": "Itauçu"
+        },
+        "population": 8814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.676500000000004,
+          -15.146
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "ipiranga de goiás",
+        "area": 0.041302000000001136,
+        "bounding_box": [
+          -49.773,
+          -15.253,
+          -49.58,
+          -15.039
+        ],
+        "point": [
+          -49.676500000000004,
+          -15.146
+        ],
+        "labels": {
+          "en": "Ipiranga de Goiás"
+        },
+        "population": 3008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6595,
+          -15.272
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "ceres",
+        "area": 0.039694,
+        "bounding_box": [
+          -49.771,
+          -15.361,
+          -49.548,
+          -15.183
+        ],
+        "point": [
+          -49.6595,
+          -15.272
+        ],
+        "labels": {
+          "en": "Ceres"
+        },
+        "population": 21658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6665,
+          -16.597
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santa bárbara de goiás",
+        "area": 0.02173599999999974,
+        "bounding_box": [
+          -49.738,
+          -16.673,
+          -49.595,
+          -16.521
+        ],
+        "point": [
+          -49.6665,
+          -16.597
+        ],
+        "labels": {
+          "en": "Santa Bárbara de Goiás"
+        },
+        "population": 6658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6445,
+          -15.6145
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "uruana",
+        "area": 0.08967499999999952,
+        "bounding_box": [
+          -49.75,
+          -15.827,
+          -49.539,
+          -15.402
+        ],
+        "point": [
+          -49.6445,
+          -15.6145
+        ],
+        "labels": {
+          "en": "Uruana"
+        },
+        "population": 13902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.66,
+          -14.1995
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "campos verdes",
+        "area": 0.06646999999999903,
+        "bounding_box": [
+          -49.775,
+          -14.344,
+          -49.545,
+          -14.055
+        ],
+        "point": [
+          -49.66,
+          -14.1995
+        ],
+        "labels": {
+          "en": "Campos Verdes"
+        },
+        "population": 3152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5455,
+          -14.535499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "pilar de goiás",
+        "area": 0.25565100000000057,
+        "bounding_box": [
+          -49.736,
+          -14.871,
+          -49.355,
+          -14.2
+        ],
+        "point": [
+          -49.5455,
+          -14.535499999999999
+        ],
+        "labels": {
+          "en": "Pilar de Goiás"
+        },
+        "population": 2272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.537,
+          -16.65
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "trindade",
+        "area": 0.10175200000000055,
+        "bounding_box": [
+          -49.695,
+          -16.811,
+          -49.379,
+          -16.489
+        ],
+        "point": [
+          -49.537,
+          -16.65
+        ],
+        "labels": {
+          "en": "Trindade"
+        },
+        "population": 137178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.571,
+          -16.454
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "caturaí",
+        "area": 0.027499999999999858,
+        "bounding_box": [
+          -49.696,
+          -16.509,
+          -49.446,
+          -16.399
+        ],
+        "point": [
+          -49.571,
+          -16.454
+        ],
+        "labels": {
+          "en": "Caturaí"
+        },
+        "population": 4812
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6145,
+          -15.9265
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "itaguari",
+        "area": 0.017834999999999414,
+        "bounding_box": [
+          -49.687,
+          -15.988,
+          -49.542,
+          -15.865
+        ],
+        "point": [
+          -49.6145,
+          -15.9265
+        ],
+        "labels": {
+          "en": "Itaguari"
+        },
+        "population": 4643
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.611999999999995,
+          -15.762
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "itaguaru",
+        "area": 0.03911600000000081,
+        "bounding_box": [
+          -49.689,
+          -15.889,
+          -49.535,
+          -15.635
+        ],
+        "point": [
+          -49.611999999999995,
+          -15.762
+        ],
+        "labels": {
+          "en": "Itaguaru"
+        },
+        "population": 5207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6005,
+          -16.048000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "taquaral de goiás",
+        "area": 0.025759999999999103,
+        "bounding_box": [
+          -49.681,
+          -16.128,
+          -49.52,
+          -15.968
+        ],
+        "point": [
+          -49.6005,
+          -16.048000000000002
+        ],
+        "labels": {
+          "en": "Taquaral de Goiás"
+        },
+        "population": 3501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2695,
+          -13.28
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "porangatu",
+        "area": 0.8829799999999967,
+        "bounding_box": [
+          -49.72,
+          -13.77,
+          -48.819,
+          -12.79
+        ],
+        "point": [
+          -49.2695,
+          -13.28
+        ],
+        "labels": {
+          "en": "Porangatu"
+        },
+        "population": 45287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.516999999999996,
+          -16.308999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "inhumas",
+        "area": 0.07459199999999952,
+        "bounding_box": [
+          -49.665,
+          -16.435,
+          -49.369,
+          -16.183
+        ],
+        "point": [
+          -49.516999999999996,
+          -16.308999999999997
+        ],
+        "labels": {
+          "en": "Inhumas"
+        },
+        "population": 53332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.453,
+          -17.3265
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "mairipotaba",
+        "area": 0.12850199999999956,
+        "bounding_box": [
+          -49.63,
+          -17.508,
+          -49.276,
+          -17.145
+        ],
+        "point": [
+          -49.453,
+          -17.3265
+        ],
+        "labels": {
+          "en": "Mairipotaba"
+        },
+        "population": 2309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.472,
+          -16.4895
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "goianira",
+        "area": 0.05036200000000045,
+        "bounding_box": [
+          -49.621,
+          -16.574,
+          -49.323,
+          -16.405
+        ],
+        "point": [
+          -49.472,
+          -16.4895
+        ],
+        "labels": {
+          "en": "Goianira"
+        },
+        "population": 49720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.481,
+          -15.08
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "nova glória",
+        "area": 0.06863999999999912,
+        "bounding_box": [
+          -49.637,
+          -15.19,
+          -49.325,
+          -14.97
+        ],
+        "point": [
+          -49.481,
+          -15.08
+        ],
+        "labels": {
+          "en": "Nova Glória"
+        },
+        "population": 8165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.367999999999995,
+          -15.72
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "jaraguá",
+        "area": 0.2726399999999989,
+        "bounding_box": [
+          -49.608,
+          -16.004,
+          -49.128,
+          -15.436
+        ],
+        "point": [
+          -49.367999999999995,
+          -15.72
+        ],
+        "labels": {
+          "en": "Jaraguá"
+        },
+        "population": 52602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3925,
+          -18.2095
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "panamá",
+        "area": 0.08117099999999974,
+        "bounding_box": [
+          -49.548,
+          -18.34,
+          -49.237,
+          -18.079
+        ],
+        "point": [
+          -49.3925,
+          -18.2095
+        ],
+        "labels": {
+          "en": "Panamá"
+        },
+        "population": 2575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5305,
+          -15.316
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "rialma",
+        "area": 0.043488000000001005,
+        "bounding_box": [
+          -49.606,
+          -15.46,
+          -49.455,
+          -15.172
+        ],
+        "point": [
+          -49.5305,
+          -15.316
+        ],
+        "labels": {
+          "en": "Rialma"
+        },
+        "population": 11367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4685,
+          -16.7885
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "abadia de goiás",
+        "area": 0.024504999999999482,
+        "bounding_box": [
+          -49.553,
+          -16.861,
+          -49.384,
+          -16.716
+        ],
+        "point": [
+          -49.4685,
+          -16.7885
+        ],
+        "labels": {
+          "en": "Abadia de Goiás"
+        },
+        "population": 9583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4335,
+          -14.179
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "alto horizonte",
+        "area": 0.0720940000000003,
+        "bounding_box": [
+          -49.593,
+          -14.292,
+          -49.274,
+          -14.066
+        ],
+        "point": [
+          -49.4335,
+          -14.179
+        ],
+        "labels": {
+          "en": "Alto Horizonte"
+        },
+        "population": 7920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.460499999999996,
+          -17.692999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "aloândia",
+        "area": 0.01238999999999948,
+        "bounding_box": [
+          -49.513,
+          -17.752,
+          -49.408,
+          -17.634
+        ],
+        "point": [
+          -49.460499999999996,
+          -17.692999999999998
+        ],
+        "labels": {
+          "en": "Aloândia"
+        },
+        "population": 1976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.332499999999996,
+          -13.7075
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "mutunópolis",
+        "area": 0.15768500000000077,
+        "bounding_box": [
+          -49.591,
+          -13.86,
+          -49.074,
+          -13.555
+        ],
+        "point": [
+          -49.332499999999996,
+          -13.7075
+        ],
+        "labels": {
+          "en": "Mutunópolis"
+        },
+        "population": 3648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4725,
+          -16.0715
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santa rosa de goiás",
+        "area": 0.027776999999999788,
+        "bounding_box": [
+          -49.543,
+          -16.17,
+          -49.402,
+          -15.973
+        ],
+        "point": [
+          -49.4725,
+          -16.0715
+        ],
+        "labels": {
+          "en": "Santa Rosa de Goiás"
+        },
+        "population": 2408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.436,
+          -15.4805
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "rianápolis",
+        "area": 0.02245400000000031,
+        "bounding_box": [
+          -49.545,
+          -15.532,
+          -49.327,
+          -15.429
+        ],
+        "point": [
+          -49.436,
+          -15.4805
+        ],
+        "labels": {
+          "en": "Rianápolis"
+        },
+        "population": 4499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.275000000000006,
+          -17.005
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "hidrolândia",
+        "area": 0.13952000000000012,
+        "bounding_box": [
+          -49.493,
+          -17.165,
+          -49.057,
+          -16.845
+        ],
+        "point": [
+          -49.275000000000006,
+          -17.005
+        ],
+        "labels": {
+          "en": "Hidrolândia"
+        },
+        "population": 24086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.373,
+          -17.250999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cromínia",
+        "area": 0.05614400000000004,
+        "bounding_box": [
+          -49.489,
+          -17.372,
+          -49.257,
+          -17.13
+        ],
+        "point": [
+          -49.373,
+          -17.250999999999998
+        ],
+        "labels": {
+          "en": "Cromínia"
+        },
+        "population": 3455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.422,
+          -16.939
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "aragoiânia",
+        "area": 0.026784000000000637,
+        "bounding_box": [
+          -49.484,
+          -17.047,
+          -49.36,
+          -16.831
+        ],
+        "point": [
+          -49.422,
+          -16.939
+        ],
+        "labels": {
+          "en": "Aragoiânia"
+        },
+        "population": 11192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3495,
+          -14.7365
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "hidrolina",
+        "area": 0.09483299999999982,
+        "bounding_box": [
+          -49.534,
+          -14.865,
+          -49.165,
+          -14.608
+        ],
+        "point": [
+          -49.3495,
+          -14.7365
+        ],
+        "labels": {
+          "en": "Hidrolina"
+        },
+        "population": 3575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1375,
+          -17.8
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "morrinhos",
+        "area": 0.3792600000000025,
+        "bounding_box": [
+          -49.46,
+          -18.094,
+          -48.815,
+          -17.506
+        ],
+        "point": [
+          -49.1375,
+          -17.8
+        ],
+        "labels": {
+          "en": "Morrinhos"
+        },
+        "population": 46435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3895,
+          -15.2415
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santa isabel",
+        "area": 0.12975900000000049,
+        "bounding_box": [
+          -49.519,
+          -15.492,
+          -49.26,
+          -14.991
+        ],
+        "point": [
+          -49.3895,
+          -15.2415
+        ],
+        "labels": {
+          "en": "Santa Isabel"
+        },
+        "population": 3597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4055,
+          -15.9515
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "jesúpolis",
+        "area": 0.017414999999999445,
+        "bounding_box": [
+          -49.473,
+          -16.016,
+          -49.338,
+          -15.887
+        ],
+        "point": [
+          -49.4055,
+          -15.9515
+        ],
+        "labels": {
+          "en": "Jesúpolis"
+        },
+        "population": 2522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3755,
+          -16.374000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "brazabrantes",
+        "area": 0.026075999999999492,
+        "bounding_box": [
+          -49.455,
+          -16.456,
+          -49.296,
+          -16.292
+        ],
+        "point": [
+          -49.3755,
+          -16.374000000000002
+        ],
+        "labels": {
+          "en": "Brazabrantes"
+        },
+        "population": 3836
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.262,
+          -16.6425
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "goiânia",
+        "area": 0.1394719999999986,
+        "bounding_box": [
+          -49.446,
+          -16.832,
+          -49.078,
+          -16.453
+        ],
+        "point": [
+          -49.262,
+          -16.6425
+        ],
+        "labels": {
+          "en": "Goiânia"
+        },
+        "population": 1591131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2945,
+          -16.110500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "petrolina de goiás",
+        "area": 0.07815299999999982,
+        "bounding_box": [
+          -49.458,
+          -16.23,
+          -49.131,
+          -15.991
+        ],
+        "point": [
+          -49.2945,
+          -16.110500000000002
+        ],
+        "labels": {
+          "en": "Petrolina de Goiás"
+        },
+        "population": 10164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.078,
+          -14.3245
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "uruaçu",
+        "area": 0.6730400000000019,
+        "bounding_box": [
+          -49.454,
+          -14.772,
+          -48.702,
+          -13.877
+        ],
+        "point": [
+          -49.078,
+          -14.3245
+        ],
+        "labels": {
+          "en": "Uruaçu"
+        },
+        "population": 40714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2625,
+          -14.9085
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "são luíz do norte",
+        "area": 0.07247099999999965,
+        "bounding_box": [
+          -49.441,
+          -15.01,
+          -49.084,
+          -14.807
+        ],
+        "point": [
+          -49.2625,
+          -14.9085
+        ],
+        "labels": {
+          "en": "São Luíz do Norte"
+        },
+        "population": 5214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2605,
+          -16.808999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "aparecida de goiânia",
+        "area": 0.04100200000000007,
+        "bounding_box": [
+          -49.384,
+          -16.892,
+          -49.137,
+          -16.726
+        ],
+        "point": [
+          -49.2605,
+          -16.808999999999997
+        ],
+        "labels": {
+          "en": "Aparecida de Goiânia"
+        },
+        "population": 599313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.335,
+          -16.25
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "damolândia",
+        "area": 0.014867999999999095,
+        "bounding_box": [
+          -49.394,
+          -16.313,
+          -49.276,
+          -16.187
+        ],
+        "point": [
+          -49.335,
+          -16.25
+        ],
+        "labels": {
+          "en": "Damolândia"
+        },
+        "population": 2889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.291,
+          -14.3085
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "nova iguaçu de goiás",
+        "area": 0.11785200000000132,
+        "bounding_box": [
+          -49.429,
+          -14.522,
+          -49.153,
+          -14.095
+        ],
+        "point": [
+          -49.291,
+          -14.3085
+        ],
+        "labels": {
+          "en": "Nova Iguaçu de Goiás"
+        },
+        "population": 2902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.292500000000004,
+          -16.477
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santo antônio de goiás",
+        "area": 0.024179999999998883,
+        "bounding_box": [
+          -49.37,
+          -16.555,
+          -49.215,
+          -16.399
+        ],
+        "point": [
+          -49.292500000000004,
+          -16.477
+        ],
+        "labels": {
+          "en": "Santo Antônio de Goiás"
+        },
+        "population": 7114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.299,
+          -16.3565
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "nova veneza",
+        "area": 0.023874000000001155,
+        "bounding_box": [
+          -49.368,
+          -16.443,
+          -49.23,
+          -16.27
+        ],
+        "point": [
+          -49.299,
+          -16.3565
+        ],
+        "labels": {
+          "en": "Nova Veneza"
+        },
+        "population": 10245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2595,
+          -15.956999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "são francisco de goiás",
+        "area": 0.05266799999999878,
+        "bounding_box": [
+          -49.364,
+          -16.083,
+          -49.155,
+          -15.831
+        ],
+        "point": [
+          -49.2595,
+          -15.956999999999999
+        ],
+        "labels": {
+          "en": "São Francisco de Goiás"
+        },
+        "population": 5775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2445,
+          -17.2775
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "professor jamil",
+        "area": 0.059041000000001044,
+        "bounding_box": [
+          -49.32,
+          -17.473,
+          -49.169,
+          -17.082
+        ],
+        "point": [
+          -49.2445,
+          -17.2775
+        ],
+        "labels": {
+          "en": "Professor Jamil"
+        },
+        "population": 3225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.134,
+          -15.297
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "goianésia",
+        "area": 0.27571999999999863,
+        "bounding_box": [
+          -49.36,
+          -15.602,
+          -48.908,
+          -14.992
+        ],
+        "point": [
+          -49.134,
+          -15.297
+        ],
+        "labels": {
+          "en": "Goianésia"
+        },
+        "population": 72291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.999,
+          -17.307499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "piracanjuba",
+        "area": 0.3521320000000007,
+        "bounding_box": [
+          -49.301,
+          -17.599,
+          -48.697,
+          -17.016
+        ],
+        "point": [
+          -48.999,
+          -17.307499999999997
+        ],
+        "labels": {
+          "en": "Piracanjuba"
+        },
+        "population": 24364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2285,
+          -16.2455
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "ouro verde de goiás",
+        "area": 0.034307000000001316,
+        "bounding_box": [
+          -49.313,
+          -16.347,
+          -49.144,
+          -16.144
+        ],
+        "point": [
+          -49.2285,
+          -16.2455
+        ],
+        "labels": {
+          "en": "Ouro Verde de Goiás"
+        },
+        "population": 3744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0225,
+          -18.1355
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "buriti alegre",
+        "area": 0.16762500000000102,
+        "bounding_box": [
+          -49.246,
+          -18.323,
+          -48.799,
+          -17.948
+        ],
+        "point": [
+          -49.0225,
+          -18.1355
+        ],
+        "labels": {
+          "en": "Buriti Alegre"
+        },
+        "population": 9420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.194500000000005,
+          -16.4295
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "nerópolis",
+        "area": 0.03710699999999965,
+        "bounding_box": [
+          -49.28,
+          -16.538,
+          -49.109,
+          -16.321
+        ],
+        "point": [
+          -49.194500000000005,
+          -16.4295
+        ],
+        "labels": {
+          "en": "Nerópolis"
+        },
+        "population": 31581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0105,
+          -15.825500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "pirenópolis",
+        "area": 0.28011699999999845,
+        "bounding_box": [
+          -49.229,
+          -16.146,
+          -48.792,
+          -15.505
+        ],
+        "point": [
+          -49.0105,
+          -15.825500000000002
+        ],
+        "labels": {
+          "en": "Pirenópolis"
+        },
+        "population": 25431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1035,
+          -16.711
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "senador canedo",
+        "area": 0.04365999999999898,
+        "bounding_box": [
+          -49.196,
+          -16.829,
+          -49.011,
+          -16.593
+        ],
+        "point": [
+          -49.1035,
+          -16.711
+        ],
+        "labels": {
+          "en": "Senador Canedo"
+        },
+        "population": 120047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.972,
+          -16.304499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "anápolis",
+        "area": 0.16028400000000123,
+        "bounding_box": [
+          -49.194,
+          -16.485,
+          -48.75,
+          -16.124
+        ],
+        "point": [
+          -48.972,
+          -16.304499999999997
+        ],
+        "labels": {
+          "en": "Anápolis"
+        },
+        "population": 388889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.085499999999996,
+          -16.4985
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "goianápolis",
+        "area": 0.03912300000000015,
+        "bounding_box": [
+          -49.189,
+          -16.593,
+          -48.982,
+          -16.404
+        ],
+        "point": [
+          -49.085499999999996,
+          -16.4985
+        ],
+        "labels": {
+          "en": "Goianápolis"
+        },
+        "population": 10093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0525,
+          -14.868500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santa rita do novo destino",
+        "area": 0.1884269999999993,
+        "bounding_box": [
+          -49.213,
+          -15.162,
+          -48.892,
+          -14.575
+        ],
+        "point": [
+          -49.0525,
+          -14.868500000000001
+        ],
+        "labels": {
+          "en": "Santa Rita do Novo Destino"
+        },
+        "population": 3301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0985,
+          -16.286
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "campo limpo de goiás",
+        "area": 0.020863999999999598,
+        "bounding_box": [
+          -49.18,
+          -16.35,
+          -49.017,
+          -16.222
+        ],
+        "point": [
+          -49.0985,
+          -16.286
+        ],
+        "labels": {
+          "en": "Campo Limpo de Goiás"
+        },
+        "population": 7352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.897999999999996,
+          -16.944499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "bela vista de goiás",
+        "area": 0.25948000000000093,
+        "bounding_box": [
+          -49.158,
+          -17.194,
+          -48.638,
+          -16.695
+        ],
+        "point": [
+          -48.897999999999996,
+          -16.944499999999998
+        ],
+        "labels": {
+          "en": "Bela Vista de Goiás"
+        },
+        "population": 31520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9285,
+          -14.012
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "campinorte",
+        "area": 0.405078000000005,
+        "bounding_box": [
+          -49.2,
+          -14.385,
+          -48.657,
+          -13.639
+        ],
+        "point": [
+          -48.9285,
+          -14.012
+        ],
+        "labels": {
+          "en": "Campinorte"
+        },
+        "population": 15243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0535,
+          -16.4555
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "terezópolis de goiás",
+        "area": 0.023667000000001097,
+        "bounding_box": [
+          -49.127,
+          -16.536,
+          -48.98,
+          -16.375
+        ],
+        "point": [
+          -49.0535,
+          -16.4555
+        ],
+        "labels": {
+          "en": "Terezópolis de Goiás"
+        },
+        "population": 8102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.079,
+          -13.811
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "estrela do norte",
+        "area": 0.0539720000000009,
+        "bounding_box": [
+          -49.182,
+          -13.942,
+          -48.976,
+          -13.68
+        ],
+        "point": [
+          -49.079,
+          -13.811
+        ],
+        "labels": {
+          "en": "Estrela do Norte"
+        },
+        "population": 3246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9985,
+          -16.591
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "bonfinópolis",
+        "area": 0.021306000000000862,
+        "bounding_box": [
+          -49.078,
+          -16.658,
+          -48.919,
+          -16.524
+        ],
+        "point": [
+          -48.9985,
+          -16.591
+        ],
+        "labels": {
+          "en": "Bonfinópolis"
+        },
+        "population": 10604
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.945,
+          -16.729
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "caldazinha",
+        "area": 0.04860800000000129,
+        "bounding_box": [
+          -49.069,
+          -16.827,
+          -48.821,
+          -16.631
+        ],
+        "point": [
+          -48.945,
+          -16.729
+        ],
+        "labels": {
+          "en": "Caldazinha"
+        },
+        "population": 4100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.982,
+          -13.558
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santa tereza de goiás",
+        "area": 0.13461600000000112,
+        "bounding_box": [
+          -49.14,
+          -13.771,
+          -48.824,
+          -13.345
+        ],
+        "point": [
+          -48.982,
+          -13.558
+        ],
+        "labels": {
+          "en": "Santa Tereza de Goiás"
+        },
+        "population": 3412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.826499999999996,
+          -15.2155
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "vila propício",
+        "area": 0.37647899999999895,
+        "bounding_box": [
+          -49.092,
+          -15.57,
+          -48.561,
+          -14.861
+        ],
+        "point": [
+          -48.826499999999996,
+          -15.2155
+        ],
+        "labels": {
+          "en": "Vila Propício"
+        },
+        "population": 5918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.897000000000006,
+          -14.902999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "barro alto",
+        "area": 0.19313999999999876,
+        "bounding_box": [
+          -49.082,
+          -15.164,
+          -48.712,
+          -14.642
+        ],
+        "point": [
+          -48.897000000000006,
+          -14.902999999999999
+        ],
+        "labels": {
+          "en": "Barro Alto"
+        },
+        "population": 12095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8695,
+          -16.548000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "leopoldo de bulhões",
+        "area": 0.08726399999999929,
+        "bounding_box": [
+          -49.021,
+          -16.692,
+          -48.718,
+          -16.404
+        ],
+        "point": [
+          -48.8695,
+          -16.548000000000002
+        ],
+        "labels": {
+          "en": "Leopoldo de BulhõEs"
+        },
+        "population": 9475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.407,
+          -14.4765
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "niquelândia",
+        "area": 1.3966519999999933,
+        "bounding_box": [
+          -49.053,
+          -15.017,
+          -47.761,
+          -13.936
+        ],
+        "point": [
+          -48.407,
+          -14.4765
+        ],
+        "labels": {
+          "en": "Niquelândia"
+        },
+        "population": 46560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.607,
+          -18.109
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "corumbaíba",
+        "area": 0.3360400000000012,
+        "bounding_box": [
+          -48.917,
+          -18.38,
+          -48.297,
+          -17.838
+        ],
+        "point": [
+          -48.607,
+          -18.109
+        ],
+        "labels": {
+          "en": "Corumbaíba"
+        },
+        "population": 10018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8625,
+          -13.7055
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "formoso",
+        "area": 0.15561700000000053,
+        "bounding_box": [
+          -49.027,
+          -13.942,
+          -48.698,
+          -13.469
+        ],
+        "point": [
+          -48.8625,
+          -13.7055
+        ],
+        "labels": {
+          "en": "Formoso"
+        },
+        "population": 4266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.689499999999995,
+          -17.7705
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "caldas novas",
+        "area": 0.2809529999999991,
+        "bounding_box": [
+          -48.928,
+          -18.065,
+          -48.451,
+          -17.476
+        ],
+        "point": [
+          -48.689499999999995,
+          -17.7705
+        ],
+        "labels": {
+          "en": "Caldas Novas"
+        },
+        "population": 99993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.685,
+          -16.1675
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "abadiânia",
+        "area": 0.19635000000000113,
+        "bounding_box": [
+          -48.96,
+          -16.346,
+          -48.41,
+          -15.989
+        ],
+        "point": [
+          -48.685,
+          -16.1675
+        ],
+        "labels": {
+          "en": "Abadiânia"
+        },
+        "population": 21760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.786,
+          -18.0735
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "água limpa",
+        "area": 0.06793199999999988,
+        "bounding_box": [
+          -48.888,
+          -18.24,
+          -48.684,
+          -17.907
+        ],
+        "point": [
+          -48.786,
+          -18.0735
+        ],
+        "labels": {
+          "en": "Água Limpa"
+        },
+        "population": 1833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.552499999999995,
+          -16.604
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "silvânia",
+        "area": 0.46673399999999754,
+        "bounding_box": [
+          -48.916,
+          -16.925,
+          -48.189,
+          -16.283
+        ],
+        "point": [
+          -48.552499999999995,
+          -16.604
+        ],
+        "labels": {
+          "en": "Silvânia"
+        },
+        "population": 20366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.7155,
+          -16.409
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "gameleira de goiás",
+        "area": 0.10265599999999914,
+        "bounding_box": [
+          -48.916,
+          -16.537,
+          -48.515,
+          -16.281
+        ],
+        "point": [
+          -48.7155,
+          -16.409
+        ],
+        "labels": {
+          "en": "Gameleira de Goiás"
+        },
+        "population": 10966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.658,
+          -15.9525
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "corumbá de goiás",
+        "area": 0.1987019999999995,
+        "bounding_box": [
+          -48.907,
+          -16.152,
+          -48.409,
+          -15.753
+        ],
+        "point": [
+          -48.658,
+          -15.9525
+        ],
+        "labels": {
+          "en": "Corumbá de Goiás"
+        },
+        "population": 11036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.7815,
+          -17.8205
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "rio quente",
+        "area": 0.03274700000000004,
+        "bounding_box": [
+          -48.853,
+          -17.935,
+          -48.71,
+          -17.706
+        ],
+        "point": [
+          -48.7815,
+          -17.8205
+        ],
+        "labels": {
+          "en": "Rio Quente"
+        },
+        "population": 5226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.75,
+          -13.426
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "trombas",
+        "area": 0.178083999999999,
+        "bounding_box": [
+          -48.961,
+          -13.637,
+          -48.539,
+          -13.215
+        ],
+        "point": [
+          -48.75,
+          -13.426
+        ],
+        "labels": {
+          "en": "Trombas"
+        },
+        "population": 3464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.554,
+          -15.636
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cocalzinho de goiás",
+        "area": 0.33582399999999907,
+        "bounding_box": [
+          -48.856,
+          -15.914,
+          -48.252,
+          -15.358
+        ],
+        "point": [
+          -48.554,
+          -15.636
+        ],
+        "labels": {
+          "en": "Cocalzinho de Goiás"
+        },
+        "population": 20896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.7385,
+          -13.105
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "montividiu do norte",
+        "area": 0.2156279999999993,
+        "bounding_box": [
+          -48.917,
+          -13.407,
+          -48.56,
+          -12.803
+        ],
+        "point": [
+          -48.7385,
+          -13.105
+        ],
+        "labels": {
+          "en": "Montividiu do Norte"
+        },
+        "population": 4481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.605000000000004,
+          -17.386499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santa cruz de goiás",
+        "area": 0.14994599999999816,
+        "bounding_box": [
+          -48.806,
+          -17.573,
+          -48.404,
+          -17.2
+        ],
+        "point": [
+          -48.605000000000004,
+          -17.386499999999998
+        ],
+        "labels": {
+          "en": "Santa Cruz de Goiás"
+        },
+        "population": 3280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.689499999999995,
+          -17.2365
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cristianópolis",
+        "area": 0.05616499999999921,
+        "bounding_box": [
+          -48.809,
+          -17.354,
+          -48.57,
+          -17.119
+        ],
+        "point": [
+          -48.689499999999995,
+          -17.2365
+        ],
+        "labels": {
+          "en": "Cristianópolis"
+        },
+        "population": 2969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.666,
+          -17.0005
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "são miguel do passa quatro",
+        "area": 0.09146199999999974,
+        "bounding_box": [
+          -48.805,
+          -17.165,
+          -48.527,
+          -16.836
+        ],
+        "point": [
+          -48.666,
+          -17.0005
+        ],
+        "labels": {
+          "en": "São Miguel do Passa Quatro"
+        },
+        "population": 4039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.693,
+          -17.969
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "marzagão",
+        "area": 0.03599999999999959,
+        "bounding_box": [
+          -48.765,
+          -18.094,
+          -48.621,
+          -17.844
+        ],
+        "point": [
+          -48.693,
+          -17.969
+        ],
+        "labels": {
+          "en": "Marzagão"
+        },
+        "population": 2258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.55,
+          -13.8885
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "campinaçu",
+        "area": 0.27845999999999815,
+        "bounding_box": [
+          -48.784,
+          -14.186,
+          -48.316,
+          -13.591
+        ],
+        "point": [
+          -48.55,
+          -13.8885
+        ],
+        "labels": {
+          "en": "Campinaçu"
+        },
+        "population": 3631
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4855,
+          -16.119500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "alexânia",
+        "area": 0.13670300000000135,
+        "bounding_box": [
+          -48.651,
+          -16.326,
+          -48.32,
+          -15.913
+        ],
+        "point": [
+          -48.4855,
+          -16.119500000000002
+        ],
+        "labels": {
+          "en": "Alexânia"
+        },
+        "population": 28298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3965,
+          -13.495000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "minaçu",
+        "area": 0.4470060000000013,
+        "bounding_box": [
+          -48.701,
+          -13.862,
+          -48.092,
+          -13.128
+        ],
+        "point": [
+          -48.3965,
+          -13.495000000000001
+        ],
+        "labels": {
+          "en": "Minaçu"
+        },
+        "population": 28841
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3975,
+          -17.308999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "pires do rio",
+        "area": 0.25642799999999744,
+        "bounding_box": [
+          -48.607,
+          -17.615,
+          -48.188,
+          -17.003
+        ],
+        "point": [
+          -48.3975,
+          -17.308999999999997
+        ],
+        "labels": {
+          "en": "Pires do Rio"
+        },
+        "population": 31519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.346,
+          -15.009
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "mimoso de goiás",
+        "area": 0.20526,
+        "bounding_box": [
+          -48.657,
+          -15.174,
+          -48.035,
+          -14.844
+        ],
+        "point": [
+          -48.346,
+          -15.009
+        ],
+        "labels": {
+          "en": "Mimoso de Goiás"
+        },
+        "population": 2563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.426500000000004,
+          -16.878
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "vianópolis",
+        "area": 0.17218599999999903,
+        "bounding_box": [
+          -48.598,
+          -17.129,
+          -48.255,
+          -16.627
+        ],
+        "point": [
+          -48.426500000000004,
+          -16.878
+        ],
+        "labels": {
+          "en": "Vianópolis"
+        },
+        "population": 13935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.031000000000006,
+          -17.4525
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "ipameri",
+        "area": 1.1735920000000017,
+        "bounding_box": [
+          -48.563,
+          -18.004,
+          -47.499,
+          -16.901
+        ],
+        "point": [
+          -48.031000000000006,
+          -17.4525
+        ],
+        "labels": {
+          "en": "Ipameri"
+        },
+        "population": 26883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.271,
+          -15.3725
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "padre bernardo",
+        "area": 0.3976620000000018,
+        "bounding_box": [
+          -48.618,
+          -15.659,
+          -47.924,
+          -15.086
+        ],
+        "point": [
+          -48.271,
+          -15.3725
+        ],
+        "labels": {
+          "en": "Padre Bernardo"
+        },
+        "population": 34536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.20399999999999,
+          -17.0205
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "orizona",
+        "area": 0.3300299999999985,
+        "bounding_box": [
+          -48.489,
+          -17.31,
+          -47.919,
+          -16.731
+        ],
+        "point": [
+          -48.20399999999999,
+          -17.0205
+        ],
+        "labels": {
+          "en": "Orizona"
+        },
+        "population": 15607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.402,
+          -17.307000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "palmelo",
+        "area": 0.009936000000000497,
+        "bounding_box": [
+          -48.438,
+          -17.376,
+          -48.366,
+          -17.238
+        ],
+        "point": [
+          -48.402,
+          -17.307000000000002
+        ],
+        "labels": {
+          "en": "Palmelo"
+        },
+        "population": 1957
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3,
+          -18.083
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "nova aurora",
+        "area": 0.06507200000000113,
+        "bounding_box": [
+          -48.398,
+          -18.249,
+          -48.202,
+          -17.917
+        ],
+        "point": [
+          -48.3,
+          -18.083
+        ],
+        "labels": {
+          "en": "Nova Aurora"
+        },
+        "population": 2209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1465,
+          -18.3155
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cumari",
+        "area": 0.1001409999999998,
+        "bounding_box": [
+          -48.356,
+          -18.435,
+          -47.937,
+          -18.196
+        ],
+        "point": [
+          -48.1465,
+          -18.3155
+        ],
+        "labels": {
+          "en": "Cumari"
+        },
+        "population": 2915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.211,
+          -17.4345
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "urutaí",
+        "area": 0.10785599999999884,
+        "bounding_box": [
+          -48.379,
+          -17.595,
+          -48.043,
+          -17.274
+        ],
+        "point": [
+          -48.211,
+          -17.4345
+        ],
+        "labels": {
+          "en": "Urutaí"
+        },
+        "population": 3031
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2545,
+          -16.071
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "santo antônio do descoberto",
+        "area": 0.17052200000000234,
+        "bounding_box": [
+          -48.423,
+          -16.324,
+          -48.086,
+          -15.818
+        ],
+        "point": [
+          -48.2545,
+          -16.071
+        ],
+        "labels": {
+          "en": "Santo Antônio do Descoberto"
+        },
+        "population": 78510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.021,
+          -16.5535
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "luziânia",
+        "area": 0.6865620000000002,
+        "bounding_box": [
+          -48.402,
+          -17.004,
+          -47.64,
+          -16.103
+        ],
+        "point": [
+          -48.021,
+          -16.5535
+        ],
+        "labels": {
+          "en": "Luziânia"
+        },
+        "population": 216364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.292,
+          -15.7455
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "águas lindas de goiás",
+        "area": 0.03010199999999992,
+        "bounding_box": [
+          -48.379,
+          -15.832,
+          -48.205,
+          -15.659
+        ],
+        "point": [
+          -48.292,
+          -15.7455
+        ],
+        "labels": {
+          "en": "Águas Lindas de Goiás"
+        },
+        "population": 239912
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2205,
+          -18.3065
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "anhanguera",
+        "area": 0.007776999999999746,
+        "bounding_box": [
+          -48.271,
+          -18.345,
+          -48.17,
+          -18.268
+        ],
+        "point": [
+          -48.2205,
+          -18.3065
+        ],
+        "labels": {
+          "en": "Anhanguera"
+        },
+        "population": 1121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1425,
+          -18.113
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "goiandira",
+        "area": 0.07689600000000094,
+        "bounding_box": [
+          -48.276,
+          -18.257,
+          -48.009,
+          -17.969
+        ],
+        "point": [
+          -48.1425,
+          -18.113
+        ],
+        "labels": {
+          "en": "Goiandira"
+        },
+        "population": 5588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.091499999999996,
+          -13.99
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "colinas do sul",
+        "area": 0.368081999999998,
+        "bounding_box": [
+          -48.345,
+          -14.353,
+          -47.838,
+          -13.627
+        ],
+        "point": [
+          -48.091499999999996,
+          -13.99
+        ],
+        "labels": {
+          "en": "Colinas do Sul"
+        },
+        "population": 3352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.718500000000006,
+          -17.9785
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "catalão",
+        "area": 0.9480869999999982,
+        "bounding_box": [
+          -48.173,
+          -18.5,
+          -47.264,
+          -17.457
+        ],
+        "point": [
+          -47.718500000000006,
+          -17.9785
+        ],
+        "labels": {
+          "en": "Catalão"
+        },
+        "population": 116648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.076,
+          -16.127
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "novo gama",
+        "area": 0.022800000000001017,
+        "bounding_box": [
+          -48.151,
+          -16.203,
+          -48.001,
+          -16.051
+        ],
+        "point": [
+          -48.076,
+          -16.127
+        ],
+        "labels": {
+          "en": "Novo Gama"
+        },
+        "population": 108247
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.721000000000004,
+          -13.6415
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cavalcante",
+        "area": 1.0274580000000006,
+        "bounding_box": [
+          -48.198,
+          -14.18,
+          -47.244,
+          -13.103
+        ],
+        "point": [
+          -47.721000000000004,
+          -13.6415
+        ],
+        "labels": {
+          "en": "Cavalcante"
+        },
+        "population": 9641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.787,
+          -15.2585
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "planaltina",
+        "area": 0.31008599999999836,
+        "bounding_box": [
+          -48.108,
+          -15.5,
+          -47.466,
+          -15.017
+        ],
+        "point": [
+          -47.787,
+          -15.2585
+        ],
+        "labels": {
+          "en": "Planaltina"
+        },
+        "population": 89838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.785,
+          -14.8945
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "água fria de goiás",
+        "area": 0.3186339999999979,
+        "bounding_box": [
+          -48.098,
+          -15.149,
+          -47.472,
+          -14.64
+        ],
+        "point": [
+          -47.785,
+          -14.8945
+        ],
+        "labels": {
+          "en": "Água Fria de Goiás"
+        },
+        "population": 5793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.751999999999995,
+          -17.5335
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "campo alegre de goiás",
+        "area": 0.3562019999999974,
+        "bounding_box": [
+          -47.983,
+          -17.919,
+          -47.521,
+          -17.148
+        ],
+        "point": [
+          -47.751999999999995,
+          -17.5335
+        ],
+        "labels": {
+          "en": "Campo Alegre de Goiás"
+        },
+        "population": 8102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.985,
+          -16.094
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "valparaíso de goiás",
+        "area": 0.007912000000000084,
+        "bounding_box": [
+          -48.031,
+          -16.137,
+          -47.939,
+          -16.051
+        ],
+        "point": [
+          -47.985,
+          -16.094
+        ],
+        "labels": {
+          "en": "Valparaíso de Goiás"
+        },
+        "population": 188419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.762,
+          -18.3675
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "três ranchos",
+        "area": 0.050434000000000416,
+        "bounding_box": [
+          -47.913,
+          -18.451,
+          -47.611,
+          -18.284
+        ],
+        "point": [
+          -47.762,
+          -18.3675
+        ],
+        "labels": {
+          "en": "Três Ranchos"
+        },
+        "population": 2804
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.820499999999996,
+          -16.154
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cidade ocidental",
+        "area": 0.05969599999999934,
+        "bounding_box": [
+          -47.964,
+          -16.258,
+          -47.677,
+          -16.05
+        ],
+        "point": [
+          -47.820499999999996,
+          -16.154
+        ],
+        "labels": {
+          "en": "Cidade Ocidental"
+        },
+        "population": 75696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.741,
+          -18.2165
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "ouvidor",
+        "area": 0.0547660000000019,
+        "bounding_box": [
+          -47.88,
+          -18.315,
+          -47.602,
+          -18.118
+        ],
+        "point": [
+          -47.741,
+          -18.2165
+        ],
+        "labels": {
+          "en": "Ouvidor"
+        },
+        "population": 6958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5145,
+          -16.7025
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cristalina",
+        "area": 1.0165950000000044,
+        "bounding_box": [
+          -47.904,
+          -17.355,
+          -47.125,
+          -16.05
+        ],
+        "point": [
+          -47.5145,
+          -16.7025
+        ],
+        "labels": {
+          "en": "Cristalina"
+        },
+        "population": 63384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.522999999999996,
+          -14.1615
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "alto paraíso de goiás",
+        "area": 0.4948900000000033,
+        "bounding_box": [
+          -47.932,
+          -14.464,
+          -47.114,
+          -13.859
+        ],
+        "point": [
+          -47.522999999999996,
+          -14.1615
+        ],
+        "labels": {
+          "en": "Alto Paraíso de Goiás"
+        },
+        "population": 7640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.424499999999995,
+          -14.431000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "são joão d'aliança",
+        "area": 0.7031999999999973,
+        "bounding_box": [
+          -47.864,
+          -14.831,
+          -46.985,
+          -14.031
+        ],
+        "point": [
+          -47.424499999999995,
+          -14.431000000000001
+        ],
+        "labels": {
+          "en": "São João D'Aliança"
+        },
+        "population": 15630
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5595,
+          -18.113999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "davinópolis",
+        "area": 0.07999199999999908,
+        "bounding_box": [
+          -47.711,
+          -18.246,
+          -47.408,
+          -17.982
+        ],
+        "point": [
+          -47.5595,
+          -18.113999999999997
+        ],
+        "labels": {
+          "en": "Davinópolis"
+        },
+        "population": 2009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2055,
+          -15.2855
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "formosa",
+        "area": 1.1122410000000005,
+        "bounding_box": [
+          -47.576,
+          -16.036,
+          -46.835,
+          -14.535
+        ],
+        "point": [
+          -47.2055,
+          -15.2855
+        ],
+        "labels": {
+          "en": "Formosa"
+        },
+        "population": 127248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.921,
+          -13.3095
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "monte alegre de goiás",
+        "area": 0.5780059999999994,
+        "bounding_box": [
+          -47.394,
+          -13.615,
+          -46.448,
+          -13.004
+        ],
+        "point": [
+          -46.921,
+          -13.3095
+        ],
+        "labels": {
+          "en": "Monte Alegre de Goiás"
+        },
+        "population": 8699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2395,
+          -13.693000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "teresina de goiás",
+        "area": 0.12848200000000234,
+        "bounding_box": [
+          -47.353,
+          -13.976,
+          -47.126,
+          -13.41
+        ],
+        "point": [
+          -47.2395,
+          -13.693000000000001
+        ],
+        "labels": {
+          "en": "Teresina de Goiás"
+        },
+        "population": 3472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0535,
+          -14.9925
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "vila boa",
+        "area": 0.23212300000000294,
+        "bounding_box": [
+          -47.234,
+          -15.314,
+          -46.873,
+          -14.671
+        ],
+        "point": [
+          -47.0535,
+          -14.9925
+        ],
+        "labels": {
+          "en": "Vila Boa"
+        },
+        "population": 6847
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.992999999999995,
+          -15.7475
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "cabeceiras",
+        "area": 0.16055199999999886,
+        "bounding_box": [
+          -47.181,
+          -15.961,
+          -46.805,
+          -15.534
+        ],
+        "point": [
+          -46.992999999999995,
+          -15.7475
+        ],
+        "labels": {
+          "en": "Cabeceiras"
+        },
+        "population": 7992
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.85850000000001,
+          -14.585
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "flores de goiás",
+        "area": 0.6703199999999997,
+        "bounding_box": [
+          -47.191,
+          -15.089,
+          -46.526,
+          -14.081
+        ],
+        "point": [
+          -46.85850000000001,
+          -14.585
+        ],
+        "labels": {
+          "en": "Flores de Goiás"
+        },
+        "population": 19217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9915,
+          -13.7675
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "nova roma",
+        "area": 0.2798070000000008,
+        "bounding_box": [
+          -47.2,
+          -14.103,
+          -46.783,
+          -13.432
+        ],
+        "point": [
+          -46.9915,
+          -13.7675
+        ],
+        "labels": {
+          "en": "Nova Roma"
+        },
+        "population": 3225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.705,
+          -14.0855
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "iaciara",
+        "area": 0.3127679999999999,
+        "bounding_box": [
+          -46.993,
+          -14.357,
+          -46.417,
+          -13.814
+        ],
+        "point": [
+          -46.705,
+          -14.0855
+        ],
+        "labels": {
+          "en": "Iaciara"
+        },
+        "population": 13980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6335,
+          -14.57
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "alvorada do norte",
+        "area": 0.26974799999999893,
+        "bounding_box": [
+          -46.899,
+          -14.824,
+          -46.368,
+          -14.316
+        ],
+        "point": [
+          -46.6335,
+          -14.57
+        ],
+        "labels": {
+          "en": "Alvorada do Norte"
+        },
+        "population": 9986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4475,
+          -13.4495
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "são domingos",
+        "area": 0.6414570000000016,
+        "bounding_box": [
+          -46.854,
+          -13.844,
+          -46.041,
+          -13.055
+        ],
+        "point": [
+          -46.4475,
+          -13.4495
+        ],
+        "labels": {
+          "en": "São Domingos"
+        },
+        "population": 13235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4835,
+          -12.965
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "campos belos",
+        "area": 0.2115800000000005,
+        "bounding_box": [
+          -46.856,
+          -13.107,
+          -46.111,
+          -12.823
+        ],
+        "point": [
+          -46.4835,
+          -12.965
+        ],
+        "labels": {
+          "en": "Campos Belos"
+        },
+        "population": 19889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.433499999999995,
+          -14.2235
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "posse",
+        "area": 0.31054099999999923,
+        "bounding_box": [
+          -46.815,
+          -14.427,
+          -46.052,
+          -14.02
+        ],
+        "point": [
+          -46.433499999999995,
+          -14.2235
+        ],
+        "labels": {
+          "en": "Posse"
+        },
+        "population": 37939
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4845,
+          -13.879
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "guarani de goiás",
+        "area": 0.1965420000000001,
+        "bounding_box": [
+          -46.759,
+          -14.058,
+          -46.21,
+          -13.7
+        ],
+        "point": [
+          -46.4845,
+          -13.879
+        ],
+        "labels": {
+          "en": "Guarani de Goiás"
+        },
+        "population": 4076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5775,
+          -14.439
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "simolândia",
+        "area": 0.046349999999999184,
+        "bounding_box": [
+          -46.732,
+          -14.514,
+          -46.423,
+          -14.364
+        ],
+        "point": [
+          -46.5775,
+          -14.439
+        ],
+        "labels": {
+          "en": "Simolândia"
+        },
+        "population": 5857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5445,
+          -13.219999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "divinópolis de goiás",
+        "area": 0.11186999999999957,
+        "bounding_box": [
+          -46.714,
+          -13.385,
+          -46.375,
+          -13.055
+        ],
+        "point": [
+          -46.5445,
+          -13.219999999999999
+        ],
+        "labels": {
+          "en": "Divinópolis de Goiás"
+        },
+        "population": 4639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.251999999999995,
+          -14.695
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "sítio d'abadia",
+        "area": 0.2550160000000008,
+        "bounding_box": [
+          -46.503,
+          -14.949,
+          -46.001,
+          -14.441
+        ],
+        "point": [
+          -46.251999999999995,
+          -14.695
+        ],
+        "labels": {
+          "en": "Sítio D'Abadia"
+        },
+        "population": 3043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.56,
+          -14.937000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "sítio d'abadia",
+        "area": 0.02876799999999984,
+        "bounding_box": [
+          -46.618,
+          -15.061,
+          -46.502,
+          -14.813
+        ],
+        "point": [
+          -46.56,
+          -14.937000000000001
+        ],
+        "labels": {
+          "en": "Sítio D'Abadia"
+        },
+        "population": 3043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.303,
+          -14.3935
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "buritinópolis",
+        "area": 0.06106999999999934,
+        "bounding_box": [
+          -46.458,
+          -14.492,
+          -46.148,
+          -14.295
+        ],
+        "point": [
+          -46.303,
+          -14.3935
+        ],
+        "labels": {
+          "en": "Buritinópolis"
+        },
+        "population": 3641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.176500000000004,
+          -14.5555
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "damianópolis",
+        "area": 0.07766500000000036,
+        "bounding_box": [
+          -46.335,
+          -14.678,
+          -46.018,
+          -14.433
+        ],
+        "point": [
+          -46.176500000000004,
+          -14.5555
+        ],
+        "labels": {
+          "en": "Damianópolis"
+        },
+        "population": 3299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.053,
+          -14.434000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-go",
+        "region_child": "mambaí",
+        "area": 0.13432000000000047,
+        "bounding_box": [
+          -46.199,
+          -14.664,
+          -45.907,
+          -14.204
+        ],
+        "point": [
+          -46.053,
+          -14.434000000000001
+        ],
+        "labels": {
+          "en": "Mambaí"
+        },
+        "population": 9125
+      }
+    }
+  ]
+}

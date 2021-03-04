@@ -1,0 +1,1955 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.52950000000001,
+          39.584500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "091",
+        "area": 0.4069449999999987,
+        "bounding_box": [
+          -121.058,
+          39.392,
+          -120.001,
+          39.777
+        ],
+        "point": [
+          -120.52950000000001,
+          39.584500000000006
+        ],
+        "labels": {
+          "en": "Sierra"
+        },
+        "population": 3089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4445,
+          38.3775
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "067",
+        "area": 0.5986949999999944,
+        "bounding_box": [
+          -121.862,
+          38.019,
+          -121.027,
+          38.736
+        ],
+        "point": [
+          -121.4445,
+          38.3775
+        ],
+        "labels": {
+          "en": "Sacramento"
+        },
+        "population": 1638466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.08699999999999,
+          34.7185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "083",
+        "area": 1.0132019999999993,
+        "bounding_box": [
+          -120.734,
+          34.327,
+          -119.44,
+          35.11
+        ],
+        "point": [
+          -120.08699999999999,
+          34.7185
+        ],
+        "labels": {
+          "en": "Santa Barbara"
+        },
+        "population": 449918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.025,
+          34.0015
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "083",
+        "area": 0.35536599999999974,
+        "bounding_box": [
+          -120.582,
+          33.842,
+          -119.468,
+          34.161
+        ],
+        "point": [
+          -120.025,
+          34.0015
+        ],
+        "labels": {
+          "en": "Santa Barbara"
+        },
+        "population": 449918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.03999999999999,
+          33.4755
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "083",
+        "area": 0.01986600000000102,
+        "bounding_box": [
+          -119.117,
+          33.411,
+          -118.963,
+          33.54
+        ],
+        "point": [
+          -119.03999999999999,
+          33.4755
+        ],
+        "labels": {
+          "en": "Santa Barbara"
+        },
+        "population": 449918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5075,
+          38.171
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "009",
+        "area": 0.6610500000000031,
+        "bounding_box": [
+          -120.995,
+          37.832,
+          -120.02,
+          38.51
+        ],
+        "point": [
+          -120.5075,
+          38.171
+        ],
+        "labels": {
+          "en": "Calaveras"
+        },
+        "population": 51238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0665,
+          34.447
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "111",
+        "area": 0.7890520000000009,
+        "bounding_box": [
+          -119.501,
+          33.993,
+          -118.632,
+          34.901
+        ],
+        "point": [
+          -119.0665,
+          34.447
+        ],
+        "labels": {
+          "en": "Ventura"
+        },
+        "population": 901240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4985,
+          33.2495
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "111",
+        "area": 0.04702499999999837,
+        "bounding_box": [
+          -119.636,
+          33.164,
+          -119.361,
+          33.335
+        ],
+        "point": [
+          -119.4985,
+          33.2495
+        ],
+        "labels": {
+          "en": "Ventura"
+        },
+        "population": 901240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.39250000000001,
+          34.012
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "111",
+        "area": 0.02308399999999971,
+        "bounding_box": [
+          -119.492,
+          33.954,
+          -119.293,
+          34.07
+        ],
+        "point": [
+          -119.39250000000001,
+          34.012
+        ],
+        "labels": {
+          "en": "Ventura"
+        },
+        "population": 901240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.299,
+          34.2415
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "037",
+        "area": 1.518878000000002,
+        "bounding_box": [
+          -118.952,
+          33.66,
+          -117.646,
+          34.823
+        ],
+        "point": [
+          -118.299,
+          34.2415
+        ],
+        "labels": {
+          "en": "Los Angeles"
+        },
+        "population": 10132343
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4845,
+          32.9185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "037",
+        "area": 0.13109299999999988,
+        "bounding_box": [
+          -118.679,
+          32.75,
+          -118.29,
+          33.087
+        ],
+        "point": [
+          -118.4845,
+          32.9185
+        ],
+        "labels": {
+          "en": "Los Angeles"
+        },
+        "population": 10132343
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4545,
+          33.39
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "037",
+        "area": 0.12126800000000144,
+        "bounding_box": [
+          -118.668,
+          33.248,
+          -118.241,
+          33.532
+        ],
+        "point": [
+          -118.4545,
+          33.39
+        ],
+        "labels": {
+          "en": "Los Angeles"
+        },
+        "population": 10132343
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98949999999999,
+          38.463
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "097",
+        "area": 1.00230000000001,
+        "bounding_box": [
+          -123.632,
+          38.073,
+          -122.347,
+          38.853
+        ],
+        "point": [
+          -122.98949999999999,
+          38.463
+        ],
+        "labels": {
+          "en": "Sonoma"
+        },
+        "population": 510423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.895,
+          36.138999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "031",
+        "area": 0.5879999999999989,
+        "bounding_box": [
+          -120.315,
+          35.789,
+          -119.475,
+          36.489
+        ],
+        "point": [
+          -119.895,
+          36.138999999999996
+        ],
+        "labels": {
+          "en": "Kings"
+        },
+        "population": 180792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.846,
+          33.017
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "073",
+        "area": 1.4932799999999997,
+        "bounding_box": [
+          -117.611,
+          32.529,
+          -116.081,
+          33.505
+        ],
+        "point": [
+          -116.846,
+          33.017
+        ],
+        "labels": {
+          "en": "San Diego"
+        },
+        "population": 3426981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.743,
+          39.014
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "061",
+        "area": 0.8951279999999984,
+        "bounding_box": [
+          -121.484,
+          38.712,
+          -120.002,
+          39.316
+        ],
+        "point": [
+          -120.743,
+          39.014
+        ],
+        "labels": {
+          "en": "Placer"
+        },
+        "population": 493599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447,
+          37.8185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "075",
+        "area": 0.07358999999999928,
+        "bounding_box": [
+          -122.612,
+          37.707,
+          -122.282,
+          37.93
+        ],
+        "point": [
+          -122.447,
+          37.8185
+        ],
+        "labels": {
+          "en": "San Francisco"
+        },
+        "population": 835974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.055,
+          37.7315
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "075",
+        "area": 0.04355399999999988,
+        "bounding_box": [
+          -123.174,
+          37.64,
+          -122.936,
+          37.823
+        ],
+        "point": [
+          -123.055,
+          37.7315
+        ],
+        "labels": {
+          "en": "San Francisco"
+        },
+        "population": 835974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.741,
+          38.068
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "041",
+        "area": 0.3987280000000057,
+        "bounding_box": [
+          -123.135,
+          37.815,
+          -122.347,
+          38.321
+        ],
+        "point": [
+          -122.741,
+          38.068
+        ],
+        "labels": {
+          "en": "Marin"
+        },
+        "population": 257684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.852,
+          37.543
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "043",
+        "area": 0.7819199999999977,
+        "bounding_box": [
+          -120.395,
+          37.183,
+          -119.309,
+          37.903
+        ],
+        "point": [
+          -119.852,
+          37.543
+        ],
+        "labels": {
+          "en": "Mariposa"
+        },
+        "population": 19459
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.66399999999999,
+          40.446
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "035",
+        "area": 1.9719359999999966,
+        "bounding_box": [
+          -121.332,
+          39.708,
+          -119.996,
+          41.184
+        ],
+        "point": [
+          -120.66399999999999,
+          40.446
+        ],
+        "labels": {
+          "en": "Lassen"
+        },
+        "population": 36023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3535,
+          38.5095
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "055",
+        "area": 0.4147649999999933,
+        "bounding_box": [
+          -122.646,
+          38.155,
+          -122.061,
+          38.864
+        ],
+        "point": [
+          -122.3535,
+          38.5095
+        ],
+        "labels": {
+          "en": "Napa"
+        },
+        "population": 146606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1945,
+          40.735
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "089",
+        "area": 1.5741000000000185,
+        "bounding_box": [
+          -123.069,
+          40.285,
+          -121.32,
+          41.185
+        ],
+        "point": [
+          -122.1945,
+          40.735
+        ],
+        "labels": {
+          "en": "Shasta"
+        },
+        "population": 192105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.13300000000001,
+          36.352000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "053",
+        "area": 2.069588000000005,
+        "bounding_box": [
+          -122.052,
+          35.789,
+          -120.214,
+          36.915
+        ],
+        "point": [
+          -121.13300000000001,
+          36.352000000000004
+        ],
+        "labels": {
+          "en": "Monterey"
+        },
+        "population": 428631
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.031,
+          40.6725
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "105",
+        "area": 1.6274700000000086,
+        "bounding_box": [
+          -123.616,
+          39.977,
+          -122.446,
+          41.368
+        ],
+        "point": [
+          -123.031,
+          40.6725
+        ],
+        "labels": {
+          "en": "Trinity"
+        },
+        "population": 14620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.47800000000001,
+          39.38
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "045",
+        "area": 1.6346160000000085,
+        "bounding_box": [
+          -124.135,
+          38.758,
+          -122.821,
+          40.002
+        ],
+        "point": [
+          -123.47800000000001,
+          39.38
+        ],
+        "labels": {
+          "en": "Mendocino"
+        },
+        "population": 89524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.219,
+          36.626000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "027",
+        "area": 5.272276000000031,
+        "bounding_box": [
+          -118.79,
+          35.787,
+          -115.648,
+          37.465
+        ],
+        "point": [
+          -117.219,
+          36.626000000000005
+        ],
+        "labels": {
+          "en": "Inyo"
+        },
+        "population": 19683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7425,
+          38.088
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "051",
+        "area": 2.2737500000000033,
+        "bounding_box": [
+          -119.652,
+          37.463,
+          -117.833,
+          38.713
+        ],
+        "point": [
+          -118.7425,
+          38.088
+        ],
+        "labels": {
+          "en": "Mono"
+        },
+        "population": 15702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9265,
+          38.034
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "109",
+        "area": 1.1623999999999983,
+        "bounding_box": [
+          -120.653,
+          37.634,
+          -119.2,
+          38.434
+        ],
+        "point": [
+          -119.9265,
+          38.034
+        ],
+        "labels": {
+          "en": "Tuolumne"
+        },
+        "population": 56254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0,
+          38.2855
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "095",
+        "area": 0.4126980000000005,
+        "bounding_box": [
+          -122.407,
+          38.032,
+          -121.593,
+          38.539
+        ],
+        "point": [
+          -122.0,
+          38.2855
+        ],
+        "labels": {
+          "en": "Solano"
+        },
+        "population": 437878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.967,
+          34.84
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "071",
+        "area": 7.116335999999977,
+        "bounding_box": [
+          -117.803,
+          33.871,
+          -114.131,
+          35.809
+        ],
+        "point": [
+          -115.967,
+          34.84
+        ],
+        "labels": {
+          "en": "San Bernardino"
+        },
+        "population": 2423917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.988,
+          37.9095
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "013",
+        "area": 0.34594799999999526,
+        "bounding_box": [
+          -122.442,
+          37.719,
+          -121.534,
+          38.1
+        ],
+        "point": [
+          -121.988,
+          37.9095
+        ],
+        "labels": {
+          "en": "Contra Costa"
+        },
+        "population": 1160024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8075,
+          38.629999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "003",
+        "area": 0.32178599999999585,
+        "bounding_box": [
+          -120.073,
+          38.327,
+          -119.542,
+          38.933
+        ],
+        "point": [
+          -119.8075,
+          38.629999999999995
+        ],
+        "labels": {
+          "en": "Alpine"
+        },
+        "population": 1109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5095,
+          38.785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "017",
+        "area": 0.7123320000000031,
+        "bounding_box": [
+          -121.141,
+          38.503,
+          -119.878,
+          39.067
+        ],
+        "point": [
+          -120.5095,
+          38.785
+        ],
+        "labels": {
+          "en": "El Dorado"
+        },
+        "population": 209997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9615,
+          38.6195
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "113",
+        "area": 0.5645729999999949,
+        "bounding_box": [
+          -122.422,
+          38.313,
+          -121.501,
+          38.926
+        ],
+        "point": [
+          -121.9615,
+          38.6195
+        ],
+        "labels": {
+          "en": "Yolo"
+        },
+        "population": 239436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.32249999999999,
+          39.289
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "115",
+        "area": 0.4388999999999985,
+        "bounding_box": [
+          -121.636,
+          38.939,
+          -121.009,
+          39.639
+        ],
+        "point": [
+          -121.32249999999999,
+          39.289
+        ],
+        "labels": {
+          "en": "Yuba"
+        },
+        "population": 86616
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.12049999999999,
+          36.593
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "069",
+        "area": 0.8292240000000032,
+        "bounding_box": [
+          -121.644,
+          36.197,
+          -120.597,
+          36.989
+        ],
+        "point": [
+          -121.12049999999999,
+          36.593
+        ],
+        "labels": {
+          "en": "San Benito"
+        },
+        "population": 57450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.944,
+          40.7335
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "023",
+        "area": 1.576339999999994,
+        "bounding_box": [
+          -124.482,
+          40.001,
+          -123.406,
+          41.466
+        ],
+        "point": [
+          -123.944,
+          40.7335
+        ],
+        "labels": {
+          "en": "Humboldt"
+        },
+        "population": 143265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0545,
+          33.753
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "065",
+        "area": 2.118305999999991,
+        "bounding_box": [
+          -117.674,
+          33.426,
+          -114.435,
+          34.08
+        ],
+        "point": [
+          -116.0545,
+          33.753
+        ],
+        "labels": {
+          "en": "Riverside"
+        },
+        "population": 3101232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.905,
+          35.2945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "029",
+        "area": 2.596046000000016,
+        "bounding_box": [
+          -120.194,
+          34.791,
+          -117.616,
+          35.798
+        ],
+        "point": [
+          -118.905,
+          35.2945
+        ],
+        "labels": {
+          "en": "Kern"
+        },
+        "population": 1065126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29050000000001,
+          39.169
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "011",
+        "area": 0.4846099999999971,
+        "bounding_box": [
+          -122.785,
+          38.924,
+          -121.796,
+          39.414
+        ],
+        "point": [
+          -122.29050000000001,
+          39.169
+        ],
+        "labels": {
+          "en": "Colusa"
+        },
+        "population": 24362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9795,
+          41.691
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "015",
+        "area": 0.5722599999999988,
+        "bounding_box": [
+          -124.441,
+          41.381,
+          -123.518,
+          42.001
+        ],
+        "point": [
+          -123.9795,
+          41.691
+        ],
+        "labels": {
+          "en": "Del Norte"
+        },
+        "population": 29772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72749999999999,
+          41.59
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "049",
+        "area": 1.1876259999999912,
+        "bounding_box": [
+          -121.457,
+          41.183,
+          -119.998,
+          41.997
+        ],
+        "point": [
+          -120.72749999999999,
+          41.59
+        ],
+        "labels": {
+          "en": "Modoc"
+        },
+        "population": 9996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.64,
+          36.7465
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "019",
+        "area": 4.294881999999993,
+        "bounding_box": [
+          -120.919,
+          35.907,
+          -118.361,
+          37.586
+        ],
+        "point": [
+          -119.64,
+          36.7465
+        ],
+        "labels": {
+          "en": "Fresno"
+        },
+        "population": 1082877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.784,
+          37.274
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "039",
+        "area": 1.5361919999999942,
+        "bounding_box": [
+          -120.546,
+          36.77,
+          -119.022,
+          37.778
+        ],
+        "point": [
+          -119.784,
+          37.274
+        ],
+        "labels": {
+          "en": "Madera"
+        },
+        "population": 185849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7055,
+          37.191
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "085",
+        "area": 0.5838839999999981,
+        "bounding_box": [
+          -122.202,
+          36.897,
+          -121.209,
+          37.485
+        ],
+        "point": [
+          -121.7055,
+          37.191
+        ],
+        "labels": {
+          "en": "Santa Clara"
+        },
+        "population": 1888747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20349999999999,
+          40.125
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "103",
+        "area": 1.1302880000000095,
+        "bounding_box": [
+          -123.065,
+          39.797,
+          -121.342,
+          40.453
+        ],
+        "point": [
+          -122.20349999999999,
+          40.125
+        ],
+        "labels": {
+          "en": "Tehama"
+        },
+        "population": 71966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.253,
+          37.891
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "077",
+        "area": 0.5431519999999882,
+        "bounding_box": [
+          -121.585,
+          37.482,
+          -120.921,
+          38.3
+        ],
+        "point": [
+          -121.253,
+          37.891
+        ],
+        "labels": {
+          "en": "San Joaquin"
+        },
+        "population": 833205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9215,
+          37.679500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "001",
+        "area": 0.408155000000001,
+        "bounding_box": [
+          -122.374,
+          37.454,
+          -121.469,
+          37.905
+        ],
+        "point": [
+          -121.9215,
+          37.679500000000004
+        ],
+        "labels": {
+          "en": "Alameda"
+        },
+        "population": 1580442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.642,
+          39.2645
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "057",
+        "area": 0.662243999999996,
+        "bounding_box": [
+          -121.28,
+          39.005,
+          -120.004,
+          39.524
+        ],
+        "point": [
+          -120.642,
+          39.2645
+        ],
+        "labels": {
+          "en": "Nevada"
+        },
+        "population": 105642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.57300000000001,
+          39.724000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "007",
+        "area": 0.8491520000000055,
+        "bounding_box": [
+          -122.069,
+          39.296,
+          -121.077,
+          40.152
+        ],
+        "point": [
+          -121.57300000000001,
+          39.724000000000004
+        ],
+        "labels": {
+          "en": "Butte"
+        },
+        "population": 238204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.649,
+          37.1865
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "047",
+        "area": 1.0662419999999904,
+        "bounding_box": [
+          -121.246,
+          36.74,
+          -120.052,
+          37.633
+        ],
+        "point": [
+          -120.649,
+          37.1865
+        ],
+        "labels": {
+          "en": "Merced"
+        },
+        "population": 310109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.77699999999999,
+          36.266999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "107",
+        "area": 1.5219519999999924,
+        "bounding_box": [
+          -119.573,
+          35.789,
+          -117.981,
+          36.745
+        ],
+        "point": [
+          -118.77699999999999,
+          36.266999999999996
+        ],
+        "labels": {
+          "en": "Tulare"
+        },
+        "population": 531033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9375,
+          37.605999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "099",
+        "area": 1.0352579999999902,
+        "bounding_box": [
+          -121.487,
+          37.135,
+          -120.388,
+          38.077
+        ],
+        "point": [
+          -120.9375,
+          37.605999999999995
+        ],
+        "labels": {
+          "en": "Stanislaus"
+        },
+        "population": 592351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7695,
+          33.6405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "059",
+        "area": 0.43706900000000465,
+        "bounding_box": [
+          -118.126,
+          33.334,
+          -117.413,
+          33.947
+        ],
+        "point": [
+          -117.7695,
+          33.6405
+        ],
+        "labels": {
+          "en": "Orange"
+        },
+        "population": 3177334
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2845,
+          33.0265
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "025",
+        "area": 1.3390449999999967,
+        "bounding_box": [
+          -116.106,
+          32.619,
+          -114.463,
+          33.434
+        ],
+        "point": [
+          -115.2845,
+          33.0265
+        ],
+        "labels": {
+          "en": "Imperial"
+        },
+        "population": 222131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.681,
+          39.0205
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "101",
+        "area": 0.30491399999999425,
+        "bounding_box": [
+          -121.948,
+          38.735,
+          -121.414,
+          39.306
+        ],
+        "point": [
+          -121.681,
+          39.0205
+        ],
+        "labels": {
+          "en": "Sutter"
+        },
+        "population": 113853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.55000000000001,
+          38.4635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "005",
+        "area": 0.4693960000000012,
+        "bounding_box": [
+          -121.028,
+          38.218,
+          -120.072,
+          38.709
+        ],
+        "point": [
+          -120.55000000000001,
+          38.4635
+        ],
+        "labels": {
+          "en": "Amador"
+        },
+        "population": 41443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.717,
+          39.1245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "033",
+        "area": 0.6884019999999944,
+        "bounding_box": [
+          -123.094,
+          38.668,
+          -122.34,
+          39.581
+        ],
+        "point": [
+          -122.717,
+          39.1245
+        ],
+        "labels": {
+          "en": "Lake"
+        },
+        "population": 71671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7985,
+          40.0235
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "063",
+        "area": 1.1933470000000028,
+        "bounding_box": [
+          -121.498,
+          39.597,
+          -120.099,
+          40.45
+        ],
+        "point": [
+          -120.7985,
+          40.0235
+        ],
+        "labels": {
+          "en": "Plumas"
+        },
+        "population": 19237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33449999999999,
+          37.381
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "081",
+        "area": 0.33157799999999216,
+        "bounding_box": [
+          -122.588,
+          37.054,
+          -122.081,
+          37.708
+        ],
+        "point": [
+          -122.33449999999999,
+          37.381
+        ],
+        "labels": {
+          "en": "San Mateo"
+        },
+        "population": 725882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5825,
+          41.501
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "093",
+        "area": 2.313913999999998,
+        "bounding_box": [
+          -123.719,
+          40.992,
+          -121.446,
+          42.01
+        ],
+        "point": [
+          -122.5825,
+          41.501
+        ],
+        "labels": {
+          "en": "Siskiyou"
+        },
+        "population": 45539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9495,
+          37.053
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "087",
+        "area": 0.34344199999999836,
+        "bounding_box": [
+          -122.318,
+          36.82,
+          -121.581,
+          37.286
+        ],
+        "point": [
+          -121.9495,
+          37.053
+        ],
+        "labels": {
+          "en": "Santa Cruz"
+        },
+        "population": 269045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39750000000001,
+          39.592
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "021",
+        "area": 0.4518580000000005,
+        "bounding_box": [
+          -122.938,
+          39.383,
+          -121.857,
+          39.801
+        ],
+        "point": [
+          -122.39750000000001,
+          39.592
+        ],
+        "labels": {
+          "en": "Glenn"
+        },
+        "population": 30020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4555,
+          35.346999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ca",
+        "region_child": "079",
+        "area": 1.7685000000000002,
+        "bounding_box": [
+          -121.438,
+          34.897,
+          -119.473,
+          35.797
+        ],
+        "point": [
+          -120.4555,
+          35.346999999999994
+        ],
+        "labels": {
+          "en": "San Luis Obispo"
+        },
+        "population": 294740
+      }
+    }
+  ]
+}

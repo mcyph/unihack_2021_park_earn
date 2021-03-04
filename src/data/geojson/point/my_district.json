@@ -1,0 +1,5645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.71100000000001,
+          4.282
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "manjung (dinding)",
+        "area": 0.16340399999999883,
+        "bounding_box": [
+          100.558,
+          4.015,
+          100.864,
+          4.549
+        ],
+        "point": [
+          100.71100000000001,
+          4.282
+        ],
+        "labels": {
+          "en": "Manjung (Dinding)"
+        },
+        "population": 260546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55699999999999,
+          4.2315000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "manjung (dinding)",
+        "area": 0.0024699999999998005,
+        "bounding_box": [
+          100.538,
+          4.199,
+          100.576,
+          4.264
+        ],
+        "point": [
+          100.55699999999999,
+          4.2315000000000005
+        ],
+        "labels": {
+          "en": "Manjung (Dinding)"
+        },
+        "population": 260546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.862,
+          5.726
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "baling",
+        "area": 0.3487400000000005,
+        "bounding_box": [
+          100.597,
+          5.397,
+          101.127,
+          6.055
+        ],
+        "point": [
+          100.862,
+          5.726
+        ],
+        "labels": {
+          "en": "Baling"
+        },
+        "population": 137850
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.58500000000001,
+          3.0965
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "petaling",
+        "area": 0.0737939999999992,
+        "bounding_box": [
+          101.438,
+          2.971,
+          101.732,
+          3.222
+        ],
+        "point": [
+          101.58500000000001,
+          3.0965
+        ],
+        "labels": {
+          "en": "Petaling"
+        },
+        "population": 2350489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5275,
+          5.591
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "besut",
+        "area": 0.14522200000000318,
+        "bounding_box": [
+          102.384,
+          5.338,
+          102.671,
+          5.844
+        ],
+        "point": [
+          102.5275,
+          5.591
+        ],
+        "labels": {
+          "en": "Besut"
+        },
+        "population": 150352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.541,
+          4.259
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "jerantut",
+        "area": 0.9905719999999981,
+        "bounding_box": [
+          102.062,
+          3.742,
+          103.02,
+          4.776
+        ],
+        "point": [
+          102.541,
+          4.259
+        ],
+        "labels": {
+          "en": "Jerantut"
+        },
+        "population": 96585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.4785,
+          3.2075
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "bintulu",
+        "area": 1.1718270000000015,
+        "bounding_box": [
+          112.892,
+          2.708,
+          114.065,
+          3.707
+        ],
+        "point": [
+          113.4785,
+          3.2075
+        ],
+        "labels": {
+          "en": "Bintulu"
+        },
+        "population": 233458
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.166,
+          2.9155
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "rompin",
+        "area": 0.8507660000000022,
+        "bounding_box": [
+          102.697,
+          2.462,
+          103.635,
+          3.369
+        ],
+        "point": [
+          103.166,
+          2.9155
+        ],
+        "labels": {
+          "en": "Rompin"
+        },
+        "population": 113448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.10249999999999,
+          1.384
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "bau",
+        "area": 0.13632000000000158,
+        "bounding_box": [
+          109.925,
+          1.192,
+          110.28,
+          1.576
+        ],
+        "point": [
+          110.10249999999999,
+          1.384
+        ],
+        "labels": {
+          "en": "Bau"
+        },
+        "population": 71931
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.684,
+          2.9035
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "w.p. putrajaya",
+        "area": 0.006313999999999507,
+        "bounding_box": [
+          101.643,
+          2.865,
+          101.725,
+          2.942
+        ],
+        "point": [
+          101.684,
+          2.9035
+        ],
+        "labels": {
+          "en": "W.P. Putrajaya"
+        },
+        "population": 96409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.595,
+          1.561
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "asajaya",
+        "area": 0.013119999999999733,
+        "bounding_box": [
+          110.515,
+          1.52,
+          110.675,
+          1.602
+        ],
+        "point": [
+          110.595,
+          1.561
+        ],
+        "labels": {
+          "en": "Asajaya"
+        },
+        "population": 18037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.959,
+          1.83
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "julau",
+        "area": 0.24751999999999943,
+        "bounding_box": [
+          111.721,
+          1.57,
+          112.197,
+          2.09
+        ],
+        "point": [
+          111.959,
+          1.83
+        ],
+        "labels": {
+          "en": "Julau"
+        },
+        "population": 16436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.652,
+          2.2605
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "ledang",
+        "area": 0.15101599999999743,
+        "bounding_box": [
+          102.48,
+          2.041,
+          102.824,
+          2.48
+        ],
+        "point": [
+          102.652,
+          2.2605
+        ],
+        "labels": {
+          "en": "Ledang"
+        },
+        "population": 144408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5035,
+          5.7035
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuala muda",
+        "area": 0.10889900000000122,
+        "bounding_box": [
+          100.338,
+          5.539,
+          100.669,
+          5.868
+        ],
+        "point": [
+          100.5035,
+          5.7035
+        ],
+        "labels": {
+          "en": "Kuala Muda"
+        },
+        "population": 580587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5195,
+          6.170999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "pokok sena",
+        "area": 0.04386199999999982,
+        "bounding_box": [
+          100.399,
+          6.08,
+          100.64,
+          6.262
+        ],
+        "point": [
+          100.5195,
+          6.170999999999999
+        ],
+        "labels": {
+          "en": "Pokok Sena"
+        },
+        "population": 80316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1265,
+          3.3040000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "pekan",
+        "area": 0.49490600000000534,
+        "bounding_box": [
+          102.776,
+          2.951,
+          103.477,
+          3.657
+        ],
+        "point": [
+          103.1265,
+          3.3040000000000003
+        ],
+        "labels": {
+          "en": "Pekan"
+        },
+        "population": 112067
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.8885,
+          2.293
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sibu",
+        "area": 0.2625479999999966,
+        "bounding_box": [
+          111.608,
+          2.059,
+          112.169,
+          2.527
+        ],
+        "point": [
+          111.8885,
+          2.293
+        ],
+        "labels": {
+          "en": "Sibu"
+        },
+        "population": 251609
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3955,
+          1.5145
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "pontian",
+        "area": 0.18587100000000462,
+        "bounding_box": [
+          103.21,
+          1.264,
+          103.581,
+          1.765
+        ],
+        "point": [
+          103.3955,
+          1.5145
+        ],
+        "labels": {
+          "en": "Pontian"
+        },
+        "population": 150659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45599999999999,
+          5.361000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "s.p. tengah",
+        "area": 0.024648000000000145,
+        "bounding_box": [
+          100.377,
+          5.283,
+          100.535,
+          5.439
+        ],
+        "point": [
+          100.45599999999999,
+          5.361000000000001
+        ],
+        "labels": {
+          "en": "S.P. Tengah"
+        },
+        "population": 442762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1955,
+          5.8235
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "penampang",
+        "area": 0.07478699999999909,
+        "bounding_box": [
+          116.05,
+          5.695,
+          116.341,
+          5.952
+        ],
+        "point": [
+          116.1955,
+          5.8235
+        ],
+        "labels": {
+          "en": "Penampang"
+        },
+        "population": 188688
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.78049999999999,
+          2.133
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "muar",
+        "area": 0.26487999999999934,
+        "bounding_box": [
+          102.544,
+          1.853,
+          103.017,
+          2.413
+        ],
+        "point": [
+          102.78049999999999,
+          2.133
+        ],
+        "labels": {
+          "en": "Muar"
+        },
+        "population": 270701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3775,
+          5.689500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tambunan",
+        "area": 0.20325699999999677,
+        "bounding_box": [
+          116.158,
+          5.458,
+          116.597,
+          5.921
+        ],
+        "point": [
+          116.3775,
+          5.689500000000001
+        ],
+        "labels": {
+          "en": "Tambunan"
+        },
+        "population": 52691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8215,
+          3.954
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "miri",
+        "area": 1.0252799999999844,
+        "bounding_box": [
+          113.421,
+          3.314,
+          114.222,
+          4.594
+        ],
+        "point": [
+          113.8215,
+          3.954
+        ],
+        "labels": {
+          "en": "Miri"
+        },
+        "population": 369719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.863,
+          1.722
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "lundu",
+        "area": 0.3965759999999977,
+        "bounding_box": [
+          109.539,
+          1.416,
+          110.187,
+          2.028
+        ],
+        "point": [
+          109.863,
+          1.722
+        ],
+        "labels": {
+          "en": "Lundu"
+        },
+        "population": 41816
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.715,
+          2.651
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "matu",
+        "area": 0.232356000000001,
+        "bounding_box": [
+          111.426,
+          2.45,
+          112.004,
+          2.852
+        ],
+        "point": [
+          111.715,
+          2.651
+        ],
+        "labels": {
+          "en": "Matu"
+        },
+        "population": 39790
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.99199999999999,
+          5.7844999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sandakan",
+        "area": 0.40423400000000176,
+        "bounding_box": [
+          117.633,
+          5.503,
+          118.351,
+          6.066
+        ],
+        "point": [
+          117.99199999999999,
+          5.7844999999999995
+        ],
+        "labels": {
+          "en": "Sandakan"
+        },
+        "population": 523064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.964,
+          5.77
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sandakan",
+        "area": 0.004927999999999661,
+        "bounding_box": [
+          117.92,
+          5.742,
+          118.008,
+          5.798
+        ],
+        "point": [
+          117.964,
+          5.77
+        ],
+        "labels": {
+          "en": "Sandakan"
+        },
+        "population": 523064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.191,
+          5.8325
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sandakan",
+        "area": 0.0032799999999998885,
+        "bounding_box": [
+          118.151,
+          5.812,
+          118.231,
+          5.853
+        ],
+        "point": [
+          118.191,
+          5.8325
+        ],
+        "labels": {
+          "en": "Sandakan"
+        },
+        "population": 523064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5395,
+          2.8075
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuala langat",
+        "area": 0.08861700000000025,
+        "bounding_box": [
+          101.404,
+          2.644,
+          101.675,
+          2.971
+        ],
+        "point": [
+          101.5395,
+          2.8075
+        ],
+        "labels": {
+          "en": "Kuala Langat"
+        },
+        "population": 232883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.368,
+          2.8724999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuala langat",
+        "area": 0.022741999999999565,
+        "bounding_box": [
+          101.285,
+          2.804,
+          101.451,
+          2.941
+        ],
+        "point": [
+          101.368,
+          2.8724999999999996
+        ],
+        "labels": {
+          "en": "Kuala Langat"
+        },
+        "population": 232883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.62299999999999,
+          5.2115
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "bandar baharu",
+        "area": 0.05927999999999871,
+        "bounding_box": [
+          100.503,
+          5.088,
+          100.743,
+          5.335
+        ],
+        "point": [
+          100.62299999999999,
+          5.2115
+        ],
+        "labels": {
+          "en": "Bandar Baharu"
+        },
+        "population": 43069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.53800000000001,
+          3.129
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "bera",
+        "area": 0.34189999999999776,
+        "bounding_box": [
+          102.275,
+          2.804,
+          102.801,
+          3.454
+        ],
+        "point": [
+          102.53800000000001,
+          3.129
+        ],
+        "labels": {
+          "en": "Bera"
+        },
+        "population": 113469
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.4945,
+          2.3964999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "daro",
+        "area": 0.2054970000000003,
+        "bounding_box": [
+          111.301,
+          2.131,
+          111.688,
+          2.662
+        ],
+        "point": [
+          111.4945,
+          2.3964999999999996
+        ],
+        "labels": {
+          "en": "Daro"
+        },
+        "population": 65814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.3515,
+          2.5845000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "daro",
+        "area": 0.0616169999999961,
+        "bounding_box": [
+          111.281,
+          2.366,
+          111.422,
+          2.803
+        ],
+        "point": [
+          111.3515,
+          2.5845000000000002
+        ],
+        "labels": {
+          "en": "Daro"
+        },
+        "population": 65814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.26650000000001,
+          2.1985
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "daro",
+        "area": 0.034502999999999756,
+        "bounding_box": [
+          111.158,
+          2.119,
+          111.375,
+          2.278
+        ],
+        "point": [
+          111.26650000000001,
+          2.1985
+        ],
+        "labels": {
+          "en": "Daro"
+        },
+        "population": 65814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.2555,
+          2.317
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "daro",
+        "area": 0.03346200000000016,
+        "bounding_box": [
+          111.184,
+          2.2,
+          111.327,
+          2.434
+        ],
+        "point": [
+          111.2555,
+          2.317
+        ],
+        "labels": {
+          "en": "Daro"
+        },
+        "population": 65814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1625,
+          4.3535
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "limbang",
+        "area": 0.7898090000000095,
+        "bounding_box": [
+          114.791,
+          3.822,
+          115.534,
+          4.885
+        ],
+        "point": [
+          115.1625,
+          4.3535
+        ],
+        "labels": {
+          "en": "Limbang"
+        },
+        "population": 54720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.083,
+          3.6715
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sabak bernam",
+        "area": 0.21317200000000083,
+        "bounding_box": [
+          100.809,
+          3.477,
+          101.357,
+          3.866
+        ],
+        "point": [
+          101.083,
+          3.6715
+        ],
+        "labels": {
+          "en": "Sabak Bernam"
+        },
+        "population": 95414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.049,
+          5.3525
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuala terengganu",
+        "area": 0.07918600000000019,
+        "bounding_box": [
+          102.912,
+          5.208,
+          103.186,
+          5.497
+        ],
+        "point": [
+          103.049,
+          5.3525
+        ],
+        "labels": {
+          "en": "Kuala Terengganu"
+        },
+        "population": 370018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1725,
+          5.992
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kota kinabalu",
+        "area": 0.07041800000000115,
+        "bounding_box": [
+          116.044,
+          5.855,
+          116.301,
+          6.129
+        ],
+        "point": [
+          116.1725,
+          5.992
+        ],
+        "labels": {
+          "en": "Kota Kinabalu"
+        },
+        "population": 613311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.035,
+          6.0215
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kota kinabalu",
+        "area": 0.002132000000000248,
+        "bounding_box": [
+          116.009,
+          6.001,
+          116.061,
+          6.042
+        ],
+        "point": [
+          116.035,
+          6.0215
+        ],
+        "labels": {
+          "en": "Kota Kinabalu"
+        },
+        "population": 613311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7875,
+          5.253500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kampar",
+        "area": 0.11355299999999952,
+        "bounding_box": [
+          100.621,
+          5.083,
+          100.954,
+          5.424
+        ],
+        "point": [
+          100.7875,
+          5.253500000000001
+        ],
+        "labels": {
+          "en": "Kampar"
+        },
+        "population": 42045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6785,
+          3.1304999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "wp. kuala lumpur",
+        "area": 0.030351000000002112,
+        "bounding_box": [
+          101.603,
+          3.03,
+          101.754,
+          3.231
+        ],
+        "point": [
+          101.6785,
+          3.1304999999999996
+        ],
+        "labels": {
+          "en": "WP. Kuala Lumpur"
+        },
+        "population": 2127904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.162,
+          6.1635
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tumpat",
+        "area": 0.02703000000000039,
+        "bounding_box": [
+          102.077,
+          6.084,
+          102.247,
+          6.243
+        ],
+        "point": [
+          102.162,
+          6.1635
+        ],
+        "labels": {
+          "en": "Tumpat"
+        },
+        "population": 177042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.662,
+          1.7975
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "pakan",
+        "area": 0.19661999999999924,
+        "bounding_box": [
+          111.436,
+          1.58,
+          111.888,
+          2.015
+        ],
+        "point": [
+          111.662,
+          1.7975
+        ],
+        "labels": {
+          "en": "Pakan"
+        },
+        "population": 19258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8805,
+          4.34
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "lipis",
+        "area": 0.7316400000000077,
+        "bounding_box": [
+          101.445,
+          3.92,
+          102.316,
+          4.76
+        ],
+        "point": [
+          101.8805,
+          4.34
+        ],
+        "labels": {
+          "en": "Lipis"
+        },
+        "population": 102550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.99549999999999,
+          1.242
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "lubok antu",
+        "area": 0.21743999999999458,
+        "bounding_box": [
+          111.769,
+          1.002,
+          112.222,
+          1.482
+        ],
+        "point": [
+          111.99549999999999,
+          1.242
+        ],
+        "labels": {
+          "en": "Lubok Antu"
+        },
+        "population": 12122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.77600000000001,
+          6.371
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "langkawi",
+        "area": 0.052919999999999384,
+        "bounding_box": [
+          99.641,
+          6.273,
+          99.911,
+          6.469
+        ],
+        "point": [
+          99.77600000000001,
+          6.371
+        ],
+        "labels": {
+          "en": "Langkawi"
+        },
+        "population": 113614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8,
+          6.2204999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "langkawi",
+        "area": 0.007487999999999175,
+        "bounding_box": [
+          99.768,
+          6.162,
+          99.832,
+          6.279
+        ],
+        "point": [
+          99.8,
+          6.2204999999999995
+        ],
+        "labels": {
+          "en": "Langkawi"
+        },
+        "population": 113614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.848,
+          6.243
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "langkawi",
+        "area": 0.00142799999999965,
+        "bounding_box": [
+          99.831,
+          6.222,
+          99.865,
+          6.264
+        ],
+        "point": [
+          99.848,
+          6.243
+        ],
+        "labels": {
+          "en": "Langkawi"
+        },
+        "population": 113614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4935,
+          1.4205
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "samarahan",
+        "area": 0.06922300000000169,
+        "bounding_box": [
+          110.323,
+          1.319,
+          110.664,
+          1.522
+        ],
+        "point": [
+          110.4935,
+          1.4205
+        ],
+        "labels": {
+          "en": "Samarahan"
+        },
+        "population": 137825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.28899999999999,
+          5.241
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "keningau",
+        "area": 0.46057599999999876,
+        "bounding_box": [
+          115.993,
+          4.852,
+          116.585,
+          5.63
+        ],
+        "point": [
+          116.28899999999999,
+          5.241
+        ],
+        "labels": {
+          "en": "Keningau"
+        },
+        "population": 227966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.072,
+          6.0175
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "pasir mas",
+        "area": 0.07889999999999922,
+        "bounding_box": [
+          101.922,
+          5.886,
+          102.222,
+          6.149
+        ],
+        "point": [
+          102.072,
+          6.0175
+        ],
+        "labels": {
+          "en": "Pasir Mas"
+        },
+        "population": 208457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.119,
+          5.426
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuala krai",
+        "area": 0.3281679999999932,
+        "bounding_box": [
+          101.796,
+          5.172,
+          102.442,
+          5.68
+        ],
+        "point": [
+          102.119,
+          5.426
+        ],
+        "labels": {
+          "en": "Kuala Krai"
+        },
+        "population": 118763
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3775,
+          6.022
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "bachok",
+        "area": 0.05329799999999802,
+        "bounding_box": [
+          102.283,
+          5.881,
+          102.472,
+          6.163
+        ],
+        "point": [
+          102.3775,
+          6.022
+        ],
+        "labels": {
+          "en": "Bachok"
+        },
+        "population": 138882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1325,
+          3.0555000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "jelebu",
+        "area": 0.1900150000000029,
+        "bounding_box": [
+          101.919,
+          2.833,
+          102.346,
+          3.278
+        ],
+        "point": [
+          102.1325,
+          3.0555000000000003
+        ],
+        "labels": {
+          "en": "Jelebu"
+        },
+        "population": 39978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0035,
+          4.9719999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "gua musang",
+        "area": 1.1243340000000055,
+        "bounding_box": [
+          101.339,
+          4.549,
+          102.668,
+          5.395
+        ],
+        "point": [
+          102.0035,
+          4.9719999999999995
+        ],
+        "labels": {
+          "en": "Gua Musang"
+        },
+        "population": 98639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5545,
+          1.666
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kulaijaya",
+        "area": 0.10281599999999981,
+        "bounding_box": [
+          103.376,
+          1.522,
+          103.733,
+          1.81
+        ],
+        "point": [
+          103.5545,
+          1.666
+        ],
+        "labels": {
+          "en": "Kulaijaya"
+        },
+        "population": 399000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4085,
+          5.8475
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "yan",
+        "area": 0.032103000000001235,
+        "bounding_box": [
+          100.347,
+          5.717,
+          100.47,
+          5.978
+        ],
+        "point": [
+          100.4085,
+          5.8475
+        ],
+        "labels": {
+          "en": "Yan"
+        },
+        "population": 70217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8495,
+          3.072
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "ulu langat",
+        "area": 0.09929199999999984,
+        "bounding_box": [
+          101.729,
+          2.866,
+          101.97,
+          3.278
+        ],
+        "point": [
+          101.8495,
+          3.072
+        ],
+        "labels": {
+          "en": "Ulu Langat"
+        },
+        "population": 1431591
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8065,
+          3.6355000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "marudi",
+        "area": 3.2026150000000237,
+        "bounding_box": [
+          113.957,
+          2.693,
+          115.656,
+          4.578
+        ],
+        "point": [
+          114.8065,
+          3.6355000000000004
+        ],
+        "labels": {
+          "en": "Marudi"
+        },
+        "population": 50677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.83500000000001,
+          1.279
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "simunjan",
+        "area": 0.3444480000000046,
+        "bounding_box": [
+          110.547,
+          0.98,
+          111.123,
+          1.578
+        ],
+        "point": [
+          110.83500000000001,
+          1.279
+        ],
+        "labels": {
+          "en": "Simunjan"
+        },
+        "population": 50395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.108,
+          2.568
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "rembau",
+        "area": 0.05470800000000074,
+        "bounding_box": [
+          102.011,
+          2.427,
+          102.205,
+          2.709
+        ],
+        "point": [
+          102.108,
+          2.568
+        ],
+        "labels": {
+          "en": "Rembau"
+        },
+        "population": 48801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.37049999999999,
+          5.3895
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kinabatangan",
+        "area": 1.558219000000002,
+        "bounding_box": [
+          117.476,
+          4.954,
+          119.265,
+          5.825
+        ],
+        "point": [
+          118.37049999999999,
+          5.3895
+        ],
+        "labels": {
+          "en": "Kinabatangan"
+        },
+        "population": 224642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4375,
+          3.0614999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "klang",
+        "area": 0.06551099999999889,
+        "bounding_box": [
+          101.307,
+          2.936,
+          101.568,
+          3.187
+        ],
+        "point": [
+          101.4375,
+          3.0614999999999997
+        ],
+        "labels": {
+          "en": "Klang"
+        },
+        "population": 1070368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.321,
+          2.943
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "klang",
+        "area": 0.009587999999999427,
+        "bounding_box": [
+          101.274,
+          2.892,
+          101.368,
+          2.994
+        ],
+        "point": [
+          101.321,
+          2.943
+        ],
+        "labels": {
+          "en": "Klang"
+        },
+        "population": 1070368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2995,
+          2.9855
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "klang",
+        "area": 0.004080999999999899,
+        "bounding_box": [
+          101.261,
+          2.959,
+          101.338,
+          3.012
+        ],
+        "point": [
+          101.2995,
+          2.9855
+        ],
+        "labels": {
+          "en": "Klang"
+        },
+        "population": 1070368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.311,
+          3.04
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "klang",
+        "area": 0.003131999999999285,
+        "bounding_box": [
+          101.284,
+          3.011,
+          101.338,
+          3.069
+        ],
+        "point": [
+          101.311,
+          3.04
+        ],
+        "labels": {
+          "en": "Klang"
+        },
+        "population": 1070368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2485,
+          3.04
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "klang",
+        "area": 0.0025200000000000977,
+        "bounding_box": [
+          101.217,
+          3.02,
+          101.28,
+          3.06
+        ],
+        "point": [
+          101.2485,
+          3.04
+        ],
+        "labels": {
+          "en": "Klang"
+        },
+        "population": 1070368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.282,
+          2.9475
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "klang",
+        "area": 0.0019800000000000807,
+        "bounding_box": [
+          101.264,
+          2.92,
+          101.3,
+          2.975
+        ],
+        "point": [
+          101.282,
+          2.9475
+        ],
+        "labels": {
+          "en": "Klang"
+        },
+        "population": 1070368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.245,
+          2.9345
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "klang",
+        "area": 0.0017640000000003699,
+        "bounding_box": [
+          101.231,
+          2.903,
+          101.259,
+          2.966
+        ],
+        "point": [
+          101.245,
+          2.9345
+        ],
+        "labels": {
+          "en": "Klang"
+        },
+        "population": 1070368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55250000000001,
+          4.9965
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kerian",
+        "area": 0.1158850000000016,
+        "bounding_box": [
+          100.36,
+          4.846,
+          100.745,
+          5.147
+        ],
+        "point": [
+          100.55250000000001,
+          4.9965
+        ],
+        "labels": {
+          "en": "Kerian"
+        },
+        "population": 221682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52799999999999,
+          4.8934999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kerian",
+        "area": 0.00623999999999935,
+        "bounding_box": [
+          100.48,
+          4.861,
+          100.576,
+          4.926
+        ],
+        "point": [
+          100.52799999999999,
+          4.8934999999999995
+        ],
+        "labels": {
+          "en": "Kerian"
+        },
+        "population": 221682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6365,
+          4.484999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tawau",
+        "area": 0.8825599999999936,
+        "bounding_box": [
+          116.947,
+          4.165,
+          118.326,
+          4.805
+        ],
+        "point": [
+          117.6365,
+          4.484999999999999
+        ],
+        "labels": {
+          "en": "Tawau"
+        },
+        "population": 547809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.59649999999999,
+          4.27
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tawau",
+        "area": 0.00903000000000028,
+        "bounding_box": [
+          117.544,
+          4.227,
+          117.649,
+          4.313
+        ],
+        "point": [
+          117.59649999999999,
+          4.27
+        ],
+        "labels": {
+          "en": "Tawau"
+        },
+        "population": 547809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.571,
+          4.227
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tawau",
+        "area": 0.0039959999999998495,
+        "bounding_box": [
+          117.534,
+          4.2,
+          117.608,
+          4.254
+        ],
+        "point": [
+          117.571,
+          4.227
+        ],
+        "labels": {
+          "en": "Tawau"
+        },
+        "population": 547809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.584,
+          4.1935
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tawau",
+        "area": 0.0017159999999997713,
+        "bounding_box": [
+          117.558,
+          4.177,
+          117.61,
+          4.21
+        ],
+        "point": [
+          117.584,
+          4.1935
+        ],
+        "labels": {
+          "en": "Tawau"
+        },
+        "population": 547809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7435,
+          6.838
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kudat",
+        "area": 0.08900600000000149,
+        "bounding_box": [
+          116.627,
+          6.647,
+          116.86,
+          7.029
+        ],
+        "point": [
+          116.7435,
+          6.838
+        ],
+        "labels": {
+          "en": "Kudat"
+        },
+        "population": 104081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1735,
+          7.239000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kudat",
+        "area": 0.06026399999999881,
+        "bounding_box": [
+          117.052,
+          7.115,
+          117.295,
+          7.363
+        ],
+        "point": [
+          117.1735,
+          7.239000000000001
+        ],
+        "labels": {
+          "en": "Kudat"
+        },
+        "population": 104081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.94200000000001,
+          7.275
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kudat",
+        "area": 0.02656000000000171,
+        "bounding_box": [
+          116.862,
+          7.192,
+          117.022,
+          7.358
+        ],
+        "point": [
+          116.94200000000001,
+          7.275
+        ],
+        "labels": {
+          "en": "Kudat"
+        },
+        "population": 104081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.30850000000001,
+          7.047499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kudat",
+        "area": 0.0049769999999995694,
+        "bounding_box": [
+          117.269,
+          7.016,
+          117.348,
+          7.079
+        ],
+        "point": [
+          117.30850000000001,
+          7.047499999999999
+        ],
+        "labels": {
+          "en": "Kudat"
+        },
+        "population": 104081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.923,
+          1.6909999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kota tinggi",
+        "area": 0.5267519999999998,
+        "bounding_box": [
+          103.551,
+          1.337,
+          104.295,
+          2.045
+        ],
+        "point": [
+          103.923,
+          1.6909999999999998
+        ],
+        "labels": {
+          "en": "Kota Tinggi"
+        },
+        "population": 179820
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2055,
+          2.7205000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuala pilah",
+        "area": 0.11315500000000253,
+        "bounding_box": [
+          102.053,
+          2.535,
+          102.358,
+          2.906
+        ],
+        "point": [
+          102.2055,
+          2.7205000000000004
+        ],
+        "labels": {
+          "en": "Kuala Pilah"
+        },
+        "population": 64162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.404,
+          5.8405000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "pasir puteh",
+        "area": 0.05187000000000088,
+        "bounding_box": [
+          102.271,
+          5.743,
+          102.537,
+          5.938
+        ],
+        "point": [
+          102.404,
+          5.8405000000000005
+        ],
+        "labels": {
+          "en": "Pasir Puteh"
+        },
+        "population": 115414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6725,
+          4.6485
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sipitang",
+        "area": 0.45457500000000234,
+        "bounding_box": [
+          115.455,
+          4.126,
+          115.89,
+          5.171
+        ],
+        "point": [
+          115.6725,
+          4.6485
+        ],
+        "labels": {
+          "en": "Sipitang"
+        },
+        "population": 50908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2435,
+          5.372
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "barat daya",
+        "area": 0.025152000000000067,
+        "bounding_box": [
+          100.178,
+          5.276,
+          100.309,
+          5.468
+        ],
+        "point": [
+          100.2435,
+          5.372
+        ],
+        "labels": {
+          "en": "Barat Daya"
+        },
+        "population": 228778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.1625,
+          2.6285
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tatau",
+        "area": 1.0125829999999938,
+        "bounding_box": [
+          112.629,
+          2.154,
+          113.696,
+          3.103
+        ],
+        "point": [
+          113.1625,
+          2.6285
+        ],
+        "labels": {
+          "en": "Tatau"
+        },
+        "population": 36720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47550000000001,
+          4.7010000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "nabawan",
+        "area": 1.0070600000000058,
+        "bounding_box": [
+          115.89,
+          4.271,
+          117.061,
+          5.131
+        ],
+        "point": [
+          116.47550000000001,
+          4.7010000000000005
+        ],
+        "labels": {
+          "en": "Nabawan"
+        },
+        "population": 48061
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2515,
+          6.045
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kota bharu",
+        "area": 0.06291799999999939,
+        "bounding_box": [
+          102.155,
+          5.882,
+          102.348,
+          6.208
+        ],
+        "point": [
+          102.2515,
+          6.045
+        ],
+        "labels": {
+          "en": "Kota Bharu"
+        },
+        "population": 543191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6755,
+          2.3529999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "mersing",
+        "area": 0.48014199999999735,
+        "bounding_box": [
+          103.292,
+          2.04,
+          104.059,
+          2.666
+        ],
+        "point": [
+          103.6755,
+          2.3529999999999998
+        ],
+        "labels": {
+          "en": "Mersing"
+        },
+        "population": 72511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.17,
+          2.8085
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "mersing",
+        "area": 0.01876199999999899,
+        "bounding_box": [
+          104.117,
+          2.72,
+          104.223,
+          2.897
+        ],
+        "point": [
+          104.17,
+          2.8085
+        ],
+        "labels": {
+          "en": "Mersing"
+        },
+        "population": 72511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.52199999999999,
+          2.4485
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "mersing",
+        "area": 0.0018000000000002786,
+        "bounding_box": [
+          104.502,
+          2.426,
+          104.542,
+          2.471
+        ],
+        "point": [
+          104.52199999999999,
+          2.4485
+        ],
+        "labels": {
+          "en": "Mersing"
+        },
+        "population": 72511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6445,
+          1.899
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kapit",
+        "area": 2.6494580000000103,
+        "bounding_box": [
+          112.669,
+          1.22,
+          114.62,
+          2.578
+        ],
+        "point": [
+          113.6445,
+          1.899
+        ],
+        "labels": {
+          "en": "Kapit"
+        },
+        "population": 53016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.82,
+          5.072
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "hulu terengganu",
+        "area": 0.6431680000000051,
+        "bounding_box": [
+          102.416,
+          4.674,
+          103.224,
+          5.47
+        ],
+        "point": [
+          102.82,
+          5.072
+        ],
+        "labels": {
+          "en": "Hulu Terengganu"
+        },
+        "population": 81914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.782,
+          5.8885
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "ranau",
+        "area": 0.5188139999999974,
+        "bounding_box": [
+          116.449,
+          5.499,
+          117.115,
+          6.278
+        ],
+        "point": [
+          116.782,
+          5.8885
+        ],
+        "labels": {
+          "en": "Ranau"
+        },
+        "population": 128603
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3415,
+          6.0600000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tuaran",
+        "area": 0.18533400000000227,
+        "bounding_box": [
+          116.146,
+          5.823,
+          116.537,
+          6.297
+        ],
+        "point": [
+          116.3415,
+          6.0600000000000005
+        ],
+        "labels": {
+          "en": "Tuaran"
+        },
+        "population": 128906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2995,
+          3.375
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuala selangor",
+        "area": 0.16795800000000027,
+        "bounding_box": [
+          101.106,
+          3.158,
+          101.493,
+          3.592
+        ],
+        "point": [
+          101.2995,
+          3.375
+        ],
+        "labels": {
+          "en": "Kuala Selangor"
+        },
+        "population": 274478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5685,
+          3.558
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "ulu selangor",
+        "area": 0.22989000000000634,
+        "bounding_box": [
+          101.326,
+          3.321,
+          101.811,
+          3.795
+        ],
+        "point": [
+          101.5685,
+          3.558
+        ],
+        "labels": {
+          "en": "Ulu Selangor"
+        },
+        "population": 255217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2945,
+          1.3815
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuching",
+        "area": 0.22011299999999895,
+        "bounding_box": [
+          110.128,
+          1.051,
+          110.461,
+          1.712
+        ],
+        "point": [
+          110.2945,
+          1.3815
+        ],
+        "labels": {
+          "en": "Kuching"
+        },
+        "population": 717521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.42500000000001,
+          1.6615000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuching",
+        "area": 0.022630000000000126,
+        "bounding_box": [
+          110.352,
+          1.584,
+          110.498,
+          1.739
+        ],
+        "point": [
+          110.42500000000001,
+          1.6615000000000002
+        ],
+        "labels": {
+          "en": "Kuching"
+        },
+        "population": 717521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.48,
+          1.572
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuching",
+        "area": 0.013824000000000513,
+        "bounding_box": [
+          110.426,
+          1.508,
+          110.534,
+          1.636
+        ],
+        "point": [
+          110.48,
+          1.572
+        ],
+        "labels": {
+          "en": "Kuching"
+        },
+        "population": 717521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.339,
+          1.716
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuching",
+        "area": 0.01035999999999974,
+        "bounding_box": [
+          110.302,
+          1.646,
+          110.376,
+          1.786
+        ],
+        "point": [
+          110.339,
+          1.716
+        ],
+        "labels": {
+          "en": "Kuching"
+        },
+        "population": 717521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2555,
+          1.6705
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuching",
+        "area": 0.007694999999999925,
+        "bounding_box": [
+          110.208,
+          1.63,
+          110.303,
+          1.711
+        ],
+        "point": [
+          110.2555,
+          1.6705
+        ],
+        "labels": {
+          "en": "Kuching"
+        },
+        "population": 717521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4305,
+          2.5085
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "selangau",
+        "area": 0.5931469999999994,
+        "bounding_box": [
+          112.005,
+          2.16,
+          112.856,
+          2.857
+        ],
+        "point": [
+          112.4305,
+          2.5085
+        ],
+        "labels": {
+          "en": "Selangau"
+        },
+        "population": 25743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.22749999999999,
+          1.949
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kanowit",
+        "area": 0.2771999999999955,
+        "bounding_box": [
+          111.965,
+          1.685,
+          112.49,
+          2.213
+        ],
+        "point": [
+          112.22749999999999,
+          1.949
+        ],
+        "labels": {
+          "en": "Kanowit"
+        },
+        "population": 30493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6825,
+          6.242
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "padang terap",
+        "area": 0.192423999999997,
+        "bounding_box": [
+          100.503,
+          5.974,
+          100.862,
+          6.51
+        ],
+        "point": [
+          100.6825,
+          6.242
+        ],
+        "labels": {
+          "en": "Padang Terap"
+        },
+        "population": 68841
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.76650000000001,
+          4.814500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "larut dan matang",
+        "area": 0.1802549999999957,
+        "bounding_box": [
+          100.614,
+          4.519,
+          100.919,
+          5.11
+        ],
+        "point": [
+          100.76650000000001,
+          4.814500000000001
+        ],
+        "labels": {
+          "en": "Larut Dan Matang"
+        },
+        "population": 345610
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6225,
+          4.717499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "larut dan matang",
+        "area": 0.009021000000000381,
+        "bounding_box": [
+          100.576,
+          4.669,
+          100.669,
+          4.766
+        ],
+        "point": [
+          100.6225,
+          4.717499999999999
+        ],
+        "labels": {
+          "en": "Larut Dan Matang"
+        },
+        "population": 345610
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.62,
+          4.6015
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "larut dan matang",
+        "area": 0.007220000000000705,
+        "bounding_box": [
+          100.582,
+          4.554,
+          100.658,
+          4.649
+        ],
+        "point": [
+          100.62,
+          4.6015
+        ],
+        "labels": {
+          "en": "Larut Dan Matang"
+        },
+        "population": 345610
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59,
+          4.811
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "larut dan matang",
+        "area": 0.004059999999999593,
+        "bounding_box": [
+          100.555,
+          4.782,
+          100.625,
+          4.84
+        ],
+        "point": [
+          100.59,
+          4.811
+        ],
+        "labels": {
+          "en": "Larut Dan Matang"
+        },
+        "population": 345610
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.053,
+          5.882
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "putatan",
+        "area": 0.003439999999999292,
+        "bounding_box": [
+          116.033,
+          5.839,
+          116.073,
+          5.925
+        ],
+        "point": [
+          116.053,
+          5.882
+        ],
+        "labels": {
+          "en": "Putatan"
+        },
+        "population": 59077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2885,
+          5.406
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "timur laut",
+        "area": 0.01524599999999838,
+        "bounding_box": [
+          100.239,
+          5.329,
+          100.338,
+          5.483
+        ],
+        "point": [
+          100.2885,
+          5.406
+        ],
+        "labels": {
+          "en": "Timur Laut"
+        },
+        "population": 559322
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.434,
+          5.4879999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "s.p. utara",
+        "area": 0.03723999999999967,
+        "bounding_box": [
+          100.339,
+          5.39,
+          100.529,
+          5.586
+        ],
+        "point": [
+          100.434,
+          5.4879999999999995
+        ],
+        "labels": {
+          "en": "S.P. Utara"
+        },
+        "population": 338380
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.792,
+          5.4565
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "setiu",
+        "area": 0.22745799999999827,
+        "bounding_box": [
+          102.581,
+          5.187,
+          103.003,
+          5.726
+        ],
+        "point": [
+          102.792,
+          5.4565
+        ],
+        "labels": {
+          "en": "Setiu"
+        },
+        "population": 60720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.011,
+          5.7835
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "setiu",
+        "area": 0.0031740000000004447,
+        "bounding_box": [
+          102.988,
+          5.749,
+          103.034,
+          5.818
+        ],
+        "point": [
+          103.011,
+          5.7835
+        ],
+        "labels": {
+          "en": "Setiu"
+        },
+        "population": 60720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9615,
+          4.888
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tenom",
+        "area": 0.3687740000000092,
+        "bounding_box": [
+          115.776,
+          4.391,
+          116.147,
+          5.385
+        ],
+        "point": [
+          115.9615,
+          4.888
+        ],
+        "labels": {
+          "en": "Tenom"
+        },
+        "population": 74907
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.422,
+          4.468
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "lawas",
+        "area": 0.5596320000000008,
+        "bounding_box": [
+          115.16,
+          3.934,
+          115.684,
+          5.002
+        ],
+        "point": [
+          115.422,
+          4.468
+        ],
+        "labels": {
+          "en": "Lawas"
+        },
+        "population": 45305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4205,
+          2.552
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tampin",
+        "area": 0.12158400000000084,
+        "bounding_box": [
+          102.197,
+          2.416,
+          102.644,
+          2.688
+        ],
+        "point": [
+          102.4205,
+          2.552
+        ],
+        "labels": {
+          "en": "Tampin"
+        },
+        "population": 87561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.51400000000001,
+          5.462
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuala penyu",
+        "area": 0.10752000000000257,
+        "bounding_box": [
+          115.354,
+          5.294,
+          115.674,
+          5.63
+        ],
+        "point": [
+          115.51400000000001,
+          5.462
+        ],
+        "labels": {
+          "en": "Kuala Penyu"
+        },
+        "population": 26486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.44399999999999,
+          5.321
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuala penyu",
+        "area": 0.01740800000000003,
+        "bounding_box": [
+          115.38,
+          5.253,
+          115.508,
+          5.389
+        ],
+        "point": [
+          115.44399999999999,
+          5.321
+        ],
+        "labels": {
+          "en": "Kuala Penyu"
+        },
+        "population": 26486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.642,
+          3.274
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "gombak",
+        "area": 0.10267200000000046,
+        "bounding_box": [
+          101.435,
+          3.15,
+          101.849,
+          3.398
+        ],
+        "point": [
+          101.642,
+          3.274
+        ],
+        "labels": {
+          "en": "Gombak"
+        },
+        "population": 997544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.30799999999999,
+          5.4485
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "ulu perak",
+        "area": 0.85676200000001,
+        "bounding_box": [
+          100.865,
+          4.965,
+          101.751,
+          5.932
+        ],
+        "point": [
+          101.30799999999999,
+          5.4485
+        ],
+        "labels": {
+          "en": "Ulu Perak"
+        },
+        "population": 98097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.777,
+          1.5085000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "johor bahru",
+        "area": 0.1566039999999997,
+        "bounding_box": [
+          103.539,
+          1.344,
+          104.015,
+          1.673
+        ],
+        "point": [
+          103.777,
+          1.5085000000000002
+        ],
+        "labels": {
+          "en": "Johor Bahru"
+        },
+        "population": 1876349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.452,
+          2.3
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "jasin",
+        "area": 0.1045279999999968,
+        "bounding_box": [
+          102.313,
+          2.112,
+          102.591,
+          2.488
+        ],
+        "point": [
+          102.452,
+          2.3
+        ],
+        "labels": {
+          "en": "Jasin"
+        },
+        "population": 167477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.67,
+          3.5995
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "maran",
+        "area": 0.2797199999999947,
+        "bounding_box": [
+          102.418,
+          3.322,
+          102.922,
+          3.877
+        ],
+        "point": [
+          102.67,
+          3.5995
+        ],
+        "labels": {
+          "en": "Maran"
+        },
+        "population": 111516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.149,
+          4.68
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "dungun",
+        "area": 0.32925599999999733,
+        "bounding_box": [
+          102.843,
+          4.411,
+          103.455,
+          4.949
+        ],
+        "point": [
+          103.149,
+          4.68
+        ],
+        "labels": {
+          "en": "Dungun"
+        },
+        "population": 170752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.037,
+          5.61
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "papar",
+        "area": 0.21519599999999703,
+        "bounding_box": [
+          115.81,
+          5.373,
+          116.264,
+          5.847
+        ],
+        "point": [
+          116.037,
+          5.61
+        ],
+        "labels": {
+          "en": "Papar"
+        },
+        "population": 174663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.444,
+          4.4935
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "semporna",
+        "area": 0.13000000000000156,
+        "bounding_box": [
+          118.244,
+          4.331,
+          118.644,
+          4.656
+        ],
+        "point": [
+          118.444,
+          4.4935
+        ],
+        "labels": {
+          "en": "Semporna"
+        },
+        "population": 159679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.455,
+          4.647
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "semporna",
+        "area": 0.025500000000000078,
+        "bounding_box": [
+          118.33,
+          4.596,
+          118.58,
+          4.698
+        ],
+        "point": [
+          118.455,
+          4.647
+        ],
+        "labels": {
+          "en": "Semporna"
+        },
+        "population": 159679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.69,
+          4.463
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "semporna",
+        "area": 0.009324000000000334,
+        "bounding_box": [
+          118.627,
+          4.426,
+          118.753,
+          4.5
+        ],
+        "point": [
+          118.69,
+          4.463
+        ],
+        "labels": {
+          "en": "Semporna"
+        },
+        "population": 159679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7525,
+          4.6080000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "semporna",
+        "area": 0.0017940000000000783,
+        "bounding_box": [
+          118.733,
+          4.585,
+          118.772,
+          4.631
+        ],
+        "point": [
+          118.7525,
+          4.6080000000000005
+        ],
+        "labels": {
+          "en": "Semporna"
+        },
+        "population": 159679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.4985,
+          1.273
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sri aman",
+        "area": 0.6995200000000023,
+        "bounding_box": [
+          110.952,
+          0.953,
+          112.045,
+          1.593
+        ],
+        "point": [
+          111.4985,
+          1.273
+        ],
+        "labels": {
+          "en": "Sri Aman"
+        },
+        "population": 95565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.30250000000001,
+          1.8575
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "saratok",
+        "area": 0.19095300000000298,
+        "bounding_box": [
+          111.086,
+          1.637,
+          111.519,
+          2.078
+        ],
+        "point": [
+          111.30250000000001,
+          1.8575
+        ],
+        "labels": {
+          "en": "Saratok"
+        },
+        "population": 45017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.868,
+          5.9905
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sik",
+        "area": 0.31310400000000344,
+        "bounding_box": [
+          100.604,
+          5.694,
+          101.132,
+          6.287
+        ],
+        "point": [
+          100.868,
+          5.9905
+        ],
+        "labels": {
+          "en": "Sik"
+        },
+        "population": 70788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.07749999999999,
+          3.8935000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuantan",
+        "area": 0.42703499999999966,
+        "bounding_box": [
+          102.71,
+          3.603,
+          103.445,
+          4.184
+        ],
+        "point": [
+          103.07749999999999,
+          3.8935000000000004
+        ],
+        "labels": {
+          "en": "Kuantan"
+        },
+        "population": 561658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.93299999999999,
+          4.282500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "perak tengah",
+        "area": 0.1835960000000043,
+        "bounding_box": [
+          100.767,
+          4.006,
+          101.099,
+          4.559
+        ],
+        "point": [
+          100.93299999999999,
+          4.282500000000001
+        ],
+        "labels": {
+          "en": "Perak Tengah"
+        },
+        "population": 115484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.01650000000001,
+          1.9035000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "batu pahat",
+        "area": 0.27647699999999376,
+        "bounding_box": [
+          102.781,
+          1.61,
+          103.252,
+          2.197
+        ],
+        "point": [
+          103.01650000000001,
+          1.9035000000000002
+        ],
+        "labels": {
+          "en": "Batu Pahat"
+        },
+        "population": 483906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.25,
+          6.4875
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "perlis",
+        "area": 0.11345999999999987,
+        "bounding_box": [
+          100.128,
+          6.255,
+          100.372,
+          6.72
+        ],
+        "point": [
+          100.25,
+          6.4875
+        ],
+        "labels": {
+          "en": "Perlis"
+        },
+        "population": 248424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.3685,
+          5.0115
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "lahad datu",
+        "area": 1.029680999999999,
+        "bounding_box": [
+          117.47,
+          4.725,
+          119.267,
+          5.298
+        ],
+        "point": [
+          118.3685,
+          5.0115
+        ],
+        "labels": {
+          "en": "Lahad Datu"
+        },
+        "population": 248951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.33250000000001,
+          4.971
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "lahad datu",
+        "area": 0.0023099999999996795,
+        "bounding_box": [
+          118.305,
+          4.95,
+          118.36,
+          4.992
+        ],
+        "point": [
+          118.33250000000001,
+          4.971
+        ],
+        "labels": {
+          "en": "Lahad Datu"
+        },
+        "population": 248951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4815,
+          1.827
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "song",
+        "area": 0.6967500000000015,
+        "bounding_box": [
+          112.017,
+          1.452,
+          112.946,
+          2.202
+        ],
+        "point": [
+          112.4815,
+          1.827
+        ],
+        "labels": {
+          "en": "Song"
+        },
+        "population": 21591
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.46600000000001,
+          2.045
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sarikei",
+        "area": 0.10559999999999684,
+        "bounding_box": [
+          111.29,
+          1.895,
+          111.642,
+          2.195
+        ],
+        "point": [
+          111.46600000000001,
+          2.045
+        ],
+        "labels": {
+          "en": "Sarikei"
+        },
+        "population": 46198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.257,
+          2.1025
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sarikei",
+        "area": 0.004283999999999845,
+        "bounding_box": [
+          111.223,
+          2.071,
+          111.291,
+          2.134
+        ],
+        "point": [
+          111.257,
+          2.1025
+        ],
+        "labels": {
+          "en": "Sarikei"
+        },
+        "population": 46198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.243,
+          2.0525
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sarikei",
+        "area": 0.003978000000000128,
+        "bounding_box": [
+          111.204,
+          2.027,
+          111.282,
+          2.078
+        ],
+        "point": [
+          111.243,
+          2.0525
+        ],
+        "labels": {
+          "en": "Sarikei"
+        },
+        "population": 46198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.3135,
+          2.0875000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sarikei",
+        "area": 0.0030549999999999033,
+        "bounding_box": [
+          111.281,
+          2.064,
+          111.346,
+          2.111
+        ],
+        "point": [
+          111.3135,
+          2.0875000000000004
+        ],
+        "labels": {
+          "en": "Sarikei"
+        },
+        "population": 46198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.164,
+          4.5145
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kinta",
+        "area": 0.2391220000000041,
+        "bounding_box": [
+          100.943,
+          4.244,
+          101.385,
+          4.785
+        ],
+        "point": [
+          101.164,
+          4.5145
+        ],
+        "labels": {
+          "en": "Kinta"
+        },
+        "population": 1023416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.265,
+          3.615
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "temerloh",
+        "area": 0.26254399999999967,
+        "bounding_box": [
+          102.021,
+          3.346,
+          102.509,
+          3.884
+        ],
+        "point": [
+          102.265,
+          3.615
+        ],
+        "labels": {
+          "en": "Temerloh"
+        },
+        "population": 184485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.995,
+          2.496
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "segamat",
+        "area": 0.5074920000000006,
+        "bounding_box": [
+          102.614,
+          2.163,
+          103.376,
+          2.829
+        ],
+        "point": [
+          102.995,
+          2.496
+        ],
+        "labels": {
+          "en": "Segamat"
+        },
+        "population": 188166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.033,
+          5.726
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tanah merah",
+        "area": 0.12258399999999701,
+        "bounding_box": [
+          101.879,
+          5.527,
+          102.187,
+          5.925
+        ],
+        "point": [
+          102.033,
+          5.726
+        ],
+        "labels": {
+          "en": "Tanah Merah"
+        },
+        "population": 133393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.02449999999999,
+          4.7170000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kunak",
+        "area": 0.17378400000000083,
+        "bounding_box": [
+          117.746,
+          4.561,
+          118.303,
+          4.873
+        ],
+        "point": [
+          118.02449999999999,
+          4.7170000000000005
+        ],
+        "labels": {
+          "en": "Kunak"
+        },
+        "population": 82190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.19749999999999,
+          4.251
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kemaman",
+        "area": 0.4054259999999961,
+        "bounding_box": [
+          102.902,
+          3.908,
+          103.493,
+          4.594
+        ],
+        "point": [
+          103.19749999999999,
+          4.251
+        ],
+        "labels": {
+          "en": "Kemaman"
+        },
+        "population": 198560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54499999999999,
+          5.9895
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "pendang",
+        "area": 0.09088199999999913,
+        "bounding_box": [
+          100.392,
+          5.841,
+          100.698,
+          6.138
+        ],
+        "point": [
+          100.54499999999999,
+          5.9895
+        ],
+        "labels": {
+          "en": "Pendang"
+        },
+        "population": 101573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.273,
+          5.7684999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "machang",
+        "area": 0.09008999999999973,
+        "bounding_box": [
+          102.108,
+          5.632,
+          102.438,
+          5.905
+        ],
+        "point": [
+          102.273,
+          5.7684999999999995
+        ],
+        "labels": {
+          "en": "Machang"
+        },
+        "population": 97494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.7015,
+          2.121
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "meradong",
+        "area": 0.0567600000000009,
+        "bounding_box": [
+          111.594,
+          1.989,
+          111.809,
+          2.253
+        ],
+        "point": [
+          111.7015,
+          2.121
+        ],
+        "labels": {
+          "en": "Meradong"
+        },
+        "population": 18539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.3615,
+          2.817
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "mukah",
+        "area": 0.37951200000000007,
+        "bounding_box": [
+          111.985,
+          2.565,
+          112.738,
+          3.069
+        ],
+        "point": [
+          112.3615,
+          2.817
+        ],
+        "labels": {
+          "en": "Mukah"
+        },
+        "population": 37781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.22200000000001,
+          5.057
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "marang",
+        "area": 0.14415999999999554,
+        "bounding_box": [
+          103.052,
+          4.845,
+          103.392,
+          5.269
+        ],
+        "point": [
+          103.22200000000001,
+          5.057
+        ],
+        "labels": {
+          "en": "Marang"
+        },
+        "population": 106375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2425,
+          2.2355
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "melaka tengah",
+        "area": 0.04846100000000032,
+        "bounding_box": [
+          102.092,
+          2.155,
+          102.393,
+          2.316
+        ],
+        "point": [
+          102.2425,
+          2.2355
+        ],
+        "labels": {
+          "en": "Melaka Tengah"
+        },
+        "population": 607003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.048,
+          3.3979999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "bentong",
+        "area": 0.298479999999999,
+        "bounding_box": [
+          101.761,
+          3.138,
+          102.335,
+          3.658
+        ],
+        "point": [
+          102.048,
+          3.3979999999999997
+        ],
+        "labels": {
+          "en": "Bentong"
+        },
+        "population": 128487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.57650000000001,
+          1.1155
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "serian",
+        "area": 0.31833100000000214,
+        "bounding_box": [
+          110.271,
+          0.855,
+          110.882,
+          1.376
+        ],
+        "point": [
+          110.57650000000001,
+          1.1155
+        ],
+        "labels": {
+          "en": "Serian"
+        },
+        "population": 100583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8365,
+          3.825
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "raub",
+        "area": 0.29733000000000365,
+        "bounding_box": [
+          101.556,
+          3.56,
+          102.117,
+          4.09
+        ],
+        "point": [
+          101.8365,
+          3.825
+        ],
+        "labels": {
+          "en": "Raub"
+        },
+        "population": 107179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0975,
+          4.7955000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kuala kangsar",
+        "area": 0.39760699999999666,
+        "bounding_box": [
+          100.738,
+          4.519,
+          101.457,
+          5.072
+        ],
+        "point": [
+          101.0975,
+          4.7955000000000005
+        ],
+        "labels": {
+          "en": "Kuala Kangsar"
+        },
+        "population": 167462
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4735,
+          2.87
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "jempol",
+        "area": 0.2438799999999991,
+        "bounding_box": [
+          102.246,
+          2.602,
+          102.701,
+          3.138
+        ],
+        "point": [
+          102.4735,
+          2.87
+        ],
+        "labels": {
+          "en": "Jempol"
+        },
+        "population": 101350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8735,
+          2.5469999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "port dickson",
+        "area": 0.11046599999999773,
+        "bounding_box": [
+          101.712,
+          2.376,
+          102.035,
+          2.718
+        ],
+        "point": [
+          101.8735,
+          2.5469999999999997
+        ],
+        "labels": {
+          "en": "Port Dickson"
+        },
+        "population": 101665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4045,
+          6.358499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kubang pasu",
+        "area": 0.14958300000000407,
+        "bounding_box": [
+          100.195,
+          6.18,
+          100.614,
+          6.537
+        ],
+        "point": [
+          100.4045,
+          6.358499999999999
+        ],
+        "labels": {
+          "en": "Kubang Pasu"
+        },
+        "population": 245190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.994,
+          5.064
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "tongod",
+        "area": 1.308671999999994,
+        "bounding_box": [
+          116.426,
+          4.488,
+          117.562,
+          5.64
+        ],
+        "point": [
+          116.994,
+          5.064
+        ],
+        "labels": {
+          "en": "Tongod"
+        },
+        "population": 58039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.821,
+          5.58
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "jeli",
+        "area": 0.16425599999999976,
+        "bounding_box": [
+          101.644,
+          5.348,
+          101.998,
+          5.812
+        ],
+        "point": [
+          101.821,
+          5.58
+        ],
+        "labels": {
+          "en": "Jeli"
+        },
+        "population": 43566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2205,
+          5.3145
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "w.p. labuan",
+        "area": 0.01425900000000126,
+        "bounding_box": [
+          115.172,
+          5.241,
+          115.269,
+          5.388
+        ],
+        "point": [
+          115.2205,
+          5.3145
+        ],
+        "labels": {
+          "en": "W.P. Labuan"
+        },
+        "population": 86128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.285,
+          2.4755000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "belaga",
+        "area": 3.4205680000000114,
+        "bounding_box": [
+          113.329,
+          1.581,
+          115.241,
+          3.37
+        ],
+        "point": [
+          114.285,
+          2.4755000000000003
+        ],
+        "labels": {
+          "en": "Belaga"
+        },
+        "population": 55310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.3945,
+          1.534
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "betong",
+        "area": 0.3029259999999971,
+        "bounding_box": [
+          110.998,
+          1.343,
+          111.791,
+          1.725
+        ],
+        "point": [
+          111.3945,
+          1.534
+        ],
+        "labels": {
+          "en": "Betong"
+        },
+        "population": 63924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8415,
+          6.4485
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kota marudu",
+        "area": 0.23638500000000007,
+        "bounding_box": [
+          116.584,
+          6.219,
+          117.099,
+          6.678
+        ],
+        "point": [
+          116.8415,
+          6.4485
+        ],
+        "labels": {
+          "en": "Kota Marudu"
+        },
+        "population": 91489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.90899999999999,
+          2.751
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "seremban",
+        "area": 0.1395200000000032,
+        "bounding_box": [
+          101.749,
+          2.533,
+          102.069,
+          2.969
+        ],
+        "point": [
+          101.90899999999999,
+          2.751
+        ],
+        "labels": {
+          "en": "Seremban"
+        },
+        "population": 750509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.372,
+          6.103
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kota setar",
+        "area": 0.05644799999999731,
+        "bounding_box": [
+          100.26,
+          5.977,
+          100.484,
+          6.229
+        ],
+        "point": [
+          100.372,
+          6.103
+        ],
+        "labels": {
+          "en": "Kota Setar"
+        },
+        "population": 378102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.97200000000001,
+          2.702
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "dalat",
+        "area": 0.18325999999999792,
+        "bounding_box": [
+          111.727,
+          2.515,
+          112.217,
+          2.889
+        ],
+        "point": [
+          111.97200000000001,
+          2.702
+        ],
+        "labels": {
+          "en": "Dalat"
+        },
+        "population": 16064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.08250000000001,
+          6.7215
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "pitas",
+        "area": 0.2384470000000036,
+        "bounding_box": [
+          116.878,
+          6.43,
+          117.287,
+          7.013
+        ],
+        "point": [
+          117.08250000000001,
+          6.7215
+        ],
+        "labels": {
+          "en": "Pitas"
+        },
+        "population": 52639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4695,
+          4.467499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "cameron highlands",
+        "area": 0.07998899999999891,
+        "bounding_box": [
+          101.333,
+          4.321,
+          101.606,
+          4.614
+        ],
+        "point": [
+          101.4695,
+          4.467499999999999
+        ],
+        "labels": {
+          "en": "Cameron Highlands"
+        },
+        "population": 48794
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.3475,
+          4.047000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "batang padang",
+        "area": 0.42554800000000176,
+        "bounding_box": [
+          101.069,
+          3.665,
+          101.626,
+          4.429
+        ],
+        "point": [
+          101.3475,
+          4.047000000000001
+        ],
+        "labels": {
+          "en": "Batang Padang"
+        },
+        "population": 207792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4855,
+          6.338
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kota belud",
+        "area": 0.24468799999999397,
+        "bounding_box": [
+          116.299,
+          6.01,
+          116.672,
+          6.666
+        ],
+        "point": [
+          116.4855,
+          6.338
+        ],
+        "labels": {
+          "en": "Kota Belud"
+        },
+        "population": 126084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.168,
+          2.382
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "alor gajah",
+        "area": 0.08780800000000234,
+        "bounding_box": [
+          101.972,
+          2.27,
+          102.364,
+          2.494
+        ],
+        "point": [
+          102.168,
+          2.382
+        ],
+        "labels": {
+          "en": "Alor Gajah"
+        },
+        "population": 240969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4685,
+          5.215
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "s.p.selatan",
+        "area": 0.02639400000000106,
+        "bounding_box": [
+          100.389,
+          5.132,
+          100.548,
+          5.298
+        ],
+        "point": [
+          100.4685,
+          5.215
+        ],
+        "labels": {
+          "en": "S.P.Selatan"
+        },
+        "population": 222309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9745,
+          3.9450000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "hilir perak",
+        "area": 0.2624219999999965,
+        "bounding_box": [
+          100.7,
+          3.706,
+          101.249,
+          4.184
+        ],
+        "point": [
+          100.9745,
+          3.9450000000000003
+        ],
+        "labels": {
+          "en": "Hilir Perak"
+        },
+        "population": 216851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6705,
+          2.802
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "sepang",
+        "area": 0.07754600000000096,
+        "bounding_box": [
+          101.575,
+          2.599,
+          101.766,
+          3.005
+        ],
+        "point": [
+          101.6705,
+          2.802
+        ],
+        "labels": {
+          "en": "Sepang"
+        },
+        "population": 377291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.70949999999999,
+          5.303
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "beaufort",
+        "area": 0.2624219999999962,
+        "bounding_box": [
+          115.435,
+          5.064,
+          115.984,
+          5.542
+        ],
+        "point": [
+          115.70949999999999,
+          5.303
+        ],
+        "labels": {
+          "en": "Beaufort"
+        },
+        "population": 91317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3765,
+          2.0564999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kluang",
+        "area": 0.3702930000000009,
+        "bounding_box": [
+          103.107,
+          1.713,
+          103.646,
+          2.4
+        ],
+        "point": [
+          103.3765,
+          2.0564999999999998
+        ],
+        "labels": {
+          "en": "Kluang"
+        },
+        "population": 324290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6955,
+          5.4030000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "kulim",
+        "area": 0.11186999999999928,
+        "bounding_box": [
+          100.526,
+          5.238,
+          100.865,
+          5.568
+        ],
+        "point": [
+          100.6955,
+          5.4030000000000005
+        ],
+        "labels": {
+          "en": "Kulim"
+        },
+        "population": 412734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3015,
+          6.07
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "beluran",
+        "area": 0.990244,
+        "bounding_box": [
+          116.861,
+          5.508,
+          117.742,
+          6.632
+        ],
+        "point": [
+          117.3015,
+          6.07
+        ],
+        "labels": {
+          "en": "Beluran"
+        },
+        "population": 149922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.42099999999999,
+          6.6875
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "beluran",
+        "area": 0.024659999999999068,
+        "bounding_box": [
+          117.331,
+          6.619,
+          117.511,
+          6.756
+        ],
+        "point": [
+          117.42099999999999,
+          6.6875
+        ],
+        "labels": {
+          "en": "Beluran"
+        },
+        "population": 149922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.62899999999999,
+          5.9715
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "beluran",
+        "area": 0.011130000000000964,
+        "bounding_box": [
+          117.576,
+          5.919,
+          117.682,
+          6.024
+        ],
+        "point": [
+          117.62899999999999,
+          5.9715
+        ],
+        "labels": {
+          "en": "Beluran"
+        },
+        "population": 149922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.701,
+          6.01
+        ]
+      },
+      "properties": {
+        "region_schema": "my_district",
+        "region_parent": "my",
+        "region_child": "beluran",
+        "area": 0.0017279999999998182,
+        "bounding_box": [
+          117.685,
+          5.983,
+          117.717,
+          6.037
+        ],
+        "point": [
+          117.701,
+          6.01
+        ],
+        "labels": {
+          "en": "Beluran"
+        },
+        "population": 149922
+      }
+    }
+  ]
+}

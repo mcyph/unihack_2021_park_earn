@@ -1,0 +1,906 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4925,
+          11.293
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-sj",
+        "area": 1.9515499999999875,
+        "bounding_box": [
+          -85.341,
+          10.718,
+          -83.644,
+          11.868
+        ],
+        "point": [
+          -84.4925,
+          11.293
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "إدارة ريو سان خوان",
+          "bn": "রিও সান জুয়ান বিভাগ",
+          "de": "Departamento Río San Juan",
+          "en": "Río San Juan Department",
+          "es": "Departamento de Río San Juan",
+          "fr": "département du Río San Juan",
+          "el": "Ρίο Σαν Χουάν",
+          "hi": "रिओ सैन जुआन विभाग",
+          "hu": "Río San Juan megye",
+          "id": "Departemen Río San Juan",
+          "it": "dipartimento di Río San Juan",
+          "ja": "リオ・サン・フアン県",
+          "ko": "리오산후안 주",
+          "nl": "Río San Juan",
+          "pl": "Río San Juan",
+          "pt": "Río San Juan",
+          "ru": "Сан-Хуан",
+          "sv": "Río San Juan",
+          "tr": "Rio San Juan Departmanı",
+          "vi": "Khu vực hành chính Río San Juan",
+          "zh": "聖胡安河省"
+        },
+        "population": 171311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.318,
+          14.031500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-an",
+        "area": 4.7496240000000105,
+        "bounding_box": [
+          -85.506,
+          13.032,
+          -83.13,
+          15.031
+        ],
+        "point": [
+          -84.318,
+          14.031500000000001
+        ],
+        "labels": {
+          "alt": "Región Autónoma del Atlántico Norte",
+          "local": null,
+          "len": 15,
+          "ar": "ريجيون أوتونوما ديل أتلانتيكو نورت",
+          "bn": "উত্তর আটলান্টিক স্বায়ত্বশাসিত অঞ্চল",
+          "de": "Región Autónoma del Atlántico Norte",
+          "en": "Región Autónoma del Atlántico Norte",
+          "es": "Región Autónoma del Atlántico Norte",
+          "fr": "Atlántico Norte",
+          "el": "Βόρεια Ατλαντική Αυτόνομη Περιοχή",
+          "hi": "रीजन ऑटोनोमा डेल अटलांटिको नोर्टे",
+          "hu": "Región Autónoma del Atlántico Norte",
+          "id": "Región Autónoma del Atlántico Norte",
+          "it": "regione Autonoma Atlantico Nord",
+          "ja": "北アトランティコ自治地域",
+          "ko": "북아틀란티코 자치구",
+          "nl": "Región Autónoma del Atlántico Norte",
+          "pl": "Region Autonomiczny Atlántico Norte",
+          "pt": "Región Autónoma del Atlántico Norte",
+          "ru": "Атлантический Северный",
+          "sv": "Región Autónoma del Atlántico Norte",
+          "tr": "Özerk Bölge",
+          "vi": "Región Autónoma del Atlántico Norte",
+          "zh": "北大西洋自治區"
+        },
+        "population": 611526
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.543,
+          13.8065
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-ji",
+        "area": 2.2461300000000173,
+        "bounding_box": [
+          -86.248,
+          13.01,
+          -84.838,
+          14.603
+        ],
+        "point": [
+          -85.543,
+          13.8065
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "جينوتيغا",
+          "bn": "জিনোতেগা",
+          "de": "Departamento Jinotega",
+          "en": "Jinotega Department",
+          "es": "Departamento de Jinotega",
+          "fr": "département de Jinotega",
+          "el": "Χινοτέγκα",
+          "hi": "जिनोटेगा",
+          "hu": "Jinotega megye",
+          "id": "Departemen Jinotega",
+          "it": "dipartimento di Jinotega",
+          "ja": "ヒノテガ県",
+          "ko": "히노테가 주",
+          "nl": "Jinotega",
+          "pl": "Jinotega",
+          "pt": "Jinotega",
+          "ru": "Хинотега",
+          "sv": "Jinotega",
+          "tr": "Jinotega",
+          "vi": "Jinotega",
+          "zh": "希諾特加省"
+        },
+        "population": 548755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.257,
+          13.77
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-ns",
+        "area": 0.5859600000000036,
+        "bounding_box": [
+          -86.771,
+          13.485,
+          -85.743,
+          14.055
+        ],
+        "point": [
+          -86.257,
+          13.77
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "إدارة نويفا سيغوفيا",
+          "bn": "নোয়েভা সেগুভিয়া বিভাগ",
+          "de": "Departamento Nueva Segovia",
+          "en": "Nueva Segovia Department",
+          "es": "Nueva Segovia",
+          "fr": "département de Nueva Segovia",
+          "el": "Νουέβα Σεγκόβια",
+          "hi": "न्यूएवा सेगोविया विभाग",
+          "hu": "Nueva Segovia megye",
+          "id": "Departemen Nueva Segovia",
+          "it": "dipartimento di Nueva Segovia",
+          "ja": "ヌエバ・セゴビア県",
+          "ko": "누에바세고비아 주",
+          "nl": "Nueva Segovia",
+          "pl": "Nueva Segovia",
+          "pt": "Nueva Segovia",
+          "ru": "Нуэва-Сеговия",
+          "sv": "Nueva Segovia",
+          "tr": "Nueva Segovia District",
+          "vi": "Khu vực hành chính Nueva Segovia",
+          "zh": "新塞哥維亞省"
+        },
+        "population": 297204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1705,
+          12.875
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-ci",
+        "area": 0.8598540000000046,
+        "bounding_box": [
+          -87.686,
+          12.458,
+          -86.655,
+          13.292
+        ],
+        "point": [
+          -87.1705,
+          12.875
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "إدارة تشينانديجا",
+          "bn": "কিনান্ডেগা বিভাগ",
+          "de": "Departamento Chinandega",
+          "en": "Chinandega Department",
+          "es": "Departamento de Chinandega",
+          "fr": "département de Chinandega",
+          "el": "Διαμέρισμα Τσιναντένγκα",
+          "hi": "किनान्देगा विभाग",
+          "hu": "Chinandega megye",
+          "id": "Departemen Chinandega",
+          "it": "dipartimento di Chinandega",
+          "ja": "チナンデガ県",
+          "ko": "치난데가 주",
+          "nl": "Chinandega",
+          "pl": "Chinandega",
+          "pt": "Chinandega",
+          "ru": "Чинандега",
+          "sv": "Chinandega",
+          "tr": "Chinandega",
+          "vi": "Khu hành chính Chinandega",
+          "zh": "奇南德加省"
+        },
+        "population": 420541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.412,
+          13.43
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-md",
+        "area": 0.32383999999999763,
+        "bounding_box": [
+          -86.764,
+          13.2,
+          -86.06,
+          13.66
+        ],
+        "point": [
+          -86.412,
+          13.43
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إدارة مدريز",
+          "bn": "মাদ্রিজ বিভাগ",
+          "de": "Departamento Madriz",
+          "en": "Madriz Department",
+          "es": "Departamento de Madriz",
+          "fr": "département de Madriz",
+          "el": "Μαδρίθ",
+          "hi": "मैडरीज़ विभाग",
+          "hu": "Madriz megye",
+          "id": "Departemen Madriz",
+          "it": "dipartimento di Madriz",
+          "ja": "マドリス県",
+          "ko": "마드리스 주",
+          "nl": "Madriz",
+          "pl": "Madriz",
+          "pt": "Madriz",
+          "ru": "Мадрис",
+          "sv": "Madriz",
+          "tr": "Madriz Departmanı",
+          "vi": "Khu vực hành chính Madriz",
+          "zh": "馬德里斯省"
+        },
+        "population": 175885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.53,
+          11.312000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-ri",
+        "area": 0.9545999999999943,
+        "bounding_box": [
+          -86.175,
+          10.942,
+          -84.885,
+          11.682
+        ],
+        "point": [
+          -85.53,
+          11.312000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إدارة ريفاز",
+          "bn": null,
+          "de": "Departamento Rivas",
+          "en": "Rivas Department",
+          "es": "Departamento de Rivas",
+          "fr": "département de Rivas",
+          "el": "Ρίβας",
+          "hi": null,
+          "hu": "Rivas megye",
+          "id": "Departemen Rivas",
+          "it": "dipartimento di Rivas",
+          "ja": "リバス県",
+          "ko": "리바스 주",
+          "nl": "Rivas",
+          "pl": "Rivas",
+          "pt": "Rivas",
+          "ru": "Ривас",
+          "sv": "Rivas",
+          "tr": null,
+          "vi": null,
+          "zh": "里瓦斯省"
+        },
+        "population": 189052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35650000000001,
+          12.1095
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-as",
+        "area": 4.058270999999999,
+        "bounding_box": [
+          -85.227,
+          10.944,
+          -83.486,
+          13.275
+        ],
+        "point": [
+          -84.35650000000001,
+          12.1095
+        ],
+        "labels": {
+          "alt": "Región Autónoma del Atlántico Norte",
+          "local": null,
+          "len": 13,
+          "ar": "ريجيون أوتونوما ديل أتلانتيكو سور",
+          "bn": "ডেল আল্টান্টিকো সোর স্বায়ত্তশাসিত অঞ্চল",
+          "de": "Región Autónoma del Atlántico Sur",
+          "en": "Región Autónoma del Atlántico Sur",
+          "es": "Región Autónoma del Atlántico Sur",
+          "fr": "Atlántico Sur",
+          "el": "Νότια Ατλαντική Αυτόνομη Περιοχή",
+          "hi": "रीजन ऑटोनोमा डेल एटलांटिको सुर",
+          "hu": "Región Autónoma del Atlántico Sur",
+          "id": "Región Autónoma del Atlántico Sur",
+          "it": "regione Autonoma Atlantico Sud",
+          "ja": "南アトランティコ自治地域",
+          "ko": "남아틀란티코 자치구",
+          "nl": "Región Autónoma del Atlántico Sur",
+          "pl": "Region Autonomiczny Atlántico Sur",
+          "pt": "Región Autónoma del Atlántico Sur",
+          "ru": "Атлантический Южный",
+          "sv": "Región Autónoma del Atlántico Sur",
+          "tr": "Güney Atlantik Otonom Bölgesi",
+          "vi": "Región Autónoma del Atlántico Sur",
+          "zh": "南大西洋自治區"
+        },
+        "population": 410865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6925,
+          12.561499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-le",
+        "area": 0.9606969999999996,
+        "bounding_box": [
+          -87.121,
+          12.001,
+          -86.264,
+          13.122
+        ],
+        "point": [
+          -86.6925,
+          12.561499999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": null,
+          "bn": null,
+          "de": "Departamento León",
+          "en": "León Department",
+          "es": "Departamento de León",
+          "fr": "département de León",
+          "el": "Λεόν",
+          "hi": null,
+          "hu": "León megye",
+          "id": "Departemen León",
+          "it": "dipartimento di León",
+          "ja": "レオン県",
+          "ko": "레온 주",
+          "nl": "León",
+          "pl": "León",
+          "pt": "León",
+          "ru": "Леон",
+          "sv": "León",
+          "tr": null,
+          "vi": null,
+          "zh": "萊昂省"
+        },
+        "population": 391516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2505,
+          12.2015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-mn",
+        "area": 0.730829000000007,
+        "bounding_box": [
+          -86.671,
+          11.767,
+          -85.83,
+          12.636
+        ],
+        "point": [
+          -86.2505,
+          12.2015
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إدارة ماناغوا",
+          "bn": "মানাগুয়া ডিপার্টমেন্ট",
+          "de": "Departamento Managua",
+          "en": "Managua Department",
+          "es": "Departamento de Managua",
+          "fr": "département de Managua",
+          "el": "Μανάγκουα",
+          "hi": "मानागुआ विभाग",
+          "hu": "Managua megye",
+          "id": "Departemen Managua",
+          "it": "dipartimento di Managua",
+          "ja": "マナグア県",
+          "ko": "마나과 주",
+          "nl": "Managua",
+          "pl": "Managua",
+          "pt": "Manágua",
+          "ru": "Манагуа",
+          "sv": "Managua",
+          "tr": "Managua Departmanı",
+          "vi": "Khu vực hành chính Managua",
+          "zh": "馬拿瓜省"
+        },
+        "population": 1599502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.287,
+          11.738
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-ca",
+        "area": 0.18833999999999704,
+        "bounding_box": [
+          -86.502,
+          11.519,
+          -86.072,
+          11.957
+        ],
+        "point": [
+          -86.287,
+          11.738
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إدارة كارازو",
+          "bn": "কারাজো বিভাগ",
+          "de": "Departamento Carazo",
+          "en": "Carazo Department",
+          "es": "Departamento de Carazo",
+          "fr": "département de Carazo",
+          "el": "Καράθο",
+          "hi": "कराजो विभाग",
+          "hu": "Carazo megye",
+          "id": "Departemen Carazo",
+          "it": "dipartimento di Carazo",
+          "ja": "カラソ県",
+          "ko": "카라소 주",
+          "nl": "Carazo",
+          "pl": "Carazo",
+          "pt": "Carazo",
+          "ru": "Карасо",
+          "sv": "Carazo",
+          "tr": "Carazo",
+          "vi": "Khu vực hành chính Carazo",
+          "zh": "卡拉索省"
+        },
+        "population": 209560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50800000000001,
+          12.952
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-mt",
+        "area": 1.343319999999997,
+        "bounding_box": [
+          -86.289,
+          12.522,
+          -84.727,
+          13.382
+        ],
+        "point": [
+          -85.50800000000001,
+          12.952
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "إدارة ماتاغالبا",
+          "bn": "মাতাগাল্পা বিভাগ",
+          "de": "Departamento Matagalpa",
+          "en": "Matagalpa Department",
+          "es": "Departamento de Matagalpa",
+          "fr": "département de Matagalpa",
+          "el": "Ματαγκάλπα",
+          "hi": "मटगाल्पा विभाग",
+          "hu": "Matagalpa megye",
+          "id": "Departemen Matagalpa",
+          "it": "dipartimento di Matagalpa",
+          "ja": "マタガルパ県",
+          "ko": "마타갈파 주",
+          "nl": "Matagalpa",
+          "pl": "Matagalpa",
+          "pt": "Matagalpa",
+          "ru": "Матагальпа",
+          "sv": "Matagalpa",
+          "tr": "Matagalpa Departmanı",
+          "vi": "Khu vực hành chính Matagalpa",
+          "zh": "馬塔加爾帕省"
+        },
+        "population": 689849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47049999999999,
+          12.4175
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-bo",
+        "area": 0.7552590000000002,
+        "bounding_box": [
+          -85.972,
+          12.041,
+          -84.969,
+          12.794
+        ],
+        "point": [
+          -85.47049999999999,
+          12.4175
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إدارة بواكو",
+          "bn": "বোয়াকু বিভাগ",
+          "de": "Departamento Boaco",
+          "en": "Boaco Department",
+          "es": "Departamento de Boaco",
+          "fr": "département de Boaco",
+          "el": "Διαμέρισμα Μποάκο",
+          "hi": "बोआको विभाग",
+          "hu": "Boaco megye",
+          "id": "Departemen Boaco",
+          "it": "dipartimento di Boaco",
+          "ja": "ボアコ県",
+          "ko": "보아코 주",
+          "nl": "Boaco",
+          "pl": "Boaco",
+          "pt": "Boaco",
+          "ru": "Боако",
+          "sv": "Boaco",
+          "tr": "Boaco",
+          "vi": "Khu vực hành chính Boaco",
+          "zh": "博阿科省"
+        },
+        "population": 178648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.116,
+          12.1405
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-co",
+        "area": 1.1025579999999937,
+        "bounding_box": [
+          -85.657,
+          11.631,
+          -84.575,
+          12.65
+        ],
+        "point": [
+          -85.116,
+          12.1405
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "إدارة تشونتاليس",
+          "bn": "কুন্টালেস বিভাগ",
+          "de": "Departamento Chontales",
+          "en": "Chontales Department",
+          "es": "Departamento de Chontales",
+          "fr": "département de Chontales",
+          "el": "Τσοντάλες",
+          "hi": "कोन्टेल्स विभाग",
+          "hu": "Chontales megye",
+          "id": "Departemen Chontales",
+          "it": "dipartimento di Chontales",
+          "ja": "チョンタレス県",
+          "ko": "촌탈레스 주",
+          "nl": "Chontales",
+          "pl": "Chontales",
+          "pt": "Chontales",
+          "ru": "Чонталес",
+          "sv": "Chontales",
+          "tr": "Chontales",
+          "vi": "Khu vực hành chính Chontales",
+          "zh": "瓊塔萊斯省"
+        },
+        "population": 167375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.416,
+          13.142
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-es",
+        "area": 0.3703520000000031,
+        "bounding_box": [
+          -86.732,
+          12.849,
+          -86.1,
+          13.435
+        ],
+        "point": [
+          -86.416,
+          13.142
+        ],
+        "labels": {
+          "alt": "Estel¡",
+          "local": null,
+          "len": 6,
+          "ar": "إدارة إستيلي",
+          "bn": "এস্তেলি  বিভাগ",
+          "de": "Departamento Estelí",
+          "en": "Estelí Department",
+          "es": "Departamento de Estelí",
+          "fr": "département d'Estelí",
+          "el": "Διαμέρισμα Εστελί",
+          "hi": "एस्टेली विभाग",
+          "hu": "Estelí megye",
+          "id": "Departemen Estelí",
+          "it": "dipartimento di Estelí",
+          "ja": "エステリ県",
+          "ko": "에스텔리 주",
+          "nl": "Estelí",
+          "pl": "Estelí",
+          "pt": "Estelí",
+          "ru": "Эстели",
+          "sv": "Estelí",
+          "tr": "Estelí İli",
+          "vi": "Khu vực hành chính Estelí",
+          "zh": "埃斯特利省"
+        },
+        "population": 251391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.821,
+          11.907
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-gr",
+        "area": 0.3528320000000014,
+        "bounding_box": [
+          -86.119,
+          11.611,
+          -85.523,
+          12.203
+        ],
+        "point": [
+          -85.821,
+          11.907
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": null,
+          "bn": null,
+          "de": "Departamento Granada",
+          "en": "Granada Department",
+          "es": "Departamento de Granada",
+          "fr": "département de Granada",
+          "el": "Γρανάδα",
+          "hi": null,
+          "hu": "Granada megye",
+          "id": "Departemen Granada",
+          "it": "dipartimento di Granada",
+          "ja": "グラナダ県",
+          "ko": "그라나다 주",
+          "nl": "Granada",
+          "pl": "Granada",
+          "pt": "Granada",
+          "ru": "Гранада",
+          "sv": "Granada",
+          "tr": null,
+          "vi": null,
+          "zh": "格拉納達省"
+        },
+        "population": 181430
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1225,
+          12.004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ni",
+        "region_child": "ni-ms",
+        "area": 0.09383200000000196,
+        "bounding_box": [
+          -86.281,
+          11.856,
+          -85.964,
+          12.152
+        ],
+        "point": [
+          -86.1225,
+          12.004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إدارة مسايا",
+          "bn": "মাসায়া বিভাগ",
+          "de": "Departamento Masaya",
+          "en": "Masaya Department",
+          "es": "Departamento de Masaya",
+          "fr": "département de Masaya",
+          "el": "Μασάγια",
+          "hi": "मसाया विभाग",
+          "hu": "Masaya megye",
+          "id": "Departemen Masaya",
+          "it": "dipartimento di Masaya",
+          "ja": "マサヤ県",
+          "ko": "마사야 주",
+          "nl": "Masaya",
+          "pl": "Masaya",
+          "pt": "Masaya",
+          "ru": "Масая",
+          "sv": "Masaya",
+          "tr": "Masaya Departmanı",
+          "vi": "Khu vực hành chính Masaya",
+          "zh": "馬薩亞省"
+        },
+        "population": 355046
+      }
+    }
+  ]
+}

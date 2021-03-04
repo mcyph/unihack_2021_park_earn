@@ -1,0 +1,1118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.682,
+          53.150999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-gr",
+        "area": 0.6361199999999978,
+        "bounding_box": [
+          6.169,
+          52.841,
+          7.195,
+          53.461
+        ],
+        "point": [
+          6.682,
+          53.150999999999996
+        ],
+        "labels": {
+          "alt": "Groninga|Groningue",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة خرونينغن",
+          "bn": "গ্রোনিনজেন",
+          "de": "Provinz Groningen",
+          "en": "Groningen",
+          "es": "Provincia de Groninga",
+          "fr": "Groningue",
+          "el": "Χρόνινγκεν",
+          "hi": "ग्रोनिंगन",
+          "hu": "Groningen",
+          "id": "Groningen",
+          "it": "Groninga",
+          "ja": "フローニンゲン州",
+          "ko": "흐로닝언 주",
+          "nl": "Groningen",
+          "pl": "Groningen",
+          "pt": "Groninga",
+          "ru": "Гронинген",
+          "sv": "Groningen",
+          "tr": "Groningen",
+          "vi": "Groningen",
+          "zh": "格罗宁根省"
+        },
+        "population": 578775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6005,
+          52.912499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-dr",
+        "area": 0.5516550000000011,
+        "bounding_box": [
+          6.129,
+          52.62,
+          7.072,
+          53.205
+        ],
+        "point": [
+          6.6005,
+          52.912499999999994
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "درينته",
+          "bn": "ড্রেন্তে",
+          "de": "Provinz Drente",
+          "en": "Drenthe",
+          "es": "Drente",
+          "fr": "Drenthe",
+          "el": "Ντρέντε",
+          "hi": "ड्रेंठे",
+          "hu": "Drenthe",
+          "id": "Drenthe",
+          "it": "Drenthe",
+          "ja": "ドレンテ州",
+          "ko": "드렌터 주",
+          "nl": "Drenthe",
+          "pl": "Drenthe",
+          "pt": "Drente",
+          "ru": "Дренте",
+          "sv": "Drenthe",
+          "tr": "Drenthe",
+          "vi": "Drenthe",
+          "zh": "德伦特省"
+        },
+        "population": 497696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4165,
+          52.481
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-ov",
+        "area": 0.9396719999999996,
+        "bounding_box": [
+          5.785,
+          52.109,
+          7.048,
+          52.853
+        ],
+        "point": [
+          6.4165,
+          52.481
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "أوفرايسل",
+          "bn": "ওভেরিসসেল",
+          "de": "Provinz Overijssel",
+          "en": "Overijssel",
+          "es": "Overijssel",
+          "fr": "Overijssel",
+          "el": "Οφεράισσελ",
+          "hi": "ओवरिस्सेल",
+          "hu": "Overijssel",
+          "id": "Overijssel",
+          "it": "Overijssel",
+          "ja": "オーファーアイセル州",
+          "ko": "오버레이설 주",
+          "nl": "Overijssel",
+          "pl": "Overijssel",
+          "pt": "Overissel",
+          "ru": "Оверэйсел",
+          "sv": "Overijssel",
+          "tr": "Overijssel",
+          "vi": "Overijssel",
+          "zh": "上艾瑟尔省"
+        },
+        "population": 1170244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9065,
+          52.1285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-ge",
+        "area": 1.4126649999999983,
+        "bounding_box": [
+          5.009,
+          51.735,
+          6.804,
+          52.522
+        ],
+        "point": [
+          5.9065,
+          52.1285
+        ],
+        "labels": {
+          "alt": "Geldern|Gheldria|Guelders|Gueldre",
+          "local": null,
+          "len": 10,
+          "ar": "خيلدرلند",
+          "bn": "গেল্ডারল্যান্ড",
+          "de": "Provinz Gelderland",
+          "en": "Gelderland",
+          "es": "Güeldres",
+          "fr": "Gueldre",
+          "el": "Χέλντερλαντ",
+          "hi": "गेल्डरलैंड",
+          "hu": "Gelderland",
+          "id": "Gelderland",
+          "it": "Gheldria",
+          "ja": "ヘルダーラント州",
+          "ko": "헬데를란트 주",
+          "nl": "Gelderland",
+          "pl": "Geldria",
+          "pt": "Guéldria",
+          "ru": "Гелдерланд",
+          "sv": "Gelderland",
+          "tr": "Gelderland",
+          "vi": "Gelderland",
+          "zh": "海尔德兰省"
+        },
+        "population": 2104316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.878,
+          51.2545
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-li",
+        "area": 0.6598860000000001,
+        "bounding_box": [
+          5.551,
+          50.75,
+          6.205,
+          51.759
+        ],
+        "point": [
+          5.878,
+          51.2545
+        ],
+        "labels": {
+          "alt": "Limbourg|Limburgo",
+          "local": null,
+          "len": 7,
+          "ar": "ليمبورخ",
+          "bn": "লিম্বার্গ",
+          "de": "Provinz Limburg",
+          "en": "Limburg",
+          "es": "Limburgo",
+          "fr": "Limbourg",
+          "el": "Λιμβουργία",
+          "hi": "लिम्बर्ग",
+          "hu": "Limburg",
+          "id": "Limburg",
+          "it": "Limburgo",
+          "ja": "リンブルフ州",
+          "ko": "림뷔르흐 주",
+          "nl": "Limburg",
+          "pl": "Limburgia",
+          "pt": "Limburgo",
+          "ru": "Лимбург",
+          "sv": "Limburg",
+          "tr": "Limburg",
+          "vi": "Limburg",
+          "zh": "林堡省"
+        },
+        "population": 1019278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8695,
+          51.491
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-ze",
+        "area": 0.20081199999999969,
+        "bounding_box": [
+          3.458,
+          51.369,
+          4.281,
+          51.613
+        ],
+        "point": [
+          3.8695,
+          51.491
+        ],
+        "labels": {
+          "alt": "Zelanda|Zélande|Zelândia",
+          "local": null,
+          "len": 7,
+          "ar": "زيلند",
+          "bn": "জিল্যান্ড",
+          "de": "Zeeland",
+          "en": "Zeeland",
+          "es": "Zelanda",
+          "fr": "Zélande",
+          "el": "Ζηλανδία",
+          "hi": "ज़ीलैंड",
+          "hu": "Zeeland",
+          "id": "Zeeland",
+          "it": "Zelanda",
+          "ja": "ゼーラント州",
+          "ko": "제일란트 주",
+          "nl": "Zeeland",
+          "pl": "Zelandia",
+          "pt": "Zelândia",
+          "ru": "Зеландия",
+          "sv": "Zeeland",
+          "tr": "Zelanda",
+          "vi": "Zeeland",
+          "zh": "泽兰省"
+        },
+        "population": 360757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.785,
+          51.311
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-ze",
+        "area": 0.18486400000000286,
+        "bounding_box": [
+          3.349,
+          51.205,
+          4.221,
+          51.417
+        ],
+        "point": [
+          3.785,
+          51.311
+        ],
+        "labels": {
+          "alt": "Zelanda|Zélande|Zelândia",
+          "local": null,
+          "len": 7,
+          "ar": "زيلند",
+          "bn": "জিল্যান্ড",
+          "de": "Zeeland",
+          "en": "Zeeland",
+          "es": "Zelanda",
+          "fr": "Zélande",
+          "el": "Ζηλανδία",
+          "hi": "ज़ीलैंड",
+          "hu": "Zeeland",
+          "id": "Zeeland",
+          "it": "Zelanda",
+          "ja": "ゼーラント州",
+          "ko": "제일란트 주",
+          "nl": "Zeeland",
+          "pl": "Zelandia",
+          "pt": "Zelândia",
+          "ru": "Зеландия",
+          "sv": "Zeeland",
+          "tr": "Zelanda",
+          "vi": "Zeeland",
+          "zh": "泽兰省"
+        },
+        "population": 360757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.888,
+          51.685
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-ze",
+        "area": 0.04984800000000101,
+        "bounding_box": [
+          3.687,
+          51.623,
+          4.089,
+          51.747
+        ],
+        "point": [
+          3.888,
+          51.685
+        ],
+        "labels": {
+          "alt": "Zelanda|Zélande|Zelândia",
+          "local": null,
+          "len": 7,
+          "ar": "زيلند",
+          "bn": "জিল্যান্ড",
+          "de": "Zeeland",
+          "en": "Zeeland",
+          "es": "Zelanda",
+          "fr": "Zélande",
+          "el": "Ζηλανδία",
+          "hi": "ज़ीलैंड",
+          "hu": "Zeeland",
+          "id": "Zeeland",
+          "it": "Zelanda",
+          "ja": "ゼーラント州",
+          "ko": "제일란트 주",
+          "nl": "Zeeland",
+          "pl": "Zelandia",
+          "pt": "Zelândia",
+          "ru": "Зеландия",
+          "sv": "Zeeland",
+          "tr": "Zelanda",
+          "vi": "Zeeland",
+          "zh": "泽兰省"
+        },
+        "population": 360757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.109,
+          51.5655
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-ze",
+        "area": 0.02202199999999858,
+        "bounding_box": [
+          3.988,
+          51.52,
+          4.23,
+          51.611
+        ],
+        "point": [
+          4.109,
+          51.5655
+        ],
+        "labels": {
+          "alt": "Zelanda|Zélande|Zelândia",
+          "local": null,
+          "len": 7,
+          "ar": "زيلند",
+          "bn": "জিল্যান্ড",
+          "de": "Zeeland",
+          "en": "Zeeland",
+          "es": "Zelanda",
+          "fr": "Zélande",
+          "el": "Ζηλανδία",
+          "hi": "ज़ीलैंड",
+          "hu": "Zeeland",
+          "id": "Zeeland",
+          "it": "Zelanda",
+          "ja": "ゼーラント州",
+          "ko": "제일란트 주",
+          "nl": "Zeeland",
+          "pl": "Zelandia",
+          "pt": "Zelândia",
+          "ru": "Зеландия",
+          "sv": "Zeeland",
+          "tr": "Zelanda",
+          "vi": "Zeeland",
+          "zh": "泽兰省"
+        },
+        "population": 360757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1545000000000005,
+          51.632
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-ze",
+        "area": 0.002610000000000118,
+        "bounding_box": [
+          4.111,
+          51.617,
+          4.198,
+          51.647
+        ],
+        "point": [
+          4.1545000000000005,
+          51.632
+        ],
+        "labels": {
+          "alt": "Zelanda|Zélande|Zelândia",
+          "local": null,
+          "len": 7,
+          "ar": "زيلند",
+          "bn": "জিল্যান্ড",
+          "de": "Zeeland",
+          "en": "Zeeland",
+          "es": "Zelanda",
+          "fr": "Zélande",
+          "el": "Ζηλανδία",
+          "hi": "ज़ीलैंड",
+          "hu": "Zeeland",
+          "id": "Zeeland",
+          "it": "Zelanda",
+          "ja": "ゼーラント州",
+          "ko": "제일란트 주",
+          "nl": "Zeeland",
+          "pl": "Zelandia",
+          "pt": "Zelândia",
+          "ru": "Зеландия",
+          "sv": "Zeeland",
+          "tr": "Zelanda",
+          "vi": "Zeeland",
+          "zh": "泽兰省"
+        },
+        "population": 360757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1175,
+          51.525999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-nb",
+        "area": 1.151334000000004,
+        "bounding_box": [
+          4.186,
+          51.217,
+          6.049,
+          51.835
+        ],
+        "point": [
+          5.1175,
+          51.525999999999996
+        ],
+        "labels": {
+          "alt": "Brabante del Norte|Brabante do Norte|Brabante settentrionale|Brabant-septentrional|Nord-Brabant|Nort",
+          "local": null,
+          "len": 13,
+          "ar": "شمال برابنت",
+          "bn": "উত্তর ব্রাবান্ট",
+          "de": "Provinz Nordbrabant",
+          "en": "North Brabant",
+          "es": "Brabante Septentrional",
+          "fr": "Brabant-Septentrional",
+          "el": "Βόρεια Βραβάντη",
+          "hi": "उत्तरी ब्रबैंट",
+          "hu": "Észak-Brabant",
+          "id": "Brabant Utara",
+          "it": "Brabante Settentrionale",
+          "ja": "北ブラバント州",
+          "ko": "노르트브라반트 주",
+          "nl": "Noord-Brabant",
+          "pl": "Brabancja Północna",
+          "pt": "Brabante do Norte",
+          "ru": "Северный Брабант",
+          "sv": "Noord-Brabant",
+          "tr": "Kuzey Brabant",
+          "vi": "Noord-Brabant",
+          "zh": "北布拉班特省"
+        },
+        "population": 2573065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5225,
+          51.986999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-zh",
+        "area": 0.9220580000000004,
+        "bounding_box": [
+          3.862,
+          51.638,
+          5.183,
+          52.336
+        ],
+        "point": [
+          4.5225,
+          51.986999999999995
+        ],
+        "labels": {
+          "alt": "Hollande-méridionale|South Holland",
+          "local": null,
+          "len": 12,
+          "ar": "جنوب هولندا",
+          "bn": "সাউথ হল্যান্ড",
+          "de": "Provinz Südholland",
+          "en": "South Holland",
+          "es": "Holanda Meridional",
+          "fr": "Hollande-Méridionale",
+          "el": "Νότια Ολλανδία",
+          "hi": "दक्षिण हॉलैंड",
+          "hu": "Dél-Holland",
+          "id": "Holland Selatan",
+          "it": "Olanda Meridionale",
+          "ja": "南ホラント州",
+          "ko": "자위트홀란트 주",
+          "nl": "Zuid-Holland",
+          "pl": "Holandia Południowa",
+          "pt": "Holanda do Sul",
+          "ru": "Южная Голландия",
+          "sv": "Zuid-Holland",
+          "tr": "Güney Hollanda",
+          "vi": "Zuid-Holland",
+          "zh": "南荷蘭省"
+        },
+        "population": 3628607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.939,
+          52.588499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-nh",
+        "area": 0.724942000000001,
+        "bounding_box": [
+          4.508,
+          52.168,
+          5.37,
+          53.009
+        ],
+        "point": [
+          4.939,
+          52.588499999999996
+        ],
+        "labels": {
+          "alt": "Holanda do Norte|Hollande-septentrionale|North Holland",
+          "local": null,
+          "len": 13,
+          "ar": "شمال-هولندا",
+          "bn": "উত্তর হল্যান্ড",
+          "de": "Provinz Nordholland",
+          "en": "North Holland",
+          "es": "Holanda Septentrional",
+          "fr": "Hollande-Septentrionale",
+          "el": "Βόρεια Ολλανδία",
+          "hi": "उत्तर हॉलैंड",
+          "hu": "Észak-Holland",
+          "id": "Holland Utara",
+          "it": "Olanda Settentrionale",
+          "ja": "北ホラント州",
+          "ko": "노르트홀란트 주",
+          "nl": "Noord-Holland",
+          "pl": "Holandia Północna",
+          "pt": "Holanda do Norte",
+          "ru": "Северная Голландия",
+          "sv": "Noord-Holland",
+          "tr": "Kuzey Hollanda",
+          "vi": "Noord-Holland",
+          "zh": "北荷兰省"
+        },
+        "population": 2849846
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.812,
+          53.094
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-nh",
+        "area": 0.036848000000000415,
+        "bounding_box": [
+          4.714,
+          53.0,
+          4.91,
+          53.188
+        ],
+        "point": [
+          4.812,
+          53.094
+        ],
+        "labels": {
+          "alt": "Holanda do Norte|Hollande-septentrionale|North Holland",
+          "local": null,
+          "len": 13,
+          "ar": "شمال-هولندا",
+          "bn": "উত্তর হল্যান্ড",
+          "de": "Provinz Nordholland",
+          "en": "North Holland",
+          "es": "Holanda Septentrional",
+          "fr": "Hollande-Septentrionale",
+          "el": "Βόρεια Ολλανδία",
+          "hi": "उत्तर हॉलैंड",
+          "hu": "Észak-Holland",
+          "id": "Holland Utara",
+          "it": "Olanda Settentrionale",
+          "ja": "北ホラント州",
+          "ko": "노르트홀란트 주",
+          "nl": "Noord-Holland",
+          "pl": "Holandia Północna",
+          "pt": "Holanda do Norte",
+          "ru": "Северная Голландия",
+          "sv": "Noord-Holland",
+          "tr": "Kuzey Hollanda",
+          "vi": "Noord-Holland",
+          "zh": "北荷兰省"
+        },
+        "population": 2849846
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8045,
+          53.1005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-fr",
+        "area": 0.7756290000000031,
+        "bounding_box": [
+          5.18,
+          52.79,
+          6.429,
+          53.411
+        ],
+        "point": [
+          5.8045,
+          53.1005
+        ],
+        "labels": {
+          "alt": "Frise|Frisia|Frísia",
+          "local": null,
+          "len": 9,
+          "ar": "فرايزلاند",
+          "bn": "ফ্রাইসল্যান্ড",
+          "de": "Provinz Friesland",
+          "en": "Friesland",
+          "es": "Frisia",
+          "fr": "Frise",
+          "el": "Φρίσλαντ",
+          "hi": "फ्राइजलैंड",
+          "hu": "Frízföld",
+          "id": "Friesland",
+          "it": "Frisia",
+          "ja": "フリースラント州",
+          "ko": "프리슬란트 주",
+          "nl": "Friesland",
+          "pl": "Fryzja",
+          "pt": "Frísia",
+          "ru": "Фрисландия",
+          "sv": "Friesland",
+          "tr": "Frizya",
+          "vi": "Friesland",
+          "zh": "弗里斯兰省"
+        },
+        "population": 648542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.301500000000001,
+          53.3915
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-fr",
+        "area": 0.018864999999999563,
+        "bounding_box": [
+          5.179,
+          53.353,
+          5.424,
+          53.43
+        ],
+        "point": [
+          5.301500000000001,
+          53.3915
+        ],
+        "labels": {
+          "alt": "Frise|Frisia|Frísia",
+          "local": null,
+          "len": 9,
+          "ar": "فرايزلاند",
+          "bn": "ফ্রাইসল্যান্ড",
+          "de": "Provinz Friesland",
+          "en": "Friesland",
+          "es": "Frisia",
+          "fr": "Frise",
+          "el": "Φρίσλαντ",
+          "hi": "फ्राइजलैंड",
+          "hu": "Frízföld",
+          "id": "Friesland",
+          "it": "Frisia",
+          "ja": "フリースラント州",
+          "ko": "프리슬란트 주",
+          "nl": "Friesland",
+          "pl": "Fryzja",
+          "pt": "Frísia",
+          "ru": "Фрисландия",
+          "sv": "Friesland",
+          "tr": "Frizya",
+          "vi": "Friesland",
+          "zh": "弗里斯兰省"
+        },
+        "population": 648542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.311,
+          12.166
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-bq1",
+        "area": 0.05851200000000087,
+        "bounding_box": [
+          -68.417,
+          12.028,
+          -68.205,
+          12.304
+        ],
+        "point": [
+          -68.311,
+          12.166
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "بونير",
+          "bn": "বোনাইর",
+          "de": "Bonaire",
+          "en": "Bonaire",
+          "es": "Bonaire",
+          "fr": "Bonaire",
+          "el": "Μποναίρ",
+          "hi": "बोनेयेर",
+          "hu": "Bonaire",
+          "id": "Bonaire",
+          "it": "Bonaire",
+          "ja": "ボネール島",
+          "ko": "보네르 섬",
+          "nl": "Bonaire",
+          "pl": "Bonaire",
+          "pt": "Bonaire",
+          "ru": "Бонэйр",
+          "sv": "Bonaire",
+          "tr": "Bonaire",
+          "vi": "Bonaire",
+          "zh": "波内赫"
+        },
+        "population": 20793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.971000000000004,
+          17.497
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-bq3",
+        "area": 0.003015999999999968,
+        "bounding_box": [
+          -62.997,
+          17.468,
+          -62.945,
+          17.526
+        ],
+        "point": [
+          -62.971000000000004,
+          17.497
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "سينت أوستاتيوس",
+          "bn": "সিন্ট এউস্তাতিউস",
+          "de": "Sint Eustatius",
+          "en": "Sint Eustatius",
+          "es": "San Eustaquio",
+          "fr": "Saint-Eustache",
+          "el": "Άγιος Ευστάθιος",
+          "hi": "सिंट यूस्टेशियस",
+          "hu": "Sint Eustatius",
+          "id": "Sint Eustatius",
+          "it": "Sint Eustatius",
+          "ja": "シント・ユースタティウス島",
+          "ko": "신트외스타티위스 섬",
+          "nl": "Sint Eustatius",
+          "pl": "Sint Eustatius",
+          "pt": "Santo Eustáquio",
+          "ru": "Синт-Эстатиус",
+          "sv": "Sint Eustatius",
+          "tr": "Sint Eustatius",
+          "vi": "Sint Eustatius",
+          "zh": "圣尤斯特歇斯"
+        },
+        "population": 3332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2375,
+          17.631
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-bq2",
+        "area": 0.0008640000000000335,
+        "bounding_box": [
+          -63.251,
+          17.615,
+          -63.224,
+          17.647
+        ],
+        "point": [
+          -63.2375,
+          17.631
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "سابا",
+          "bn": "সাবা",
+          "de": "Saba",
+          "en": "Saba",
+          "es": "Saba",
+          "fr": "Saba",
+          "el": "Σάμπα",
+          "hi": null,
+          "hu": "Saba",
+          "id": "Saba",
+          "it": "Saba",
+          "ja": "サバ島",
+          "ko": "사바 섬",
+          "nl": "Saba",
+          "pl": "Saba",
+          "pt": "Saba",
+          "ru": "Саба",
+          "sv": "Saba",
+          "tr": "Saba",
+          "vi": "Saba",
+          "zh": "薩巴"
+        },
+        "population": 1145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.557499999999999,
+          52.5535
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-fl",
+        "area": 0.528174999999998,
+        "bounding_box": [
+          5.095,
+          52.268,
+          6.02,
+          52.839
+        ],
+        "point": [
+          5.557499999999999,
+          52.5535
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "فليفولاند",
+          "bn": "ফ্রিলে ফ্লেভোল্যান্ড",
+          "de": "Provinz Flevoland",
+          "en": "Flevoland",
+          "es": "Flevoland",
+          "fr": "Flevoland",
+          "el": "Φλέβολαντ",
+          "hi": "फ्लेवोलैंड",
+          "hu": "Flevoland",
+          "id": "Flevoland",
+          "it": "Flevoland",
+          "ja": "フレヴォラント州",
+          "ko": "플레볼란트 주",
+          "nl": "Flevoland",
+          "pl": "Flevoland",
+          "pt": "Flevolândia",
+          "ru": "Флеволанд",
+          "sv": "Flevoland",
+          "tr": "Flevoland",
+          "vi": "Flevoland",
+          "zh": "弗莱福兰省"
+        },
+        "population": 455266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.194,
+          52.112
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nl",
+        "region_child": "nl-ut",
+        "area": 0.29138399999999903,
+        "bounding_box": [
+          4.768,
+          51.941,
+          5.62,
+          52.283
+        ],
+        "point": [
+          5.194,
+          52.112
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة أوترخت",
+          "bn": "উট্রেখট",
+          "de": "Provinz Utrecht",
+          "en": "Utrecht",
+          "es": "Provincia de Utrecht",
+          "fr": "Utrecht",
+          "el": "Ουτρέχτη",
+          "hi": "यूट्रेक्ट",
+          "hu": "Utrecht",
+          "id": "Utrecht",
+          "it": "Utrecht",
+          "ja": "ユトレヒト州",
+          "ko": "위트레흐트 주",
+          "nl": "Utrecht",
+          "pl": "Utrecht",
+          "pt": "Utrecht",
+          "ru": "Утрехт",
+          "sv": "Utrecht",
+          "tr": "Utrecht",
+          "vi": "Utrecht",
+          "zh": "乌得勒支省"
+        },
+        "population": 1289866
+      }
+    }
+  ]
+}

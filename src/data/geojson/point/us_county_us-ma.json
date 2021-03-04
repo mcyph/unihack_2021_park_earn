@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6395,
+          42.3695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "015",
+        "area": 0.3204070000000012,
+        "bounding_box": [
+          -73.069,
+          42.183,
+          -72.21,
+          42.556
+        ],
+        "point": [
+          -72.6395,
+          42.3695
+        ],
+        "labels": {
+          "en": "Hampshire"
+        },
+        "population": 162543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9195,
+          42.339
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "025",
+        "area": 0.12054600000000212,
+        "bounding_box": [
+          -71.191,
+          42.228,
+          -70.648,
+          42.45
+        ],
+        "point": [
+          -70.9195,
+          42.339
+        ],
+        "labels": {
+          "en": "Suffolk"
+        },
+        "population": 745489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3085,
+          41.799499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "001",
+        "area": 0.603229,
+        "bounding_box": [
+          -70.758,
+          41.464,
+          -69.859,
+          42.135
+        ],
+        "point": [
+          -70.3085,
+          41.799499999999995
+        ],
+        "labels": {
+          "en": "Barnstable"
+        },
+        "population": 210023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8965,
+          42.365
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "027",
+        "area": 0.5976180000000012,
+        "bounding_box": [
+          -72.315,
+          42.008,
+          -71.478,
+          42.722
+        ],
+        "point": [
+          -71.8965,
+          42.365
+        ],
+        "labels": {
+          "en": "Worcester"
+        },
+        "population": 849173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1925,
+          41.3155
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "019",
+        "area": 0.15445700000000276,
+        "bounding_box": [
+          -70.493,
+          41.187,
+          -69.892,
+          41.444
+        ],
+        "point": [
+          -70.1925,
+          41.3155
+        ],
+        "labels": {
+          "en": "Nantucket"
+        },
+        "population": 10866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.643,
+          41.379999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "007",
+        "area": 0.2961160000000059,
+        "bounding_box": [
+          -71.052,
+          41.199,
+          -70.234,
+          41.561
+        ],
+        "point": [
+          -70.643,
+          41.379999999999995
+        ],
+        "labels": {
+          "en": "Dukes"
+        },
+        "population": 18226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.605,
+          42.171
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "013",
+        "area": 0.32524000000000264,
+        "bounding_box": [
+          -73.075,
+          41.998,
+          -72.135,
+          42.344
+        ],
+        "point": [
+          -72.605,
+          42.171
+        ],
+        "labels": {
+          "en": "Hampden"
+        },
+        "population": 472727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.229,
+          42.393
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "003",
+        "area": 0.3939479999999966,
+        "bounding_box": [
+          -73.508,
+          42.04,
+          -72.95,
+          42.746
+        ],
+        "point": [
+          -73.229,
+          42.393
+        ],
+        "labels": {
+          "en": "Berkshire"
+        },
+        "population": 127392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06649999999999,
+          41.7565
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "005",
+        "area": 0.4270910000000001,
+        "bounding_box": [
+          -71.381,
+          41.417,
+          -70.752,
+          42.096
+        ],
+        "point": [
+          -71.06649999999999,
+          41.7565
+        ],
+        "labels": {
+          "en": "Bristol"
+        },
+        "population": 564321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.45949999999999,
+          42.447
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "017",
+        "area": 0.5098200000000076,
+        "bounding_box": [
+          -71.899,
+          42.157,
+          -71.02,
+          42.737
+        ],
+        "point": [
+          -71.45949999999999,
+          42.447
+        ],
+        "labels": {
+          "en": "Middlesex"
+        },
+        "population": 1548908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.87899999999999,
+          42.6355
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "009",
+        "area": 0.37926200000000254,
+        "bounding_box": [
+          -71.256,
+          42.384,
+          -70.502,
+          42.887
+        ],
+        "point": [
+          -70.87899999999999,
+          42.6355
+        ],
+        "labels": {
+          "en": "Essex"
+        },
+        "population": 764980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2025,
+          42.1565
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "021",
+        "area": 0.2061430000000018,
+        "bounding_box": [
+          -71.503,
+          41.985,
+          -70.902,
+          42.328
+        ],
+        "point": [
+          -71.2025,
+          42.1565
+        ],
+        "labels": {
+          "en": "Norfolk"
+        },
+        "population": 693856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7645,
+          42.288
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "021",
+        "area": 0.030797999999998604,
+        "bounding_box": [
+          -70.853,
+          42.201,
+          -70.676,
+          42.375
+        ],
+        "point": [
+          -70.7645,
+          42.288
+        ],
+        "labels": {
+          "en": "Norfolk"
+        },
+        "population": 693856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1425,
+          42.323499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "021",
+        "area": 0.0041610000000000666,
+        "bounding_box": [
+          -71.179,
+          42.295,
+          -71.106,
+          42.352
+        ],
+        "point": [
+          -71.1425,
+          42.323499999999996
+        ],
+        "labels": {
+          "en": "Norfolk"
+        },
+        "population": 693856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7015,
+          41.9705
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "023",
+        "area": 0.6124130000000022,
+        "bounding_box": [
+          -71.08,
+          41.566,
+          -70.323,
+          42.375
+        ],
+        "point": [
+          -70.7015,
+          41.9705
+        ],
+        "labels": {
+          "en": "Plymouth"
+        },
+        "population": 519111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6245,
+          42.522999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ma",
+        "region_child": "011",
+        "area": 0.34836400000000284,
+        "bounding_box": [
+          -73.024,
+          42.305,
+          -72.225,
+          42.741
+        ],
+        "point": [
+          -72.6245,
+          42.522999999999996
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 71270
+      }
+    }
+  ]
+}

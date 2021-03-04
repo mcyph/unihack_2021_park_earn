@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.011,
+          26.665
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-nl",
+        "region_child": "mon",
+        "area": 0.34280400000000283,
+        "bounding_box": [
+          94.78,
+          26.294,
+          95.242,
+          27.036
+        ],
+        "point": [
+          95.011,
+          26.665
+        ],
+        "labels": {
+          "en": "Mon"
+        },
+        "population": 228725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.79249999999999,
+          26.5885
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-nl",
+        "region_child": "longleng",
+        "area": 0.10299900000000034,
+        "bounding_box": [
+          94.669,
+          26.38,
+          94.916,
+          26.797
+        ],
+        "point": [
+          94.79249999999999,
+          26.5885
+        ],
+        "labels": {
+          "en": "Longleng"
+        },
+        "population": 29826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.52350000000001,
+          26.478
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-nl",
+        "region_child": "mokokchung",
+        "area": 0.2661899999999994,
+        "bounding_box": [
+          94.29,
+          26.193,
+          94.757,
+          26.763
+        ],
+        "point": [
+          94.52350000000001,
+          26.478
+        ],
+        "labels": {
+          "en": "Mokokchung"
+        },
+        "population": 171081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.873,
+          26.172
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-nl",
+        "region_child": "tuensang",
+        "area": 0.3630800000000017,
+        "bounding_box": [
+          94.56,
+          25.882,
+          95.186,
+          26.462
+        ],
+        "point": [
+          94.873,
+          26.172
+        ],
+        "labels": {
+          "en": "Tuensang"
+        },
+        "population": 197634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81,
+          25.813499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-nl",
+        "region_child": "kiphire",
+        "area": 0.2184000000000027,
+        "bounding_box": [
+          94.57,
+          25.586,
+          95.05,
+          26.041
+        ],
+        "point": [
+          94.81,
+          25.813499999999998
+        ],
+        "labels": {
+          "en": "Kiphire"
+        },
+        "population": 55201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6345,
+          25.437
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-nl",
+        "region_child": "peren",
+        "area": 0.2908360000000014,
+        "bounding_box": [
+          93.329,
+          25.199,
+          93.94,
+          25.675
+        ],
+        "point": [
+          93.6345,
+          25.437
+        ],
+        "labels": {
+          "en": "Peren"
+        },
+        "population": 96230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.172,
+          26.265
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-nl",
+        "region_child": "wokha",
+        "area": 0.25929600000000086,
+        "bounding_box": [
+          93.953,
+          25.969,
+          94.391,
+          26.561
+        ],
+        "point": [
+          94.172,
+          26.265
+        ],
+        "labels": {
+          "en": "Wokha"
+        },
+        "population": 165348
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.464,
+          26.011499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-nl",
+        "region_child": "zunheboto",
+        "area": 0.2783819999999952,
+        "bounding_box": [
+          94.215,
+          25.732,
+          94.713,
+          26.291
+        ],
+        "point": [
+          94.464,
+          26.011499999999998
+        ],
+        "labels": {
+          "en": "Zunheboto"
+        },
+        "population": 135077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.542,
+          25.649
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-nl",
+        "region_child": "phek",
+        "area": 0.2904959999999964,
+        "bounding_box": [
+          94.186,
+          25.445,
+          94.898,
+          25.853
+        ],
+        "point": [
+          94.542,
+          25.649
+        ],
+        "labels": {
+          "en": "Phek"
+        },
+        "population": 164392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.105,
+          25.769
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-nl",
+        "region_child": "kohima",
+        "area": 0.1910000000000025,
+        "bounding_box": [
+          93.914,
+          25.519,
+          94.296,
+          26.019
+        ],
+        "point": [
+          94.105,
+          25.769
+        ],
+        "labels": {
+          "en": "Kohima"
+        },
+        "population": 310371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.765,
+          25.820999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-nl",
+        "region_child": "dimapur",
+        "area": 0.17236799999999797,
+        "bounding_box": [
+          93.513,
+          25.65,
+          94.017,
+          25.992
+        ],
+        "point": [
+          93.765,
+          25.820999999999998
+        ],
+        "labels": {
+          "en": "Dimapur"
+        },
+        "population": 512664
+      }
+    }
+  ]
+}

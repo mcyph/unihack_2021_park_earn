@@ -1,0 +1,2645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6505,
+          40.9935
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "063",
+        "area": 0.16181099999999907,
+        "bounding_box": [
+          -83.881,
+          40.818,
+          -83.42,
+          41.169
+        ],
+        "point": [
+          -83.6505,
+          40.9935
+        ],
+        "labels": {
+          "en": "Hancock"
+        },
+        "population": 79223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1385,
+          40.7815
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "003",
+        "area": 0.14320900000000333,
+        "bounding_box": [
+          -84.397,
+          40.643,
+          -83.88,
+          40.92
+        ],
+        "point": [
+          -84.1385,
+          40.7815
+        ],
+        "labels": {
+          "en": "Allen"
+        },
+        "population": 105235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2485,
+          41.911
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "085",
+        "area": 0.33622600000000735,
+        "bounding_box": [
+          -81.495,
+          41.57,
+          -81.002,
+          42.252
+        ],
+        "point": [
+          -81.2485,
+          41.911
+        ],
+        "labels": {
+          "en": "Lake"
+        },
+        "population": 230682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.461,
+          39.547
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "047",
+        "area": 0.1421200000000006,
+        "bounding_box": [
+          -83.67,
+          39.377,
+          -83.252,
+          39.717
+        ],
+        "point": [
+          -83.461,
+          39.547
+        ],
+        "labels": {
+          "en": "Fayette"
+        },
+        "population": 29653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5755,
+          39.441500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "017",
+        "area": 0.14561300000000243,
+        "bounding_box": [
+          -84.819,
+          39.292,
+          -84.332,
+          39.591
+        ],
+        "point": [
+          -84.5755,
+          39.441500000000005
+        ],
+        "labels": {
+          "en": "Butler"
+        },
+        "population": 408224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.833,
+          39.61
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "115",
+        "area": 0.15906800000000126,
+        "bounding_box": [
+          -82.08,
+          39.449,
+          -81.586,
+          39.771
+        ],
+        "point": [
+          -81.833,
+          39.61
+        ],
+        "labels": {
+          "en": "Morgan"
+        },
+        "population": 14942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.19749999999999,
+          41.168
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "133",
+        "area": 0.1407600000000017,
+        "bounding_box": [
+          -81.393,
+          40.988,
+          -81.002,
+          41.348
+        ],
+        "point": [
+          -81.19749999999999,
+          41.168
+        ],
+        "labels": {
+          "en": "Portage"
+        },
+        "population": 171912
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9605,
+          38.793499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "145",
+        "area": 0.276344999999998,
+        "bounding_box": [
+          -83.271,
+          38.571,
+          -82.65,
+          39.016
+        ],
+        "point": [
+          -82.9605,
+          38.793499999999995
+        ],
+        "labels": {
+          "en": "Scioto"
+        },
+        "population": 79386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51150000000001,
+          39.212
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "163",
+        "area": 0.1851040000000011,
+        "bounding_box": [
+          -82.763,
+          39.028,
+          -82.26,
+          39.396
+        ],
+        "point": [
+          -82.51150000000001,
+          39.212
+        ],
+        "labels": {
+          "en": "Vinton"
+        },
+        "population": 14006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57300000000001,
+          41.120999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "125",
+        "area": 0.12196800000000221,
+        "bounding_box": [
+          -84.804,
+          40.989,
+          -84.342,
+          41.253
+        ],
+        "point": [
+          -84.57300000000001,
+          41.120999999999995
+        ],
+        "labels": {
+          "en": "Paulding"
+        },
+        "population": 18463
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1115,
+          41.327
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "069",
+        "area": 0.1484420000000008,
+        "bounding_box": [
+          -84.342,
+          41.166,
+          -83.881,
+          41.488
+        ],
+        "point": [
+          -84.1115,
+          41.327
+        ],
+        "labels": {
+          "en": "Henry"
+        },
+        "population": 27377
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1385,
+          41.602999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "051",
+        "area": 0.12238200000000335,
+        "bounding_box": [
+          -84.4,
+          41.486,
+          -83.877,
+          41.72
+        ],
+        "point": [
+          -84.1385,
+          41.602999999999994
+        ],
+        "labels": {
+          "en": "Fulton"
+        },
+        "population": 42745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.863,
+          38.947
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "015",
+        "area": 0.23331999999999614,
+        "bounding_box": [
+          -84.053,
+          38.64,
+          -83.673,
+          39.254
+        ],
+        "point": [
+          -83.863,
+          38.947
+        ],
+        "labels": {
+          "en": "Brown"
+        },
+        "population": 47151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7675,
+          40.384
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "091",
+        "area": 0.15345000000000253,
+        "bounding_box": [
+          -84.015,
+          40.229,
+          -83.52,
+          40.539
+        ],
+        "point": [
+          -83.7675,
+          40.384
+        ],
+        "labels": {
+          "en": "Logan"
+        },
+        "population": 45899
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.761,
+          41.3175
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "155",
+        "area": 0.17859599999999792,
+        "bounding_box": [
+          -81.003,
+          41.133,
+          -80.519,
+          41.502
+        ],
+        "point": [
+          -80.761,
+          41.3175
+        ],
+        "labels": {
+          "en": "Trumbull"
+        },
+        "population": 197687
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.086,
+          39.073
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "131",
+        "area": 0.14999999999999858,
+        "bounding_box": [
+          -83.386,
+          38.948,
+          -82.786,
+          39.198
+        ],
+        "point": [
+          -83.086,
+          39.073
+        ],
+        "labels": {
+          "en": "Pike"
+        },
+        "population": 29937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07,
+          39.704499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "111",
+        "area": 0.16384200000000185,
+        "bounding_box": [
+          -81.319,
+          39.54,
+          -80.821,
+          39.869
+        ],
+        "point": [
+          -81.07,
+          39.704499999999996
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 14017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5515,
+          38.6265
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "087",
+        "area": 0.23540499999999479,
+        "bounding_box": [
+          -82.816,
+          38.404,
+          -82.287,
+          38.849
+        ],
+        "point": [
+          -82.5515,
+          38.6265
+        ],
+        "labels": {
+          "en": "Lawrence"
+        },
+        "population": 59808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4865,
+          38.826499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "001",
+        "area": 0.19970899999999922,
+        "bounding_box": [
+          -83.705,
+          38.598,
+          -83.268,
+          39.055
+        ],
+        "point": [
+          -83.4865,
+          38.826499999999996
+        ],
+        "labels": {
+          "en": "Adams"
+        },
+        "population": 29483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9185,
+          40.85
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "033",
+        "area": 0.11436599999999757,
+        "bounding_box": [
+          -83.113,
+          40.703,
+          -82.724,
+          40.997
+        ],
+        "point": [
+          -82.9185,
+          40.85
+        ],
+        "labels": {
+          "en": "Crawford"
+        },
+        "population": 40601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.47749999999999,
+          40.0305
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "059",
+        "area": 0.19264900000000137,
+        "bounding_box": [
+          -81.729,
+          39.839,
+          -81.226,
+          40.222
+        ],
+        "point": [
+          -81.47749999999999,
+          40.0305
+        ],
+        "labels": {
+          "en": "Guernsey"
+        },
+        "population": 39294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5715,
+          40.837500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "161",
+        "area": 0.141214999999998,
+        "bounding_box": [
+          -84.803,
+          40.685,
+          -84.34,
+          40.99
+        ],
+        "point": [
+          -84.5715,
+          40.837500000000006
+        ],
+        "labels": {
+          "en": "Van Wert"
+        },
+        "population": 27408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9995,
+          39.6405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "129",
+        "area": 0.1845749999999982,
+        "bounding_box": [
+          -83.267,
+          39.468,
+          -82.732,
+          39.813
+        ],
+        "point": [
+          -82.9995,
+          39.6405
+        ],
+        "labels": {
+          "en": "Pickaway"
+        },
+        "population": 59525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9625,
+          39.9615
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "119",
+        "area": 0.2231729999999975,
+        "bounding_box": [
+          -82.234,
+          39.756,
+          -81.691,
+          40.167
+        ],
+        "point": [
+          -81.9625,
+          39.9615
+        ],
+        "labels": {
+          "en": "Muskingum"
+        },
+        "population": 88001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53200000000001,
+          40.772999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "139",
+        "area": 0.17394000000000223,
+        "bounding_box": [
+          -82.727,
+          40.55,
+          -82.337,
+          40.996
+        ],
+        "point": [
+          -82.53200000000001,
+          40.772999999999996
+        ],
+        "labels": {
+          "en": "Richland"
+        },
+        "population": 119722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.765,
+          40.1415
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "021",
+        "area": 0.14254600000000325,
+        "bounding_box": [
+          -84.036,
+          40.01,
+          -83.494,
+          40.273
+        ],
+        "point": [
+          -83.765,
+          40.1415
+        ],
+        "labels": {
+          "en": "Champaign"
+        },
+        "population": 41150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8885,
+          40.829499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "169",
+        "area": 0.1563250000000008,
+        "bounding_box": [
+          -82.129,
+          40.667,
+          -81.648,
+          40.992
+        ],
+        "point": [
+          -81.8885,
+          40.829499999999996
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 118285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01599999999999,
+          41.643
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "123",
+        "area": 0.29759999999999887,
+        "bounding_box": [
+          -83.416,
+          41.457,
+          -82.616,
+          41.829
+        ],
+        "point": [
+          -83.01599999999999,
+          41.643
+        ],
+        "labels": {
+          "en": "Ottawa"
+        },
+        "population": 41826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.10300000000001,
+          40.296
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "067",
+        "area": 0.12987600000000146,
+        "bounding_box": [
+          -81.34,
+          40.159,
+          -80.866,
+          40.433
+        ],
+        "point": [
+          -81.10300000000001,
+          40.296
+        ],
+        "labels": {
+          "en": "Harrison"
+        },
+        "population": 15778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.78200000000001,
+          39.9045
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "023",
+        "area": 0.1474239999999996,
+        "bounding_box": [
+          -84.054,
+          39.769,
+          -83.51,
+          40.04
+        ],
+        "point": [
+          -83.78200000000001,
+          39.9045
+        ],
+        "labels": {
+          "en": "Clark"
+        },
+        "population": 132130
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.45400000000001,
+          39.512
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "073",
+        "area": 0.17699999999999508,
+        "bounding_box": [
+          -82.749,
+          39.362,
+          -82.159,
+          39.662
+        ],
+        "point": [
+          -82.45400000000001,
+          39.512
+        ],
+        "labels": {
+          "en": "Hocking"
+        },
+        "population": 30727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22800000000001,
+          40.040000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "109",
+        "area": 0.13120000000000356,
+        "bounding_box": [
+          -84.433,
+          39.88,
+          -84.023,
+          40.2
+        ],
+        "point": [
+          -84.22800000000001,
+          40.040000000000006
+        ],
+        "labels": {
+          "en": "Miami"
+        },
+        "population": 106980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9975,
+          40.285
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "041",
+        "area": 0.16059000000000104,
+        "bounding_box": [
+          -83.25,
+          40.126,
+          -82.745,
+          40.444
+        ],
+        "point": [
+          -82.9975,
+          40.285
+        ],
+        "labels": {
+          "en": "Delaware"
+        },
+        "population": 275814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.619,
+          40.135
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "037",
+        "area": 0.16906799999999902,
+        "bounding_box": [
+          -84.812,
+          39.916,
+          -84.426,
+          40.354
+        ],
+        "point": [
+          -84.619,
+          40.135
+        ],
+        "labels": {
+          "en": "Darke"
+        },
+        "population": 52652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.88050000000001,
+          39.7
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "057",
+        "area": 0.1401000000000016,
+        "bounding_box": [
+          -84.114,
+          39.55,
+          -83.647,
+          39.85
+        ],
+        "point": [
+          -83.88050000000001,
+          39.7
+        ],
+        "labels": {
+          "en": "Greene"
+        },
+        "population": 177644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.281,
+          40.810500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "005",
+        "area": 0.15943199999999966,
+        "bounding_box": [
+          -82.437,
+          40.555,
+          -82.125,
+          41.066
+        ],
+        "point": [
+          -82.281,
+          40.810500000000005
+        ],
+        "labels": {
+          "en": "Ashland"
+        },
+        "population": 53964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4395,
+          41.6865
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "095",
+        "area": 0.48341500000000176,
+        "bounding_box": [
+          -83.883,
+          41.414,
+          -82.996,
+          41.959
+        ],
+        "point": [
+          -83.4395,
+          41.6865
+        ],
+        "labels": {
+          "en": "Lucas"
+        },
+        "population": 430387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7645,
+          41.913
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "007",
+        "area": 0.4065479999999977,
+        "bounding_box": [
+          -81.01,
+          41.499,
+          -80.519,
+          42.327
+        ],
+        "point": [
+          -80.7645,
+          41.913
+        ],
+        "labels": {
+          "en": "Ashtabula"
+        },
+        "population": 100191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.64699999999999,
+          39.7425
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "135",
+        "area": 0.11793599999999918,
+        "bounding_box": [
+          -84.815,
+          39.567,
+          -84.479,
+          39.918
+        ],
+        "point": [
+          -84.64699999999999,
+          39.7425
+        ],
+        "labels": {
+          "en": "Preble"
+        },
+        "population": 42459
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.616,
+          39.025999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "079",
+        "area": 0.13904800000000075,
+        "bounding_box": [
+          -82.807,
+          38.844,
+          -82.425,
+          39.208
+        ],
+        "point": [
+          -82.616,
+          39.025999999999996
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 33698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.368,
+          40.812
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "151",
+        "area": 0.19965600000000208,
+        "bounding_box": [
+          -81.65,
+          40.635,
+          -81.086,
+          40.989
+        ],
+        "point": [
+          -81.368,
+          40.812
+        ],
+        "labels": {
+          "en": "Stark"
+        },
+        "population": 375260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.803,
+          41.016999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "099",
+        "area": 0.1329120000000005,
+        "bounding_box": [
+          -81.087,
+          40.9,
+          -80.519,
+          41.134
+        ],
+        "point": [
+          -80.803,
+          41.016999999999996
+        ],
+        "labels": {
+          "en": "Mahoning"
+        },
+        "population": 221283
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4885,
+          40.44
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "157",
+        "area": 0.20204400000000042,
+        "bounding_box": [
+          -81.712,
+          40.214,
+          -81.265,
+          40.666
+        ],
+        "point": [
+          -81.4885,
+          40.44
+        ],
+        "labels": {
+          "en": "Tuscarawas"
+        },
+        "population": 93585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6075,
+          39.199
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "071",
+        "area": 0.1904399999999984,
+        "bounding_box": [
+          -83.872,
+          39.019,
+          -83.343,
+          39.379
+        ],
+        "point": [
+          -83.6075,
+          39.199
+        ],
+        "labels": {
+          "en": "Highland"
+        },
+        "population": 46630
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.82300000000001,
+          40.528999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "117",
+        "area": 0.14646400000000465,
+        "bounding_box": [
+          -83.022,
+          40.345,
+          -82.624,
+          40.713
+        ],
+        "point": [
+          -82.82300000000001,
+          40.528999999999996
+        ],
+        "labels": {
+          "en": "Morrow"
+        },
+        "population": 38347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.13900000000001,
+          40.5695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "101",
+        "area": 0.1523019999999998,
+        "bounding_box": [
+          -83.42,
+          40.434,
+          -82.858,
+          40.705
+        ],
+        "point": [
+          -83.13900000000001,
+          40.5695
+        ],
+        "labels": {
+          "en": "Marion"
+        },
+        "population": 66761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24799999999999,
+          39.739999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "127",
+        "area": 0.1702399999999986,
+        "bounding_box": [
+          -82.472,
+          39.55,
+          -82.024,
+          39.93
+        ],
+        "point": [
+          -82.24799999999999,
+          39.739999999999995
+        ],
+        "labels": {
+          "en": "Perry"
+        },
+        "population": 38375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.64750000000001,
+          41.492000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "043",
+        "area": 0.2541760000000041,
+        "bounding_box": [
+          -82.953,
+          41.284,
+          -82.342,
+          41.7
+        ],
+        "point": [
+          -82.64750000000001,
+          41.492000000000004
+        ],
+        "labels": {
+          "en": "Erie"
+        },
+        "population": 74255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7915,
+          39.396
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "027",
+        "area": 0.1491260000000056,
+        "bounding_box": [
+          -84.007,
+          39.223,
+          -83.576,
+          39.569
+        ],
+        "point": [
+          -83.7915,
+          39.396
+        ],
+        "labels": {
+          "en": "Clinton"
+        },
+        "population": 43333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1125,
+          41.471000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "093",
+        "area": 0.383394000000003,
+        "bounding_box": [
+          -82.348,
+          41.064,
+          -81.877,
+          41.878
+        ],
+        "point": [
+          -82.1125,
+          41.471000000000004
+        ],
+        "labels": {
+          "en": "Lorain"
+        },
+        "population": 320581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5155,
+          41.297
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "039",
+        "area": 0.15117399999999978,
+        "bounding_box": [
+          -84.804,
+          41.166,
+          -84.227,
+          41.428
+        ],
+        "point": [
+          -84.5155,
+          41.297
+        ],
+        "labels": {
+          "en": "Defiance"
+        },
+        "population": 38468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.00999999999999,
+          39.369
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "009",
+        "area": 0.21657600000000563,
+        "bounding_box": [
+          -82.298,
+          39.181,
+          -81.722,
+          39.557
+        ],
+        "point": [
+          -82.00999999999999,
+          39.369
+        ],
+        "labels": {
+          "en": "Athens"
+        },
+        "population": 67265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.76849999999999,
+          40.376999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "081",
+        "area": 0.15406799999999587,
+        "bounding_box": [
+          -80.942,
+          40.155,
+          -80.595,
+          40.599
+        ],
+        "point": [
+          -80.76849999999999,
+          40.376999999999995
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 65492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.13,
+          41.376999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "143",
+        "area": 0.14383999999999816,
+        "bounding_box": [
+          -83.42,
+          41.253,
+          -82.84,
+          41.501
+        ],
+        "point": [
+          -83.13,
+          41.376999999999995
+        ],
+        "labels": {
+          "en": "Sandusky"
+        },
+        "population": 59393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.268,
+          39.7505
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "113",
+        "area": 0.14972999999999864,
+        "bounding_box": [
+          -84.485,
+          39.578,
+          -84.051,
+          39.923
+        ],
+        "point": [
+          -84.268,
+          39.7505
+        ],
+        "labels": {
+          "en": "Montgomery"
+        },
+        "population": 511691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.168,
+          40.5205
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "011",
+        "area": 0.1906560000000043,
+        "bounding_box": [
+          -84.456,
+          40.355,
+          -83.88,
+          40.686
+        ],
+        "point": [
+          -84.168,
+          40.5205
+        ],
+        "labels": {
+          "en": "Auglaize"
+        },
+        "population": 45323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.19749999999999,
+          41.531000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "055",
+        "area": 0.14315199999999928,
+        "bounding_box": [
+          -81.392,
+          41.347,
+          -81.003,
+          41.715
+        ],
+        "point": [
+          -81.19749999999999,
+          41.531000000000006
+        ],
+        "labels": {
+          "en": "Geauga"
+        },
+        "population": 96134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5395,
+          39.167
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "061",
+        "area": 0.16268999999999745,
+        "bounding_box": [
+          -84.82,
+          39.022,
+          -84.259,
+          39.312
+        ],
+        "point": [
+          -84.5395,
+          39.167
+        ],
+        "labels": {
+          "en": "Hamilton"
+        },
+        "population": 761192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.935,
+          40.556
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "075",
+        "area": 0.1281279999999987,
+        "bounding_box": [
+          -82.221,
+          40.444,
+          -81.649,
+          40.668
+        ],
+        "point": [
+          -81.935,
+          40.556
+        ],
+        "labels": {
+          "en": "Holmes"
+        },
+        "population": 45709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.803,
+          40.756
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "029",
+        "area": 0.19766399999999867,
+        "bounding_box": [
+          -81.087,
+          40.582,
+          -80.519,
+          40.93
+        ],
+        "point": [
+          -80.803,
+          40.756
+        ],
+        "labels": {
+          "en": "Columbiana"
+        },
+        "population": 102128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0915,
+          40.577
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "019",
+        "area": 0.1401440000000005,
+        "bounding_box": [
+          -81.322,
+          40.425,
+          -80.861,
+          40.729
+        ],
+        "point": [
+          -81.0915,
+          40.577
+        ],
+        "labels": {
+          "en": "Carroll"
+        },
+        "population": 27446
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.97,
+          40.0115
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "013",
+        "area": 0.17248199999999758,
+        "bounding_box": [
+          -81.237,
+          39.85,
+          -80.703,
+          40.173
+        ],
+        "point": [
+          -80.97,
+          40.0115
+        ],
+        "labels": {
+          "en": "Belmont"
+        },
+        "population": 70941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0675,
+          39.342
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "141",
+        "area": 0.22724400000000136,
+        "bounding_box": [
+          -83.394,
+          39.168,
+          -82.741,
+          39.516
+        ],
+        "point": [
+          -83.0675,
+          39.342
+        ],
+        "labels": {
+          "en": "Ross"
+        },
+        "population": 82606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.44550000000001,
+          39.431
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "167",
+        "area": 0.3513099999999968,
+        "bounding_box": [
+          -81.854,
+          39.216,
+          -81.037,
+          39.646
+        ],
+        "point": [
+          -81.44550000000001,
+          39.431
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 59342
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4295,
+          39.903
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "097",
+        "area": 0.1859519999999997,
+        "bounding_box": [
+          -83.653,
+          39.695,
+          -83.206,
+          40.111
+        ],
+        "point": [
+          -83.4295,
+          39.903
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 46572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.64750000000001,
+          40.662
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "065",
+        "area": 0.14693999999999774,
+        "bounding_box": [
+          -83.88,
+          40.504,
+          -83.415,
+          40.82
+        ],
+        "point": [
+          -83.64750000000001,
+          40.662
+        ],
+        "labels": {
+          "en": "Hardin"
+        },
+        "population": 31626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1565,
+          39.0205
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "025",
+        "area": 0.16382699999999834,
+        "bounding_box": [
+          -84.32,
+          38.77,
+          -83.993,
+          39.271
+        ],
+        "point": [
+          -84.1565,
+          39.0205
+        ],
+        "labels": {
+          "en": "Clermont"
+        },
+        "population": 218291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.46549999999999,
+          39.7685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "121",
+        "area": 0.17177300000000403,
+        "bounding_box": [
+          -81.697,
+          39.583,
+          -81.234,
+          39.954
+        ],
+        "point": [
+          -81.46549999999999,
+          39.7685
+        ],
+        "labels": {
+          "en": "Noble"
+        },
+        "population": 15241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1395,
+          41.0135
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "137",
+        "area": 0.16037100000000037,
+        "bounding_box": [
+          -84.399,
+          40.859,
+          -83.88,
+          41.168
+        ],
+        "point": [
+          -84.1395,
+          41.0135
+        ],
+        "labels": {
+          "en": "Putnam"
+        },
+        "population": 34395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.033,
+          39.039500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "105",
+        "area": 0.19264199999999554,
+        "bounding_box": [
+          -82.324,
+          38.874,
+          -81.742,
+          39.205
+        ],
+        "point": [
+          -82.033,
+          39.039500000000004
+        ],
+        "labels": {
+          "en": "Meigs"
+        },
+        "population": 23388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.011,
+          39.969
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "049",
+        "area": 0.17330400000000112,
+        "bounding_box": [
+          -83.26,
+          39.795,
+          -82.762,
+          40.143
+        ],
+        "point": [
+          -83.011,
+          39.969
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 1268112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5885,
+          41.1415
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "077",
+        "area": 0.14998499999999715,
+        "bounding_box": [
+          -82.841,
+          40.993,
+          -82.336,
+          41.29
+        ],
+        "point": [
+          -82.5885,
+          41.1415
+        ],
+        "labels": {
+          "en": "Huron"
+        },
+        "population": 60632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6495,
+          41.3925
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "173",
+        "area": 0.2124569999999987,
+        "bounding_box": [
+          -83.884,
+          41.166,
+          -83.415,
+          41.619
+        ],
+        "point": [
+          -83.6495,
+          41.3925
+        ],
+        "labels": {
+          "en": "Wood"
+        },
+        "population": 129181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1255,
+          41.1245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "147",
+        "area": 0.1566150000000025,
+        "bounding_box": [
+          -83.421,
+          40.992,
+          -82.83,
+          41.257
+        ],
+        "point": [
+          -83.1255,
+          41.1245
+        ],
+        "labels": {
+          "en": "Seneca"
+        },
+        "population": 53678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.574,
+          41.566
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "171",
+        "area": 0.12992000000000015,
+        "bounding_box": [
+          -84.806,
+          41.426,
+          -84.342,
+          41.706
+        ],
+        "point": [
+          -84.574,
+          41.566
+        ],
+        "labels": {
+          "en": "Williams"
+        },
+        "population": 36390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3605,
+          40.307
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "159",
+        "area": 0.15239999999999954,
+        "bounding_box": [
+          -83.551,
+          40.107,
+          -83.17,
+          40.507
+        ],
+        "point": [
+          -83.3605,
+          40.307
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 68490
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.673,
+          41.6855
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "035",
+        "area": 0.48931600000000175,
+        "bounding_box": [
+          -81.971,
+          41.275,
+          -81.375,
+          42.096
+        ],
+        "point": [
+          -81.673,
+          41.6855
+        ],
+        "labels": {
+          "en": "Cuyahoga"
+        },
+        "population": 1177995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17099999999999,
+          39.422
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "165",
+        "area": 0.1295919999999955,
+        "bounding_box": [
+          -84.365,
+          39.255,
+          -83.977,
+          39.589
+        ],
+        "point": [
+          -84.17099999999999,
+          39.422
+        ],
+        "labels": {
+          "en": "Warren"
+        },
+        "population": 282221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6045,
+          39.7475
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "045",
+        "area": 0.1845990000000017,
+        "bounding_box": [
+          -82.843,
+          39.554,
+          -82.366,
+          39.941
+        ],
+        "point": [
+          -82.6045,
+          39.7475
+        ],
+        "labels": {
+          "en": "Fairfield"
+        },
+        "population": 172712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.465,
+          40.406
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "083",
+        "area": 0.19104800000000274,
+        "bounding_box": [
+          -82.751,
+          40.239,
+          -82.179,
+          40.573
+        ],
+        "point": [
+          -82.465,
+          40.406
+        ],
+        "labels": {
+          "en": "Knox"
+        },
+        "population": 68349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4825,
+          40.095
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "089",
+        "area": 0.2180359999999988,
+        "bounding_box": [
+          -82.782,
+          39.913,
+          -82.183,
+          40.277
+        ],
+        "point": [
+          -82.4825,
+          40.095
+        ],
+        "labels": {
+          "en": "Licking"
+        },
+        "population": 187601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53999999999999,
+          41.129
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "153",
+        "area": 0.13142400000000365,
+        "bounding_box": [
+          -81.688,
+          40.907,
+          -81.392,
+          41.351
+        ],
+        "point": [
+          -81.53999999999999,
+          41.129
+        ],
+        "labels": {
+          "en": "Summit"
+        },
+        "population": 539532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2185,
+          40.3335
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "149",
+        "area": 0.12946700000000186,
+        "bounding_box": [
+          -84.435,
+          40.184,
+          -84.002,
+          40.483
+        ],
+        "point": [
+          -84.2185,
+          40.3335
+        ],
+        "labels": {
+          "en": "Shelby"
+        },
+        "population": 50673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.929,
+          41.1325
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "103",
+        "area": 0.1410320000000006,
+        "bounding_box": [
+          -82.173,
+          40.988,
+          -81.685,
+          41.277
+        ],
+        "point": [
+          -81.929,
+          41.1325
+        ],
+        "labels": {
+          "en": "Medina"
+        },
+        "population": 195346
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.339,
+          38.809
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "053",
+        "area": 0.2205759999999989,
+        "bounding_box": [
+          -82.583,
+          38.583,
+          -82.095,
+          39.035
+        ],
+        "point": [
+          -82.339,
+          38.809
+        ],
+        "labels": {
+          "en": "Gallia"
+        },
+        "population": 30028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.906,
+          40.3035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "031",
+        "area": 0.1768999999999993,
+        "bounding_box": [
+          -82.196,
+          40.151,
+          -81.616,
+          40.456
+        ],
+        "point": [
+          -81.906,
+          40.3035
+        ],
+        "labels": {
+          "en": "Coshocton"
+        },
+        "population": 37501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3135,
+          40.84
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "175",
+        "area": 0.12393000000000216,
+        "bounding_box": [
+          -83.516,
+          40.687,
+          -83.111,
+          40.993
+        ],
+        "point": [
+          -83.3135,
+          40.84
+        ],
+        "labels": {
+          "en": "Wyandot"
+        },
+        "population": 22330
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.619,
+          40.54
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-oh",
+        "region_child": "107",
+        "area": 0.13912000000000346,
+        "bounding_box": [
+          -84.804,
+          40.352,
+          -84.434,
+          40.728
+        ],
+        "point": [
+          -84.619,
+          40.54
+        ],
+        "labels": {
+          "en": "Mercer"
+        },
+        "population": 40891
+      }
+    }
+  ]
+}

@@ -1,0 +1,1436 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.988500000000002,
+          51.356
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-74",
+        "area": 5.982777999999995,
+        "bounding_box": [
+          30.512,
+          50.343,
+          33.465,
+          52.369
+        ],
+        "point": [
+          31.988500000000002,
+          51.356
+        ],
+        "labels": {
+          "alt": "Chernigov|Tschernigow",
+          "local": null,
+          "len": 9,
+          "ar": "تشرنيهيف أوبلاست",
+          "bn": "চের্নিহিভ ওব্লাস্ট",
+          "de": "Oblast Tschernihiw",
+          "en": "Chernihiv Oblast",
+          "es": "Óblast de Chernihiv",
+          "fr": "Oblast de Tchernihiv",
+          "el": "Τσερνιχίβ Ομπλάστ",
+          "hi": "चेरनिहाइव ओब्लास्ट",
+          "hu": "Csernyihivi terület",
+          "id": "Oblast Chernihiv",
+          "it": "Oblast' di Černihiv",
+          "ja": "チェルニーヒウ州",
+          "ko": "체르니히우 주",
+          "nl": "Oblast Tsjernihiv",
+          "pl": "Obwód czernihowski",
+          "pt": "Oblast de Chernigov",
+          "ru": "Черниговская область",
+          "sv": "Tjernihiv oblast",
+          "tr": "Çernigov Oblastı",
+          "vi": "Chernihiv",
+          "zh": "切爾尼戈夫州"
+        },
+        "population": 999580
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.843,
+          51.1225
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-07",
+        "area": 4.1341899999999985,
+        "bounding_box": [
+          23.594,
+          50.295,
+          26.092,
+          51.95
+        ],
+        "point": [
+          24.843,
+          51.1225
+        ],
+        "labels": {
+          "alt": "Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien",
+          "local": null,
+          "len": 5,
+          "ar": "فولين أوبلاست",
+          "bn": "ভোলিন ওব্লাস্ট",
+          "de": "Oblast Wolhynien",
+          "en": "Volyn Oblast",
+          "es": "Óblast de Volyn",
+          "fr": "Oblast de Volhynie",
+          "el": "Βολίν Ομπλάστ",
+          "hi": "वोलिन ओब्लास्ट",
+          "hu": "Volinyi terület",
+          "id": "Oblast Volyn",
+          "it": "Oblast' di Volinia",
+          "ja": "ヴォルィーニ州",
+          "ko": "볼린 주",
+          "nl": "Oblast Wolynië",
+          "pl": "Obwód wołyński",
+          "pt": "Oblast de Volínia",
+          "ru": "Волынская область",
+          "sv": "Volyn oblast",
+          "tr": "Volın Oblastı",
+          "vi": "Volyn",
+          "zh": "沃倫州"
+        },
+        "population": 1011644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.384,
+          50.971000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-56",
+        "area": 5.0620720000000095,
+        "bounding_box": [
+          25.063,
+          50.013,
+          27.705,
+          51.929
+        ],
+        "point": [
+          26.384,
+          50.971000000000004
+        ],
+        "labels": {
+          "alt": "Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast'",
+          "local": null,
+          "len": 5,
+          "ar": "ريفنا أوبلاست",
+          "bn": "রিভনে ওব্লাস্ট",
+          "de": "Oblast Riwne",
+          "en": "Rivne Oblast",
+          "es": "Óblast de Rivne",
+          "fr": "Oblast de Rivne",
+          "el": "Ρίβνε Όμπλαστ",
+          "hi": "रिव्ने ओब्लास्ट",
+          "hu": null,
+          "id": "Oblast Rivne",
+          "it": "Oblast' di Rivne",
+          "ja": "リウネ州",
+          "ko": "리우네 주",
+          "nl": "Oblast Rivne",
+          "pl": "Obwód rówieński",
+          "pt": "Oblast de Rivne",
+          "ru": "Ровненская область",
+          "sv": "Rivne oblast",
+          "tr": "Rivne Oblastı",
+          "vi": "Rivne",
+          "zh": "羅夫諾州"
+        },
+        "population": 1161580
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.463,
+          50.617000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-18",
+        "area": 5.261940000000004,
+        "bounding_box": [
+          27.192,
+          49.582,
+          29.734,
+          51.652
+        ],
+        "point": [
+          28.463,
+          50.617000000000004
+        ],
+        "labels": {
+          "alt": "Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast'",
+          "local": null,
+          "len": 8,
+          "ar": "زيتومير أوبلاست",
+          "bn": "জ্যটোমার ওপল্লাস্ট",
+          "de": "Oblast Schytomyr",
+          "en": "Zhytomyr Oblast",
+          "es": "Óblast de Zhytomyr",
+          "fr": "Oblast de Jytomyr",
+          "el": "Ζιτομίρ Ομπλάστ",
+          "hi": "ज़ायटोमीर ओब्लास्ट",
+          "hu": "Zsitomiri terület",
+          "id": "Oblast Zhytomyr",
+          "it": "Oblast' di Žytomyr",
+          "ja": "ジトームィル州",
+          "ko": "지토미르 주",
+          "nl": "Oblast Zjytomyr",
+          "pl": "Obwód żytomierski",
+          "pt": "Oblast de Jitomir",
+          "ru": "Житомирская область",
+          "sv": "Zjytomyr oblast",
+          "tr": "Jitomir Oblastı",
+          "vi": "Zhytomyr",
+          "zh": "日托米爾州"
+        },
+        "population": 1208432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.704500000000003,
+          50.3285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-32",
+        "area": 6.6417350000000015,
+        "bounding_box": [
+          29.27,
+          49.171,
+          32.139,
+          51.486
+        ],
+        "point": [
+          30.704500000000003,
+          50.3285
+        ],
+        "labels": {
+          "alt": "Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast'",
+          "local": null,
+          "len": 4,
+          "ar": "كييف",
+          "bn": "কিয়েভ",
+          "de": "Kiew",
+          "en": "Kiev",
+          "es": "Kiev",
+          "fr": "Kiev",
+          "el": "Κίεβο",
+          "hi": "कीव",
+          "hu": "Kijev",
+          "id": "Kiev",
+          "it": "Kiev",
+          "ja": "キエフ",
+          "ko": "키예프",
+          "nl": "Kiev",
+          "pl": "Kijów",
+          "pt": "Kiev",
+          "ru": "Киев",
+          "sv": "Kiev",
+          "tr": "Kiev",
+          "vi": "Kiev",
+          "zh": "基輔"
+        },
+        "population": 1485914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.386,
+          48.489000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-21",
+        "area": 2.967104000000012,
+        "bounding_box": [
+          22.133,
+          47.897,
+          24.639,
+          49.081
+        ],
+        "point": [
+          23.386,
+          48.489000000000004
+        ],
+        "labels": {
+          "alt": "Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast'",
+          "local": null,
+          "len": 14,
+          "ar": "زاكارباتيا أوبلاست",
+          "bn": "জাকারপাত্তিয়া ওব্লাস্ট",
+          "de": "Oblast Transkarpatien",
+          "en": "Zakarpattia Oblast",
+          "es": "Óblast de Zakarpatia",
+          "fr": "Transcarpatie",
+          "el": "Περιφέρεια Ζακαρπάτια",
+          "hi": "ज़कारपटिया ओब्लास्ट",
+          "hu": "Kárpátalja",
+          "id": "Oblast Zakarpattia",
+          "it": "Oblast' di Transcarpazia",
+          "ja": "ザカルパッチャ州",
+          "ko": "자카르파탸 주",
+          "nl": "Oblast Transkarpatië",
+          "pl": "Obwód zakarpacki",
+          "pt": "Oblast da Transcarpátia",
+          "ru": "Закарпатская область",
+          "sv": "Zakarpattia oblast",
+          "tr": "Zakarpatya Oblastı",
+          "vi": "Vùng Zakarpattia",
+          "zh": "外喀爾巴阡州"
+        },
+        "population": 1256522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2165,
+          48.196
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-77",
+        "area": 2.482299999999999,
+        "bounding_box": [
+          24.929,
+          47.714,
+          27.504,
+          48.678
+        ],
+        "point": [
+          26.2165,
+          48.196
+        ],
+        "labels": {
+          "alt": "Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy",
+          "local": null,
+          "len": 10,
+          "ar": "تشيرنيفتسي أوبلاست",
+          "bn": "চের্নিভিৎসি ওব্লাস্ট",
+          "de": "Oblast Tscherniwzi",
+          "en": "Chernivtsi Oblast",
+          "es": "Óblast de Chernivtsi",
+          "fr": "Oblast de Tchernivtsi",
+          "el": "Τσερνίβτσι Όμπλαστ",
+          "hi": "चेमिव्त्सी ओब्लास्ट",
+          "hu": "Csernyivci terület",
+          "id": "Oblast Chernivtsi",
+          "it": "Oblast' di Černivci",
+          "ja": "チェルニウツィー州",
+          "ko": "체르니우치 주",
+          "nl": "Oblast Tsjernivtsi",
+          "pl": "Obwód czerniowiecki",
+          "pt": "Oblast de Chernivtsi",
+          "ru": "Черновицкая область",
+          "sv": "Tjernivtsi oblast",
+          "tr": "Çernovtsi Oblastı",
+          "vi": "Chernivtsi",
+          "zh": "切爾諾夫策州"
+        },
+        "population": 876738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5845,
+          48.6195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-26",
+        "area": 3.808532999999996,
+        "bounding_box": [
+          23.533,
+          47.714,
+          25.636,
+          49.525
+        ],
+        "point": [
+          24.5845,
+          48.6195
+        ],
+        "labels": {
+          "alt": "Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav",
+          "local": null,
+          "len": 16,
+          "ar": "إيفانو فرانكيفسك أوبلاست",
+          "bn": "ইভানো-ফ্রাঙ্কিভস্ক ওব্লাস্ট",
+          "de": "Oblast Iwano-Frankiwsk",
+          "en": "Ivano-Frankivsk Oblast",
+          "es": "Óblast de Ivano-Frankivsk",
+          "fr": "Oblast d'Ivano-Frankivsk",
+          "el": "Ιβάνο-Φρανκίβσκ Ομπλάστ",
+          "hi": "इवैनो-फ्रैंकिव्स्क ओब्लास्ट",
+          "hu": "Ivano-frankivszki terület",
+          "id": "Oblast Ivano-Frankivsk",
+          "it": "Oblast' di Ivano-Frankivs'k",
+          "ja": "イヴァーノ＝フランキーウシク州",
+          "ko": "이바노프란키우스크 주",
+          "nl": "Oblast Ivano-Frankivsk",
+          "pl": "Obwód iwanofrankiwski",
+          "pt": "Oblast de Ivano-Frankivsk",
+          "ru": "Ивано-Франковская область",
+          "sv": "Ivano-Frankivsk oblast",
+          "tr": "İvano-Frankivsk Oblastı",
+          "vi": "Ivano-Frankivsk",
+          "zh": "伊万诺-弗兰科夫斯克州"
+        },
+        "population": 1371233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.747,
+          46.719
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-51",
+        "area": 9.306576000000002,
+        "bounding_box": [
+          28.199,
+          45.216,
+          31.295,
+          48.222
+        ],
+        "point": [
+          29.747,
+          46.719
+        ],
+        "labels": {
+          "alt": "Odesa|Odes'ka Oblast'|Odesskaya Oblast'",
+          "local": null,
+          "len": 6,
+          "ar": "أوديسا أوبلاست",
+          "bn": "ওডেস্যা ওব্লাস্ট",
+          "de": "Oblast Odessa",
+          "en": "Odessa Oblast",
+          "es": "Óblast de Odesa",
+          "fr": "Oblast d'Odessa",
+          "el": "Περιφέρεια Οδησσού",
+          "hi": "ओडेसा ओब्लास्ट",
+          "hu": "Odesszai terület",
+          "id": "Oblast Odessa",
+          "it": "Oblast' di Odessa",
+          "ja": "オデッサ州",
+          "ko": "오데사 주",
+          "nl": "Oblast Odessa",
+          "pl": "Obwód odeski",
+          "pt": "Oblast de Odessa",
+          "ru": "Одесская область",
+          "sv": "Odessa oblast",
+          "tr": "Odessa Oblastı",
+          "vi": "Odessa",
+          "zh": "敖德萨州"
+        },
+        "population": 2356184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.723,
+          48.941
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-05",
+        "area": 5.087280000000006,
+        "bounding_box": [
+          27.37,
+          48.001,
+          30.076,
+          49.881
+        ],
+        "point": [
+          28.723,
+          48.941
+        ],
+        "labels": {
+          "alt": "Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza",
+          "local": null,
+          "len": 9,
+          "ar": "فينيتسا أوبلاست",
+          "bn": "ভিনিৎসিয়া ওব্লাস্ট",
+          "de": "Oblast Winnyzja",
+          "en": "Vinnytsia Oblast",
+          "es": "Óblast de Vinnytsia",
+          "fr": "Oblast de Vinnytsia",
+          "el": "Βιννύτσια Ομπλάστ",
+          "hi": "विनित्सिया ओब्लास्ट",
+          "hu": "Vinnicjai terület",
+          "id": "Oblast Vinnytsia",
+          "it": "Oblast' di Vinnycja",
+          "ja": "ヴィーンヌィツャ州",
+          "ko": "빈니차 주",
+          "nl": "Oblast Vinnytsja",
+          "pl": "Obwód winnicki",
+          "pt": "Oblast de Vinnitsa",
+          "ru": "Винницкая область",
+          "sv": "Vinnytsia oblast",
+          "tr": "Vinnitsa Oblastı",
+          "vi": "Vinnytsia",
+          "zh": "文尼察州"
+        },
+        "population": 1549902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0345,
+          49.682
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-46",
+        "area": 5.339892000000016,
+        "bounding_box": [
+          22.641,
+          48.724,
+          25.428,
+          50.64
+        ],
+        "point": [
+          24.0345,
+          49.682
+        ],
+        "labels": {
+          "alt": "Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast'",
+          "local": null,
+          "len": 5,
+          "ar": "لفيف أوبلاست",
+          "bn": "লিভিভ ওব্লাস্ট",
+          "de": "Oblast Lwiw",
+          "en": "Lviv Oblast",
+          "es": "Óblast de Leópolis",
+          "fr": "Oblast de Lviv",
+          "el": "Λβίβ Ομπλάστ",
+          "hi": "लवीव ओब्लास्ट",
+          "hu": "Lvivi terület",
+          "id": "Oblast Lviv",
+          "it": "Oblast' di Leopoli",
+          "ja": "リヴィウ州",
+          "ko": "리비우 주",
+          "nl": "Oblast Lviv",
+          "pl": "Obwód lwowski",
+          "pt": "Oblast de Lviv",
+          "ru": "Львовская область",
+          "sv": "Lviv oblast",
+          "tr": "Lviv Oblastı",
+          "vi": "Lviv",
+          "zh": "利沃夫州"
+        },
+        "population": 2470809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3185,
+          51.2355
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-59",
+        "area": 6.156026999999999,
+        "bounding_box": [
+          32.945,
+          50.115,
+          35.692,
+          52.356
+        ],
+        "point": [
+          34.3185,
+          51.2355
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "سومي أوبلاست",
+          "bn": "সুম্যি ওব্লাস্ট",
+          "de": "Oblast Sumy",
+          "en": "Sumy Oblast",
+          "es": "Óblast de Sumy",
+          "fr": "Oblast de Soumy",
+          "el": "Σούμσκαγια",
+          "hi": "सुमी ओब्लास्ट",
+          "hu": "Szumi terület",
+          "id": "Oblast Sumy",
+          "it": "Oblast' di Sumy",
+          "ja": "スームィ州",
+          "ko": "수미 주",
+          "nl": "Oblast Soemy",
+          "pl": "Obwód sumski",
+          "pt": "Oblast de Sumi",
+          "ru": "Сумская область",
+          "sv": "Sumy oblast",
+          "tr": "Sumi Oblastı",
+          "vi": "Sumi",
+          "zh": "蘇梅州"
+        },
+        "population": 1053937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.453,
+          49.4805
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-63",
+        "area": 6.1223759999999965,
+        "bounding_box": [
+          34.841,
+          48.531,
+          38.065,
+          50.43
+        ],
+        "point": [
+          36.453,
+          49.4805
+        ],
+        "labels": {
+          "alt": "Charkow|Jarkov|Karkov|Khar'kov",
+          "local": null,
+          "len": 7,
+          "ar": "خاركيف أوبلاست",
+          "bn": "কারকিভ ওব্লাস্ট",
+          "de": "Oblast Charkiw",
+          "en": "Kharkiv Oblast",
+          "es": "Óblast de Járkov",
+          "fr": "Oblast de Kharkiv",
+          "el": "Καρκίβ Ομπλάστ",
+          "hi": "खार्किव ओब्लास्ट",
+          "hu": "Harkivi terület",
+          "id": "Oblast Kharkiv",
+          "it": "Oblast' di Charkiv",
+          "ja": "ハルキウ州",
+          "ko": "하르키우 주",
+          "nl": "Oblast Charkov",
+          "pl": "Obwód charkowski",
+          "pt": "Oblast de Kharkiv",
+          "ru": "Харьковская область",
+          "sv": "Charkiv oblast",
+          "tr": "Harkiv Oblastı",
+          "vi": "Kharkiv",
+          "zh": "哈爾科夫州"
+        },
+        "population": 2627212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0035,
+          48.936499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-09",
+        "area": 5.201936999999995,
+        "bounding_box": [
+          37.847,
+          47.812,
+          40.16,
+          50.061
+        ],
+        "point": [
+          39.0035,
+          48.936499999999995
+        ],
+        "labels": {
+          "alt": "Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad",
+          "local": null,
+          "len": 8,
+          "ar": "لوهانسك أوبلاست",
+          "bn": "লুহানস্ক ওব্লাস্ট",
+          "de": "Oblast Luhansk",
+          "en": "Luhansk Oblast",
+          "es": "Óblast de Lugansk",
+          "fr": "Oblast de Louhansk",
+          "el": "Λουχάνσκ Ομπλάστ",
+          "hi": "लुहान्स्क ओब्लास्ट",
+          "hu": "Luhanszki terület",
+          "id": "Oblast Luhansk",
+          "it": "Oblast' di Luhans'k",
+          "ja": "ルハーンシク州",
+          "ko": "루한스크 주",
+          "nl": "Oblast Loehansk",
+          "pl": "Obwód ługański",
+          "pt": "Oblast de Lugansk",
+          "ru": "Луганская область",
+          "sv": "Luhansk oblast",
+          "tr": "Luhansk Oblastı",
+          "vi": "Luhansk",
+          "zh": "盧甘斯克州"
+        },
+        "population": 2083409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.795,
+          48.054500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-14",
+        "area": 5.939309999999988,
+        "bounding_box": [
+          36.534,
+          46.877,
+          39.056,
+          49.232
+        ],
+        "point": [
+          37.795,
+          48.054500000000004
+        ],
+        "labels": {
+          "alt": "Donetsk|Donetskaya Oblast'|Donezk|Stalino",
+          "local": null,
+          "len": 8,
+          "ar": "دونيتسك أوبلاست",
+          "bn": "ডোনেস্ক ওব্লাস্ট",
+          "de": "Oblast Donezk",
+          "en": "Donetsk Oblast",
+          "es": "Óblast de Donetsk",
+          "fr": "Oblast de Donetsk",
+          "el": "Ντόνετσκ Ομπλάστ",
+          "hi": "डोनेट्स्क ओब्लास्ट",
+          "hu": "Donecki terület",
+          "id": "Oblast Donetsk",
+          "it": "Oblast' di Donec'k",
+          "ja": "ドネツィク州",
+          "ko": "도네츠크 주",
+          "nl": "Oblast Donetsk",
+          "pl": "Obwód doniecki",
+          "pt": "Oblast de Donetsk",
+          "ru": "Донецкая область",
+          "sv": "Donetsk oblast",
+          "tr": "Donetsk Oblastı",
+          "vi": "Donetsk",
+          "zh": "顿涅茨克州"
+        },
+        "population": 4108057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4385,
+          46.6525
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-65",
+        "area": 6.202712999999988,
+        "bounding_box": [
+          31.772,
+          45.722,
+          35.105,
+          47.583
+        ],
+        "point": [
+          33.4385,
+          46.6525
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "خيرسون أوبلاست",
+          "bn": "খেরসন ওব্লাস্ট",
+          "de": "Oblast Cherson",
+          "en": "Kherson Oblast",
+          "es": "Óblast de Jersón",
+          "fr": "Oblast de Kherson",
+          "el": "Κχέρσον Ομπλάστ",
+          "hi": "खेर्सौन ओब्लास्ट",
+          "hu": "Herszoni terület",
+          "id": "Oblast Kherson",
+          "it": "Oblast' di Cherson",
+          "ja": "ヘルソン州",
+          "ko": "헤르손 주",
+          "nl": "Oblast Cherson",
+          "pl": "Obwód chersoński",
+          "pt": "Oblast de Kherson",
+          "ru": "Херсонская область",
+          "sv": "Cherson oblast",
+          "tr": "Herson Oblastı",
+          "vi": "Kherson",
+          "zh": "赫尔松州"
+        },
+        "population": 1017785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14,
+          46.167500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-65",
+        "area": 0.05236000000000153,
+        "bounding_box": [
+          35.0,
+          46.074,
+          35.28,
+          46.261
+        ],
+        "point": [
+          35.14,
+          46.167500000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "خيرسون أوبلاست",
+          "bn": "খেরসন ওব্লাস্ট",
+          "de": "Oblast Cherson",
+          "en": "Kherson Oblast",
+          "es": "Óblast de Jersón",
+          "fr": "Oblast de Kherson",
+          "el": "Κχέρσον Ομπλάστ",
+          "hi": "खेर्सौन ओब्लास्ट",
+          "hu": "Herszoni terület",
+          "id": "Oblast Kherson",
+          "it": "Oblast' di Cherson",
+          "ja": "ヘルソン州",
+          "ko": "헤르손 주",
+          "nl": "Oblast Cherson",
+          "pl": "Obwód chersoński",
+          "pt": "Oblast de Kherson",
+          "ru": "Херсонская область",
+          "sv": "Cherson oblast",
+          "tr": "Herson Oblastı",
+          "vi": "Kherson",
+          "zh": "赫尔松州"
+        },
+        "population": 1017785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7125,
+          47.1925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-23",
+        "area": 5.656874999999992,
+        "bounding_box": [
+          34.204,
+          46.255,
+          37.221,
+          48.13
+        ],
+        "point": [
+          35.7125,
+          47.1925
+        ],
+        "labels": {
+          "alt": "Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje",
+          "local": null,
+          "len": 12,
+          "ar": "زابوروجييه أوبلاست",
+          "bn": "জ্যাপরিঝিঝিয়া ওব্লাস্ট",
+          "de": "Oblast Saporischschja",
+          "en": "Zaporizhzhya Oblast",
+          "es": "Óblast de Zaporiyia",
+          "fr": "Oblast de Zaporijia",
+          "el": "Ζαποριζγία Ομπλάστ",
+          "hi": "ज़ैपोरिझ्झया ओब्लास्ट",
+          "hu": "Zaporizzsjai terület",
+          "id": "Oblast Zaporizhia",
+          "it": "Oblast' di Zaporižžja",
+          "ja": "ザポリージャ州",
+          "ko": "자포리자 주",
+          "nl": "Oblast Zaporizja",
+          "pl": "Obwód zaporoski",
+          "pt": "Oblast de Zaporíjia",
+          "ru": "Запорожская область",
+          "sv": "Zaporizjzja oblast",
+          "tr": "Zaporijya Oblastı",
+          "vi": "Zaporizhia",
+          "zh": "扎波羅熱州"
+        },
+        "population": 1699315
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6755,
+          47.411
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-48",
+        "area": 4.728779999999988,
+        "bounding_box": [
+          30.216,
+          46.601,
+          33.135,
+          48.221
+        ],
+        "point": [
+          31.6755,
+          47.411
+        ],
+        "labels": {
+          "alt": "Mykolaiv|Nikolajew|Nikolayev",
+          "local": null,
+          "len": 9,
+          "ar": "ميكولايف أوبلاست",
+          "bn": "মাইকোলাইভ ওব্লাস্ট",
+          "de": "Oblast Mykolajiw",
+          "en": "Mykolaiv Oblast",
+          "es": "Óblast de Mykolaiv",
+          "fr": "Oblast de Mykolaïv",
+          "el": "Μγικολάιβ Ομπλάστ",
+          "hi": "मायकोलेव ओब्लास्ट",
+          "hu": "Mikolajivi terület",
+          "id": "Oblast Mykolaiv",
+          "it": "Oblast' di Mykolaïv",
+          "ja": "ムィコラーイウ州",
+          "ko": "미콜라이우 주",
+          "nl": "Oblast Mykolajiv",
+          "pl": "Obwód mikołajowski",
+          "pt": "Oblast de Mikolaiv",
+          "ru": "Николаевская область",
+          "sv": "Mykolajiv oblast",
+          "tr": "Mıkolayiv Oblastı",
+          "vi": "Mykolaiv",
+          "zh": "尼古拉耶夫州"
+        },
+        "population": 1123819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.717,
+          46.518
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-48",
+        "area": 0.019440000000000707,
+        "bounding_box": [
+          31.582,
+          46.482,
+          31.852,
+          46.554
+        ],
+        "point": [
+          31.717,
+          46.518
+        ],
+        "labels": {
+          "alt": "Mykolaiv|Nikolajew|Nikolayev",
+          "local": null,
+          "len": 9,
+          "ar": "ميكولايف أوبلاست",
+          "bn": "মাইকোলাইভ ওব্লাস্ট",
+          "de": "Oblast Mykolajiw",
+          "en": "Mykolaiv Oblast",
+          "es": "Óblast de Mykolaiv",
+          "fr": "Oblast de Mykolaïv",
+          "el": "Μγικολάιβ Ομπλάστ",
+          "hi": "मायकोलेव ओब्लास्ट",
+          "hu": "Mikolajivi terület",
+          "id": "Oblast Mykolaiv",
+          "it": "Oblast' di Mykolaïv",
+          "ja": "ムィコラーイウ州",
+          "ko": "미콜라이우 주",
+          "nl": "Oblast Mykolajiv",
+          "pl": "Obwód mikołajowski",
+          "pt": "Oblast de Mikolaiv",
+          "ru": "Николаевская область",
+          "sv": "Mykolajiv oblast",
+          "tr": "Mıkolayiv Oblastı",
+          "vi": "Mykolaiv",
+          "zh": "尼古拉耶夫州"
+        },
+        "population": 1123819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.772000000000006,
+          49.646
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-53",
+        "area": 6.130799999999988,
+        "bounding_box": [
+          32.069,
+          48.746,
+          35.475,
+          50.546
+        ],
+        "point": [
+          33.772000000000006,
+          49.646
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "بولتافا أوبلاست",
+          "bn": "পোল্টাভা ওব্লাস্ট",
+          "de": "Oblast Poltawa",
+          "en": "Poltava Oblast",
+          "es": "Óblast de Poltava",
+          "fr": "Oblast de Poltava",
+          "el": "Πολτάβα Ομπλάστ",
+          "hi": "पोल्टावा ओब्लास्ट",
+          "hu": "Poltavai terület",
+          "id": "Oblast Poltava",
+          "it": "Oblast' di Poltava",
+          "ja": "ポルタヴァ州",
+          "ko": "폴타바 주",
+          "nl": "Oblast Poltava",
+          "pl": "Obwód połtawski",
+          "pt": "oblast de Poltava",
+          "ru": "Полтавская область",
+          "sv": "Poltava oblast",
+          "tr": "Poltava Oblastı",
+          "vi": "Poltava",
+          "zh": "波尔塔瓦州"
+        },
+        "population": 1361418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0185,
+          49.5195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-68",
+        "area": 3.6996249999999993,
+        "bounding_box": [
+          26.148,
+          48.457,
+          27.889,
+          50.582
+        ],
+        "point": [
+          27.0185,
+          49.5195
+        ],
+        "labels": {
+          "alt": "Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast'",
+          "local": null,
+          "len": 14,
+          "ar": "خملنيتسكي أوبلاست",
+          "bn": "খেমেলনিতস্কি ওব্লাস্ট",
+          "de": "Oblast Chmelnyzkyj",
+          "en": "Khmelnytsky Oblast",
+          "es": "Óblast de Jmelnitski",
+          "fr": "oblast de Khmelnitski",
+          "el": "Κχμελνίτσκι Ομπλάστ",
+          "hi": "ख्मेलनिट्सकी ओब्लास्ट",
+          "hu": "Hmelnickiji terület",
+          "id": "Oblast Khmelnytskyi",
+          "it": "Oblast' di Chmel'nyc'kyj",
+          "ja": "フメリヌィーツィクィイ州",
+          "ko": "흐멜니츠키 주",
+          "nl": "Oblast Chmelnytsky",
+          "pl": "Obwód chmielnicki",
+          "pt": "Oblast de Khmelnitski",
+          "ru": "Хмельницкая область",
+          "sv": "Chmelnytskyj oblast",
+          "tr": "Hmelnitski Oblastı",
+          "vi": "Khmelnytskyi",
+          "zh": "赫梅利尼茨基州"
+        },
+        "population": 1239696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.544,
+          49.3885
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-61",
+        "area": 2.9345219999999994,
+        "bounding_box": [
+          24.707,
+          48.512,
+          26.381,
+          50.265
+        ],
+        "point": [
+          25.544,
+          49.3885
+        ],
+        "labels": {
+          "alt": "Ternopol|Ternopol'",
+          "local": null,
+          "len": 9,
+          "ar": "تيرنوبل أوبلاست",
+          "bn": "টের্নোপিল ওব্লাস্ট",
+          "de": "Oblast Ternopil",
+          "en": "Ternopil Oblast",
+          "es": "Óblast de Ternópil",
+          "fr": "Oblast de Ternopil",
+          "el": "Τερνοπίλ Ομπλάστ",
+          "hi": "टेमोपिल ओब्लास्ट",
+          "hu": "Ternopili terület",
+          "id": "Oblast Ternopil",
+          "it": "Oblast' di Ternopil'",
+          "ja": "テルノーピリ州",
+          "ko": "테르노필 주",
+          "nl": "Oblast Ternopil",
+          "pl": "Obwód tarnopolski",
+          "pt": "Oblast de Ternopil",
+          "ru": "Тернопольская область",
+          "sv": "Ternopil oblast",
+          "tr": "Ternopil Oblastı",
+          "vi": "Ternopil",
+          "zh": "捷爾諾波爾州"
+        },
+        "population": 1040991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9555,
+          48.3305
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-12",
+        "area": 6.72281499999999,
+        "bounding_box": [
+          32.984,
+          47.478,
+          36.927,
+          49.183
+        ],
+        "point": [
+          34.9555,
+          48.3305
+        ],
+        "labels": {
+          "alt": "Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk",
+          "local": null,
+          "len": 15,
+          "ar": "دنيبروبتروفسك أوبلاست",
+          "bn": "নিপ্রপেত্রভস্ক ওব্লাস্ট",
+          "de": "Oblast Dnipropetrowsk",
+          "en": "Dnipropetrovsk Oblast",
+          "es": "Óblast de Dnipropetrovsk",
+          "fr": "Oblast de Dnipropetrovsk",
+          "el": "Ντνιπροπετρόβσκ",
+          "hi": "नीप्रोपेट्रोव्स्क ओब्लास्ट",
+          "hu": "Dnyipropetrovszki terület",
+          "id": "Oblast Dnipropetrovsk",
+          "it": "Oblast' di Dnipropetrovs'k",
+          "ja": "ドニプロペトロウシク州",
+          "ko": "드니프로페트로우스크 주",
+          "nl": "Oblast Dnjepropetrovsk",
+          "pl": "Obwód dniepropetrowski",
+          "pt": "Oblast de Dnipropetrovsk",
+          "ru": "Днепропетровская область",
+          "sv": "Dnipropetrovsk oblast",
+          "tr": "Dnipropetrovsk Oblastı",
+          "vi": "Dnipropetrovsk",
+          "zh": "第聂伯罗彼得罗夫斯克州"
+        },
+        "population": 3173280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.221,
+          49.352000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-71",
+        "area": 5.826912000000009,
+        "bounding_box": [
+          29.597,
+          48.455,
+          32.845,
+          50.249
+        ],
+        "point": [
+          31.221,
+          49.352000000000004
+        ],
+        "labels": {
+          "alt": "Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy",
+          "local": null,
+          "len": 8,
+          "ar": "محافظة تشيركاسي",
+          "bn": "চেরকাসি ওব্লাস্ট",
+          "de": "Oblast Tscherkassy",
+          "en": "Cherkasy Oblast",
+          "es": "Óblast de Cherkasy",
+          "fr": "Oblast de Tcherkassy",
+          "el": "Τσερκάσι Ομπλάστ",
+          "hi": "चेरकासी ओब्लास्ट",
+          "hu": "Cserkaszi terület",
+          "id": "Oblast Cherkasy",
+          "it": "Oblast' di Čerkasy",
+          "ja": "チェルカースィ州",
+          "ko": "체르카시 주",
+          "nl": "Oblast Tsjerkasy",
+          "pl": "Obwód czerkaski",
+          "pt": "Oblast de Tcherkássi",
+          "ru": "Черкасская область",
+          "sv": "Tjerkasy oblast",
+          "tr": "Çerkası Oblastı",
+          "vi": "Cherkasy",
+          "zh": "切爾卡瑟州"
+        },
+        "population": 1192830
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8285,
+          48.504999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-35",
+        "area": 6.330034000000008,
+        "bounding_box": [
+          29.738,
+          47.748,
+          33.919,
+          49.262
+        ],
+        "point": [
+          31.8285,
+          48.504999999999995
+        ],
+        "labels": {
+          "alt": "Kirovograd|Kirovogradskaya Oblast'",
+          "local": null,
+          "len": 10,
+          "ar": "كيروفوهراد أوبلاست",
+          "bn": "কিরোভোরাদ ওব্লাস্ট",
+          "de": "Oblast Kirowohrad",
+          "en": "Kirovohrad Oblast",
+          "es": "Óblast de Kirovogrado",
+          "fr": "Oblast de Kirovohrad",
+          "el": "Κιροβοχράντ",
+          "hi": "किरोवोरॉड ओब्लास्ट",
+          "hu": "Kirovohradi terület",
+          "id": "Oblast Kirovohrad",
+          "it": "Oblast' di Kirovohrad",
+          "ja": "キロヴォフラード州",
+          "ko": "키로보흐라드 주",
+          "nl": "Oblast Kirovohrad",
+          "pl": "Obwód kirowohradzki",
+          "pt": "Oblast de Kirovogrado",
+          "ru": "Кировоградская область",
+          "sv": "Kirovohrad oblast",
+          "tr": "Kirovograd Oblastı",
+          "vi": "Kirovohrad",
+          "zh": "基洛夫格勒州"
+        },
+        "population": 912830
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.516,
+          50.341
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ua",
+        "region_child": "ua-30",
+        "area": 0.4316399999999977,
+        "bounding_box": [
+          30.186,
+          50.014,
+          30.846,
+          50.668
+        ],
+        "point": [
+          30.516,
+          50.341
+        ],
+        "labels": {
+          "alt": "Kyïvs'ka mis'ka rada",
+          "local": "Kyïvs'ka mis'ka rada",
+          "len": 9,
+          "ar": "كييف",
+          "bn": "কিয়েভ",
+          "de": "Kiew",
+          "en": "Kiev",
+          "es": "Kiev",
+          "fr": "Kiev",
+          "el": "Κίεβο",
+          "hi": "कीव",
+          "hu": "Kijev",
+          "id": "Kiev",
+          "it": "Kiev",
+          "ja": "キエフ",
+          "ko": "키예프",
+          "nl": "Kiev",
+          "pl": "Kijów",
+          "pt": "Kiev",
+          "ru": "Киев",
+          "sv": "Kiev",
+          "tr": "Kiev",
+          "vi": "Kiev",
+          "zh": "基輔"
+        },
+        "population": 3075691
+      }
+    }
+  ]
+}

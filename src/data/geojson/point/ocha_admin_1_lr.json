@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.796,
+          6.7325
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr01",
+        "area": 0.29491999999999974,
+        "bounding_box": [
+          -11.088,
+          6.48,
+          -10.504,
+          6.985
+        ],
+        "point": [
+          -10.796,
+          6.7325
+        ],
+        "labels": {
+          "en": "Bomi"
+        },
+        "population": 96022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.8085,
+          6.9275
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr02",
+        "area": 1.4024010000000002,
+        "bounding_box": [
+          -10.509,
+          6.427,
+          -9.108,
+          7.428
+        ],
+        "point": [
+          -9.8085,
+          6.9275
+        ],
+        "labels": {
+          "en": "Bong"
+        },
+        "population": 383355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.286,
+          7.422000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr03",
+        "area": 1.5028000000000004,
+        "bounding_box": [
+          -10.936,
+          6.844,
+          -9.636,
+          8.0
+        ],
+        "point": [
+          -10.286,
+          7.422000000000001
+        ],
+        "labels": {
+          "en": "Gbarpolu"
+        },
+        "population": 110207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.766,
+          6.1535
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr04",
+        "area": 1.4049039999999984,
+        "bounding_box": [
+          -10.37,
+          5.572,
+          -9.162,
+          6.735
+        ],
+        "point": [
+          -9.766,
+          6.1535
+        ],
+        "labels": {
+          "en": "Grand Bassa"
+        },
+        "population": 260834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.004999999999999,
+          7.0545
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr05",
+        "area": 0.9339399999999981,
+        "bounding_box": [
+          -11.495,
+          6.578,
+          -10.515,
+          7.531
+        ],
+        "point": [
+          -11.004999999999999,
+          7.0545
+        ],
+        "labels": {
+          "en": "Grand Cape Mount"
+        },
+        "population": 166701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2385,
+          6.144
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr06",
+        "area": 2.2294999999999994,
+        "bounding_box": [
+          -9.096,
+          5.494,
+          -7.381,
+          6.794
+        ],
+        "point": [
+          -8.2385,
+          6.144
+        ],
+        "labels": {
+          "en": "Grand Gedeh"
+        },
+        "population": 189167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.254999999999999,
+          4.8100000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr07",
+        "area": 0.642863999999999,
+        "bounding_box": [
+          -8.709,
+          4.456,
+          -7.801,
+          5.164
+        ],
+        "point": [
+          -8.254999999999999,
+          4.8100000000000005
+        ],
+        "labels": {
+          "en": "Grand Kru"
+        },
+        "population": 57293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.981,
+          7.864
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr08",
+        "area": 1.7199999999999993,
+        "bounding_box": [
+          -10.606,
+          7.176,
+          -9.356,
+          8.552
+        ],
+        "point": [
+          -9.981,
+          7.864
+        ],
+        "labels": {
+          "en": "Lofa"
+        },
+        "population": 331419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.266,
+          6.513
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr09",
+        "area": 0.6036480000000016,
+        "bounding_box": [
+          -10.659,
+          6.129,
+          -9.873,
+          6.897
+        ],
+        "point": [
+          -10.266,
+          6.513
+        ],
+        "labels": {
+          "en": "Margibi"
+        },
+        "population": 293386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8095,
+          4.7475000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr10",
+        "area": 0.43947299999999995,
+        "bounding_box": [
+          -8.088,
+          4.353,
+          -7.531,
+          5.142
+        ],
+        "point": [
+          -7.8095,
+          4.7475000000000005
+        ],
+        "labels": {
+          "en": "Maryland"
+        },
+        "population": 185015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.662500000000001,
+          6.5225
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr11",
+        "area": 0.35870100000000027,
+        "bounding_box": [
+          -10.957,
+          6.218,
+          -10.368,
+          6.827
+        ],
+        "point": [
+          -10.662500000000001,
+          6.5225
+        ],
+        "labels": {
+          "en": "Montserrado"
+        },
+        "population": 1594325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.752500000000001,
+          6.765499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr12",
+        "area": 1.7512550000000011,
+        "bounding_box": [
+          -9.22,
+          5.829,
+          -8.285,
+          7.702
+        ],
+        "point": [
+          -8.752500000000001,
+          6.765499999999999
+        ],
+        "labels": {
+          "en": "Nimba"
+        },
+        "population": 549352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8165,
+          5.2145
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr13",
+        "area": 0.6835589999999997,
+        "bounding_box": [
+          -8.253,
+          4.823,
+          -7.38,
+          5.606
+        ],
+        "point": [
+          -7.8165,
+          5.2145
+        ],
+        "labels": {
+          "en": "River Gee"
+        },
+        "population": 86600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.400500000000001,
+          5.8825
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr14",
+        "area": 0.8199450000000009,
+        "bounding_box": [
+          -9.733,
+          5.266,
+          -9.068,
+          6.499
+        ],
+        "point": [
+          -9.400500000000001,
+          5.8825
+        ],
+        "labels": {
+          "en": "Rivercess"
+        },
+        "population": 95221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.75,
+          5.332000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "lr",
+        "region_child": "lr15",
+        "area": 1.4175000000000013,
+        "bounding_box": [
+          -9.425,
+          4.807,
+          -8.075,
+          5.857
+        ],
+        "point": [
+          -8.75,
+          5.332000000000001
+        ],
+        "labels": {
+          "en": "Sinoe"
+        },
+        "population": 128197
+      }
+    }
+  ]
+}

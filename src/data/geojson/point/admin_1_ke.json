@@ -1,0 +1,482 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.016999999999996,
+          0.9190000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ke",
+        "region_child": "ke-700",
+        "area": 33.54576000000005,
+        "bounding_box": [
+          33.977,
+          -3.192,
+          38.057,
+          5.03
+        ],
+        "point": [
+          36.016999999999996,
+          0.9190000000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "الوادي المتصدع",
+          "bn": "রিফট ভ্যালি প্রদেশ",
+          "de": "Rift Valley",
+          "en": "Rift Valley Province",
+          "es": "Valle del Rift",
+          "fr": "Vallée du Rift",
+          "el": "Πεδιάδα Ριφτ",
+          "hi": "रिफ्ट वैली प्रांत",
+          "hu": "Hasadékvölgy tartomány",
+          "id": "Provinsi Rift Valley",
+          "it": "provincia della Rift Valley",
+          "ja": "リフトバレー州",
+          "ko": "리프트밸리 주",
+          "nl": "Bonde la Ufa",
+          "pl": "Prowincja Wielkiego Rowu",
+          "pt": "Província do Vale do Rift",
+          "ru": "Рифт-Валли",
+          "sv": "Rift Valley-provinsen",
+          "tr": "Rift Valley Province",
+          "vi": "Tỉnh Rift Valley",
+          "zh": "裂谷省"
+        },
+        "population": 15165833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.748000000000005,
+          0.6915
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ke",
+        "region_child": "ke-400",
+        "area": 25.602901999999993,
+        "bounding_box": [
+          36.045,
+          -3.067,
+          39.451,
+          4.45
+        ],
+        "point": [
+          37.748000000000005,
+          0.6915
+        ],
+        "labels": {
+          "alt": "Federal Area|Nairobi District|Masai District",
+          "local": null,
+          "len": 7,
+          "ar": "المحافظة الشرقية",
+          "bn": "ইস্টার্ন প্রদেশ",
+          "de": "Eastern",
+          "en": "Eastern Province",
+          "es": "Provincia Oriental",
+          "fr": "Province orientale",
+          "el": "Ανατολική επαρχία",
+          "hi": "पूर्वी प्रांत",
+          "hu": "Keleti tartomány",
+          "id": "Provinsi Timur",
+          "it": "provincia Orientale",
+          "ja": "東部州",
+          "ko": "동부 주",
+          "nl": "Mashariki",
+          "pl": "Prowincja Wschodnia",
+          "pt": "Província Oriental",
+          "ru": "Восточная провинция",
+          "sv": "Östprovinsen",
+          "tr": "Eastern Province",
+          "vi": "Tỉnh Phía Đông",
+          "zh": "东部省"
+        },
+        "population": 7070014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.275,
+          1.1140000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ke",
+        "region_child": "ke-500",
+        "area": 20.421239999999994,
+        "bounding_box": [
+          38.665,
+          -2.057,
+          41.885,
+          4.285
+        ],
+        "point": [
+          40.275,
+          1.1140000000000003
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "المحافظة الشمالية الشرقية",
+          "bn": "নর্থ ইস্টার্ন প্রদেশ",
+          "de": "North-Eastern",
+          "en": "North Eastern Province",
+          "es": "Provincia Nororiental",
+          "fr": "Province nord-orientale",
+          "el": "Βορειοανατολική επαρχία",
+          "hi": "उत्तर पूर्वी प्रांत",
+          "hu": null,
+          "id": "Provinsi Timur Laut",
+          "it": "provincia Nordorientale",
+          "ja": "北東州",
+          "ko": "북동부 주",
+          "nl": "Kaskazini-Mashariki",
+          "pl": "Prowincja Północno-Wschodnia",
+          "pt": "Nordeste",
+          "ru": "Северо-Восточная провинция",
+          "sv": "Nordöstra provinsen",
+          "tr": "North Eastern Province",
+          "vi": "Tỉnh Đông Bắc",
+          "zh": "东北省"
+        },
+        "population": 5961648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.557500000000005,
+          -2.351
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ke",
+        "region_child": "ke-300",
+        "area": 18.415878000000003,
+        "bounding_box": [
+          37.579,
+          -4.678,
+          41.536,
+          -0.024
+        ],
+        "point": [
+          39.557500000000005,
+          -2.351
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "المحافظة الساحلية",
+          "bn": "কোস্ট প্রদেশ",
+          "de": "Coast",
+          "en": "Coast Province",
+          "es": "Provincia Costera",
+          "fr": "Côte",
+          "el": "Ακτή",
+          "hi": "तटीय प्रांत",
+          "hu": "Parti tartomány",
+          "id": "Provinsi Coast",
+          "it": "provincia Costiera",
+          "ja": "海岸州",
+          "ko": "해안 주",
+          "nl": "Pwani",
+          "pl": "Prowincja Nadmorska",
+          "pt": "Costa",
+          "ru": "Прибрежная провинция",
+          "sv": "Kustprovinsen",
+          "tr": "Coast Province",
+          "vi": "Tỉnh Coast",
+          "zh": "滨海省"
+        },
+        "population": 3748642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.056,
+          -2.102
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ke",
+        "region_child": "ke-300",
+        "area": 0.025344000000000075,
+        "bounding_box": [
+          40.957,
+          -2.166,
+          41.155,
+          -2.038
+        ],
+        "point": [
+          41.056,
+          -2.102
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "المحافظة الساحلية",
+          "bn": "কোস্ট প্রদেশ",
+          "de": "Coast",
+          "en": "Coast Province",
+          "es": "Provincia Costera",
+          "fr": "Côte",
+          "el": "Ακτή",
+          "hi": "तटीय प्रांत",
+          "hu": "Parti tartomány",
+          "id": "Provinsi Coast",
+          "it": "provincia Costiera",
+          "ja": "海岸州",
+          "ko": "해안 주",
+          "nl": "Pwani",
+          "pl": "Prowincja Nadmorska",
+          "pt": "Costa",
+          "ru": "Прибрежная провинция",
+          "sv": "Kustprovinsen",
+          "tr": "Coast Province",
+          "vi": "Tỉnh Coast",
+          "zh": "滨海省"
+        },
+        "population": 3748642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6105,
+          -0.5525
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ke",
+        "region_child": "ke-600",
+        "area": 2.459888999999995,
+        "bounding_box": [
+          33.895,
+          -1.412,
+          35.326,
+          0.307
+        ],
+        "point": [
+          34.6105,
+          -0.5525
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "نيانزا",
+          "bn": "নায়ানজা প্রদেশ",
+          "de": "Nyanza",
+          "en": "Nyanza Province",
+          "es": "Nyanza",
+          "fr": "Nyanza",
+          "el": "Νυάνζα",
+          "hi": "नियांज़ा प्रांत",
+          "hu": "Nyanza tartomány",
+          "id": "Provinsi Nyanza",
+          "it": "provincia di Nyanza",
+          "ja": "ニャンザ州",
+          "ko": "니안자 주",
+          "nl": "Nyanza",
+          "pl": "Prowincja Nyanza",
+          "pt": "Nyanza",
+          "ru": "Ньянза",
+          "sv": "Nyanzaprovinsen",
+          "tr": "Nyanza Province",
+          "vi": "Nyanza",
+          "zh": "尼扬扎省"
+        },
+        "population": 6843634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.527,
+          0.49350000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ke",
+        "region_child": "ke-800",
+        "area": 1.5530060000000012,
+        "bounding_box": [
+          33.89,
+          -0.116,
+          35.164,
+          1.103
+        ],
+        "point": [
+          34.527,
+          0.49350000000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "المحافظة الغربية",
+          "bn": "ওয়েস্টার্ন প্রদেশ",
+          "de": "Western",
+          "en": "Western Province",
+          "es": "Provincia Occidental",
+          "fr": "Province occidentale",
+          "el": "Δυτική επαρχία",
+          "hi": "पश्चिमी प्रांत",
+          "hu": null,
+          "id": "Provinsi Barat",
+          "it": "provincia Occidentale",
+          "ja": "西部州",
+          "ko": "서부 주",
+          "nl": "Magharibi",
+          "pl": "Prowincja Zachodnia",
+          "pt": "Província Ocidental",
+          "ru": "Западная провинция",
+          "sv": "Västprovinsen",
+          "tr": "Western Province",
+          "vi": "Tây Kenya",
+          "zh": "西部省"
+        },
+        "population": 5709294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.903999999999996,
+          -1.2765
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ke",
+        "region_child": "ke-110",
+        "area": 0.12448799999999896,
+        "bounding_box": [
+          36.676,
+          -1.413,
+          37.132,
+          -1.14
+        ],
+        "point": [
+          36.903999999999996,
+          -1.2765
+        ],
+        "labels": {
+          "alt": "Federal Area|Nairobi District|Masai District",
+          "local": null,
+          "len": 7,
+          "ar": "نيروبي",
+          "bn": "নাইরোবি",
+          "de": "Nairobi",
+          "en": "Nairobi",
+          "es": "Nairobi",
+          "fr": "Nairobi",
+          "el": "Ναϊρόμπι",
+          "hi": "नैरोबी",
+          "hu": "Nairobi",
+          "id": "Nairobi",
+          "it": "Nairobi",
+          "ja": "ナイロビ",
+          "ko": "나이로비",
+          "nl": "Nairobi",
+          "pl": "Nairobi",
+          "pt": "Nairóbi",
+          "ru": "Найроби",
+          "sv": "Nairobi",
+          "tr": "Nairobi",
+          "vi": "Nairobi",
+          "zh": "奈洛比"
+        },
+        "population": 5031546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.843,
+          -0.5935
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ke",
+        "region_child": "ke-200",
+        "area": 1.7950659999999914,
+        "bounding_box": [
+          36.206,
+          -1.298,
+          37.48,
+          0.111
+        ],
+        "point": [
+          36.843,
+          -0.5935
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "المحافظة الوسطى",
+          "bn": "সেন্ট্রাল প্রদেশ",
+          "de": "Central",
+          "en": "Central Province",
+          "es": "Provincia Central",
+          "fr": "Province centrale",
+          "el": "Κεντρική επαρχία",
+          "hi": "केंद्रीय प्रांत",
+          "hu": "Középső tartomány",
+          "id": "Provinsi Central",
+          "it": "provincia centrale",
+          "ja": "中央州",
+          "ko": "중부 주",
+          "nl": "Kati",
+          "pl": "Prowincja Centralna",
+          "pt": "Província Central",
+          "ru": "Центральная провинция",
+          "sv": "Centralprovinsen",
+          "tr": "Central Province",
+          "vi": "Tỉnh Miền Trung",
+          "zh": "中部省"
+        },
+        "population": 5027783
+      }
+    }
+  ]
+}

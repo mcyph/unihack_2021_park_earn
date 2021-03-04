@@ -1,0 +1,6065 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7055,
+          -27.2925
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "darling downs",
+        "area": 13.466636999999915,
+        "bounding_box": [
+          148.919,
+          -29.177,
+          152.492,
+          -25.408
+        ],
+        "point": [
+          150.7055,
+          -27.2925
+        ],
+        "labels": {
+          "en": "Darling Downs"
+        },
+        "population": 260105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.276,
+          -28.025
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "gold coast",
+        "area": 0.3543120000000073,
+        "bounding_box": [
+          153.01,
+          -28.358,
+          153.542,
+          -27.692
+        ],
+        "point": [
+          153.276,
+          -28.025
+        ],
+        "labels": {
+          "en": "Gold Coast"
+        },
+        "population": 490963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4255,
+          -27.844
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "gold coast",
+        "area": 0.006863999999997696,
+        "bounding_box": [
+          153.406,
+          -27.932,
+          153.445,
+          -27.756
+        ],
+        "point": [
+          153.4255,
+          -27.844
+        ],
+        "labels": {
+          "en": "Gold Coast"
+        },
+        "population": 490963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.393,
+          -27.8015
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "gold coast",
+        "area": 0.001406000000000367,
+        "bounding_box": [
+          153.374,
+          -27.82,
+          153.412,
+          -27.783
+        ],
+        "point": [
+          153.393,
+          -27.8015
+        ],
+        "labels": {
+          "en": "Gold Coast"
+        },
+        "population": 490963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.389,
+          -27.856499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "gold coast",
+        "area": 0.000909999999999375,
+        "bounding_box": [
+          153.376,
+          -27.874,
+          153.402,
+          -27.839
+        ],
+        "point": [
+          153.389,
+          -27.856499999999997
+        ],
+        "labels": {
+          "en": "Gold Coast"
+        },
+        "population": 490963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.392,
+          -27.8245
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "gold coast",
+        "area": 8.999999999992155e-05,
+        "bounding_box": [
+          153.387,
+          -27.829,
+          153.397,
+          -27.82
+        ],
+        "point": [
+          153.392,
+          -27.8245
+        ],
+        "labels": {
+          "en": "Gold Coast"
+        },
+        "population": 490963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.898,
+          -21.631
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 14.37589999999993,
+        "bounding_box": [
+          146.031,
+          -23.556,
+          149.765,
+          -19.706
+        ],
+        "point": [
+          147.898,
+          -21.631
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.985,
+          -20.241500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.02325599999999966,
+        "bounding_box": [
+          148.917,
+          -20.327,
+          149.053,
+          -20.156
+        ],
+        "point": [
+          148.985,
+          -20.241500000000002
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.923,
+          -20.119
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.009279999999998127,
+        "bounding_box": [
+          148.883,
+          -20.177,
+          148.963,
+          -20.061
+        ],
+        "point": [
+          148.923,
+          -20.119
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.074,
+          -20.4835
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.004897999999998727,
+        "bounding_box": [
+          149.043,
+          -20.523,
+          149.105,
+          -20.444
+        ],
+        "point": [
+          149.074,
+          -20.4835
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.45850000000002,
+          -20.0125
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0032390000000020193,
+        "bounding_box": [
+          148.438,
+          -20.052,
+          148.479,
+          -19.973
+        ],
+        "point": [
+          148.45850000000002,
+          -20.0125
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.272,
+          -21.6555
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.003060000000000232,
+        "bounding_box": [
+          150.242,
+          -21.681,
+          150.302,
+          -21.63
+        ],
+        "point": [
+          150.272,
+          -21.6555
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.86,
+          -20.357
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0024000000000000397,
+        "bounding_box": [
+          148.845,
+          -20.397,
+          148.875,
+          -20.317
+        ],
+        "point": [
+          148.86,
+          -20.357
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.602,
+          -20.866
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.001728000000000131,
+        "bounding_box": [
+          149.578,
+          -20.884,
+          149.626,
+          -20.848
+        ],
+        "point": [
+          149.602,
+          -20.866
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.326,
+          -21.755499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.001517999999999639,
+        "bounding_box": [
+          150.303,
+          -21.772,
+          150.349,
+          -21.739
+        ],
+        "point": [
+          150.326,
+          -21.755499999999998
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4425,
+          -20.921999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0013299999999998795,
+        "bounding_box": [
+          149.425,
+          -20.941,
+          149.46,
+          -20.903
+        ],
+        "point": [
+          149.4425,
+          -20.921999999999997
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.9625,
+          -20.3485
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0011550000000005458,
+        "bounding_box": [
+          148.946,
+          -20.366,
+          148.979,
+          -20.331
+        ],
+        "point": [
+          148.9625,
+          -20.3485
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.679,
+          -21.316
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0009599999999995043,
+        "bounding_box": [
+          149.663,
+          -21.331,
+          149.695,
+          -21.301
+        ],
+        "point": [
+          149.679,
+          -21.316
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.08350000000002,
+          -20.2825
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0009250000000001862,
+        "bounding_box": [
+          149.071,
+          -20.301,
+          149.096,
+          -20.264
+        ],
+        "point": [
+          149.08350000000002,
+          -20.2825
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.152,
+          -20.679000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00083999999999968,
+        "bounding_box": [
+          149.138,
+          -20.694,
+          149.166,
+          -20.664
+        ],
+        "point": [
+          149.152,
+          -20.679000000000002
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.04250000000002,
+          -20.445
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0008100000000004877,
+        "bounding_box": [
+          149.029,
+          -20.46,
+          149.056,
+          -20.43
+        ],
+        "point": [
+          149.04250000000002,
+          -20.445
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8015,
+          -21.604
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0007920000000004011,
+        "bounding_box": [
+          149.785,
+          -21.616,
+          149.818,
+          -21.592
+        ],
+        "point": [
+          149.8015,
+          -21.604
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.903,
+          -20.843
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0006240000000001042,
+        "bounding_box": [
+          148.891,
+          -20.856,
+          148.915,
+          -20.83
+        ],
+        "point": [
+          148.903,
+          -20.843
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.838,
+          -20.269
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0006240000000000189,
+        "bounding_box": [
+          148.826,
+          -20.282,
+          148.85,
+          -20.256
+        ],
+        "point": [
+          148.838,
+          -20.269
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.28449999999998,
+          -20.7845
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0005749999999999524,
+        "bounding_box": [
+          149.273,
+          -20.797,
+          149.296,
+          -20.772
+        ],
+        "point": [
+          149.28449999999998,
+          -20.7845
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.26749999999998,
+          -20.804000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0005279999999998517,
+        "bounding_box": [
+          149.251,
+          -20.812,
+          149.284,
+          -20.796
+        ],
+        "point": [
+          149.26749999999998,
+          -20.804000000000002
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.82,
+          -20.229
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00048000000000026374,
+        "bounding_box": [
+          148.81,
+          -20.241,
+          148.83,
+          -20.217
+        ],
+        "point": [
+          148.82,
+          -20.229
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4875,
+          -21.8275
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0004750000000000668,
+        "bounding_box": [
+          149.475,
+          -21.837,
+          149.5,
+          -21.818
+        ],
+        "point": [
+          149.4875,
+          -21.8275
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.40249999999997,
+          -20.9105
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00042500000000008313,
+        "bounding_box": [
+          149.39,
+          -20.919,
+          149.415,
+          -20.902
+        ],
+        "point": [
+          149.40249999999997,
+          -20.9105
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8885,
+          -20.052
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0004180000000000909,
+        "bounding_box": [
+          148.879,
+          -20.063,
+          148.898,
+          -20.041
+        ],
+        "point": [
+          148.8885,
+          -20.052
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.933,
+          -20.3585
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0003699999999996538,
+        "bounding_box": [
+          148.928,
+          -20.377,
+          148.938,
+          -20.34
+        ],
+        "point": [
+          148.933,
+          -20.3585
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0625,
+          -20.63
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0003599999999996862,
+        "bounding_box": [
+          149.055,
+          -20.642,
+          149.07,
+          -20.618
+        ],
+        "point": [
+          149.0625,
+          -20.63
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1805,
+          -20.6765
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00027300000000012015,
+        "bounding_box": [
+          149.174,
+          -20.687,
+          149.187,
+          -20.666
+        ],
+        "point": [
+          149.1805,
+          -20.6765
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.91649999999998,
+          -20.262999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0002600000000000991,
+        "bounding_box": [
+          148.91,
+          -20.273,
+          148.923,
+          -20.253
+        ],
+        "point": [
+          148.91649999999998,
+          -20.262999999999998
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.9025,
+          -21.011499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00025499999999988786,
+        "bounding_box": [
+          149.894,
+          -21.019,
+          149.911,
+          -21.004
+        ],
+        "point": [
+          149.9025,
+          -21.011499999999998
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.619,
+          -20.77
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0002520000000001896,
+        "bounding_box": [
+          149.612,
+          -20.779,
+          149.626,
+          -20.761
+        ],
+        "point": [
+          149.619,
+          -20.77
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.398,
+          -20.7725
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00020800000000028104,
+        "bounding_box": [
+          149.39,
+          -20.779,
+          149.406,
+          -20.766
+        ],
+        "point": [
+          149.398,
+          -20.7725
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.712,
+          -21.448999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00020000000000038227,
+        "bounding_box": [
+          149.707,
+          -21.459,
+          149.717,
+          -21.439
+        ],
+        "point": [
+          149.712,
+          -21.448999999999998
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.109,
+          -20.545
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.0001960000000001309,
+        "bounding_box": [
+          149.102,
+          -20.552,
+          149.116,
+          -20.538
+        ],
+        "point": [
+          149.109,
+          -20.545
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3345,
+          -21.662
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00018000000000018416,
+        "bounding_box": [
+          150.327,
+          -21.668,
+          150.342,
+          -21.656
+        ],
+        "point": [
+          150.3345,
+          -21.662
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.12650000000002,
+          -20.4755
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00014299999999992322,
+        "bounding_box": [
+          149.121,
+          -20.482,
+          149.132,
+          -20.469
+        ],
+        "point": [
+          149.12650000000002,
+          -20.4755
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.03,
+          -20.3985
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00013199999999999578,
+        "bounding_box": [
+          149.024,
+          -20.404,
+          149.036,
+          -20.393
+        ],
+        "point": [
+          149.03,
+          -20.3985
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1205,
+          -20.351
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00012599999999979994,
+        "bounding_box": [
+          149.116,
+          -20.358,
+          149.125,
+          -20.344
+        ],
+        "point": [
+          149.1205,
+          -20.351
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7985,
+          -21.832500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00012099999999994404,
+        "bounding_box": [
+          149.793,
+          -21.838,
+          149.804,
+          -21.827
+        ],
+        "point": [
+          149.7985,
+          -21.832500000000003
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.836,
+          -21.6545
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 0.00012000000000015121,
+        "bounding_box": [
+          149.832,
+          -21.662,
+          149.84,
+          -21.647
+        ],
+        "point": [
+          149.836,
+          -21.6545
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.087,
+          -20.427
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "mackay",
+        "area": 9.600000000012096e-05,
+        "bounding_box": [
+          149.083,
+          -20.433,
+          149.091,
+          -20.421
+        ],
+        "point": [
+          149.087,
+          -20.427
+        ],
+        "labels": {
+          "en": "Mackay"
+        },
+        "population": 162369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9855,
+          -27.8625
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.6770250000000115,
+        "bounding_box": [
+          152.648,
+          -28.364,
+          153.323,
+          -27.361
+        ],
+        "point": [
+          152.9855,
+          -27.8625
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.46800000000002,
+          -27.564
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.05280000000000151,
+        "bounding_box": [
+          153.393,
+          -27.74,
+          153.543,
+          -27.388
+        ],
+        "point": [
+          153.46800000000002,
+          -27.564
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.415,
+          -27.192
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.036288000000001215,
+        "bounding_box": [
+          153.361,
+          -27.36,
+          153.469,
+          -27.024
+        ],
+        "point": [
+          153.415,
+          -27.192
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.383,
+          -27.677
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.0023040000000000894,
+        "bounding_box": [
+          153.365,
+          -27.709,
+          153.401,
+          -27.645
+        ],
+        "point": [
+          153.383,
+          -27.677
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3625,
+          -27.61
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.0011880000000006833,
+        "bounding_box": [
+          153.349,
+          -27.632,
+          153.376,
+          -27.588
+        ],
+        "point": [
+          153.3625,
+          -27.61
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35649999999998,
+          -27.5015
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.0009250000000001009,
+        "bounding_box": [
+          153.338,
+          -27.514,
+          153.375,
+          -27.489
+        ],
+        "point": [
+          153.35649999999998,
+          -27.5015
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.332,
+          -27.653
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.0006479999999999852,
+        "bounding_box": [
+          153.323,
+          -27.671,
+          153.341,
+          -27.635
+        ],
+        "point": [
+          153.332,
+          -27.653
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3295,
+          -27.686
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.0003420000000001112,
+        "bounding_box": [
+          153.32,
+          -27.695,
+          153.339,
+          -27.677
+        ],
+        "point": [
+          153.3295,
+          -27.686
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.235,
+          -27.387500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.00023799999999967936,
+        "bounding_box": [
+          153.228,
+          -27.396,
+          153.242,
+          -27.379
+        ],
+        "point": [
+          153.235,
+          -27.387500000000003
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.356,
+          -27.6755
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.00020400000000000125,
+        "bounding_box": [
+          153.35,
+          -27.684,
+          153.362,
+          -27.667
+        ],
+        "point": [
+          153.356,
+          -27.6755
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.33100000000002,
+          -27.569
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.00019199999999990085,
+        "bounding_box": [
+          153.323,
+          -27.575,
+          153.339,
+          -27.563
+        ],
+        "point": [
+          153.33100000000002,
+          -27.569
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.382,
+          -27.6265
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro south",
+        "area": 0.00015400000000014905,
+        "bounding_box": [
+          153.375,
+          -27.632,
+          153.389,
+          -27.621
+        ],
+        "point": [
+          153.382,
+          -27.6265
+        ],
+        "labels": {
+          "en": "Metro South"
+        },
+        "population": 973560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4155,
+          -26.823999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "south west",
+        "area": 38.42354999999998,
+        "bounding_box": [
+          140.999,
+          -28.999,
+          149.832,
+          -24.649
+        ],
+        "point": [
+          145.4155,
+          -26.823999999999998
+        ],
+        "labels": {
+          "en": "South West"
+        },
+        "population": 25729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.4725,
+          -26.371000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "sunshine coast",
+        "area": 1.7670920000000234,
+        "bounding_box": [
+          151.753,
+          -26.985,
+          153.192,
+          -25.757
+        ],
+        "point": [
+          152.4725,
+          -26.371000000000002
+        ],
+        "labels": {
+          "en": "Sunshine Coast"
+        },
+        "population": 345757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.111,
+          -26.913
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "sunshine coast",
+        "area": 0.005616000000000425,
+        "bounding_box": [
+          153.075,
+          -26.952,
+          153.147,
+          -26.874
+        ],
+        "point": [
+          153.111,
+          -26.913
+        ],
+        "labels": {
+          "en": "Sunshine Coast"
+        },
+        "population": 345757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8505,
+          -20.180500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 22.854374999999994,
+        "bounding_box": [
+          142.038,
+          -22.212,
+          147.663,
+          -18.149
+        ],
+        "point": [
+          144.8505,
+          -20.180500000000002
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.21550000000002,
+          -18.3435
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.08464499999999915,
+        "bounding_box": [
+          146.073,
+          -18.492,
+          146.358,
+          -18.195
+        ],
+        "point": [
+          146.21550000000002,
+          -18.3435
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.629,
+          -18.7305
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.010920000000000544,
+        "bounding_box": [
+          146.569,
+          -18.776,
+          146.689,
+          -18.685
+        ],
+        "point": [
+          146.629,
+          -18.7305
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.83100000000002,
+          -19.1435
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.008008000000000844,
+        "bounding_box": [
+          146.779,
+          -19.182,
+          146.883,
+          -19.105
+        ],
+        "point": [
+          146.83100000000002,
+          -19.1435
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.49349999999998,
+          -18.619
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.0023000000000004918,
+        "bounding_box": [
+          146.481,
+          -18.665,
+          146.506,
+          -18.573
+        ],
+        "point": [
+          146.49349999999998,
+          -18.619
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16250000000002,
+          -18.383499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.0017849999999997694,
+        "bounding_box": [
+          146.145,
+          -18.409,
+          146.18,
+          -18.358
+        ],
+        "point": [
+          146.16250000000002,
+          -18.383499999999998
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.172,
+          -18.166
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.0012000000000006593,
+        "bounding_box": [
+          146.152,
+          -18.181,
+          146.192,
+          -18.151
+        ],
+        "point": [
+          146.172,
+          -18.166
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.187,
+          -18.4005
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.0009900000000000323,
+        "bounding_box": [
+          146.178,
+          -18.428,
+          146.196,
+          -18.373
+        ],
+        "point": [
+          146.187,
+          -18.4005
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.51799999999997,
+          -18.686999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.0009720000000000097,
+        "bounding_box": [
+          146.509,
+          -18.714,
+          146.527,
+          -18.66
+        ],
+        "point": [
+          146.51799999999997,
+          -18.686999999999998
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.555,
+          -18.67
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.0008160000000000903,
+        "bounding_box": [
+          146.543,
+          -18.687,
+          146.567,
+          -18.653
+        ],
+        "point": [
+          146.555,
+          -18.67
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4965,
+          -18.5505
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.0004249999999998735,
+        "bounding_box": [
+          146.488,
+          -18.563,
+          146.505,
+          -18.538
+        ],
+        "point": [
+          146.4965,
+          -18.5505
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.199,
+          -18.4645
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.0003000000000001648,
+        "bounding_box": [
+          146.189,
+          -18.472,
+          146.209,
+          -18.457
+        ],
+        "point": [
+          146.199,
+          -18.4645
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5405,
+          -18.8405
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.00028899999999992126,
+        "bounding_box": [
+          146.532,
+          -18.849,
+          146.549,
+          -18.832
+        ],
+        "point": [
+          146.5405,
+          -18.8405
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2335,
+          -18.285
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.00024000000000021004,
+        "bounding_box": [
+          146.226,
+          -18.293,
+          146.241,
+          -18.277
+        ],
+        "point": [
+          146.2335,
+          -18.285
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.18,
+          -18.439999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.00018000000000003495,
+        "bounding_box": [
+          146.171,
+          -18.445,
+          146.189,
+          -18.435
+        ],
+        "point": [
+          146.18,
+          -18.439999999999998
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.175,
+          -18.414
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 0.00016799999999978535,
+        "bounding_box": [
+          146.168,
+          -18.42,
+          146.182,
+          -18.408
+        ],
+        "point": [
+          146.175,
+          -18.414
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.176,
+          -18.424
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 8.00000000001458e-05,
+        "bounding_box": [
+          146.171,
+          -18.428,
+          146.181,
+          -18.42
+        ],
+        "point": [
+          146.176,
+          -18.424
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.28199999999998,
+          -18.139
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 6.0000000000118234e-05,
+        "bounding_box": [
+          146.277,
+          -18.142,
+          146.287,
+          -18.136
+        ],
+        "point": [
+          146.28199999999998,
+          -18.139
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.18200000000002,
+          -18.430500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 5.6000000000080034e-05,
+        "bounding_box": [
+          146.178,
+          -18.434,
+          146.186,
+          -18.427
+        ],
+        "point": [
+          146.18200000000002,
+          -18.430500000000002
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.144,
+          -18.183999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 1.5999999999968053e-05,
+        "bounding_box": [
+          146.142,
+          -18.186,
+          146.146,
+          -18.182
+        ],
+        "point": [
+          146.144,
+          -18.183999999999997
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.291,
+          -18.15
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 1.1999999999993803e-05,
+        "bounding_box": [
+          146.288,
+          -18.151,
+          146.294,
+          -18.149
+        ],
+        "point": [
+          146.291,
+          -18.15
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.329,
+          -18.3555
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 1.1999999999972487e-05,
+        "bounding_box": [
+          146.327,
+          -18.357,
+          146.331,
+          -18.354
+        ],
+        "point": [
+          146.329,
+          -18.3555
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.30599999999998,
+          -18.1565
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "townsville",
+        "area": 5.9999999999436115e-06,
+        "bounding_box": [
+          146.305,
+          -18.158,
+          146.307,
+          -18.155
+        ],
+        "point": [
+          146.30599999999998,
+          -18.1565
+        ],
+        "labels": {
+          "en": "Townsville"
+        },
+        "population": 219997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.44150000000002,
+          -27.3955
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "west moreton",
+        "area": 1.8851129999999878,
+        "bounding_box": [
+          151.942,
+          -28.339,
+          152.941,
+          -26.452
+        ],
+        "point": [
+          152.44150000000002,
+          -27.3955
+        ],
+        "labels": {
+          "en": "West Moreton"
+        },
+        "population": 236252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.698,
+          -25.0355
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 5.638688000000015,
+        "bounding_box": [
+          150.37,
+          -26.097,
+          153.026,
+          -23.974
+        ],
+        "point": [
+          151.698,
+          -25.0355
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1515,
+          -25.247500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.4538870000000121,
+        "bounding_box": [
+          152.945,
+          -25.797,
+          153.358,
+          -24.698
+        ],
+        "point": [
+          153.1515,
+          -25.247500000000002
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9315,
+          -25.5045
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.0024989999999989816,
+        "bounding_box": [
+          152.907,
+          -25.53,
+          152.956,
+          -25.479
+        ],
+        "point": [
+          152.9315,
+          -25.5045
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.96699999999998,
+          -25.298000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.0023000000000010672,
+        "bounding_box": [
+          152.944,
+          -25.323,
+          152.99,
+          -25.273
+        ],
+        "point": [
+          152.96699999999998,
+          -25.298000000000002
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.944,
+          -25.57
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.00026399999999999156,
+        "bounding_box": [
+          152.938,
+          -25.581,
+          152.95,
+          -25.559
+        ],
+        "point": [
+          152.944,
+          -25.57
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8945,
+          -25.586
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.0002340000000000568,
+        "bounding_box": [
+          152.888,
+          -25.595,
+          152.901,
+          -25.577
+        ],
+        "point": [
+          152.8945,
+          -25.586
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95850000000002,
+          -25.625500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.00020899999999993886,
+        "bounding_box": [
+          152.953,
+          -25.635,
+          152.964,
+          -25.616
+        ],
+        "point": [
+          152.95850000000002,
+          -25.625500000000002
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.934,
+          -25.5985
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.00019999999999955093,
+        "bounding_box": [
+          152.93,
+          -25.611,
+          152.938,
+          -25.586
+        ],
+        "point": [
+          152.934,
+          -25.5985
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9645,
+          -25.482
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.0001759999999999115,
+        "bounding_box": [
+          152.959,
+          -25.49,
+          152.97,
+          -25.474
+        ],
+        "point": [
+          152.9645,
+          -25.482
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8965,
+          -25.566
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.00015600000000006865,
+        "bounding_box": [
+          152.89,
+          -25.572,
+          152.903,
+          -25.56
+        ],
+        "point": [
+          152.8965,
+          -25.566
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.879,
+          -25.5685
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.000129999999999863,
+        "bounding_box": [
+          152.874,
+          -25.575,
+          152.884,
+          -25.562
+        ],
+        "point": [
+          152.879,
+          -25.5685
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.542,
+          -24.08
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.0001200000000000233,
+        "bounding_box": [
+          151.536,
+          -24.085,
+          151.548,
+          -24.075
+        ],
+        "point": [
+          151.542,
+          -24.08
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.958,
+          -25.605
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.0001199999999998954,
+        "bounding_box": [
+          152.953,
+          -25.611,
+          152.963,
+          -25.599
+        ],
+        "point": [
+          152.958,
+          -25.605
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9235,
+          -25.583
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "wide bay",
+        "area": 0.00010799999999980568,
+        "bounding_box": [
+          152.919,
+          -25.589,
+          152.928,
+          -25.577
+        ],
+        "point": [
+          152.9235,
+          -25.583
+        ],
+        "labels": {
+          "en": "Wide Bay"
+        },
+        "population": 194550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6445,
+          -24.042
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central west",
+        "area": 50.795538000000015,
+        "bounding_box": [
+          137.998,
+          -26.775,
+          147.291,
+          -21.309
+        ],
+        "point": [
+          142.6445,
+          -24.042
+        ],
+        "labels": {
+          "en": "Central West"
+        },
+        "population": 12005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47899999999998,
+          -18.839
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 36.251799999999854,
+        "bounding_box": [
+          137.996,
+          -22.489,
+          142.962,
+          -15.189
+        ],
+        "point": [
+          140.47899999999998,
+          -18.839
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4315,
+          -16.562
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 0.19298399999999333,
+        "bounding_box": [
+          139.151,
+          -16.734,
+          139.712,
+          -16.39
+        ],
+        "point": [
+          139.4315,
+          -16.562
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.48450000000003,
+          -17.054000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 0.026133999999999807,
+        "bounding_box": [
+          139.395,
+          -17.127,
+          139.574,
+          -16.981
+        ],
+        "point": [
+          139.48450000000003,
+          -17.054000000000002
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.164,
+          -16.7105
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 0.003949999999998684,
+        "bounding_box": [
+          139.139,
+          -16.75,
+          139.189,
+          -16.671
+        ],
+        "point": [
+          139.164,
+          -16.7105
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618,
+          -17.101
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 0.003431999999998626,
+        "bounding_box": [
+          139.596,
+          -17.14,
+          139.64,
+          -17.062
+        ],
+        "point": [
+          139.618,
+          -17.101
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2335,
+          -17.029
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 0.002970000000000481,
+        "bounding_box": [
+          139.206,
+          -17.056,
+          139.261,
+          -17.002
+        ],
+        "point": [
+          139.2335,
+          -17.029
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.11950000000002,
+          -16.823
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 0.002849999999999438,
+        "bounding_box": [
+          139.091,
+          -16.848,
+          139.148,
+          -16.798
+        ],
+        "point": [
+          139.11950000000002,
+          -16.823
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.458,
+          -16.687
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 0.0016000000000007844,
+        "bounding_box": [
+          139.438,
+          -16.707,
+          139.478,
+          -16.667
+        ],
+        "point": [
+          139.458,
+          -16.687
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7185,
+          -16.4745
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 0.0015510000000007464,
+        "bounding_box": [
+          139.702,
+          -16.498,
+          139.735,
+          -16.451
+        ],
+        "point": [
+          139.7185,
+          -16.4745
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.865,
+          -16.6595
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 0.000755999999999702,
+        "bounding_box": [
+          139.851,
+          -16.673,
+          139.879,
+          -16.646
+        ],
+        "point": [
+          139.865,
+          -16.6595
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.065,
+          -16.8965
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 0.0003299999999998829,
+        "bounding_box": [
+          139.054,
+          -16.904,
+          139.076,
+          -16.889
+        ],
+        "point": [
+          139.065,
+          -16.8965
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.26749999999998,
+          -16.991500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "north west",
+        "area": 0.0001690000000000898,
+        "bounding_box": [
+          139.261,
+          -16.998,
+          139.274,
+          -16.985
+        ],
+        "point": [
+          139.26749999999998,
+          -16.991500000000002
+        ],
+        "labels": {
+          "en": "North West"
+        },
+        "population": 30443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0245,
+          -24.0475
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 18.80513699999993,
+        "bounding_box": [
+          146.574,
+          -25.966,
+          151.475,
+          -22.129
+        ],
+        "point": [
+          149.0245,
+          -24.0475
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1415,
+          -23.624000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.11305000000000194,
+        "bounding_box": [
+          150.98,
+          -23.799,
+          151.303,
+          -23.449
+        ],
+        "point": [
+          151.1415,
+          -23.624000000000002
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5105,
+          -22.2775
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.014156999999998572,
+        "bounding_box": [
+          150.461,
+          -22.349,
+          150.56,
+          -22.206
+        ],
+        "point": [
+          150.5105,
+          -22.2775
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.89600000000002,
+          -22.1445
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.012308000000002244,
+        "bounding_box": [
+          149.862,
+          -22.235,
+          149.93,
+          -22.054
+        ],
+        "point": [
+          149.89600000000002,
+          -22.1445
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3595,
+          -23.823999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.007504000000000703,
+        "bounding_box": [
+          151.326,
+          -23.88,
+          151.393,
+          -23.768
+        ],
+        "point": [
+          151.3595,
+          -23.823999999999998
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.978,
+          -22.137
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.006300000000000265,
+        "bounding_box": [
+          149.933,
+          -22.172,
+          150.023,
+          -22.102
+        ],
+        "point": [
+          149.978,
+          -22.137
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4395,
+          -22.2605
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.00314899999999981,
+        "bounding_box": [
+          150.416,
+          -22.294,
+          150.463,
+          -22.227
+        ],
+        "point": [
+          150.4395,
+          -22.2605
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.962,
+          -23.1735
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.002408000000000457,
+        "bounding_box": [
+          150.934,
+          -23.195,
+          150.99,
+          -23.152
+        ],
+        "point": [
+          150.962,
+          -23.1735
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.861,
+          -22.002000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.0007479999999998885,
+        "bounding_box": [
+          149.844,
+          -22.013,
+          149.878,
+          -21.991
+        ],
+        "point": [
+          149.861,
+          -22.002000000000002
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.173,
+          -21.9845
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.000702000000000309,
+        "bounding_box": [
+          150.16,
+          -21.998,
+          150.186,
+          -21.971
+        ],
+        "point": [
+          150.173,
+          -21.9845
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.906,
+          -22.2435
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.0006200000000002933,
+        "bounding_box": [
+          149.896,
+          -22.259,
+          149.916,
+          -22.228
+        ],
+        "point": [
+          149.906,
+          -22.2435
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.899,
+          -23.0675
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.0005999999999999887,
+        "bounding_box": [
+          150.887,
+          -23.08,
+          150.911,
+          -23.055
+        ],
+        "point": [
+          150.899,
+          -23.0675
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.852,
+          -23.5275
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.0003380000000000872,
+        "bounding_box": [
+          150.839,
+          -23.534,
+          150.865,
+          -23.521
+        ],
+        "point": [
+          150.852,
+          -23.5275
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.31,
+          -22.2405
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.0003380000000000872,
+        "bounding_box": [
+          150.297,
+          -22.247,
+          150.323,
+          -22.234
+        ],
+        "point": [
+          150.31,
+          -22.2405
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.88400000000001,
+          -22.245
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.00032400000000002457,
+        "bounding_box": [
+          149.875,
+          -22.254,
+          149.893,
+          -22.236
+        ],
+        "point": [
+          149.88400000000001,
+          -22.245
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.9255,
+          -22.189
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.00031199999999945524,
+        "bounding_box": [
+          149.919,
+          -22.201,
+          149.932,
+          -22.177
+        ],
+        "point": [
+          149.9255,
+          -22.189
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.861,
+          -23.511
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.00021600000000001636,
+        "bounding_box": [
+          150.852,
+          -23.517,
+          150.87,
+          -23.505
+        ],
+        "point": [
+          150.861,
+          -23.511
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3665,
+          -22.0175
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.0001949999999998478,
+        "bounding_box": [
+          150.359,
+          -22.024,
+          150.374,
+          -22.011
+        ],
+        "point": [
+          150.3665,
+          -22.0175
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.13150000000002,
+          -21.994999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.0001820000000000647,
+        "bounding_box": [
+          150.125,
+          -22.002,
+          150.138,
+          -21.988
+        ],
+        "point": [
+          150.13150000000002,
+          -21.994999999999997
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.433,
+          -24.043999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 0.00016799999999999853,
+        "bounding_box": [
+          151.427,
+          -24.051,
+          151.439,
+          -24.037
+        ],
+        "point": [
+          151.433,
+          -24.043999999999997
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.88850000000002,
+          -22.2585
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 9.899999999996487e-05,
+        "bounding_box": [
+          149.883,
+          -22.263,
+          149.894,
+          -22.254
+        ],
+        "point": [
+          149.88850000000002,
+          -22.2585
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.111,
+          -21.927500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 7.800000000001302e-05,
+        "bounding_box": [
+          150.108,
+          -21.934,
+          150.114,
+          -21.921
+        ],
+        "point": [
+          150.111,
+          -21.927500000000002
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.39499999999998,
+          -25.5175
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 5.399999999998278e-05,
+        "bounding_box": [
+          150.392,
+          -25.522,
+          150.398,
+          -25.513
+        ],
+        "point": [
+          150.39499999999998,
+          -25.5175
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3865,
+          -25.497
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 3.6000000000173256e-05,
+        "bounding_box": [
+          150.385,
+          -25.503,
+          150.388,
+          -25.491
+        ],
+        "point": [
+          150.3865,
+          -25.497
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.40949999999998,
+          -25.573
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 3.0000000000137278e-05,
+        "bounding_box": [
+          150.408,
+          -25.578,
+          150.411,
+          -25.568
+        ],
+        "point": [
+          150.40949999999998,
+          -25.573
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.382,
+          -25.488999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 1.6000000000010685e-05,
+        "bounding_box": [
+          150.378,
+          -25.49,
+          150.386,
+          -25.488
+        ],
+        "point": [
+          150.382,
+          -25.488999999999997
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.39499999999998,
+          -25.502000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 1.1999999999993803e-05,
+        "bounding_box": [
+          150.392,
+          -25.503,
+          150.398,
+          -25.501
+        ],
+        "point": [
+          150.39499999999998,
+          -25.502000000000002
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.428,
+          -25.6035
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 4.000000000009777e-06,
+        "bounding_box": [
+          150.426,
+          -25.604,
+          150.43,
+          -25.603
+        ],
+        "point": [
+          150.428,
+          -25.6035
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4035,
+          -25.5375
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 1.000000000005997e-06,
+        "bounding_box": [
+          150.403,
+          -25.538,
+          150.404,
+          -25.537
+        ],
+        "point": [
+          150.4035,
+          -25.5375
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.40550000000002,
+          -25.5825
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "central queensland",
+        "area": 1.0000000000024443e-06,
+        "bounding_box": [
+          150.405,
+          -25.583,
+          150.406,
+          -25.582
+        ],
+        "point": [
+          150.40550000000002,
+          -25.5825
+        ],
+        "labels": {
+          "en": "Central Queensland"
+        },
+        "population": 202527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6405,
+          -17.8
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "cairns and hinterland",
+        "area": 19.034497999999978,
+        "bounding_box": [
+          141.132,
+          -19.697,
+          146.149,
+          -15.903
+        ],
+        "point": [
+          143.6405,
+          -17.8
+        ],
+        "labels": {
+          "en": "Cairns and Hinterland"
+        },
+        "population": 224906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1565,
+          -17.944499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "cairns and hinterland",
+        "area": 0.0012210000000001174,
+        "bounding_box": [
+          146.138,
+          -17.961,
+          146.175,
+          -17.928
+        ],
+        "point": [
+          146.1565,
+          -17.944499999999998
+        ],
+        "labels": {
+          "en": "Cairns and Hinterland"
+        },
+        "population": 224906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.288,
+          -18.2695
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "cairns and hinterland",
+        "area": 0.000774000000000016,
+        "bounding_box": [
+          146.279,
+          -18.291,
+          146.297,
+          -18.248
+        ],
+        "point": [
+          146.288,
+          -18.2695
+        ],
+        "labels": {
+          "en": "Cairns and Hinterland"
+        },
+        "population": 224906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.994,
+          -16.9325
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "cairns and hinterland",
+        "area": 0.0004619999999998361,
+        "bounding_box": [
+          145.983,
+          -16.943,
+          146.005,
+          -16.922
+        ],
+        "point": [
+          145.994,
+          -16.9325
+        ],
+        "labels": {
+          "en": "Cairns and Hinterland"
+        },
+        "population": 224906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.238,
+          -18.292
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "cairns and hinterland",
+        "area": 0.0001439999999999896,
+        "bounding_box": [
+          146.229,
+          -18.296,
+          146.247,
+          -18.288
+        ],
+        "point": [
+          146.238,
+          -18.292
+        ],
+        "labels": {
+          "en": "Cairns and Hinterland"
+        },
+        "population": 224906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2855,
+          -18.325499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "cairns and hinterland",
+        "area": 8.099999999984626e-05,
+        "bounding_box": [
+          146.281,
+          -18.33,
+          146.29,
+          -18.321
+        ],
+        "point": [
+          146.2855,
+          -18.325499999999998
+        ],
+        "labels": {
+          "en": "Cairns and Hinterland"
+        },
+        "population": 224906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1805,
+          -18.398
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "cairns and hinterland",
+        "area": 3.59999999998322e-05,
+        "bounding_box": [
+          146.179,
+          -18.404,
+          146.182,
+          -18.392
+        ],
+        "point": [
+          146.1805,
+          -18.398
+        ],
+        "labels": {
+          "en": "Cairns and Hinterland"
+        },
+        "population": 224906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1805,
+          -18.4465
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "cairns and hinterland",
+        "area": 1.0000000000024443e-06,
+        "bounding_box": [
+          146.18,
+          -18.447,
+          146.181,
+          -18.446
+        ],
+        "point": [
+          146.1805,
+          -18.4465
+        ],
+        "labels": {
+          "en": "Cairns and Hinterland"
+        },
+        "population": 224906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.728,
+          -27.0305
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro north",
+        "area": 0.9835419999999925,
+        "bounding_box": [
+          152.297,
+          -27.601,
+          153.159,
+          -26.46
+        ],
+        "point": [
+          152.728,
+          -27.0305
+        ],
+        "labels": {
+          "en": "Metro North"
+        },
+        "population": 836924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1445,
+          -27.018500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "metro north",
+        "area": 0.020375000000000032,
+        "bounding_box": [
+          153.082,
+          -27.1,
+          153.207,
+          -26.937
+        ],
+        "point": [
+          153.1445,
+          -27.018500000000003
+        ],
+        "labels": {
+          "en": "Metro North"
+        },
+        "population": 836924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42200000000003,
+          -13.526
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 22.19315999999998,
+        "bounding_box": [
+          141.467,
+          -16.364,
+          145.377,
+          -10.688
+        ],
+        "point": [
+          143.42200000000003,
+          -13.526
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1925,
+          -10.682500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.028851000000002156,
+        "bounding_box": [
+          142.111,
+          -10.771,
+          142.274,
+          -10.594
+        ],
+        "point": [
+          142.1925,
+          -10.682500000000001
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2645,
+          -10.188
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.022577999999998752,
+        "bounding_box": [
+          142.185,
+          -10.259,
+          142.344,
+          -10.117
+        ],
+        "point": [
+          142.2645,
+          -10.188
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6995,
+          -9.397
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.012991999999998382,
+        "bounding_box": [
+          142.598,
+          -9.429,
+          142.801,
+          -9.365
+        ],
+        "point": [
+          142.6995,
+          -9.397
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.139,
+          -10.118500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.012401999999999266,
+        "bounding_box": [
+          142.086,
+          -10.177,
+          142.192,
+          -10.06
+        ],
+        "point": [
+          142.139,
+          -10.118500000000001
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.21300000000002,
+          -9.2605
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.009882000000000364,
+        "bounding_box": [
+          142.132,
+          -9.291,
+          142.294,
+          -9.23
+        ],
+        "point": [
+          142.21300000000002,
+          -9.2605
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2815,
+          -10.6065
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.006461000000000557,
+        "bounding_box": [
+          142.236,
+          -10.642,
+          142.327,
+          -10.571
+        ],
+        "point": [
+          142.2815,
+          -10.6065
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.20499999999998,
+          -10.5475
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.002549999999999138,
+        "bounding_box": [
+          142.18,
+          -10.573,
+          142.23,
+          -10.522
+        ],
+        "point": [
+          142.20499999999998,
+          -10.5475
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23950000000002,
+          -14.152999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0023939999999994833,
+        "bounding_box": [
+          144.211,
+          -14.174,
+          144.268,
+          -14.132
+        ],
+        "point": [
+          144.23950000000002,
+          -14.152999999999999
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67899999999997,
+          -10.936
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0023760000000001163,
+        "bounding_box": [
+          142.652,
+          -10.958,
+          142.706,
+          -10.914
+        ],
+        "point": [
+          142.67899999999997,
+          -10.936
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2575,
+          -14.1785
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.002066999999999878,
+        "bounding_box": [
+          144.231,
+          -14.198,
+          144.284,
+          -14.159
+        ],
+        "point": [
+          144.2575,
+          -14.1785
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2885,
+          -9.561499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0015249999999994873,
+        "bounding_box": [
+          142.258,
+          -9.574,
+          142.319,
+          -9.549
+        ],
+        "point": [
+          142.2885,
+          -9.561499999999999
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.848,
+          -10.0355
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0013999999999997272,
+        "bounding_box": [
+          142.828,
+          -10.053,
+          142.868,
+          -10.018
+        ],
+        "point": [
+          142.848,
+          -10.0355
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.65,
+          -10.6365
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0012579999999996643,
+        "bounding_box": [
+          142.633,
+          -10.655,
+          142.667,
+          -10.618
+        ],
+        "point": [
+          142.65,
+          -10.6365
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.461,
+          -14.665500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0012480000000004072,
+        "bounding_box": [
+          145.445,
+          -14.685,
+          145.477,
+          -14.646
+        ],
+        "point": [
+          145.461,
+          -14.665500000000002
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.302,
+          -10.526
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0012240000000000074,
+        "bounding_box": [
+          142.284,
+          -10.543,
+          142.32,
+          -10.509
+        ],
+        "point": [
+          142.302,
+          -10.526
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6005,
+          -10.7305
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0011549999999995511,
+        "bounding_box": [
+          142.584,
+          -10.748,
+          142.617,
+          -10.713
+        ],
+        "point": [
+          142.6005,
+          -10.7305
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.921,
+          -9.855
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0011039999999998564,
+        "bounding_box": [
+          142.898,
+          -9.867,
+          142.944,
+          -9.843
+        ],
+        "point": [
+          142.921,
+          -9.855
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3965,
+          -10.7275
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0010529999999994775,
+        "bounding_box": [
+          142.383,
+          -10.747,
+          142.41,
+          -10.708
+        ],
+        "point": [
+          142.3965,
+          -10.7275
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1825,
+          -9.9565
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0010149999999998981,
+        "bounding_box": [
+          142.165,
+          -9.971,
+          142.2,
+          -9.942
+        ],
+        "point": [
+          142.1825,
+          -9.9565
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.697,
+          -9.3675
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0009180000000000056,
+        "bounding_box": [
+          142.67,
+          -9.376,
+          142.724,
+          -9.359
+        ],
+        "point": [
+          142.697,
+          -9.3675
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7705,
+          -9.5855
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0008409999999998921,
+        "bounding_box": [
+          143.756,
+          -9.6,
+          143.785,
+          -9.571
+        ],
+        "point": [
+          143.7705,
+          -9.5855
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.172,
+          -9.2355
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.000735999999999582,
+        "bounding_box": [
+          142.156,
+          -9.247,
+          142.188,
+          -9.224
+        ],
+        "point": [
+          142.172,
+          -9.2355
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.293,
+          -10.718
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0007039999999997242,
+        "bounding_box": [
+          142.282,
+          -10.734,
+          142.304,
+          -10.702
+        ],
+        "point": [
+          142.293,
+          -10.718
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2165,
+          -14.218
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0006959999999999391,
+        "bounding_box": [
+          144.202,
+          -14.23,
+          144.231,
+          -14.206
+        ],
+        "point": [
+          144.2165,
+          -14.218
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.16199999999998,
+          -10.594
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0006400000000002001,
+        "bounding_box": [
+          142.146,
+          -10.604,
+          142.178,
+          -10.584
+        ],
+        "point": [
+          142.16199999999998,
+          -10.594
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.972,
+          -14.5025
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0006120000000000037,
+        "bounding_box": [
+          144.954,
+          -14.511,
+          144.99,
+          -14.494
+        ],
+        "point": [
+          144.972,
+          -14.5025
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1305,
+          -10.37
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0005439999999998696,
+        "bounding_box": [
+          142.122,
+          -10.386,
+          142.139,
+          -10.354
+        ],
+        "point": [
+          142.1305,
+          -10.37
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.219,
+          -10.579
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0005200000000001981,
+        "bounding_box": [
+          142.206,
+          -10.589,
+          142.232,
+          -10.569
+        ],
+        "point": [
+          142.219,
+          -10.579
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.051,
+          -9.918
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0005199999999996759,
+        "bounding_box": [
+          144.038,
+          -9.928,
+          144.064,
+          -9.908
+        ],
+        "point": [
+          144.051,
+          -9.918
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.63600000000002,
+          -9.7665
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0004759999999998916,
+        "bounding_box": [
+          142.622,
+          -9.775,
+          142.65,
+          -9.758
+        ],
+        "point": [
+          142.63600000000002,
+          -9.7665
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1065,
+          -10.9855
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0004249999999998735,
+        "bounding_box": [
+          142.098,
+          -10.998,
+          142.115,
+          -10.973
+        ],
+        "point": [
+          142.1065,
+          -10.9855
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.265,
+          -14.2305
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.00040800000000004515,
+        "bounding_box": [
+          144.253,
+          -14.239,
+          144.277,
+          -14.222
+        ],
+        "point": [
+          144.265,
+          -14.2305
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.536,
+          -9.4205
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.00033600000000039496,
+        "bounding_box": [
+          142.528,
+          -9.431,
+          142.544,
+          -9.41
+        ],
+        "point": [
+          142.536,
+          -9.4205
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.33249999999998,
+          -14.0955
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.00025500000000024315,
+        "bounding_box": [
+          144.325,
+          -14.104,
+          144.34,
+          -14.087
+        ],
+        "point": [
+          144.33249999999998,
+          -14.0955
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1575,
+          -10.563500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0002530000000002933,
+        "bounding_box": [
+          142.146,
+          -10.569,
+          142.169,
+          -10.558
+        ],
+        "point": [
+          142.1575,
+          -10.563500000000001
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.269,
+          -11.983
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.00022400000000016027,
+        "bounding_box": [
+          143.262,
+          -11.991,
+          143.276,
+          -11.975
+        ],
+        "point": [
+          143.269,
+          -11.983
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.631,
+          -10.9205
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0002080000000002526,
+        "bounding_box": [
+          142.623,
+          -10.927,
+          142.639,
+          -10.914
+        ],
+        "point": [
+          142.631,
+          -10.9205
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.243,
+          -9.229500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.00020799999999988314,
+        "bounding_box": [
+          142.235,
+          -9.236,
+          142.251,
+          -9.223
+        ],
+        "point": [
+          142.243,
+          -9.229500000000002
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.411,
+          -9.7525
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.00019799999999992973,
+        "bounding_box": [
+          143.4,
+          -9.757,
+          143.422,
+          -9.748
+        ],
+        "point": [
+          143.411,
+          -9.7525
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6175,
+          -10.595500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.00018699999999997213,
+        "bounding_box": [
+          142.609,
+          -10.601,
+          142.626,
+          -10.59
+        ],
+        "point": [
+          142.6175,
+          -10.595500000000001
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3725,
+          -12.889
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0001819999999996899,
+        "bounding_box": [
+          143.366,
+          -12.896,
+          143.379,
+          -12.882
+        ],
+        "point": [
+          143.3725,
+          -12.889
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8105,
+          -14.4315
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0001690000000000667,
+        "bounding_box": [
+          144.804,
+          -14.438,
+          144.817,
+          -14.425
+        ],
+        "point": [
+          144.8105,
+          -14.4315
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.481,
+          -10.254
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0001680000000001264,
+        "bounding_box": [
+          142.474,
+          -10.26,
+          142.488,
+          -10.248
+        ],
+        "point": [
+          142.481,
+          -10.254
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.054,
+          -10.3595
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.0001560000000000047,
+        "bounding_box": [
+          142.048,
+          -10.366,
+          142.06,
+          -10.353
+        ],
+        "point": [
+          142.054,
+          -10.3595
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.775,
+          -9.901
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.000120000000000002,
+        "bounding_box": [
+          142.769,
+          -9.906,
+          142.781,
+          -9.896
+        ],
+        "point": [
+          142.775,
+          -9.901
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.39600000000002,
+          -12.8705
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 0.00011000000000020492,
+        "bounding_box": [
+          143.391,
+          -12.876,
+          143.401,
+          -12.865
+        ],
+        "point": [
+          143.39600000000002,
+          -12.8705
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4085,
+          -12.288499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 8.100000000011805e-05,
+        "bounding_box": [
+          143.404,
+          -12.293,
+          143.413,
+          -12.284
+        ],
+        "point": [
+          143.4085,
+          -12.288499999999999
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.38299999999998,
+          -12.870000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "torres and cape",
+        "area": 8.000000000016357e-05,
+        "bounding_box": [
+          143.378,
+          -12.874,
+          143.388,
+          -12.866
+        ],
+        "point": [
+          143.38299999999998,
+          -12.870000000000001
+        ],
+        "labels": {
+          "en": "Torres and Cape"
+        },
+        "population": 20719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0265,
+          -27.484
+        ]
+      },
+      "properties": {
+        "region_schema": "hhs",
+        "region_parent": "au-qld",
+        "region_child": "childrens health queensland",
+        "area": 0.0,
+        "bounding_box": [
+          153.026,
+          -27.484,
+          153.027,
+          -27.484
+        ],
+        "point": [
+          153.0265,
+          -27.484
+        ],
+        "labels": {
+          "en": "Childrens Health Queensland"
+        },
+        "population": 0
+      }
+    }
+  ]
+}

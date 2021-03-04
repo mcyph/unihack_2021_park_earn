@@ -1,0 +1,1542 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.316000000000003,
+          67.8335
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-10",
+        "area": 42.077438000000036,
+        "bounding_box": [
+          20.623,
+          65.592,
+          30.009,
+          70.075
+        ],
+        "point": [
+          25.316000000000003,
+          67.8335
+        ],
+        "labels": {
+          "alt": "Lapin lääni|Lappi|Laponia|Lapônia|Laponie|Lappland|Lapplands län",
+          "local": null,
+          "len": 7,
+          "ar": "إقليم لابي",
+          "bn": null,
+          "de": "Lappland",
+          "en": "Lapland",
+          "es": "Laponia finlandesa",
+          "fr": "Laponie",
+          "el": null,
+          "hi": null,
+          "hu": "Lappföld",
+          "id": "Laplandia",
+          "it": "Regione della Lapponia",
+          "ja": "ラッピ県",
+          "ko": "라피 지역",
+          "nl": "Lapland",
+          "pl": "Laponia",
+          "pt": "Lapônia",
+          "ru": "Лапландия",
+          "sv": "Lappland",
+          "tr": "Lappi",
+          "vi": "Lapland",
+          "zh": "拉普蘭區"
+        },
+        "population": 171165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.909,
+          64.95949999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-14",
+        "area": 19.531893999999948,
+        "bounding_box": [
+          23.706,
+          63.435,
+          30.112,
+          66.484
+        ],
+        "point": [
+          26.909,
+          64.95949999999999
+        ],
+        "labels": {
+          "alt": "Pohjois-Pohjanmaa|Norra Österbotten",
+          "local": null,
+          "len": 21,
+          "ar": "بوهيانما الشمالية",
+          "bn": "নর্দান ওস্ট্রোবোথনিয়া",
+          "de": "Nordösterbotten",
+          "en": "Northern Ostrobothnia",
+          "es": "Ostrobotnia del Norte",
+          "fr": "Ostrobotnie du Nord",
+          "el": "Βόρεια Οστροβόθνια",
+          "hi": "उत्तरी  ओस्ट्रोबोथनिया",
+          "hu": "Észak-Pohjanmaa",
+          "id": "Ostrobothnia Utara",
+          "it": "Ostrobotnia settentrionale",
+          "ja": "北ポフヤンマー県",
+          "ko": "북포흐얀마 지역",
+          "nl": "Pohjois-Pohjanmaa",
+          "pl": "Pohjois-Pohjanmaa",
+          "pt": "Ostrobótnia do Norte",
+          "ru": "Северная Остроботния",
+          "sv": "Norra Österbotten",
+          "tr": "Kuzey Ostrobothnia",
+          "vi": "Phía Bắc Ostrobothnia",
+          "zh": "北博滕區"
+        },
+        "population": 419998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.778,
+          65.0315
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-14",
+        "area": 0.05460999999999796,
+        "bounding_box": [
+          24.563,
+          64.968,
+          24.993,
+          65.095
+        ],
+        "point": [
+          24.778,
+          65.0315
+        ],
+        "labels": {
+          "alt": "Pohjois-Pohjanmaa|Norra Österbotten",
+          "local": null,
+          "len": 21,
+          "ar": "بوهيانما الشمالية",
+          "bn": "নর্দান ওস্ট্রোবোথনিয়া",
+          "de": "Nordösterbotten",
+          "en": "Northern Ostrobothnia",
+          "es": "Ostrobotnia del Norte",
+          "fr": "Ostrobotnie du Nord",
+          "el": "Βόρεια Οστροβόθνια",
+          "hi": "उत्तरी  ओस्ट्रोबोथनिया",
+          "hu": "Észak-Pohjanmaa",
+          "id": "Ostrobothnia Utara",
+          "it": "Ostrobotnia settentrionale",
+          "ja": "北ポフヤンマー県",
+          "ko": "북포흐얀마 지역",
+          "nl": "Pohjois-Pohjanmaa",
+          "pl": "Pohjois-Pohjanmaa",
+          "pt": "Ostrobótnia do Norte",
+          "ru": "Северная Остроботния",
+          "sv": "Norra Österbotten",
+          "tr": "Kuzey Ostrobothnia",
+          "vi": "Phía Bắc Ostrobothnia",
+          "zh": "北博滕區"
+        },
+        "population": 419998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.441,
+          64.6045
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-05",
+        "area": 7.889309999999993,
+        "bounding_box": [
+          26.296,
+          63.685,
+          30.586,
+          65.524
+        ],
+        "point": [
+          28.441,
+          64.6045
+        ],
+        "labels": {
+          "alt": "Kainuu|Kajanaland",
+          "local": null,
+          "len": 6,
+          "ar": "كاينو",
+          "bn": "কাইন্যু",
+          "de": "Kainuu",
+          "en": "Kainuu",
+          "es": "Kainuu",
+          "fr": "Kainuu",
+          "el": "Καϊνού",
+          "hi": "केनुउ",
+          "hu": "Kainuu",
+          "id": "Kainuu",
+          "it": "Kainuu",
+          "ja": "カイヌー県",
+          "ko": "카이누 지역",
+          "nl": "Kainuu",
+          "pl": "Kainuu",
+          "pt": "Kainuu",
+          "ru": "Кайнуу",
+          "sv": "Kajanaland",
+          "tr": "Kainuu",
+          "vi": "Kainuu",
+          "zh": "凱努區"
+        },
+        "population": 75791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.964,
+          62.8035
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-13",
+        "area": 6.934708000000019,
+        "bounding_box": [
+          28.358,
+          61.724,
+          31.57,
+          63.883
+        ],
+        "point": [
+          29.964,
+          62.8035
+        ],
+        "labels": {
+          "alt": "Pohjois-Karjala|Norra Karelen",
+          "local": null,
+          "len": 13,
+          "ar": "كاريليا الشمالية",
+          "bn": "কারেলিয়া",
+          "de": "Nordkarelien",
+          "en": "North Karelia",
+          "es": "Carelia del Norte",
+          "fr": "Carélie du Nord",
+          "el": "Νορθ Καρέλια",
+          "hi": "उत्तरी करेलिया",
+          "hu": "Észak-Karjala",
+          "id": "North Karelia",
+          "it": "Carelia settentrionale",
+          "ja": "北カルヤラ県",
+          "ko": "북카리알라 지역",
+          "nl": "Pohjois-Karjala",
+          "pl": "Karelia Północna",
+          "pt": "Carélia do Norte",
+          "ru": "Северная Карелия",
+          "sv": "Norra Karelen",
+          "tr": "Kuzey Karelya",
+          "vi": "Bắc Karelia",
+          "zh": "北卡累利阿區"
+        },
+        "population": 165040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.561,
+          61.257000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-02",
+        "area": 3.7596200000000017,
+        "bounding_box": [
+          26.976,
+          60.664,
+          30.146,
+          61.85
+        ],
+        "point": [
+          28.561,
+          61.257000000000005
+        ],
+        "labels": {
+          "alt": "Etelä-Karjala|Södra Karelen",
+          "local": null,
+          "len": 13,
+          "ar": "كاريليا الجنوبية",
+          "bn": "দক্ষিন কারেলিয়া",
+          "de": "Südkarelien",
+          "en": "South Karelia",
+          "es": "Karelia del Sur",
+          "fr": "Carélie du Sud",
+          "el": "Νότια Καρέλια",
+          "hi": "दक्षिण केरलिया",
+          "hu": null,
+          "id": "Karelia Selatan",
+          "it": "Carelia meridionale",
+          "ja": "南カルヤラ県",
+          "ko": "남카리알라 지역",
+          "nl": "Etelä-Karjala",
+          "pl": "Karelia Południowa",
+          "pt": "Carélia do Sul",
+          "ru": "Южная Карелия",
+          "sv": "Södra Karelen",
+          "tr": "Güney Karelya",
+          "vi": "Nam Karelia",
+          "zh": "南卡累利阿區"
+        },
+        "population": 133880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0235,
+          60.8525
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-09",
+        "area": 1.7041090000000014,
+        "bounding_box": [
+          26.043,
+          60.418,
+          28.004,
+          61.287
+        ],
+        "point": [
+          27.0235,
+          60.8525
+        ],
+        "labels": {
+          "alt": "Kymmenedalen",
+          "local": null,
+          "len": 11,
+          "ar": "كومنلاكسو",
+          "bn": "কায়ামেনলাকসো",
+          "de": "Kymenlaakso",
+          "en": "Kymenlaakso",
+          "es": "Kymenlaakso",
+          "fr": "Vallée de la Kymi",
+          "el": "Κιμενλαάκσο",
+          "hi": "क्यमेंलाक्सो",
+          "hu": null,
+          "id": "Kymenlaakso",
+          "it": "Kymenlaakso",
+          "ja": "キュメンラークソ県",
+          "ko": "퀴멘락소 지역",
+          "nl": "Kymenlaakso",
+          "pl": "Kymenlaakso",
+          "pt": "Kymenlaakso",
+          "ru": "Кюменлааксо",
+          "sv": "Kymmenedalen",
+          "tr": "Kymenlaakso",
+          "vi": "Kymenlaakso",
+          "zh": "屈米區"
+        },
+        "population": 166706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.742,
+          60.328
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-18",
+        "area": 3.636487999999992,
+        "bounding_box": [
+          22.931,
+          59.826,
+          26.553,
+          60.83
+        ],
+        "point": [
+          24.742,
+          60.328
+        ],
+        "labels": {
+          "alt": "Nyland",
+          "local": null,
+          "len": 7,
+          "ar": "أوسيما",
+          "bn": "উসিম্যা",
+          "de": "Uusimaa",
+          "en": "Uusimaa",
+          "es": "Uusimaa",
+          "fr": "Uusimaa",
+          "el": "Ουουσίμαα",
+          "hi": "उशिमा",
+          "hu": "Nyland tartomány",
+          "id": "Uusimaa",
+          "it": "Uusimaa",
+          "ja": "ウーシマー県",
+          "ko": "우시마 지역",
+          "nl": "Uusimaa",
+          "pl": "Uusimaa",
+          "pt": "Uusimaa",
+          "ru": "Уусимаа",
+          "sv": "Nyland",
+          "tr": "Uusimaa",
+          "vi": "Uusimaa",
+          "zh": "新地区"
+        },
+        "population": 1672910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.613,
+          60.59
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-19",
+        "area": 2.6072040000000065,
+        "bounding_box": [
+          21.312,
+          60.089,
+          23.914,
+          61.091
+        ],
+        "point": [
+          22.613,
+          60.59
+        ],
+        "labels": {
+          "alt": "Varsinais-Suomi|Egentliga Finland",
+          "local": null,
+          "len": 14,
+          "ar": "فارسينايس سوومي",
+          "bn": "ফিনল্যান্ড প্রপার",
+          "de": "Varsinais-Suomi",
+          "en": "Finland Proper",
+          "es": "Finlandia Propia",
+          "fr": "Finlande Propre",
+          "el": "Νοτιοδυτική Φινλανδία",
+          "hi": "फ़िनलैंड प्रॉपर",
+          "hu": null,
+          "id": "Finland Proper",
+          "it": "Varsinais-Suomi",
+          "ja": "南西スオミ県",
+          "ko": "남서수오미 지역",
+          "nl": "Varsinais-Suomi",
+          "pl": "Finlandia Południowo-Zachodnia",
+          "pt": "Finlândia Própria",
+          "ru": "Варсинайс-Суоми",
+          "sv": "Egentliga Finland",
+          "tr": "Güneybatı Finlandiya",
+          "vi": "Finland Proper",
+          "zh": "西南芬蘭區"
+        },
+        "population": 443758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.682000000000002,
+          60.141999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-19",
+        "area": 0.15379200000000273,
+        "bounding_box": [
+          22.415,
+          59.998,
+          22.949,
+          60.286
+        ],
+        "point": [
+          22.682000000000002,
+          60.141999999999996
+        ],
+        "labels": {
+          "alt": "Varsinais-Suomi|Egentliga Finland",
+          "local": null,
+          "len": 14,
+          "ar": "فارسينايس سوومي",
+          "bn": "ফিনল্যান্ড প্রপার",
+          "de": "Varsinais-Suomi",
+          "en": "Finland Proper",
+          "es": "Finlandia Propia",
+          "fr": "Finlande Propre",
+          "el": "Νοτιοδυτική Φινλανδία",
+          "hi": "फ़िनलैंड प्रॉपर",
+          "hu": null,
+          "id": "Finland Proper",
+          "it": "Varsinais-Suomi",
+          "ja": "南西スオミ県",
+          "ko": "남서수오미 지역",
+          "nl": "Varsinais-Suomi",
+          "pl": "Finlandia Południowo-Zachodnia",
+          "pt": "Finlândia Própria",
+          "ru": "Варсинайс-Суоми",
+          "sv": "Egentliga Finland",
+          "tr": "Güneybatı Finlandiya",
+          "vi": "Finland Proper",
+          "zh": "西南芬蘭區"
+        },
+        "population": 443758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.896,
+          60.3785
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-19",
+        "area": 0.018155999999999776,
+        "bounding_box": [
+          21.794,
+          60.334,
+          21.998,
+          60.423
+        ],
+        "point": [
+          21.896,
+          60.3785
+        ],
+        "labels": {
+          "alt": "Varsinais-Suomi|Egentliga Finland",
+          "local": null,
+          "len": 14,
+          "ar": "فارسينايس سوومي",
+          "bn": "ফিনল্যান্ড প্রপার",
+          "de": "Varsinais-Suomi",
+          "en": "Finland Proper",
+          "es": "Finlandia Propia",
+          "fr": "Finlande Propre",
+          "el": "Νοτιοδυτική Φινλανδία",
+          "hi": "फ़िनलैंड प्रॉपर",
+          "hu": null,
+          "id": "Finland Proper",
+          "it": "Varsinais-Suomi",
+          "ja": "南西スオミ県",
+          "ko": "남서수오미 지역",
+          "nl": "Varsinais-Suomi",
+          "pl": "Finlandia Południowo-Zachodnia",
+          "pt": "Finlândia Própria",
+          "ru": "Варсинайс-Суоми",
+          "sv": "Egentliga Finland",
+          "tr": "Güneybatı Finlandiya",
+          "vi": "Finland Proper",
+          "zh": "西南芬蘭區"
+        },
+        "population": 443758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.781,
+          60.1555
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-19",
+        "area": 0.012118000000000871,
+        "bounding_box": [
+          21.708,
+          60.114,
+          21.854,
+          60.197
+        ],
+        "point": [
+          21.781,
+          60.1555
+        ],
+        "labels": {
+          "alt": "Varsinais-Suomi|Egentliga Finland",
+          "local": null,
+          "len": 14,
+          "ar": "فارسينايس سوومي",
+          "bn": "ফিনল্যান্ড প্রপার",
+          "de": "Varsinais-Suomi",
+          "en": "Finland Proper",
+          "es": "Finlandia Propia",
+          "fr": "Finlande Propre",
+          "el": "Νοτιοδυτική Φινλανδία",
+          "hi": "फ़िनलैंड प्रॉपर",
+          "hu": null,
+          "id": "Finland Proper",
+          "it": "Varsinais-Suomi",
+          "ja": "南西スオミ県",
+          "ko": "남서수오미 지역",
+          "nl": "Varsinais-Suomi",
+          "pl": "Finlandia Południowo-Zachodnia",
+          "pt": "Finlândia Própria",
+          "ru": "Варсинайс-Суоми",
+          "sv": "Egentliga Finland",
+          "tr": "Güneybatı Finlandiya",
+          "vi": "Finland Proper",
+          "zh": "西南芬蘭區"
+        },
+        "population": 443758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.575499999999998,
+          60.1335
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-19",
+        "area": 0.011461000000000065,
+        "bounding_box": [
+          21.497,
+          60.097,
+          21.654,
+          60.17
+        ],
+        "point": [
+          21.575499999999998,
+          60.1335
+        ],
+        "labels": {
+          "alt": "Varsinais-Suomi|Egentliga Finland",
+          "local": null,
+          "len": 14,
+          "ar": "فارسينايس سوومي",
+          "bn": "ফিনল্যান্ড প্রপার",
+          "de": "Varsinais-Suomi",
+          "en": "Finland Proper",
+          "es": "Finlandia Propia",
+          "fr": "Finlande Propre",
+          "el": "Νοτιοδυτική Φινλανδία",
+          "hi": "फ़िनलैंड प्रॉपर",
+          "hu": null,
+          "id": "Finland Proper",
+          "it": "Varsinais-Suomi",
+          "ja": "南西スオミ県",
+          "ko": "남서수오미 지역",
+          "nl": "Varsinais-Suomi",
+          "pl": "Finlandia Południowo-Zachodnia",
+          "pt": "Finlândia Própria",
+          "ru": "Варсинайс-Суоми",
+          "sv": "Egentliga Finland",
+          "tr": "Güneybatı Finlandiya",
+          "vi": "Finland Proper",
+          "zh": "西南芬蘭區"
+        },
+        "population": 443758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.165,
+          60.283
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-19",
+        "area": 0.010200000000000488,
+        "bounding_box": [
+          22.08,
+          60.253,
+          22.25,
+          60.313
+        ],
+        "point": [
+          22.165,
+          60.283
+        ],
+        "labels": {
+          "alt": "Varsinais-Suomi|Egentliga Finland",
+          "local": null,
+          "len": 14,
+          "ar": "فارسينايس سوومي",
+          "bn": "ফিনল্যান্ড প্রপার",
+          "de": "Varsinais-Suomi",
+          "en": "Finland Proper",
+          "es": "Finlandia Propia",
+          "fr": "Finlande Propre",
+          "el": "Νοτιοδυτική Φινλανδία",
+          "hi": "फ़िनलैंड प्रॉपर",
+          "hu": null,
+          "id": "Finland Proper",
+          "it": "Varsinais-Suomi",
+          "ja": "南西スオミ県",
+          "ko": "남서수오미 지역",
+          "nl": "Varsinais-Suomi",
+          "pl": "Finlandia Południowo-Zachodnia",
+          "pt": "Finlândia Própria",
+          "ru": "Варсинайс-Суоми",
+          "sv": "Egentliga Finland",
+          "tr": "Güneybatı Finlandiya",
+          "vi": "Finland Proper",
+          "zh": "西南芬蘭區"
+        },
+        "population": 443758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4045,
+          60.519000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-19",
+        "area": 0.009429999999999958,
+        "bounding_box": [
+          21.347,
+          60.478,
+          21.462,
+          60.56
+        ],
+        "point": [
+          21.4045,
+          60.519000000000005
+        ],
+        "labels": {
+          "alt": "Varsinais-Suomi|Egentliga Finland",
+          "local": null,
+          "len": 14,
+          "ar": "فارسينايس سوومي",
+          "bn": "ফিনল্যান্ড প্রপার",
+          "de": "Varsinais-Suomi",
+          "en": "Finland Proper",
+          "es": "Finlandia Propia",
+          "fr": "Finlande Propre",
+          "el": "Νοτιοδυτική Φινλανδία",
+          "hi": "फ़िनलैंड प्रॉपर",
+          "hu": null,
+          "id": "Finland Proper",
+          "it": "Varsinais-Suomi",
+          "ja": "南西スオミ県",
+          "ko": "남서수오미 지역",
+          "nl": "Varsinais-Suomi",
+          "pl": "Finlandia Południowo-Zachodnia",
+          "pt": "Finlândia Própria",
+          "ru": "Варсинайс-Суоми",
+          "sv": "Egentliga Finland",
+          "tr": "Güneybatı Finlandiya",
+          "vi": "Finland Proper",
+          "zh": "西南芬蘭區"
+        },
+        "population": 443758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1535,
+          61.594
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-17",
+        "area": 2.368967999999992,
+        "bounding_box": [
+          21.317,
+          60.886,
+          22.99,
+          62.302
+        ],
+        "point": [
+          22.1535,
+          61.594
+        ],
+        "labels": {
+          "alt": "Satakunta|Satakunda",
+          "local": null,
+          "len": 9,
+          "ar": "ستاكونتا",
+          "bn": "সাটাকুন্টা",
+          "de": "Satakunta",
+          "en": "Satakunta",
+          "es": "Satakunta",
+          "fr": "Satakunta",
+          "el": "Σατακούντα",
+          "hi": "सताकुंता",
+          "hu": "Satakunta tartomány",
+          "id": "Satakunta",
+          "it": "Satakunta",
+          "ja": "サタクンタ県",
+          "ko": "사타쿤타 지역",
+          "nl": "Satakunta",
+          "pl": "Satakunta",
+          "pt": "Satakunta",
+          "ru": "Сатакунта",
+          "sv": "Satakunta",
+          "tr": "Satakunta",
+          "vi": "Satakunta",
+          "zh": "薩卡昆達區"
+        },
+        "population": 218820
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.393500000000003,
+          62.8635
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-12",
+        "area": 4.901698999999991,
+        "bounding_box": [
+          21.068,
+          61.939,
+          23.719,
+          63.788
+        ],
+        "point": [
+          22.393500000000003,
+          62.8635
+        ],
+        "labels": {
+          "alt": "Pohjanmaa|Österbotten",
+          "local": null,
+          "len": 12,
+          "ar": "بوهيانما",
+          "bn": null,
+          "de": "Österbotten",
+          "en": "Ostrobothnia",
+          "es": "Ostrobotnia",
+          "fr": "Ostrobotnie",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Ostrobotnia",
+          "ja": "ポフヤンマー県",
+          "ko": "포흐얀마 지역",
+          "nl": "Österbotten",
+          "pl": "Pohjanmaa",
+          "pt": "Ostrobótnia",
+          "ru": "Остроботния",
+          "sv": "Österbotten",
+          "tr": "Ostrobothnia",
+          "vi": null,
+          "zh": "博滕區"
+        },
+        "population": 159529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2675,
+          63.216
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-12",
+        "area": 0.040169999999998734,
+        "bounding_box": [
+          21.113,
+          63.151,
+          21.422,
+          63.281
+        ],
+        "point": [
+          21.2675,
+          63.216
+        ],
+        "labels": {
+          "alt": "Pohjanmaa|Österbotten",
+          "local": null,
+          "len": 12,
+          "ar": "بوهيانما",
+          "bn": null,
+          "de": "Österbotten",
+          "en": "Ostrobothnia",
+          "es": "Ostrobotnia",
+          "fr": "Ostrobotnie",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Ostrobotnia",
+          "ja": "ポフヤンマー県",
+          "ko": "포흐얀마 지역",
+          "nl": "Österbotten",
+          "pl": "Pohjanmaa",
+          "pt": "Ostrobótnia",
+          "ru": "Остроботния",
+          "sv": "Österbotten",
+          "tr": "Ostrobothnia",
+          "vi": null,
+          "zh": "博滕區"
+        },
+        "population": 159529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1565,
+          63.285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-12",
+        "area": 0.011900000000000913,
+        "bounding_box": [
+          22.069,
+          63.251,
+          22.244,
+          63.319
+        ],
+        "point": [
+          22.1565,
+          63.285
+        ],
+        "labels": {
+          "alt": "Pohjanmaa|Österbotten",
+          "local": null,
+          "len": 12,
+          "ar": "بوهيانما",
+          "bn": null,
+          "de": "Österbotten",
+          "en": "Ostrobothnia",
+          "es": "Ostrobotnia",
+          "fr": "Ostrobotnie",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Ostrobotnia",
+          "ja": "ポフヤンマー県",
+          "ko": "포흐얀마 지역",
+          "nl": "Österbotten",
+          "pl": "Pohjanmaa",
+          "pt": "Ostrobótnia",
+          "ru": "Остроботния",
+          "sv": "Österbotten",
+          "tr": "Ostrobothnia",
+          "vi": null,
+          "zh": "博滕區"
+        },
+        "population": 159529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.301499999999997,
+          63.3185
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-12",
+        "area": 0.008844999999999966,
+        "bounding_box": [
+          21.229,
+          63.288,
+          21.374,
+          63.349
+        ],
+        "point": [
+          21.301499999999997,
+          63.3185
+        ],
+        "labels": {
+          "alt": "Pohjanmaa|Österbotten",
+          "local": null,
+          "len": 12,
+          "ar": "بوهيانما",
+          "bn": null,
+          "de": "Österbotten",
+          "en": "Ostrobothnia",
+          "es": "Ostrobotnia",
+          "fr": "Ostrobotnie",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Ostrobotnia",
+          "ja": "ポフヤンマー県",
+          "ko": "포흐얀마 지역",
+          "nl": "Österbotten",
+          "pl": "Pohjanmaa",
+          "pt": "Ostrobótnia",
+          "ru": "Остроботния",
+          "sv": "Österbotten",
+          "tr": "Ostrobothnia",
+          "vi": null,
+          "zh": "博滕區"
+        },
+        "population": 159529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.744500000000002,
+          63.7505
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-12",
+        "area": 0.007493000000000519,
+        "bounding_box": [
+          22.681,
+          63.721,
+          22.808,
+          63.78
+        ],
+        "point": [
+          22.744500000000002,
+          63.7505
+        ],
+        "labels": {
+          "alt": "Pohjanmaa|Österbotten",
+          "local": null,
+          "len": 12,
+          "ar": "بوهيانما",
+          "bn": null,
+          "de": "Österbotten",
+          "en": "Ostrobothnia",
+          "es": "Ostrobotnia",
+          "fr": "Ostrobotnie",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Ostrobotnia",
+          "ja": "ポフヤンマー県",
+          "ko": "포흐얀마 지역",
+          "nl": "Österbotten",
+          "pl": "Pohjanmaa",
+          "pt": "Ostrobótnia",
+          "ru": "Остроботния",
+          "sv": "Österbotten",
+          "tr": "Ostrobothnia",
+          "vi": null,
+          "zh": "博滕區"
+        },
+        "population": 159529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.009999999999998,
+          63.6435
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-07",
+        "area": 2.137862000000014,
+        "bounding_box": [
+          22.991,
+          63.119,
+          25.029,
+          64.168
+        ],
+        "point": [
+          24.009999999999998,
+          63.6435
+        ],
+        "labels": {
+          "alt": "Keski-Pohjanmaa|Mellersta Österbotten",
+          "local": null,
+          "len": 20,
+          "ar": "بوهيانما الوسطى",
+          "bn": "সেন্ট্রাল অস্ট্রোবোথনিয়া",
+          "de": "Mittelösterbotten",
+          "en": "Central Ostrobothnia",
+          "es": "Ostrobotnia Central",
+          "fr": "Ostrobotnie-Centrale",
+          "el": "Κεντρική Οστρομποθνία",
+          "hi": "मध्य ओस्ट्रोबोथनिया",
+          "hu": null,
+          "id": "Kotamadya Central",
+          "it": "Ostrobotnia centrale",
+          "ja": "中部ポフヤンマー県",
+          "ko": "중부 포흐얀마 지역",
+          "nl": "Keski-Pohjanmaa",
+          "pl": "Keski-Pohjanmaa",
+          "pt": "Ostrobótnia Central",
+          "ru": "Центральная Остроботния",
+          "sv": "Mellersta Österbotten",
+          "tr": "Orta Ostrobothnia",
+          "vi": "Miền Trung Ostrobothnia",
+          "zh": "中博滕區"
+        },
+        "population": 65543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.572499999999998,
+          63.147999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-15",
+        "area": 5.340090000000009,
+        "bounding_box": [
+          26.064,
+          62.263,
+          29.081,
+          64.033
+        ],
+        "point": [
+          27.572499999999998,
+          63.147999999999996
+        ],
+        "labels": {
+          "alt": "Pohjois-Savo|Norra Savolax",
+          "local": null,
+          "len": 16,
+          "ar": "سافو الشمالية",
+          "bn": "নর্দান স্যাভোনিয়া",
+          "de": "Nordsavo",
+          "en": "Northern Savonia",
+          "es": "Savonia del Norte",
+          "fr": "Savonie du Nord",
+          "el": "Βόρεια Σαβονία",
+          "hi": "उत्तरी सवोनिया",
+          "hu": "Észak-Savo",
+          "id": "Savonia Utara",
+          "it": "Savo settentrionale",
+          "ja": "北サヴォ県",
+          "ko": "북사보 지역",
+          "nl": "Pohjois-Savo",
+          "pl": "Pohjois-Savo",
+          "pt": "Savônia do Norte",
+          "ru": "Северное Саво",
+          "sv": "Norra Savolax",
+          "tr": "Kuzey Savonya",
+          "vi": "Phía Bắc Savonia",
+          "zh": "北薩沃尼亞區"
+        },
+        "population": 248634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9695,
+          61.9025
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-04",
+        "area": 5.176948999999989,
+        "bounding_box": [
+          26.245,
+          61.152,
+          29.694,
+          62.653
+        ],
+        "point": [
+          27.9695,
+          61.9025
+        ],
+        "labels": {
+          "alt": "Etelä-Savo|Södra Savolax",
+          "local": null,
+          "len": 16,
+          "ar": "سافو الجنوبية",
+          "bn": "দক্ষিণ সভোনিয়া",
+          "de": "Südsavo",
+          "en": "Southern Savonia",
+          "es": "Savonia del Sur",
+          "fr": "Savonie du Sud",
+          "el": "Βόρεια Σαβονία",
+          "hi": "दक्षिणी सवोनिया",
+          "hu": null,
+          "id": "Savonia Selatan",
+          "it": "Savo meridionale",
+          "ja": "南サヴォ県",
+          "ko": "남사보 지역",
+          "nl": "Etelä-Savo",
+          "pl": "Etelä-Savo",
+          "pt": "Savônia do Sul",
+          "ru": "Южное Саво",
+          "sv": "Södra Savolax",
+          "tr": "Güney Savonya",
+          "vi": "Phía Nam Savonia",
+          "zh": "南萨沃尼亚区"
+        },
+        "population": 145935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.366,
+          62.5285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-08",
+        "area": 5.77433999999999,
+        "bounding_box": [
+          24.02,
+          61.456,
+          26.712,
+          63.601
+        ],
+        "point": [
+          25.366,
+          62.5285
+        ],
+        "labels": {
+          "alt": "Keski-Suomi|Mellersta Finland",
+          "local": null,
+          "len": 15,
+          "ar": "فنلندا الوسطى",
+          "bn": "সেন্ট্রাল ফিনল্যান্ড",
+          "de": "Mittelfinnland",
+          "en": "Central Finland",
+          "es": "Finlandia Central",
+          "fr": "Finlande-Centrale",
+          "el": "Κεντρική Φινλανδία",
+          "hi": "सेंट्रल फिनलैंड",
+          "hu": null,
+          "id": "Finlandia Tengah",
+          "it": "Finlandia centrale",
+          "ja": "中央スオミ県",
+          "ko": "중앙수오미 지역",
+          "nl": "Keski-Suomi",
+          "pl": "Finlandia Środkowa",
+          "pt": "Finlândia Central",
+          "ru": "Центральная Финляндия",
+          "sv": "Mellersta Finland",
+          "tr": "Orta Finlandiya",
+          "vi": "Miền Trung Phần Lan",
+          "zh": "中芬蘭區"
+        },
+        "population": 279383
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0515,
+          62.7365
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-03",
+        "area": 4.567617000000003,
+        "bounding_box": [
+          21.532,
+          61.985,
+          24.571,
+          63.488
+        ],
+        "point": [
+          23.0515,
+          62.7365
+        ],
+        "labels": {
+          "alt": "Etelä-Pohjanmaa|Södra Österbotten",
+          "local": null,
+          "len": 21,
+          "ar": "بوهيانما الجنوبية",
+          "bn": "দক্ষিণ ওস্ট্রোবোথনিয়া",
+          "de": "Südösterbotten",
+          "en": "Southern Ostrobothnia",
+          "es": "Ostrobotnia del Sur",
+          "fr": "Ostrobotnie du Sud",
+          "el": "Σάουθερν Οστρομπόρθνια",
+          "hi": "दक्षिणी ऑस्ट्रोबोथनिया",
+          "hu": null,
+          "id": "Ostrobothnia Selatan",
+          "it": "Ostrobotnia meridionale",
+          "ja": "南ポフヤンマー県",
+          "ko": "남포흐얀마 지역",
+          "nl": "Etelä-Pohjanmaa",
+          "pl": "Etelä-Pohjanmaa",
+          "pt": "Ostrobótnia do Sul",
+          "ru": "Южная Остроботния",
+          "sv": "Södra Österbotten",
+          "tr": "Güney Ostrobothnia",
+          "vi": "Phía Nam Ostrobothnia",
+          "zh": "南博滕區"
+        },
+        "population": 197233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.772,
+          61.7195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-11",
+        "area": 3.668443999999993,
+        "bounding_box": [
+          22.55,
+          60.969,
+          24.994,
+          62.47
+        ],
+        "point": [
+          23.772,
+          61.7195
+        ],
+        "labels": {
+          "alt": "Pirkanmaa|Birkaland",
+          "local": null,
+          "len": 9,
+          "ar": "بيركنما",
+          "bn": "সামুতে সোমখন্দ",
+          "de": "Pirkanmaa",
+          "en": "Pirkanmaa",
+          "es": "Pirkanmaa",
+          "fr": "Pirkanmaa",
+          "el": "Πιρκάνμαα",
+          "hi": "परकनमा",
+          "hu": "Pirkanmaa",
+          "id": "Pirkanmaa",
+          "it": "Pirkanmaa",
+          "ja": "ピルカンマー県",
+          "ko": "피르칸마 지역",
+          "nl": "Pirkanmaa",
+          "pl": "Pirkanmaa",
+          "pt": "Pirkanmaa",
+          "ru": "Пирканмаа",
+          "sv": "Birkaland",
+          "tr": "Pirkanmaa",
+          "vi": "Pirkanmaa",
+          "zh": "皮爾卡區"
+        },
+        "population": 531732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2145,
+          60.9405
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-06",
+        "area": 1.636635000000011,
+        "bounding_box": [
+          23.142,
+          60.559,
+          25.287,
+          61.322
+        ],
+        "point": [
+          24.2145,
+          60.9405
+        ],
+        "labels": {
+          "alt": "Kanta-Häme|Egentliga Tavastland",
+          "local": null,
+          "len": 15,
+          "ar": "كانتا هامي",
+          "bn": "তাস্তিয়া  প্রপার",
+          "de": "Kanta-Häme",
+          "en": "Tavastia Proper",
+          "es": "Tavastia Propia",
+          "fr": "Kanta-Häme",
+          "el": "Ταβάστια Πρόπερ",
+          "hi": "तवास्टिया प्रॉपर",
+          "hu": null,
+          "id": "Tavastia Proper",
+          "it": "Kanta-Häme",
+          "ja": "カンタ＝ハメ県",
+          "ko": "칸타헤메 지역",
+          "nl": "Kanta-Häme",
+          "pl": "Kanta-Häme",
+          "pt": "Tavastia Própria",
+          "ru": "Канта-Хяме",
+          "sv": "Egentliga Tavastland",
+          "tr": "Tavastia Proper",
+          "vi": "Tavastia Proper",
+          "zh": "坎塔海梅區"
+        },
+        "population": 180026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7095,
+          61.243
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fi",
+        "region_child": "fi-16",
+        "area": 1.7882099999999999,
+        "bounding_box": [
+          24.904,
+          60.688,
+          26.515,
+          61.798
+        ],
+        "point": [
+          25.7095,
+          61.243
+        ],
+        "labels": {
+          "alt": "Päijänne Tavastland",
+          "local": null,
+          "len": 11,
+          "ar": "بايات هامي",
+          "bn": "পাইজান তাভাস্তিয়া",
+          "de": "Päijät-Häme",
+          "en": "Päijänne Tavastia",
+          "es": "Päijänne Tavastia",
+          "fr": "Päijät-Häme",
+          "el": "Παϊτζάνε Ταβάστια",
+          "hi": "पेयेन तवास्तिया",
+          "hu": null,
+          "id": "Päijänne Tavastia",
+          "it": "Päijät-Häme",
+          "ja": "パイヤト＝ハメ県",
+          "ko": "페이예트헤메 지역",
+          "nl": "Päijät-Häme",
+          "pl": "Päijät-Häme",
+          "pt": "Päijänne Tavastia",
+          "ru": "Пяйят-Хяме",
+          "sv": "Päijänne-Tavastland",
+          "tr": "Päijänne Tavastia",
+          "vi": "Päijänne Tavastia",
+          "zh": "派亞特海梅區"
+        },
+        "population": 203478
+      }
+    }
+  ]
+}

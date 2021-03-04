@@ -1,0 +1,1276 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9565,
+          38.9335
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06204",
+        "area": 0.12409100000000421,
+        "bounding_box": [
+          139.762,
+          38.774,
+          140.151,
+          39.093
+        ],
+        "point": [
+          139.9565,
+          38.9335
+        ],
+        "labels": {
+          "ja": "酒田市",
+          "en": "sakata-shi"
+        },
+        "population": 101958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.552,
+          39.195
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06204",
+        "area": 0.0007280000000004436,
+        "bounding_box": [
+          139.539,
+          39.181,
+          139.565,
+          39.209
+        ],
+        "point": [
+          139.552,
+          39.195
+        ],
+        "labels": {
+          "ja": "酒田市",
+          "en": "sakata-shi"
+        },
+        "population": 101958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.33550000000002,
+          38.516999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06208",
+        "area": 0.03112400000000118,
+        "bounding_box": [
+          140.21,
+          38.455,
+          140.461,
+          38.579
+        ],
+        "point": [
+          140.33550000000002,
+          38.516999999999996
+        ],
+        "labels": {
+          "ja": "村山市",
+          "en": "murayama-shi"
+        },
+        "population": 24764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9805,
+          38.7065
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06428",
+        "area": 0.09389100000000168,
+        "bounding_box": [
+          139.849,
+          38.528,
+          140.112,
+          38.885
+        ],
+        "point": [
+          139.9805,
+          38.7065
+        ],
+        "labels": {
+          "ja": "庄内町",
+          "en": "shonai-machi"
+        },
+        "population": 21301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.315,
+          38.13849999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06207",
+        "area": 0.04480199999999991,
+        "bounding_box": [
+          140.184,
+          38.053,
+          140.446,
+          38.224
+        ],
+        "point": [
+          140.315,
+          38.13849999999999
+        ],
+        "labels": {
+          "ja": "上山市",
+          "en": "kaminoyama-shi"
+        },
+        "population": 31696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.51799999999997,
+          38.766999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06362",
+        "area": 0.06809599999999962,
+        "bounding_box": [
+          140.39,
+          38.634,
+          140.646,
+          38.9
+        ],
+        "point": [
+          140.51799999999997,
+          38.766999999999996
+        ],
+        "labels": {
+          "ja": "最上町",
+          "en": "mogami-machi"
+        },
+        "population": 9147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.88400000000001,
+          37.9555
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06403",
+        "area": 0.09211199999999979,
+        "bounding_box": [
+          139.732,
+          37.804,
+          140.036,
+          38.107
+        ],
+        "point": [
+          139.88400000000001,
+          37.9555
+        ],
+        "labels": {
+          "ja": "飯豊町",
+          "en": "iide-machi"
+        },
+        "population": 7477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.20049999999998,
+          37.989000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06381",
+        "area": 0.03329400000000037,
+        "bounding_box": [
+          140.111,
+          37.896,
+          140.29,
+          38.082
+        ],
+        "point": [
+          140.20049999999998,
+          37.989000000000004
+        ],
+        "labels": {
+          "ja": "高畠町",
+          "en": "takahata-machi"
+        },
+        "population": 23392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.154,
+          38.120999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06213",
+        "area": 0.034272000000001406,
+        "bounding_box": [
+          140.07,
+          38.019,
+          140.238,
+          38.223
+        ],
+        "point": [
+          140.154,
+          38.120999999999995
+        ],
+        "labels": {
+          "ja": "南陽市",
+          "en": "nanyo-shi"
+        },
+        "population": 30735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.411,
+          38.3575
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06210",
+        "area": 0.01975999999999961,
+        "bounding_box": [
+          140.307,
+          38.31,
+          140.515,
+          38.405
+        ],
+        "point": [
+          140.411,
+          38.3575
+        ],
+        "labels": {
+          "ja": "天童市",
+          "en": "tendo-shi"
+        },
+        "population": 58244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11700000000002,
+          37.861000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06202",
+        "area": 0.09245600000000029,
+        "bounding_box": [
+          139.935,
+          37.734,
+          140.299,
+          37.988
+        ],
+        "point": [
+          140.11700000000002,
+          37.861000000000004
+        ],
+        "labels": {
+          "ja": "米沢市",
+          "en": "yonezawa-shi"
+        },
+        "population": 82434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.07600000000002,
+          38.199
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06402",
+        "area": 0.027439999999999826,
+        "bounding_box": [
+          139.978,
+          38.129,
+          140.174,
+          38.269
+        ],
+        "point": [
+          140.07600000000002,
+          38.199
+        ],
+        "labels": {
+          "ja": "白鷹町",
+          "en": "shirataka-machi"
+        },
+        "population": 14356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.34550000000002,
+          38.66
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06363",
+        "area": 0.04139999999999999,
+        "bounding_box": [
+          140.233,
+          38.568,
+          140.458,
+          38.752
+        ],
+        "point": [
+          140.34550000000002,
+          38.66
+        ],
+        "labels": {
+          "ja": "舟形町",
+          "en": "funagata-machi"
+        },
+        "population": 5668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0575,
+          38.2715
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06323",
+        "area": 0.051789000000002784,
+        "bounding_box": [
+          139.916,
+          38.18,
+          140.199,
+          38.363
+        ],
+        "point": [
+          140.0575,
+          38.2715
+        ],
+        "labels": {
+          "ja": "朝日町",
+          "en": "asahi-machi"
+        },
+        "population": 7156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.282,
+          38.9465
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06364",
+        "area": 0.07808799999999999,
+        "bounding_box": [
+          140.11,
+          38.833,
+          140.454,
+          39.06
+        ],
+        "point": [
+          140.282,
+          38.9465
+        ],
+        "labels": {
+          "ja": "真室川町",
+          "en": "mamurogawa-machi"
+        },
+        "population": 8367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.029,
+          37.9705
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06382",
+        "area": 0.04087400000000027,
+        "bounding_box": [
+          139.922,
+          37.875,
+          140.136,
+          38.066
+        ],
+        "point": [
+          140.029,
+          37.9705
+        ],
+        "labels": {
+          "ja": "川西町",
+          "en": "kawanishi-machi"
+        },
+        "population": 15859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9935,
+          38.1435
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06209",
+        "area": 0.0477650000000021,
+        "bounding_box": [
+          139.877,
+          38.041,
+          140.11,
+          38.246
+        ],
+        "point": [
+          139.9935,
+          38.1435
+        ],
+        "labels": {
+          "ja": "長井市",
+          "en": "nagai-shi"
+        },
+        "population": 27079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.255,
+          38.333
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06302",
+        "area": 0.00530400000000016,
+        "bounding_box": [
+          140.204,
+          38.307,
+          140.306,
+          38.359
+        ],
+        "point": [
+          140.255,
+          38.333
+        ],
+        "labels": {
+          "ja": "中山町",
+          "en": "nakayama-machi"
+        },
+        "population": 10555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04000000000002,
+          38.403999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06322",
+        "area": 0.09306000000000471,
+        "bounding_box": [
+          139.875,
+          38.263,
+          140.205,
+          38.545
+        ],
+        "point": [
+          140.04000000000002,
+          38.403999999999996
+        ],
+        "labels": {
+          "ja": "西川町",
+          "en": "nishikawa-machi"
+        },
+        "population": 5965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.46,
+          38.4185
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06211",
+        "area": 0.03452400000000142,
+        "bounding_box": [
+          140.334,
+          38.35,
+          140.586,
+          38.487
+        ],
+        "point": [
+          140.46,
+          38.4185
+        ],
+        "labels": {
+          "ja": "東根市",
+          "en": "higashine-shi"
+        },
+        "population": 41939
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.95350000000002,
+          39.054500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06461",
+        "area": 0.03563900000000142,
+        "bounding_box": [
+          139.84,
+          38.976,
+          140.067,
+          39.133
+        ],
+        "point": [
+          139.95350000000002,
+          39.054500000000004
+        ],
+        "labels": {
+          "ja": "遊佐町",
+          "en": "yuza-machi"
+        },
+        "population": 14008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.235,
+          38.4375
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06206",
+        "area": 0.032469999999998035,
+        "bounding_box": [
+          140.15,
+          38.342,
+          140.32,
+          38.533
+        ],
+        "point": [
+          140.235,
+          38.4375
+        ],
+        "labels": {
+          "ja": "寒河江市",
+          "en": "sagae-shi"
+        },
+        "population": 38895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.149,
+          38.6085
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06365",
+        "area": 0.0522120000000018,
+        "bounding_box": [
+          140.035,
+          38.494,
+          140.263,
+          38.723
+        ],
+        "point": [
+          140.149,
+          38.6085
+        ],
+        "labels": {
+          "ja": "大蔵村",
+          "en": "okura-mura"
+        },
+        "population": 3443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0855,
+          38.338499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06324",
+        "area": 0.039059000000001634,
+        "bounding_box": [
+          139.945,
+          38.269,
+          140.226,
+          38.408
+        ],
+        "point": [
+          140.0855,
+          38.338499999999996
+        ],
+        "labels": {
+          "ja": "大江町",
+          "en": "oe-machi"
+        },
+        "population": 8516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2405,
+          38.379000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06324",
+        "area": 5.600000000005872e-05,
+        "bounding_box": [
+          140.237,
+          38.375,
+          140.244,
+          38.383
+        ],
+        "point": [
+          140.2405,
+          38.379000000000005
+        ],
+        "labels": {
+          "ja": "大江町",
+          "en": "oe-machi"
+        },
+        "population": 8516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3865,
+          38.903999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06361",
+        "area": 0.025319999999997577,
+        "bounding_box": [
+          140.281,
+          38.844,
+          140.492,
+          38.964
+        ],
+        "point": [
+          140.3865,
+          38.903999999999996
+        ],
+        "labels": {
+          "ja": "金山町",
+          "en": "kaneyama-machi"
+        },
+        "population": 5927
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.35500000000002,
+          38.2475
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06201",
+        "area": 0.07286400000000107,
+        "bounding_box": [
+          140.179,
+          38.144,
+          140.531,
+          38.351
+        ],
+        "point": [
+          140.35500000000002,
+          38.2475
+        ],
+        "labels": {
+          "ja": "山形市",
+          "en": "yamagata-shi"
+        },
+        "population": 234549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3435,
+          38.8
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06205",
+        "area": 0.06200599999999626,
+        "bounding_box": [
+          140.193,
+          38.697,
+          140.494,
+          38.903
+        ],
+        "point": [
+          140.3435,
+          38.8
+        ],
+        "labels": {
+          "ja": "新庄市",
+          "en": "shinjo-shi"
+        },
+        "population": 35957
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.22050000000002,
+          38.275999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06301",
+        "area": 0.01431000000000227,
+        "bounding_box": [
+          140.153,
+          38.223,
+          140.288,
+          38.329
+        ],
+        "point": [
+          140.22050000000002,
+          38.275999999999996
+        ],
+        "labels": {
+          "ja": "山辺町",
+          "en": "yamanobe-machi"
+        },
+        "population": 13567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3005,
+          38.428
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06321",
+        "area": 0.008370000000001253,
+        "bounding_box": [
+          140.254,
+          38.383,
+          140.347,
+          38.473
+        ],
+        "point": [
+          140.3005,
+          38.428
+        ],
+        "labels": {
+          "ja": "河北町",
+          "en": "kahoku-cho"
+        },
+        "population": 18997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1225,
+          38.716499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06367",
+        "area": 0.038335000000003436,
+        "bounding_box": [
+          140.029,
+          38.614,
+          140.216,
+          38.819
+        ],
+        "point": [
+          140.1225,
+          38.716499999999996
+        ],
+        "labels": {
+          "ja": "戸沢村",
+          "en": "tozawa-mura"
+        },
+        "population": 4876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8495,
+          38.795
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06426",
+        "area": 0.0072680000000006125,
+        "bounding_box": [
+          139.81,
+          38.749,
+          139.889,
+          38.841
+        ],
+        "point": [
+          139.8495,
+          38.795
+        ],
+        "labels": {
+          "ja": "三川町",
+          "en": "mikawa-machi"
+        },
+        "population": 7232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7865,
+          38.572
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06203",
+        "area": 0.24836999999999637,
+        "bounding_box": [
+          139.543,
+          38.317,
+          140.03,
+          38.827
+        ],
+        "point": [
+          139.7865,
+          38.572
+        ],
+        "labels": {
+          "ja": "鶴岡市",
+          "en": "tsuruoka-shi"
+        },
+        "population": 124867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.683,
+          38.7245
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06203",
+        "area": 6.000000000028876e-06,
+        "bounding_box": [
+          139.682,
+          38.723,
+          139.684,
+          38.726
+        ],
+        "point": [
+          139.683,
+          38.7245
+        ],
+        "labels": {
+          "ja": "鶴岡市",
+          "en": "tsuruoka-shi"
+        },
+        "population": 124867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53949999999998,
+          38.558
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06203",
+        "area": 0.0,
+        "bounding_box": [
+          139.539,
+          38.558,
+          139.54,
+          38.558
+        ],
+        "point": [
+          139.53949999999998,
+          38.558
+        ],
+        "labels": {
+          "ja": "鶴岡市",
+          "en": "tsuruoka-shi"
+        },
+        "population": 124867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.547,
+          38.567499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06203",
+        "area": 0.0,
+        "bounding_box": [
+          139.547,
+          38.567,
+          139.547,
+          38.568
+        ],
+        "point": [
+          139.547,
+          38.567499999999995
+        ],
+        "labels": {
+          "ja": "鶴岡市",
+          "en": "tsuruoka-shi"
+        },
+        "population": 124867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5805,
+          38.618
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06203",
+        "area": 0.0,
+        "bounding_box": [
+          139.58,
+          38.618,
+          139.581,
+          38.618
+        ],
+        "point": [
+          139.5805,
+          38.618
+        ],
+        "labels": {
+          "ja": "鶴岡市",
+          "en": "tsuruoka-shi"
+        },
+        "population": 124867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.201,
+          38.819500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06366",
+        "area": 0.024634000000000298,
+        "bounding_box": [
+          140.088,
+          38.765,
+          140.314,
+          38.874
+        ],
+        "point": [
+          140.201,
+          38.819500000000005
+        ],
+        "labels": {
+          "ja": "鮭川村",
+          "en": "sakegawa-mura"
+        },
+        "population": 4635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.774,
+          38.0535
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06401",
+        "area": 0.1326100000000009,
+        "bounding_box": [
+          139.625,
+          37.831,
+          139.923,
+          38.276
+        ],
+        "point": [
+          139.774,
+          38.0535
+        ],
+        "labels": {
+          "ja": "小国町",
+          "en": "oguni-machi"
+        },
+        "population": 8209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.329,
+          38.596999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06341",
+        "area": 0.015687999999999834,
+        "bounding_box": [
+          140.255,
+          38.544,
+          140.403,
+          38.65
+        ],
+        "point": [
+          140.329,
+          38.596999999999994
+        ],
+        "labels": {
+          "ja": "大石田町",
+          "en": "oishida-machi"
+        },
+        "population": 7647
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4665,
+          38.57899999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-06",
+        "region_child": "06212",
+        "area": 0.08718800000000432,
+        "bounding_box": [
+          140.313,
+          38.437,
+          140.62,
+          38.721
+        ],
+        "point": [
+          140.4665,
+          38.57899999999999
+        ],
+        "labels": {
+          "ja": "尾花沢市",
+          "en": "obanazawa-shi"
+        },
+        "population": 17645
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.786,
+          13.443999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-gu",
+        "region_child": "010",
+        "area": 0.23370399999999855,
+        "bounding_box": [
+          144.563,
+          13.182,
+          145.009,
+          13.706
+        ],
+        "point": [
+          144.786,
+          13.443999999999999
+        ],
+        "labels": {
+          "en": "Guam"
+        },
+        "population": 165479
+      }
+    }
+  ]
+}

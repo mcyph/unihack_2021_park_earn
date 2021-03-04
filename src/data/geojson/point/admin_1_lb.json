@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.567,
+          33.2785
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lb",
+        "region_child": "lb-na",
+        "area": 0.24630799999999764,
+        "bounding_box": [
+          35.289,
+          33.057,
+          35.845,
+          33.5
+        ],
+        "point": [
+          35.567,
+          33.2785
+        ],
+        "labels": {
+          "alt": "Nabatîyé",
+          "local": null,
+          "len": 12,
+          "ar": "النبطية",
+          "bn": "নাবাতিয়েহ গভর্নোরেট",
+          "de": "Nabatäa",
+          "en": "Nabatieh Governorate",
+          "es": "Gobernación de Nabatiye",
+          "fr": "Gouvernorat de Nabatieh",
+          "el": "Ναμπατιέχ",
+          "hi": "नबतीये प्रान्त",
+          "hu": "Nabatijja kormányzóság",
+          "id": "Kegubernuran Nabatiye",
+          "it": "governatorato di Nabatiye",
+          "ja": "ナバティーエ県",
+          "ko": "나바티예 주",
+          "nl": "Nabatiye",
+          "pl": "Gubernatorstwo An-Nabatija",
+          "pt": "Nabatiye",
+          "ru": "Набатия",
+          "sv": "Guvernementet Nabatiye",
+          "tr": "Nebatiye ili",
+          "vi": "Nabatieh",
+          "zh": "納巴泰省"
+        },
+        "population": 756628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.37,
+          33.345
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lb",
+        "region_child": "lb-ja",
+        "area": 0.2766599999999998,
+        "bounding_box": [
+          35.105,
+          33.084,
+          35.635,
+          33.606
+        ],
+        "point": [
+          35.37,
+          33.345
+        ],
+        "labels": {
+          "alt": "Al Janub|Liban-Sud|Sayda",
+          "local": null,
+          "len": 13,
+          "ar": "محافظة الجنوب",
+          "bn": null,
+          "de": "Gouvernement Süd-Libanon",
+          "en": "South Governorate",
+          "es": "Líbano-Sur",
+          "fr": "Gouvernorat du Sud",
+          "el": null,
+          "hi": "दक्षिण प्रान्त",
+          "hu": "Dél kormányzóság",
+          "id": "Kegubernuran Selatan",
+          "it": "governatorato del Sud Libano",
+          "ja": "南レバノン県",
+          "ko": "남부 주",
+          "nl": "Zuid",
+          "pl": "Dystrykt Południowy",
+          "pt": "Líbano Meridional",
+          "ru": "Южный Ливан",
+          "sv": "Mohafazat Liban-Sud",
+          "tr": "Cenub ili",
+          "vi": "Tỉnh Nam",
+          "zh": "南部省"
+        },
+        "population": 1204154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.108999999999995,
+          33.959
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lb",
+        "region_child": "lb-bi",
+        "area": 1.0692000000000075,
+        "bounding_box": [
+          35.614,
+          33.419,
+          36.604,
+          34.499
+        ],
+        "point": [
+          36.108999999999995,
+          33.959
+        ],
+        "labels": {
+          "alt": "Bekaa|El Begaa|Béqaa|La Bekaa",
+          "local": null,
+          "len": 5,
+          "ar": "البقاع",
+          "bn": null,
+          "de": "Bekaa",
+          "en": "Beqaa Governorate",
+          "es": "Gobernación de Becá",
+          "fr": "Gouvernorat de la Bekaa",
+          "el": null,
+          "hi": "बेक़आ प्रान्त",
+          "hu": "Bekaa kormányzóság",
+          "id": "Kegubernuran Beqaa",
+          "it": "governatorato della Beqa'",
+          "ja": "ベッカー県",
+          "ko": "베카 주",
+          "nl": "Beka",
+          "pl": "Bekaa",
+          "pt": "Beqaa",
+          "ru": "Бекаа",
+          "sv": "Guvernementet Bekaa",
+          "tr": "Bekaa ili",
+          "vi": "Beqaa",
+          "zh": "貝卡省"
+        },
+        "population": 1065588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.017,
+          34.4155
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lb",
+        "region_child": "lb-as",
+        "area": 0.39208800000000066,
+        "bounding_box": [
+          35.645,
+          34.152,
+          36.389,
+          34.679
+        ],
+        "point": [
+          36.017,
+          34.4155
+        ],
+        "labels": {
+          "alt": "Ash Shamal|Liban-Nord",
+          "local": null,
+          "len": 13,
+          "ar": "الشمال",
+          "bn": "উত্তর গভর্নোরেট",
+          "de": "Gouvernement Nord-Libanon",
+          "en": "North Governorate",
+          "es": "Líbano-Norte",
+          "fr": "Gouvernorat du Nord",
+          "el": "Νορθ Γκοβερνοράτε",
+          "hi": "उत्तर प्रान्त",
+          "hu": "Észak kormányzóság",
+          "id": "Kegubernuran Utara",
+          "it": "governatorato del Nord Libano",
+          "ja": "北レバノン県",
+          "ko": "북부 주",
+          "nl": "Noord",
+          "pl": "Dystrykt Północny",
+          "pt": "Líbano Setentrional",
+          "ru": "Северный Ливан",
+          "sv": "Mohafazat Liban-Nord",
+          "tr": "Şimal İli",
+          "vi": "Tỉnh Bắc",
+          "zh": "北部省"
+        },
+        "population": 1371734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.694,
+          33.864000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lb",
+        "region_child": "lb-jl",
+        "area": 0.4488720000000037,
+        "bounding_box": [
+          35.377,
+          33.51,
+          36.011,
+          34.218
+        ],
+        "point": [
+          35.694,
+          33.864000000000004
+        ],
+        "labels": {
+          "alt": "Jabal Lubnan|Mont-Liban",
+          "local": null,
+          "len": 13,
+          "ar": "جبل لبنان",
+          "bn": "মাউন্ট লেবানন গভর্নোরেট",
+          "de": "Libanonberg",
+          "en": "Mount Lebanon Governorate",
+          "es": "Gobernación del Monte Líbano",
+          "fr": "Gouvernorat du Mont-Liban",
+          "el": "Μάουντ Λέμπανον",
+          "hi": "जबल लिबनान​ प्रान्त",
+          "hu": "Libanon-hegy kormányzóság",
+          "id": "Kegubernuran Gunung Lebanon",
+          "it": "governatorato del Monte Libano",
+          "ja": "山岳レバノン県",
+          "ko": "레바논 산 주",
+          "nl": "Libanongebergte",
+          "pl": "Gubernatorstwo Dżabal Lubnan",
+          "pt": "Monte Líbano",
+          "ru": "Горный Ливан",
+          "sv": "Libanonberget",
+          "tr": "Cebel-i Lübnan İli",
+          "vi": "Núi Liban",
+          "zh": "黎巴嫩山省"
+        },
+        "population": 4423541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.509,
+          33.8855
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lb",
+        "region_child": "lb-ba",
+        "area": 0.003197999999999873,
+        "bounding_box": [
+          35.47,
+          33.865,
+          35.548,
+          33.906
+        ],
+        "point": [
+          35.509,
+          33.8855
+        ],
+        "labels": {
+          "alt": "Bayrut|Beirute|Beyrouth",
+          "local": null,
+          "len": 6,
+          "ar": "بيروت",
+          "bn": "বৈরুত গভর্নোরেট",
+          "de": "Beirut",
+          "en": "Beirut Governorate",
+          "es": "Gobernación de Beirut",
+          "fr": "Gouvernorat de Beyrouth",
+          "el": "Μπεϊρούτ",
+          "hi": "बेयरूत प्रान्त",
+          "hu": null,
+          "id": "Kegubernuran Beirut",
+          "it": "governatorato di Beirut",
+          "ja": "ベイルート県",
+          "ko": "베이루트 주",
+          "nl": "Beiroet",
+          "pl": "Gubernatorstwo Bejrut",
+          "pt": "Beirute",
+          "ru": "Бейрут",
+          "sv": "Guvernementet Beirut",
+          "tr": "Beyrut ili",
+          "vi": "Beirut",
+          "zh": "贝鲁特省"
+        },
+        "population": 1082139
+      }
+    }
+  ]
+}

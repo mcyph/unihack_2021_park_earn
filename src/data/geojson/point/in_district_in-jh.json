@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.7065,
+          25.032
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "sahibganj",
+        "area": 0.32143799999999434,
+        "bounding_box": [
+          87.453,
+          24.715,
+          87.96,
+          25.349
+        ],
+        "point": [
+          87.7065,
+          25.032
+        ],
+        "labels": {
+          "en": "Sahibganj"
+        },
+        "population": 1860851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2865,
+          24.865000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "godda",
+        "area": 0.3386179999999947,
+        "bounding_box": [
+          87.052,
+          24.504,
+          87.521,
+          25.226
+        ],
+        "point": [
+          87.2865,
+          24.865000000000002
+        ],
+        "labels": {
+          "en": "Godda"
+        },
+        "population": 1538264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.654,
+          24.5325
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "pakur",
+        "area": 0.31086599999999837,
+        "bounding_box": [
+          87.391,
+          24.237,
+          87.917,
+          24.828
+        ],
+        "point": [
+          87.654,
+          24.5325
+        ],
+        "labels": {
+          "en": "Pakur"
+        },
+        "population": 1074204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.1225,
+          24.332
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "giridih",
+        "area": 0.803711999999993,
+        "bounding_box": [
+          85.674,
+          23.884,
+          86.571,
+          24.78
+        ],
+        "point": [
+          86.1225,
+          24.332
+        ],
+        "labels": {
+          "en": "Giridih"
+        },
+        "population": 3023118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.293,
+          24.317
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "dumka",
+        "area": 0.5426999999999934,
+        "bounding_box": [
+          86.888,
+          23.982,
+          87.698,
+          24.652
+        ],
+        "point": [
+          87.293,
+          24.317
+        ],
+        "labels": {
+          "en": "Dumka"
+        },
+        "population": 1526364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.75999999999999,
+          24.33
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "deoghar",
+        "area": 0.35366399999999243,
+        "bounding_box": [
+          86.453,
+          24.042,
+          87.067,
+          24.618
+        ],
+        "point": [
+          86.75999999999999,
+          24.33
+        ],
+        "labels": {
+          "en": "Deoghar"
+        },
+        "population": 1872762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.2005,
+          24.218
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "palamu",
+        "area": 0.660450000000002,
+        "bounding_box": [
+          83.812,
+          23.793,
+          84.589,
+          24.643
+        ],
+        "point": [
+          84.2005,
+          24.218
+        ],
+        "labels": {
+          "en": "Palamu"
+        },
+        "population": 2281819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.91399999999999,
+          24.106
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "chatra",
+        "area": 0.7903360000000041,
+        "bounding_box": [
+          84.448,
+          23.682,
+          85.38,
+          24.53
+        ],
+        "point": [
+          84.91399999999999,
+          24.106
+        ],
+        "labels": {
+          "en": "Chatra"
+        },
+        "population": 1304078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6985,
+          24.052999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "garhwa",
+        "area": 0.7134159999999949,
+        "bounding_box": [
+          83.33,
+          23.569,
+          84.067,
+          24.537
+        ],
+        "point": [
+          83.6985,
+          24.052999999999997
+        ],
+        "labels": {
+          "en": "Garhwa"
+        },
+        "population": 1688503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8805,
+          23.981
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "jamtara",
+        "area": 0.3050720000000016,
+        "bounding_box": [
+          86.466,
+          23.797,
+          87.295,
+          24.165
+        ],
+        "point": [
+          86.8805,
+          23.981
+        ],
+        "labels": {
+          "en": "Jamtara"
+        },
+        "population": 920719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.469,
+          23.845
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "dhanbad",
+        "area": 0.3087400000000013,
+        "bounding_box": [
+          86.11,
+          23.63,
+          86.828,
+          24.06
+        ],
+        "point": [
+          86.469,
+          23.845
+        ],
+        "labels": {
+          "en": "Dhanbad"
+        },
+        "population": 3014779
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.46600000000001,
+          23.686999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "latehar",
+        "area": 0.729791999999997,
+        "bounding_box": [
+          83.962,
+          23.325,
+          84.97,
+          24.049
+        ],
+        "point": [
+          84.46600000000001,
+          23.686999999999998
+        ],
+        "labels": {
+          "en": "Latehar"
+        },
+        "population": 986745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0355,
+          23.6995
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "bokaro",
+        "area": 0.520375,
+        "bounding_box": [
+          85.583,
+          23.412,
+          86.488,
+          23.987
+        ],
+        "point": [
+          86.0355,
+          23.6995
+        ],
+        "labels": {
+          "en": "Bokaro"
+        },
+        "population": 2431583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.545,
+          23.6905
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "ramgarh",
+        "area": 0.36380000000000373,
+        "bounding_box": [
+          85.205,
+          23.423,
+          85.885,
+          23.958
+        ],
+        "point": [
+          85.545,
+          23.6905
+        ],
+        "labels": {
+          "en": "Ramgarh"
+        },
+        "population": 1068182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3845,
+          23.301000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "ranchi",
+        "area": 0.8627840000000022,
+        "bounding_box": [
+          84.866,
+          22.885,
+          85.903,
+          23.717
+        ],
+        "point": [
+          85.3845,
+          23.301000000000002
+        ],
+        "labels": {
+          "en": "Ranchi"
+        },
+        "population": 3530955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.666,
+          23.477
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "lohardaga",
+        "area": 0.2201759999999994,
+        "bounding_box": [
+          84.388,
+          23.279,
+          84.944,
+          23.675
+        ],
+        "point": [
+          84.666,
+          23.477
+        ],
+        "labels": {
+          "en": "Lohardaga"
+        },
+        "population": 573369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.525,
+          23.159
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "gumla",
+        "area": 0.8766000000000055,
+        "bounding_box": [
+          84.038,
+          22.709,
+          85.012,
+          23.609
+        ],
+        "point": [
+          84.525,
+          23.159
+        ],
+        "labels": {
+          "en": "Gumla"
+        },
+        "population": 1271775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.299,
+          22.9265
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "khunti",
+        "area": 0.5105040000000015,
+        "bounding_box": [
+          84.943,
+          22.568,
+          85.655,
+          23.285
+        ],
+        "point": [
+          85.299,
+          22.9265
+        ],
+        "labels": {
+          "en": "Khunti"
+        },
+        "population": 658758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8775,
+          22.825499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "saraikela-kharsawan",
+        "area": 0.49644900000000014,
+        "bounding_box": [
+          85.513,
+          22.485,
+          86.242,
+          23.166
+        ],
+        "point": [
+          85.8775,
+          22.825499999999998
+        ],
+        "labels": {
+          "en": "Saraikela-Kharsawan"
+        },
+        "population": 1165181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.47749999999999,
+          22.6135
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "east singhbhum",
+        "area": 0.6609050000000095,
+        "bounding_box": [
+          86.067,
+          22.211,
+          86.888,
+          23.016
+        ],
+        "point": [
+          86.47749999999999,
+          22.6135
+        ],
+        "labels": {
+          "en": "East Singhbhum"
+        },
+        "population": 2791328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.514,
+          22.429000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "west singhbhum",
+        "area": 0.9624799999999997,
+        "bounding_box": [
+          84.984,
+          21.975,
+          86.044,
+          22.883
+        ],
+        "point": [
+          85.514,
+          22.429000000000002
+        ],
+        "labels": {
+          "en": "West Singhbhum"
+        },
+        "population": 1751827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.544,
+          22.59
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "simdega",
+        "area": 0.5285799999999964,
+        "bounding_box": [
+          84.009,
+          22.343,
+          85.079,
+          22.837
+        ],
+        "point": [
+          84.544,
+          22.59
+        ],
+        "labels": {
+          "en": "Simdega"
+        },
+        "population": 677304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.61449999999999,
+          24.542
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "koderma",
+        "area": 0.3185500000000007,
+        "bounding_box": [
+          85.327,
+          24.265,
+          85.902,
+          24.819
+        ],
+        "point": [
+          85.61449999999999,
+          24.542
+        ],
+        "labels": {
+          "en": "Koderma"
+        },
+        "population": 888655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.47550000000001,
+          24.089
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jh",
+        "region_child": "hazaribagh",
+        "area": 0.7890120000000039,
+        "bounding_box": [
+          85.021,
+          23.655,
+          85.93,
+          24.523
+        ],
+        "point": [
+          85.47550000000001,
+          24.089
+        ],
+        "labels": {
+          "en": "Hazaribagh"
+        },
+        "population": 2138795
+      }
+    }
+  ]
+}

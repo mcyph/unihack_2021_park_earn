@@ -1,0 +1,1383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.343,
+          -17.579
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-tac",
+        "area": 2.5289879999999965,
+        "bounding_box": [
+          -71.176,
+          -18.338,
+          -69.51,
+          -16.82
+        ],
+        "point": [
+          -70.343,
+          -17.579
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إقليم تاكنا",
+          "bn": "তাকনা অঞ্চল",
+          "de": "Tacna",
+          "en": "Tacna Region",
+          "es": "Departamento de Tacna",
+          "fr": "Région de Tacna",
+          "el": "Τάκνα",
+          "hi": "टैक्ना क्षेत्र",
+          "hu": "Tacna megye",
+          "id": "Region Tacna",
+          "it": "regione di Tacna",
+          "ja": "タクナ県",
+          "ko": "타크나 주",
+          "nl": "Tacna",
+          "pl": "Region Tacna",
+          "pt": "Tacna",
+          "ru": "Такна",
+          "sv": "Tacna",
+          "tr": "Tacna Bölge",
+          "vi": "Khu vựcTacna",
+          "zh": "塔克纳大区"
+        },
+        "population": 391555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.53649999999999,
+          -11.6495
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-mdd",
+        "area": 12.514965000000027,
+        "bounding_box": [
+          -72.384,
+          -13.343,
+          -68.689,
+          -9.956
+        ],
+        "point": [
+          -70.53649999999999,
+          -11.6495
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "إقليم مادر دي ديوس",
+          "bn": "মাদ্রে দে দিওস অঞ্চল",
+          "de": "Madre de Dios",
+          "en": "Madre de Dios Region",
+          "es": "Departamento de Madre de Dios",
+          "fr": "Région de Madre de Dios",
+          "el": "Μάντρε ντε Ρίος",
+          "hi": "माद्रे डी डियोस क्षेत्र",
+          "hu": "Madre de Dios megye",
+          "id": "Region Madre de Dios",
+          "it": "regione di Madre de Dios",
+          "ja": "マードレ・デ・ディオス県",
+          "ko": "마드레데디오스 주",
+          "nl": "Madre de Dios",
+          "pl": "Region Madre de Dios",
+          "pt": "Madre de Deus",
+          "ru": "Мадре-де-Дьос",
+          "sv": "Madre de Dios",
+          "tr": "Madre de Dior Bölgesi",
+          "vi": "Khu vực Madre de Dios",
+          "zh": "马德雷德迪奥斯大区"
+        },
+        "population": 174246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8875,
+          -4.3385
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-lor",
+        "area": 67.56898499999998,
+        "bounding_box": [
+          -77.81,
+          -8.645,
+          -69.965,
+          -0.032
+        ],
+        "point": [
+          -73.8875,
+          -4.3385
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم لوريتو",
+          "bn": "লরেতো অঞ্চল",
+          "de": "Loreto",
+          "en": "Loreto Region",
+          "es": "Departamento de Loreto",
+          "fr": "région de Loreto",
+          "el": "Λορέτο",
+          "hi": "लोरेटो क्षेत्र",
+          "hu": "Loreto megye",
+          "id": "Region Loreto",
+          "it": "regione di Loreto",
+          "ja": "ロレート県",
+          "ko": "로레토 주",
+          "nl": "Loreto",
+          "pl": "Region Loreto",
+          "pt": "Loreto",
+          "ru": "Лорето",
+          "sv": "Loreto",
+          "tr": "Loreto Bölgesi",
+          "vi": "Khu vực Loreto",
+          "zh": "洛雷托大区"
+        },
+        "population": 1167017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.96950000000001,
+          -4.99
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-ama",
+        "area": 6.510013999999978,
+        "bounding_box": [
+          -78.774,
+          -7.013,
+          -77.165,
+          -2.967
+        ],
+        "point": [
+          -77.96950000000001,
+          -4.99
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إقليم أمازوناس",
+          "bn": "আমাজুনাস অঞ্চল",
+          "de": "Amazonas",
+          "en": "Amazonas Region",
+          "es": "Departamento de Amazonas",
+          "fr": "Amazonas",
+          "el": "Αμαζόνες",
+          "hi": "एमेज़ोनस क्षेत्र",
+          "hu": "Amazonas megye",
+          "id": "Region Amazonas",
+          "it": "regione di Amazonas",
+          "ja": "アマソナス県",
+          "ko": "아마소나스 주",
+          "nl": "Amazonas",
+          "pl": "Region Amazonas",
+          "pt": "Amazonas",
+          "ru": "Амасонас",
+          "sv": "Amazonas",
+          "tr": "Amazonas Bölgesi",
+          "vi": "Khu vực Amazonas",
+          "zh": "亚马孙大区"
+        },
+        "population": 462915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6175,
+          -6.1765
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-caj",
+        "area": 5.388818999999993,
+        "bounding_box": [
+          -79.464,
+          -7.768,
+          -77.771,
+          -4.585
+        ],
+        "point": [
+          -78.6175,
+          -6.1765
+        ],
+        "labels": {
+          "alt": "Caxamarca",
+          "local": null,
+          "len": 9,
+          "ar": "إقليم كاخاماركا",
+          "bn": "কাজামার্কা অঞ্চল",
+          "de": "Cajamarca",
+          "en": "Cajamarca Region",
+          "es": "Departamento de Cajamarca",
+          "fr": "Région de Cajamarca",
+          "el": "Κατζαμάρκα",
+          "hi": "कजमार्का क्षेत्र",
+          "hu": "Cajamarca megye",
+          "id": "Region Cajamarca",
+          "it": "regione di Cajamarca",
+          "ja": "カハマルカ県",
+          "ko": "카하마르카 주",
+          "nl": "Cajamarca",
+          "pl": "Region Cajamarca",
+          "pt": "Cajamarca",
+          "ru": "Кахамарка",
+          "sv": "Cajamarca",
+          "tr": "Cajamarca",
+          "vi": "Cajamarca",
+          "zh": "卡哈马卡大区"
+        },
+        "population": 1595344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6135,
+          -3.8015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-tum",
+        "area": 0.7328489999999931,
+        "bounding_box": [
+          -81.062,
+          -4.21,
+          -80.165,
+          -3.393
+        ],
+        "point": [
+          -80.6135,
+          -3.8015
+        ],
+        "labels": {
+          "alt": "Tumbez",
+          "local": null,
+          "len": 6,
+          "ar": "إقليم تومبيس",
+          "bn": "তুম্বেস বিভাগ",
+          "de": "Tumbes",
+          "en": "Tumbes region",
+          "es": "Departamento de Tumbes",
+          "fr": "Région de Tumbes",
+          "el": "Τάμπες",
+          "hi": "त्यूम्बेस विभाग",
+          "hu": "Tumbes megye",
+          "id": "Region Tumbes",
+          "it": "regione di Tumbes",
+          "ja": "トゥンベス県",
+          "ko": "툼베스 주",
+          "nl": "Tumbes",
+          "pl": "Region Tumbes",
+          "pt": "Tumbes",
+          "ru": "Тумбес",
+          "sv": "Tumbes",
+          "tr": "Tumbe Departmanı",
+          "vi": "Khu vực hành chính Tumbes",
+          "zh": "通贝斯大区"
+        },
+        "population": 231663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.286,
+          -5.221500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-piu",
+        "area": 4.866551999999998,
+        "bounding_box": [
+          -81.338,
+          -6.378,
+          -79.234,
+          -4.065
+        ],
+        "point": [
+          -80.286,
+          -5.221500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إقليم بيورا",
+          "bn": "পিউরা অঞ্চল",
+          "de": "Piura",
+          "en": "Piura Region",
+          "es": "Departamento de Piura",
+          "fr": "Région de Piura",
+          "el": "Πιούρα",
+          "hi": "पिउरा प्रदेश",
+          "hu": "Piura megye",
+          "id": "Region Piura",
+          "it": "regione di Piura",
+          "ja": "ピウラ県",
+          "ko": "피우라 주",
+          "nl": "Piura",
+          "pl": "Region Piura",
+          "pt": "Piura",
+          "ru": "Пьюра",
+          "sv": "Piura",
+          "tr": "Piura Bölgesi",
+          "vi": "Khu vực Piura",
+          "zh": "皮乌拉地区"
+        },
+        "population": 2030514
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.24950000000001,
+          -9.375
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-uca",
+        "area": 22.33000199999999,
+        "bounding_box": [
+          -75.974,
+          -11.424,
+          -70.525,
+          -7.326
+        ],
+        "point": [
+          -73.24950000000001,
+          -9.375
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إقليم أوكايالي",
+          "bn": "ওকায়ালি অঞ্চল",
+          "de": "Ucayali",
+          "en": "Ucayali Region",
+          "es": "Departamento de Ucayali",
+          "fr": "Région d'Ucayali",
+          "el": "Ουκαγιάλι",
+          "hi": "उकायली क्षेत्र",
+          "hu": "Ucayali megye",
+          "id": "Region Ucayali",
+          "it": "regione di Ucayali",
+          "ja": "ウカヤリ県",
+          "ko": "우카얄리 주",
+          "nl": "Ucayali",
+          "pl": "Region Ukajali",
+          "pt": "Ucayali",
+          "ru": "Укаяли",
+          "sv": "Ucayali",
+          "tr": "Ucayali Bölgesi",
+          "vi": "Ucayali",
+          "zh": "乌卡亚利大区"
+        },
+        "population": 625615
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98349999999999,
+          -15.153
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-pun",
+        "area": 9.745004000000044,
+        "bounding_box": [
+          -71.123,
+          -17.291,
+          -68.844,
+          -13.015
+        ],
+        "point": [
+          -69.98349999999999,
+          -15.153
+        ],
+        "labels": {
+          "alt": "El Callao",
+          "local": null,
+          "len": 6,
+          "ar": "إقليم بونو",
+          "bn": null,
+          "de": "Puno",
+          "en": "Puno Region",
+          "es": "Departamento de Puno",
+          "fr": "Région de Puno",
+          "el": null,
+          "hi": null,
+          "hu": "Puno megye",
+          "id": "Region Puno",
+          "it": "regione di Puno",
+          "ja": "プーノ県",
+          "ko": "푸노 주",
+          "nl": "Puno",
+          "pl": "Region Puno",
+          "pt": "Puno",
+          "ru": "Пуно",
+          "sv": "Puno",
+          "tr": null,
+          "vi": "Puno",
+          "zh": "普诺大区"
+        },
+        "population": 1577509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75800000000001,
+          -16.8905
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-moq",
+        "area": 2.6352999999999884,
+        "bounding_box": [
+          -71.488,
+          -17.793,
+          -70.028,
+          -15.988
+        ],
+        "point": [
+          -70.75800000000001,
+          -16.8905
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إقليم موكيغوا",
+          "bn": "মুকেগোয়া অঞ্চল",
+          "de": "Moquegua",
+          "en": "Moquegua Region",
+          "es": "Departamento de Moquegua",
+          "fr": "Région de Moquegua",
+          "el": "Μοκέγκουα",
+          "hi": "मोकेगुआ क्षेत्र",
+          "hu": "Moquegua megye",
+          "id": "Region Moquegua",
+          "it": "regione di Moquegua",
+          "ja": "モケグア県",
+          "ko": "모케과 주",
+          "nl": "Moquegua",
+          "pl": "Region Moquegua",
+          "pt": "Moquegua",
+          "ru": "Мокегуа",
+          "sv": "Moquegua",
+          "tr": "Moquegua Bölgesi",
+          "vi": "Khu vực Moquegua",
+          "zh": "莫克瓜大区"
+        },
+        "population": 200747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.959,
+          -15.988500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-are",
+        "area": 11.258205999999989,
+        "bounding_box": [
+          -75.076,
+          -17.318,
+          -70.842,
+          -14.659
+        ],
+        "point": [
+          -72.959,
+          -15.988500000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إقليم أريكيبا",
+          "bn": "আরেকুপা অঞ্চল",
+          "de": "Arequipa",
+          "en": "Arequipa Region",
+          "es": "Departamento de Arequipa",
+          "fr": "Région d'Arequipa",
+          "el": "Επαρχία Αρεκουίπα",
+          "hi": "एरेकिपा प्रदेश",
+          "hu": "Arequipa megye",
+          "id": "Region Arequipa",
+          "it": "regione di Arequipa",
+          "ja": "アレキパ県",
+          "ko": "아레키파 주",
+          "nl": "Arequipa",
+          "pl": "Region Arequipa",
+          "pt": "Arequipa",
+          "ru": "Арекипа",
+          "sv": "Arequipa",
+          "tr": "Arequipa bölgesi",
+          "vi": "Khu vực Arequipa",
+          "zh": "阿雷基帕大区"
+        },
+        "population": 1587846
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5435,
+          -14.21
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-ica",
+        "area": 4.177656000000021,
+        "bounding_box": [
+          -76.394,
+          -15.438,
+          -74.693,
+          -12.982
+        ],
+        "point": [
+          -75.5435,
+          -14.21
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "إقليم إيكا",
+          "bn": "ইকা অঞ্চল",
+          "de": "Ica",
+          "en": "Ica Region",
+          "es": "Departamento de Ica",
+          "fr": "Région d'Ica",
+          "el": "Ίκα",
+          "hi": "इका प्रदेश",
+          "hu": "Ica megye",
+          "id": "Region Ica",
+          "it": "regione di Ica",
+          "ja": "イカ県",
+          "ko": "이카 주",
+          "nl": "Ica",
+          "pl": "Region Ica",
+          "pt": "Ica",
+          "ru": "Ика",
+          "sv": "Ica",
+          "tr": "Ica Bölgesi",
+          "vi": "Khu vực Ica",
+          "zh": "伊卡大区"
+        },
+        "population": 899428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.679,
+          -11.8035
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-lim",
+        "area": 7.351992000000019,
+        "bounding_box": [
+          -77.891,
+          -13.32,
+          -75.467,
+          -10.287
+        ],
+        "point": [
+          -76.679,
+          -11.8035
+        ],
+        "labels": {
+          "alt": "Lima province",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة ليما",
+          "bn": "লিমা প্রদেশ",
+          "de": "Provinz Lima",
+          "en": "Lima Province",
+          "es": "Provincia de Lima",
+          "fr": "province de Lima",
+          "el": "Επαρχία Λίμας",
+          "hi": "लीमा प्रांत",
+          "hu": null,
+          "id": "Provinsi Lima",
+          "it": "provincia di Lima",
+          "ja": "リマ郡",
+          "ko": "리마 군",
+          "nl": "Lima",
+          "pl": "Prowincja Lima",
+          "pt": "Lima",
+          "ru": "Лима",
+          "sv": "Lima",
+          "tr": "Lima ili",
+          "vi": "Tỉnh Lima",
+          "zh": "利馬省"
+        },
+        "population": 12227112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9215,
+          -12.032
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-lim",
+        "area": 0.5275619999999978,
+        "bounding_box": [
+          -77.198,
+          -12.509,
+          -76.645,
+          -11.555
+        ],
+        "point": [
+          -76.9215,
+          -12.032
+        ],
+        "labels": {
+          "alt": "Lima province",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة ليما",
+          "bn": "লিমা প্রদেশ",
+          "de": "Provinz Lima",
+          "en": "Lima Province",
+          "es": "Provincia de Lima",
+          "fr": "province de Lima",
+          "el": "Επαρχία Λίμας",
+          "hi": "लीमा प्रांत",
+          "hu": null,
+          "id": "Provinsi Lima",
+          "it": "provincia di Lima",
+          "ja": "リマ郡",
+          "ko": "리마 군",
+          "nl": "Lima",
+          "pl": "Prowincja Lima",
+          "pt": "Lima",
+          "ru": "Лима",
+          "sv": "Lima",
+          "tr": "Lima ili",
+          "vi": "Tỉnh Lima",
+          "zh": "利馬省"
+        },
+        "population": 12227112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14349999999999,
+          -12.04
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-cal",
+        "area": 0.0051660000000001306,
+        "bounding_box": [
+          -77.175,
+          -12.081,
+          -77.112,
+          -11.999
+        ],
+        "point": [
+          -77.14349999999999,
+          -12.04
+        ],
+        "labels": {
+          "alt": "Region",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة كالاو",
+          "bn": null,
+          "de": null,
+          "en": "Callao Province",
+          "es": "Provincia Constitucional del Callao",
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": "Callao tartomány",
+          "id": null,
+          "it": "provincia di Callao",
+          "ja": "カヤオ特別区",
+          "ko": null,
+          "nl": "Callao",
+          "pl": null,
+          "pt": "Província Constitucional de Callao",
+          "ru": "Кальяо",
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 282595
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6935,
+          -9.3885
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-anc",
+        "area": 5.196009000000003,
+        "bounding_box": [
+          -78.649,
+          -10.748,
+          -76.738,
+          -8.029
+        ],
+        "point": [
+          -77.6935,
+          -9.3885
+        ],
+        "labels": {
+          "alt": "Ancachs",
+          "local": null,
+          "len": 6,
+          "ar": "إقليم أنكاش",
+          "bn": "আনকাশ অঞ্চল",
+          "de": "Ancash",
+          "en": "Áncash Region",
+          "es": "Departamento de Áncash",
+          "fr": "Région d'Ancash",
+          "el": "Ανκάς",
+          "hi": "एन्कैश क्षेत्र",
+          "hu": "Ancash megye",
+          "id": "Region Ancash",
+          "it": "regione di Ancash",
+          "ja": "アンカシュ県",
+          "ko": "앙카시 주",
+          "nl": "Ancash",
+          "pl": "Region Ancash",
+          "pt": "Ancash",
+          "ru": "Анкаш",
+          "sv": "Ancash",
+          "tr": "Ancash Bölgesi",
+          "vi": "Vùng Ancash",
+          "zh": "安卡什大区"
+        },
+        "population": 1207547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2765,
+          -7.9625
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-lal",
+        "area": 5.690523000000017,
+        "bounding_box": [
+          -79.697,
+          -8.964,
+          -76.856,
+          -6.961
+        ],
+        "point": [
+          -78.2765,
+          -7.9625
+        ],
+        "labels": {
+          "alt": "Libertad",
+          "local": null,
+          "len": 11,
+          "ar": "إقليم لا ليبرتاد",
+          "bn": "লা লিবার্টেড অঞ্চল",
+          "de": "La Libertad",
+          "en": "La Libertad Region",
+          "es": "Departamento de La Libertad",
+          "fr": "Région de La Libertad",
+          "el": "Λα Λιμπερτάντ",
+          "hi": "ला लिबर्टाड प्रदेश",
+          "hu": "La Libertad megye",
+          "id": "Region La Libertad",
+          "it": "regione di La Libertad",
+          "ja": "ラ・リベルタ県",
+          "ko": "라리베르타드 주",
+          "nl": "La Libertad",
+          "pl": "Region La Libertad",
+          "pt": "Liberdade",
+          "ru": "Ла-Либертад",
+          "sv": "La Libertad",
+          "tr": "La Libertad Bölgesi",
+          "vi": "Khu vực La Libertad",
+          "zh": "拉利伯塔德大区"
+        },
+        "population": 2076464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8985,
+          -6.3545
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-lam",
+        "area": 2.363045000000005,
+        "bounding_box": [
+          -80.631,
+          -7.161,
+          -79.166,
+          -5.548
+        ],
+        "point": [
+          -79.8985,
+          -6.3545
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "إقليم لمباييكه",
+          "bn": "লাম্বায়েক অঞ্চল",
+          "de": "Lambayeque",
+          "en": "Lambayeque Region",
+          "es": "Departamento de Lambayeque",
+          "fr": "Région de Lambayeque",
+          "el": "Λαμπαγιέκ",
+          "hi": "लैम्बेक प्रदेश",
+          "hu": "Lambayeque megye",
+          "id": "Region Lambayeque",
+          "it": "regione di Lambayeque",
+          "ja": "ランバイエケ県",
+          "ko": "람바예케 주",
+          "nl": "Lambayeque",
+          "pl": "Region Lambayeque",
+          "pt": "Lambayeque",
+          "ru": "Ламбаеке",
+          "sv": "Lambayeque",
+          "tr": "Lambayaque Bölgesi",
+          "vi": "Khu vực Lambayeque",
+          "zh": "兰巴耶克大区"
+        },
+        "population": 1335273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1585,
+          -13.272
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-cus",
+        "area": 14.867020000000013,
+        "bounding_box": [
+          -73.961,
+          -15.334,
+          -70.356,
+          -11.21
+        ],
+        "point": [
+          -72.1585,
+          -13.272
+        ],
+        "labels": {
+          "alt": "Cuzco|Qosqo",
+          "local": null,
+          "len": 5,
+          "ar": "إقليم قوسقو",
+          "bn": "কুসকু অঞ্চল",
+          "de": "Cusco",
+          "en": "Cusco Región",
+          "es": "Departamento de Cuzco",
+          "fr": "Région de Cuzco",
+          "el": "Κούσκο",
+          "hi": "कुस्को प्रदेश",
+          "hu": "Cusco megye",
+          "id": "Region Cusco",
+          "it": "regione di Cusco",
+          "ja": "クスコ県",
+          "ko": "쿠스코 주",
+          "nl": "Cuzco",
+          "pl": "Region Cuzco",
+          "pt": "Cusco",
+          "ru": "Куско",
+          "sv": "Cusco",
+          "tr": "Cusco Bölgesi",
+          "vi": "Khu vực Cusco",
+          "zh": "库斯科大区"
+        },
+        "population": 1429821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9845,
+          -13.876999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-aya",
+        "area": 7.940700000000004,
+        "bounding_box": [
+          -75.132,
+          -15.607,
+          -72.837,
+          -12.147
+        ],
+        "point": [
+          -73.9845,
+          -13.876999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إقليم أياكوتشو",
+          "bn": "আয়াকুকো অঞ্চল",
+          "de": "Ayacucho",
+          "en": "Ayacucho Region",
+          "es": "Departamento de Ayacucho",
+          "fr": "Région d'Ayacucho",
+          "el": "Αγιακούτσο",
+          "hi": "अयाकुचो प्रदेश",
+          "hu": "Ayacucho megye",
+          "id": "Region Ayacucho",
+          "it": "regione di Ayacucho",
+          "ja": "アヤクーチョ県",
+          "ko": "아야쿠초 주",
+          "nl": "Ayacucho",
+          "pl": "Region Ayacucho",
+          "pt": "Ayacucho",
+          "ru": "Аякучо",
+          "sv": "Ayacucho",
+          "tr": "Ayacuchı Bölgesi",
+          "vi": "Vùng Ayacucho",
+          "zh": "阿亚库乔大区"
+        },
+        "population": 816471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.966,
+          -14.017
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-apu",
+        "area": 2.839408000000001,
+        "bounding_box": [
+          -73.85,
+          -14.82,
+          -72.082,
+          -13.214
+        ],
+        "point": [
+          -72.966,
+          -14.017
+        ],
+        "labels": {
+          "alt": "Apuromac",
+          "local": null,
+          "len": 8,
+          "ar": "إقليم أبوريماك",
+          "bn": "আপুরিমাক অঞ্চল",
+          "de": "Apurimac",
+          "en": "Apurímac Region",
+          "es": "Departamento de Apurímac",
+          "fr": "Région d'Apurímac",
+          "el": "Απουρίμακ",
+          "hi": "अपुरिमक क्षेत्र",
+          "hu": "Apurímac megye",
+          "id": "Region Apurímac",
+          "it": "regione di Apurímac",
+          "ja": "アプリマク県",
+          "ko": "아푸리막 주",
+          "nl": "Apurímac",
+          "pl": "Region Apurímac",
+          "pt": "Apurímac",
+          "ru": "Апуримак",
+          "sv": "Apurímac",
+          "tr": "Apurímac Bölgesi",
+          "vi": "Apurímac",
+          "zh": "阿普里马克大区"
+        },
+        "population": 432270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0435,
+          -13.0625
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-huv",
+        "area": 3.2739150000000032,
+        "bounding_box": [
+          -75.801,
+          -14.143,
+          -74.286,
+          -11.982
+        ],
+        "point": [
+          -75.0435,
+          -13.0625
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "إقليم هوانكافليكا",
+          "bn": "হুয়াঙ্কাভেলিকা অঞ্চল",
+          "de": "Huancavelica",
+          "en": "Huancavelica Region",
+          "es": "Departamento de Huancavelica",
+          "fr": "Région de Huancavelica",
+          "el": "Χουανκαβελίκα",
+          "hi": "हुआंकावेलिका प्रदेश",
+          "hu": "Huancavelica megye",
+          "id": "Region Huancavelica",
+          "it": "regione di Huancavelica",
+          "ja": "ワンカベリカ県",
+          "ko": "우앙카벨리카 주",
+          "nl": "Huancavelica",
+          "pl": "Region Huancavelica",
+          "pt": "Huancavelica",
+          "ru": "Уанкавелика",
+          "sv": "Huancavelica",
+          "tr": "Huancavelica Bölgesi",
+          "vi": "Khu vực Huancavelica",
+          "zh": "萬卡韋利卡大區"
+        },
+        "population": 576497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.622,
+          -7.0595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-sam",
+        "area": 7.74288800000004,
+        "bounding_box": [
+          -77.778,
+          -8.734,
+          -75.466,
+          -5.385
+        ],
+        "point": [
+          -76.622,
+          -7.0595
+        ],
+        "labels": {
+          "alt": "San Mart",
+          "local": null,
+          "len": 10,
+          "ar": "إقليم سان مارتين",
+          "bn": "সান মার্টিন অঞ্চল",
+          "de": "Region San Martín",
+          "en": "San Martín Region",
+          "es": "Departamento de San Martín",
+          "fr": "Région de San Martín",
+          "el": "Σαν Μάρτιν",
+          "hi": "सैन मार्टिन क्षेत्र",
+          "hu": "San Martín megye",
+          "id": "Region San Martín",
+          "it": "regione di San Martín",
+          "ja": "サン・マルティン県",
+          "ko": "산마르틴 주",
+          "nl": "San Martín",
+          "pl": "Region San Martín",
+          "pt": "San Martín",
+          "ru": "Сан-Мартин",
+          "sv": "San Martín",
+          "tr": "San Martín Bölgesi",
+          "vi": "San Martín",
+          "zh": "圣马丁大区"
+        },
+        "population": 1034119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9205,
+          -9.412
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-huc",
+        "area": 5.789519999999985,
+        "bounding_box": [
+          -77.323,
+          -10.444,
+          -74.518,
+          -8.38
+        ],
+        "point": [
+          -75.9205,
+          -9.412
+        ],
+        "labels": {
+          "alt": "Huknuco",
+          "local": null,
+          "len": 7,
+          "ar": "إقليم هانوكو",
+          "bn": "হোয়াঙ্কু অঞ্চল",
+          "de": "Huánuco",
+          "en": "Huanuco Region",
+          "es": "Departamento de Huánuco",
+          "fr": "Région de Huánuco",
+          "el": "Χουανούκο",
+          "hi": "हुआनुको क्षेत्र",
+          "hu": "Huánuco megye",
+          "id": "Region Huánuco",
+          "it": "regione di Huánuco",
+          "ja": "ワヌコ県",
+          "ko": "우아누코 주",
+          "nl": "Huánuco",
+          "pl": "Region Huánuco",
+          "pt": "Huánuco",
+          "ru": "Уануко",
+          "sv": "Huánuco",
+          "tr": "Huanuco Region",
+          "vi": "Khu vực Huánuco",
+          "zh": "瓦努科大区"
+        },
+        "population": 905785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.462,
+          -10.3765
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-pas",
+        "area": 3.742927999999989,
+        "bounding_box": [
+          -76.75,
+          -11.103,
+          -74.174,
+          -9.65
+        ],
+        "point": [
+          -75.462,
+          -10.3765
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إقليم باسكو",
+          "bn": "পাস্কু অঞ্চল",
+          "de": "Pasco",
+          "en": "Pasco Region",
+          "es": "Departamento de Pasco",
+          "fr": "Région de Pasco",
+          "el": "Πάσκο",
+          "hi": "पास्को प्रदेश",
+          "hu": "Pasco megye",
+          "id": "Region Pasco",
+          "it": "regione di Pasco",
+          "ja": "パスコ県",
+          "ko": "파스코 주",
+          "nl": "Pasco",
+          "pl": "Region Pasco",
+          "pt": "Pasco",
+          "ru": "Паско",
+          "sv": "Pasco",
+          "tr": "Pasco Bölgesi",
+          "vi": "Khu vực Pasco",
+          "zh": "帕斯科大区"
+        },
+        "population": 386774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.964,
+          -11.684
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pe",
+        "region_child": "pe-jun",
+        "area": 6.134347999999986,
+        "bounding_box": [
+          -76.493,
+          -12.687,
+          -73.435,
+          -10.681
+        ],
+        "point": [
+          -74.964,
+          -11.684
+        ],
+        "labels": {
+          "alt": "Junnn",
+          "local": null,
+          "len": 5,
+          "ar": "إقليم جونين",
+          "bn": "জুনিন অঞ্চল",
+          "de": "Junín",
+          "en": "Junín Region",
+          "es": "Departamento de Junín",
+          "fr": "Région de Junín",
+          "el": "Τζουνίν",
+          "hi": "जूनिन क्षेत्र",
+          "hu": "Junín megye",
+          "id": "Region Junín",
+          "it": "regione di Junín",
+          "ja": "フニン県",
+          "ko": "후닌 주",
+          "nl": "Junín",
+          "pl": "Region Junín",
+          "pt": "Junín",
+          "ru": "Хунин",
+          "sv": "Junín",
+          "tr": "Junin Region",
+          "vi": "Khu vực Junín",
+          "zh": "胡宁大区"
+        },
+        "population": 1613091
+      }
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13900000000001,
+          22.276
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "central & western",
+        "area": 0.002552000000000127,
+        "bounding_box": [
+          114.11,
+          22.254,
+          114.168,
+          22.298
+        ],
+        "point": [
+          114.13900000000001,
+          22.276
+        ],
+        "labels": {
+          "en": "Central & Western",
+          "zh": "中西區"
+        },
+        "population": 249421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.185,
+          22.274
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "wan chai",
+        "area": 0.0017599999999998396,
+        "bounding_box": [
+          114.163,
+          22.254,
+          114.207,
+          22.294
+        ],
+        "point": [
+          114.185,
+          22.274
+        ],
+        "labels": {
+          "en": "Wan Chai",
+          "zh": "灣仔"
+        },
+        "population": 151487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.224,
+          22.273
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "eastern",
+        "area": 0.0041039999999998,
+        "bounding_box": [
+          114.186,
+          22.246,
+          114.262,
+          22.3
+        ],
+        "point": [
+          114.224,
+          22.273
+        ],
+        "labels": {
+          "en": "Eastern",
+          "zh": "東區"
+        },
+        "population": 581501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20949999999999,
+          22.2345
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "southern",
+        "area": 0.01651699999999952,
+        "bounding_box": [
+          114.11,
+          22.193,
+          114.309,
+          22.276
+        ],
+        "point": [
+          114.20949999999999,
+          22.2345
+        ],
+        "labels": {
+          "en": "Southern",
+          "zh": "南區"
+        },
+        "population": 292143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1685,
+          22.3075
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "yau tsim mong",
+        "area": 0.0014429999999997398,
+        "bounding_box": [
+          114.15,
+          22.288,
+          114.187,
+          22.327
+        ],
+        "point": [
+          114.1685,
+          22.3075
+        ],
+        "labels": {
+          "en": "Yau Tsim Mong",
+          "zh": "油尖旺"
+        },
+        "population": 306144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15350000000001,
+          22.3315
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "sham shui po",
+        "area": 0.0016450000000004007,
+        "bounding_box": [
+          114.13,
+          22.314,
+          114.177,
+          22.349
+        ],
+        "point": [
+          114.15350000000001,
+          22.3315
+        ],
+        "labels": {
+          "en": "Sham Shui Po",
+          "zh": "深水埗"
+        },
+        "population": 449790
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.196,
+          22.3215
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "kowloon",
+        "area": 0.0025299999999995617,
+        "bounding_box": [
+          114.173,
+          22.294,
+          114.219,
+          22.349
+        ],
+        "point": [
+          114.196,
+          22.3215
+        ],
+        "labels": {
+          "en": "Kowloon City",
+          "zh": "九龍城"
+        },
+        "population": 437374
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20150000000001,
+          22.344
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "wong tai sin",
+        "area": 0.0012600000000001488,
+        "bounding_box": [
+          114.179,
+          22.33,
+          114.224,
+          22.358
+        ],
+        "point": [
+          114.20150000000001,
+          22.344
+        ],
+        "labels": {
+          "en": "Wong Tai Sin",
+          "zh": "黃大仙"
+        },
+        "population": 407063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2235,
+          22.308500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "kwun tong",
+        "area": 0.0022790000000003727,
+        "bounding_box": [
+          114.202,
+          22.282,
+          114.245,
+          22.335
+        ],
+        "point": [
+          114.2235,
+          22.308500000000002
+        ],
+        "labels": {
+          "en": "Kwun Tong",
+          "zh": "觀塘"
+        },
+        "population": 638207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.082,
+          22.365000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "tsuen wan",
+        "area": 0.01809599999999969,
+        "bounding_box": [
+          113.995,
+          22.313,
+          114.169,
+          22.417
+        ],
+        "point": [
+          114.082,
+          22.365000000000002
+        ],
+        "labels": {
+          "en": "Tsuen Wan",
+          "zh": "荃灣"
+        },
+        "population": 372111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.96600000000001,
+          22.378500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "tuen mun",
+        "area": 0.02179999999999995,
+        "bounding_box": [
+          113.866,
+          22.324,
+          114.066,
+          22.433
+        ],
+        "point": [
+          113.96600000000001,
+          22.378500000000003
+        ],
+        "labels": {
+          "en": "Tuen Mun",
+          "zh": "屯門"
+        },
+        "population": 462305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.001,
+          22.4565
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "yuen long",
+        "area": 0.03276600000000097,
+        "bounding_box": [
+          113.874,
+          22.392,
+          114.128,
+          22.521
+        ],
+        "point": [
+          114.001,
+          22.4565
+        ],
+        "labels": {
+          "en": "Yuen Long",
+          "zh": "元朗"
+        },
+        "population": 693102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.207,
+          22.517000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "north",
+        "area": 0.026315999999999628,
+        "bounding_box": [
+          114.078,
+          22.466,
+          114.336,
+          22.568
+        ],
+        "point": [
+          114.207,
+          22.517000000000003
+        ],
+        "labels": {
+          "en": "North",
+          "zh": "北區"
+        },
+        "population": 379871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28399999999999,
+          22.481
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "tai po",
+        "area": 0.05985600000000249,
+        "bounding_box": [
+          114.112,
+          22.394,
+          114.456,
+          22.568
+        ],
+        "point": [
+          114.28399999999999,
+          22.481
+        ],
+        "labels": {
+          "en": "Tai Po",
+          "zh": "大埔"
+        },
+        "population": 305708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3615,
+          22.307000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "sai kung",
+        "area": 0.08935799999999776,
+        "bounding_box": [
+          114.221,
+          22.148,
+          114.502,
+          22.466
+        ],
+        "point": [
+          114.3615,
+          22.307000000000002
+        ],
+        "labels": {
+          "en": "Sai Kung",
+          "zh": "西貢"
+        },
+        "population": 522260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19800000000001,
+          22.3915
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "sha tin",
+        "area": 0.010640000000000725,
+        "bounding_box": [
+          114.142,
+          22.344,
+          114.254,
+          22.439
+        ],
+        "point": [
+          114.19800000000001,
+          22.3915
+        ],
+        "labels": {
+          "en": "Sha Tin",
+          "zh": "沙田"
+        },
+        "population": 697349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.111,
+          22.3385
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "kwai tsing",
+        "area": 0.006474000000000121,
+        "bounding_box": [
+          114.072,
+          22.297,
+          114.15,
+          22.38
+        ],
+        "point": [
+          114.111,
+          22.3385
+        ],
+        "labels": {
+          "en": "Kwai Tsing",
+          "zh": "葵青"
+        },
+        "population": 448913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.06299999999999,
+          22.231
+        ]
+      },
+      "properties": {
+        "region_schema": "hk_district",
+        "region_parent": "hk",
+        "region_child": "islands",
+        "area": 0.09249600000000026,
+        "bounding_box": [
+          113.817,
+          22.137,
+          114.309,
+          22.325
+        ],
+        "point": [
+          114.06299999999999,
+          22.231
+        ],
+        "labels": {
+          "en": "Islands",
+          "zh": "離島"
+        },
+        "population": 150656
+      }
+    }
+  ]
+}

@@ -1,0 +1,2045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.416,
+          28.564
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "053",
+        "area": 0.1896880000000013,
+        "bounding_box": [
+          -82.778,
+          28.433,
+          -82.054,
+          28.695
+        ],
+        "point": [
+          -82.416,
+          28.564
+        ],
+        "labels": {
+          "en": "Hernando"
+        },
+        "population": 229054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4065,
+          30.130499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "129",
+        "area": 0.22873500000000047,
+        "bounding_box": [
+          -84.738,
+          29.958,
+          -84.075,
+          30.303
+        ],
+        "point": [
+          -84.4065,
+          30.130499999999998
+        ],
+        "labels": {
+          "en": "Wakulla"
+        },
+        "population": 41203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.121,
+          30.6035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "131",
+        "area": 0.43267400000000095,
+        "bounding_box": [
+          -86.398,
+          30.213,
+          -85.844,
+          30.994
+        ],
+        "point": [
+          -86.121,
+          30.6035
+        ],
+        "labels": {
+          "en": "Walton"
+        },
+        "population": 74820
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.172,
+          29.0225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "127",
+        "area": 0.8337419999999997,
+        "bounding_box": [
+          -81.681,
+          28.613,
+          -80.663,
+          29.432
+        ],
+        "point": [
+          -81.172,
+          29.0225
+        ],
+        "labels": {
+          "en": "Volusia"
+        },
+        "population": 552200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.223,
+          26.606
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "051",
+        "area": 0.48431600000000463,
+        "bounding_box": [
+          -81.566,
+          26.253,
+          -80.88,
+          26.959
+        ],
+        "point": [
+          -81.223,
+          26.606
+        ],
+        "labels": {
+          "en": "Hendry"
+        },
+        "population": 42695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.261,
+          28.5665
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "095",
+        "area": 0.34944400000000286,
+        "bounding_box": [
+          -81.659,
+          28.347,
+          -80.863,
+          28.786
+        ],
+        "point": [
+          -81.261,
+          28.5665
+        ],
+        "labels": {
+          "en": "Orange"
+        },
+        "population": 1465362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.44800000000001,
+          26.156
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "011",
+        "area": 0.3446679999999996,
+        "bounding_box": [
+          -80.881,
+          25.957,
+          -80.015,
+          26.355
+        ],
+        "point": [
+          -80.44800000000001,
+          26.156
+        ],
+        "labels": {
+          "en": "Broward"
+        },
+        "population": 1872226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4305,
+          26.646
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "099",
+        "area": 0.5921499999999996,
+        "bounding_box": [
+          -80.886,
+          26.321,
+          -79.975,
+          26.971
+        ],
+        "point": [
+          -80.4305,
+          26.646
+        ],
+        "labels": {
+          "en": "Palm Beach"
+        },
+        "population": 1546214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81450000000001,
+          29.7485
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "041",
+        "area": 0.11824099999999664,
+        "bounding_box": [
+          -82.973,
+          29.562,
+          -82.656,
+          29.935
+        ],
+        "point": [
+          -82.81450000000001,
+          29.7485
+        ],
+        "labels": {
+          "en": "Gilchrist"
+        },
+        "population": 19852
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.459,
+          25.56
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "086",
+        "area": 0.6955399999999994,
+        "bounding_box": [
+          -80.874,
+          25.141,
+          -80.044,
+          25.979
+        ],
+        "point": [
+          -80.459,
+          25.56
+        ],
+        "labels": {
+          "en": "Miami-Dade"
+        },
+        "population": 2772063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2535,
+          27.3395
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "055",
+        "area": 0.381914999999996,
+        "bounding_box": [
+          -81.564,
+          27.032,
+          -80.943,
+          27.647
+        ],
+        "point": [
+          -81.2535,
+          27.3395
+        ],
+        "labels": {
+          "en": "Highlands"
+        },
+        "population": 111709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.509,
+          28.859
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "017",
+        "area": 0.26170799999999844,
+        "bounding_box": [
+          -82.848,
+          28.666,
+          -82.17,
+          29.052
+        ],
+        "point": [
+          -82.509,
+          28.859
+        ],
+        "labels": {
+          "en": "Citrus"
+        },
+        "population": 168759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9445,
+          27.301000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "093",
+        "area": 0.3659399999999982,
+        "bounding_box": [
+          -81.212,
+          26.959,
+          -80.677,
+          27.643
+        ],
+        "point": [
+          -80.9445,
+          27.301000000000002
+        ],
+        "labels": {
+          "en": "Okeechobee"
+        },
+        "population": 44594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4205,
+          29.9375
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "109",
+        "area": 0.34010900000000105,
+        "bounding_box": [
+          -81.69,
+          29.622,
+          -81.151,
+          30.253
+        ],
+        "point": [
+          -81.4205,
+          29.9375
+        ],
+        "labels": {
+          "en": "St. Johns"
+        },
+        "population": 291054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81,
+          27.186500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "027",
+        "area": 0.1532640000000034,
+        "bounding_box": [
+          -82.058,
+          27.032,
+          -81.562,
+          27.341
+        ],
+        "point": [
+          -81.81,
+          27.186500000000002
+        ],
+        "labels": {
+          "en": "DeSoto"
+        },
+        "population": 37715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2185,
+          26.9895
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "043",
+        "area": 0.3078850000000018,
+        "bounding_box": [
+          -81.566,
+          26.768,
+          -80.871,
+          27.211
+        ],
+        "point": [
+          -81.2185,
+          26.9895
+        ],
+        "labels": {
+          "en": "Glades"
+        },
+        "population": 16213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4385,
+          27.4275
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "081",
+        "area": 0.3375909999999962,
+        "bounding_box": [
+          -82.823,
+          27.208,
+          -82.054,
+          27.647
+        ],
+        "point": [
+          -82.4385,
+          27.4275
+        ],
+        "labels": {
+          "en": "Manatee"
+        },
+        "population": 392765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1615,
+          30.404
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "013",
+        "area": 0.18645599999999798,
+        "bounding_box": [
+          -85.39,
+          30.2,
+          -84.933,
+          30.608
+        ],
+        "point": [
+          -85.1615,
+          30.404
+        ],
+        "labels": {
+          "en": "Calhoun"
+        },
+        "population": 16520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65549999999999,
+          28.811
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "069",
+        "area": 0.563860000000005,
+        "bounding_box": [
+          -81.958,
+          28.345,
+          -81.353,
+          29.277
+        ],
+        "point": [
+          -81.65549999999999,
+          28.811
+        ],
+        "labels": {
+          "en": "Lake"
+        },
+        "population": 416922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72550000000001,
+          27.893
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "103",
+        "area": 0.205520000000002,
+        "bounding_box": [
+          -82.909,
+          27.613,
+          -82.542,
+          28.173
+        ],
+        "point": [
+          -82.72550000000001,
+          27.893
+        ],
+        "labels": {
+          "en": "Pinellas"
+        },
+        "population": 914376
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7515,
+          29.775
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "037",
+        "area": 0.4727419999999933,
+        "bounding_box": [
+          -85.246,
+          29.536,
+          -84.257,
+          30.014
+        ],
+        "point": [
+          -84.7515,
+          29.775
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 13644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48150000000001,
+          28.3245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "101",
+        "area": 0.26187100000000013,
+        "bounding_box": [
+          -82.908,
+          28.171,
+          -82.055,
+          28.478
+        ],
+        "point": [
+          -82.48150000000001,
+          28.3245
+        ],
+        "labels": {
+          "en": "Pasco"
+        },
+        "population": 613277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1325,
+          28.6325
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "119",
+        "area": 0.2351449999999969,
+        "bounding_box": [
+          -82.312,
+          28.305,
+          -81.953,
+          28.96
+        ],
+        "point": [
+          -82.1325,
+          28.6325
+        ],
+        "labels": {
+          "en": "Sumter"
+        },
+        "population": 163889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2235,
+          28.744500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "117",
+        "area": 0.12723700000000063,
+        "bounding_box": [
+          -81.46,
+          28.61,
+          -80.987,
+          28.879
+        ],
+        "point": [
+          -81.2235,
+          28.744500000000002
+        ],
+        "labels": {
+          "en": "Seminole"
+        },
+        "population": 485181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2325,
+          29.930500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "007",
+        "area": 0.1585249999999962,
+        "bounding_box": [
+          -82.419,
+          29.718,
+          -82.046,
+          30.143
+        ],
+        "point": [
+          -82.2325,
+          29.930500000000002
+        ],
+        "labels": {
+          "en": "Bradford"
+        },
+        "population": 32159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68299999999999,
+          30.345
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "031",
+        "area": 0.352824000000006,
+        "bounding_box": [
+          -82.049,
+          30.104,
+          -81.317,
+          30.586
+        ],
+        "point": [
+          -81.68299999999999,
+          30.345
+        ],
+        "labels": {
+          "en": "Duval"
+        },
+        "population": 959936
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4545,
+          27.110500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "085",
+        "area": 0.26494099999999865,
+        "bounding_box": [
+          -80.886,
+          26.957,
+          -80.023,
+          27.264
+        ],
+        "point": [
+          -80.4545,
+          27.110500000000002
+        ],
+        "labels": {
+          "en": "Martin"
+        },
+        "population": 170905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2005,
+          29.538
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "029",
+        "area": 0.3220139999999948,
+        "bounding_box": [
+          -83.481,
+          29.251,
+          -82.92,
+          29.825
+        ],
+        "point": [
+          -83.2005,
+          29.538
+        ],
+        "labels": {
+          "en": "Dixie"
+        },
+        "population": 19644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.27600000000001,
+          30.6145
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "033",
+        "area": 0.5521420000000016,
+        "bounding_box": [
+          -87.635,
+          30.23,
+          -86.917,
+          30.999
+        ],
+        "point": [
+          -87.27600000000001,
+          30.6145
+        ],
+        "labels": {
+          "en": "Escambia"
+        },
+        "population": 300983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1855,
+          25.101
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "087",
+        "area": 2.915968,
+        "bounding_box": [
+          -82.221,
+          24.397,
+          -80.15,
+          25.805
+        ],
+        "point": [
+          -81.1855,
+          25.101
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 67083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.877,
+          24.6505
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "087",
+        "area": 0.033219999999999784,
+        "bounding_box": [
+          -82.987,
+          24.575,
+          -82.767,
+          24.726
+        ],
+        "point": [
+          -82.877,
+          24.6505
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 67083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.283,
+          29.466
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "035",
+        "area": 0.1976199999999998,
+        "bounding_box": [
+          -81.524,
+          29.261,
+          -81.042,
+          29.671
+        ],
+        "point": [
+          -81.283,
+          29.466
+        ],
+        "labels": {
+          "en": "Flagler"
+        },
+        "population": 183956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9485,
+          26.552500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "071",
+        "area": 0.36562900000000015,
+        "bounding_box": [
+          -82.335,
+          26.316,
+          -81.562,
+          26.789
+        ],
+        "point": [
+          -81.9485,
+          26.552500000000002
+        ],
+        "labels": {
+          "en": "Lee"
+        },
+        "population": 864572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69200000000001,
+          30.2345
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "005",
+        "area": 0.41087200000000074,
+        "bounding_box": [
+          -86.0,
+          29.901,
+          -85.384,
+          30.568
+        ],
+        "point": [
+          -85.69200000000001,
+          30.2345
+        ],
+        "labels": {
+          "en": "Bay"
+        },
+        "population": 192130
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.745,
+          29.582
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "107",
+        "area": 0.32095199999999885,
+        "bounding_box": [
+          -82.056,
+          29.324,
+          -81.434,
+          29.84
+        ],
+        "point": [
+          -81.745,
+          29.582
+        ],
+        "labels": {
+          "en": "Putnam"
+        },
+        "population": 77956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.84,
+          30.342
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "065",
+        "area": 0.31151999999999624,
+        "bounding_box": [
+          -84.076,
+          30.012,
+          -83.604,
+          30.672
+        ],
+        "point": [
+          -83.84,
+          30.342
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 17081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12299999999999,
+          30.0415
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "067",
+        "area": 0.21774399999999788,
+        "bounding_box": [
+          -83.371,
+          29.822,
+          -82.875,
+          30.261
+        ],
+        "point": [
+          -83.12299999999999,
+          30.0415
+        ],
+        "labels": {
+          "en": "Lafayette"
+        },
+        "population": 11282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97749999999999,
+          30.4755
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "047",
+        "area": 0.21017099999999908,
+        "bounding_box": [
+          -83.309,
+          30.317,
+          -82.646,
+          30.634
+        ],
+        "point": [
+          -82.97749999999999,
+          30.4755
+        ],
+        "labels": {
+          "en": "Hamilton"
+        },
+        "population": 16480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8215,
+          29.253
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "075",
+        "area": 0.5658119999999942,
+        "bounding_box": [
+          -83.24,
+          28.915,
+          -82.403,
+          29.591
+        ],
+        "point": [
+          -82.8215,
+          29.253
+        ],
+        "labels": {
+          "en": "Levy"
+        },
+        "population": 47960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6185,
+          28.002499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "105",
+        "area": 0.7010249999999936,
+        "bounding_box": [
+          -82.106,
+          27.643,
+          -81.131,
+          28.362
+        ],
+        "point": [
+          -81.6185,
+          28.002499999999998
+        ],
+        "labels": {
+          "en": "Polk"
+        },
+        "population": 743412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.409,
+          27.3825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "111",
+        "area": 0.19132600000000138,
+        "bounding_box": [
+          -80.68,
+          27.206,
+          -80.138,
+          27.559
+        ],
+        "point": [
+          -80.409,
+          27.3825
+        ],
+        "labels": {
+          "en": "St. Lucie"
+        },
+        "population": 396689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.595,
+          30.661
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "091",
+        "area": 0.2768640000000044,
+        "bounding_box": [
+          -86.801,
+          30.325,
+          -86.389,
+          30.997
+        ],
+        "point": [
+          -86.595,
+          30.661
+        ],
+        "labels": {
+          "en": "Okaloosa"
+        },
+        "population": 191632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6265,
+          30.212
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "023",
+        "area": 0.267883999999995,
+        "bounding_box": [
+          -82.8,
+          29.826,
+          -82.453,
+          30.598
+        ],
+        "point": [
+          -82.6265,
+          30.212
+        ],
+        "labels": {
+          "en": "Columbia"
+        },
+        "population": 80566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.768,
+          30.85
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "059",
+        "area": 0.15875999999999793,
+        "bounding_box": [
+          -86.038,
+          30.703,
+          -85.498,
+          30.997
+        ],
+        "point": [
+          -85.768,
+          30.85
+        ],
+        "labels": {
+          "en": "Holmes"
+        },
+        "population": 21406
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3895,
+          26.1435
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "021",
+        "area": 0.7716510000000009,
+        "bounding_box": [
+          -81.906,
+          25.77,
+          -80.873,
+          26.517
+        ],
+        "point": [
+          -81.3895,
+          26.1435
+        ],
+        "labels": {
+          "en": "Collier"
+        },
+        "population": 412051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25450000000001,
+          30.36
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "003",
+        "area": 0.1841279999999944,
+        "bounding_box": [
+          -82.46,
+          30.136,
+          -82.049,
+          30.584
+        ],
+        "point": [
+          -82.25450000000001,
+          30.36
+        ],
+        "labels": {
+          "en": "Baker"
+        },
+        "population": 32993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3805,
+          27.1675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "115",
+        "area": 0.2888050000000006,
+        "bounding_box": [
+          -82.705,
+          26.945,
+          -82.056,
+          27.39
+        ],
+        "point": [
+          -82.3805,
+          27.1675
+        ],
+        "labels": {
+          "en": "Sarasota"
+        },
+        "population": 443805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0065,
+          30.1625
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "121",
+        "area": 0.27164299999999647,
+        "bounding_box": [
+          -83.253,
+          29.887,
+          -82.76,
+          30.438
+        ],
+        "point": [
+          -83.0065,
+          30.1625
+        ],
+        "labels": {
+          "en": "Suwannee"
+        },
+        "population": 49524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.65950000000001,
+          29.9665
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "123",
+        "area": 0.4596749999999963,
+        "bounding_box": [
+          -84.0,
+          29.629,
+          -83.319,
+          30.304
+        ],
+        "point": [
+          -83.65950000000001,
+          29.9665
+        ],
+        "labels": {
+          "en": "Taylor"
+        },
+        "population": 26395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.357,
+          30.0325
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "125",
+        "area": 0.09679799999999743,
+        "bounding_box": [
+          -82.576,
+          29.922,
+          -82.138,
+          30.143
+        ],
+        "point": [
+          -82.357,
+          30.0325
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 17295
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.815,
+          29.955
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "019",
+        "area": 0.22089600000000062,
+        "bounding_box": [
+          -82.049,
+          29.719,
+          -81.581,
+          30.191
+        ],
+        "point": [
+          -81.815,
+          29.955
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 259381
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.49600000000001,
+          30.4555
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "079",
+        "area": 0.25414999999999555,
+        "bounding_box": [
+          -83.821,
+          30.26,
+          -83.171,
+          30.651
+        ],
+        "point": [
+          -83.49600000000001,
+          30.4555
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 19686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2595,
+          27.9955
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "097",
+        "area": 0.5620650000000018,
+        "bounding_box": [
+          -81.657,
+          27.642,
+          -80.862,
+          28.349
+        ],
+        "point": [
+          -81.2595,
+          27.9955
+        ],
+        "labels": {
+          "en": "Osceola"
+        },
+        "population": 426595
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0875,
+          29.2405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "083",
+        "area": 0.503217000000003,
+        "bounding_box": [
+          -82.536,
+          28.96,
+          -81.639,
+          29.521
+        ],
+        "point": [
+          -82.0875,
+          29.2405
+        ],
+        "labels": {
+          "en": "Marion"
+        },
+        "population": 426385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.229,
+          30.7825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "063",
+        "area": 0.3242539999999966,
+        "bounding_box": [
+          -85.6,
+          30.564,
+          -84.858,
+          31.001
+        ],
+        "point": [
+          -85.229,
+          30.7825
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 52953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3545,
+          29.683
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "001",
+        "area": 0.3191160000000052,
+        "bounding_box": [
+          -82.659,
+          29.421,
+          -82.05,
+          29.945
+        ],
+        "point": [
+          -82.3545,
+          29.683
+        ],
+        "labels": {
+          "en": "Alachua"
+        },
+        "population": 281573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8095,
+          27.491999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "049",
+        "area": 0.15282999999999783,
+        "bounding_box": [
+          -82.056,
+          27.337,
+          -81.563,
+          27.647
+        ],
+        "point": [
+          -81.8095,
+          27.491999999999997
+        ],
+        "labels": {
+          "en": "Hardee"
+        },
+        "population": 29115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69800000000001,
+          30.5505
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "089",
+        "area": 0.3907199999999962,
+        "bounding_box": [
+          -82.05,
+          30.273,
+          -81.346,
+          30.828
+        ],
+        "point": [
+          -81.69800000000001,
+          30.5505
+        ],
+        "labels": {
+          "en": "Nassau"
+        },
+        "population": 93075
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.713,
+          30.61
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "133",
+        "area": 0.24840399999999904,
+        "bounding_box": [
+          -85.994,
+          30.389,
+          -85.432,
+          30.831
+        ],
+        "point": [
+          -85.713,
+          30.61
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 29530
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05,
+          30.6595
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "113",
+        "area": 0.3595679999999948,
+        "bounding_box": [
+          -87.314,
+          30.319,
+          -86.786,
+          31.0
+        ],
+        "point": [
+          -87.05,
+          30.6595
+        ],
+        "labels": {
+          "en": "Santa Rosa"
+        },
+        "population": 194418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.686,
+          28.3065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "009",
+        "area": 0.5833379999999907,
+        "bounding_box": [
+          -80.987,
+          27.822,
+          -80.385,
+          28.791
+        ],
+        "point": [
+          -80.686,
+          28.3065
+        ],
+        "labels": {
+          "en": "Brevard"
+        },
+        "population": 619990
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.84899999999999,
+          30.2885
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "077",
+        "area": 0.3873500000000006,
+        "bounding_box": [
+          -85.154,
+          29.971,
+          -84.544,
+          30.606
+        ],
+        "point": [
+          -84.84899999999999,
+          30.2885
+        ],
+        "labels": {
+          "en": "Liberty"
+        },
+        "population": 9962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.57300000000001,
+          27.709
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "061",
+        "area": 0.18787200000000406,
+        "bounding_box": [
+          -80.882,
+          27.557,
+          -80.264,
+          27.861
+        ],
+        "point": [
+          -80.57300000000001,
+          27.709
+        ],
+        "labels": {
+          "en": "Indian River"
+        },
+        "population": 168730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.608,
+          30.55
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "039",
+        "area": 0.2106000000000006,
+        "bounding_box": [
+          -84.933,
+          30.388,
+          -84.283,
+          30.712
+        ],
+        "point": [
+          -84.608,
+          30.55
+        ],
+        "labels": {
+          "en": "Gadsden"
+        },
+        "population": 47677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2475,
+          29.9025
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "045",
+        "area": 0.27163499999999957,
+        "bounding_box": [
+          -85.475,
+          29.604,
+          -85.02,
+          30.201
+        ],
+        "point": [
+          -85.2475,
+          29.9025
+        ],
+        "labels": {
+          "en": "Gulf"
+        },
+        "population": 17423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34700000000001,
+          30.479
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "073",
+        "area": 0.303232000000001,
+        "bounding_box": [
+          -84.715,
+          30.273,
+          -83.979,
+          30.685
+        ],
+        "point": [
+          -84.34700000000001,
+          30.479
+        ],
+        "labels": {
+          "en": "Leon"
+        },
+        "population": 316758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.439,
+          27.872
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "057",
+        "area": 0.4635399999999951,
+        "bounding_box": [
+          -82.824,
+          27.571,
+          -82.054,
+          28.173
+        ],
+        "point": [
+          -82.439,
+          27.872
+        ],
+        "labels": {
+          "en": "Hillsborough"
+        },
+        "population": 1522515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9995,
+          26.9025
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-fl",
+        "region_child": "015",
+        "area": 0.2318750000000005,
+        "bounding_box": [
+          -82.437,
+          26.77,
+          -81.562,
+          27.035
+        ],
+        "point": [
+          -81.9995,
+          26.9025
+        ],
+        "labels": {
+          "en": "Charlotte"
+        },
+        "population": 183010
+      }
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.18099999999998,
+          34.9105
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25209",
+        "area": 0.11471999999999963,
+        "bounding_box": [
+          135.941,
+          34.791,
+          136.421,
+          35.03
+        ],
+        "point": [
+          136.18099999999998,
+          34.9105
+        ],
+        "labels": {
+          "ja": "甲賀市",
+          "en": "koka-shi"
+        },
+        "population": 96428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.26350000000002,
+          35.168
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25425",
+        "area": 0.0088659999999997,
+        "bounding_box": [
+          136.192,
+          35.137,
+          136.335,
+          35.199
+        ],
+        "point": [
+          136.26350000000002,
+          35.168
+        ],
+        "labels": {
+          "ja": "愛荘町",
+          "en": "aisho-cho"
+        },
+        "population": 22388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.9435,
+          35.03
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25206",
+        "area": 0.012875999999998802,
+        "bounding_box": [
+          135.888,
+          34.972,
+          135.999,
+          35.088
+        ],
+        "point": [
+          135.9435,
+          35.03
+        ],
+        "labels": {
+          "ja": "草津市",
+          "en": "kusatsu-shi"
+        },
+        "population": 139542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.95850000000002,
+          35.385999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25212",
+        "area": 0.12058999999999241,
+        "bounding_box": [
+          135.764,
+          35.231,
+          136.153,
+          35.541
+        ],
+        "point": [
+          135.95850000000002,
+          35.385999999999996
+        ],
+        "labels": {
+          "ja": "高島市",
+          "en": "takashima-shi"
+        },
+        "population": 54973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.21699999999998,
+          35.272999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25202",
+        "area": 0.04415599999999957,
+        "bounding_box": [
+          136.084,
+          35.19,
+          136.35,
+          35.356
+        ],
+        "point": [
+          136.21699999999998,
+          35.272999999999996
+        ],
+        "labels": {
+          "ja": "彦根市",
+          "en": "hikone-shi"
+        },
+        "population": 116425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.96949999999998,
+          35.092
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25207",
+        "area": 0.010229999999998771,
+        "bounding_box": [
+          135.923,
+          35.037,
+          136.016,
+          35.147
+        ],
+        "point": [
+          135.96949999999998,
+          35.092
+        ],
+        "labels": {
+          "ja": "守山市",
+          "en": "moriyama-shi"
+        },
+        "population": 78209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.01,
+          34.9955
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25208",
+        "area": 0.011322000000000857,
+        "bounding_box": [
+          135.959,
+          34.94,
+          136.061,
+          35.051
+        ],
+        "point": [
+          136.01,
+          34.9955
+        ],
+        "labels": {
+          "ja": "栗東市",
+          "en": "ritto-shi"
+        },
+        "population": 72749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.0195,
+          35.1085
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25210",
+        "area": 0.018755000000001583,
+        "bounding_box": [
+          135.959,
+          35.031,
+          136.08,
+          35.186
+        ],
+        "point": [
+          136.0195,
+          35.1085
+        ],
+        "labels": {
+          "ja": "野洲市",
+          "en": "yasu-shi"
+        },
+        "population": 50193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.92849999999999,
+          35.0775
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25201",
+        "area": 0.09375100000000085,
+        "bounding_box": [
+          135.815,
+          34.871,
+          136.042,
+          35.284
+        ],
+        "point": [
+          135.92849999999999,
+          35.0775
+        ],
+        "labels": {
+          "ja": "大津市",
+          "en": "otsu-shi"
+        },
+        "population": 351831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.2645,
+          35.205
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25442",
+        "area": 0.002649999999999713,
+        "bounding_box": [
+          136.238,
+          35.18,
+          136.291,
+          35.23
+        ],
+        "point": [
+          136.2645,
+          35.205
+        ],
+        "labels": {
+          "ja": "甲良町",
+          "en": "kora-cho"
+        },
+        "population": 6793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.2285,
+          35.521
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25203",
+        "area": 0.09791600000000315,
+        "bounding_box": [
+          136.094,
+          35.339,
+          136.363,
+          35.703
+        ],
+        "point": [
+          136.2285,
+          35.521
+        ],
+        "labels": {
+          "ja": "長浜市",
+          "en": "nagahama-shi"
+        },
+        "population": 129827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.2345,
+          35.1985
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25441",
+        "area": 0.001677000000000312,
+        "bounding_box": [
+          136.213,
+          35.179,
+          136.256,
+          35.218
+        ],
+        "point": [
+          136.2345,
+          35.1985
+        ],
+        "labels": {
+          "ja": "豊郷町",
+          "en": "toyosato-cho"
+        },
+        "population": 7470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.327,
+          35.417
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25214",
+        "area": 0.06692399999999472,
+        "bounding_box": [
+          136.21,
+          35.274,
+          136.444,
+          35.56
+        ],
+        "point": [
+          136.327,
+          35.417
+        ],
+        "labels": {
+          "ja": "米原市",
+          "en": "maibara-shi"
+        },
+        "population": 41770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.3375,
+          35.209
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25443",
+        "area": 0.024803999999998532,
+        "bounding_box": [
+          136.258,
+          35.131,
+          136.417,
+          35.287
+        ],
+        "point": [
+          136.3375,
+          35.209
+        ],
+        "labels": {
+          "ja": "多賀町",
+          "en": "taga-cho"
+        },
+        "population": 8967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.118,
+          35.0575
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25384",
+        "area": 0.006930000000000099,
+        "bounding_box": [
+          136.073,
+          35.019,
+          136.163,
+          35.096
+        ],
+        "point": [
+          136.118,
+          35.0575
+        ],
+        "labels": {
+          "ja": "竜王町",
+          "en": "ryuo-cho"
+        },
+        "population": 14426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.0895,
+          35.174
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25204",
+        "area": 0.031789999999997494,
+        "bounding_box": [
+          135.996,
+          35.089,
+          136.183,
+          35.259
+        ],
+        "point": [
+          136.0895,
+          35.174
+        ],
+        "labels": {
+          "ja": "近江八幡市",
+          "en": "omihachiman-shi"
+        },
+        "population": 84272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.27,
+          35.133
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25213",
+        "area": 0.08806000000000092,
+        "bounding_box": [
+          136.085,
+          35.014,
+          136.455,
+          35.252
+        ],
+        "point": [
+          136.27,
+          35.133
+        ],
+        "labels": {
+          "ja": "東近江市",
+          "en": "higashiomi-shi"
+        },
+        "population": 120399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.2625,
+          35.0125
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25383",
+        "area": 0.018644999999999027,
+        "bounding_box": [
+          136.18,
+          34.956,
+          136.345,
+          35.069
+        ],
+        "point": [
+          136.2625,
+          35.0125
+        ],
+        "labels": {
+          "ja": "日野町",
+          "en": "hino-cho"
+        },
+        "population": 24035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.089,
+          35.0015
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-25",
+        "region_child": "25211",
+        "area": 0.01155399999999884,
+        "bounding_box": [
+          136.036,
+          34.947,
+          136.142,
+          35.056
+        ],
+        "point": [
+          136.089,
+          35.0015
+        ],
+        "labels": {
+          "ja": "湖南市",
+          "en": "konan-shi"
+        },
+        "population": 56086
+      }
+    }
+  ]
+}

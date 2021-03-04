@@ -1,0 +1,2015 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9075,
+          33.2945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "027",
+        "area": 0.21799699999999994,
+        "bounding_box": [
+          -86.174,
+          33.09,
+          -85.641,
+          33.499
+        ],
+        "point": [
+          -85.9075,
+          33.2945
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 13531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.79499999999999,
+          32.268499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "091",
+        "area": 0.35982199999999953,
+        "bounding_box": [
+          -88.118,
+          31.99,
+          -87.472,
+          32.547
+        ],
+        "point": [
+          -87.79499999999999,
+          32.268499999999996
+        ],
+        "labels": {
+          "en": "Marengo"
+        },
+        "population": 19630
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81649999999999,
+          34.5295
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "049",
+        "area": 0.39990500000000345,
+        "bounding_box": [
+          -86.119,
+          34.199,
+          -85.514,
+          34.86
+        ],
+        "point": [
+          -85.81649999999999,
+          34.5295
+        ],
+        "labels": {
+          "en": "DeKalb"
+        },
+        "population": 78599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6215,
+          34.2325
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "019",
+        "area": 0.2594349999999953,
+        "bounding_box": [
+          -85.844,
+          33.941,
+          -85.399,
+          34.524
+        ],
+        "point": [
+          -85.6215,
+          34.2325
+        ],
+        "labels": {
+          "en": "Cherokee"
+        },
+        "population": 28277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6455,
+          32.744
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "065",
+        "area": 0.23722599999999483,
+        "bounding_box": [
+          -87.871,
+          32.481,
+          -87.42,
+          33.007
+        ],
+        "point": [
+          -87.6455,
+          32.744
+        ],
+        "labels": {
+          "en": "Hale"
+        },
+        "population": 13989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.27199999999999,
+          32.591
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "105",
+        "area": 0.28854399999999636,
+        "bounding_box": [
+          -87.526,
+          32.307,
+          -87.018,
+          32.875
+        ],
+        "point": [
+          -87.27199999999999,
+          32.591
+        ],
+        "labels": {
+          "en": "Perry"
+        },
+        "population": 9415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.77799999999999,
+          34.7365
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "033",
+        "area": 0.2454360000000003,
+        "bounding_box": [
+          -88.14,
+          34.567,
+          -87.416,
+          34.906
+        ],
+        "point": [
+          -87.77799999999999,
+          34.7365
+        ],
+        "labels": {
+          "en": "Colbert"
+        },
+        "population": 53923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957,
+          32.837
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "063",
+        "area": 0.31700000000000017,
+        "bounding_box": [
+          -88.207,
+          32.52,
+          -87.707,
+          33.154
+        ],
+        "point": [
+          -87.957,
+          32.837
+        ],
+        "labels": {
+          "en": "Greene"
+        },
+        "population": 8270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6735,
+          31.744500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "013",
+        "area": 0.20771100000000112,
+        "bounding_box": [
+          -86.909,
+          31.524,
+          -86.438,
+          31.965
+        ],
+        "point": [
+          -86.6735,
+          31.744500000000002
+        ],
+        "labels": {
+          "en": "Butler"
+        },
+        "population": 20479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.349,
+          32.5785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "081",
+        "area": 0.2345520000000016,
+        "bounding_box": [
+          -85.697,
+          32.41,
+          -85.001,
+          32.747
+        ],
+        "point": [
+          -85.349,
+          32.5785
+        ],
+        "labels": {
+          "en": "Lee"
+        },
+        "population": 170521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.178,
+          30.658499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "097",
+        "area": 0.5227319999999954,
+        "bounding_box": [
+          -88.432,
+          30.144,
+          -87.924,
+          31.173
+        ],
+        "point": [
+          -88.178,
+          30.658499999999997
+        ],
+        "labels": {
+          "en": "Mobile"
+        },
+        "population": 426323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.688,
+          33.72
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "057",
+        "area": 0.2111999999999959,
+        "bounding_box": [
+          -87.952,
+          33.52,
+          -87.424,
+          33.92
+        ],
+        "point": [
+          -87.688,
+          33.72
+        ],
+        "labels": {
+          "en": "Fayette"
+        },
+        "population": 15983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.358,
+          32.919
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "017",
+        "area": 0.179359999999999,
+        "bounding_box": [
+          -85.594,
+          32.729,
+          -85.122,
+          33.109
+        ],
+        "point": [
+          -85.358,
+          32.919
+        ],
+        "labels": {
+          "en": "Chambers"
+        },
+        "population": 31745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.45349999999999,
+          33.3065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "125",
+        "area": 0.4704249999999943,
+        "bounding_box": [
+          -87.841,
+          33.003,
+          -87.066,
+          33.61
+        ],
+        "point": [
+          -87.45349999999999,
+          33.3065
+        ],
+        "labels": {
+          "en": "Tuscaloosa"
+        },
+        "population": 229043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2625,
+          32.048
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "131",
+        "area": 0.3584620000000004,
+        "bounding_box": [
+          -87.668,
+          31.827,
+          -86.857,
+          32.269
+        ],
+        "point": [
+          -87.2625,
+          32.048
+        ],
+        "labels": {
+          "en": "Wilcox"
+        },
+        "population": 10442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.32,
+          34.3495
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "095",
+        "area": 0.2625239999999958,
+        "bounding_box": [
+          -86.582,
+          34.099,
+          -86.058,
+          34.6
+        ],
+        "point": [
+          -86.32,
+          34.3495
+        ],
+        "labels": {
+          "en": "Marshall"
+        },
+        "population": 105557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.152,
+          31.128500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "053",
+        "area": 0.24777599999999878,
+        "bounding_box": [
+          -87.616,
+          30.995,
+          -86.688,
+          31.262
+        ],
+        "point": [
+          -87.152,
+          31.128500000000003
+        ],
+        "labels": {
+          "en": "Escambia"
+        },
+        "population": 37899
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.031,
+          34.775000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "083",
+        "area": 0.2213120000000001,
+        "bounding_box": [
+          -87.278,
+          34.551,
+          -86.784,
+          34.999
+        ],
+        "point": [
+          -87.031,
+          34.775000000000006
+        ],
+        "labels": {
+          "en": "Limestone"
+        },
+        "population": 105228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6335,
+          34.0125
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "009",
+        "area": 0.32620499999999425,
+        "bounding_box": [
+          -86.963,
+          33.765,
+          -86.304,
+          34.26
+        ],
+        "point": [
+          -86.6335,
+          34.0125
+        ],
+        "labels": {
+          "en": "Blount"
+        },
+        "population": 64292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3455,
+          31.53
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "099",
+        "area": 0.5291579999999947,
+        "bounding_box": [
+          -87.785,
+          31.229,
+          -86.906,
+          31.831
+        ],
+        "point": [
+          -87.3455,
+          31.53
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 21896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9205,
+          34.117999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "093",
+        "area": 0.2326379999999966,
+        "bounding_box": [
+          -88.207,
+          33.915,
+          -87.634,
+          34.321
+        ],
+        "point": [
+          -87.9205,
+          34.117999999999995
+        ],
+        "labels": {
+          "en": "Marion"
+        },
+        "population": 30391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6525,
+          32.184
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "085",
+        "area": 0.22688399999999762,
+        "bounding_box": [
+          -86.908,
+          31.962,
+          -86.397,
+          32.406
+        ],
+        "point": [
+          -86.6525,
+          32.184
+        ],
+        "labels": {
+          "en": "Lowndes"
+        },
+        "population": 9399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2645,
+          32.9295
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "037",
+        "area": 0.18076499999999973,
+        "bounding_box": [
+          -86.522,
+          32.754,
+          -86.007,
+          33.105
+        ],
+        "point": [
+          -86.2645,
+          32.9295
+        ],
+        "labels": {
+          "en": "Coosa"
+        },
+        "population": 11422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9285,
+          31.8355
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "109",
+        "area": 0.23749899999999863,
+        "bounding_box": [
+          -86.199,
+          31.616,
+          -85.658,
+          32.055
+        ],
+        "point": [
+          -85.9285,
+          31.8355
+        ],
+        "labels": {
+          "en": "Pike"
+        },
+        "population": 36522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.131,
+          32.652
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "119",
+        "area": 0.39904000000001,
+        "bounding_box": [
+          -88.421,
+          32.308,
+          -87.841,
+          32.996
+        ],
+        "point": [
+          -88.131,
+          32.652
+        ],
+        "labels": {
+          "en": "Sumter"
+        },
+        "population": 12820
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3735,
+          34.146
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "133",
+        "area": 0.16969400000000176,
+        "bounding_box": [
+          -87.637,
+          33.985,
+          -87.11,
+          34.307
+        ],
+        "point": [
+          -87.3735,
+          34.146
+        ],
+        "labels": {
+          "en": "Winston"
+        },
+        "population": 24438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.149,
+          33.400999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "121",
+        "area": 0.4219679999999966,
+        "bounding_box": [
+          -86.503,
+          33.103,
+          -85.795,
+          33.699
+        ],
+        "point": [
+          -86.149,
+          33.400999999999996
+        ],
+        "labels": {
+          "en": "Talladega"
+        },
+        "population": 82913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.971,
+          34.7275
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "071",
+        "area": 0.4089519999999988,
+        "bounding_box": [
+          -86.359,
+          34.464,
+          -85.583,
+          34.991
+        ],
+        "point": [
+          -85.971,
+          34.7275
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 52692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.703,
+          30.731499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "003",
+        "area": 0.7808920000000078,
+        "bounding_box": [
+          -88.037,
+          30.147,
+          -87.369,
+          31.316
+        ],
+        "point": [
+          -87.703,
+          30.731499999999997
+        ],
+        "labels": {
+          "en": "Baldwin"
+        },
+        "population": 236599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7045,
+          32.089
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "011",
+        "area": 0.2462020000000011,
+        "bounding_box": [
+          -85.999,
+          31.88,
+          -85.41,
+          32.298
+        ],
+        "point": [
+          -85.7045,
+          32.089
+        ],
+        "labels": {
+          "en": "Bullock"
+        },
+        "population": 10286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.666,
+          32.507999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "001",
+        "area": 0.20400000000000132,
+        "bounding_box": [
+          -86.921,
+          32.308,
+          -86.411,
+          32.708
+        ],
+        "point": [
+          -86.666,
+          32.507999999999996
+        ],
+        "labels": {
+          "en": "Autauga"
+        },
+        "population": 69515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7285,
+          32.414
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "087",
+        "area": 0.21439599999999787,
+        "bounding_box": [
+          -86.023,
+          32.232,
+          -85.434,
+          32.596
+        ],
+        "point": [
+          -85.7285,
+          32.414
+        ],
+        "labels": {
+          "en": "Macon"
+        },
+        "population": 19312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.311,
+          33.69
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "115",
+        "area": 0.31933200000000306,
+        "bounding_box": [
+          -86.578,
+          33.391,
+          -86.044,
+          33.989
+        ],
+        "point": [
+          -86.311,
+          33.69
+        ],
+        "labels": {
+          "en": "St. Clair"
+        },
+        "population": 108145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2005,
+          32.0045
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "023",
+        "area": 0.3340850000000008,
+        "bounding_box": [
+          -88.473,
+          31.698,
+          -87.928,
+          32.311
+        ],
+        "point": [
+          -88.2005,
+          32.0045
+        ],
+        "labels": {
+          "en": "Choctaw"
+        },
+        "population": 12009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80199999999999,
+          34.086
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "043",
+        "area": 0.31828799999999907,
+        "bounding_box": [
+          -87.151,
+          33.858,
+          -86.453,
+          34.314
+        ],
+        "point": [
+          -86.80199999999999,
+          34.086
+        ],
+        "labels": {
+          "en": "Cullman"
+        },
+        "population": 83273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6845,
+          33.2825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "117",
+        "area": 0.3609950000000019,
+        "bounding_box": [
+          -87.027,
+          33.019,
+          -86.342,
+          33.546
+        ],
+        "point": [
+          -86.6845,
+          33.2825
+        ],
+        "labels": {
+          "en": "Shelby"
+        },
+        "population": 266106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.14,
+          32.38849999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "047",
+        "area": 0.45487799999999773,
+        "bounding_box": [
+          -87.473,
+          32.047,
+          -86.807,
+          32.73
+        ],
+        "point": [
+          -87.14,
+          32.38849999999999
+        ],
+        "labels": {
+          "en": "Dallas"
+        },
+        "population": 41506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08850000000001,
+          33.2625
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "107",
+        "area": 0.2731289999999997,
+        "bounding_box": [
+          -88.34,
+          32.991,
+          -87.837,
+          33.534
+        ],
+        "point": [
+          -88.08850000000001,
+          33.2625
+        ],
+        "labels": {
+          "en": "Pickens"
+        },
+        "population": 18734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.707,
+          34.870000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "077",
+        "area": 0.27379200000000453,
+        "bounding_box": [
+          -88.203,
+          34.732,
+          -87.211,
+          35.008
+        ],
+        "point": [
+          -87.707,
+          34.870000000000005
+        ],
+        "labels": {
+          "en": "Lauderdale"
+        },
+        "population": 97767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.596,
+          33.716499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "029",
+        "area": 0.28908000000000006,
+        "bounding_box": [
+          -85.888,
+          33.469,
+          -85.304,
+          33.964
+        ],
+        "point": [
+          -85.596,
+          33.716499999999996
+        ],
+        "labels": {
+          "en": "Cleburne"
+        },
+        "population": 15972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4005,
+          31.883000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "005",
+        "area": 0.36835000000000717,
+        "bounding_box": [
+          -85.748,
+          31.618,
+          -85.053,
+          32.148
+        ],
+        "point": [
+          -85.4005,
+          31.883000000000003
+        ],
+        "labels": {
+          "en": "Barbour"
+        },
+        "population": 25983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.839,
+          31.0965
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "061",
+        "area": 0.1465560000000002,
+        "bounding_box": [
+          -86.193,
+          30.993,
+          -85.485,
+          31.2
+        ],
+        "point": [
+          -85.839,
+          31.0965
+        ],
+        "labels": {
+          "en": "Geneva"
+        },
+        "population": 28072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60300000000001,
+          31.408
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "045",
+        "area": 0.16017599999999538,
+        "bounding_box": [
+          -85.791,
+          31.195,
+          -85.415,
+          31.621
+        ],
+        "point": [
+          -85.60300000000001,
+          31.408
+        ],
+        "labels": {
+          "en": "Dale"
+        },
+        "population": 51982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.803,
+          32.8
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "123",
+        "area": 0.2578799999999999,
+        "bounding_box": [
+          -86.013,
+          32.493,
+          -85.593,
+          33.107
+        ],
+        "point": [
+          -85.803,
+          32.8
+        ],
+        "labels": {
+          "en": "Tallapoosa"
+        },
+        "population": 41352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8405,
+          31.5885
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "025",
+        "area": 0.5465950000000015,
+        "bounding_box": [
+          -88.18,
+          31.186,
+          -87.501,
+          31.991
+        ],
+        "point": [
+          -87.8405,
+          31.5885
+        ],
+        "labels": {
+          "en": "Clarke"
+        },
+        "population": 23953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3545,
+          31.156
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "069",
+        "area": 0.22609800000000052,
+        "bounding_box": [
+          -85.71,
+          30.997,
+          -84.999,
+          31.315
+        ],
+        "point": [
+          -85.3545,
+          31.156
+        ],
+        "labels": {
+          "en": "Houston"
+        },
+        "population": 115780
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1765,
+          31.4065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "129",
+        "area": 0.33637500000000214,
+        "bounding_box": [
+          -88.464,
+          31.114,
+          -87.889,
+          31.699
+        ],
+        "point": [
+          -88.1765,
+          31.4065
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 17229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.523,
+          34.733999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "089",
+        "area": 0.2755440000000022,
+        "bounding_box": [
+          -86.79,
+          34.476,
+          -86.256,
+          34.992
+        ],
+        "point": [
+          -86.523,
+          34.733999999999995
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 403562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.322,
+          31.746000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "041",
+        "area": 0.21787199999999607,
+        "bounding_box": [
+          -86.5,
+          31.44,
+          -86.144,
+          32.052
+        ],
+        "point": [
+          -86.322,
+          31.746000000000002
+        ],
+        "labels": {
+          "en": "Crenshaw"
+        },
+        "population": 14255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8375,
+          33.762
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "015",
+        "area": 0.2542040000000056,
+        "bounding_box": [
+          -86.146,
+          33.556,
+          -85.529,
+          33.968
+        ],
+        "point": [
+          -85.8375,
+          33.762
+        ],
+        "labels": {
+          "en": "Calhoun"
+        },
+        "population": 126341
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.31800000000001,
+          34.552
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "079",
+        "area": 0.21555600000000108,
+        "bounding_box": [
+          -87.531,
+          34.299,
+          -87.105,
+          34.805
+        ],
+        "point": [
+          -87.31800000000001,
+          34.552
+        ],
+        "labels": {
+          "en": "Lawrence"
+        },
+        "population": 33458
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.83,
+          34.4955
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "103",
+        "area": 0.213360000000001,
+        "bounding_box": [
+          -87.11,
+          34.305,
+          -86.55,
+          34.686
+        ],
+        "point": [
+          -86.83,
+          34.4955
+        ],
+        "labels": {
+          "en": "Morgan"
+        },
+        "population": 128948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.111,
+          33.791
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "075",
+        "area": 0.17515200000000122,
+        "bounding_box": [
+          -88.275,
+          33.524,
+          -87.947,
+          34.058
+        ],
+        "point": [
+          -88.111,
+          33.791
+        ],
+        "labels": {
+          "en": "Lamar"
+        },
+        "population": 13422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.162,
+          32.286
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "113",
+        "area": 0.24460800000000313,
+        "bounding_box": [
+          -85.435,
+          32.062,
+          -84.889,
+          32.51
+        ],
+        "point": [
+          -85.162,
+          32.286
+        ],
+        "labels": {
+          "en": "Russell"
+        },
+        "population": 56957
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.852,
+          34.4435
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "059",
+        "area": 0.17838800000000218,
+        "bounding_box": [
+          -88.174,
+          34.305,
+          -87.53,
+          34.582
+        ],
+        "point": [
+          -87.852,
+          34.4435
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 32080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.045,
+          31.4685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "035",
+        "area": 0.434716000000005,
+        "bounding_box": [
+          -87.427,
+          31.184,
+          -86.663,
+          31.753
+        ],
+        "point": [
+          -87.045,
+          31.4685
+        ],
+        "labels": {
+          "en": "Conecuh"
+        },
+        "population": 12525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14150000000001,
+          32.5875
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "051",
+        "area": 0.1971089999999969,
+        "bounding_box": [
+          -86.413,
+          32.406,
+          -85.87,
+          32.769
+        ],
+        "point": [
+          -86.14150000000001,
+          32.5875
+        ],
+        "labels": {
+          "en": "Elmore"
+        },
+        "population": 94126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.92699999999999,
+          33.5445
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "073",
+        "area": 0.48954000000000547,
+        "bounding_box": [
+          -87.337,
+          33.246,
+          -86.517,
+          33.843
+        ],
+        "point": [
+          -86.92699999999999,
+          33.5445
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 653966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.29499999999999,
+          33.759
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "127",
+        "area": 0.33554400000000406,
+        "bounding_box": [
+          -87.636,
+          33.513,
+          -86.954,
+          34.005
+        ],
+        "point": [
+          -87.29499999999999,
+          33.759
+        ],
+        "labels": {
+          "en": "Walker"
+        },
+        "population": 63410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.443,
+          33.304
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "111",
+        "area": 0.16626799999999814,
+        "bounding_box": [
+          -85.654,
+          33.107,
+          -85.232,
+          33.501
+        ],
+        "point": [
+          -85.443,
+          33.304
+        ],
+        "labels": {
+          "en": "Randolph"
+        },
+        "population": 23459
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.208,
+          32.2335
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "101",
+        "area": 0.3103860000000031,
+        "bounding_box": [
+          -86.497,
+          31.965,
+          -85.919,
+          32.502
+        ],
+        "point": [
+          -86.208,
+          32.2335
+        ],
+        "labels": {
+          "en": "Montgomery"
+        },
+        "population": 235409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.149,
+          33.039500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "007",
+        "area": 0.22658999999999632,
+        "bounding_box": [
+          -87.422,
+          32.832,
+          -86.876,
+          33.247
+        ],
+        "point": [
+          -87.149,
+          33.039500000000004
+        ],
+        "labels": {
+          "en": "Bibb"
+        },
+        "population": 26582
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0535,
+          34.0215
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "055",
+        "area": 0.2272470000000046,
+        "bounding_box": [
+          -86.37,
+          33.842,
+          -85.737,
+          34.201
+        ],
+        "point": [
+          -86.0535,
+          34.0215
+        ],
+        "labels": {
+          "en": "Etowah"
+        },
+        "population": 105140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.697,
+          32.866
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "021",
+        "area": 0.2653280000000062,
+        "bounding_box": [
+          -87.019,
+          32.66,
+          -86.375,
+          33.072
+        ],
+        "point": [
+          -86.697,
+          32.866
+        ],
+        "labels": {
+          "en": "Chilton"
+        },
+        "population": 48048
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9925,
+          31.4005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "031",
+        "area": 0.17785899999999893,
+        "bounding_box": [
+          -86.196,
+          31.182,
+          -85.789,
+          31.619
+        ],
+        "point": [
+          -85.9925,
+          31.4005
+        ],
+        "labels": {
+          "en": "Coffee"
+        },
+        "population": 56499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4445,
+          31.261
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "039",
+        "area": 0.276040000000001,
+        "bounding_box": [
+          -86.702,
+          30.993,
+          -86.187,
+          31.529
+        ],
+        "point": [
+          -86.4445,
+          31.261
+        ],
+        "labels": {
+          "en": "Covington"
+        },
+        "population": 38069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2295,
+          31.541
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-al",
+        "region_child": "067",
+        "area": 0.17568200000000486,
+        "bounding_box": [
+          -85.418,
+          31.308,
+          -85.041,
+          31.774
+        ],
+        "point": [
+          -85.2295,
+          31.541
+        ],
+        "labels": {
+          "en": "Henry"
+        },
+        "population": 18444
+      }
+    }
+  ]
+}

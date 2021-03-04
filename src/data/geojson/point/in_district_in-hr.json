@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6285,
+          28.5975
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "jhajjar",
+        "area": 0.33319499999999846,
+        "bounding_box": [
+          76.285,
+          28.355,
+          76.972,
+          28.84
+        ],
+        "point": [
+          76.6285,
+          28.5975
+        ],
+        "labels": {
+          "en": "Jhajjar"
+        },
+        "population": 1019838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9385,
+          28.37
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "gurugram",
+        "area": 0.19665000000000024,
+        "bounding_box": [
+          76.651,
+          28.199,
+          77.226,
+          28.541
+        ],
+        "point": [
+          76.9385,
+          28.37
+        ],
+        "labels": {
+          "en": "Gurugram"
+        },
+        "population": 2514810
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35249999999999,
+          28.36
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "faridabad",
+        "area": 0.12783400000000147,
+        "bounding_box": [
+          77.154,
+          28.199,
+          77.551,
+          28.521
+        ],
+        "point": [
+          77.35249999999999,
+          28.36
+        ],
+        "labels": {
+          "en": "Faridabad"
+        },
+        "population": 2415223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1305,
+          28.133499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "mahendragarh",
+        "area": 0.3177749999999964,
+        "bounding_box": [
+          75.893,
+          27.799,
+          76.368,
+          28.468
+        ],
+        "point": [
+          76.1305,
+          28.133499999999998
+        ],
+        "labels": {
+          "en": "Mahendragarh"
+        },
+        "population": 969877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5695,
+          28.2195
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "rewari",
+        "area": 0.2923949999999982,
+        "bounding_box": [
+          76.28,
+          27.967,
+          76.859,
+          28.472
+        ],
+        "point": [
+          76.5695,
+          28.2195
+        ],
+        "labels": {
+          "en": "Rewari"
+        },
+        "population": 1015563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0985,
+          27.994
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "nuh",
+        "area": 0.3338799999999996,
+        "bounding_box": [
+          76.853,
+          27.654,
+          77.344,
+          28.334
+        ],
+        "point": [
+          77.0985,
+          27.994
+        ],
+        "labels": {
+          "en": "Nuh"
+        },
+        "population": 1274319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.334,
+          28.0595
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "palwal",
+        "area": 0.1810499999999996,
+        "bounding_box": [
+          77.121,
+          27.847,
+          77.547,
+          28.272
+        ],
+        "point": [
+          77.334,
+          28.0595
+        ],
+        "labels": {
+          "en": "Palwal"
+        },
+        "population": 1304143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.149,
+          28.599
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "charkhi dadri",
+        "area": 0.2828640000000019,
+        "bounding_box": [
+          75.817,
+          28.386,
+          76.481,
+          28.812
+        ],
+        "point": [
+          76.149,
+          28.599
+        ],
+        "labels": {
+          "en": "Charkhi Dadri"
+        },
+        "population": 547472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.33449999999999,
+          30.213
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "yamunanagar",
+        "area": 0.2964500000000012,
+        "bounding_box": [
+          77.065,
+          29.938,
+          77.604,
+          30.488
+        ],
+        "point": [
+          77.33449999999999,
+          30.213
+        ],
+        "labels": {
+          "en": "Yamunanagar"
+        },
+        "population": 1367107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.771,
+          30.061
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "kurukshetra",
+        "area": 0.2708240000000016,
+        "bounding_box": [
+          76.422,
+          29.867,
+          77.12,
+          30.255
+        ],
+        "point": [
+          76.771,
+          30.061
+        ],
+        "labels": {
+          "en": "Kurukshetra"
+        },
+        "population": 1081281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4495,
+          29.854
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "kaithal",
+        "area": 0.3805879999999931,
+        "bounding_box": [
+          76.168,
+          29.516,
+          76.731,
+          30.192
+        ],
+        "point": [
+          76.4495,
+          29.854
+        ],
+        "labels": {
+          "en": "Kaithal"
+        },
+        "population": 1232884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8895,
+          29.6075
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "sirsa",
+        "area": 0.6375010000000075,
+        "bounding_box": [
+          74.475,
+          29.223,
+          75.304,
+          29.992
+        ],
+        "point": [
+          74.8895,
+          29.6075
+        ],
+        "labels": {
+          "en": "Sirsa"
+        },
+        "population": 1513027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.864,
+          29.717
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "karnal",
+        "area": 0.4007519999999992,
+        "bounding_box": [
+          76.501,
+          29.441,
+          77.227,
+          29.993
+        ],
+        "point": [
+          76.864,
+          29.717
+        ],
+        "labels": {
+          "en": "Karnal"
+        },
+        "population": 1697184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.34800000000001,
+          29.450499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "jind",
+        "area": 0.654869999999997,
+        "bounding_box": [
+          75.933,
+          29.056,
+          76.763,
+          29.845
+        ],
+        "point": [
+          76.34800000000001,
+          29.450499999999998
+        ],
+        "labels": {
+          "en": "Jind"
+        },
+        "population": 1492625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.592,
+          29.5355
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "fatehabad",
+        "area": 0.4263120000000002,
+        "bounding_box": [
+          75.22,
+          29.249,
+          75.964,
+          29.822
+        ],
+        "point": [
+          75.592,
+          29.5355
+        ],
+        "labels": {
+          "en": "Fatehabad"
+        },
+        "population": 1055454
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.82300000000001,
+          29.2395
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "hisar",
+        "area": 0.674189999999994,
+        "bounding_box": [
+          75.328,
+          28.899,
+          76.318,
+          29.58
+        ],
+        "point": [
+          75.82300000000001,
+          29.2395
+        ],
+        "labels": {
+          "en": "Hisar"
+        },
+        "population": 1943351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8965,
+          29.338
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "panipat",
+        "area": 0.18620799999999887,
+        "bounding_box": [
+          76.632,
+          29.162,
+          77.161,
+          29.514
+        ],
+        "point": [
+          76.8965,
+          29.338
+        ],
+        "labels": {
+          "en": "Panipat"
+        },
+        "population": 1455093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8535,
+          29.0435
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "sonipat",
+        "area": 0.3716870000000049,
+        "bounding_box": [
+          76.475,
+          28.798,
+          77.232,
+          29.289
+        ],
+        "point": [
+          76.8535,
+          29.0435
+        ],
+        "labels": {
+          "en": "Sonipat"
+        },
+        "population": 1776441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9195,
+          28.7335
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "bhiwani",
+        "area": 0.619244999999994,
+        "bounding_box": [
+          75.474,
+          28.386,
+          76.365,
+          29.081
+        ],
+        "point": [
+          75.9195,
+          28.7335
+        ],
+        "labels": {
+          "en": "Bhiwani"
+        },
+        "population": 1298019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.548,
+          28.89
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "rohtak",
+        "area": 0.279551999999999,
+        "bounding_box": [
+          76.212,
+          28.682,
+          76.884,
+          29.098
+        ],
+        "point": [
+          76.548,
+          28.89
+        ],
+        "labels": {
+          "en": "Rohtak"
+        },
+        "population": 1190409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.977,
+          30.688499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "panchkula",
+        "area": 0.19240000000000199,
+        "bounding_box": [
+          76.777,
+          30.448,
+          77.177,
+          30.929
+        ],
+        "point": [
+          76.977,
+          30.688499999999998
+        ],
+        "labels": {
+          "en": "Panchkula"
+        },
+        "population": 589650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9015,
+          30.4355
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "panchkula",
+        "area": 0.0006089999999999467,
+        "bounding_box": [
+          76.887,
+          30.425,
+          76.916,
+          30.446
+        ],
+        "point": [
+          76.9015,
+          30.4355
+        ],
+        "labels": {
+          "en": "Panchkula"
+        },
+        "population": 589650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.87899999999999,
+          30.3455
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "ambala",
+        "area": 0.28886200000000056,
+        "bounding_box": [
+          76.55,
+          30.126,
+          77.208,
+          30.565
+        ],
+        "point": [
+          76.87899999999999,
+          30.3455
+        ],
+        "labels": {
+          "en": "Ambala"
+        },
+        "population": 1297728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5925,
+          30.109
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hr",
+        "region_child": "ambala",
+        "area": 0.007769999999999413,
+        "bounding_box": [
+          76.54,
+          30.072,
+          76.645,
+          30.146
+        ],
+        "point": [
+          76.5925,
+          30.109
+        ],
+        "labels": {
+          "en": "Ambala"
+        },
+        "population": 1297728
+      }
+    }
+  ]
+}

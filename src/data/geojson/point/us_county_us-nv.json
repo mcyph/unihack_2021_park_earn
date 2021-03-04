@@ -1,0 +1,515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3435,
+          39.538
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "001",
+        "area": 1.64145,
+        "bounding_box": [
+          -119.226,
+          39.073,
+          -117.461,
+          40.003
+        ],
+        "point": [
+          -118.3435,
+          39.538
+        ],
+        "labels": {
+          "en": "Churchill"
+        },
+        "population": 25800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1745,
+          41.263000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "013",
+        "area": 3.409361999999996,
+        "bounding_box": [
+          -119.331,
+          40.526,
+          -117.018,
+          42.0
+        ],
+        "point": [
+          -118.1745,
+          41.263000000000005
+        ],
+        "labels": {
+          "en": "Humboldt"
+        },
+        "population": 17003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.97,
+          35.928
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "003",
+        "area": 3.4336079999999924,
+        "bounding_box": [
+          -115.897,
+          35.002,
+          -114.043,
+          36.854
+        ],
+        "point": [
+          -114.97,
+          35.928
+        ],
+        "labels": {
+          "en": "Clark"
+        },
+        "population": 2768600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.424,
+          38.4845
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "021",
+        "area": 1.7313459999999994,
+        "bounding_box": [
+          -119.157,
+          37.894,
+          -117.691,
+          39.075
+        ],
+        "point": [
+          -118.424,
+          38.4845
+        ],
+        "labels": {
+          "en": "Mineral"
+        },
+        "population": 4492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5985,
+          37.5635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "023",
+        "area": 10.220804999999972,
+        "bounding_box": [
+          -118.196,
+          35.964,
+          -115.001,
+          39.163
+        ],
+        "point": [
+          -116.5985,
+          37.5635
+        ],
+        "labels": {
+          "en": "Nye"
+        },
+        "population": 59352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6565,
+          38.8245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "005",
+        "area": 0.4012469999999992,
+        "bounding_box": [
+          -120.003,
+          38.535,
+          -119.31,
+          39.114
+        ],
+        "point": [
+          -119.6565,
+          38.8245
+        ],
+        "labels": {
+          "en": "Douglas"
+        },
+        "population": 53674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.97749999999999,
+          39.4025
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "033",
+        "area": 2.7003110000000072,
+        "bounding_box": [
+          -115.908,
+          38.677,
+          -114.047,
+          40.128
+        ],
+        "point": [
+          -114.97749999999999,
+          39.4025
+        ],
+        "labels": {
+          "en": "White Pine"
+        },
+        "population": 10972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7775,
+          39.168
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "510",
+        "area": 0.07519799999999904,
+        "bounding_box": [
+          -120.004,
+          39.085,
+          -119.551,
+          39.251
+        ],
+        "point": [
+          -119.7775,
+          39.168
+        ],
+        "labels": {
+          "en": "Carson City"
+        },
+        "population": 58024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.19800000000001,
+          40.0805
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "011",
+        "area": 1.482233999999994,
+        "bounding_box": [
+          -116.601,
+          39.161,
+          -115.795,
+          41.0
+        ],
+        "point": [
+          -116.19800000000001,
+          40.0805
+        ],
+        "labels": {
+          "en": "Eureka"
+        },
+        "population": 2389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5295,
+          41.0595
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "007",
+        "area": 5.619185000000005,
+        "bounding_box": [
+          -117.02,
+          40.117,
+          -114.039,
+          42.002
+        ],
+        "point": [
+          -115.5295,
+          41.0595
+        ],
+        "labels": {
+          "en": "Elko"
+        },
+        "population": 52714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.23349999999999,
+          39.068
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "019",
+        "area": 1.2543719999999854,
+        "bounding_box": [
+          -119.713,
+          38.414,
+          -118.754,
+          39.722
+        ],
+        "point": [
+          -119.23349999999999,
+          39.068
+        ],
+        "labels": {
+          "en": "Lyon"
+        },
+        "population": 78272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.191,
+          40.047
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "015",
+        "area": 2.30486399999999,
+        "bounding_box": [
+          -117.795,
+          39.093,
+          -116.587,
+          41.001
+        ],
+        "point": [
+          -117.191,
+          40.047
+        ],
+        "labels": {
+          "en": "Lander"
+        },
+        "population": 5759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.58850000000001,
+          40.5815
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "031",
+        "area": 2.3638849999999847,
+        "bounding_box": [
+          -120.006,
+          39.166,
+          -119.171,
+          41.997
+        ],
+        "point": [
+          -119.58850000000001,
+          40.5815
+        ],
+        "labels": {
+          "en": "Washoe"
+        },
+        "population": 522802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.499,
+          39.436499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "029",
+        "area": 0.1595299999999982,
+        "bounding_box": [
+          -119.714,
+          39.251,
+          -119.284,
+          39.622
+        ],
+        "point": [
+          -119.499,
+          39.436499999999995
+        ],
+        "labels": {
+          "en": "Storey"
+        },
+        "population": 4710
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9725,
+          37.7595
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "017",
+        "area": 3.3929150000000083,
+        "bounding_box": [
+          -115.897,
+          36.842,
+          -114.048,
+          38.677
+        ],
+        "point": [
+          -114.9725,
+          37.7595
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 6879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3195,
+          40.4795
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "027",
+        "area": 1.9635570000000033,
+        "bounding_box": [
+          -119.339,
+          39.998,
+          -117.3,
+          40.961
+        ],
+        "point": [
+          -118.3195,
+          40.4795
+        ],
+        "labels": {
+          "en": "Pershing"
+        },
+        "population": 6795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.79650000000001,
+          37.7225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nv",
+        "region_child": "009",
+        "area": 1.8982889999999866,
+        "bounding_box": [
+          -118.428,
+          36.971,
+          -117.165,
+          38.474
+        ],
+        "point": [
+          -117.79650000000001,
+          37.7225
+        ],
+        "labels": {
+          "en": "Esmeralda"
+        },
+        "population": 654
+      }
+    }
+  ]
+}

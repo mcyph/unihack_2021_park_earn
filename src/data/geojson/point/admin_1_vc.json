@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.221500000000006,
+          13.015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vc",
+        "region_child": "vc-06",
+        "area": 0.002420000000000014,
+        "bounding_box": [
+          -61.249,
+          12.993,
+          -61.194,
+          13.037
+        ],
+        "point": [
+          -61.221500000000006,
+          13.015
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": "Grenadines Parish",
+          "es": "Granadinas",
+          "fr": "Grenadines",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "parrocchia delle Grenadine",
+          "ja": "グレナディーンズ郡",
+          "ko": "그레나딘 교구",
+          "nl": "Grenadines Parish",
+          "pl": "Grenadyny",
+          "pt": "Granadinas",
+          "ru": "Гренадины",
+          "sv": null,
+          "tr": null,
+          "vi": "Grenadines",
+          "zh": "格瑞那丁區"
+        },
+        "population": 2678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.232,
+          13.201
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vc",
+        "region_child": "vc-02",
+        "area": 0.005928000000000265,
+        "bounding_box": [
+          -61.271,
+          13.163,
+          -61.193,
+          13.239
+        ],
+        "point": [
+          -61.232,
+          13.201
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "أبرشية سانت أندرو",
+          "bn": "সেন্ট অ্যান্ড্রু প্যারিশ",
+          "de": "Saint Andrew",
+          "en": "Saint Andrew Parish",
+          "es": "San Andrés",
+          "fr": "Saint-Andrew",
+          "el": "Άγιος Ανδρέας",
+          "hi": "सेंट एंड्रू पैरिश",
+          "hu": null,
+          "id": "Paroki Saint Andrew",
+          "it": "parrocchia di Saint Andrew",
+          "ja": "セント・アンドリューズ",
+          "ko": "세인트앤드루 교구",
+          "nl": "Saint Andrew",
+          "pl": "Saint Andrew",
+          "pt": "Santo André",
+          "ru": "Сент-Андру",
+          "sv": "Saint Andrew Parish",
+          "tr": "Saint Andrew Parish",
+          "vi": "Saint Andrew",
+          "zh": "聖安德魯區"
+        },
+        "population": 11723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.187,
+          13.175
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vc",
+        "region_child": "vc-04",
+        "area": 0.00856799999999987,
+        "bounding_box": [
+          -61.238,
+          13.133,
+          -61.136,
+          13.217
+        ],
+        "point": [
+          -61.187,
+          13.175
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "أبرشية سانت جورج",
+          "bn": "সেন্ট জর্জ প্যারিশ",
+          "de": "Parish of Saint George",
+          "en": "Saint George Parish",
+          "es": "San Jorge",
+          "fr": "Saint-George",
+          "el": "Άγιος Γεώργιος",
+          "hi": "सेंट जॉर्ज पैरिश",
+          "hu": null,
+          "id": "Paroki Saint George",
+          "it": "parrocchia di Saint George",
+          "ja": "セントジョージ",
+          "ko": "세인트조지 교구",
+          "nl": "Saint George",
+          "pl": "Saint George",
+          "pt": "São Jorge Parish",
+          "ru": "Сент-Джордж",
+          "sv": "Saint George Parish",
+          "tr": "Saint George Parish",
+          "vi": "Saint George",
+          "zh": "聖喬治區"
+        },
+        "population": 29678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.161500000000004,
+          13.289000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vc",
+        "region_child": "vc-01",
+        "area": 0.013649999999999253,
+        "bounding_box": [
+          -61.199,
+          13.198,
+          -61.124,
+          13.38
+        ],
+        "point": [
+          -61.161500000000004,
+          13.289000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "أبرشية شارلوت",
+          "bn": "চার্লট প্যারিশ",
+          "de": "Charlotte",
+          "en": "Charlotte Parish",
+          "es": "Carlota",
+          "fr": "Charlotte",
+          "el": "Καρλόττα",
+          "hi": "शेर्लोट पैरिश",
+          "hu": null,
+          "id": "Paroki Charlotte",
+          "it": "parrocchia di Charlotte",
+          "ja": "シャーロット教区",
+          "ko": "샬럿 교구",
+          "nl": "Charlotte",
+          "pl": "Charlotte",
+          "pt": "Charlottr",
+          "ru": "Шарлотта",
+          "sv": "Charlotte Parish",
+          "tr": "Charlotte Parish",
+          "vi": "Charlotte",
+          "zh": "夏洛特区"
+        },
+        "population": 10421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2195,
+          13.3215
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vc",
+        "region_child": "vc-03",
+        "area": 0.011349000000000239,
+        "bounding_box": [
+          -61.268,
+          13.263,
+          -61.171,
+          13.38
+        ],
+        "point": [
+          -61.2195,
+          13.3215
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "أبرشية القديس ديفيد",
+          "bn": "সেন্ট ডেভিড প্যারিশ",
+          "de": "Saint David Parish",
+          "en": "Saint David Parish",
+          "es": "San David",
+          "fr": "Saint-David",
+          "el": "Άγιος Δαβίδ",
+          "hi": "सेंट डेविड पैरिश",
+          "hu": null,
+          "id": "Paroki Saint David",
+          "it": "parrocchia di Saint David",
+          "ja": "セント・デイヴィッド郡",
+          "ko": "세인트데이비드 교구",
+          "nl": "Saint David",
+          "pl": "Saint David",
+          "pt": "São David",
+          "ru": "Сент-Дэвид",
+          "sv": "Saint David Parish",
+          "tr": "Saint David Parish",
+          "vi": "Saint David",
+          "zh": "聖大衛區"
+        },
+        "population": 5599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2295,
+          13.2265
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "vc",
+        "region_child": "vc-05",
+        "area": 0.006556999999999926,
+        "bounding_box": [
+          -61.271,
+          13.187,
+          -61.188,
+          13.266
+        ],
+        "point": [
+          -61.2295,
+          13.2265
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "أبرشية القديس باتريك",
+          "bn": "সেন্ট প্যাট্রিক প্যারিশ",
+          "de": "Saint Patrick Parish",
+          "en": "Saint Patrick Parish",
+          "es": "San Patricio",
+          "fr": "Saint-Patrick",
+          "el": "Άγιος Πατρίκιος",
+          "hi": "सेंट पैट्रिक पैरिश",
+          "hu": null,
+          "id": "Paroki Saint Patrick",
+          "it": "parrocchia di Saint Patrick",
+          "ja": "セント・パトリック教区",
+          "ko": "세인트패트릭 교구",
+          "nl": "Saint Patrick",
+          "pl": "Saint Patrick",
+          "pt": "São Patrício",
+          "ru": "Сент-Патрик",
+          "sv": "Saint Patrick Parish",
+          "tr": "Saint Patrick Parish",
+          "vi": "Saint Patrick",
+          "zh": "聖派屈克區"
+        },
+        "population": 5648
+      }
+    }
+  ]
+}

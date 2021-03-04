@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0070000000000001,
+          8.5975
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "tg",
+        "region_child": "tg01",
+        "area": 1.7456459999999998,
+        "bounding_box": [
+          0.384,
+          7.897,
+          1.63,
+          9.298
+        ],
+        "point": [
+          1.0070000000000001,
+          8.5975
+        ],
+        "labels": {
+          "en": "Centrale"
+        },
+        "population": 856079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.829,
+          9.533000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "tg",
+        "region_child": "tg02",
+        "area": 1.6567039999999993,
+        "bounding_box": [
+          0.227,
+          8.845,
+          1.431,
+          10.221
+        ],
+        "point": [
+          0.829,
+          9.533000000000001
+        ],
+        "labels": {
+          "en": "Kara"
+        },
+        "population": 958914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2614999999999998,
+          6.5085
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "tg",
+        "region_child": "tg03",
+        "area": 0.8696750000000001,
+        "bounding_box": [
+          0.724,
+          6.104,
+          1.799,
+          6.913
+        ],
+        "point": [
+          1.2614999999999998,
+          6.5085
+        ],
+        "labels": {
+          "en": "Maritime"
+        },
+        "population": 3962206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0924999999999998,
+          7.4535
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "tg",
+        "region_child": "tg04",
+        "area": 2.1414450000000005,
+        "bounding_box": [
+          0.509,
+          6.536,
+          1.676,
+          8.371
+        ],
+        "point": [
+          1.0924999999999998,
+          7.4535
+        ],
+        "labels": {
+          "en": "Plateaux"
+        },
+        "population": 1796258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.42799999999999994,
+          10.5055
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "tg",
+        "region_child": "tg05",
+        "area": 1.4443799999999993,
+        "bounding_box": [
+          -0.142,
+          9.872,
+          0.998,
+          11.139
+        ],
+        "point": [
+          0.42799999999999994,
+          10.5055
+        ],
+        "labels": {
+          "en": "Savanes"
+        },
+        "population": 1204711
+      }
+    }
+  ]
+}

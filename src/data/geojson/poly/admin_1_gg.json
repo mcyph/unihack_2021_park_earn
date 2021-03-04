@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.58,
+              49.494
+            ],
+            [
+              -2.657,
+              49.459
+            ],
+            [
+              -2.669,
+              49.431
+            ],
+            [
+              -2.534,
+              49.436
+            ],
+            [
+              -2.518,
+              49.516
+            ],
+            [
+              -2.58,
+              49.494
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gg",
+        "region_child": "gg-x01~",
+        "area": 0.01283500000000015,
+        "bounding_box": [
+          -2.669,
+          49.431,
+          -2.518,
+          49.516
+        ],
+        "point": [
+          -2.5934999999999997,
+          49.4735
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 50818
+      }
+    }
+  ]
+}

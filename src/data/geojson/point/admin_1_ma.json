@@ -1,0 +1,853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4585,
+          28.240499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-14",
+        "area": 27.986896999999992,
+        "bounding_box": [
+          -12.573,
+          25.994,
+          -6.344,
+          30.487
+        ],
+        "point": [
+          -9.4585,
+          28.240499999999997
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 19,
+          "ar": "كلميم السمارة",
+          "bn": "গোয়েল্মিম এস সেমারা",
+          "de": "Guelmim-Es Semara",
+          "en": "Guelmim-Es Semara",
+          "es": "Guelmim-Esmara",
+          "fr": "Guelmim-Es Semara",
+          "el": "Γκουελμίμ-Ες Σεμάρα",
+          "hi": "ग्वेल्मिम-एस सेमारा",
+          "hu": null,
+          "id": "Guelmim-Es Semara",
+          "it": "Guelmim-Es Semara",
+          "ja": "ゲルミン＝エス・スマラ地方",
+          "ko": "겔밈에스스마라 지방",
+          "nl": "Guelmim-Es Semara",
+          "pl": "Kulmim-Asmara",
+          "pt": "Guelmim-Es Semara",
+          "ru": "Гулимим-Эс-Смара",
+          "sv": "Guelmim-Es-Smara",
+          "tr": "Guelmim-Es Semara",
+          "vi": "Guelmim-Es Semara",
+          "zh": "蓋勒敏-塞馬拉大區"
+        },
+        "population": 473132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.278,
+          26.304000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-15",
+        "area": 13.220016000000005,
+        "bounding_box": [
+          -15.012,
+          24.398,
+          -11.544,
+          28.21
+        ],
+        "point": [
+          -13.278,
+          26.304000000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 36,
+          "ar": "العيون بوجدور",
+          "bn": "লয়োনি বুজদোর সাকিয়া এল  হামরা",
+          "de": "Laâyoune-Boujdour",
+          "en": "Laâyoune-Boujdour-Sakia El Hamra",
+          "es": "El Aaiún-Bojador-Saguia el Hamra",
+          "fr": "Laâyoune-Boujdour-Sakia el Hamra",
+          "el": "Λααγιούν-Μπουζντούρ-Σάκια Ελ Χάμρα",
+          "hi": "लायून-बुडूर-सकिया एल हम्रा",
+          "hu": null,
+          "id": "Laâyoune-Boujdour-Sakia El Hamra",
+          "it": "Laâyoune-Boujdour-Sakia El Hamra",
+          "ja": "アイウン＝ブジュール＝サキア・エル・ハムラ地方",
+          "ko": "라윤부즈두르사키아엘함라 지방",
+          "nl": "Laâyoune-Boujdour",
+          "pl": "Al-Ujun-Budżdur-Sakija al-Hamra",
+          "pt": "Laâyoune-Boujdour-Sakia El Hamra",
+          "ru": "Эль-Аюн — Буждур — Сегиет-эль-Хамра",
+          "sv": "Laâyoune-Boujdour-Sakia El Hamra",
+          "tr": "Laâyoune-Boujdour-Sakia El Hamra",
+          "vi": "Laâyoune-Boujdour-Sakia El Hamra",
+          "zh": "阿尤恩-布支杜爾-薩基亞-阿姆拉大區"
+        },
+        "population": 304670
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.9805,
+          23.006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-16",
+        "area": 12.900523999999988,
+        "bounding_box": [
+          -17.014,
+          21.42,
+          -12.947,
+          24.592
+        ],
+        "point": [
+          -14.9805,
+          23.006
+        ],
+        "labels": {
+          "alt": "Ed Dakhla|Oued Eddahab",
+          "local": null,
+          "len": 13,
+          "ar": "إقليم وادي الذهب",
+          "bn": "ওউড এড-ডাহাব প্রদেশ",
+          "de": "Oued ed Dahab",
+          "en": "Oued Ed-Dahab Province",
+          "es": "Provincia de Río de Oro-Dajla",
+          "fr": "province d'Oued Ed-Dahab",
+          "el": "Ουέντ Εντ-Νταχάμπ",
+          "hi": "ओयड एड-दाहब प्रांत",
+          "hu": null,
+          "id": "Provinsi Oued Ed-Dahab",
+          "it": "provincia di Oued Ed-Dahab",
+          "ja": "オウィド・エッ＝ダハブ州",
+          "ko": "우에드 에드 다합 주",
+          "nl": "Oued ed Dahab",
+          "pl": "Prowincja Oued Ed-Dahab",
+          "pt": "Oued ed-Dahab provins",
+          "ru": "Уэд Эд-Дахаб",
+          "sv": "Oued ed-Dahab",
+          "tr": "Oued Ed-Dahab Province",
+          "vi": "Oued Ed-Dahab Tỉnh",
+          "zh": null
+        },
+        "population": 78372
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3565000000000005,
+          35.32
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-01",
+        "area": 2.159849999999988,
+        "bounding_box": [
+          -6.249,
+          34.715,
+          -4.464,
+          35.925
+        ],
+        "point": [
+          -5.3565000000000005,
+          35.32
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "طنجة تطوان",
+          "bn": "টাঙ্গিয়ের-টেটুয়াং",
+          "de": "Tanger-Tétouan",
+          "en": "Tangier-Tetouan",
+          "es": "Tánger-Tetuán",
+          "fr": "Tanger-Tétouan",
+          "el": "Τάνγκιερ-Τετούαν",
+          "hi": "टैनजिअर-टीटूअन",
+          "hu": null,
+          "id": "Tangier-Tétouan",
+          "it": "Tangeri-Tétouan",
+          "ja": "タンジェ＝テトゥアン地方",
+          "ko": "탕헤르테투안 지방",
+          "nl": "Tanger-Tétouan",
+          "pl": "Tanger-Tetuan",
+          "pt": "Tânger-Tetuão",
+          "ru": "Танжер-Тетуан",
+          "sv": "Tanger-Tétouan",
+          "tr": "Tangier-Tétouan",
+          "vi": "Tangier-Tetouan",
+          "zh": "丹吉爾-得土安大區"
+        },
+        "population": 3224412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5155000000000003,
+          33.5635
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-04",
+        "area": 10.862186999999993,
+        "bounding_box": [
+          -3.999,
+          31.733,
+          -1.032,
+          35.394
+        ],
+        "point": [
+          -2.5155000000000003,
+          33.5635
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "الجهة الشرقية",
+          "bn": "ওরিয়েন্টাল",
+          "de": "Oriental",
+          "en": "Oriental",
+          "es": "La Oriental",
+          "fr": "Oriental",
+          "el": "Οριένταλ",
+          "hi": "ओरिएंटल",
+          "hu": null,
+          "id": "Oriental Region",
+          "it": "Regione Orientale",
+          "ja": "オリアンタル地方",
+          "ko": "오리앙탈 지방",
+          "nl": "Oriental",
+          "pl": "Region Wschodni",
+          "pt": "Região Oriental",
+          "ru": "Восточная область",
+          "sv": "Oriental",
+          "tr": "Oriental",
+          "vi": "Oriental",
+          "zh": "東部大區"
+        },
+        "population": 2166466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.786,
+          32.254999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-06",
+        "area": 13.241935999999997,
+        "bounding_box": [
+          -6.42,
+          30.229,
+          -3.152,
+          34.281
+        ],
+        "point": [
+          -4.786,
+          32.254999999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 18,
+          "ar": "مكناس تافيلالت",
+          "bn": "মেকনেস-টাফিলালেট",
+          "de": "Meknès-Tafilalet",
+          "en": "Meknès-Tafilalet",
+          "es": "Mequinez-Tafilalet",
+          "fr": "Meknès-Tafilalet",
+          "el": "Μεκνές-Ταφιλαλέτ",
+          "hi": "मेक्नेस-तफिलालेट",
+          "hu": null,
+          "id": "Meknès-Tafilalet",
+          "it": "Meknès-Tafilalet",
+          "ja": "メクネス＝タフィラルト地方",
+          "ko": "메크네스타필랄레트 지방",
+          "nl": "Meknès-Tafilalet",
+          "pl": "Meknes-Tafilalt",
+          "pt": "Meknès-Tafilalet",
+          "ru": "Мекнес-Тафилалет",
+          "sv": "Meknès-Tafilalet",
+          "tr": "Meknès-Tafilalet",
+          "vi": "Meknès-Tafilalet",
+          "zh": "梅克內斯-塔菲拉勒特大區"
+        },
+        "population": 2525048
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.584999999999999,
+          30.523
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-13",
+        "area": 16.28743199999999,
+        "bounding_box": [
+          -10.399,
+          29.076,
+          -4.771,
+          31.97
+        ],
+        "point": [
+          -7.584999999999999,
+          30.523
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 20,
+          "ar": "سوس ماسة درعة",
+          "bn": "সৌচ-মাচা-দ্রায",
+          "de": "Souss-Massa-Draâ",
+          "en": "Suss-Massa-Draa",
+          "es": "Sus-Masa-Draa",
+          "fr": "Souss-Massa-Drâa",
+          "el": "Σούς-Μάσσα-Ντράα",
+          "hi": "सोउस-मसा-ड्रा",
+          "hu": null,
+          "id": "Souss-Massa-Draâ",
+          "it": "Souss-Massa-Draâ",
+          "ja": "スース＝マサ＝ドラア地方",
+          "ko": "수스마사드라 지방",
+          "nl": "Souss-Massa-Daraâ",
+          "pl": "Sus-Masa-Dara",
+          "pt": "Souss-Massa-Drâa",
+          "ru": "Сус-Масса-Драа",
+          "sv": "Souss-Massa-Draâ",
+          "tr": "Souss-Massa-Draâ",
+          "vi": "Souss-Massa-Draa",
+          "zh": "蘇斯-馬塞-德拉大區"
+        },
+        "population": 3807800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.226,
+          34.382999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-03",
+        "area": 4.387020000000004,
+        "bounding_box": [
+          -5.491,
+          33.516,
+          -2.961,
+          35.25
+        ],
+        "point": [
+          -4.226,
+          34.382999999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 28,
+          "ar": "جهة تازة الحسيمة تاونات",
+          "bn": "তাজা-আল হোসেইমা তাউনাত",
+          "de": "Taza-Al Hoceïma-Taounate",
+          "en": "Taza-Al Hoceima-Taounate",
+          "es": "Taza-Alhucemas-Taunat",
+          "fr": "Taza-Al Hoceïma-Taounate",
+          "el": "Τάζα-Αλ Χοκέιμα-Ταουνάτε",
+          "hi": "तजा-अल होसीमा-तेउनेट",
+          "hu": null,
+          "id": "Taza-Al Hoceima-Taounate",
+          "it": "Taza-Al Hoceima-Taounate",
+          "ja": "タザ＝アル・ホセイマ＝タウナート地方",
+          "ko": "타자알호세이마타우나트 지방",
+          "nl": "Taza-Al Hoceïma-Taounate",
+          "pl": "Taza-Al-Husajma-Taunat",
+          "pt": "Taza-Al Hoceima-Taounate",
+          "ru": "Таза-Эль-Хосейма-Таунат",
+          "sv": "Taza-Al Hoceïma-Taounate",
+          "tr": "Taza-Al Hoceima-Taounate",
+          "vi": "Taza-Al Hoceima-Taounate",
+          "zh": "塔扎-胡塞馬-陶納特大區"
+        },
+        "population": 1764982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9505,
+          34.557
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-02",
+        "area": 1.3997699999999982,
+        "bounding_box": [
+          -6.723,
+          34.104,
+          -5.178,
+          35.01
+        ],
+        "point": [
+          -5.9505,
+          34.557
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 28,
+          "ar": "الغرب شراردة بني حسين",
+          "bn": "ঘাারব-ছারদা-বেনি হসেন",
+          "de": "Gharb-Chrarda-Béni Hsen",
+          "en": "Gharb-Chrarda-Béni Hssen",
+          "es": "Garb-Chrarda-Beni Hsen",
+          "fr": "Gharb-Chrarda-Beni Hssen",
+          "el": "Γκαρμπ-Κχράρντα-Μπένι Χσεν",
+          "hi": "गर्ब-श्रार्दा-बिने-हसेन",
+          "hu": null,
+          "id": "Gharb-Chrarda-Béni Hssen",
+          "it": "Gharb-Chrarda-Béni Hssen",
+          "ja": "ガルブ＝チャラルダ＝ベニ・ハッセン地方",
+          "ko": "가르브슈라르다베니흐센 지방",
+          "nl": "Gharb-Chrarda-Béni Hsen",
+          "pl": "Al-Gharb-Szararda-Bani Ahsin",
+          "pt": "Gharb-Chrarda-Beni Hssen",
+          "ru": "Гарб-Шрарда-Бени-Хсен",
+          "sv": "Gharb-Chrarda-Béni Hssen",
+          "tr": "Gharb-Chrarda-Béni Hssen",
+          "vi": "Gharb-Chrarda-Béni Hssen",
+          "zh": "西部-舍拉拉德-貝尼赫森大區"
+        },
+        "population": 2248203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.420999999999999,
+          33.685
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-07",
+        "area": 1.383648,
+        "bounding_box": [
+          -7.117,
+          33.188,
+          -5.725,
+          34.182
+        ],
+        "point": [
+          -6.420999999999999,
+          33.685
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 29,
+          "ar": "جهة الرباط سلا زمور زعير",
+          "bn": "রাবাত সালি জেমুর জায়ে",
+          "de": "Rabat-Salé-Zemmour-Zaer",
+          "en": "Rabat-Salé-Zemmour-Zaer",
+          "es": "Rabat-Salé-Zemur-Zaer",
+          "fr": "Rabat-Salé-Zemmour-Zaër",
+          "el": "Ραμπάτ-Σαλέ-Ζεμμούρ-Ζαέρ",
+          "hi": "रबात-सले-ज़मोर-ज़ैर",
+          "hu": null,
+          "id": "Rabat-Salé-Zemmour-Zaer",
+          "it": "Rabat-Salé-Zemmour-Zaer",
+          "ja": "ラバト＝サレ＝ゼムール＝ザイール地方",
+          "ko": "라바트살레젬무르자에르 지방",
+          "nl": "Rabat-Salé-Zemmour-Zaer",
+          "pl": "Rabat-Sala-Zammur-Za'ir",
+          "pt": "Rabat-Salé-Zemmour-Zaer",
+          "ru": "Рабат-Сале-Заммур-Заер",
+          "sv": "Rabat-Salé-Zemmour-Zaēr",
+          "tr": "Rabat-Salé-Zemmour-Zaer",
+          "vi": "Rabat-Salé-Zemmour-Zaer",
+          "zh": "拉巴特-薩累-宰穆爾-扎埃爾大區"
+        },
+        "population": 2697198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.077500000000001,
+          33.091
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-09",
+        "area": 3.0965279999999997,
+        "bounding_box": [
+          -8.118,
+          32.347,
+          -6.037,
+          33.835
+        ],
+        "point": [
+          -7.077500000000001,
+          33.091
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 19,
+          "ar": "الشاوية ورديغة",
+          "bn": "চাঁওউইয়া ওয়ারডিগা",
+          "de": "Chaouia-Ouardigha",
+          "en": "Chaouia-Ouardigha",
+          "es": "Chauía-Uardiga",
+          "fr": "Chaouia-Ouardigha",
+          "el": "Τσαουία-Ουαρντίγκα",
+          "hi": "कैउइया-आउरदिघा",
+          "hu": null,
+          "id": "Chaouia-Ouardigha",
+          "it": "Chaouia-Ouardigha",
+          "ja": "シャウイア＝ウアルディガ地方",
+          "ko": "샤위야와르디가 지방",
+          "nl": "Chaouia-Ouardigha",
+          "pl": "Asz-Szawija-Wardigha",
+          "pt": "Chaouia-Ouardigha",
+          "ru": "Шавия-Уардига",
+          "sv": "Chaouia-Ouardigha",
+          "tr": "Chaouia-Ouardigha",
+          "vi": "Chaouia-Ouardigha",
+          "zh": "沙維雅-瓦拉迪格大區"
+        },
+        "population": 2255802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6135,
+          33.55
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-08",
+        "area": 0.197290000000001,
+        "bounding_box": [
+          -7.886,
+          33.369,
+          -7.341,
+          33.731
+        ],
+        "point": [
+          -7.6135,
+          33.55
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "جهة الدار البيضاء الكبرى",
+          "bn": "গ্রান্ড কাসাব্লাঙ্কা",
+          "de": "Grand Casablanca",
+          "en": "Grand Casablanca",
+          "es": "Gran Casablanca",
+          "fr": "Grand Casablanca",
+          "el": "Γκραντ Καζαμπλάνκα",
+          "hi": "ग्रैंड कैसाब्लांका",
+          "hu": null,
+          "id": "Grand Casablanca",
+          "it": "Grande Casablanca",
+          "ja": "グラン・カサブランカ地方",
+          "ko": "대카사블랑카 지방",
+          "nl": "Grand Casablanca",
+          "pl": "Wielka Casablanca",
+          "pt": "Grande Casablanca",
+          "ru": "Большая Касабланка",
+          "sv": "Grand Casablanca",
+          "tr": "Grand Casablanca",
+          "vi": "Grand Casablanca",
+          "zh": "大卡薩布蘭卡大區"
+        },
+        "population": 4451810
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7135,
+          32.6055
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-10",
+        "area": 2.5660109999999996,
+        "bounding_box": [
+          -9.459,
+          31.745,
+          -7.968,
+          33.466
+        ],
+        "point": [
+          -8.7135,
+          32.6055
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "دكالة عبدة",
+          "bn": "দৌক্কালা-আব্দা",
+          "de": "Doukkala-Abda",
+          "en": "Doukkala-Abda",
+          "es": "Dukala-Abda",
+          "fr": "Doukkala-Abda",
+          "el": "Ντουκάλα-Άμπντα",
+          "hi": "डुकाला-एब्डा",
+          "hu": null,
+          "id": "Doukkala-Abda",
+          "it": "Doukkala-Abda",
+          "ja": "ドゥカラ＝アブダ地方",
+          "ko": "두칼라압다 지방",
+          "nl": "Doukala-Abda",
+          "pl": "Dukkala-Abda",
+          "pt": "Doukkala-Abda",
+          "ru": "Дуккала-Абда",
+          "sv": "Doukala-Abda",
+          "tr": "Doukkala-Abda",
+          "vi": "Doukkala-Abda",
+          "zh": "杜卡拉-阿卜達大區"
+        },
+        "population": 2290413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.438,
+          31.831500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-11",
+        "area": 5.6541000000000095,
+        "bounding_box": [
+          -9.848,
+          30.829,
+          -7.028,
+          32.834
+        ],
+        "point": [
+          -8.438,
+          31.831500000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 30,
+          "ar": "جهة مراكش تانسيفت الحوز",
+          "bn": "মারাকেশ টেন্সিফট এল হাঊজ",
+          "de": "Marrakesch-Tensift-Al Haouz",
+          "en": "Marrakesh-Tensift-El Haouz",
+          "es": "Marrakech-Tensift-Al Hauz",
+          "fr": "Marrakech-Tensift-Al Haouz",
+          "el": "Μαρακές-Τενσίφτ-Ελ Χαούζ",
+          "hi": "मारकेश-तेंसिफ्ट-एल हाओज़",
+          "hu": null,
+          "id": "Marrakech-Tensift-El Haouz",
+          "it": "Marrakech-Tensift-El Haouz",
+          "ja": "マラケシュ＝タンシフト＝アルハウズ地方",
+          "ko": "마라케시텐시프트엘하우즈 지방",
+          "nl": "Marrakech-Tensift-Al Haouz",
+          "pl": "Marrakesz-Tansift-Al-Hauz",
+          "pt": "Marraquexe-Tensift-Al Haouz",
+          "ru": "Марракеш-Тенсифт-Эль-Хауз",
+          "sv": "Marrakech-Tensift-Al Haouz",
+          "tr": "Marrakech-Tensift-El Haouz",
+          "vi": "Marrakesh-Tensift-El Haouz",
+          "zh": "馬拉喀什-坦西夫特-豪茲大區"
+        },
+        "population": 3882924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.173500000000001,
+          33.4615
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-05",
+        "area": 4.234015000000007,
+        "bounding_box": [
+          -5.421,
+          32.613,
+          -2.926,
+          34.31
+        ],
+        "point": [
+          -4.173500000000001,
+          33.4615
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "جهة فاس بولمان",
+          "bn": "ফ্রোস-বুলেমান",
+          "de": "Fès-Boulemane",
+          "en": "Fès-Boulemane",
+          "es": "Fez-Bulmán",
+          "fr": "Fès-Boulemane",
+          "el": "Φες-Μπουλεμάνε",
+          "hi": "फ़ेश-बुलमेन",
+          "hu": null,
+          "id": "Fès-Boulemane",
+          "it": "Fes-Boulemane",
+          "ja": "フェズ・ブルマーヌ地方",
+          "ko": "페스불만 지방",
+          "nl": "Fez-Boulmane",
+          "pl": "Fez-Bulman",
+          "pt": "Fez-Boulemane",
+          "ru": "Фес-Бульман",
+          "sv": "Fès-Boulemane",
+          "tr": "Fès-Boulemane",
+          "vi": "Fès-Boulemane",
+          "zh": "非斯-布勒曼大區"
+        },
+        "population": 1969791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3605,
+          32.082499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ma",
+        "region_child": "ma-12",
+        "area": 2.6245869999999982,
+        "bounding_box": [
+          -7.284,
+          31.372,
+          -5.437,
+          32.793
+        ],
+        "point": [
+          -6.3605,
+          32.082499999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": "جهة تادلة أزيلال",
+          "bn": "তাডলা-আজিলাল",
+          "de": "Tadla-Azilal",
+          "en": "Tadla-Azilal",
+          "es": "Tadla-Azilal",
+          "fr": "Tadla-Azilal",
+          "el": "Τάντλα-Αζίλαλ",
+          "hi": "तद्ला-एज़लल",
+          "hu": null,
+          "id": "Tadla-Azilal",
+          "it": "Tadla-Azilal",
+          "ja": "タドラ＝アジラル地方",
+          "ko": "타들라아질랄 지방",
+          "nl": "Tadla-Azilal",
+          "pl": "Tadila-Azilal",
+          "pt": "Tadla-Azilal",
+          "ru": "Тадла-Азилаль",
+          "sv": "Tadla-Azilal",
+          "tr": "Tadla-Azilal",
+          "vi": "Tadla-Azilal",
+          "zh": "塔德萊-艾濟拉勒大區"
+        },
+        "population": 1719617
+      }
+    }
+  ]
+}

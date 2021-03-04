@@ -1,0 +1,376 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5175,
+          52.2975
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "by",
+        "region_child": "by-ho",
+        "area": 9.475736999999972,
+        "bounding_box": [
+          27.271,
+          51.243,
+          31.764,
+          53.352
+        ],
+        "point": [
+          29.5175,
+          52.2975
+        ],
+        "labels": {
+          "alt": "Гомель|Gomel|Gomel'|Homyel'skaya Voblasts'|Homje",
+          "local": "Homel'skaja voblasc'",
+          "len": 5,
+          "ar": "غومل أوبلاست",
+          "bn": "গোমেল অঞ্চল",
+          "de": "Woblast Homel",
+          "en": "Gomel Region",
+          "es": "Provincia de Gómel",
+          "fr": "voblast de Homiel",
+          "el": "Γκόμελ",
+          "hi": "गोमेल क्षेत्र",
+          "hu": "Homeli terület",
+          "id": "Provinsi Homiel",
+          "it": "Regione di Homel'",
+          "ja": "ホメリ州",
+          "ko": "호멜 주",
+          "nl": "Oblast Homel",
+          "pl": "obwód homelski",
+          "pt": "Voblast de Homiel",
+          "ru": "Гомельская область",
+          "sv": "Homels voblast",
+          "tr": "Homyel Voblastı",
+          "vi": "Khu vực Gomel",
+          "zh": "戈梅利州"
+        },
+        "population": 1356918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.383,
+          52.456
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "by",
+        "region_child": "by-br",
+        "area": 8.289492000000003,
+        "bounding_box": [
+          23.176,
+          51.517,
+          27.59,
+          53.395
+        ],
+        "point": [
+          25.383,
+          52.456
+        ],
+        "labels": {
+          "alt": "Брест|Brestskaya Voblasts'|Brèst",
+          "local": "Brèsckaja voblasc'",
+          "len": 5,
+          "ar": "بريست أوبلاست",
+          "bn": "ব্রেস্ট অঞ্চল",
+          "de": "Breszkaja Woblasz",
+          "en": "Brest Region",
+          "es": "Provincia de Brest",
+          "fr": "Voblast de Brest",
+          "el": "Μπρεστ",
+          "hi": "ब्रेस्ट प्रदेश",
+          "hu": "Breszti terület",
+          "id": "Provinsi Brest",
+          "it": "Regione di Brėst",
+          "ja": "ブレスト州",
+          "ko": "브레스트 주",
+          "nl": "Oblast Brest",
+          "pl": "Obwód brzeski",
+          "pt": "Brest",
+          "ru": "Брестская область",
+          "sv": "Brests voblast",
+          "tr": "Brest Voblastı",
+          "vi": "Khu vực Brest",
+          "zh": "布列斯特州"
+        },
+        "population": 1334477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.674500000000002,
+          55.1865
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "by",
+        "region_child": "by-vi",
+        "area": 9.572199000000001,
+        "bounding_box": [
+          26.17,
+          54.231,
+          31.179,
+          56.142
+        ],
+        "point": [
+          28.674500000000002,
+          55.1865
+        ],
+        "labels": {
+          "alt": "Витебск|Vicebsk|Vitebsk|Vitsyebskaya Voblasts'|Witebsk",
+          "local": "Vicebskaja voblasc'",
+          "len": 7,
+          "ar": "فيتسبك أوبلاست",
+          "bn": "ভিটেবস্ক অঞ্চল",
+          "de": "Woblast Wizebsk",
+          "en": "Vitebsk Region",
+          "es": "Provincia de Vítebsk",
+          "fr": "Voblast de Vitebsk",
+          "el": "Περιφέρεια Βιτσέμπσκ",
+          "hi": "वाईटेब्स्क प्रांत",
+          "hu": "Vicebszki terület",
+          "id": "Provinsi Vitsebsk",
+          "it": "Regione di Vicebsk",
+          "ja": "ヴィーツェプスク州",
+          "ko": "비쳅스크 주",
+          "nl": "Oblast Vitebsk",
+          "pl": "obwód witebski",
+          "pt": "Voblast de Viciebsk",
+          "ru": "Витебская область",
+          "sv": "Vitsebsks voblast",
+          "tr": "Vitsebsk Voblastı",
+          "vi": "Khu vực Vitebsk",
+          "zh": "维捷布斯克州"
+        },
+        "population": 1101641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.084,
+          53.867000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "by",
+        "region_child": "by-hr",
+        "area": 7.197392000000003,
+        "bounding_box": [
+          23.486,
+          52.741,
+          26.682,
+          54.993
+        ],
+        "point": [
+          25.084,
+          53.867000000000004
+        ],
+        "labels": {
+          "alt": "Гродно|Grodno|Hrodzenskaya Voblasts'",
+          "local": "Hrodzenskaja voblasc'",
+          "len": 6,
+          "ar": "أوبلاست جردونه",
+          "bn": "গ্রোদনো অঞ্চল",
+          "de": "Woblast Hrodna",
+          "en": "Grodno Region",
+          "es": "Provincia de Grodno",
+          "fr": "Voblast de Hrodna",
+          "el": "Περιφέρεια Γκροντνό",
+          "hi": "ग्रोद्नो क्षेत्र",
+          "hu": "Hrodnai terület",
+          "id": "Provinsi Hrodna",
+          "it": "Regione di Hrodna",
+          "ja": "フロドナ州",
+          "ko": "흐로드나 주",
+          "nl": "Oblast Hrodna",
+          "pl": "Obwód grodzieński",
+          "pt": "Hrodna",
+          "ru": "Гродненская область",
+          "sv": "Hrodnas voblast",
+          "tr": "Hrodna Voblastı",
+          "vi": "Khu vực Grodno",
+          "zh": "格羅德諾州"
+        },
+        "population": 981339
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.405,
+          53.566
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "by",
+        "region_child": "by-ma",
+        "area": 8.206524000000012,
+        "bounding_box": [
+          28.092,
+          52.679,
+          32.718,
+          54.453
+        ],
+        "point": [
+          30.405,
+          53.566
+        ],
+        "labels": {
+          "alt": "Могилёв|Mahiljow|Mogilev|Mahilyowskaya Voblasts'",
+          "local": "Mahilëuskaja voblasc'",
+          "len": 7,
+          "ar": "موغيليوف أوبلاست",
+          "bn": "মুগিলেভ অঞ্চল",
+          "de": "Woblast Mahiljou",
+          "en": "Mogilev Region",
+          "es": "Provincia de Maguilov",
+          "fr": "Voblast de Moguilev",
+          "el": "Μογκίλεφ",
+          "hi": "मोगिलेव क्षेत्र",
+          "hu": "Mahiljovi terület",
+          "id": "Provinsi Mahilyow",
+          "it": "Regione di Mahilëŭ",
+          "ja": "マヒリョウ州",
+          "ko": "마힐료우 주",
+          "nl": "Oblast Mahiljow",
+          "pl": "Obwód mohylewski",
+          "pt": "Voblast de Mahilou",
+          "ru": "Могилёвская область",
+          "sv": "Mahiljoŭs voblast",
+          "tr": "Mahilyov Voblastı",
+          "vi": "Khu vực Mogilev",
+          "zh": "莫吉廖夫州"
+        },
+        "population": 985439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7825,
+          53.6815
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "by",
+        "region_child": "by-mi",
+        "area": 9.008451000000013,
+        "bounding_box": [
+          26.077,
+          52.361,
+          29.488,
+          55.002
+        ],
+        "point": [
+          27.7825,
+          53.6815
+        ],
+        "labels": {
+          "alt": "Минск|Минская Область|Minsk Oblast|Minskaya Voblasts'",
+          "local": "Minskaja voblasc'",
+          "len": 5,
+          "ar": "إقليم مينسك",
+          "bn": "মিন্সক অঞ্চল",
+          "de": "Woblast Minsk",
+          "en": "Minsk Region",
+          "es": "Provincia de Minsk",
+          "fr": "Voblast de Minsk",
+          "el": "Περιφέρεια Μινσκ",
+          "hi": "मिन्स्क क्षेत्र",
+          "hu": "Minszki terület",
+          "id": "Provinsi Minsk",
+          "it": "Regione di Minsk",
+          "ja": "ミンスク州",
+          "ko": "민스크 주",
+          "nl": "Oblast Minsk",
+          "pl": "Obwód miński",
+          "pt": "Voblast de Minsk",
+          "ru": "Минская область",
+          "sv": "Minsks voblast",
+          "tr": "Minsk Voblastı",
+          "vi": "Khu vực Minsk",
+          "zh": "明斯克州"
+        },
+        "population": 1343401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6045,
+          53.913
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "by",
+        "region_child": "by-hm",
+        "area": 0.10180599999999883,
+        "bounding_box": [
+          27.371,
+          53.804,
+          27.838,
+          54.022
+        ],
+        "point": [
+          27.6045,
+          53.913
+        ],
+        "labels": {
+          "alt": "Минск|Минская Область|Minsk Oblast|Minskaya Voblasts'",
+          "local": "Horad Minsk",
+          "len": 13,
+          "ar": "مينسك",
+          "bn": "মিন্‌স্ক",
+          "de": "Minsk",
+          "en": "Minsk",
+          "es": "Minsk",
+          "fr": "Minsk",
+          "el": "Μινσκ",
+          "hi": "मिन्‍स्‍क",
+          "hu": "Minszk",
+          "id": "Minsk",
+          "it": "Minsk",
+          "ja": "ミンスク",
+          "ko": "민스크",
+          "nl": "Minsk",
+          "pl": "Mińsk",
+          "pt": "Minsk",
+          "ru": "Минск",
+          "sv": "Minsk",
+          "tr": "Minsk",
+          "vi": "Minsk",
+          "zh": "明斯克"
+        },
+        "population": 2079510
+      }
+    }
+  ]
+}

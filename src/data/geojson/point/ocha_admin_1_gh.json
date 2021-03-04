@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3425,
+          6.7435
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gh",
+        "region_child": "gh24",
+        "area": 3.8979929999999996,
+        "bounding_box": [
+          -2.448,
+          5.862,
+          -0.237,
+          7.625
+        ],
+        "point": [
+          -1.3425,
+          6.7435
+        ],
+        "labels": {
+          "en": "Ashanti"
+        },
+        "population": 6753906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4285,
+          7.57
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gh",
+        "region_child": "gh25",
+        "area": 8.201249999999998,
+        "bounding_box": [
+          -3.116,
+          6.355,
+          0.259,
+          8.785
+        ],
+        "point": [
+          -1.4285,
+          7.57
+        ],
+        "labels": {
+          "en": "Brong Ahafo"
+        },
+        "population": 2938732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3035,
+          5.6690000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gh",
+        "region_child": "gh26",
+        "area": 2.29957,
+        "bounding_box": [
+          -2.206,
+          5.032,
+          -0.401,
+          6.306
+        ],
+        "point": [
+          -1.3035,
+          5.6690000000000005
+        ],
+        "labels": {
+          "en": "Central"
+        },
+        "population": 2963060
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5065,
+          6.452500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gh",
+        "region_child": "gh27",
+        "area": 2.2650090000000005,
+        "bounding_box": [
+          -1.261,
+          5.702,
+          0.248,
+          7.203
+        ],
+        "point": [
+          -0.5065,
+          6.452500000000001
+        ],
+        "labels": {
+          "en": "Eastern"
+        },
+        "population": 3392581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09350000000000003,
+          5.79
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gh",
+        "region_child": "gh28",
+        "area": 0.7454360000000002,
+        "bounding_box": [
+          -0.5,
+          5.476,
+          0.687,
+          6.104
+        ],
+        "point": [
+          0.09350000000000003,
+          5.79
+        ],
+        "labels": {
+          "en": "Greater Accra"
+        },
+        "population": 5564123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.108,
+          9.333
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gh",
+        "region_child": "gh29",
+        "area": 9.237288,
+        "bounding_box": [
+          -2.779,
+          7.951,
+          0.563,
+          10.715
+        ],
+        "point": [
+          -1.108,
+          9.333
+        ],
+        "labels": {
+          "en": "Northern"
+        },
+        "population": 3458017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.767,
+          10.751999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gh",
+        "region_child": "gh30",
+        "area": 1.3455160000000008,
+        "bounding_box": [
+          -1.566,
+          10.331,
+          0.032,
+          11.173
+        ],
+        "point": [
+          -0.767,
+          10.751999999999999
+        ],
+        "labels": {
+          "en": "Upper East"
+        },
+        "population": 1185176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.185,
+          10.325
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gh",
+        "region_child": "gh31",
+        "area": 2.101432,
+        "bounding_box": [
+          -2.942,
+          9.631,
+          -1.428,
+          11.019
+        ],
+        "point": [
+          -2.185,
+          10.325
+        ],
+        "labels": {
+          "en": "Upper West"
+        },
+        "population": 857919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4149999999999999,
+          7.2535
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gh",
+        "region_child": "gh32",
+        "area": 4.641798,
+        "bounding_box": [
+          -0.362,
+          5.76,
+          1.192,
+          8.747
+        ],
+        "point": [
+          0.4149999999999999,
+          7.2535
+        ],
+        "labels": {
+          "en": "Volta"
+        },
+        "population": 2796572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.342,
+          5.873
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gh",
+        "region_child": "gh33",
+        "area": 4.1059920000000005,
+        "bounding_box": [
+          -3.248,
+          4.74,
+          -1.436,
+          7.006
+        ],
+        "point": [
+          -2.342,
+          5.873
+        ],
+        "labels": {
+          "en": "Western"
+        },
+        "population": 3055371
+      }
+    }
+  ]
+}

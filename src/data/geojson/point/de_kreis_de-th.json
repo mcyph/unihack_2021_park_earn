@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4435,
+          50.960499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "altenburger land",
+        "area": 0.12860499999999758,
+        "bounding_box": [
+          12.221,
+          50.816,
+          12.666,
+          51.105
+        ],
+        "point": [
+          12.4435,
+          50.960499999999996
+        ],
+        "labels": {
+          "en": "Altenburger Land"
+        },
+        "population": 83621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.233,
+          51.3905
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "eichsfeld",
+        "area": 0.2445519999999989,
+        "bounding_box": [
+          9.925,
+          51.192,
+          10.541,
+          51.589
+        ],
+        "point": [
+          10.233,
+          51.3905
+        ],
+        "labels": {
+          "en": "Eichsfeld"
+        },
+        "population": 92059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0155,
+          50.9835
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "erfurt städte",
+        "area": 0.060929000000000955,
+        "bounding_box": [
+          10.856,
+          50.888,
+          11.175,
+          51.079
+        ],
+        "point": [
+          11.0155,
+          50.9835
+        ],
+        "labels": {
+          "en": "Erfurt Städte"
+        },
+        "population": 202684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.093,
+          50.894499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "gera städte",
+        "area": 0.031151999999999642,
+        "bounding_box": [
+          12.005,
+          50.806,
+          12.181,
+          50.983
+        ],
+        "point": [
+          12.093,
+          50.894499999999994
+        ],
+        "labels": {
+          "en": "Gera Städte"
+        },
+        "population": 82884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687000000000001,
+          50.911500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "gotha",
+        "area": 0.2231139999999989,
+        "bounding_box": [
+          10.406,
+          50.713,
+          10.968,
+          51.11
+        ],
+        "point": [
+          10.687000000000001,
+          50.911500000000004
+        ],
+        "labels": {
+          "en": "Gotha"
+        },
+        "population": 125453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0995,
+          50.7695
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "greiz",
+        "area": 0.1976249999999986,
+        "bounding_box": [
+          11.867,
+          50.557,
+          12.332,
+          50.982
+        ],
+        "point": [
+          12.0995,
+          50.7695
+        ],
+        "labels": {
+          "en": "Greiz"
+        },
+        "population": 91892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.751000000000001,
+          50.406000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "hildburghausen",
+        "area": 0.24143199999999956,
+        "bounding_box": [
+          10.458,
+          50.2,
+          11.044,
+          50.612
+        ],
+        "point": [
+          10.751000000000001,
+          50.406000000000006
+        ],
+        "labels": {
+          "en": "Hildburghausen"
+        },
+        "population": 59520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.981,
+          50.7305
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "ilm-kreis",
+        "area": 0.1815480000000002,
+        "bounding_box": [
+          10.735,
+          50.546,
+          11.227,
+          50.915
+        ],
+        "point": [
+          10.981,
+          50.7305
+        ],
+        "labels": {
+          "en": "Ilm-Kreis"
+        },
+        "population": 101254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.586,
+          50.924
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "jena städte",
+        "area": 0.023048000000000138,
+        "bounding_box": [
+          11.5,
+          50.857,
+          11.672,
+          50.991
+        ],
+        "point": [
+          11.586,
+          50.924
+        ],
+        "labels": {
+          "en": "Jena Städte"
+        },
+        "population": 110190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.985,
+          51.313
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "kyffhäuserkreis",
+        "area": 0.22967999999999938,
+        "bounding_box": [
+          10.49,
+          51.197,
+          11.48,
+          51.429
+        ],
+        "point": [
+          10.985,
+          51.313
+        ],
+        "labels": {
+          "en": "Kyffhäuserkreis"
+        },
+        "population": 69063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7275,
+          51.504999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "nordhausen",
+        "area": 0.14256000000000166,
+        "bounding_box": [
+          10.48,
+          51.361,
+          10.975,
+          51.649
+        ],
+        "point": [
+          10.7275,
+          51.504999999999995
+        ],
+        "labels": {
+          "en": "Nordhausen"
+        },
+        "population": 77833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.729,
+          50.920500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "saale-holzland",
+        "area": 0.20596400000000098,
+        "bounding_box": [
+          11.427,
+          50.75,
+          12.031,
+          51.091
+        ],
+        "point": [
+          11.729,
+          50.920500000000004
+        ],
+        "labels": {
+          "en": "Saale-Holzland"
+        },
+        "population": 78668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7165,
+          50.588
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "saale-orla",
+        "area": 0.21785199999999877,
+        "bounding_box": [
+          11.462,
+          50.374,
+          11.971,
+          50.802
+        ],
+        "point": [
+          11.7165,
+          50.588
+        ],
+        "labels": {
+          "en": "Saale-Orla"
+        },
+        "population": 75284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.303,
+          50.628
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "saalfeld-rudolstadt",
+        "area": 0.27604000000000406,
+        "bounding_box": [
+          10.968,
+          50.422,
+          11.638,
+          50.834
+        ],
+        "point": [
+          11.303,
+          50.628
+        ],
+        "labels": {
+          "en": "Saalfeld-Rudolstadt"
+        },
+        "population": 97753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3955,
+          50.6215
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "schmalkalden-meiningen",
+        "area": 0.32675500000000046,
+        "bounding_box": [
+          10.038,
+          50.393,
+          10.753,
+          50.85
+        ],
+        "point": [
+          10.3955,
+          50.6215
+        ],
+        "labels": {
+          "en": "Schmalkalden-Meiningen"
+        },
+        "population": 114841
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1795,
+          51.164
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "sömmerda",
+        "area": 0.1943759999999983,
+        "bounding_box": [
+          10.868,
+          51.008,
+          11.491,
+          51.32
+        ],
+        "point": [
+          11.1795,
+          51.164
+        ],
+        "labels": {
+          "en": "Sömmerda"
+        },
+        "population": 64867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1145,
+          50.403999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "sonneberg",
+        "area": 0.0970219999999996,
+        "bounding_box": [
+          10.94,
+          50.265,
+          11.289,
+          50.543
+        ],
+        "point": [
+          11.1145,
+          50.403999999999996
+        ],
+        "labels": {
+          "en": "Sonneberg"
+        },
+        "population": 51087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.692499999999999,
+          50.609
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "suhl städte",
+        "area": 0.028391999999999935,
+        "bounding_box": [
+          10.556,
+          50.557,
+          10.829,
+          50.661
+        ],
+        "point": [
+          10.692499999999999,
+          50.609
+        ],
+        "labels": {
+          "en": "Suhl Städte"
+        },
+        "population": 29396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.558,
+          51.185500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "unstrut-hainich",
+        "area": 0.23247000000000342,
+        "bounding_box": [
+          10.189,
+          51.028,
+          10.927,
+          51.343
+        ],
+        "point": [
+          10.558,
+          51.185500000000005
+        ],
+        "labels": {
+          "en": "Unstrut-Hainich"
+        },
+        "population": 94542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.247,
+          50.884
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "wartburgkreis",
+        "area": 0.3994320000000051,
+        "bounding_box": [
+          9.873,
+          50.617,
+          10.621,
+          51.151
+        ],
+        "point": [
+          10.247,
+          50.884
+        ],
+        "labels": {
+          "en": "Wartburgkreis"
+        },
+        "population": 127323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3195,
+          50.9755
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "weimar städte",
+        "area": 0.020348999999999888,
+        "bounding_box": [
+          11.234,
+          50.916,
+          11.405,
+          51.035
+        ],
+        "point": [
+          11.3195,
+          50.9755
+        ],
+        "labels": {
+          "en": "Weimar Städte"
+        },
+        "population": 59914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.407499999999999,
+          50.961
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-th",
+        "region_child": "weimarer land",
+        "area": 0.19040000000000037,
+        "bounding_box": [
+          11.11,
+          50.801,
+          11.705,
+          51.121
+        ],
+        "point": [
+          11.407499999999999,
+          50.961
+        ],
+        "labels": {
+          "en": "Weimarer Land"
+        },
+        "population": 77948
+      }
+    }
+  ]
+}

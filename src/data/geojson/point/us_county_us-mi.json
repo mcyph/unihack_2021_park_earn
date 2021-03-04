@@ -1,0 +1,2495 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5065,
+          45.531
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "109",
+        "area": 0.688870000000002,
+        "bounding_box": [
+          -87.885,
+          45.076,
+          -87.128,
+          45.986
+        ],
+        "point": [
+          -87.5065,
+          45.531
+        ],
+        "labels": {
+          "en": "Menominee"
+        },
+        "population": 22711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1495,
+          45.0345
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "007",
+        "area": 0.528716999999997,
+        "bounding_box": [
+          -83.89,
+          44.856,
+          -82.409,
+          45.213
+        ],
+        "point": [
+          -83.1495,
+          45.0345
+        ],
+        "labels": {
+          "en": "Alpena"
+        },
+        "population": 28099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8475,
+          43.989000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "035",
+        "area": 0.16905000000000212,
+        "bounding_box": [
+          -85.089,
+          43.814,
+          -84.606,
+          44.164
+        ],
+        "point": [
+          -84.8475,
+          43.989000000000004
+        ],
+        "labels": {
+          "en": "Clare"
+        },
+        "population": 30008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61449999999999,
+          46.604
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "103",
+        "area": 1.2441900000000115,
+        "bounding_box": [
+          -88.117,
+          45.985,
+          -87.112,
+          47.223
+        ],
+        "point": [
+          -87.61449999999999,
+          46.604
+        ],
+        "labels": {
+          "en": "Marquette"
+        },
+        "population": 69612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09700000000001,
+          45.1785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "089",
+        "area": 1.034835999999997,
+        "bounding_box": [
+          -86.735,
+          44.773,
+          -85.459,
+          45.584
+        ],
+        "point": [
+          -86.09700000000001,
+          45.1785
+        ],
+        "labels": {
+          "en": "Leelanau"
+        },
+        "population": 22384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23599999999999,
+          46.042
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "153",
+        "area": 0.7052800000000027,
+        "bounding_box": [
+          -86.616,
+          45.578,
+          -85.856,
+          46.506
+        ],
+        "point": [
+          -86.23599999999999,
+          46.042
+        ],
+        "labels": {
+          "en": "Schoolcraft"
+        },
+        "population": 8095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.486,
+          46.988
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "003",
+        "area": 2.0949199999999966,
+        "bounding_box": [
+          -87.117,
+          46.158,
+          -85.855,
+          47.818
+        ],
+        "point": [
+          -86.486,
+          46.988
+        ],
+        "labels": {
+          "en": "Alger"
+        },
+        "population": 9350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.801,
+          43.554500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "123",
+        "area": 0.24999400000000607,
+        "bounding_box": [
+          -86.04,
+          43.293,
+          -85.562,
+          43.816
+        ],
+        "point": [
+          -85.801,
+          43.554500000000004
+        ],
+        "labels": {
+          "en": "Newaygo"
+        },
+        "population": 50578
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6215,
+          43.425
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "151",
+        "area": 0.5403739999999945,
+        "bounding_box": [
+          -83.12,
+          43.154,
+          -82.123,
+          43.696
+        ],
+        "point": [
+          -82.6215,
+          43.425
+        ],
+        "labels": {
+          "en": "Sanilac"
+        },
+        "population": 41858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15100000000001,
+          42.2395
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "163",
+        "area": 0.3392460000000043,
+        "bounding_box": [
+          -83.552,
+          42.028,
+          -82.75,
+          42.451
+        ],
+        "point": [
+          -83.15100000000001,
+          42.2395
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 1607091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4255,
+          42.245000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "159",
+        "area": 0.4663999999999917,
+        "bounding_box": [
+          -87.088,
+          42.069,
+          -85.763,
+          42.421
+        ],
+        "point": [
+          -86.4255,
+          42.245000000000005
+        ],
+        "labels": {
+          "en": "Van Buren"
+        },
+        "population": 75651
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3365,
+          46.411
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "033",
+        "area": 2.2995700000000103,
+        "bounding_box": [
+          -85.239,
+          45.774,
+          -83.434,
+          47.048
+        ],
+        "point": [
+          -84.3365,
+          46.411
+        ],
+        "labels": {
+          "en": "Chippewa"
+        },
+        "population": 38612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.601,
+          42.944
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "037",
+        "area": 0.16589999999999702,
+        "bounding_box": [
+          -84.838,
+          42.769,
+          -84.364,
+          43.119
+        ],
+        "point": [
+          -84.601,
+          42.944
+        ],
+        "labels": {
+          "en": "Clinton"
+        },
+        "population": 90424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5415,
+          41.9155
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "149",
+        "area": 0.1561869999999997,
+        "bounding_box": [
+          -85.791,
+          41.759,
+          -85.292,
+          42.072
+        ],
+        "point": [
+          -85.5415,
+          41.9155
+        ],
+        "labels": {
+          "en": "St. Joseph"
+        },
+        "population": 60235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.554,
+          46.171
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "071",
+        "area": 0.4352520000000017,
+        "bounding_box": [
+          -88.991,
+          45.922,
+          -88.117,
+          46.42
+        ],
+        "point": [
+          -88.554,
+          46.171
+        ],
+        "labels": {
+          "en": "Iron"
+        },
+        "population": 10646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.488,
+          47.0235
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "131",
+        "area": 1.7259839999999902,
+        "bounding_box": [
+          -90.112,
+          46.332,
+          -88.864,
+          47.715
+        ],
+        "point": [
+          -89.488,
+          47.0235
+        ],
+        "labels": {
+          "en": "Ontonagon"
+        },
+        "population": 5879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.33500000000001,
+          46.732
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "013",
+        "area": 0.4293119999999982,
+        "bounding_box": [
+          -88.679,
+          46.42,
+          -87.991,
+          47.044
+        ],
+        "point": [
+          -88.33500000000001,
+          46.732
+        ],
+        "labels": {
+          "en": "Baraga"
+        },
+        "population": 8968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1095,
+          44.686499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "001",
+        "area": 0.5534449999999942,
+        "bounding_box": [
+          -83.889,
+          44.509,
+          -82.33,
+          44.864
+        ],
+        "point": [
+          -83.1095,
+          44.686499999999995
+        ],
+        "labels": {
+          "en": "Alcona"
+        },
+        "population": 10262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.803,
+          43.9905
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "085",
+        "area": 0.1701460000000005,
+        "bounding_box": [
+          -86.044,
+          43.814,
+          -85.562,
+          44.167
+        ],
+        "point": [
+          -85.803,
+          43.9905
+        ],
+        "labels": {
+          "en": "Lake"
+        },
+        "population": 11951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.445,
+          42.9855
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "139",
+        "area": 0.5847660000000067,
+        "bounding_box": [
+          -87.108,
+          42.765,
+          -85.782,
+          43.206
+        ],
+        "point": [
+          -86.445,
+          42.9855
+        ],
+        "labels": {
+          "en": "Ottawa"
+        },
+        "population": 292889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.309,
+          42.5955
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "015",
+        "area": 0.16637400000000088,
+        "bounding_box": [
+          -85.546,
+          42.42,
+          -85.072,
+          42.771
+        ],
+        "point": [
+          -85.309,
+          42.5955
+        ],
+        "labels": {
+          "en": "Barry"
+        },
+        "population": 60945
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.16399999999999,
+          45.01
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "009",
+        "area": 0.2510640000000006,
+        "bounding_box": [
+          -85.481,
+          44.812,
+          -84.847,
+          45.208
+        ],
+        "point": [
+          -85.16399999999999,
+          45.01
+        ],
+        "labels": {
+          "en": "Antrim"
+        },
+        "population": 24078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.425,
+          42.2475
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "075",
+        "area": 0.20873999999999598,
+        "bounding_box": [
+          -84.719,
+          42.07,
+          -84.131,
+          42.425
+        ],
+        "point": [
+          -84.425,
+          42.2475
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 161655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.61099999999999,
+          44.335499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "143",
+        "area": 0.17199000000000125,
+        "bounding_box": [
+          -84.856,
+          44.16,
+          -84.366,
+          44.511
+        ],
+        "point": [
+          -84.61099999999999,
+          44.335499999999996
+        ],
+        "labels": {
+          "en": "Roscommon"
+        },
+        "population": 22991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5495,
+          46.775
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "095",
+        "area": 0.6688600000000017,
+        "bounding_box": [
+          -85.865,
+          46.245,
+          -85.234,
+          47.305
+        ],
+        "point": [
+          -85.5495,
+          46.775
+        ],
+        "labels": {
+          "en": "Luce"
+        },
+        "population": 6264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7045,
+          46.569500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "053",
+        "area": 1.3485150000000068,
+        "bounding_box": [
+          -90.418,
+          46.097,
+          -88.991,
+          47.042
+        ],
+        "point": [
+          -89.7045,
+          46.569500000000005
+        ],
+        "labels": {
+          "en": "Gogebic"
+        },
+        "population": 15393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.71549999999999,
+          42.001000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "021",
+        "area": 0.47674000000000144,
+        "bounding_box": [
+          -87.208,
+          41.759,
+          -86.223,
+          42.243
+        ],
+        "point": [
+          -86.71549999999999,
+          42.001000000000005
+        ],
+        "labels": {
+          "en": "Berrien"
+        },
+        "population": 151864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.126,
+          45.028499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "119",
+        "area": 0.17072400000000218,
+        "bounding_box": [
+          -84.372,
+          44.855,
+          -83.88,
+          45.202
+        ],
+        "point": [
+          -84.126,
+          45.028499999999994
+        ],
+        "labels": {
+          "en": "Montmorency"
+        },
+        "population": 9059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12950000000001,
+          44.682
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "135",
+        "area": 0.16975000000000048,
+        "bounding_box": [
+          -84.372,
+          44.507,
+          -83.887,
+          44.857
+        ],
+        "point": [
+          -84.12950000000001,
+          44.682
+        ],
+        "labels": {
+          "en": "Oscoda"
+        },
+        "population": 7994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.127,
+          44.335
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "129",
+        "area": 0.16982399999999934,
+        "bounding_box": [
+          -84.371,
+          44.161,
+          -83.883,
+          44.509
+        ],
+        "point": [
+          -84.127,
+          44.335
+        ],
+        "labels": {
+          "en": "Ogemaw"
+        },
+        "population": 21882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.372,
+          42.5995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "065",
+        "area": 0.16400999999999796,
+        "bounding_box": [
+          -84.603,
+          42.422,
+          -84.141,
+          42.777
+        ],
+        "point": [
+          -84.372,
+          42.5995
+        ],
+        "labels": {
+          "en": "Ingham"
+        },
+        "population": 277305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2225,
+          43.1035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "087",
+        "area": 0.21321899999999963,
+        "bounding_box": [
+          -83.461,
+          42.88,
+          -82.984,
+          43.327
+        ],
+        "point": [
+          -83.2225,
+          43.1035
+        ],
+        "labels": {
+          "en": "Lapeer"
+        },
+        "population": 88449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.09049999999999,
+          44.685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "079",
+        "area": 0.17045000000000385,
+        "bounding_box": [
+          -85.334,
+          44.51,
+          -84.847,
+          44.86
+        ],
+        "point": [
+          -85.09049999999999,
+          44.685
+        ],
+        "labels": {
+          "en": "Kalkaska"
+        },
+        "population": 17740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5655,
+          43.9995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "105",
+        "area": 0.38718499999999967,
+        "bounding_box": [
+          -87.093,
+          43.816,
+          -86.038,
+          44.183
+        ],
+        "point": [
+          -86.5655,
+          43.9995
+        ],
+        "labels": {
+          "en": "Mason"
+        },
+        "population": 29051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1455,
+          42.9545
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "155",
+        "area": 0.15886499999999726,
+        "bounding_box": [
+          -84.368,
+          42.776,
+          -83.923,
+          43.133
+        ],
+        "point": [
+          -84.1455,
+          42.9545
+        ],
+        "labels": {
+          "en": "Shiawassee"
+        },
+        "population": 70937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66499999999999,
+          42.824
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "147",
+        "area": 0.4581039999999945,
+        "bounding_box": [
+          -82.996,
+          42.478,
+          -82.334,
+          43.17
+        ],
+        "point": [
+          -82.66499999999999,
+          42.824
+        ],
+        "labels": {
+          "en": "St. Clair"
+        },
+        "population": 162154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9115,
+          42.6035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "093",
+        "area": 0.17698699999999906,
+        "bounding_box": [
+          -84.158,
+          42.424,
+          -83.665,
+          42.783
+        ],
+        "point": [
+          -83.9115,
+          42.6035
+        ],
+        "labels": {
+          "en": "Livingston"
+        },
+        "population": 209043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.406,
+          43.525
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "157",
+        "area": 0.367232000000002,
+        "bounding_box": [
+          -83.708,
+          43.221,
+          -83.104,
+          43.829
+        ],
+        "point": [
+          -83.406,
+          43.525
+        ],
+        "labels": {
+          "en": "Tuscola"
+        },
+        "population": 53292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.589,
+          43.6455
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "127",
+        "area": 0.39341400000000065,
+        "bounding_box": [
+          -87.14,
+          43.467,
+          -86.038,
+          43.824
+        ],
+        "point": [
+          -86.589,
+          43.6455
+        ],
+        "labels": {
+          "en": "Oceana"
+        },
+        "population": 25786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8365,
+          42.2535
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "161",
+        "area": 0.21598499999999932,
+        "bounding_box": [
+          -84.134,
+          42.072,
+          -83.539,
+          42.435
+        ],
+        "point": [
+          -83.8365,
+          42.2535
+        ],
+        "labels": {
+          "en": "Washtenaw"
+        },
+        "population": 368971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59299999999999,
+          41.8845
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "059",
+        "area": 0.17568199999999887,
+        "bounding_box": [
+          -84.826,
+          41.696,
+          -84.36,
+          42.073
+        ],
+        "point": [
+          -84.59299999999999,
+          41.8845
+        ],
+        "labels": {
+          "en": "Hillsdale"
+        },
+        "population": 47620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.33099999999999,
+          44.646
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "019",
+        "area": 0.2745120000000046,
+        "bounding_box": [
+          -86.847,
+          44.513,
+          -85.815,
+          44.779
+        ],
+        "point": [
+          -86.33099999999999,
+          44.646
+        ],
+        "labels": {
+          "en": "Benzie"
+        },
+        "population": 19011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.607,
+          43.292
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "057",
+        "area": 0.16634400000000252,
+        "bounding_box": [
+          -84.846,
+          43.118,
+          -84.368,
+          43.466
+        ],
+        "point": [
+          -84.607,
+          43.292
+        ],
+        "labels": {
+          "en": "Gratiot"
+        },
+        "population": 42666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5775,
+          44.338499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "165",
+        "area": 0.16996299999999653,
+        "bounding_box": [
+          -85.821,
+          44.164,
+          -85.334,
+          44.513
+        ],
+        "point": [
+          -85.5775,
+          44.338499999999996
+        ],
+        "labels": {
+          "en": "Wexford"
+        },
+        "population": 35204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6925,
+          43.001999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "049",
+        "area": 0.21171799999999974,
+        "bounding_box": [
+          -83.932,
+          42.781,
+          -83.453,
+          43.223
+        ],
+        "point": [
+          -83.6925,
+          43.001999999999995
+        ],
+        "labels": {
+          "en": "Genesee"
+        },
+        "population": 415290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3715,
+          45.488
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "141",
+        "area": 1.0213799999999944,
+        "bounding_box": [
+          -84.252,
+          45.198,
+          -82.491,
+          45.778
+        ],
+        "point": [
+          -83.3715,
+          45.488
+        ],
+        "labels": {
+          "en": "Presque Isle"
+        },
+        "population": 12423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.005,
+          42.245999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "025",
+        "area": 0.20767999999999928,
+        "bounding_box": [
+          -85.3,
+          42.07,
+          -84.71,
+          42.422
+        ],
+        "point": [
+          -85.005,
+          42.245999999999995
+        ],
+        "labels": {
+          "en": "Calhoun"
+        },
+        "population": 134382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.612,
+          45.028499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "137",
+        "area": 0.17002999999999888,
+        "bounding_box": [
+          -84.857,
+          44.855,
+          -84.367,
+          45.202
+        ],
+        "point": [
+          -84.612,
+          45.028499999999994
+        ],
+        "labels": {
+          "en": "Otsego"
+        },
+        "population": 25181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.324,
+          43.6405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "107",
+        "area": 0.1668220000000014,
+        "bounding_box": [
+          -85.563,
+          43.466,
+          -85.085,
+          43.815
+        ],
+        "point": [
+          -85.324,
+          43.6405
+        ],
+        "labels": {
+          "en": "Mecosta"
+        },
+        "population": 45301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92750000000001,
+          43.9195
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "063",
+        "area": 0.7861890000000014,
+        "bounding_box": [
+          -83.709,
+          43.668,
+          -82.146,
+          44.171
+        ],
+        "point": [
+          -82.92750000000001,
+          43.9195
+        ],
+        "labels": {
+          "en": "Huron"
+        },
+        "population": 30364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0685,
+          44.337
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "069",
+        "area": 0.5827720000000028,
+        "bounding_box": [
+          -83.887,
+          44.159,
+          -82.25,
+          44.515
+        ],
+        "point": [
+          -83.0685,
+          44.337
+        ],
+        "labels": {
+          "en": "Iosco"
+        },
+        "population": 24445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.075,
+          42.945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "067",
+        "area": 0.16659999999999697,
+        "bounding_box": [
+          -85.313,
+          42.77,
+          -84.837,
+          43.12
+        ],
+        "point": [
+          -85.075,
+          42.945
+        ],
+        "labels": {
+          "en": "Ionia"
+        },
+        "population": 65972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5505,
+          43.031
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "081",
+        "area": 0.25300599999999535,
+        "bounding_box": [
+          -85.791,
+          42.768,
+          -85.31,
+          43.294
+        ],
+        "point": [
+          -85.5505,
+          43.031
+        ],
+        "labels": {
+          "en": "Kent"
+        },
+        "population": 633699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9045,
+          42.6725
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "099",
+        "area": 0.17904699999999632,
+        "bounding_box": [
+          -83.103,
+          42.447,
+          -82.706,
+          42.898
+        ],
+        "point": [
+          -82.9045,
+          42.6725
+        ],
+        "labels": {
+          "en": "Macomb"
+        },
+        "population": 896226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.87549999999999,
+          45.985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "043",
+        "area": 0.2730040000000009,
+        "bounding_box": [
+          -88.136,
+          45.723,
+          -87.615,
+          46.247
+        ],
+        "point": [
+          -87.87549999999999,
+          45.985
+        ],
+        "labels": {
+          "en": "Dickinson"
+        },
+        "population": 24973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.199,
+          43.2935
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "117",
+        "area": 0.25407200000000574,
+        "bounding_box": [
+          -85.563,
+          43.119,
+          -84.835,
+          43.468
+        ],
+        "point": [
+          -85.199,
+          43.2935
+        ],
+        "labels": {
+          "en": "Montcalm"
+        },
+        "population": 65776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0325,
+          43.3485
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "145",
+        "area": 0.2976750000000067,
+        "bounding_box": [
+          -84.37,
+          43.128,
+          -83.695,
+          43.569
+        ],
+        "point": [
+          -84.0325,
+          43.3485
+        ],
+        "labels": {
+          "en": "Saginaw"
+        },
+        "population": 190490
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.93350000000001,
+          43.738
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "017",
+        "area": 0.24294200000000463,
+        "bounding_box": [
+          -84.168,
+          43.479,
+          -83.699,
+          43.997
+        ],
+        "point": [
+          -83.93350000000001,
+          43.738
+        ],
+        "labels": {
+          "en": "Bay"
+        },
+        "population": 105171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6755,
+          44.001000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "011",
+        "area": 0.32765399999999434,
+        "bounding_box": [
+          -84.166,
+          43.834,
+          -83.185,
+          44.168
+        ],
+        "point": [
+          -83.6755,
+          44.001000000000005
+        ],
+        "labels": {
+          "en": "Arenac"
+        },
+        "population": 14550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.019,
+          45.5715
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "047",
+        "area": 0.3462220000000039,
+        "bounding_box": [
+          -85.308,
+          45.272,
+          -84.73,
+          45.871
+        ],
+        "point": [
+          -85.019,
+          45.5715
+        ],
+        "labels": {
+          "en": "Emmet"
+        },
+        "population": 33785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4675,
+          45.5045
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "031",
+        "area": 0.32566300000000303,
+        "bounding_box": [
+          -84.734,
+          45.199,
+          -84.201,
+          45.81
+        ],
+        "point": [
+          -84.4675,
+          45.5045
+        ],
+        "labels": {
+          "en": "Cheboygan"
+        },
+        "population": 25949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.387,
+          43.988
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "051",
+        "area": 0.1538160000000021,
+        "bounding_box": [
+          -84.608,
+          43.814,
+          -84.166,
+          44.162
+        ],
+        "point": [
+          -84.387,
+          43.988
+        ],
+        "labels": {
+          "en": "Gladwin"
+        },
+        "population": 25521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.443,
+          41.909
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "115",
+        "area": 0.2449400000000053,
+        "bounding_box": [
+          -83.774,
+          41.724,
+          -83.112,
+          42.094
+        ],
+        "point": [
+          -83.443,
+          41.909
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 158587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.53,
+          42.245000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "077",
+        "area": 0.16614400000000143,
+        "bounding_box": [
+          -85.766,
+          42.069,
+          -85.294,
+          42.421
+        ],
+        "point": [
+          -85.53,
+          42.245000000000005
+        ],
+        "labels": {
+          "en": "Kalamazoo"
+        },
+        "population": 263274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5755,
+          44.816
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "055",
+        "area": 0.2948799999999982,
+        "bounding_box": [
+          -85.818,
+          44.512,
+          -85.333,
+          45.12
+        ],
+        "point": [
+          -85.5755,
+          44.816
+        ],
+        "labels": {
+          "en": "Grand Traverse"
+        },
+        "population": 97385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.61099999999999,
+          44.6825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "039",
+        "area": 0.16848000000000096,
+        "bounding_box": [
+          -84.851,
+          44.507,
+          -84.371,
+          44.858
+        ],
+        "point": [
+          -84.61099999999999,
+          44.6825
+        ],
+        "labels": {
+          "en": "Crawford"
+        },
+        "population": 14419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.991,
+          45.9695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "097",
+        "area": 0.9699620000000025,
+        "bounding_box": [
+          -85.868,
+          45.693,
+          -84.114,
+          46.246
+        ],
+        "point": [
+          -84.991,
+          45.9695
+        ],
+        "labels": {
+          "en": "Mackinac"
+        },
+        "population": 10278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3875,
+          43.647000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "111",
+        "area": 0.15964200000000173,
+        "bounding_box": [
+          -84.608,
+          43.466,
+          -84.167,
+          43.828
+        ],
+        "point": [
+          -84.3875,
+          43.647000000000006
+        ],
+        "labels": {
+          "en": "Midland"
+        },
+        "population": 84461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.838,
+          42.596000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "045",
+        "area": 0.16660000000000036,
+        "bounding_box": [
+          -85.076,
+          42.421,
+          -84.6,
+          42.771
+        ],
+        "point": [
+          -84.838,
+          42.596000000000004
+        ],
+        "labels": {
+          "en": "Eaton"
+        },
+        "population": 113087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.993,
+          41.915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "027",
+        "area": 0.145391999999997,
+        "bounding_box": [
+          -86.226,
+          41.759,
+          -85.76,
+          42.071
+        ],
+        "point": [
+          -85.993,
+          41.915
+        ],
+        "labels": {
+          "en": "Cass"
+        },
+        "population": 57213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.40299999999999,
+          44.342
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "101",
+        "area": 0.41652000000000255,
+        "bounding_box": [
+          -86.988,
+          44.164,
+          -85.818,
+          44.52
+        ],
+        "point": [
+          -86.40299999999999,
+          44.342
+        ],
+        "labels": {
+          "en": "Manistee"
+        },
+        "population": 25151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0945,
+          44.3365
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "113",
+        "area": 0.17093699999999773,
+        "bounding_box": [
+          -85.338,
+          44.161,
+          -84.851,
+          44.512
+        ],
+        "point": [
+          -85.0945,
+          44.3365
+        ],
+        "labels": {
+          "en": "Missaukee"
+        },
+        "population": 15093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.386,
+          42.66
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "125",
+        "area": 0.27754800000000085,
+        "bounding_box": [
+          -83.689,
+          42.431,
+          -83.083,
+          42.889
+        ],
+        "point": [
+          -83.386,
+          42.66
+        ],
+        "labels": {
+          "en": "Oakland"
+        },
+        "population": 1212886
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.326,
+          43.9895
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "133",
+        "area": 0.16777799999999762,
+        "bounding_box": [
+          -85.565,
+          43.814,
+          -85.087,
+          44.165
+        ],
+        "point": [
+          -85.326,
+          43.9895
+        ],
+        "labels": {
+          "en": "Osceola"
+        },
+        "population": 23849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0595,
+          41.916
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "023",
+        "area": 0.14726599999999818,
+        "bounding_box": [
+          -85.294,
+          41.759,
+          -84.825,
+          42.073
+        ],
+        "point": [
+          -85.0595,
+          41.916
+        ],
+        "labels": {
+          "en": "Branch"
+        },
+        "population": 45022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.301,
+          42.592
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "005",
+        "area": 0.5366639999999957,
+        "bounding_box": [
+          -87.059,
+          42.415,
+          -85.543,
+          42.769
+        ],
+        "point": [
+          -86.301,
+          42.592
+        ],
+        "labels": {
+          "en": "Allegan"
+        },
+        "population": 115710
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3965,
+          47.753
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "083",
+        "area": 2.841313999999989,
+        "bounding_box": [
+          -89.681,
+          47.2,
+          -87.112,
+          48.306
+        ],
+        "point": [
+          -88.3965,
+          47.753
+        ],
+        "labels": {
+          "en": "Keweenaw"
+        },
+        "population": 2225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.518,
+          46.948499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "061",
+        "area": 1.0020360000000033,
+        "bounding_box": [
+          -88.992,
+          46.42,
+          -88.044,
+          47.477
+        ],
+        "point": [
+          -88.518,
+          46.948499999999996
+        ],
+        "labels": {
+          "en": "Houghton"
+        },
+        "population": 37068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.303,
+          45.499
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "029",
+        "area": 0.8755200000000012,
+        "bounding_box": [
+          -85.873,
+          45.115,
+          -84.733,
+          45.883
+        ],
+        "point": [
+          -85.303,
+          45.499
+        ],
+        "labels": {
+          "en": "Charlevoix"
+        },
+        "population": 26023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4685,
+          43.2955
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "121",
+        "area": 0.48444899999999885,
+        "bounding_box": [
+          -87.147,
+          43.117,
+          -85.79,
+          43.474
+        ],
+        "point": [
+          -86.4685,
+          43.2955
+        ],
+        "labels": {
+          "en": "Muskegon"
+        },
+        "population": 174028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9135,
+          45.742000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "041",
+        "area": 0.7581059999999896,
+        "bounding_box": [
+          -87.368,
+          45.325,
+          -86.459,
+          46.159
+        ],
+        "point": [
+          -86.9135,
+          45.742000000000004
+        ],
+        "labels": {
+          "en": "Delta"
+        },
+        "population": 35651
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8475,
+          43.6405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "073",
+        "area": 0.1685669999999998,
+        "bounding_box": [
+          -85.089,
+          43.466,
+          -84.606,
+          43.815
+        ],
+        "point": [
+          -84.8475,
+          43.6405
+        ],
+        "labels": {
+          "en": "Isabella"
+        },
+        "population": 78119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.063,
+          41.8945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mi",
+        "region_child": "091",
+        "area": 0.22499999999999787,
+        "bounding_box": [
+          -84.363,
+          41.707,
+          -83.763,
+          42.082
+        ],
+        "point": [
+          -84.063,
+          41.8945
+        ],
+        "labels": {
+          "en": "Lenawee"
+        },
+        "population": 100203
+      }
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.54650000000001,
+          42.447
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "023",
+        "area": 1.7397379999999831,
+        "bounding_box": [
+          -111.047,
+          41.578,
+          -110.046,
+          43.316
+        ],
+        "point": [
+          -110.54650000000001,
+          42.447
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 22422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7775,
+          43.1345
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "013",
+        "area": 4.460090999999995,
+        "bounding_box": [
+          -110.054,
+          42.261,
+          -107.501,
+          44.008
+        ],
+        "point": [
+          -108.7775,
+          43.1345
+        ],
+        "labels": {
+          "en": "Fremont"
+        },
+        "population": 44962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5475,
+          41.287499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "041",
+        "area": 0.584414999999998,
+        "bounding_box": [
+          -111.047,
+          40.995,
+          -110.048,
+          41.58
+        ],
+        "point": [
+          -110.5475,
+          41.287499999999994
+        ],
+        "labels": {
+          "en": "Uinta"
+        },
+        "population": 22554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8835,
+          44.5835
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "003",
+        "area": 1.2332950000000045,
+        "bounding_box": [
+          -108.622,
+          44.166,
+          -107.145,
+          45.001
+        ],
+        "point": [
+          -107.8835,
+          44.5835
+        ],
+        "labels": {
+          "en": "Big Horn"
+        },
+        "population": 11769
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.45400000000001,
+          43.769999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "017",
+        "area": 1.0651599999999979,
+        "bounding_box": [
+          -109.313,
+          43.46,
+          -107.595,
+          44.08
+        ],
+        "point": [
+          -108.45400000000001,
+          43.769999999999996
+        ],
+        "labels": {
+          "en": "Hot Springs"
+        },
+        "population": 4753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.831,
+          43.834
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "043",
+        "area": 0.9619199999999974,
+        "bounding_box": [
+          -108.551,
+          43.5,
+          -107.111,
+          44.168
+        ],
+        "point": [
+          -107.831,
+          43.834
+        ],
+        "labels": {
+          "en": "Washakie"
+        },
+        "population": 8775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.485,
+          42.8945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "009",
+        "area": 1.4362460000000068,
+        "bounding_box": [
+          -106.078,
+          42.289,
+          -104.892,
+          43.5
+        ],
+        "point": [
+          -105.485,
+          42.8945
+        ],
+        "labels": {
+          "en": "Converse"
+        },
+        "population": 15923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.779,
+          41.634
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "037",
+        "area": 3.2486999999999986,
+        "bounding_box": [
+          -110.054,
+          40.997,
+          -107.504,
+          42.271
+        ],
+        "point": [
+          -108.779,
+          41.634
+        ],
+        "labels": {
+          "en": "Sweetwater"
+        },
+        "population": 50986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.57,
+          44.588
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "011",
+        "area": 0.8503679999999951,
+        "bounding_box": [
+          -105.086,
+          44.176,
+          -104.054,
+          45.0
+        ],
+        "point": [
+          -104.57,
+          44.588
+        ],
+        "labels": {
+          "en": "Crook"
+        },
+        "population": 8512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.999,
+          41.717
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "007",
+        "area": 2.673832000000013,
+        "bounding_box": [
+          -107.93,
+          40.999,
+          -106.068,
+          42.435
+        ],
+        "point": [
+          -106.999,
+          41.717
+        ],
+        "labels": {
+          "en": "Carbon"
+        },
+        "population": 16172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5505,
+          44.2475
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "005",
+        "area": 1.4282450000000209,
+        "bounding_box": [
+          -106.025,
+          43.495,
+          -105.076,
+          45.0
+        ],
+        "point": [
+          -105.5505,
+          44.2475
+        ],
+        "labels": {
+          "en": "Campbell"
+        },
+        "population": 63140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8085,
+          42.966
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "025",
+        "area": 1.5769120000000079,
+        "bounding_box": [
+          -107.544,
+          42.43,
+          -106.073,
+          43.502
+        ],
+        "point": [
+          -106.8085,
+          42.966
+        ],
+        "labels": {
+          "en": "Natrona"
+        },
+        "population": 85512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.66650000000001,
+          41.3275
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "021",
+        "area": 0.8099109999999982,
+        "bounding_box": [
+          -105.281,
+          40.998,
+          -104.052,
+          41.657
+        ],
+        "point": [
+          -104.66650000000001,
+          41.3275
+        ],
+        "labels": {
+          "en": "Laramie"
+        },
+        "population": 103102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.97,
+          42.1315
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "031",
+        "area": 0.6067380000000008,
+        "bounding_box": [
+          -105.287,
+          41.653,
+          -104.653,
+          42.61
+        ],
+        "point": [
+          -104.97,
+          42.1315
+        ],
+        "labels": {
+          "en": "Platte"
+        },
+        "population": 8554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.568,
+          43.84
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "045",
+        "area": 0.703151999999999,
+        "bounding_box": [
+          -105.082,
+          43.498,
+          -104.054,
+          44.182
+        ],
+        "point": [
+          -104.568,
+          43.84
+        ],
+        "labels": {
+          "en": "Weston"
+        },
+        "population": 7828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.797,
+          41.715
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "001",
+        "area": 1.5106719999999891,
+        "bounding_box": [
+          -106.323,
+          40.997,
+          -105.271,
+          42.433
+        ],
+        "point": [
+          -105.797,
+          41.715
+        ],
+        "labels": {
+          "en": "Albany"
+        },
+        "population": 41148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.803,
+          44.4045
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "029",
+        "area": 3.0123120000000134,
+        "bounding_box": [
+          -111.055,
+          43.803,
+          -108.551,
+          45.006
+        ],
+        "point": [
+          -109.803,
+          44.4045
+        ],
+        "labels": {
+          "en": "Park"
+        },
+        "population": 30979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.689,
+          44.0275
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "019",
+        "area": 1.46142600000001,
+        "bounding_box": [
+          -107.37,
+          43.491,
+          -106.008,
+          44.564
+        ],
+        "point": [
+          -106.689,
+          44.0275
+        ],
+        "labels": {
+          "en": "Johnson"
+        },
+        "population": 10365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.96100000000001,
+          44.778999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "033",
+        "area": 0.8444879999999919,
+        "bounding_box": [
+          -107.912,
+          44.557,
+          -106.01,
+          45.001
+        ],
+        "point": [
+          -106.96100000000001,
+          44.778999999999996
+        ],
+        "labels": {
+          "en": "Sheridan"
+        },
+        "population": 31912
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4765,
+          43.056
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "027",
+        "area": 0.7572180000000062,
+        "bounding_box": [
+          -104.9,
+          42.609,
+          -104.053,
+          43.503
+        ],
+        "point": [
+          -104.4765,
+          43.056
+        ],
+        "labels": {
+          "en": "Niobrara"
+        },
+        "population": 2563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.55199999999999,
+          43.951
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "039",
+        "area": 1.4348639999999955,
+        "bounding_box": [
+          -111.053,
+          43.235,
+          -110.051,
+          44.667
+        ],
+        "point": [
+          -110.55199999999999,
+          43.951
+        ],
+        "labels": {
+          "en": "Teton"
+        },
+        "population": 24739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.833,
+          42.864000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "035",
+        "area": 1.8991600000000064,
+        "bounding_box": [
+          -110.623,
+          42.263,
+          -109.043,
+          43.465
+        ],
+        "point": [
+          -109.833,
+          42.864000000000004
+        ],
+        "labels": {
+          "en": "Sublette"
+        },
+        "population": 17754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3545,
+          42.088
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wy",
+        "region_child": "015",
+        "area": 0.6319440000000102,
+        "bounding_box": [
+          -104.656,
+          41.564,
+          -104.053,
+          42.612
+        ],
+        "point": [
+          -104.3545,
+          42.088
+        ],
+        "labels": {
+          "en": "Goshen"
+        },
+        "population": 14017
+      }
+    }
+  ]
+}

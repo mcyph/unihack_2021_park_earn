@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6114999999999995,
+          0.21949999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "st",
+        "region_child": "st-s",
+        "area": 0.11451700000000013,
+        "bounding_box": [
+          6.462,
+          0.028,
+          6.761,
+          0.411
+        ],
+        "point": [
+          6.6114999999999995,
+          0.21949999999999997
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 190775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3965,
+          1.619
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "st",
+        "region_child": "st-p",
+        "area": 0.021545999999999992,
+        "bounding_box": [
+          7.33,
+          1.538,
+          7.463,
+          1.7
+        ],
+        "point": [
+          7.3965,
+          1.619
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": "Príncipe Province",
+          "es": null,
+          "fr": "province de Principe",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Provincia di Príncipe",
+          "ja": "プリンシペ州",
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": "Príncipe",
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 7184
+      }
+    }
+  ]
+}

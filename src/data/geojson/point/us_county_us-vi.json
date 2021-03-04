@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.961,
+          18.322499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vi",
+        "region_child": "030",
+        "area": 0.11000999999999882,
+        "bounding_box": [
+          -65.154,
+          18.18,
+          -64.768,
+          18.465
+        ],
+        "point": [
+          -64.961,
+          18.322499999999998
+        ],
+        "labels": {
+          "en": "St. Thomas"
+        },
+        "population": 52614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.735,
+          17.734
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vi",
+        "region_child": "010",
+        "area": 0.09856799999999642,
+        "bounding_box": [
+          -64.957,
+          17.623,
+          -64.513,
+          17.845
+        ],
+        "point": [
+          -64.735,
+          17.734
+        ],
+        "labels": {
+          "en": "St. Croix"
+        },
+        "population": 48262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.741,
+          18.3285
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vi",
+        "region_child": "020",
+        "area": 0.032753999999998736,
+        "bounding_box": [
+          -64.844,
+          18.249,
+          -64.638,
+          18.408
+        ],
+        "point": [
+          -64.741,
+          18.3285
+        ],
+        "labels": {
+          "en": "St. John"
+        },
+        "population": 4145
+      }
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.832,
+          1.2755
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ga",
+        "region_child": "ga-9",
+        "area": 6.1308120000000015,
+        "bounding_box": [
+          10.366,
+          0.23,
+          13.298,
+          2.321
+        ],
+        "point": [
+          11.832,
+          1.2755
+        ],
+        "labels": {
+          "alt": "Woleu-Ntem",
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة وليو-نتم",
+          "bn": "উলেও-নটেম প্রদেশ",
+          "de": "Woleu-Ntem",
+          "en": "Woleu-Ntem Province",
+          "es": "Provincia de Woleu-Ntem",
+          "fr": "Woleu-Ntem",
+          "el": "Γόλεου-Ντεμ",
+          "hi": "वोल्यू-नटेम प्रांत",
+          "hu": null,
+          "id": "Woleu-Ntem",
+          "it": "Woleu-Ntem",
+          "ja": "ウォレウ・ンテム州",
+          "ko": "월뢰은템 주",
+          "nl": "Woleu-Ntem",
+          "pl": "Woleu-Ntem",
+          "pt": "Woleu-Ntem",
+          "ru": "Волю-Нтем",
+          "sv": "Province du Woleu-Ntem",
+          "tr": "Woleu-Ntem",
+          "vi": "Woleu-Ntem",
+          "zh": "沃勒-恩特姆省"
+        },
+        "population": 338826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.873999999999999,
+          0.3404999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ga",
+        "region_child": "ga-6",
+        "area": 6.972156000000001,
+        "bounding_box": [
+          11.28,
+          -0.753,
+          14.468,
+          1.434
+        ],
+        "point": [
+          12.873999999999999,
+          0.3404999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "محافظة أوغووي - إيفيندو",
+          "bn": "ওগৌড়-ইভিন্দ প্রদেশ",
+          "de": "Ogooué-Ivindo",
+          "en": "Ogooué-Ivindo Province",
+          "es": "Provincia de Ogooué-Ivindo",
+          "fr": "Ogooué-Ivindo",
+          "el": "Ογκοουέ-Ιβίντο",
+          "hi": "ओगूए-लिविंविभाग प्रांत",
+          "hu": null,
+          "id": "Ogooué-Ivindo",
+          "it": "Ogooué-Ivindo",
+          "ja": "オゴウェ・イヴィンド州",
+          "ko": "오고웨이빈도 주",
+          "nl": "Ogooué-Ivindo",
+          "pl": "Ogowe-Ivindo",
+          "pt": "Ogooué-Ivindo",
+          "ru": "Огове-Ивиндо",
+          "sv": "Province de l'Ogooué-Ivindo",
+          "tr": "Ogooué-Ivindo",
+          "vi": "Ogooué-Ivindo",
+          "zh": "奧果韋-伊溫多省"
+        },
+        "population": 96248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.620000000000001,
+          -1.2305
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ga",
+        "region_child": "ga-2",
+        "area": 4.470594000000002,
+        "bounding_box": [
+          12.741,
+          -2.502,
+          14.499,
+          0.041
+        ],
+        "point": [
+          13.620000000000001,
+          -1.2305
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "محافظة هوت أوغويه",
+          "bn": "হত-ওগউ প্রদেশ",
+          "de": "Haut-Ogooué",
+          "en": "Haut-Ogooué Province",
+          "es": "Provincia de Haut-Ogooué",
+          "fr": "Haut-Ogooué",
+          "el": "Χοτ-Ογκοουέ",
+          "hi": "ओट-ओगूए प्रांत",
+          "hu": null,
+          "id": "Haut-Ogooué",
+          "it": "Haut-Ogooué",
+          "ja": "オートオゴウェ州",
+          "ko": "오트오고웨 주",
+          "nl": "Haut-Ogooué",
+          "pl": "Ogowe Górne",
+          "pt": "Haut-Ogooué",
+          "ru": "Верхнее Огове",
+          "sv": "Province du Haut-Ogooué",
+          "tr": "Haut-Ogooué",
+          "vi": "Haut-Ogooue",
+          "zh": "上奥果韦省"
+        },
+        "population": 811644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5305,
+          -0.8185
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ga",
+        "region_child": "ga-7",
+        "area": 4.514547000000001,
+        "bounding_box": [
+          11.504,
+          -1.918,
+          13.557,
+          0.281
+        ],
+        "point": [
+          12.5305,
+          -0.8185
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة أوغووي-لولو",
+          "bn": "ওগেউ লুলু প্রদেশ",
+          "de": "Ogooué-Lolo",
+          "en": "Ogooué-Lolo Province",
+          "es": "Provincia de Ogooué-Lolo",
+          "fr": "Ogooué-Lolo",
+          "el": "Ογκοουέ-Λόλο",
+          "hi": "ओगोउई-लोलो प्रांत",
+          "hu": null,
+          "id": "Ogooué-Lolo",
+          "it": "Ogooué-Lolo",
+          "ja": "オゴウェ・ロロ州",
+          "ko": "오고웨롤로 주",
+          "nl": "Ogooué-Lolo",
+          "pl": "Ogowe-Lolo",
+          "pt": "Ogooué-Lolo",
+          "ru": "Огове-Лоло",
+          "sv": "Province de l'Ogooué-Lolo",
+          "tr": "Ogooué-Lolo",
+          "vi": "Ogooué-Lolo",
+          "zh": "奧果韋-洛洛省"
+        },
+        "population": 122760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.186,
+          -1.6915
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ga",
+        "region_child": "ga-4",
+        "area": 5.852556000000001,
+        "bounding_box": [
+          9.872,
+          -2.805,
+          12.5,
+          -0.578
+        ],
+        "point": [
+          11.186,
+          -1.6915
+        ],
+        "labels": {
+          "alt": "N'Gounié",
+          "local": null,
+          "len": 7,
+          "ar": "محافظة نغوني",
+          "bn": "গোউনিয়ে প্রদেশ",
+          "de": "Ngounié",
+          "en": "Ngounié Province",
+          "es": "Provincia de Ngounié",
+          "fr": "Ngounié",
+          "el": "Νγκουνιέ",
+          "hi": "गौनी प्रांत",
+          "hu": null,
+          "id": "Ngounié",
+          "it": "provincia di Ngounié",
+          "ja": "ングニエ州",
+          "ko": "응구니에 주",
+          "nl": "Ngounié",
+          "pl": "Ngounié",
+          "pt": "Ngounié",
+          "ru": "Нгуни",
+          "sv": "Province de la Ngounié",
+          "tr": "Ngounié",
+          "vi": "Ngounié",
+          "zh": "恩古涅省"
+        },
+        "population": 149665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9585,
+          -3.0955
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ga",
+        "region_child": "ga-5",
+        "area": 3.354219,
+        "bounding_box": [
+          9.962,
+          -3.937,
+          11.955,
+          -2.254
+        ],
+        "point": [
+          10.9585,
+          -3.0955
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظة نيانغا",
+          "bn": "ন্যানগা প্রদেশ",
+          "de": "Nyanga",
+          "en": "Nyanga Province",
+          "es": "Provincia de Nyanga",
+          "fr": "Nyanga",
+          "el": "Νγιάνγκα",
+          "hi": "न्यांगा प्रांत",
+          "hu": null,
+          "id": "Provinsi Nyanga",
+          "it": "provincia di Nyanga",
+          "ja": "ニャンガ州",
+          "ko": "냥가 주",
+          "nl": "Nyanga",
+          "pl": "Nyanga",
+          "pt": "Nyanga",
+          "ru": "Ньянга",
+          "sv": "Province de la Nyanga",
+          "tr": "Nyanga",
+          "vi": "Tỉnh Nyanga",
+          "zh": "尼揚加省"
+        },
+        "population": 68753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14,
+          0.241
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ga",
+        "region_child": "ga-1",
+        "area": 2.7321840000000015,
+        "bounding_box": [
+          9.306,
+          -0.578,
+          10.974,
+          1.06
+        ],
+        "point": [
+          10.14,
+          0.241
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "محافظة إيستوير",
+          "bn": "আমোরিয়া প্রদেশ",
+          "de": "Estuaire",
+          "en": "Estuaire Province",
+          "es": "Provincia de Estuaire",
+          "fr": "Estuaire",
+          "el": "Εστουέρε",
+          "hi": "एस्तुएर प्रांत",
+          "hu": null,
+          "id": "Estuaire",
+          "it": "Estuaire",
+          "ja": "エスチュエール州",
+          "ko": "에스튀에르 주",
+          "nl": "Estuaire",
+          "pl": "Estuaire",
+          "pt": "Estuaire",
+          "ru": "Эстуарий",
+          "sv": "Estuaire",
+          "tr": "Estuaire",
+          "vi": "Estuaire",
+          "zh": "河口省"
+        },
+        "population": 1090653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.651499999999999,
+          -1.5085000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ga",
+        "region_child": "ga-8",
+        "area": 4.725902999999999,
+        "bounding_box": [
+          8.696,
+          -2.745,
+          10.607,
+          -0.272
+        ],
+        "point": [
+          9.651499999999999,
+          -1.5085000000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "مقاطعة أوغووي - البحرية",
+          "bn": "ওগুয়ে-মেরিটাইম প্রদেশ",
+          "de": "Ogooué-Maritime",
+          "en": "Ogooué-Maritime Province",
+          "es": "Provincia de Ogooué-Maritime",
+          "fr": "Ogooué-Maritime",
+          "el": "Ογκοουέ-Μαριτίμε",
+          "hi": "ओगोउई-मेरीटाइम प्रांत",
+          "hu": null,
+          "id": "Ogooué-Maritime",
+          "it": "provincia di Ogooué-Maritime",
+          "ja": "オゴウェ・マリティム州",
+          "ko": "오고웨마리팀 주",
+          "nl": "Ogooué-Maritime",
+          "pl": "Ogowe Nadmorskie",
+          "pt": "Ogooué-Maritime",
+          "ru": "Огове-Маритим",
+          "sv": "Province de l'Ogooué-Maritime",
+          "tr": "Ogooué-Maritime",
+          "vi": "Ogooué-Maritime",
+          "zh": "濱海奧果韋省"
+        },
+        "population": 170100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9955,
+          -0.6945
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ga",
+        "region_child": "ga-8",
+        "area": 0.011570999999999967,
+        "bounding_box": [
+          8.952,
+          -0.761,
+          9.039,
+          -0.628
+        ],
+        "point": [
+          8.9955,
+          -0.6945
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "مقاطعة أوغووي - البحرية",
+          "bn": "ওগুয়ে-মেরিটাইম প্রদেশ",
+          "de": "Ogooué-Maritime",
+          "en": "Ogooué-Maritime Province",
+          "es": "Provincia de Ogooué-Maritime",
+          "fr": "Ogooué-Maritime",
+          "el": "Ογκοουέ-Μαριτίμε",
+          "hi": "ओगोउई-मेरीटाइम प्रांत",
+          "hu": null,
+          "id": "Ogooué-Maritime",
+          "it": "provincia di Ogooué-Maritime",
+          "ja": "オゴウェ・マリティム州",
+          "ko": "오고웨마리팀 주",
+          "nl": "Ogooué-Maritime",
+          "pl": "Ogowe Nadmorskie",
+          "pt": "Ogooué-Maritime",
+          "ru": "Огове-Маритим",
+          "sv": "Province de l'Ogooué-Maritime",
+          "tr": "Ogooué-Maritime",
+          "vi": "Ogooué-Maritime",
+          "zh": "濱海奧果韋省"
+        },
+        "population": 170100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5725,
+          -0.5115
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ga",
+        "region_child": "ga-3",
+        "area": 3.005227000000001,
+        "bounding_box": [
+          9.562,
+          -1.255,
+          11.583,
+          0.232
+        ],
+        "point": [
+          10.5725,
+          -0.5115
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "محافظة موين - أوغووي",
+          "bn": "মোয়েেন-ওগৌ প্রদেশ",
+          "de": "Moyen-Ogooué",
+          "en": "Moyen-Ogooué Province",
+          "es": "Provincia de Moyen-Ogooué",
+          "fr": "Moyen-Ogooué",
+          "el": "Μόγιεν-Ογκοουέ",
+          "hi": "मोयेन-ओगोउई प्रांत",
+          "hu": null,
+          "id": "Moyen-Ogooué",
+          "it": "Moyen-Ogooué",
+          "ja": "モワイエン・オゴウェ州",
+          "ko": "무아얭오고웨 주",
+          "nl": "Moyen-Ogooué",
+          "pl": "Ogowe Środkowe",
+          "pt": "Moyen-Ogooué",
+          "ru": "Среднее Огове",
+          "sv": "Province du Moyen-Ogooué",
+          "tr": "Moyen-Ogooué",
+          "vi": "Moyen-Ogooué",
+          "zh": "中奧果韋省"
+        },
+        "population": 109157
+      }
+    }
+  ]
+}

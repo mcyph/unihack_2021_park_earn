@@ -1,0 +1,270 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4225,
+          -1.746
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rw",
+        "region_child": "rw-02",
+        "area": 1.2754700000000014,
+        "bounding_box": [
+          29.957,
+          -2.431,
+          30.888,
+          -1.061
+        ],
+        "point": [
+          30.4225,
+          -1.746
+        ],
+        "labels": {
+          "alt": "Province de l'Est",
+          "local": "Est",
+          "len": 7,
+          "ar": "المحافظة الشرقية، رواندا",
+          "bn": "ইস্টার্ন প্রদেশ",
+          "de": "Ostprovinz",
+          "en": "Eastern Province",
+          "es": "Provincia del Este",
+          "fr": "province de l'Est",
+          "el": "Ανατολική Ρουάντα",
+          "hi": "पूर्वी प्रांत",
+          "hu": null,
+          "id": "Provinsi Timur",
+          "it": "provincia Orientale",
+          "ja": "東部州",
+          "ko": "동부 주",
+          "nl": "Est",
+          "pl": "Prowincja Wschodnia",
+          "pt": "Província Oriental",
+          "ru": "Восточная провинция",
+          "sv": "Väst provins",
+          "tr": "Doğu Eyaleti",
+          "vi": "Tỉnh Miền Đông",
+          "zh": "东部省"
+        },
+        "population": 3812544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.643,
+          -2.2800000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rw",
+        "region_child": "rw-05",
+        "area": 0.8204999999999999,
+        "bounding_box": [
+          29.268,
+          -2.827,
+          30.018,
+          -1.733
+        ],
+        "point": [
+          29.643,
+          -2.2800000000000002
+        ],
+        "labels": {
+          "alt": "Province du Sud",
+          "local": "Sud",
+          "len": 8,
+          "ar": "المحافظة الجنوبية، رواندا",
+          "bn": "সাউদার্ন প্রদেশ",
+          "de": "Südprovinz",
+          "en": "Southern Province",
+          "es": "Provincia Sur",
+          "fr": "province du Sud",
+          "el": "Νότια Ρουάντα",
+          "hi": "दक्षिणी प्रांत",
+          "hu": null,
+          "id": "Provinsi Selatan",
+          "it": "provincia Meridionale",
+          "ja": "南部州",
+          "ko": "남부 주",
+          "nl": "Sud",
+          "pl": "Prowincja Południowa",
+          "pt": "Província do Sul",
+          "ru": "Южная провинция",
+          "sv": "Sydprovinsen",
+          "tr": "Güney Eyaleti",
+          "vi": "Tỉnh Miền Nam",
+          "zh": "南部省"
+        },
+        "population": 3072302
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2645,
+          -2.109
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rw",
+        "region_child": "rw-04",
+        "area": 0.9926639999999999,
+        "bounding_box": [
+          28.859,
+          -2.721,
+          29.67,
+          -1.497
+        ],
+        "point": [
+          29.2645,
+          -2.109
+        ],
+        "labels": {
+          "alt": "Province de l'Ouest",
+          "local": "Ouest",
+          "len": 7,
+          "ar": "المحافظة الغربية",
+          "bn": "ওয়েস্টার্ন প্রদেশ",
+          "de": "Westprovinz",
+          "en": "Western Province",
+          "es": "Provincia del Oeste",
+          "fr": "province de l'Ouest",
+          "el": "Δυτική Ρουάντα",
+          "hi": "पश्चिमी प्रांत",
+          "hu": null,
+          "id": "Provinsi Barat",
+          "it": "provincia Occidentale",
+          "ja": "西部州",
+          "ko": "서부 주",
+          "nl": "Ouest",
+          "pl": "Prowincja Zachodnia",
+          "pt": "Oeste",
+          "ru": "Западная провинция",
+          "sv": "Västra Provinsen",
+          "tr": "Batı Eyaleti",
+          "vi": "Tỉnh Phía Tây",
+          "zh": "西部省"
+        },
+        "population": 3127084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8585,
+          -1.6165
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rw",
+        "region_child": "rw-03",
+        "area": 0.4837949999999989,
+        "bounding_box": [
+          29.445,
+          -1.909,
+          30.272,
+          -1.324
+        ],
+        "point": [
+          29.8585,
+          -1.6165
+        ],
+        "labels": {
+          "alt": "Province du Nord",
+          "local": "Nord",
+          "len": 8,
+          "ar": "المقاطعة الشمالية",
+          "bn": "নর্দান প্রদেশ",
+          "de": "Nordprovinz",
+          "en": "Northern Province",
+          "es": "Provincia Norte",
+          "fr": "province du Nord",
+          "el": "Βόρεια Ρουάντα",
+          "hi": "उत्तरी प्रांत",
+          "hu": null,
+          "id": "Provinsi Utara",
+          "it": "provincia Settentrionale",
+          "ja": "北部州",
+          "ko": "북부 주",
+          "nl": "Nord",
+          "pl": "Prowincja Północna",
+          "pt": "Província do Norte",
+          "ru": "Северная провинция",
+          "sv": "Nord provinsen",
+          "tr": "Kuzey Eyaleti",
+          "vi": "Tỉnh Phía Bắc",
+          "zh": "北部省"
+        },
+        "population": 1905900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.125500000000002,
+          -1.9255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rw",
+        "region_child": "rw-01",
+        "area": 0.08467699999999943,
+        "bounding_box": [
+          29.981,
+          -2.072,
+          30.27,
+          -1.779
+        ],
+        "point": [
+          30.125500000000002,
+          -1.9255
+        ],
+        "labels": {
+          "alt": "Ville de Kigali",
+          "local": "Kigali",
+          "len": 11,
+          "ar": "كيغالي",
+          "bn": "কিগালি",
+          "de": "Kigali",
+          "en": "Kigali",
+          "es": "Kigali",
+          "fr": "Kigali",
+          "el": "Κιγκάλι",
+          "hi": "किगाली",
+          "hu": "Kigali",
+          "id": "Kigali",
+          "it": "Kigali",
+          "ja": "キガリ",
+          "ko": "키갈리",
+          "nl": "Kigali",
+          "pl": "Kigali",
+          "pt": "Kigali",
+          "ru": "Кигали",
+          "sv": "Kigali",
+          "tr": "Kigali",
+          "vi": "Kigali",
+          "zh": "吉佳利"
+        },
+        "population": 1679939
+      }
+    }
+  ]
+}

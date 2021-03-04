@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.997,
+          -28.844499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-nc",
+        "area": 74.07424999999996,
+        "bounding_box": [
+          16.472,
+          -32.937,
+          25.522,
+          -24.752
+        ],
+        "point": [
+          20.997,
+          -28.844499999999996
+        ],
+        "labels": {
+          "alt": "Noord-Kaap",
+          "local": null,
+          "len": 13,
+          "ar": "كيب الشمالية",
+          "bn": "উত্তর কেপ প্রদেশ",
+          "de": "Nordkap",
+          "en": "Northern Cape",
+          "es": "Provincia Septentrional del Cabo",
+          "fr": "Cap du Nord",
+          "el": "Βορειότερο Ακρωτήριο",
+          "hi": "उत्तरी केप प्रान्त",
+          "hu": "Észak-Fokföld",
+          "id": "Northern Cape",
+          "it": "provincia del Capo Settentrionale",
+          "ja": "北ケープ州",
+          "ko": "노던케이프 주",
+          "nl": "Noord-Kaap",
+          "pl": "Prowincja Przylądkowa Północna",
+          "pt": "Cabo Setentrional",
+          "ru": "Северо-Капская провинция",
+          "sv": "Norra Kapprovinsen",
+          "tr": "Kuzey Kap",
+          "vi": "Bắc Cape",
+          "zh": "北開普省"
+        },
+        "population": 1177295
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.825499999999998,
+          -28.942999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-nl",
+        "area": 17.656450000000007,
+        "bounding_box": [
+          28.758,
+          -31.078,
+          32.893,
+          -26.808
+        ],
+        "point": [
+          30.825499999999998,
+          -28.942999999999998
+        ],
+        "labels": {
+          "alt": "Natal and Zululand",
+          "local": null,
+          "len": 13,
+          "ar": "كوازولو ناتال",
+          "bn": "কোয়া-জুলু নাটাল প্রদেশ",
+          "de": "KwaZulu-Natal",
+          "en": "KwaZulu-Natal",
+          "es": "KwaZulu-Natal",
+          "fr": "KwaZulu-Natal",
+          "el": "Νατάλ",
+          "hi": "क्वाज़ूलू-नताल प्रान्त",
+          "hu": "KwaZulu-Natal",
+          "id": "KwaZulu-Natal",
+          "it": "KwaZulu-Natal",
+          "ja": "クワズール・ナタール州",
+          "ko": "콰줄루나탈 주",
+          "nl": "KwaZoeloe-Natal",
+          "pl": "KwaZulu-Natal",
+          "pt": "KwaZulu-Natal",
+          "ru": "Квазулу-Натал",
+          "sv": "KwaZulu-Natal",
+          "tr": "KwaZulu-Natal",
+          "vi": "KwaZulu-Natal",
+          "zh": "夸祖魯-納塔爾省"
+        },
+        "population": 10764031
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.056,
+          -28.676000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-fs",
+        "area": 21.774300000000007,
+        "bounding_box": [
+          24.341,
+          -30.681,
+          29.771,
+          -26.671
+        ],
+        "point": [
+          27.056,
+          -28.676000000000002
+        ],
+        "labels": {
+          "alt": "Orange Free State|Vrystaat",
+          "local": null,
+          "len": 17,
+          "ar": "فري ستيت",
+          "bn": "ফ্রি অঙ্গরাজ্য",
+          "de": "Freistaat",
+          "en": "Free State",
+          "es": "Provincia del Estado Libre",
+          "fr": "État-Libre",
+          "el": "Ελεύθερο Κράτος της Οράγγης",
+          "hi": "फ़्री स्टेट प्रान्त",
+          "hu": null,
+          "id": "Free State",
+          "it": "Free State",
+          "ja": "フリーステイト州",
+          "ko": "프리스테이트 주",
+          "nl": "Vrijstaat",
+          "pl": "Wolne Państwo",
+          "pt": "Estado Livre",
+          "ru": "Фри-Стейт",
+          "sv": "Fristatsprovinsen",
+          "tr": "Özgür Devlet",
+          "vi": "Free State",
+          "zh": "自由邦省"
+        },
+        "population": 2822587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4705,
+          -32.083
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-ec",
+        "area": 31.35380799999999,
+        "bounding_box": [
+          22.745,
+          -34.187,
+          30.196,
+          -29.979
+        ],
+        "point": [
+          26.4705,
+          -32.083
+        ],
+        "labels": {
+          "alt": "Oos-Kaap",
+          "local": null,
+          "len": 12,
+          "ar": "كيب الشرقية",
+          "bn": "পূর্ব কেপ প্রদেশ",
+          "de": "Ostkap",
+          "en": "Eastern Cape",
+          "es": "Provincia Oriental del Cabo",
+          "fr": "Cap-Oriental",
+          "el": "Ανατολικότερο Ακρωτήριο",
+          "hi": "पूर्वी केप प्रान्त",
+          "hu": null,
+          "id": "Eastern Cape",
+          "it": "provincia del Capo Orientale",
+          "ja": "東ケープ州",
+          "ko": "이스턴케이프 주",
+          "nl": "Oost-Kaap",
+          "pl": "Prowincja Przylądkowa Wschodnia",
+          "pt": "Cabo Oriental",
+          "ru": "Восточно-Капская провинция",
+          "sv": "Östra Kapprovinsen",
+          "tr": "Doğu Kap",
+          "vi": "Đông Cape",
+          "zh": "東開普省"
+        },
+        "population": 7003990
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.769,
+          -30.2815
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-ec",
+        "area": 0.3711500000000022,
+        "bounding_box": [
+          29.444,
+          -30.567,
+          30.094,
+          -29.996
+        ],
+        "point": [
+          29.769,
+          -30.2815
+        ],
+        "labels": {
+          "alt": "Oos-Kaap",
+          "local": null,
+          "len": 12,
+          "ar": "كيب الشرقية",
+          "bn": "পূর্ব কেপ প্রদেশ",
+          "de": "Ostkap",
+          "en": "Eastern Cape",
+          "es": "Provincia Oriental del Cabo",
+          "fr": "Cap-Oriental",
+          "el": "Ανατολικότερο Ακρωτήριο",
+          "hi": "पूर्वी केप प्रान्त",
+          "hu": null,
+          "id": "Eastern Cape",
+          "it": "provincia del Capo Orientale",
+          "ja": "東ケープ州",
+          "ko": "이스턴케이프 주",
+          "nl": "Oost-Kaap",
+          "pl": "Prowincja Przylądkowa Wschodnia",
+          "pt": "Cabo Oriental",
+          "ru": "Восточно-Капская провинция",
+          "sv": "Östra Kapprovinsen",
+          "tr": "Doğu Kap",
+          "vi": "Đông Cape",
+          "zh": "東開普省"
+        },
+        "population": 7003990
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.130000000000003,
+          -23.724
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-lp",
+        "area": 17.424591999999993,
+        "bounding_box": [
+          26.404,
+          -25.322,
+          31.856,
+          -22.126
+        ],
+        "point": [
+          29.130000000000003,
+          -23.724
+        ],
+        "labels": {
+          "alt": "Noordelike Provinsie|Northern Transvaal|Northern Province",
+          "local": null,
+          "len": 7,
+          "ar": "ليمبوبو",
+          "bn": "লিম্পোপো",
+          "de": "Limpopo",
+          "en": "Limpopo",
+          "es": "Provincia de Limpopo",
+          "fr": "Limpopo",
+          "el": "Λιμπόπο",
+          "hi": "लिम्पोपो प्रान्त",
+          "hu": null,
+          "id": "Limpopo",
+          "it": "provincia del Limpopo",
+          "ja": "リンポポ州",
+          "ko": "림포포 주",
+          "nl": "Limpopo",
+          "pl": "Limpopo",
+          "pt": "Limpopo",
+          "ru": "Лимпопо",
+          "sv": "Limpopoprovinsen",
+          "tr": "Limpopo",
+          "vi": "Limpopo",
+          "zh": "林波波省"
+        },
+        "population": 5855428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4575,
+          -26.361
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-nw",
+        "area": 19.730694000000014,
+        "bounding_box": [
+          22.621,
+          -28.1,
+          28.294,
+          -24.622
+        ],
+        "point": [
+          25.4575,
+          -26.361
+        ],
+        "labels": {
+          "alt": "North-West|Noordwes",
+          "local": null,
+          "len": 10,
+          "ar": "الشمالية الغربية",
+          "bn": "উত্তর পশ্চিম প্রদেশ",
+          "de": "Nordwest",
+          "en": "North West",
+          "es": "Provincia del Noroeste",
+          "fr": "Nord-Ouest",
+          "el": "Βορειοδυτική Περιφέρεια",
+          "hi": "पश्चिमोत्तर प्रान्त",
+          "hu": null,
+          "id": "North West",
+          "it": "provincia del Nordovest",
+          "ja": "北西州",
+          "ko": "노스웨스트 주",
+          "nl": "Noordwest",
+          "pl": "Prowincja Północno-Zachodnia",
+          "pt": "Noroeste",
+          "ru": "Северо-Западная провинция",
+          "sv": "Nordvästprovinsen",
+          "tr": "Kuzeybatı",
+          "vi": "Tây Bắc",
+          "zh": "西北省"
+        },
+        "population": 5028045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.140500000000003,
+          -25.7325
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-mp",
+        "area": 13.10491699999999,
+        "bounding_box": [
+          28.289,
+          -27.502,
+          31.992,
+          -23.963
+        ],
+        "point": [
+          30.140500000000003,
+          -25.7325
+        ],
+        "labels": {
+          "alt": "Eastern Transvaal",
+          "local": null,
+          "len": 10,
+          "ar": "مبومالانجا",
+          "bn": "এম্পোমালাগা",
+          "de": "Mpumalanga",
+          "en": "Mpumalanga",
+          "es": "Mpumalanga",
+          "fr": "Mpumalanga",
+          "el": "Μπουμαλάνγκα",
+          "hi": "अमपूमलांगा प्रान्त",
+          "hu": null,
+          "id": "Mpumalanga",
+          "it": "Mpumalanga",
+          "ja": "ムプマランガ州",
+          "ko": "음푸말랑가 주",
+          "nl": "Mpumalanga",
+          "pl": "Mpumalanga",
+          "pt": "Mpumalanga",
+          "ru": "Мпумаланга",
+          "sv": "Mpumalanga",
+          "tr": "Mpumalanga",
+          "vi": "Mpumalanga",
+          "zh": "普馬蘭加省"
+        },
+        "population": 4703065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9745,
+          -32.645
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-wc",
+        "area": 27.892420000000012,
+        "bounding_box": [
+          17.767,
+          -34.819,
+          24.182,
+          -30.471
+        ],
+        "point": [
+          20.9745,
+          -32.645
+        ],
+        "labels": {
+          "alt": "Wes-Kaap",
+          "local": null,
+          "len": 12,
+          "ar": "كيب الغربية",
+          "bn": "পশ্চিম কেপ প্রদেশ",
+          "de": "Westkap",
+          "en": "Western Cape",
+          "es": "Provincia Occidental del Cabo",
+          "fr": "Cap occidental",
+          "el": "Δυτικότερο Ακρωτήριο",
+          "hi": "पश्चिमी केप प्रान्त",
+          "hu": null,
+          "id": "Western Cape",
+          "it": "provincia del Capo Occidentale",
+          "ja": "西ケープ州",
+          "ko": "웨스턴케이프 주",
+          "nl": "West-Kaap",
+          "pl": "Prowincja Przylądkowa Zachodnia",
+          "pt": "Cabo Ocidental",
+          "ru": "Западно-Капская провинция",
+          "sv": "Västra Kapprovinsen",
+          "tr": "Batı Kap",
+          "vi": "Tây Cape",
+          "zh": "西開普省"
+        },
+        "population": 7270739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.730000000000004,
+          -46.892
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-wc",
+        "area": 0.04153999999999946,
+        "bounding_box": [
+          37.575,
+          -46.959,
+          37.885,
+          -46.825
+        ],
+        "point": [
+          37.730000000000004,
+          -46.892
+        ],
+        "labels": {
+          "alt": "Wes-Kaap",
+          "local": null,
+          "len": 12,
+          "ar": "كيب الغربية",
+          "bn": "পশ্চিম কেপ প্রদেশ",
+          "de": "Westkap",
+          "en": "Western Cape",
+          "es": "Provincia Occidental del Cabo",
+          "fr": "Cap occidental",
+          "el": "Δυτικότερο Ακρωτήριο",
+          "hi": "पश्चिमी केप प्रान्त",
+          "hu": null,
+          "id": "Western Cape",
+          "it": "provincia del Capo Occidentale",
+          "ja": "西ケープ州",
+          "ko": "웨스턴케이프 주",
+          "nl": "West-Kaap",
+          "pl": "Prowincja Przylądkowa Zachodnia",
+          "pt": "Cabo Ocidental",
+          "ru": "Западно-Капская провинция",
+          "sv": "Västra Kapprovinsen",
+          "tr": "Batı Kap",
+          "vi": "Tây Cape",
+          "zh": "西開普省"
+        },
+        "population": 7270739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.903499999999994,
+          -46.626000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-wc",
+        "area": 0.00476000000000043,
+        "bounding_box": [
+          37.861,
+          -46.654,
+          37.946,
+          -46.598
+        ],
+        "point": [
+          37.903499999999994,
+          -46.626000000000005
+        ],
+        "labels": {
+          "alt": "Wes-Kaap",
+          "local": null,
+          "len": 12,
+          "ar": "كيب الغربية",
+          "bn": "পশ্চিম কেপ প্রদেশ",
+          "de": "Westkap",
+          "en": "Western Cape",
+          "es": "Provincia Occidental del Cabo",
+          "fr": "Cap occidental",
+          "el": "Δυτικότερο Ακρωτήριο",
+          "hi": "पश्चिमी केप प्रान्त",
+          "hu": null,
+          "id": "Western Cape",
+          "it": "provincia del Capo Occidentale",
+          "ja": "西ケープ州",
+          "ko": "웨스턴케이프 주",
+          "nl": "West-Kaap",
+          "pl": "Prowincja Przylądkowa Zachodnia",
+          "pt": "Cabo Ocidental",
+          "ru": "Западно-Капская провинция",
+          "sv": "Västra Kapprovinsen",
+          "tr": "Batı Kap",
+          "vi": "Tây Cape",
+          "zh": "西開普省"
+        },
+        "population": 7270739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2075,
+          -26.012
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "za",
+        "region_child": "za-gt",
+        "area": 3.7427539999999957,
+        "bounding_box": [
+          27.169,
+          -26.913,
+          29.246,
+          -25.111
+        ],
+        "point": [
+          28.2075,
+          -26.012
+        ],
+        "labels": {
+          "alt": "Pretoria/Witwatersrand/Vaal",
+          "local": null,
+          "len": 7,
+          "ar": "غاوتينج",
+          "bn": "গুটেং",
+          "de": "Gauteng",
+          "en": "Gauteng",
+          "es": "Gauteng",
+          "fr": "Gauteng",
+          "el": "Γκαουτένγκ",
+          "hi": "ख़ाउतेन्ग प्रान्त",
+          "hu": null,
+          "id": "Gauteng",
+          "it": "Gauteng",
+          "ja": "ハウテン州",
+          "ko": "하우텡 주",
+          "nl": "Gauteng",
+          "pl": "Gauteng",
+          "pt": "Gauteng",
+          "ru": "Гаутенг",
+          "sv": "Gauteng",
+          "tr": "Gauteng",
+          "vi": "Gauteng",
+          "zh": "豪登省"
+        },
+        "population": 15090175
+      }
+    }
+  ]
+}

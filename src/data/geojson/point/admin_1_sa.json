@@ -1,0 +1,959 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2885,
+          23.0945
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-04",
+        "area": 128.42009699999997,
+        "bounding_box": [
+          44.939,
+          17.093,
+          55.638,
+          29.096
+        ],
+        "point": [
+          50.2885,
+          23.0945
+        ],
+        "labels": {
+          "alt": "Eastern Province",
+          "local": null,
+          "len": 13,
+          "ar": "المنطقة الشرقية",
+          "bn": "ইস্টার্ন প্রদেশ",
+          "de": "Provinz asch-Scharqiyya",
+          "en": "Eastern Province",
+          "es": "Provincia Oriental",
+          "fr": "Ach-Charqiya",
+          "el": "Ανατολική επαρχία",
+          "hi": "पूर्वी प्रान्त",
+          "hu": "Keleti tartomány",
+          "id": "Syarqiyah",
+          "it": "Al-Sharqiyya",
+          "ja": "東部州",
+          "ko": "동부 주",
+          "nl": "Ash Sharqiyah",
+          "pl": "Prowincja Wschodnia",
+          "pt": "Ash Sharqiyah",
+          "ru": "Восточная провинция",
+          "sv": "Ash Sharqiyah",
+          "tr": "Doğu Bölgesi",
+          "vi": "Tỉnh Miền Đông",
+          "zh": "东部省"
+        },
+        "population": 5596468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1465,
+          29.7895
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-08",
+        "area": 39.91994300000003,
+        "bounding_box": [
+          37.866,
+          27.458,
+          46.427,
+          32.121
+        ],
+        "point": [
+          42.1465,
+          29.7895
+        ],
+        "labels": {
+          "alt": "Northern Frontier",
+          "local": null,
+          "len": 23,
+          "ar": "منطقة الحدود الشمالية",
+          "bn": null,
+          "de": "Provinz al-Hudud asch-schamaliyya",
+          "en": "Northern Borders Region",
+          "es": "Provincia de la Frontera del Norte",
+          "fr": "Hudud ach-Chamaliya",
+          "el": "Επαρχία Βορείων Συνόρων",
+          "hi": "उत्तरी सीमाएँ प्रान्त",
+          "hu": "Északi határvidék tartomány",
+          "id": "Hududusy Syamaliyah",
+          "it": "Al-Hudud al-Shamaliyya",
+          "ja": "北部国境州",
+          "ko": "북부 변경 주",
+          "nl": "Al Hudud ash Shamaliyah",
+          "pl": "Północna Prowincja Graniczna",
+          "pt": "Al Hudud ash Shamaliyah",
+          "ru": "Эль-Худуд-эш-Шамалия",
+          "sv": "Al Hudud ash Shamaliyah",
+          "tr": "Kuzey Sınır Bölgesi",
+          "vi": null,
+          "zh": "北部边疆省"
+        },
+        "population": 492877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.374,
+          29.9465
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-12",
+        "area": 25.51500599999999,
+        "bounding_box": [
+          34.843,
+          28.14,
+          41.905,
+          31.753
+        ],
+        "point": [
+          38.374,
+          29.9465
+        ],
+        "labels": {
+          "alt": "JawfAl Joaf|Al-Jouf|Jowf",
+          "local": null,
+          "len": 7,
+          "ar": "منطقة الجوف",
+          "bn": "আল যাফ অঞ্চল",
+          "de": "Provinz al-Dschauf",
+          "en": "Al Jawf Region",
+          "es": "Provincia de Yauf",
+          "fr": "Jawf",
+          "el": "Επαρχία Τζωφ",
+          "hi": "जौफ़ प्रान्त",
+          "hu": "Dzsauf tartomány",
+          "id": "Provinsi Jauf",
+          "it": "Al-Jawf",
+          "ja": "ジャウフ州",
+          "ko": "자우프 주",
+          "nl": "Al Jawf",
+          "pl": "Al-Dżauf",
+          "pt": "Al Jawf",
+          "ru": "Эль-Джауф",
+          "sv": "Al Jawf",
+          "tr": "Cevf Bölgesi",
+          "vi": "Khu vực Al Jawf",
+          "zh": "焦夫省"
+        },
+        "population": 801028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6915,
+          18.237000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-10",
+        "area": 10.628915999999988,
+        "bounding_box": [
+          43.638,
+          16.943,
+          47.745,
+          19.531
+        ],
+        "point": [
+          45.6915,
+          18.237000000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "منطقة نجران",
+          "bn": "নাজরান অঞ্চল",
+          "de": "Provinz Nadschran",
+          "en": "Najran Region",
+          "es": "Provincia de Najrán",
+          "fr": "Najran",
+          "el": "Περιφέρεια Νατζράν",
+          "hi": "नजरान प्रान्त",
+          "hu": "Nadzsrán tartomány",
+          "id": "Provinsi Najran",
+          "it": "Najran",
+          "ja": "ナジュラーン州",
+          "ko": "나즈란 주",
+          "nl": "Najran",
+          "pl": "Nadżran",
+          "pt": "Najran",
+          "ru": "Наджран",
+          "sv": "Najran",
+          "tr": "Necran Bölgesi",
+          "vi": "Khu vực Najran",
+          "zh": "奈季兰省"
+        },
+        "population": 644207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.950500000000005,
+          19.2075
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-14",
+        "area": 11.081421000000006,
+        "bounding_box": [
+          41.384,
+          17.439,
+          44.517,
+          20.976
+        ],
+        "point": [
+          42.950500000000005,
+          19.2075
+        ],
+        "labels": {
+          "alt": "Asir|Aseer|Assyear",
+          "local": null,
+          "len": 5,
+          "ar": "منطقة عسير",
+          "bn": "আসির প্রদেশ",
+          "de": "Provinz Asir",
+          "en": "'Asir Region",
+          "es": "Provincia de Asir",
+          "fr": "Asir",
+          "el": "Επαρχία Ασίρ",
+          "hi": "असीर प्रान्त",
+          "hu": "Aszír tartomány",
+          "id": "Provinsi 'Asir",
+          "it": "'Asir",
+          "ja": "アスィール州",
+          "ko": "아시르 주",
+          "nl": "Asir",
+          "pl": "Asir",
+          "pt": "'Asir",
+          "ru": "Асир",
+          "sv": "'Asir",
+          "tr": "Asir Bölgesi",
+          "vi": "Khu vực Asir",
+          "zh": "阿西尔省"
+        },
+        "population": 2281178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.468,
+          17.3465
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-09",
+        "area": 3.410347999999996,
+        "bounding_box": [
+          41.594,
+          16.371,
+          43.342,
+          18.322
+        ],
+        "point": [
+          42.468,
+          17.3465
+        ],
+        "labels": {
+          "alt": "Jazan|Qizan",
+          "local": null,
+          "len": 5,
+          "ar": "منطقة جازان",
+          "bn": null,
+          "de": "Provinz Dschāzān",
+          "en": "Jizan Region",
+          "es": "Provincia de Jizán",
+          "fr": "Jizan",
+          "el": "Επαρχία Τζιζάν",
+          "hi": "जाज़ान प्रान्त",
+          "hu": "Dzsízán tartomány",
+          "id": "Provinsi Jizan",
+          "it": "Jazan",
+          "ja": "ジーザーン州",
+          "ko": "지잔 주",
+          "nl": "Jizan",
+          "pl": "Dżizan",
+          "pt": "Jizan",
+          "ru": "Джизан",
+          "sv": "Jizan",
+          "tr": "Cizan Bölgesi",
+          "vi": null,
+          "zh": "吉赞省"
+        },
+        "population": 1755371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.983000000000004,
+          16.7305
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-09",
+        "area": 0.11931000000000122,
+        "bounding_box": [
+          41.778,
+          16.585,
+          42.188,
+          16.876
+        ],
+        "point": [
+          41.983000000000004,
+          16.7305
+        ],
+        "labels": {
+          "alt": "Jazan|Qizan",
+          "local": null,
+          "len": 5,
+          "ar": "منطقة جازان",
+          "bn": null,
+          "de": "Provinz Dschāzān",
+          "en": "Jizan Region",
+          "es": "Provincia de Jizán",
+          "fr": "Jizan",
+          "el": "Επαρχία Τζιζάν",
+          "hi": "जाज़ान प्रान्त",
+          "hu": "Dzsízán tartomány",
+          "id": "Provinsi Jizan",
+          "it": "Jazan",
+          "ja": "ジーザーン州",
+          "ko": "지잔 주",
+          "nl": "Jizan",
+          "pl": "Dżizan",
+          "pt": "Jizan",
+          "ru": "Джизан",
+          "sv": "Jizan",
+          "tr": "Cizan Bölgesi",
+          "vi": null,
+          "zh": "吉赞省"
+        },
+        "population": 1755371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.89,
+          16.866500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-09",
+        "area": 0.016609999999999892,
+        "bounding_box": [
+          41.835,
+          16.791,
+          41.945,
+          16.942
+        ],
+        "point": [
+          41.89,
+          16.866500000000002
+        ],
+        "labels": {
+          "alt": "Jazan|Qizan",
+          "local": null,
+          "len": 5,
+          "ar": "منطقة جازان",
+          "bn": null,
+          "de": "Provinz Dschāzān",
+          "en": "Jizan Region",
+          "es": "Provincia de Jizán",
+          "fr": "Jizan",
+          "el": "Επαρχία Τζιζάν",
+          "hi": "जाज़ान प्रान्त",
+          "hu": "Dzsízán tartomány",
+          "id": "Provinsi Jizan",
+          "it": "Jazan",
+          "ja": "ジーザーン州",
+          "ko": "지잔 주",
+          "nl": "Jizan",
+          "pl": "Dżizan",
+          "pt": "Jizan",
+          "ru": "Джизан",
+          "sv": "Jizan",
+          "tr": "Cizan Bölgesi",
+          "vi": null,
+          "zh": "吉赞省"
+        },
+        "population": 1755371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3695,
+          26.762
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-07",
+        "area": 24.855292,
+        "bounding_box": [
+          34.573,
+          24.54,
+          40.166,
+          28.984
+        ],
+        "point": [
+          37.3695,
+          26.762
+        ],
+        "labels": {
+          "alt": "Tabouk",
+          "local": null,
+          "len": 5,
+          "ar": "منطقة تبوك",
+          "bn": "তাবুক অঞ্চল",
+          "de": "Provinz Tabuk",
+          "en": "Tabuk Region",
+          "es": "Provincia de Tabuk",
+          "fr": "Tabuk",
+          "el": "Επαρχία Ταμπούκ",
+          "hi": "तबूक प्रान्त",
+          "hu": "Tabúk tartomány",
+          "id": "Provinsi Tabuk",
+          "it": "Tabuk",
+          "ja": "タブーク州",
+          "ko": "타부크 주",
+          "nl": "Tabuk",
+          "pl": "Tabuk",
+          "pt": "Tabuk",
+          "ru": "Табук",
+          "sv": "Tabuk",
+          "tr": "Tebük Bölgesi",
+          "vi": "Khu vực Tabuk",
+          "zh": "塔布克省"
+        },
+        "population": 783608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5905,
+          25.6065
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-07",
+        "area": 0.020905000000000173,
+        "bounding_box": [
+          36.498,
+          25.55,
+          36.683,
+          25.663
+        ],
+        "point": [
+          36.5905,
+          25.6065
+        ],
+        "labels": {
+          "alt": "Tabouk",
+          "local": null,
+          "len": 5,
+          "ar": "منطقة تبوك",
+          "bn": "তাবুক অঞ্চল",
+          "de": "Provinz Tabuk",
+          "en": "Tabuk Region",
+          "es": "Provincia de Tabuk",
+          "fr": "Tabuk",
+          "el": "Επαρχία Ταμπούκ",
+          "hi": "तबूक प्रान्त",
+          "hu": "Tabúk tartomány",
+          "id": "Provinsi Tabuk",
+          "it": "Tabuk",
+          "ja": "タブーク州",
+          "ko": "타부크 주",
+          "nl": "Tabuk",
+          "pl": "Tabuk",
+          "pt": "Tabuk",
+          "ru": "Табук",
+          "sv": "Tabuk",
+          "tr": "Tebük Bölgesi",
+          "vi": "Khu vực Tabuk",
+          "zh": "塔布克省"
+        },
+        "population": 783608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8705,
+          25.4135
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-07",
+        "area": 0.015015000000000132,
+        "bounding_box": [
+          36.799,
+          25.361,
+          36.942,
+          25.466
+        ],
+        "point": [
+          36.8705,
+          25.4135
+        ],
+        "labels": {
+          "alt": "Tabouk",
+          "local": null,
+          "len": 5,
+          "ar": "منطقة تبوك",
+          "bn": "তাবুক অঞ্চল",
+          "de": "Provinz Tabuk",
+          "en": "Tabuk Region",
+          "es": "Provincia de Tabuk",
+          "fr": "Tabuk",
+          "el": "Επαρχία Ταμπούκ",
+          "hi": "तबूक प्रान्त",
+          "hu": "Tabúk tartomány",
+          "id": "Provinsi Tabuk",
+          "it": "Tabuk",
+          "ja": "タブーク州",
+          "ko": "타부크 주",
+          "nl": "Tabuk",
+          "pl": "Tabuk",
+          "pt": "Tabuk",
+          "ru": "Табук",
+          "sv": "Tabuk",
+          "tr": "Tebük Bölgesi",
+          "vi": "Khu vực Tabuk",
+          "zh": "塔布克省"
+        },
+        "population": 783608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.57,
+          25.7665
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-07",
+        "area": 0.003975999999999699,
+        "bounding_box": [
+          36.542,
+          25.731,
+          36.598,
+          25.802
+        ],
+        "point": [
+          36.57,
+          25.7665
+        ],
+        "labels": {
+          "alt": "Tabouk",
+          "local": null,
+          "len": 5,
+          "ar": "منطقة تبوك",
+          "bn": "তাবুক অঞ্চল",
+          "de": "Provinz Tabuk",
+          "en": "Tabuk Region",
+          "es": "Provincia de Tabuk",
+          "fr": "Tabuk",
+          "el": "Επαρχία Ταμπούκ",
+          "hi": "तबूक प्रान्त",
+          "hu": "Tabúk tartomány",
+          "id": "Provinsi Tabuk",
+          "it": "Tabuk",
+          "ja": "タブーク州",
+          "ko": "타부크 주",
+          "nl": "Tabuk",
+          "pl": "Tabuk",
+          "pt": "Tabuk",
+          "ru": "Табук",
+          "sv": "Tabuk",
+          "tr": "Tebük Bölgesi",
+          "vi": "Khu vực Tabuk",
+          "zh": "塔布克省"
+        },
+        "population": 783608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4405,
+          24.942999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-03",
+        "area": 26.023900000000012,
+        "bounding_box": [
+          36.785,
+          22.493,
+          42.096,
+          27.393
+        ],
+        "point": [
+          39.4405,
+          24.942999999999998
+        ],
+        "labels": {
+          "alt": "Madinah|Al Madinah al Munawwarah|Monwarah|Medina|Médine",
+          "local": null,
+          "len": 10,
+          "ar": "منطقة المدينة المنورة",
+          "bn": "আল মদিনা অঞ্চল",
+          "de": "Medina",
+          "en": "Al Madinah Region",
+          "es": "Provincia de Medina",
+          "fr": "Médine",
+          "el": "Επαρχία Μαδίνα",
+          "hi": "मदीना प्रान्त",
+          "hu": "Medina tartomány",
+          "id": "Provinsi Madinah",
+          "it": "Medina",
+          "ja": "マディーナ州",
+          "ko": "메디나 주",
+          "nl": "Medina",
+          "pl": "Medyna",
+          "pt": "Al Madinah",
+          "ru": "Медина",
+          "sv": "Al-Madinah",
+          "tr": "Medine Bölgesi",
+          "vi": "Khu vực Al Madinah",
+          "zh": "麦地那省"
+        },
+        "population": 2340019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.156,
+          21.043999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-02",
+        "area": 29.370304000000004,
+        "bounding_box": [
+          38.644,
+          18.121,
+          43.668,
+          23.967
+        ],
+        "point": [
+          41.156,
+          21.043999999999997
+        ],
+        "labels": {
+          "alt": "La Meca|La Mecca|La Mecque|Makka|Makkah al-Mukarramah|Mecca|Meca|Mecka|Mekka",
+          "local": null,
+          "len": 6,
+          "ar": "منطقة مكة المكرمة",
+          "bn": "মক্কা অঞ্চল",
+          "de": "Provinz Mekka",
+          "en": "Makkah Region",
+          "es": "Provincia de La Meca",
+          "fr": "la Mecque",
+          "el": "Επαρχία Μάκκα",
+          "hi": "मक्का प्रान्त",
+          "hu": "Mekka tartomány",
+          "id": "Provinsi Makkah",
+          "it": "provincia della Mecca",
+          "ja": "マッカ州",
+          "ko": "메카 주",
+          "nl": "Mekka",
+          "pl": "Mekka",
+          "pt": "Meca",
+          "ru": "Мекка",
+          "sv": "Mekka",
+          "tr": "Mekke Bölgesi",
+          "vi": "Khu vực Makkah",
+          "zh": "麥加省"
+        },
+        "population": 9306889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.141999999999996,
+          23.395000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-01",
+        "area": 52.353976,
+        "bounding_box": [
+          41.979,
+          19.257,
+          48.305,
+          27.533
+        ],
+        "point": [
+          45.141999999999996,
+          23.395000000000003
+        ],
+        "labels": {
+          "alt": "Riyad|Riad|Riyadh",
+          "local": null,
+          "len": 8,
+          "ar": "منطقة الرياض",
+          "bn": null,
+          "de": "Provinz Riad",
+          "en": "Riyadh Region",
+          "es": "Provincia de Riad",
+          "fr": "Riyad",
+          "el": "Ριάντ",
+          "hi": "रियाद प्रान्त",
+          "hu": "Rijád tartomány",
+          "id": "Provinsi Riyadh",
+          "it": "Al-Riyad",
+          "ja": "リヤード州",
+          "ko": "리야드 주",
+          "nl": "Riyad",
+          "pl": "Rijad",
+          "pt": "Ar Riyad",
+          "ru": "Эр-Рияд",
+          "sv": "Ar-Riyad",
+          "tr": "Riyad Bölgesi",
+          "vi": "Riyadh",
+          "zh": "利雅得省"
+        },
+        "population": 9769496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1275,
+          25.97
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-05",
+        "area": 9.32946000000001,
+        "bounding_box": [
+          41.41,
+          24.612,
+          44.845,
+          27.328
+        ],
+        "point": [
+          43.1275,
+          25.97
+        ],
+        "labels": {
+          "alt": "Al Gassim|Gasim|Qaseem|Al Qasseem",
+          "local": null,
+          "len": 10,
+          "ar": "منطقة القصيم",
+          "bn": "আল কাসিম অঞ্চল",
+          "de": "Provinz al-Qasim",
+          "en": "Al-Qassim Region",
+          "es": "Provincia de Casim",
+          "fr": "Qasim",
+          "el": "Επαρχία Κασίμ",
+          "hi": "क़सीम प्रान्त",
+          "hu": "Kaszím tartomány",
+          "id": "Provinsi Qasim",
+          "it": "Al-Qasim",
+          "ja": "カスィーム州",
+          "ko": "카심 주",
+          "nl": "Al Qasim",
+          "pl": "Al-Kasim",
+          "pt": "Al Qasim",
+          "ru": "Эль-Касим",
+          "sv": "Al Qasim",
+          "tr": "El Kasım Bölgesi",
+          "vi": "Khu vực Al-Qassim",
+          "zh": "盖西姆省"
+        },
+        "population": 1651005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.8995,
+          27.091
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-06",
+        "area": 20.632841999999997,
+        "bounding_box": [
+          39.0,
+          25.312,
+          44.799,
+          28.87
+        ],
+        "point": [
+          41.8995,
+          27.091
+        ],
+        "labels": {
+          "alt": "Hail",
+          "local": null,
+          "len": 5,
+          "ar": "منطقة حائل",
+          "bn": "হাইল অঞ্চল",
+          "de": "Provinz Ha'il",
+          "en": "Ha'il Region",
+          "es": "Provincia de Haíl",
+          "fr": "Haïl",
+          "el": "Επαρχία Χαΐλ",
+          "hi": "हाइल प्रान्त",
+          "hu": "Háil tartomány",
+          "id": "Provinsi Ha'il",
+          "it": "Ha'il",
+          "ja": "ハーイル州",
+          "ko": "하일 주",
+          "nl": "Hail",
+          "pl": "Hail",
+          "pt": "Ha'il",
+          "ru": "Хаиль",
+          "sv": "Ha'il",
+          "tr": "Hail Bölgesi",
+          "vi": "Tỉnh Ha'il",
+          "zh": "哈伊勒省"
+        },
+        "population": 777349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.419,
+          20.0655
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sa",
+        "region_child": "sa-11",
+        "area": 1.7102700000000026,
+        "bounding_box": [
+          40.806,
+          19.368,
+          42.032,
+          20.763
+        ],
+        "point": [
+          41.419,
+          20.0655
+        ],
+        "labels": {
+          "alt": "Baha",
+          "local": null,
+          "len": 8,
+          "ar": "منطقة الباحة",
+          "bn": "আল বাহা অঞ্চল",
+          "de": "Provinz al-Baha",
+          "en": "Al Bahah Region",
+          "es": "Provincia de Baha",
+          "fr": "Al Bahah",
+          "el": "Επαρχία Μπαά",
+          "hi": "बाहाह प्रान्त",
+          "hu": "Báha tartomány",
+          "id": "Provinsi Bahah",
+          "it": "Al-Baha",
+          "ja": "バーハ州",
+          "ko": "바하 주",
+          "nl": "Al-Bahah",
+          "pl": "Al-Baha",
+          "pt": "Al Bahah",
+          "ru": "Эль-Баха",
+          "sv": "Al Bahah",
+          "tr": "El Baha Bölgesi",
+          "vi": "Khu vực Al Bahah",
+          "zh": "巴哈省"
+        },
+        "population": 495480
+      }
+    }
+  ]
+}

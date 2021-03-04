@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1755,
+          40.964
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-tv",
+        "area": 0.5522439999999971,
+        "bounding_box": [
+          44.752,
+          40.638,
+          45.599,
+          41.29
+        ],
+        "point": [
+          45.1755,
+          40.964
+        ],
+        "labels": {
+          "alt": "Tavuš",
+          "local": "Տավուշ|Тавуш",
+          "len": 6,
+          "ar": "محافظة تاووش",
+          "bn": "তাবুশ অঞ্চল",
+          "de": "Tawusch",
+          "en": "Tavush Region",
+          "es": "Tavush",
+          "fr": "Tavush",
+          "el": "Ταβούς",
+          "hi": "तावूश",
+          "hu": "Tavous tartomány",
+          "id": "Provinsi Tavush",
+          "it": "provincia di Tavowš",
+          "ja": "タヴシュ地方",
+          "ko": "타부시 주",
+          "nl": "Tavoesj",
+          "pl": "Prowincja Tawusz",
+          "pt": "Tavush",
+          "ru": "Тавушская область",
+          "sv": "Tavusj",
+          "tr": "Tavuş",
+          "vi": "Tavush",
+          "zh": "塔武什省"
+        },
+        "population": 109946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.451,
+          40.9475
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-lo",
+        "area": 0.5480499999999972,
+        "bounding_box": [
+          43.966,
+          40.665,
+          44.936,
+          41.23
+        ],
+        "point": [
+          44.451,
+          40.9475
+        ],
+        "labels": {
+          "alt": "Loṙi",
+          "local": "Լոռի|Лори",
+          "len": 4,
+          "ar": "محافظة لوري",
+          "bn": "লরি অঞ্চল",
+          "de": "Lori",
+          "en": "Lori Region",
+          "es": "Lorri",
+          "fr": "Lorri",
+          "el": "Λορί",
+          "hi": "लोरी प्रांत",
+          "hu": "Lorj tartomány",
+          "id": "Lori",
+          "it": "Lori",
+          "ja": "ロリ地方",
+          "ko": "로리 주",
+          "nl": "Lori",
+          "pl": "Prowincja Lori",
+          "pt": "Lorri",
+          "ru": "Лорийская область",
+          "sv": "Lorri",
+          "tr": "Lori",
+          "vi": "Lori",
+          "zh": "洛里省"
+        },
+        "population": 191032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8105,
+          40.788
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-sh",
+        "area": 0.558713999999998,
+        "bounding_box": [
+          43.44,
+          40.411,
+          44.181,
+          41.165
+        ],
+        "point": [
+          43.8105,
+          40.788
+        ],
+        "labels": {
+          "alt": "Širak",
+          "local": "Շիրակ|Ширак",
+          "len": 6,
+          "ar": "محافظة شيراك",
+          "bn": "শিরাক অঞ্চল",
+          "de": "Schirak",
+          "en": "Shirak Region",
+          "es": "Shirak",
+          "fr": "Shirak",
+          "el": "Σιράκ",
+          "hi": "शिराक प्रांत",
+          "hu": "Sirak tartomány",
+          "id": "Shirak",
+          "it": "provincia di Shirak",
+          "ja": "シラク地方",
+          "ko": "시라크 주",
+          "nl": "Sjirak",
+          "pl": "Prowincja Szirak",
+          "pt": "Shirak",
+          "ru": "Ширакская область",
+          "sv": "Sjirak",
+          "tr": "Şirak İdari Bölgesi",
+          "vi": "Shirak",
+          "zh": "希拉克省"
+        },
+        "population": 220689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.388,
+          40.299
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-gr",
+        "area": 1.0236120000000015,
+        "bounding_box": [
+          44.797,
+          39.866,
+          45.979,
+          40.732
+        ],
+        "point": [
+          45.388,
+          40.299
+        ],
+        "labels": {
+          "alt": "Gelark'unik'",
+          "local": "Գեղարքունիք|Гегаркуник",
+          "len": 11,
+          "ar": "محافظة غغاركونيك",
+          "bn": "গেঘারকুনিক প্রদেশ",
+          "de": "Gegharkunik",
+          "en": "Gegharkunik Province",
+          "es": "Geghark'unik'",
+          "fr": "Gegharkunik",
+          "el": "Γκεγκαρκουνίκ",
+          "hi": "गेघार्कुनिक प्रांत",
+          "hu": "Gegarkounik tartomány",
+          "id": "Provinsi Gegharkunik",
+          "it": "Gegharkunik",
+          "ja": "ゲガルクニク地方",
+          "ko": "게가르쿠니크 주",
+          "nl": "Gegharkoenik",
+          "pl": "Prowincja Gegharkunik",
+          "pt": "Gegharkunik",
+          "ru": "Гехаркуникская область",
+          "sv": "Gegharkunik",
+          "tr": "Geğarkunik",
+          "vi": "Gegharkunik",
+          "zh": "格加爾庫尼克省"
+        },
+        "population": 215345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.519999999999996,
+          40.626
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-gr",
+        "area": 0.003936000000000185,
+        "bounding_box": [
+          45.479,
+          40.602,
+          45.561,
+          40.65
+        ],
+        "point": [
+          45.519999999999996,
+          40.626
+        ],
+        "labels": {
+          "alt": "Gelark'unik'",
+          "local": "Գեղարքունիք|Гегаркуник",
+          "len": 11,
+          "ar": "محافظة غغاركونيك",
+          "bn": "গেঘারকুনিক প্রদেশ",
+          "de": "Gegharkunik",
+          "en": "Gegharkunik Province",
+          "es": "Geghark'unik'",
+          "fr": "Gegharkunik",
+          "el": "Γκεγκαρκουνίκ",
+          "hi": "गेघार्कुनिक प्रांत",
+          "hu": "Gegarkounik tartomány",
+          "id": "Provinsi Gegharkunik",
+          "it": "Gegharkunik",
+          "ja": "ゲガルクニク地方",
+          "ko": "게가르쿠니크 주",
+          "nl": "Gegharkoenik",
+          "pl": "Prowincja Gegharkunik",
+          "pt": "Gegharkunik",
+          "ru": "Гехаркуникская область",
+          "sv": "Gegharkunik",
+          "tr": "Geğarkunik",
+          "vi": "Gegharkunik",
+          "zh": "格加爾庫尼克省"
+        },
+        "population": 215345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.442,
+          39.744
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-vd",
+        "area": 0.374340000000001,
+        "bounding_box": [
+          45.075,
+          39.489,
+          45.809,
+          39.999
+        ],
+        "point": [
+          45.442,
+          39.744
+        ],
+        "labels": {
+          "alt": "Vayoc'Jor",
+          "local": "Վայոց Ձոր|Вайоц Дзор",
+          "len": 11,
+          "ar": "محافظة وايوتس‌جور",
+          "bn": "ভায়োত জুর অঞ্চল",
+          "de": "Wajoz Dsor",
+          "en": "Vayots Dzor Region",
+          "es": "Vayots' Dzor",
+          "fr": "Vayots Dzor",
+          "el": "Βαγιότς Ντζορ",
+          "hi": "वायोत्स द्ज़ोर",
+          "hu": "Vajoc Dzor tartomány",
+          "id": "Provinsi Vayots Dzor",
+          "it": "Vayots Dzor",
+          "ja": "ヴァヨツ・ゾル地方",
+          "ko": "바요츠조르 주",
+          "nl": "Vayots Dzor",
+          "pl": "Prowincja Wajoc Dzor",
+          "pt": "Vayots Dzor",
+          "ru": "Вайоцдзорская область",
+          "sv": "Vajots Dzor",
+          "tr": "Vayots Dzor",
+          "vi": "Vayots Dzor",
+          "zh": "瓦約茨佐爾省"
+        },
+        "population": 47235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.15,
+          39.3575
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-su",
+        "area": 0.8863259999999978,
+        "bounding_box": [
+          45.701,
+          38.864,
+          46.599,
+          39.851
+        ],
+        "point": [
+          46.15,
+          39.3575
+        ],
+        "labels": {
+          "alt": "Syunik'",
+          "local": "Սյունիք|Сюник",
+          "len": 6,
+          "ar": "محافظة سيونيك",
+          "bn": "সায়ুনিক প্রদেশ",
+          "de": "Sjunik",
+          "en": "Syunik Province",
+          "es": "Syunik'",
+          "fr": "Syunik",
+          "el": "Σιουνίκ",
+          "hi": "स्युनिक प्रांत",
+          "hu": "Szjounik tartomány",
+          "id": "Syunik",
+          "it": "Syunik",
+          "ja": "シュニク地方",
+          "ko": "슈니크 주",
+          "nl": "Sjoenik",
+          "pl": "Prowincja Sjunik",
+          "pt": "Syunik",
+          "ru": "Сюникская область",
+          "sv": "Siunik",
+          "tr": "Syunik ili",
+          "vi": "Syunik",
+          "zh": "休尼克省"
+        },
+        "population": 101621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7305,
+          39.933
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-ar",
+        "area": 0.3491399999999954,
+        "bounding_box": [
+          44.351,
+          39.703,
+          45.11,
+          40.163
+        ],
+        "point": [
+          44.7305,
+          39.933
+        ],
+        "labels": {
+          "alt": null,
+          "local": "Արարատ|Арарат",
+          "len": 6,
+          "ar": "محافظة أرارات",
+          "bn": "আরারাত প্রদেশ",
+          "de": "Region Ararat",
+          "en": "Ararat Province",
+          "es": "Ararat",
+          "fr": "Ararat",
+          "el": "Επαρχία Αραράτ",
+          "hi": "अरारत प्रांत",
+          "hu": "Ararat tartomány",
+          "id": "Provinsi Ararat",
+          "it": "provincia di Ararat",
+          "ja": "アララト地方",
+          "ko": "아라라트 주",
+          "nl": "Ararat",
+          "pl": "Prowincja Ararat",
+          "pt": "Ararate",
+          "ru": "Араратская область",
+          "sv": "Ararat",
+          "tr": "Ararat İli",
+          "vi": "Ararat",
+          "zh": "亞拉拉特省"
+        },
+        "population": 245571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.073499999999996,
+          40.463
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-ag",
+        "area": 0.5332039999999953,
+        "bounding_box": [
+          43.594,
+          40.185,
+          44.553,
+          40.741
+        ],
+        "point": [
+          44.073499999999996,
+          40.463
+        ],
+        "labels": {
+          "alt": "Aragacot'n",
+          "local": "Արագածոտն|Арагацотн",
+          "len": 10,
+          "ar": "محافظة آراغاتسوتن",
+          "bn": "আরাাগাটসন অঞ্চল",
+          "de": "Aragazotn",
+          "en": "Aragatsotn Region",
+          "es": "Aragatsotn",
+          "fr": "Aragatsotn",
+          "el": "Επαρχία Αραγκατσότν",
+          "hi": "अरागत्सोत्न",
+          "hu": "Aragacotn tartomány",
+          "id": "Aragatsotn",
+          "it": "Aragatsotn",
+          "ja": "アラガツォトゥン地方",
+          "ko": "아라가초튼 주",
+          "nl": "Aragatsotn",
+          "pl": "Prowincja Aragacotn",
+          "pt": "Aragatsotn",
+          "ru": "Арагацотнская область",
+          "sv": "Aragatsotn",
+          "tr": "Aragatsotn",
+          "vi": "Aragatsotn",
+          "zh": "阿拉加措特恩省"
+        },
+        "population": 143376
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.046499999999995,
+          40.1385
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-av",
+        "area": 0.20383300000000001,
+        "bounding_box": [
+          43.653,
+          40.009,
+          44.44,
+          40.268
+        ],
+        "point": [
+          44.046499999999995,
+          40.1385
+        ],
+        "labels": {
+          "alt": null,
+          "local": "Արմավիր|Армавир",
+          "len": 7,
+          "ar": "محافظة آرماوير",
+          "bn": "আরমাভির অঞ্চল",
+          "de": "Armawir",
+          "en": "Armavir Region",
+          "es": "Armavir",
+          "fr": "Armavir",
+          "el": "Αρμαβίρ",
+          "hi": "अर्मावीर प्रांत",
+          "hu": "Armavir tartomány",
+          "id": "Armavir",
+          "it": "provincia di Armavir",
+          "ja": "アルマヴィル地方",
+          "ko": "아르마비르 주",
+          "nl": "Armavir",
+          "pl": "Prowincja Armawir",
+          "pt": "Armavir",
+          "ru": "Армавирская область",
+          "sv": "Armavir",
+          "tr": "Armavir İdari Bölgesi",
+          "vi": "Armavir",
+          "zh": "亞馬維爾省"
+        },
+        "population": 278233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7195,
+          40.3915
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-kt",
+        "area": 0.38315700000000413,
+        "bounding_box": [
+          44.409,
+          40.083,
+          45.03,
+          40.7
+        ],
+        "point": [
+          44.7195,
+          40.3915
+        ],
+        "labels": {
+          "alt": "Kotaik|Kotayk'",
+          "local": "Կոտայք|Котайк",
+          "len": 6,
+          "ar": "محافظة كوتايك",
+          "bn": "কোতায়েক অঞ্চল",
+          "de": "Region Kotajk",
+          "en": "Kotayk Region",
+          "es": "Kotayk'",
+          "fr": "Kotayk",
+          "el": "Κοτάικ",
+          "hi": "कोटायक प्रांत",
+          "hu": "Kotajk tartomány",
+          "id": "Kotayk",
+          "it": "provincia di Kotayk'",
+          "ja": "コタイク地方",
+          "ko": "코타이크 주",
+          "nl": "Kotayk",
+          "pl": "Prowincja Kotajk",
+          "pt": "Kotayk",
+          "ru": "Котайкская область",
+          "sv": "Kotajk",
+          "tr": "Kotayk",
+          "vi": "Kotayk",
+          "zh": "科泰克省"
+        },
+        "population": 357728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.533,
+          40.141999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "am",
+        "region_child": "am-er",
+        "area": 0.040020000000000576,
+        "bounding_box": [
+          44.418,
+          40.055,
+          44.648,
+          40.229
+        ],
+        "point": [
+          44.533,
+          40.141999999999996
+        ],
+        "labels": {
+          "alt": "Yerevan",
+          "local": "Երևան|Ереван",
+          "len": 6,
+          "ar": "يريفان",
+          "bn": "ইয়েরেভান",
+          "de": "Jerewan",
+          "en": "Yerevan",
+          "es": "Ereván",
+          "fr": "Erevan",
+          "el": "Γερεβάν",
+          "hi": "येरवान",
+          "hu": "Jereván",
+          "id": "Yerevan",
+          "it": "Erevan",
+          "ja": "エレバン",
+          "ko": "예레반",
+          "nl": "Jerevan",
+          "pl": "Erywań",
+          "pt": "Erevan",
+          "ru": "Ереван",
+          "sv": "Jerevan",
+          "tr": "Erivan",
+          "vi": "Yerevan",
+          "zh": "葉里溫"
+        },
+        "population": 879916
+      }
+    }
+  ]
+}

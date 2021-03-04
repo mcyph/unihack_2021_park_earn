@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.19749999999999,
+          24.0895
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tr",
+        "region_child": "north tripura",
+        "area": 0.23537499999999234,
+        "bounding_box": [
+          92.063,
+          23.652,
+          92.332,
+          24.527
+        ],
+        "point": [
+          92.19749999999999,
+          24.0895
+        ],
+        "labels": {
+          "en": "North Tripura"
+        },
+        "population": 425051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.95949999999999,
+          23.826500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tr",
+        "region_child": "dhalai",
+        "area": 0.3624210000000057,
+        "bounding_box": [
+          91.743,
+          23.408,
+          92.176,
+          24.245
+        ],
+        "point": [
+          91.95949999999999,
+          23.826500000000003
+        ],
+        "labels": {
+          "en": "Dhalai"
+        },
+        "population": 445618
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3625,
+          23.5335
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tr",
+        "region_child": "sipahijala",
+        "area": 0.21392100000000003,
+        "bounding_box": [
+          91.154,
+          23.277,
+          91.571,
+          23.79
+        ],
+        "point": [
+          91.3625,
+          23.5335
+        ],
+        "labels": {
+          "en": "Sipahijala"
+        },
+        "population": 541647
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.60900000000001,
+          23.516
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tr",
+        "region_child": "gomati",
+        "area": 0.23680800000000024,
+        "bounding_box": [
+          91.375,
+          23.263,
+          91.843,
+          23.769
+        ],
+        "point": [
+          91.60900000000001,
+          23.516
+        ],
+        "labels": {
+          "en": "Gomati"
+        },
+        "population": 559218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.62700000000001,
+          23.958
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tr",
+        "region_child": "khowai",
+        "area": 0.1720720000000034,
+        "bounding_box": [
+          91.47,
+          23.684,
+          91.784,
+          24.232
+        ],
+        "point": [
+          91.62700000000001,
+          23.958
+        ],
+        "labels": {
+          "en": "Khowai"
+        },
+        "population": 334458
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3915,
+          23.916
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tr",
+        "region_child": "west tripura",
+        "area": 0.13385999999999892,
+        "bounding_box": [
+          91.219,
+          23.722,
+          91.564,
+          24.11
+        ],
+        "point": [
+          91.3915,
+          23.916
+        ],
+        "labels": {
+          "en": "West Tripura"
+        },
+        "population": 1139353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.57249999999999,
+          23.173000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tr",
+        "region_child": "south tripura",
+        "area": 0.245699999999996,
+        "bounding_box": [
+          91.31,
+          22.939,
+          91.835,
+          23.407
+        ],
+        "point": [
+          91.57249999999999,
+          23.173000000000002
+        ],
+        "labels": {
+          "en": "South Tripura"
+        },
+        "population": 508501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.05699999999999,
+          24.1925
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tr",
+        "region_child": "unokoti",
+        "area": 0.1190699999999991,
+        "bounding_box": [
+          91.91,
+          23.99,
+          92.204,
+          24.395
+        ],
+        "point": [
+          92.05699999999999,
+          24.1925
+        ],
+        "labels": {
+          "en": "Unokoti"
+        },
+        "population": 383697
+      }
+    }
+  ]
+}

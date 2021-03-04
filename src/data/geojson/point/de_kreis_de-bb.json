@@ -1,0 +1,545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7765,
+          52.801
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "barnim",
+        "area": 0.3916439999999988,
+        "bounding_box": [
+          13.397,
+          52.543,
+          14.156,
+          53.059
+        ],
+        "point": [
+          13.7765,
+          52.801
+        ],
+        "labels": {
+          "en": "Barnim"
+        },
+        "population": 182234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54,
+          52.39
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "brandenburg an der havel städte",
+        "area": 0.056771999999999,
+        "bounding_box": [
+          12.369,
+          52.307,
+          12.711,
+          52.473
+        ],
+        "point": [
+          12.54,
+          52.39
+        ],
+        "labels": {
+          "en": "Brandenburg an der Havel Städte"
+        },
+        "population": 65386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3985,
+          51.7795
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "cottbus städte",
+        "area": 0.037000999999999305,
+        "bounding_box": [
+          14.285,
+          51.698,
+          14.512,
+          51.861
+        ],
+        "point": [
+          14.3985,
+          51.7795
+        ],
+        "labels": {
+          "en": "Cottbus Städte"
+        },
+        "population": 87027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9425,
+          52.07299999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "dahme-spreewald",
+        "area": 0.7162200000000003,
+        "bounding_box": [
+          13.425,
+          51.727,
+          14.46,
+          52.419
+        ],
+        "point": [
+          13.9425,
+          52.07299999999999
+        ],
+        "labels": {
+          "en": "Dahme-Spreewald"
+        },
+        "population": 165339
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4865,
+          51.626000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "elbe-elster",
+        "area": 0.43433000000000277,
+        "bounding_box": [
+          13.064,
+          51.369,
+          13.909,
+          51.883
+        ],
+        "point": [
+          13.4865,
+          51.626000000000005
+        ],
+        "labels": {
+          "en": "Elbe-Elster"
+        },
+        "population": 92475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.49,
+          52.323499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "frankfurt am oder städte",
+        "area": 0.02726000000000042,
+        "bounding_box": [
+          14.396,
+          52.251,
+          14.584,
+          52.396
+        ],
+        "point": [
+          14.49,
+          52.323499999999996
+        ],
+        "labels": {
+          "en": "Frankfurt am Oder Städte"
+        },
+        "population": 51413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6595,
+          52.62
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "havelland",
+        "area": 0.37832399999999966,
+        "bounding_box": [
+          12.151,
+          52.434,
+          13.168,
+          52.806
+        ],
+        "point": [
+          12.6595,
+          52.62
+        ],
+        "labels": {
+          "en": "Havelland"
+        },
+        "population": 168677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1275,
+          52.623
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "märkisch-oderland",
+        "area": 0.5053619999999996,
+        "bounding_box": [
+          13.616,
+          52.376,
+          14.639,
+          52.87
+        ],
+        "point": [
+          14.1275,
+          52.623
+        ],
+        "labels": {
+          "en": "Märkisch-Oderland"
+        },
+        "population": 189241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.184000000000001,
+          52.915
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "oberhavel",
+        "area": 0.46214400000000083,
+        "bounding_box": [
+          12.836,
+          52.583,
+          13.532,
+          53.247
+        ],
+        "point": [
+          13.184000000000001,
+          52.915
+        ],
+        "labels": {
+          "en": "Oberhavel"
+        },
+        "population": 220337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.937000000000001,
+          51.633
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "oberspreewald-lausitz",
+        "area": 0.3100240000000014,
+        "bounding_box": [
+          13.651,
+          51.362,
+          14.223,
+          51.904
+        ],
+        "point": [
+          13.937000000000001,
+          51.633
+        ],
+        "labels": {
+          "en": "Oberspreewald-Lausitz"
+        },
+        "population": 98878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.207,
+          52.2555
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "oder-spree",
+        "area": 0.5414759999999975,
+        "bounding_box": [
+          13.673,
+          52.002,
+          14.741,
+          52.509
+        ],
+        "point": [
+          14.207,
+          52.2555
+        ],
+        "labels": {
+          "en": "Oder-Spree"
+        },
+        "population": 161749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5945,
+          52.995999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "ostprignitz-ruppin",
+        "area": 0.5939779999999989,
+        "bounding_box": [
+          12.129,
+          52.677,
+          13.06,
+          53.315
+        ],
+        "point": [
+          12.5945,
+          52.995999999999995
+        ],
+        "labels": {
+          "en": "Ostprignitz-Ruppin"
+        },
+        "population": 89443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.769,
+          52.263999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "potsdam-mittelmark",
+        "area": 0.6291040000000058,
+        "bounding_box": [
+          12.221,
+          51.977,
+          13.317,
+          52.551
+        ],
+        "point": [
+          12.769,
+          52.263999999999996
+        ],
+        "labels": {
+          "en": "Potsdam-Mittelmark"
+        },
+        "population": 243301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.06,
+          52.3955
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "potsdam städte",
+        "area": 0.02619599999999939,
+        "bounding_box": [
+          12.942,
+          52.34,
+          13.178,
+          52.451
+        ],
+        "point": [
+          13.06,
+          52.3955
+        ],
+        "labels": {
+          "en": "Potsdam Städte"
+        },
+        "population": 148265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.847999999999999,
+          53.1185
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "prignitz",
+        "area": 0.5692499999999973,
+        "bounding_box": [
+          11.273,
+          52.871,
+          12.423,
+          53.366
+        ],
+        "point": [
+          11.847999999999999,
+          53.1185
+        ],
+        "labels": {
+          "en": "Prignitz"
+        },
+        "population": 68576
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4165,
+          51.778
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "spree-neiße",
+        "area": 0.36508600000000174,
+        "bounding_box": [
+          14.087,
+          51.501,
+          14.746,
+          52.055
+        ],
+        "point": [
+          14.4165,
+          51.778
+        ],
+        "labels": {
+          "en": "Spree-Neiße"
+        },
+        "population": 105083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.222999999999999,
+          52.102
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "teltow-fläming",
+        "area": 0.5457760000000004,
+        "bounding_box": [
+          12.78,
+          51.794,
+          13.666,
+          52.41
+        ],
+        "point": [
+          13.222999999999999,
+          52.102
+        ],
+        "labels": {
+          "en": "Teltow-Fläming"
+        },
+        "population": 169852
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.846,
+          53.245
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-bb",
+        "region_child": "uckermark",
+        "area": 0.7501319999999996,
+        "bounding_box": [
+          13.243,
+          52.934,
+          14.449,
+          53.556
+        ],
+        "point": [
+          13.846,
+          53.245
+        ],
+        "labels": {
+          "en": "Uckermark"
+        },
+        "population": 104848
+      }
+    }
+  ]
+}

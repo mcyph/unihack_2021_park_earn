@@ -1,0 +1,695 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.094000000000001,
+          54.0685
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "bad doberan",
+        "area": 0.47454600000000174,
+        "bounding_box": [
+          11.525,
+          53.86,
+          12.663,
+          54.277
+        ],
+        "point": [
+          12.094000000000001,
+          54.0685
+        ],
+        "labels": {
+          "en": "Bad Doberan"
+        },
+        "population": 118749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.031,
+          53.798500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "demmin",
+        "area": 0.409822000000002,
+        "bounding_box": [
+          12.63,
+          53.543,
+          13.432,
+          54.054
+        ],
+        "point": [
+          13.031,
+          53.798500000000004
+        ],
+        "labels": {
+          "en": "Demmin"
+        },
+        "population": 66049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4145,
+          54.085499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "greifswald städte",
+        "area": 0.012902999999999118,
+        "bounding_box": [
+          13.321,
+          54.051,
+          13.508,
+          54.12
+        ],
+        "point": [
+          13.4145,
+          54.085499999999996
+        ],
+        "labels": {
+          "en": "Greifswald Städte"
+        },
+        "population": 50182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.29,
+          53.805499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "güstrow",
+        "area": 0.5090819999999969,
+        "bounding_box": [
+          11.763,
+          53.564,
+          12.817,
+          54.047
+        ],
+        "point": [
+          12.29,
+          53.805499999999995
+        ],
+        "labels": {
+          "en": "Güstrow"
+        },
+        "population": 93450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2285,
+          53.3795
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "ludwigslust",
+        "area": 0.685809000000008,
+        "bounding_box": [
+          10.597,
+          53.108,
+          11.86,
+          53.651
+        ],
+        "point": [
+          11.2285,
+          53.3795
+        ],
+        "labels": {
+          "en": "Ludwigslust"
+        },
+        "population": 110169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.277999999999999,
+          53.453500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "mecklenburg-strelitz",
+        "area": 0.615822000000001,
+        "bounding_box": [
+          12.757,
+          53.158,
+          13.799,
+          53.749
+        ],
+        "point": [
+          13.277999999999999,
+          53.453500000000005
+        ],
+        "labels": {
+          "en": "Mecklenburg-Strelitz"
+        },
+        "population": 63352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7305,
+          53.4345
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "müritz",
+        "area": 0.45420900000000036,
+        "bounding_box": [
+          12.279,
+          53.183,
+          13.182,
+          53.686
+        ],
+        "point": [
+          12.7305,
+          53.4345
+        ],
+        "labels": {
+          "en": "Müritz"
+        },
+        "population": 53386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.244,
+          53.5205
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "neubrandenburg städte",
+        "area": 0.03211799999999977,
+        "bounding_box": [
+          13.143,
+          53.441,
+          13.345,
+          53.6
+        ],
+        "point": [
+          13.244,
+          53.5205
+        ],
+        "labels": {
+          "en": "Neubrandenburg Städte"
+        },
+        "population": 54396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.806,
+          54.228
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "nordvorpommern",
+        "area": 0.5283840000000005,
+        "bounding_box": [
+          12.29,
+          53.972,
+          13.322,
+          54.484
+        ],
+        "point": [
+          12.806,
+          54.228
+        ],
+        "labels": {
+          "en": "Nordvorpommern"
+        },
+        "population": 91632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0135,
+          54.449
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "nordvorpommern",
+        "area": 0.0020459999999998565,
+        "bounding_box": [
+          12.967,
+          54.438,
+          13.06,
+          54.46
+        ],
+        "point": [
+          13.0135,
+          54.449
+        ],
+        "labels": {
+          "en": "Nordvorpommern"
+        },
+        "population": 91632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.282,
+          53.8005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "nordwestmecklenburg",
+        "area": 0.5024919999999989,
+        "bounding_box": [
+          10.744,
+          53.567,
+          11.82,
+          54.034
+        ],
+        "point": [
+          11.282,
+          53.8005
+        ],
+        "labels": {
+          "en": "Nordwestmecklenburg"
+        },
+        "population": 111050
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.720500000000001,
+          53.9285
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "ostvorpommern",
+        "area": 0.5255250000000053,
+        "bounding_box": [
+          13.22,
+          53.666,
+          14.221,
+          54.191
+        ],
+        "point": [
+          13.720500000000001,
+          53.9285
+        ],
+        "labels": {
+          "en": "Ostvorpommern"
+        },
+        "population": 99650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.923,
+          54.0235
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "ostvorpommern",
+        "area": 0.00018000000000001365,
+        "bounding_box": [
+          13.917,
+          54.016,
+          13.929,
+          54.031
+        ],
+        "point": [
+          13.923,
+          54.0235
+        ],
+        "labels": {
+          "en": "Ostvorpommern"
+        },
+        "population": 99650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.903500000000001,
+          53.522499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "parchim",
+        "area": 0.5155949999999999,
+        "bounding_box": [
+          11.439,
+          53.245,
+          12.368,
+          53.8
+        ],
+        "point": [
+          11.903500000000001,
+          53.522499999999994
+        ],
+        "labels": {
+          "en": "Parchim"
+        },
+        "population": 82952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.164,
+          54.150999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "rostock städte",
+        "area": 0.05527200000000143,
+        "bounding_box": [
+          12.023,
+          54.053,
+          12.305,
+          54.249
+        ],
+        "point": [
+          12.164,
+          54.150999999999996
+        ],
+        "labels": {
+          "en": "Rostock Städte"
+        },
+        "population": 181148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440999999999999,
+          54.453
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "rügen",
+        "area": 0.3025280000000034,
+        "bounding_box": [
+          13.115,
+          54.221,
+          13.767,
+          54.685
+        ],
+        "point": [
+          13.440999999999999,
+          54.453
+        ],
+        "labels": {
+          "en": "Rügen"
+        },
+        "population": 56713
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.111,
+          54.531499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "rügen",
+        "area": 0.01381799999999977,
+        "bounding_box": [
+          13.064,
+          54.458,
+          13.158,
+          54.605
+        ],
+        "point": [
+          13.111,
+          54.531499999999994
+        ],
+        "labels": {
+          "en": "Rügen"
+        },
+        "population": 56713
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.174,
+          54.468
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "rügen",
+        "area": 0.005511999999999951,
+        "bounding_box": [
+          13.121,
+          54.442,
+          13.227,
+          54.494
+        ],
+        "point": [
+          13.174,
+          54.468
+        ],
+        "labels": {
+          "en": "Rügen"
+        },
+        "population": 56713
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1175,
+          54.307500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "rügen",
+        "area": 0.0001430000000000351,
+        "bounding_box": [
+          13.111,
+          54.302,
+          13.124,
+          54.313
+        ],
+        "point": [
+          13.1175,
+          54.307500000000005
+        ],
+        "labels": {
+          "en": "Rügen"
+        },
+        "population": 56713
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.405000000000001,
+          53.614999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "schwerin städte",
+        "area": 0.029536000000000652,
+        "bounding_box": [
+          11.301,
+          53.544,
+          11.509,
+          53.686
+        ],
+        "point": [
+          11.405000000000001,
+          53.614999999999995
+        ],
+        "labels": {
+          "en": "Schwerin Städte"
+        },
+        "population": 82271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.085,
+          54.294
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "stralsund städte",
+        "area": 0.018971999999999392,
+        "bounding_box": [
+          12.992,
+          54.243,
+          13.178,
+          54.345
+        ],
+        "point": [
+          13.085,
+          54.294
+        ],
+        "labels": {
+          "en": "Stralsund Städte"
+        },
+        "population": 49092
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.042,
+          53.5265
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "uecker-randow",
+        "area": 0.40167599999999987,
+        "bounding_box": [
+          13.668,
+          53.258,
+          14.416,
+          53.795
+        ],
+        "point": [
+          14.042,
+          53.5265
+        ],
+        "labels": {
+          "en": "Uecker-Randow"
+        },
+        "population": 66594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.466000000000001,
+          53.9015
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-mv",
+        "region_child": "wismar städte",
+        "area": 0.010500000000000308,
+        "bounding_box": [
+          11.396,
+          53.864,
+          11.536,
+          53.939
+        ],
+        "point": [
+          11.466000000000001,
+          53.9015
+        ],
+        "labels": {
+          "en": "Wismar Städte"
+        },
+        "population": 37376
+      }
+    }
+  ]
+}

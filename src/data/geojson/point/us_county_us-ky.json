@@ -1,0 +1,3635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13550000000001,
+          36.751000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "053",
+        "area": 0.08731200000000282,
+        "bounding_box": [
+          -85.296,
+          36.615,
+          -84.975,
+          36.887
+        ],
+        "point": [
+          -85.13550000000001,
+          36.751000000000005
+        ],
+        "labels": {
+          "en": "Clinton"
+        },
+        "population": 10982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1825,
+          36.7815
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "003",
+        "area": 0.14336900000000063,
+        "bounding_box": [
+          -86.416,
+          36.628,
+          -85.949,
+          36.935
+        ],
+        "point": [
+          -86.1825,
+          36.7815
+        ],
+        "labels": {
+          "en": "Allen"
+        },
+        "population": 22457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.821,
+          36.8005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "231",
+        "area": 0.19196999999999412,
+        "bounding_box": [
+          -85.064,
+          36.603,
+          -84.578,
+          36.998
+        ],
+        "point": [
+          -84.821,
+          36.8005
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 21803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5715,
+          38.302
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "209",
+        "area": 0.12949800000000117,
+        "bounding_box": [
+          -84.741,
+          38.111,
+          -84.402,
+          38.493
+        ],
+        "point": [
+          -84.5715,
+          38.302
+        ],
+        "labels": {
+          "en": "Scott"
+        },
+        "population": 67194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.259,
+          37.1965
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "061",
+        "area": 0.120539999999999,
+        "bounding_box": [
+          -86.469,
+          37.053,
+          -86.049,
+          37.34
+        ],
+        "point": [
+          -86.259,
+          37.1965
+        ],
+        "labels": {
+          "en": "Edmonson"
+        },
+        "population": 12763
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.285,
+          37.1185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "001",
+        "area": 0.18730799999999814,
+        "bounding_box": [
+          -85.527,
+          36.925,
+          -85.043,
+          37.312
+        ],
+        "point": [
+          -85.285,
+          37.1185
+        ],
+        "labels": {
+          "en": "Adair"
+        },
+        "population": 20110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.842,
+          38.76
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "077",
+        "area": 0.0713440000000001,
+        "bounding_box": [
+          -85.024,
+          38.662,
+          -84.66,
+          38.858
+        ],
+        "point": [
+          -84.842,
+          38.76
+        ],
+        "labels": {
+          "en": "Gallatin"
+        },
+        "population": 9521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3295,
+          38.43
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "097",
+        "area": 0.13832000000000041,
+        "bounding_box": [
+          -84.557,
+          38.278,
+          -84.102,
+          38.582
+        ],
+        "point": [
+          -84.3295,
+          38.43
+        ],
+        "labels": {
+          "en": "Harrison"
+        },
+        "population": 19831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2065,
+          38.2195
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "017",
+        "area": 0.14426499999999956,
+        "bounding_box": [
+          -84.443,
+          38.067,
+          -83.97,
+          38.372
+        ],
+        "point": [
+          -84.2065,
+          38.2195
+        ],
+        "labels": {
+          "en": "Bourbon"
+        },
+        "population": 20679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2765,
+          37.218
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "193",
+        "area": 0.24995600000000168,
+        "bounding_box": [
+          -83.553,
+          36.992,
+          -83.0,
+          37.444
+        ],
+        "point": [
+          -83.2765,
+          37.218
+        ],
+        "labels": {
+          "en": "Perry"
+        },
+        "population": 28048
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0795,
+          37.337
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "055",
+        "area": 0.2339399999999979,
+        "bounding_box": [
+          -88.358,
+          37.127,
+          -87.801,
+          37.547
+        ],
+        "point": [
+          -88.0795,
+          37.337
+        ],
+        "labels": {
+          "en": "Crittenden"
+        },
+        "population": 9468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.923,
+          37.352000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "119",
+        "area": 0.14755200000000487,
+        "bounding_box": [
+          -83.135,
+          37.178,
+          -82.711,
+          37.526
+        ],
+        "point": [
+          -82.923,
+          37.352000000000004
+        ],
+        "labels": {
+          "en": "Knott"
+        },
+        "population": 15220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74600000000001,
+          38.073
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "127",
+        "area": 0.2165040000000056,
+        "bounding_box": [
+          -83.025,
+          37.879,
+          -82.467,
+          38.267
+        ],
+        "point": [
+          -82.74600000000001,
+          38.073
+        ],
+        "labels": {
+          "en": "Lawrence"
+        },
+        "population": 15876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2305,
+          37.914
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "175",
+        "area": 0.21587399999999732,
+        "bounding_box": [
+          -83.499,
+          37.713,
+          -82.962,
+          38.115
+        ],
+        "point": [
+          -83.2305,
+          37.914
+        ],
+        "labels": {
+          "en": "Morgan"
+        },
+        "population": 13952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.142,
+          37.2285
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "177",
+        "area": 0.18524999999999991,
+        "bounding_box": [
+          -87.389,
+          37.041,
+          -86.895,
+          37.416
+        ],
+        "point": [
+          -87.142,
+          37.2285
+        ],
+        "labels": {
+          "en": "Muhlenberg"
+        },
+        "population": 31076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.525,
+          37.2905
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "087",
+        "area": 0.12487200000000286,
+        "bounding_box": [
+          -85.697,
+          37.109,
+          -85.353,
+          37.472
+        ],
+        "point": [
+          -85.525,
+          37.2905
+        ],
+        "labels": {
+          "en": "Green"
+        },
+        "population": 11233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.476,
+          37.7405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "237",
+        "area": 0.11275200000000064,
+        "bounding_box": [
+          -83.708,
+          37.619,
+          -83.244,
+          37.862
+        ],
+        "point": [
+          -83.476,
+          37.7405
+        ],
+        "labels": {
+          "en": "Wolfe"
+        },
+        "population": 7606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.057,
+          38.5175
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "201",
+        "area": 0.04292599999999765,
+        "bounding_box": [
+          -84.184,
+          38.433,
+          -83.93,
+          38.602
+        ],
+        "point": [
+          -84.057,
+          38.5175
+        ],
+        "labels": {
+          "en": "Robertson"
+        },
+        "population": 2287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.714,
+          37.6015
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "129",
+        "area": 0.08793599999999978,
+        "bounding_box": [
+          -83.906,
+          37.487,
+          -83.522,
+          37.716
+        ],
+        "point": [
+          -83.714,
+          37.6015
+        ],
+        "labels": {
+          "en": "Lee"
+        },
+        "population": 7873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5205,
+          38.9445
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "117",
+        "area": 0.06334499999999896,
+        "bounding_box": [
+          -84.623,
+          38.79,
+          -84.418,
+          39.099
+        ],
+        "point": [
+          -84.5205,
+          38.9445
+        ],
+        "labels": {
+          "en": "Kenton"
+        },
+        "population": 168082
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3,
+          37.716499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "151",
+        "area": 0.18215599999999868,
+        "bounding_box": [
+          -84.526,
+          37.515,
+          -84.074,
+          37.918
+        ],
+        "point": [
+          -84.3,
+          37.716499999999996
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 97022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4945,
+          37.816
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "159",
+        "area": 0.10554600000000405,
+        "bounding_box": [
+          -82.674,
+          37.669,
+          -82.315,
+          37.963
+        ],
+        "point": [
+          -82.4945,
+          37.816
+        ],
+        "labels": {
+          "en": "Martin"
+        },
+        "population": 12677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7055,
+          37.3985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "189",
+        "area": 0.10402500000000135,
+        "bounding_box": [
+          -83.888,
+          37.256,
+          -83.523,
+          37.541
+        ],
+        "point": [
+          -83.7055,
+          37.3985
+        ],
+        "labels": {
+          "en": "Owsley"
+        },
+        "population": 4563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.737,
+          37.1465
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "051",
+        "area": 0.19348799999999688,
+        "bounding_box": [
+          -83.969,
+          36.938,
+          -83.505,
+          37.355
+        ],
+        "point": [
+          -83.737,
+          37.1465
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 19327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.185,
+          36.843
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "095",
+        "area": 0.23282399999999978,
+        "bounding_box": [
+          -83.512,
+          36.665,
+          -82.858,
+          37.021
+        ],
+        "point": [
+          -83.185,
+          36.843
+        ],
+        "labels": {
+          "en": "Harlan"
+        },
+        "population": 25869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08,
+          38.1315
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "063",
+        "area": 0.10275800000000071,
+        "bounding_box": [
+          -83.271,
+          37.997,
+          -82.889,
+          38.266
+        ],
+        "point": [
+          -83.08,
+          38.1315
+        ],
+        "labels": {
+          "en": "Elliott"
+        },
+        "population": 9051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47149999999999,
+          38.028499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "067",
+        "area": 0.13760499999999906,
+        "bounding_box": [
+          -84.66,
+          37.846,
+          -84.283,
+          38.211
+        ],
+        "point": [
+          -84.47149999999999,
+          38.028499999999994
+        ],
+        "labels": {
+          "en": "Fayette"
+        },
+        "population": 333597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80449999999999,
+          37.827
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "091",
+        "area": 0.12555999999999867,
+        "bounding_box": [
+          -86.987,
+          37.655,
+          -86.622,
+          37.999
+        ],
+        "point": [
+          -86.80449999999999,
+          37.827
+        ],
+        "labels": {
+          "en": "Hancock"
+        },
+        "population": 8820
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.113,
+          37.7455
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "059",
+        "area": 0.21844800000000464,
+        "bounding_box": [
+          -87.409,
+          37.561,
+          -86.817,
+          37.93
+        ],
+        "point": [
+          -87.113,
+          37.7455
+        ],
+        "labels": {
+          "en": "Daviess"
+        },
+        "population": 102040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8255,
+          37.825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "197",
+        "area": 0.08480199999999768,
+        "bounding_box": [
+          -84.02,
+          37.716,
+          -83.631,
+          37.934
+        ],
+        "point": [
+          -83.8255,
+          37.825
+        ],
+        "labels": {
+          "en": "Powell"
+        },
+        "population": 12042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.65199999999999,
+          36.724000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "083",
+        "area": 0.14985600000000104,
+        "bounding_box": [
+          -88.82,
+          36.501,
+          -88.484,
+          36.947
+        ],
+        "point": [
+          -88.65199999999999,
+          36.724000000000004
+        ],
+        "labels": {
+          "en": "Graves"
+        },
+        "population": 37526
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57849999999999,
+          37.8665
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "113",
+        "area": 0.07947499999999999,
+        "bounding_box": [
+          -84.723,
+          37.729,
+          -84.434,
+          38.004
+        ],
+        "point": [
+          -84.57849999999999,
+          37.8665
+        ],
+        "labels": {
+          "en": "Jessamine"
+        },
+        "population": 62717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7065,
+          36.7285
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "171",
+        "area": 0.12280699999999753,
+        "bounding_box": [
+          -85.977,
+          36.615,
+          -85.436,
+          36.842
+        ],
+        "point": [
+          -85.7065,
+          36.7285
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 10340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.631,
+          38.638
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "081",
+        "area": 0.10230000000000022,
+        "bounding_box": [
+          -84.786,
+          38.473,
+          -84.476,
+          38.803
+        ],
+        "point": [
+          -84.631,
+          38.638
+        ],
+        "labels": {
+          "en": "Grant"
+        },
+        "population": 27321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3305,
+          37.337
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "217",
+        "area": 0.14877000000000107,
+        "bounding_box": [
+          -85.587,
+          37.192,
+          -85.074,
+          37.482
+        ],
+        "point": [
+          -85.3305,
+          37.337
+        ],
+        "labels": {
+          "en": "Taylor"
+        },
+        "population": 26076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91550000000001,
+          38.565
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "089",
+        "area": 0.19138199999999533,
+        "bounding_box": [
+          -83.166,
+          38.374,
+          -82.665,
+          38.756
+        ],
+        "point": [
+          -82.91550000000001,
+          38.565
+        ],
+        "labels": {
+          "en": "Greenup"
+        },
+        "population": 37634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5995,
+          37.8065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "101",
+        "area": 0.22073500000000254,
+        "bounding_box": [
+          -87.927,
+          37.638,
+          -87.272,
+          37.975
+        ],
+        "point": [
+          -87.5995,
+          37.8065
+        ],
+        "labels": {
+          "en": "Henderson"
+        },
+        "population": 47859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8365,
+          36.8585
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "141",
+        "area": 0.1935190000000041,
+        "bounding_box": [
+          -87.061,
+          36.643,
+          -86.612,
+          37.074
+        ],
+        "point": [
+          -86.8365,
+          36.8585
+        ],
+        "labels": {
+          "en": "Logan"
+        },
+        "population": 27125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.67099999999999,
+          37.197500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "031",
+        "area": 0.2148800000000005,
+        "bounding_box": [
+          -86.943,
+          37.0,
+          -86.399,
+          37.395
+        ],
+        "point": [
+          -86.67099999999999,
+          37.197500000000005
+        ],
+        "labels": {
+          "en": "Butler"
+        },
+        "population": 12401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.755,
+          37.5205
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "071",
+        "area": 0.17992200000000375,
+        "bounding_box": [
+          -82.946,
+          37.285,
+          -82.564,
+          37.756
+        ],
+        "point": [
+          -82.755,
+          37.5205
+        ],
+        "labels": {
+          "en": "Floyd"
+        },
+        "population": 36720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.846,
+          37.6245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "021",
+        "area": 0.07178000000000186,
+        "bounding_box": [
+          -85.04,
+          37.532,
+          -84.652,
+          37.717
+        ],
+        "point": [
+          -84.846,
+          37.6245
+        ],
+        "labels": {
+          "en": "Boyle"
+        },
+        "population": 29436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9245,
+          37.698
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "065",
+        "area": 0.12555000000000127,
+        "bounding_box": [
+          -84.127,
+          37.543,
+          -83.722,
+          37.853
+        ],
+        "point": [
+          -83.9245,
+          37.698
+        ],
+        "labels": {
+          "en": "Estill"
+        },
+        "population": 13986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68350000000001,
+          37.963499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "029",
+        "area": 0.15728100000000245,
+        "bounding_box": [
+          -85.938,
+          37.809,
+          -85.429,
+          38.118
+        ],
+        "point": [
+          -85.68350000000001,
+          37.963499999999996
+        ],
+        "labels": {
+          "en": "Bullitt"
+        },
+        "population": 88586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.747,
+          38.962500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "015",
+        "area": 0.11055800000000134,
+        "bounding_box": [
+          -84.896,
+          38.777,
+          -84.598,
+          39.148
+        ],
+        "point": [
+          -84.747,
+          38.962500000000006
+        ],
+        "labels": {
+          "en": "Boone"
+        },
+        "population": 164735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.20150000000001,
+          37.774
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "229",
+        "area": 0.11468599999999947,
+        "bounding_box": [
+          -85.402,
+          37.631,
+          -85.001,
+          37.917
+        ],
+        "point": [
+          -85.20150000000001,
+          37.774
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 12603
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99600000000001,
+          36.863
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "039",
+        "area": 0.06661200000000073,
+        "bounding_box": [
+          -89.179,
+          36.772,
+          -88.813,
+          36.954
+        ],
+        "point": [
+          -88.99600000000001,
+          36.863
+        ],
+        "labels": {
+          "en": "Carlisle"
+        },
+        "population": 4891
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1165,
+          36.7785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "235",
+        "area": 0.1817370000000016,
+        "bounding_box": [
+          -84.355,
+          36.588,
+          -83.878,
+          36.969
+        ],
+        "point": [
+          -84.1165,
+          36.7785
+        ],
+        "labels": {
+          "en": "Whitley"
+        },
+        "population": 35465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.857,
+          37.475
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "183",
+        "area": 0.2945599999999991,
+        "bounding_box": [
+          -87.137,
+          37.212,
+          -86.577,
+          37.738
+        ],
+        "point": [
+          -86.857,
+          37.475
+        ],
+        "labels": {
+          "en": "Ohio"
+        },
+        "population": 24897
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80850000000001,
+          38.612
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "161",
+        "area": 0.11450400000000051,
+        "bounding_box": [
+          -83.992,
+          38.456,
+          -83.625,
+          38.768
+        ],
+        "point": [
+          -83.80850000000001,
+          38.612
+        ],
+        "labels": {
+          "en": "Mason"
+        },
+        "population": 18366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07,
+          38.6885
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "023",
+        "area": 0.09196400000000252,
+        "bounding_box": [
+          -84.236,
+          38.55,
+          -83.904,
+          38.827
+        ],
+        "point": [
+          -84.07,
+          38.6885
+        ],
+        "labels": {
+          "en": "Bracken"
+        },
+        "population": 8884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0565,
+          38.337
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "043",
+        "area": 0.1900459999999939,
+        "bounding_box": [
+          -83.341,
+          38.17,
+          -82.772,
+          38.504
+        ],
+        "point": [
+          -83.0565,
+          38.337
+        ],
+        "labels": {
+          "en": "Carter"
+        },
+        "population": 28601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5735,
+          37.3375
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "107",
+        "area": 0.25807499999999844,
+        "bounding_box": [
+          -87.851,
+          37.105,
+          -87.296,
+          37.57
+        ],
+        "point": [
+          -87.5735,
+          37.3375
+        ],
+        "labels": {
+          "en": "Hopkins"
+        },
+        "population": 47366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70750000000001,
+          36.7695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "013",
+        "area": 0.18538100000000227,
+        "bounding_box": [
+          -83.956,
+          36.583,
+          -83.459,
+          36.956
+        ],
+        "point": [
+          -83.70750000000001,
+          36.7695
+        ],
+        "labels": {
+          "en": "Bell"
+        },
+        "population": 27401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35050000000001,
+          37.4685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "195",
+        "area": 0.4169250000000016,
+        "bounding_box": [
+          -82.733,
+          37.196,
+          -81.968,
+          37.741
+        ],
+        "point": [
+          -82.35050000000001,
+          37.4685
+        ],
+        "labels": {
+          "en": "Pike"
+        },
+        "population": 61937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2645,
+          37.5145
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "025",
+        "area": 0.23283899999999993,
+        "bounding_box": [
+          -83.58,
+          37.33,
+          -82.949,
+          37.699
+        ],
+        "point": [
+          -83.2645,
+          37.5145
+        ],
+        "labels": {
+          "en": "Breathitt"
+        },
+        "population": 11976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.394,
+          36.983000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "227",
+        "area": 0.2318399999999978,
+        "bounding_box": [
+          -86.674,
+          36.776,
+          -86.114,
+          37.19
+        ],
+        "point": [
+          -86.394,
+          36.983000000000004
+        ],
+        "labels": {
+          "en": "Warren"
+        },
+        "population": 139947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.007,
+          36.65
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "105",
+        "area": 0.11407199999999616,
+        "bounding_box": [
+          -89.201,
+          36.503,
+          -88.813,
+          36.797
+        ],
+        "point": [
+          -89.007,
+          36.65
+        ],
+        "labels": {
+          "en": "Hickman"
+        },
+        "population": 4613
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.708,
+          37.084
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "145",
+        "area": 0.12780000000000033,
+        "bounding_box": [
+          -88.933,
+          36.942,
+          -88.483,
+          37.226
+        ],
+        "point": [
+          -88.708,
+          37.084
+        ],
+        "labels": {
+          "en": "McCracken"
+        },
+        "population": 65626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94749999999999,
+          37.686
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "225",
+        "area": 0.18359999999999968,
+        "bounding_box": [
+          -88.16,
+          37.47,
+          -87.735,
+          37.902
+        ],
+        "point": [
+          -87.94749999999999,
+          37.686
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 14528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35849999999999,
+          37.1005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "131",
+        "area": 0.16670500000000216,
+        "bounding_box": [
+          -83.551,
+          36.884,
+          -83.166,
+          37.317
+        ],
+        "point": [
+          -83.35849999999999,
+          37.1005
+        ],
+        "labels": {
+          "en": "Leslie"
+        },
+        "population": 10282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0585,
+          37.0235
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "143",
+        "area": 0.11361900000000072,
+        "bounding_box": [
+          -88.24,
+          36.867,
+          -87.877,
+          37.18
+        ],
+        "point": [
+          -88.0585,
+          37.0235
+        ],
+        "labels": {
+          "en": "Lyon"
+        },
+        "population": 8541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8295,
+          36.870999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "121",
+        "area": 0.1932000000000032,
+        "bounding_box": [
+          -84.092,
+          36.687,
+          -83.567,
+          37.055
+        ],
+        "point": [
+          -83.8295,
+          36.870999999999995
+        ],
+        "labels": {
+          "en": "Knox"
+        },
+        "population": 31968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.261,
+          36.6235
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "035",
+        "area": 0.11536800000000083,
+        "bounding_box": [
+          -88.489,
+          36.497,
+          -88.033,
+          36.75
+        ],
+        "point": [
+          -88.261,
+          36.6235
+        ],
+        "labels": {
+          "en": "Calloway"
+        },
+        "population": 40347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.993,
+          37.416
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "109",
+        "area": 0.1392600000000013,
+        "bounding_box": [
+          -84.204,
+          37.251,
+          -83.782,
+          37.581
+        ],
+        "point": [
+          -83.993,
+          37.416
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 13533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99950000000001,
+          37.07299999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "007",
+        "area": 0.11523800000000141,
+        "bounding_box": [
+          -89.183,
+          36.916,
+          -88.816,
+          37.23
+        ],
+        "point": [
+          -88.99950000000001,
+          37.07299999999999
+        ],
+        "labels": {
+          "en": "Ballard"
+        },
+        "population": 8342
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.107,
+          38.466499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "103",
+        "area": 0.12475800000000359,
+        "bounding_box": [
+          -85.346,
+          38.336,
+          -84.868,
+          38.597
+        ],
+        "point": [
+          -85.107,
+          38.466499999999996
+        ],
+        "labels": {
+          "en": "Henry"
+        },
+        "population": 15768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.86,
+          37.8245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "167",
+        "area": 0.09952200000000268,
+        "bounding_box": [
+          -85.031,
+          37.679,
+          -84.689,
+          37.97
+        ],
+        "point": [
+          -84.86,
+          37.8245
+        ],
+        "labels": {
+          "en": "Mercer"
+        },
+        "population": 21672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33449999999999,
+          38.522999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "135",
+        "area": 0.2521259999999973,
+        "bounding_box": [
+          -83.645,
+          38.32,
+          -83.024,
+          38.726
+        ],
+        "point": [
+          -83.33449999999999,
+          38.522999999999996
+        ],
+        "labels": {
+          "en": "Lewis"
+        },
+        "population": 14104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9085,
+          36.8175
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "221",
+        "area": 0.18339299999999983,
+        "bounding_box": [
+          -88.157,
+          36.633,
+          -87.66,
+          37.002
+        ],
+        "point": [
+          -87.9085,
+          36.8175
+        ],
+        "labels": {
+          "en": "Trigg"
+        },
+        "population": 16319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2985,
+          36.905
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "157",
+        "area": 0.11850000000000094,
+        "bounding_box": [
+          -88.486,
+          36.747,
+          -88.111,
+          37.063
+        ],
+        "point": [
+          -88.2985,
+          36.905
+        ],
+        "labels": {
+          "en": "Marshall"
+        },
+        "population": 32842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.905,
+          37.29900000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "099",
+        "area": 0.15281199999999986,
+        "bounding_box": [
+          -86.158,
+          37.148,
+          -85.652,
+          37.45
+        ],
+        "point": [
+          -85.905,
+          37.29900000000001
+        ],
+        "labels": {
+          "en": "Hart"
+        },
+        "population": 19002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65350000000001,
+          37.436499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "137",
+        "area": 0.16396099999999805,
+        "bounding_box": [
+          -84.86,
+          37.238,
+          -84.447,
+          37.635
+        ],
+        "point": [
+          -84.65350000000001,
+          37.436499999999995
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 26146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59299999999999,
+          37.1115
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "199",
+        "area": 0.30709200000000275,
+        "bounding_box": [
+          -84.907,
+          36.867,
+          -84.279,
+          37.356
+        ],
+        "point": [
+          -84.59299999999999,
+          37.1115
+        ],
+        "labels": {
+          "en": "Pulaski"
+        },
+        "population": 70619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.369,
+          38.964
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "037",
+        "area": 0.08658400000000098,
+        "bounding_box": [
+          -84.506,
+          38.806,
+          -84.232,
+          39.122
+        ],
+        "point": [
+          -84.369,
+          38.964
+        ],
+        "labels": {
+          "en": "Campbell"
+        },
+        "population": 93460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4085,
+          36.7785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "057",
+        "area": 0.12345300000000116,
+        "bounding_box": [
+          -85.602,
+          36.619,
+          -85.215,
+          36.938
+        ],
+        "point": [
+          -85.4085,
+          36.7785
+        ],
+        "labels": {
+          "en": "Cumberland"
+        },
+        "population": 6598
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1155,
+          37.1375
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "125",
+        "area": 0.20048499999999742,
+        "bounding_box": [
+          -84.368,
+          36.939,
+          -83.863,
+          37.336
+        ],
+        "point": [
+          -84.1155,
+          37.1375
+        ],
+        "labels": {
+          "en": "Laurel"
+        },
+        "population": 65573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.34700000000001,
+          37.471999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "085",
+        "area": 0.1944879999999971,
+        "bounding_box": [
+          -86.669,
+          37.321,
+          -86.025,
+          37.623
+        ],
+        "point": [
+          -86.34700000000001,
+          37.471999999999994
+        ],
+        "labels": {
+          "en": "Grayson"
+        },
+        "population": 27517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07499999999999,
+          37.69
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "153",
+        "area": 0.15833999999999976,
+        "bounding_box": [
+          -83.27,
+          37.487,
+          -82.88,
+          37.893
+        ],
+        "point": [
+          -83.07499999999999,
+          37.69
+        ],
+        "labels": {
+          "en": "Magoffin"
+        },
+        "population": 13265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.91900000000001,
+          38.0475
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "173",
+        "area": 0.09363599999999991,
+        "bounding_box": [
+          -84.081,
+          37.903,
+          -83.757,
+          38.192
+        ],
+        "point": [
+          -83.91900000000001,
+          38.0475
+        ],
+        "labels": {
+          "en": "Montgomery"
+        },
+        "population": 31115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68,
+          37.577
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "123",
+        "area": 0.13268000000000454,
+        "bounding_box": [
+          -85.894,
+          37.422,
+          -85.466,
+          37.732
+        ],
+        "point": [
+          -85.68,
+          37.577
+        ],
+        "labels": {
+          "en": "Larue"
+        },
+        "population": 14939
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3765,
+          37.203
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "139",
+        "area": 0.16751800000000222,
+        "bounding_box": [
+          -88.566,
+          36.982,
+          -88.187,
+          37.424
+        ],
+        "point": [
+          -88.3765,
+          37.203
+        ],
+        "labels": {
+          "en": "Livingston"
+        },
+        "population": 9418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2125,
+          38.1975
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "211",
+        "area": 0.16403100000000212,
+        "bounding_box": [
+          -85.468,
+          38.037,
+          -84.957,
+          38.358
+        ],
+        "point": [
+          -85.2125,
+          38.1975
+        ],
+        "labels": {
+          "en": "Shelby"
+        },
+        "population": 52982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.193,
+          36.857
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "219",
+        "area": 0.1229800000000005,
+        "bounding_box": [
+          -87.336,
+          36.642,
+          -87.05,
+          37.072
+        ],
+        "point": [
+          -87.193,
+          36.857
+        ],
+        "labels": {
+          "en": "Todd"
+        },
+        "population": 13295
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4145,
+          37.8035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "027",
+        "area": 0.2555950000000002,
+        "bounding_box": [
+          -86.678,
+          37.561,
+          -86.151,
+          38.046
+        ],
+        "point": [
+          -86.4145,
+          37.8035
+        ],
+        "labels": {
+          "en": "Breckinridge"
+        },
+        "population": 21556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.582,
+          36.7585
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "213",
+        "area": 0.09013800000000308,
+        "bounding_box": [
+          -86.763,
+          36.634,
+          -86.401,
+          36.883
+        ],
+        "point": [
+          -86.582,
+          36.7585
+        ],
+        "labels": {
+          "en": "Simpson"
+        },
+        "population": 18426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.418,
+          38.206500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "205",
+        "area": 0.16448600000000346,
+        "bounding_box": [
+          -83.635,
+          38.017,
+          -83.201,
+          38.396
+        ],
+        "point": [
+          -83.418,
+          38.206500000000005
+        ],
+        "labels": {
+          "en": "Rowan"
+        },
+        "population": 24747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.134,
+          38.671
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "041",
+        "area": 0.07243600000000015,
+        "bounding_box": [
+          -85.333,
+          38.58,
+          -84.935,
+          38.762
+        ],
+        "point": [
+          -85.134,
+          38.671
+        ],
+        "labels": {
+          "en": "Carroll"
+        },
+        "population": 11451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.676,
+          38.1895
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "111",
+        "area": 0.20650200000000074,
+        "bounding_box": [
+          -85.947,
+          37.999,
+          -85.405,
+          38.38
+        ],
+        "point": [
+          -85.676,
+          38.1895
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 794047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.126,
+          36.5745
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "075",
+        "area": 0.087881999999999,
+        "bounding_box": [
+          -89.417,
+          36.499,
+          -88.835,
+          36.65
+        ],
+        "point": [
+          -89.126,
+          36.5745
+        ],
+        "labels": {
+          "en": "Fulton"
+        },
+        "population": 6586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.519,
+          36.539500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "075",
+        "area": 0.008840000000000021,
+        "bounding_box": [
+          -89.571,
+          36.497,
+          -89.467,
+          36.582
+        ],
+        "point": [
+          -89.519,
+          36.539500000000004
+        ],
+        "labels": {
+          "en": "Fulton"
+        },
+        "population": 6586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9775,
+          37.7225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "093",
+        "area": 0.3361750000000022,
+        "bounding_box": [
+          -86.275,
+          37.44,
+          -85.68,
+          38.005
+        ],
+        "point": [
+          -85.9775,
+          37.7225
+        ],
+        "labels": {
+          "en": "Hardin"
+        },
+        "population": 119981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.49600000000001,
+          36.897999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "047",
+        "area": 0.24742800000000123,
+        "bounding_box": [
+          -87.733,
+          36.637,
+          -87.259,
+          37.159
+        ],
+        "point": [
+          -87.49600000000001,
+          36.897999999999996
+        ],
+        "labels": {
+          "en": "Christian"
+        },
+        "population": 75456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9825,
+          38.008
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "005",
+        "area": 0.09101199999999758,
+        "bounding_box": [
+          -85.169,
+          37.886,
+          -84.796,
+          38.13
+        ],
+        "point": [
+          -84.9825,
+          38.008
+        ],
+        "labels": {
+          "en": "Anderson"
+        },
+        "population": 24114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4605,
+          38.4045
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "185",
+        "area": 0.08484500000000249,
+        "bounding_box": [
+          -85.638,
+          38.285,
+          -85.283,
+          38.524
+        ],
+        "point": [
+          -85.4605,
+          38.4045
+        ],
+        "labels": {
+          "en": "Oldham"
+        },
+        "population": 78427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.316,
+          37.3455
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "203",
+        "area": 0.1447379999999983,
+        "bounding_box": [
+          -84.503,
+          37.152,
+          -84.129,
+          37.539
+        ],
+        "point": [
+          -84.316,
+          37.3455
+        ],
+        "labels": {
+          "en": "Rockcastle"
+        },
+        "population": 17525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3125,
+          38.615
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "223",
+        "area": 0.07051599999999683,
+        "bounding_box": [
+          -85.457,
+          38.493,
+          -85.168,
+          38.737
+        ],
+        "point": [
+          -85.3125,
+          38.615
+        ],
+        "labels": {
+          "en": "Trimble"
+        },
+        "population": 9622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95750000000001,
+          36.9465
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "009",
+        "area": 0.19533900000000012,
+        "bounding_box": [
+          -86.176,
+          36.723,
+          -85.739,
+          37.17
+        ],
+        "point": [
+          -85.95750000000001,
+          36.9465
+        ],
+        "labels": {
+          "en": "Barren"
+        },
+        "population": 46610
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5025,
+          36.777
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "147",
+        "area": 0.20387000000000322,
+        "bounding_box": [
+          -84.778,
+          36.592,
+          -84.227,
+          36.962
+        ],
+        "point": [
+          -84.5025,
+          36.777
+        ],
+        "labels": {
+          "en": "McCreary"
+        },
+        "population": 19572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.364,
+          38.703
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "191",
+        "area": 0.1155839999999999,
+        "bounding_box": [
+          -84.532,
+          38.531,
+          -84.196,
+          38.875
+        ],
+        "point": [
+          -84.364,
+          38.703
+        ],
+        "labels": {
+          "en": "Pendleton"
+        },
+        "population": 15219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3095,
+          38.043499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "215",
+        "area": 0.08590499999999866,
+        "bounding_box": [
+          -85.517,
+          37.94,
+          -85.102,
+          38.147
+        ],
+        "point": [
+          -85.3095,
+          38.043499999999995
+        ],
+        "labels": {
+          "en": "Spencer"
+        },
+        "population": 24603
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8595,
+          37.113
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "133",
+        "area": 0.1873019999999983,
+        "bounding_box": [
+          -83.154,
+          36.954,
+          -82.565,
+          37.272
+        ],
+        "point": [
+          -82.8595,
+          37.113
+        ],
+        "labels": {
+          "en": "Letcher"
+        },
+        "population": 23775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1565,
+          37.9695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "049",
+        "area": 0.11087100000000157,
+        "bounding_box": [
+          -84.347,
+          37.824,
+          -83.966,
+          38.115
+        ],
+        "point": [
+          -84.1565,
+          37.9695
+        ],
+        "labels": {
+          "en": "Clark"
+        },
+        "population": 38217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.745,
+          38.0215
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "239",
+        "area": 0.08327999999999854,
+        "bounding_box": [
+          -84.865,
+          37.848,
+          -84.625,
+          38.195
+        ],
+        "point": [
+          -84.745,
+          38.0215
+        ],
+        "labels": {
+          "en": "Woodford"
+        },
+        "population": 26879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.269,
+          37.532
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "149",
+        "area": 0.14044799999999866,
+        "bounding_box": [
+          -87.5,
+          37.38,
+          -87.038,
+          37.684
+        ],
+        "point": [
+          -87.269,
+          37.532
+        ],
+        "labels": {
+          "en": "McLean"
+        },
+        "population": 9180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8745,
+          38.2345
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "073",
+        "area": 0.0840190000000015,
+        "bounding_box": [
+          -85.024,
+          38.094,
+          -84.725,
+          38.375
+        ],
+        "point": [
+          -84.8745,
+          38.2345
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 50802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6045,
+          37.9385
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "165",
+        "area": 0.08218100000000185,
+        "bounding_box": [
+          -83.775,
+          37.818,
+          -83.434,
+          38.059
+        ],
+        "point": [
+          -83.6045,
+          37.9385
+        ],
+        "labels": {
+          "en": "Menifee"
+        },
+        "population": 6072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2755,
+          37.5715
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "155",
+        "area": 0.15662900000000118,
+        "bounding_box": [
+          -85.521,
+          37.412,
+          -85.03,
+          37.731
+        ],
+        "point": [
+          -85.2755,
+          37.5715
+        ],
+        "labels": {
+          "en": "Marion"
+        },
+        "population": 21597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7185,
+          38.348
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "069",
+        "area": 0.18797399999999664,
+        "bounding_box": [
+          -83.984,
+          38.171,
+          -83.453,
+          38.525
+        ],
+        "point": [
+          -83.7185,
+          38.348
+        ],
+        "labels": {
+          "en": "Fleming"
+        },
+        "population": 14854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8885,
+          37.165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "033",
+        "area": 0.17762000000000155,
+        "bounding_box": [
+          -88.096,
+          36.951,
+          -87.681,
+          37.379
+        ],
+        "point": [
+          -87.8885,
+          37.165
+        ],
+        "labels": {
+          "en": "Caldwell"
+        },
+        "population": 12855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54650000000001,
+          37.6515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "079",
+        "area": 0.14172900000000171,
+        "bounding_box": [
+          -84.745,
+          37.473,
+          -84.348,
+          37.83
+        ],
+        "point": [
+          -84.54650000000001,
+          37.6515
+        ],
+        "labels": {
+          "en": "Garrard"
+        },
+        "population": 19506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9355,
+          37.326499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "045",
+        "area": 0.2060910000000038,
+        "bounding_box": [
+          -85.165,
+          37.102,
+          -84.706,
+          37.551
+        ],
+        "point": [
+          -84.9355,
+          37.326499999999996
+        ],
+        "labels": {
+          "en": "Casey"
+        },
+        "population": 16450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6095,
+          37.0
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "169",
+        "area": 0.12194000000000435,
+        "bounding_box": [
+          -85.777,
+          36.818,
+          -85.442,
+          37.182
+        ],
+        "point": [
+          -85.6095,
+          37.0
+        ],
+        "labels": {
+          "en": "Metcalfe"
+        },
+        "population": 10267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0555,
+          37.0065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "207",
+        "area": 0.15760100000000335,
+        "bounding_box": [
+          -85.275,
+          36.827,
+          -84.836,
+          37.186
+        ],
+        "point": [
+          -85.0555,
+          37.0065
+        ],
+        "labels": {
+          "en": "Russell"
+        },
+        "population": 18932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23349999999999,
+          37.998000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "163",
+        "area": 0.2049700000000019,
+        "bounding_box": [
+          -86.491,
+          37.799,
+          -85.976,
+          38.197
+        ],
+        "point": [
+          -86.23349999999999,
+          37.998000000000005
+        ],
+        "labels": {
+          "en": "Meade"
+        },
+        "population": 29700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4475,
+          37.759
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "179",
+        "area": 0.27329599999999854,
+        "bounding_box": [
+          -85.742,
+          37.527,
+          -85.153,
+          37.991
+        ],
+        "point": [
+          -85.4475,
+          37.759
+        ],
+        "labels": {
+          "en": "Nelson"
+        },
+        "population": 50397
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82849999999999,
+          38.5295
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "187",
+        "area": 0.18859499999999643,
+        "bounding_box": [
+          -85.076,
+          38.339,
+          -84.581,
+          38.72
+        ],
+        "point": [
+          -84.82849999999999,
+          38.5295
+        ],
+        "labels": {
+          "en": "Owen"
+        },
+        "population": 11304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.721,
+          38.1475
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "011",
+        "area": 0.15944400000000036,
+        "bounding_box": [
+          -83.979,
+          37.993,
+          -83.463,
+          38.302
+        ],
+        "point": [
+          -83.721,
+          38.1475
+        ],
+        "labels": {
+          "en": "Bath"
+        },
+        "population": 12083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0155,
+          38.325500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "181",
+        "area": 0.09531900000000089,
+        "bounding_box": [
+          -84.194,
+          38.192,
+          -83.837,
+          38.459
+        ],
+        "point": [
+          -84.0155,
+          38.325500000000005
+        ],
+        "labels": {
+          "en": "Nicholas"
+        },
+        "population": 7458
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6945,
+          38.3705
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "019",
+        "area": 0.06639499999999758,
+        "bounding_box": [
+          -82.817,
+          38.235,
+          -82.572,
+          38.506
+        ],
+        "point": [
+          -82.6945,
+          38.3705
+        ],
+        "labels": {
+          "en": "Boyd"
+        },
+        "population": 49623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8085,
+          37.8515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "115",
+        "area": 0.11672099999999905,
+        "bounding_box": [
+          -83.005,
+          37.703,
+          -82.612,
+          38.0
+        ],
+        "point": [
+          -82.8085,
+          37.8515
+        ],
+        "labels": {
+          "en": "Johnson"
+        },
+        "population": 23207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65950000000001,
+          37.4995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ky",
+        "region_child": "233",
+        "area": 0.16899300000000314,
+        "bounding_box": [
+          -87.944,
+          37.351,
+          -87.375,
+          37.648
+        ],
+        "point": [
+          -87.65950000000001,
+          37.4995
+        ],
+        "labels": {
+          "en": "Webster"
+        },
+        "population": 13028
+      }
+    }
+  ]
+}

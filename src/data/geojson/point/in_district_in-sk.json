@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5015,
+          27.752000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-sk",
+        "region_child": "north sikkim",
+        "area": 0.5812960000000069,
+        "bounding_box": [
+          88.115,
+          27.376,
+          88.888,
+          28.128
+        ],
+        "point": [
+          88.5015,
+          27.752000000000002
+        ],
+        "labels": {
+          "en": "North Sikkim"
+        },
+        "population": 44816
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.186,
+          27.363999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-sk",
+        "region_child": "west sikkim",
+        "area": 0.1747520000000039,
+        "bounding_box": [
+          88.014,
+          27.11,
+          88.358,
+          27.618
+        ],
+        "point": [
+          88.186,
+          27.363999999999997
+        ],
+        "labels": {
+          "en": "West Sikkim"
+        },
+        "population": 133983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.398,
+          27.2985
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-sk",
+        "region_child": "south sikkim",
+        "area": 0.12193999999999985,
+        "bounding_box": [
+          88.264,
+          27.071,
+          88.532,
+          27.526
+        ],
+        "point": [
+          88.398,
+          27.2985
+        ],
+        "labels": {
+          "en": "South Sikkim"
+        },
+        "population": 165361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6785,
+          27.2785
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-sk",
+        "region_child": "east sikkim",
+        "area": 0.1370849999999985,
+        "bounding_box": [
+          88.438,
+          27.136,
+          88.919,
+          27.421
+        ],
+        "point": [
+          88.6785,
+          27.2785
+        ],
+        "labels": {
+          "en": "East Sikkim"
+        },
+        "population": 337803
+      }
+    }
+  ]
+}

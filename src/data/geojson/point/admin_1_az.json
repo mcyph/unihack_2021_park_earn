@@ -1,0 +1,4245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.200500000000005,
+          41.172
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-qaz",
+        "area": 0.1413320000000001,
+        "bounding_box": [
+          45.002,
+          40.994,
+          45.399,
+          41.35
+        ],
+        "point": [
+          45.200500000000005,
+          41.172
+        ],
+        "labels": {
+          "alt": "Qazakh",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة قازاخ",
+          "bn": "কোয়াজাক জেলা",
+          "de": "Qazax",
+          "en": "Qazakh District",
+          "es": "Qazax",
+          "fr": "Qazax",
+          "el": "Καζάκχ",
+          "hi": "कज़ाख़ जिला",
+          "hu": "Qazaxi járás",
+          "id": "Qazakh",
+          "it": "distretto di Qazax",
+          "ja": "ガザフ県",
+          "ko": "가자흐 구",
+          "nl": "Qazax",
+          "pl": "Rejon Qazax",
+          "pt": "Qazakh",
+          "ru": "Газахский район",
+          "sv": "Qazach",
+          "tr": "Kazah Rayonu",
+          "vi": "Gazakh",
+          "zh": "哈薩克區"
+        },
+        "population": 88807
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.434,
+          41.196
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-aga",
+        "area": 0.33331200000000355,
+        "bounding_box": [
+          45.098,
+          40.948,
+          45.77,
+          41.444
+        ],
+        "point": [
+          45.434,
+          41.196
+        ],
+        "labels": {
+          "alt": "Agstafa",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة أقستافا",
+          "bn": "আগস্তাপা জেলা",
+          "de": "Ağstafa",
+          "en": "Agstafa District",
+          "es": "Ağstafa",
+          "fr": "Aghstafa",
+          "el": "Αγκστάφα",
+          "hi": "अस्ताफा जिला",
+          "hu": "Ağstafai járás",
+          "id": "Agstafa",
+          "it": "distretto di Ağstafa",
+          "ja": "アグスタファ県",
+          "ko": "아흐스타파 구",
+          "nl": "Ağstafa",
+          "pl": "Rejon Ağstafa",
+          "pt": "Agstafa",
+          "ru": "Агстафинский район",
+          "sv": "Ağstafa Rayonu",
+          "tr": "Ağstafa Rayonu",
+          "vi": "Aghstafa",
+          "zh": "阿克斯塔法區"
+        },
+        "population": 91000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.824,
+          40.9135
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-tov",
+        "area": 0.48539400000000066,
+        "bounding_box": [
+          45.443,
+          40.595,
+          46.205,
+          41.232
+        ],
+        "point": [
+          45.824,
+          40.9135
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة توفوز",
+          "bn": "তুভোজ জেলা",
+          "de": "Tovuz",
+          "en": "Tovuz District",
+          "es": "Tovuz",
+          "fr": "Tovuz",
+          "el": "Τοβούζ",
+          "hi": "तोवूज़ जिला",
+          "hu": "Tovuzi járás",
+          "id": "Tovuz",
+          "it": "distretto di Tovuz",
+          "ja": "トヴズ県",
+          "ko": "토부스 구",
+          "nl": "Tovuz",
+          "pl": "Rejon Tovuz",
+          "pt": "Tovuz",
+          "ru": "Таузский район",
+          "sv": "Tovuz Rayonu",
+          "tr": "Tovuz Rayonu",
+          "vi": "Tovuz",
+          "zh": "塔烏茲區"
+        },
+        "population": 174952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6435,
+          40.56
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-gad",
+        "area": 0.2835139999999988,
+        "bounding_box": [
+          45.374,
+          40.297,
+          45.913,
+          40.823
+        ],
+        "point": [
+          45.6435,
+          40.56
+        ],
+        "labels": {
+          "alt": "Gadabay",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة غدابيغ",
+          "bn": "গেডাবে",
+          "de": "Gədəbəy",
+          "en": "Gədəbəy",
+          "es": "Gədəbəy",
+          "fr": "Gədəbəy",
+          "el": "Γκάντμπεϊ",
+          "hi": "गेडेबी",
+          "hu": "Gədəbəyi járás",
+          "id": "Gadabay",
+          "it": "distretto di Gədəbəy",
+          "ja": "ガダバイ県",
+          "ko": "게데베이 구",
+          "nl": "Gədəbəy",
+          "pl": "Rejon Gədəbəy",
+          "pt": "Gadabay",
+          "ru": "Кедабекский район",
+          "sv": "Gädäbäj",
+          "tr": "Gedebey Rayonu",
+          "vi": "Gadabey",
+          "zh": "凱達貝克區"
+        },
+        "population": 96258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0225,
+          40.4645
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-das",
+        "area": 0.16483499999999904,
+        "bounding_box": [
+          45.819,
+          40.262,
+          46.226,
+          40.667
+        ],
+        "point": [
+          46.0225,
+          40.4645
+        ],
+        "labels": {
+          "alt": "Dashkasan",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة داشكاسان",
+          "bn": "ডাসকাসান জেলা",
+          "de": "Daşkəsən",
+          "en": "Dashkasan District",
+          "es": "Daşkəsən",
+          "fr": "Daşkəsən",
+          "el": "Ντασκασάν",
+          "hi": "दशकासन जिला",
+          "hu": "Daşkəsəni járás",
+          "id": "Dashkasan",
+          "it": "distretto di Daşkəsən",
+          "ja": "ダシュキャサン県",
+          "ko": "다슈케센 구",
+          "nl": "Daşkəsən",
+          "pl": "Rejon Daşkəsən",
+          "pt": "Dashkasan",
+          "ru": "Дашкесанский район",
+          "sv": "Daşkəsən Rayonu",
+          "tr": "Daşkesen Rayonu",
+          "vi": "Dashkasan",
+          "zh": "達什卡桑區"
+        },
+        "population": 35219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.17,
+          40.055499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-kal",
+        "area": 0.6144959999999967,
+        "bounding_box": [
+          45.578,
+          39.796,
+          46.762,
+          40.315
+        ],
+        "point": [
+          46.17,
+          40.055499999999995
+        ],
+        "labels": {
+          "alt": "Kalbajar",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة كلبجر",
+          "bn": "কালবাজার জেলা",
+          "de": "Kəlbəcər",
+          "en": "Kalbajar District",
+          "es": "Kəlbəcər",
+          "fr": "Kelbadjar",
+          "el": "Καλμπατζάρ",
+          "hi": "कालबाजर जिला",
+          "hu": "Kəlbəcəri járás",
+          "id": "Kalbajar",
+          "it": "distretto di Kəlbəcər",
+          "ja": "カルバジャル県",
+          "ko": "켈베제르 구",
+          "nl": "Kəlbəcər",
+          "pl": "Rejon Kəlbəcər",
+          "pt": "Kalbajar",
+          "ru": "Кельбаджарский район",
+          "sv": "Kälbädzjär",
+          "tr": "Kelbecer Rayonu",
+          "vi": "Kelbajar",
+          "zh": "克爾巴賈爾區"
+        },
+        "population": 97386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3095,
+          39.698499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-lan",
+        "area": 0.4427069999999957,
+        "bounding_box": [
+          45.883,
+          39.439,
+          46.736,
+          39.958
+        ],
+        "point": [
+          46.3095,
+          39.698499999999996
+        ],
+        "labels": {
+          "alt": "Shusha",
+          "local": null,
+          "len": 8,
+          "ar": "لنكران",
+          "bn": "লঙ্কারান",
+          "de": "Lənkəran",
+          "en": "Lankaran",
+          "es": "Lankaran",
+          "fr": "Lankaran",
+          "el": "Λανκαράν",
+          "hi": "लंकारण",
+          "hu": null,
+          "id": "Lankaran",
+          "it": "Lənkəran",
+          "ja": "ランカラン",
+          "ko": "렌케란",
+          "nl": "Lənkəran",
+          "pl": "Lenkoran",
+          "pt": "Lankaran",
+          "ru": "Ленкорань",
+          "sv": "Lankaran",
+          "tr": "Lenkeran",
+          "vi": "Lankaran",
+          "zh": "連科蘭"
+        },
+        "population": 78177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.592,
+          39.307
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-qbi",
+        "area": 0.16447200000000192,
+        "bounding_box": [
+          46.361,
+          39.129,
+          46.823,
+          39.485
+        ],
+        "point": [
+          46.592,
+          39.307
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "منطقة قبادلي",
+          "bn": "কাুবাডলি জেলা",
+          "de": "Qubadlı",
+          "en": "Qubadli District",
+          "es": "Qubadlı",
+          "fr": "Qubadli",
+          "el": "Επαρχία Κουμπάντλι",
+          "hi": "क्वैडली जिला",
+          "hu": "Qubadlı járás",
+          "id": "Qubadli",
+          "it": "distretto di Qubadlı",
+          "ja": "グバドリ県",
+          "ko": "구바들르 구",
+          "nl": "Qubadlı",
+          "pl": "Rejon Qubadlı",
+          "pt": "Qubadli",
+          "ru": "Кубатлинский район",
+          "sv": "Qubadli",
+          "tr": "Kubadlı Rayonu",
+          "vi": "Gubadly",
+          "zh": "庫巴特雷區"
+        },
+        "population": 39708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6305,
+          39.055
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-zan",
+        "area": 0.16296600000000053,
+        "bounding_box": [
+          46.395,
+          38.882,
+          46.866,
+          39.228
+        ],
+        "point": [
+          46.6305,
+          39.055
+        ],
+        "labels": {
+          "alt": "Zangilan",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة زنغلان",
+          "bn": "জাংগিলান জেলা",
+          "de": "Zəngilan",
+          "en": "Zangilan District",
+          "es": "Zəngilan",
+          "fr": "Zangilan",
+          "el": "Ζάνγκιλαν",
+          "hi": "ज़न्गिलन जिला",
+          "hu": "Zəngilani járás",
+          "id": "Zangilan",
+          "it": "distretto di Zəngilan",
+          "ja": "ザンギラン県",
+          "ko": "젠길란 구",
+          "nl": "Zəngilan",
+          "pl": "Rejon Zəngilan",
+          "pt": "Zangilan",
+          "ru": "Зангеланский район",
+          "sv": "Zängilan",
+          "tr": "Zengilan Rayonu",
+          "vi": "Zangilan",
+          "zh": "贊格蘭區"
+        },
+        "population": 42568
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.995999999999995,
+          39.578500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sar",
+        "area": 0.13175200000000137,
+        "bounding_box": [
+          44.824,
+          39.387,
+          45.168,
+          39.77
+        ],
+        "point": [
+          44.995999999999995,
+          39.578500000000005
+        ],
+        "labels": {
+          "alt": "Sharur",
+          "local": null,
+          "len": 5,
+          "ar": null,
+          "bn": null,
+          "de": "Şərur",
+          "en": "Sharur District",
+          "es": "Sharur",
+          "fr": "Sharur",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": "Sharur",
+          "it": "distretto di Şərur",
+          "ja": "シャルル県",
+          "ko": "셰루르 구",
+          "nl": "Şərur",
+          "pl": "Rejon Şərur",
+          "pt": "Sharur",
+          "ru": "Шарурский район",
+          "sv": "Sharur Rayon",
+          "tr": "Şerur Rayonu",
+          "vi": "Sherur",
+          "zh": "沙魯爾區"
+        },
+        "population": 89891
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.864000000000004,
+          39.683499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sad",
+        "area": 0.018689999999999905,
+        "bounding_box": [
+          44.775,
+          39.631,
+          44.953,
+          39.736
+        ],
+        "point": [
+          44.864000000000004,
+          39.683499999999995
+        ],
+        "labels": {
+          "alt": "Sadarak",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة ساداراك",
+          "bn": "সাদারাক জেলা",
+          "de": "Sədərək",
+          "en": "Sadarak District",
+          "es": "Sadarak",
+          "fr": "Sadarak",
+          "el": "Σανταράκ",
+          "hi": "सदरक जिला",
+          "hu": null,
+          "id": "Sadarak",
+          "it": "Distretto di Sədərək",
+          "ja": "サダラク県",
+          "ko": "세데레크 구",
+          "nl": "Sədərək",
+          "pl": "Rejon Sədərək",
+          "pt": "Sadarak",
+          "ru": "Садаракский район",
+          "sv": "Sadarak Rayon",
+          "tr": "Sederek Rayonu",
+          "vi": "Sedarak",
+          "zh": "薩達拉克區"
+        },
+        "population": 13292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.158500000000004,
+          39.445
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-kan",
+        "area": 0.0636400000000003,
+        "bounding_box": [
+          45.051,
+          39.297,
+          45.266,
+          39.593
+        ],
+        "point": [
+          45.158500000000004,
+          39.445
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "كنجة",
+          "bn": "কানগারলি জেলা",
+          "de": "Kəngərli",
+          "en": "Kangarli District",
+          "es": "Kangarli",
+          "fr": "Kangarli",
+          "el": "Κανγκαρλί",
+          "hi": "कंगारली जिला",
+          "hu": null,
+          "id": "Kangarli",
+          "it": "Distretto di Kəngərli",
+          "ja": "­キャンギャルリ県",
+          "ko": "켄겔리 구",
+          "nl": "Kəngərli",
+          "pl": "Rejon Kəngərli",
+          "pt": "Kangarli",
+          "ru": "Кенгерлинский район",
+          "sv": "Kangarli Rayon",
+          "tr": "Kengerli Rayonu",
+          "vi": "Kangarli",
+          "zh": "坎加利區"
+        },
+        "population": 22772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.332499999999996,
+          39.2805
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-bab",
+        "area": 0.27312500000000295,
+        "bounding_box": [
+          45.114,
+          38.968,
+          45.551,
+          39.593
+        ],
+        "point": [
+          45.332499999999996,
+          39.2805
+        ],
+        "labels": {
+          "alt": "Babek",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة بابيك",
+          "bn": "বাবেক জেলা",
+          "de": "Babək",
+          "en": "Babek District",
+          "es": "Babek",
+          "fr": "Babek",
+          "el": "Μπάμπεκ",
+          "hi": "बाबेक जिला",
+          "hu": null,
+          "id": "Babek",
+          "it": "Distretto di Babak",
+          "ja": "バベク県",
+          "ko": "바베크 구",
+          "nl": "Babək",
+          "pl": "Rejon Babək",
+          "pt": "Babek",
+          "ru": "Бабекский район",
+          "sv": "Babek Rayon",
+          "tr": "Babek Rayonu",
+          "vi": "Babek",
+          "zh": "巴貝克區"
+        },
+        "population": 70581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.58,
+          39.428
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sah",
+        "area": 0.12487999999999994,
+        "bounding_box": [
+          45.357,
+          39.288,
+          45.803,
+          39.568
+        ],
+        "point": [
+          45.58,
+          39.428
+        ],
+        "labels": {
+          "alt": "Shakhbuz",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة شهبوز",
+          "bn": "শাহবাজ জেলা",
+          "de": "Şahbuz",
+          "en": "Shahbuz District",
+          "es": "Shahbuz",
+          "fr": "Shakhbuz",
+          "el": "Σαχμπούζ",
+          "hi": "शाहबुज़ जिला",
+          "hu": null,
+          "id": "Shahbuz",
+          "it": "Distretto di Şahbuz",
+          "ja": "シャフブズ県",
+          "ko": "샤흐부스 구",
+          "nl": "Şahbuz",
+          "pl": "Rejon Şahbuz",
+          "pt": "Shakhbuz",
+          "ru": "Шахбузский район",
+          "sv": "Şahbuz",
+          "tr": "Şahbuz Rayonu",
+          "vi": "Shahbuz",
+          "zh": "沙赫布茲區"
+        },
+        "population": 24120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.685,
+          39.149
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-cul",
+        "area": 0.1822799999999997,
+        "bounding_box": [
+          45.468,
+          38.939,
+          45.902,
+          39.359
+        ],
+        "point": [
+          45.685,
+          39.149
+        ],
+        "labels": {
+          "alt": "Julfa",
+          "local": null,
+          "len": 5,
+          "ar": "حي جلفا",
+          "bn": "জুলফা জেলা",
+          "de": "Culfa",
+          "en": "Julfa District",
+          "es": "Julfa",
+          "fr": "Djoulfa",
+          "el": "Τζούλφα",
+          "hi": "जूल्फा जिला",
+          "hu": null,
+          "id": "Julfa",
+          "it": "Distretto di Culfa",
+          "ja": "ジュルファ県",
+          "ko": "줄파 구",
+          "nl": "Culfa",
+          "pl": "Rejon Culfa",
+          "pt": "Julfa",
+          "ru": "Джульфинский район",
+          "sv": "Julfa Rayon",
+          "tr": "Culfa Rayonu",
+          "vi": "Julfa",
+          "zh": "朱利法區"
+        },
+        "population": 37626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.9285,
+          39.07899999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-ord",
+        "area": 0.17845000000000258,
+        "bounding_box": [
+          45.721,
+          38.864,
+          46.136,
+          39.294
+        ],
+        "point": [
+          45.9285,
+          39.07899999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة أوردوباد",
+          "bn": "ওরডোবাড জেলা",
+          "de": "Ordubad",
+          "en": "Ordubad District",
+          "es": "Ordubad",
+          "fr": "Ordubad",
+          "el": "Όρντουμπαντ",
+          "hi": "ऑर्डुबैड जिला",
+          "hu": null,
+          "id": "Ordubad",
+          "it": "distretto di Ordubad",
+          "ja": "オルドゥバド県",
+          "ko": "오르두바트 구",
+          "nl": "Ordubad",
+          "pl": "Rejon Ordubad",
+          "pt": "Ordubad",
+          "ru": "Ордубадский район",
+          "sv": "Ordubad Rayon",
+          "tr": "Ordubad Rayonu",
+          "vi": "Ordubad",
+          "zh": "奧爾杜巴德區"
+        },
+        "population": 32104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.445,
+          41.7235
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-bal",
+        "area": 0.17648999999999954,
+        "bounding_box": [
+          46.18,
+          41.557,
+          46.71,
+          41.89
+        ],
+        "point": [
+          46.445,
+          41.7235
+        ],
+        "labels": {
+          "alt": "Balakan",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة بالاكن",
+          "bn": "বালাকান জেলা",
+          "de": "Balakən",
+          "en": "Balakan District",
+          "es": "Balakən",
+          "fr": "Balakən",
+          "el": "Μπαλακάν",
+          "hi": "बालकन ज़िला",
+          "hu": "Balakəni járás",
+          "id": "Balakan",
+          "it": "distretto di Balakən",
+          "ja": "バラキャン県",
+          "ko": "발라켄 구",
+          "nl": "Balakən",
+          "pl": "Rejon Balakən",
+          "pt": "Balakan",
+          "ru": "Белоканский район",
+          "sv": "Balakən Rayonu",
+          "tr": "Balaken Rayonu",
+          "vi": "Balaken",
+          "zh": "巴拉肯區"
+        },
+        "population": 97360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.653999999999996,
+          41.593
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-zaq",
+        "area": 0.36951200000000395,
+        "bounding_box": [
+          46.28,
+          41.346,
+          47.028,
+          41.84
+        ],
+        "point": [
+          46.653999999999996,
+          41.593
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة زقاتالا",
+          "bn": "জাকাতালা জেলা",
+          "de": "Zaqatala",
+          "en": "Zaqatala District",
+          "es": "Zaqatala",
+          "fr": "Zaqatala",
+          "el": "Ζακατάλα",
+          "hi": "ज़ाकाटला जिला",
+          "hu": "Zaqatalai járás",
+          "id": "Zaqatala",
+          "it": "distretto di Zaqatala",
+          "ja": "ザガタラ県",
+          "ko": "자가탈라 구",
+          "nl": "Zaqatala",
+          "pl": "Rejon Zaqatala",
+          "pt": "Zaqatala",
+          "ru": "Закатальский район",
+          "sv": "Zaqatala",
+          "tr": "Zakatala Rayonu",
+          "vi": "Zagatala",
+          "zh": "扎卡塔雷區"
+        },
+        "population": 132823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.7705,
+          41.596999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-xac",
+        "area": 0.306032,
+        "bounding_box": [
+          48.462,
+          41.349,
+          49.079,
+          41.845
+        ],
+        "point": [
+          48.7705,
+          41.596999999999994
+        ],
+        "labels": {
+          "alt": "Khachmaz",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة خاتشماز",
+          "bn": "কাকহাময জেলা",
+          "de": "Xaçmaz",
+          "en": "Khachmaz District",
+          "es": "Xaçmaz",
+          "fr": "Xaçmaz",
+          "el": "Κατσμάζ",
+          "hi": "खाकमज जिला",
+          "hu": "Xaçmazi járás",
+          "id": "Khachmaz",
+          "it": "distretto di Xaçmaz",
+          "ja": "ハヒマズ県",
+          "ko": "하치마스 구",
+          "nl": "Xaçmaz",
+          "pl": "Rejon Xaçmaz",
+          "pt": "Khachmaz",
+          "ru": "Хачмасский район",
+          "sv": "Khachmaz Rayon",
+          "tr": "Haçmaz Rayonu",
+          "vi": "Khachmaz",
+          "zh": "哈奇馬斯區"
+        },
+        "population": 166754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.194,
+          41.439499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-qus",
+        "area": 0.42900599999999667,
+        "bounding_box": [
+          47.813,
+          41.158,
+          48.575,
+          41.721
+        ],
+        "point": [
+          48.194,
+          41.439499999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة كوسار",
+          "bn": "কোসার জেলা",
+          "de": "Qusar",
+          "en": "Qusar District",
+          "es": "Qusar",
+          "fr": "Qusar",
+          "el": "Κουσάρ",
+          "hi": "कुसर जिला",
+          "hu": "Qusari járás",
+          "id": "Qusar",
+          "it": "distretto di Qusar",
+          "ja": "クサル県",
+          "ko": "구사르 구",
+          "nl": "Qusar",
+          "pl": "Rejon Qusar",
+          "pt": "Qusar",
+          "ru": "Кусарский район",
+          "sv": "Qusar Rayonu",
+          "tr": "Kusar Rayonu",
+          "vi": "Gusar",
+          "zh": "庫薩雷區"
+        },
+        "population": 84961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4825,
+          41.028999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-ogu",
+        "area": 0.19804999999999914,
+        "bounding_box": [
+          47.27,
+          40.796,
+          47.695,
+          41.262
+        ],
+        "point": [
+          47.4825,
+          41.028999999999996
+        ],
+        "labels": {
+          "alt": "Oguz",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة أغوز",
+          "bn": "ওঘুয জেলা",
+          "de": "Oğuz",
+          "en": "Oghuz District",
+          "es": "Oğuz",
+          "fr": "Oğuz",
+          "el": "Επαρχία Ογκούζ",
+          "hi": "ओग़ज़ जिला",
+          "hu": "Oğuzi járás",
+          "id": "Oguz",
+          "it": "distretto di Oğuz",
+          "ja": "オグズ県",
+          "ko": "오구스 구",
+          "nl": "Oğuz",
+          "pl": "Rejon Oğuz",
+          "pt": "Oğuz",
+          "ru": "Огузский район",
+          "sv": "Oğuz",
+          "tr": "Oğuz Rayonu",
+          "vi": "Oghuz",
+          "zh": "奧古茲區"
+        },
+        "population": 44158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.191500000000005,
+          41.1265
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sa",
+        "area": 0.5533669999999943,
+        "bounding_box": [
+          46.813,
+          40.761,
+          47.57,
+          41.492
+        ],
+        "point": [
+          47.191500000000005,
+          41.1265
+        ],
+        "labels": {
+          "alt": "Shaki",
+          "local": null,
+          "len": 4,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 185004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1835,
+          41.195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sa",
+        "area": 0.005679999999999715,
+        "bounding_box": [
+          47.148,
+          41.155,
+          47.219,
+          41.235
+        ],
+        "point": [
+          47.1835,
+          41.195
+        ],
+        "labels": {
+          "alt": "Shaki",
+          "local": null,
+          "len": 4,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 185004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8975,
+          41.2405
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-qax",
+        "area": 0.371017000000001,
+        "bounding_box": [
+          46.616,
+          40.911,
+          47.179,
+          41.57
+        ],
+        "point": [
+          46.8975,
+          41.2405
+        ],
+        "labels": {
+          "alt": "Qakh",
+          "local": null,
+          "len": 3,
+          "ar": "مقاطعة قاخ",
+          "bn": "কাহ জেলা",
+          "de": "Qax",
+          "en": "Qakh District",
+          "es": "Qax",
+          "fr": "Qax",
+          "el": "Κάκχ",
+          "hi": "काख जिला",
+          "hu": "Qaxi járás",
+          "id": "Qakh",
+          "it": "distretto di Qax",
+          "ja": "ガフ県",
+          "ko": "가흐 구",
+          "nl": "Qax",
+          "pl": "Rejon Qax",
+          "pt": "Qakh",
+          "ru": "Кахский район",
+          "sv": "Qach",
+          "tr": "Kah rayonu",
+          "vi": "Gakh",
+          "zh": "卡希區"
+        },
+        "population": 55960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7785,
+          40.923
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-qab",
+        "area": 0.2868399999999963,
+        "bounding_box": [
+          47.526,
+          40.639,
+          48.031,
+          41.207
+        ],
+        "point": [
+          47.7785,
+          40.923
+        ],
+        "labels": {
+          "alt": "Qabala",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة غابالا",
+          "bn": "কাবালা জেলা",
+          "de": "Qəbələ",
+          "en": "Qabala District",
+          "es": "Qəbələ",
+          "fr": "Qabala",
+          "el": "Καμπάλα",
+          "hi": "कबाला जिला",
+          "hu": "Qəbələi járás",
+          "id": "Qabala",
+          "it": "distretto di Qəbələ",
+          "ja": "ガバラ県",
+          "ko": "게벨레 구",
+          "nl": "Qəbələ",
+          "pl": "Rejon Qəbələ",
+          "pt": "Qabala",
+          "ru": "Габалинский район",
+          "sv": "Qəbələ",
+          "tr": "Kabala Rayonu",
+          "vi": "Gabala",
+          "zh": "蓋貝萊區"
+        },
+        "population": 107468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.424,
+          40.941
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-smx",
+        "area": 0.3480959999999989,
+        "bounding_box": [
+          46.088,
+          40.682,
+          46.76,
+          41.2
+        ],
+        "point": [
+          46.424,
+          40.941
+        ],
+        "labels": {
+          "alt": "Samukh",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة ساموخ",
+          "bn": "সামোক জেলা",
+          "de": "Samux",
+          "en": "Samukh District",
+          "es": "Samux",
+          "fr": "Samux",
+          "el": "Σαμούκ",
+          "hi": "समुख जिला",
+          "hu": "Samuxi járás",
+          "id": "Samukh",
+          "it": "distretto di Samux",
+          "ja": "サムフ県",
+          "ko": "사무흐 구",
+          "nl": "Samux",
+          "pl": "Rejon Samux",
+          "pt": "Samukh",
+          "ru": "Самухский район",
+          "sv": "Samux Rayonu",
+          "tr": "Samuh Rayonu",
+          "vi": "Samuh",
+          "zh": "薩穆赫區"
+        },
+        "population": 53817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0605,
+          39.8515
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-imi",
+        "area": 0.3624530000000019,
+        "bounding_box": [
+          47.742,
+          39.567,
+          48.379,
+          40.136
+        ],
+        "point": [
+          48.0605,
+          39.8515
+        ],
+        "labels": {
+          "alt": "Imishli",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة إيميشلي",
+          "bn": "ইমিশি জেলা",
+          "de": "İmişli",
+          "en": "Imishli District",
+          "es": "İmişli",
+          "fr": "İmişli",
+          "el": "Ιμισχλί",
+          "hi": "इमिशली जिला",
+          "hu": null,
+          "id": "Imishli",
+          "it": "distretto di İmişli",
+          "ja": "イミシュリ県",
+          "ko": "이미슐리 구",
+          "nl": "İmişli",
+          "pl": "Rejon İmişli",
+          "pt": "Imishli",
+          "ru": "Имишлинский район",
+          "sv": "Imisjli",
+          "tr": "İmişli Rayonu",
+          "vi": "Imishli",
+          "zh": "伊米什利區"
+        },
+        "population": 127937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3685,
+          39.5065
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-bil",
+        "area": 0.3374310000000032,
+        "bounding_box": [
+          47.958,
+          39.301,
+          48.779,
+          39.712
+        ],
+        "point": [
+          48.3685,
+          39.5065
+        ],
+        "labels": {
+          "alt": "Bilasuvar",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة بيلاسوار",
+          "bn": "বিলাসোবার জেলা",
+          "de": "Biləsuvar",
+          "en": "Bilasuvar District",
+          "es": "Biləsuvar",
+          "fr": "Biləsuvar",
+          "el": "Μπιλασουβάρ",
+          "hi": "बिलासुवार जिला",
+          "hu": null,
+          "id": "Bilasuvar",
+          "it": "distretto di Biləsuvar",
+          "ja": "ビラスヴァル県",
+          "ko": "빌레수바르 구",
+          "nl": "Biləsuvar",
+          "pl": "Rejon Biləsuvar",
+          "pt": "Bilasuvar",
+          "ru": "Билясуварский район",
+          "sv": "Biläsuvar",
+          "tr": "Bilesuvar rayonu",
+          "vi": "Bilasuvar",
+          "zh": "比利亞蘇瓦爾區"
+        },
+        "population": 108718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.434,
+          39.203
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-cal",
+        "area": 0.28644000000000464,
+        "bounding_box": [
+          48.104,
+          38.986,
+          48.764,
+          39.42
+        ],
+        "point": [
+          48.434,
+          39.203
+        ],
+        "labels": {
+          "alt": "Jalilabad",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة جليل‌ آباد",
+          "bn": "জালিলা বাদ জেলা",
+          "de": "Cəlilabad",
+          "en": "Jalilabad District",
+          "es": "Cəlilabad",
+          "fr": "Cəlilabad",
+          "el": "Τζαλιλαμπάντ",
+          "hi": "जलीलाबाद जिला",
+          "hu": "Cəlilabadi járás",
+          "id": "Jalilabad",
+          "it": "distretto di Cəlilabad",
+          "ja": "ジャリラバド県",
+          "ko": "젤릴라바트 구",
+          "nl": "Cəlilabad",
+          "pl": "Rejon Cəlilabad",
+          "pt": "Jalilabad",
+          "ru": "Джалилабадский район",
+          "sv": "Cəlilabad",
+          "tr": "Celilabad Rayonu",
+          "vi": "Jalilabad",
+          "zh": "賈利拉巴德區"
+        },
+        "population": 230348
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2695,
+          38.8715
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-yar",
+        "area": 0.17656900000000078,
+        "bounding_box": [
+          47.991,
+          38.713,
+          48.548,
+          39.03
+        ],
+        "point": [
+          48.2695,
+          38.8715
+        ],
+        "labels": {
+          "alt": "Yardymli",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة يارديملي",
+          "bn": "ইয়ার্ডিমলি জেলা",
+          "de": "Yardımlı",
+          "en": "Yardymli District",
+          "es": "Yardımlı",
+          "fr": "Yardımlı",
+          "el": "Γιαρντιμλί",
+          "hi": "यार्दिमली जिला",
+          "hu": null,
+          "id": "Yardymli",
+          "it": "distretto di Yardımlı",
+          "ja": "ヤルディムリ県",
+          "ko": "야르듬르 구",
+          "nl": "Yardımlı",
+          "pl": "Rejon Yardımlı",
+          "pt": "Yardymli",
+          "ru": "Ярдымлинский район",
+          "sv": "Jardymly",
+          "tr": "Yardımlı Rayonu",
+          "vi": "Yardymly",
+          "zh": "亞爾德姆雷區"
+        },
+        "population": 72766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.477999999999994,
+          38.704499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-ler",
+        "area": 0.2373839999999972,
+        "bounding_box": [
+          48.226,
+          38.469,
+          48.73,
+          38.94
+        ],
+        "point": [
+          48.477999999999994,
+          38.704499999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة ليريك",
+          "bn": "লেরিক জেলা",
+          "de": "Lerik",
+          "en": "Lerik District",
+          "es": "Lerik",
+          "fr": "Lerik",
+          "el": "Λέρικ",
+          "hi": "लेरिक जिला",
+          "hu": null,
+          "id": "Lerik",
+          "it": "distretto di Lerik",
+          "ja": "レリク県",
+          "ko": "레리크 구",
+          "nl": "Lerik",
+          "pl": "Rejon Lerik",
+          "pt": "Lerik",
+          "ru": "Лерикский район",
+          "sv": "Lerik Rayonu",
+          "tr": "Lerik Rayonu",
+          "vi": "Lerik",
+          "zh": "列里克區"
+        },
+        "population": 88080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.982,
+          39.318
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-cab",
+        "area": 0.17744399999999874,
+        "bounding_box": [
+          46.703,
+          39.159,
+          47.261,
+          39.477
+        ],
+        "point": [
+          46.982,
+          39.318
+        ],
+        "labels": {
+          "alt": "Jabrayil",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة جبرائيل",
+          "bn": "জাব্রাইল জেলা",
+          "de": "Cəbrayıl",
+          "en": "Jabrayil District",
+          "es": "Cəbrayıl",
+          "fr": "Jabrayil",
+          "el": "Τζαμπραγίλ",
+          "hi": "जाब्रेइल जिला",
+          "hu": "Cəbrayıl járás",
+          "id": "Jabrayil",
+          "it": "distretto di Cəbrayıl",
+          "ja": "ジャブライル県",
+          "ko": "제브라이을 구",
+          "nl": "Cəbrayıl",
+          "pl": "Rejon Cəbrayıl",
+          "pt": "Jabrayil",
+          "ru": "Джебраильский район",
+          "sv": "Cəbrayıl Rayonu",
+          "tr": "Cebrayıl Rayonu",
+          "vi": "Jebrail",
+          "zh": "傑布拉伊爾區"
+        },
+        "population": 67703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3365,
+          39.552
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-fuz",
+        "area": 0.21464399999999925,
+        "bounding_box": [
+          47.048,
+          39.366,
+          47.625,
+          39.738
+        ],
+        "point": [
+          47.3365,
+          39.552
+        ],
+        "labels": {
+          "alt": "Fizuli",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة فضولي",
+          "bn": "ফিজুলি জেলা",
+          "de": "Füzuli",
+          "en": "Fizuli District",
+          "es": "Füzuli",
+          "fr": "Fizuli",
+          "el": "Φιζούλι",
+          "hi": "फिज़ूली जिला",
+          "hu": "Füzuli járás",
+          "id": "Fizuli",
+          "it": "distretto di Füzuli",
+          "ja": "フュズリ県",
+          "ko": "퓌줄리 구",
+          "nl": "Füzuli",
+          "pl": "Rejon Füzuli",
+          "pt": "Fizuli",
+          "ru": "Физулинский район",
+          "sv": "Füzuli Rayonu",
+          "tr": "Füzuli Rayonu",
+          "vi": "Fuzuli",
+          "zh": "菲祖利區"
+        },
+        "population": 87314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.661500000000004,
+          39.864999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-bey",
+        "area": 0.2687160000000009,
+        "bounding_box": [
+          47.433,
+          39.571,
+          47.89,
+          40.159
+        ],
+        "point": [
+          47.661500000000004,
+          39.864999999999995
+        ],
+        "labels": {
+          "alt": "Beylagan",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة بيلقان",
+          "bn": "বেলাগান জেলা",
+          "de": "Beyləqan",
+          "en": "Beylagan District",
+          "es": "Beyləqan",
+          "fr": "Beyləqan",
+          "el": "Μπεϊλαγκάν",
+          "hi": "बेलागन जिला",
+          "hu": null,
+          "id": "Beylagan",
+          "it": "distretto di Beyləqan",
+          "ja": "ベイラガン県",
+          "ko": "베일레간 구",
+          "nl": "Beyləqan",
+          "pl": "Rejon Beyləqan",
+          "pt": "Beylagan",
+          "ru": "Бейлаганский район",
+          "sv": "Bejläqan",
+          "tr": "Beylegan Rayonu",
+          "vi": "Beilagan",
+          "zh": "貝拉甘區"
+        },
+        "population": 94795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.705,
+          38.498999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-ast",
+        "area": 0.06962799999999883,
+        "bounding_box": [
+          48.536,
+          38.396,
+          48.874,
+          38.602
+        ],
+        "point": [
+          48.705,
+          38.498999999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة آستارا",
+          "bn": "আস্তারা জেলা",
+          "de": "Astara",
+          "en": "Astara District",
+          "es": "Astara",
+          "fr": "Astara",
+          "el": "Ασταρά",
+          "hi": "अस्तारा जिला",
+          "hu": null,
+          "id": "Astara",
+          "it": "distretto di Astara",
+          "ja": "アスタラ県",
+          "ko": "아스타라 구",
+          "nl": "Astara",
+          "pl": "Rejon Astara",
+          "pt": "Astara",
+          "ru": "Астаринский район",
+          "sv": "Astara",
+          "tr": "Astara Rayonu",
+          "vi": "Astara",
+          "zh": "阿斯塔拉區"
+        },
+        "population": 108134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9075,
+          41.11
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sbn",
+        "area": 0.26979000000000086,
+        "bounding_box": [
+          48.643,
+          40.855,
+          49.172,
+          41.365
+        ],
+        "point": [
+          48.9075,
+          41.11
+        ],
+        "labels": {
+          "alt": "Davachi",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة شابران",
+          "bn": "সাব্রান জেলা",
+          "de": "Şabran",
+          "en": "Shabran District",
+          "es": "Şabran",
+          "fr": "Şabran",
+          "el": "Σάμπραν",
+          "hi": "शबरान जिला",
+          "hu": null,
+          "id": "Davachi",
+          "it": "distretto di Şabran",
+          "ja": "ダヴァヒ県",
+          "ko": "샤브란 구",
+          "nl": "Dəvəçi",
+          "pl": "Rejon Dəvəçi",
+          "pt": "Shabran",
+          "ru": "Шабранский район",
+          "sv": "Shabran Rayon",
+          "tr": "Şabran rayonu",
+          "vi": "Quận Shabran",
+          "zh": "迪維奇區"
+        },
+        "population": 60155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.097,
+          41.0275
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-siy",
+        "area": 0.17371600000000068,
+        "bounding_box": [
+          48.823,
+          40.869,
+          49.371,
+          41.186
+        ],
+        "point": [
+          49.097,
+          41.0275
+        ],
+        "labels": {
+          "alt": "Siazan",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة سيازن",
+          "bn": "সিজান জেলা",
+          "de": "Siyəzən",
+          "en": "Siazan District",
+          "es": "Siyəzən",
+          "fr": "Siyəzən",
+          "el": "Σιαζάν",
+          "hi": "सिज़ान जिला",
+          "hu": "Siyəzəni járás",
+          "id": "Siazan",
+          "it": "distretto di Siyəzən",
+          "ja": "シアザン県",
+          "ko": "시예젠 구",
+          "nl": "Siyəzən",
+          "pl": "Rejon Siyəzən",
+          "pt": "Siazan",
+          "ru": "Сиазаньский район",
+          "sv": "Siyəzən Rayonu",
+          "tr": "Siyezen Rayonu",
+          "vi": "Siazan",
+          "zh": "錫阿贊區"
+        },
+        "population": 42895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.153999999999996,
+          40.741
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-xiz",
+        "area": 0.3619000000000006,
+        "bounding_box": [
+          48.769,
+          40.506,
+          49.539,
+          40.976
+        ],
+        "point": [
+          49.153999999999996,
+          40.741
+        ],
+        "labels": {
+          "alt": "Khizi",
+          "local": null,
+          "len": 4,
+          "ar": null,
+          "bn": null,
+          "de": "Xızı",
+          "en": "Khizi District",
+          "es": "Xızı",
+          "fr": "Xızı",
+          "el": null,
+          "hi": null,
+          "hu": "Xızı járás",
+          "id": "Khizi",
+          "it": "distretto di Xızı",
+          "ja": "ヒジ県",
+          "ko": "흐즈 구",
+          "nl": "Xızı",
+          "pl": "Rejon Xızı",
+          "pt": "Khizi",
+          "ru": "Хызинский район",
+          "sv": "Khizi Rayon",
+          "tr": "Hızı Rayonu",
+          "vi": "Khyzy",
+          "zh": "基茲區"
+        },
+        "population": 19275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5965,
+          40.6035
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sm",
+        "area": 0.027013000000000408,
+        "bounding_box": [
+          49.483,
+          40.544,
+          49.71,
+          40.663
+        ],
+        "point": [
+          49.5965,
+          40.6035
+        ],
+        "labels": {
+          "alt": "Sumqayit city",
+          "local": null,
+          "len": 8,
+          "ar": "سومقاييت",
+          "bn": "সুমকায়িত",
+          "de": "Sumqayıt",
+          "en": "Sumqayit",
+          "es": "Sumqayit",
+          "fr": "Sumqayıt",
+          "el": "Σουμγκαγήτ",
+          "hi": "सुम्क़यित",
+          "hu": "Sumqayit",
+          "id": "Sumqayit",
+          "it": "Sumqayıt",
+          "ja": "スムガイト",
+          "ko": "숨가이트",
+          "nl": "Sumqayıt",
+          "pl": "Sumgait",
+          "pt": "Sumqayit",
+          "ru": "Сумгаит",
+          "sv": "Sumqayıt",
+          "tr": "Sumgayıt",
+          "vi": "Sumqayit",
+          "zh": "苏姆盖特"
+        },
+        "population": 323309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.831500000000005,
+          40.127
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-ba",
+        "area": 0.9926800000000024,
+        "bounding_box": [
+          49.292,
+          39.667,
+          50.371,
+          40.587
+        ],
+        "point": [
+          49.831500000000005,
+          40.127
+        ],
+        "labels": {
+          "alt": "Baku city",
+          "local": null,
+          "len": 4,
+          "ar": "باكو",
+          "bn": "বাকু",
+          "de": "Baku",
+          "en": "Baku",
+          "es": "Bakú",
+          "fr": "Bakou",
+          "el": "Μπακού",
+          "hi": "बाकू",
+          "hu": "Baku",
+          "id": "Baku",
+          "it": "Baku",
+          "ja": "バクー",
+          "ko": "바쿠",
+          "nl": "Bakoe",
+          "pl": "Baku",
+          "pt": "Baku",
+          "ru": "Баку",
+          "sv": "Baku",
+          "tr": "Bakü",
+          "vi": "Baku",
+          "zh": "巴库"
+        },
+        "population": 2420808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0495,
+          39.634
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sal",
+        "area": 0.35283000000000003,
+        "bounding_box": [
+          48.74,
+          39.349,
+          49.359,
+          39.919
+        ],
+        "point": [
+          49.0495,
+          39.634
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة ساليان",
+          "bn": "সালিয়ান জেলা",
+          "de": "Salyan",
+          "en": "Salyan District",
+          "es": "Salyan",
+          "fr": "Salyan",
+          "el": "Σαλγιάν",
+          "hi": "सल्यान जिला",
+          "hu": null,
+          "id": "Salyan",
+          "it": "distretto di Salyan",
+          "ja": "サルヤン県",
+          "ko": "살리안 구",
+          "nl": "Salyan",
+          "pl": "Rejon Salyan",
+          "pt": "Salyan",
+          "ru": "Сальянский район",
+          "sv": "Saljan",
+          "tr": "Salyan Rayonu",
+          "vi": "Salyan",
+          "zh": "薩利揚區"
+        },
+        "population": 128162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0625,
+          39.338
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-nef",
+        "area": 0.29106000000000026,
+        "bounding_box": [
+          48.716,
+          39.128,
+          49.409,
+          39.548
+        ],
+        "point": [
+          49.0625,
+          39.338
+        ],
+        "labels": {
+          "alt": "Neftchala",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة نيفتشالا",
+          "bn": "নেফকালা জেলা",
+          "de": "Neftçala",
+          "en": "Neftchala District",
+          "es": "Neftçala",
+          "fr": "Neftçala",
+          "el": "Νεφτσάλα",
+          "hi": "नेफचाला जिला",
+          "hu": null,
+          "id": "Neftchala",
+          "it": "distretto di Neftçala",
+          "ja": "ネフトチャラ県",
+          "ko": "네프찰라 구",
+          "nl": "Neftçala",
+          "pl": "Rejon Neftçala",
+          "pt": "Neftchala",
+          "ru": "Нефтечалинский район",
+          "sv": "Nefttjala",
+          "tr": "Neftçala Rayonu",
+          "vi": "Neftchala",
+          "zh": "涅夫捷恰拉區"
+        },
+        "population": 89666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0405,
+          39.099500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-la",
+        "area": 0.13196700000000058,
+        "bounding_box": [
+          48.847,
+          38.929,
+          49.234,
+          39.27
+        ],
+        "point": [
+          49.0405,
+          39.099500000000006
+        ],
+        "labels": {
+          "alt": "Lenkoran|Lənkəran",
+          "local": null,
+          "len": 8,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 214145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.731,
+          38.74
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-la",
+        "area": 0.10428000000000029,
+        "bounding_box": [
+          48.566,
+          38.582,
+          48.896,
+          38.898
+        ],
+        "point": [
+          48.731,
+          38.74
+        ],
+        "labels": {
+          "alt": "Lenkoran|Lənkəran",
+          "local": null,
+          "len": 8,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 214145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8445,
+          38.75749999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-la",
+        "area": 0.0022569999999999387,
+        "bounding_box": [
+          48.826,
+          38.727,
+          48.863,
+          38.788
+        ],
+        "point": [
+          48.8445,
+          38.75749999999999
+        ],
+        "labels": {
+          "alt": "Lenkoran|Lənkəran",
+          "local": null,
+          "len": 8,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 214145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.698,
+          38.9875
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-mas",
+        "area": 0.1403599999999973,
+        "bounding_box": [
+          48.478,
+          38.828,
+          48.918,
+          39.147
+        ],
+        "point": [
+          48.698,
+          38.9875
+        ],
+        "labels": {
+          "alt": "Masally",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة ماساللي",
+          "bn": "মাসালি জেলা",
+          "de": "Masallı",
+          "en": "Masally District",
+          "es": "Masallı",
+          "fr": "Masallı",
+          "el": "Μασάλι",
+          "hi": "मेज़ली जिला",
+          "hu": null,
+          "id": "Masally",
+          "it": "distretto di Masallı",
+          "ja": "マサッル県",
+          "ko": "마살르 구",
+          "nl": "Masallı",
+          "pl": "Rejon Masallı",
+          "pt": "Masally",
+          "ru": "Масаллинский район",
+          "sv": "Masallı Rayonu",
+          "tr": "Masallı Rayonu",
+          "vi": "Masally",
+          "zh": "馬薩雷區"
+        },
+        "population": 226456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.421499999999995,
+          39.2125
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-nx",
+        "area": 0.01423499999999958,
+        "bounding_box": [
+          45.312,
+          39.18,
+          45.531,
+          39.245
+        ],
+        "point": [
+          45.421499999999995,
+          39.2125
+        ],
+        "labels": {
+          "alt": "Nakhichevan",
+          "local": null,
+          "len": 8,
+          "ar": "نخجوان",
+          "bn": "নাখচিভান",
+          "de": "Naxçıvan",
+          "en": "Nakhchivan",
+          "es": "Najicheván",
+          "fr": "Nakhitchevan",
+          "el": "Ναχιτσεβάν",
+          "hi": "नख़्चीवां",
+          "hu": "Nahicseván",
+          "id": "Kota Nakhchivan",
+          "it": "Naxçıvan",
+          "ja": "ナヒチェヴァン",
+          "ko": "나히체반",
+          "nl": "Nachitsjevan",
+          "pl": "Nachiczewan",
+          "pt": "Naquichevão",
+          "ru": "Нахичевань",
+          "sv": "Nachitjevan",
+          "tr": "Nahçıvan",
+          "vi": "Nakhchivan",
+          "zh": "納希切萬"
+        },
+        "population": 104936
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.66,
+          39.686
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sus",
+        "area": 0.05005200000000119,
+        "bounding_box": [
+          46.531,
+          39.589,
+          46.789,
+          39.783
+        ],
+        "point": [
+          46.66,
+          39.686
+        ],
+        "labels": {
+          "alt": "Shusha",
+          "local": null,
+          "len": 4,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 34149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6845,
+          39.822500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-xci",
+        "area": 0.18728899999999885,
+        "bounding_box": [
+          46.445,
+          39.627,
+          46.924,
+          40.018
+        ],
+        "point": [
+          46.6845,
+          39.822500000000005
+        ],
+        "labels": {
+          "alt": "Khojali",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة خوجالي",
+          "bn": "খুজালি জেলা",
+          "de": "Xocalı",
+          "en": "Khojali District",
+          "es": "Xocalı",
+          "fr": "Khodjaly",
+          "el": "Κχοτζάλι",
+          "hi": "खोजाली जिला",
+          "hu": "Xocalı járás",
+          "id": "Khojali",
+          "it": "distretto di Xocalı",
+          "ja": "ホジャリ県",
+          "ko": "호잘르 구",
+          "nl": "Xocalı",
+          "pl": "Rejon Xocalı",
+          "pt": "Khojali",
+          "ru": "Ходжалинский район",
+          "sv": "Xocalı Rayonu",
+          "tr": "Hocalı Rayonu",
+          "vi": "Khojaly",
+          "zh": "霍賈雷區"
+        },
+        "population": 80009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.759,
+          39.7585
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-x01~",
+        "area": 0.0009720000000000737,
+        "bounding_box": [
+          46.741,
+          39.745,
+          46.777,
+          39.772
+        ],
+        "point": [
+          46.759,
+          39.7585
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة شوشا",
+          "bn": "সুশা জেলা",
+          "de": "Şuşa",
+          "en": "Shusha District",
+          "es": "Şuşa",
+          "fr": "Choucha",
+          "el": "Σούσα",
+          "hi": "शुशा जिला",
+          "hu": "Şuşai járás",
+          "id": "Shusha",
+          "it": "distretto di Şuşa",
+          "ja": "シュシャ県",
+          "ko": "슈샤 구",
+          "nl": "Şuşa",
+          "pl": "Rejon Şuşa",
+          "pt": "Shusha",
+          "ru": "Шушинский район",
+          "sv": "Shusha",
+          "tr": "Şuşa Rayonu",
+          "vi": "Shusha",
+          "zh": "舒沙區"
+        },
+        "population": 935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.992000000000004,
+          40.0045
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-agm",
+        "area": 0.2463719999999986,
+        "bounding_box": [
+          46.698,
+          39.795,
+          47.286,
+          40.214
+        ],
+        "point": [
+          46.992000000000004,
+          40.0045
+        ],
+        "labels": {
+          "alt": "Agdam",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة آقدام",
+          "bn": "আগডাম জেলা",
+          "de": "Ağdam",
+          "en": "Agdam District",
+          "es": "Ağdam",
+          "fr": "Agdam",
+          "el": "Αγκντάμ",
+          "hi": "एगडेम जिला",
+          "hu": "Ağdami járás",
+          "id": "Agdam",
+          "it": "distretto di Ağdam",
+          "ja": "アグダム県",
+          "ko": "아그담 구",
+          "nl": "Ağdam",
+          "pl": "Rejon Ağdam",
+          "pt": "Agdam",
+          "ru": "Агдамский район",
+          "sv": "Ağdam",
+          "tr": "Ağdam Rayonu",
+          "vi": "Quận Agdam",
+          "zh": "阿格達姆區"
+        },
+        "population": 195194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.792500000000004,
+          40.2565
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-tar",
+        "area": 0.2623889999999957,
+        "bounding_box": [
+          46.499,
+          40.033,
+          47.086,
+          40.48
+        ],
+        "point": [
+          46.792500000000004,
+          40.2565
+        ],
+        "labels": {
+          "alt": "Tartar",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة تارتار",
+          "bn": "তারতার জেলা",
+          "de": "Tərtər",
+          "en": "Tartar District",
+          "es": "Tərtər",
+          "fr": "Tartar",
+          "el": "Ταρτάρ",
+          "hi": "टारटर जिला",
+          "hu": "Tərtəri járás",
+          "id": "Tartar",
+          "it": "distretto di Tərtər",
+          "ja": "タルタル県",
+          "ko": "테르테르 구",
+          "nl": "Tərtər",
+          "pl": "Rejon Tərtər",
+          "pt": "Tartar",
+          "ru": "Тертерский район",
+          "sv": "Tärtär",
+          "tr": "Terter Rayonu",
+          "vi": "Terter",
+          "zh": "泰爾泰爾區"
+        },
+        "population": 108749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.64,
+          40.6145
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-gor",
+        "area": 0.45273200000000574,
+        "bounding_box": [
+          46.318,
+          40.263,
+          46.962,
+          40.966
+        ],
+        "point": [
+          46.64,
+          40.6145
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة غورانبوي",
+          "bn": "গোরানবয় জেলা",
+          "de": "Goranboy",
+          "en": "Goranboy District",
+          "es": "Goranboy",
+          "fr": "Goranboy",
+          "el": "Γκορανμπόι",
+          "hi": "गोरान्बोय जिला",
+          "hu": null,
+          "id": "Goranboy",
+          "it": "distretto di Goranboy",
+          "ja": "ゴランボイ県",
+          "ko": "고란보이 구",
+          "nl": "Goranboy",
+          "pl": "Rejon Goranboy",
+          "pt": "Goranboy",
+          "ru": "Геранбойский район",
+          "sv": "Goranboj",
+          "tr": "Goranboy Rayonu",
+          "vi": "Geranboy",
+          "zh": "戈蘭博伊區"
+        },
+        "population": 111854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.989999999999995,
+          39.6305
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-xvd",
+        "area": 0.35249000000000197,
+        "bounding_box": [
+          46.641,
+          39.378,
+          47.339,
+          39.883
+        ],
+        "point": [
+          46.989999999999995,
+          39.6305
+        ],
+        "labels": {
+          "alt": "Khojavend",
+          "local": null,
+          "len": 8,
+          "ar": null,
+          "bn": null,
+          "de": "Xocavənd",
+          "en": "Khojavend District",
+          "es": "Xocavənd",
+          "fr": "Khojavend",
+          "el": null,
+          "hi": null,
+          "hu": "Xocavəndi járás",
+          "id": "Khojavend",
+          "it": "distretto di Xocavənd",
+          "ja": "ホジャヴェンド県",
+          "ko": "호자벤트 구",
+          "nl": "Xocavənd",
+          "pl": "Rejon Xocavənd",
+          "pt": "Khojavend",
+          "ru": "Ходжавендский район",
+          "sv": "Chodzjavänd",
+          "tr": "Hocavend Rayonu",
+          "vi": "Khojavend",
+          "zh": "霍賈文德區"
+        },
+        "population": 47973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8985,
+          40.0785
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-hac",
+        "area": 0.488761000000002,
+        "bounding_box": [
+          48.44,
+          39.812,
+          49.357,
+          40.345
+        ],
+        "point": [
+          48.8985,
+          40.0785
+        ],
+        "labels": {
+          "alt": "Ali Bayramli",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة هايغابول",
+          "bn": "হাজিগাবোল জেলা",
+          "de": "Hacıqabul",
+          "en": "Hajigabul District",
+          "es": "Hacıqabul",
+          "fr": "Hacıqabul",
+          "el": "Χατζιγκαμπούλ",
+          "hi": "हाजीगबल जिला",
+          "hu": null,
+          "id": "Hajigabul",
+          "it": "distretto di Hacıqabul",
+          "ja": "ハジュガブル県",
+          "ko": "하즈가불 구",
+          "nl": "Hacıqabul",
+          "pl": "Rejon Hacıqabul",
+          "pt": "Hajigabul",
+          "ru": "Аджикабулский район",
+          "sv": "Hadzjyqabul",
+          "tr": "Hacıkabul Rayonu",
+          "vi": "Hacuqabul",
+          "zh": "卡齊穆罕默德區"
+        },
+        "population": 70425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.36,
+          40.295
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-abs",
+        "area": 0.6963119999999979,
+        "bounding_box": [
+          48.851,
+          39.953,
+          49.869,
+          40.637
+        ],
+        "point": [
+          49.36,
+          40.295
+        ],
+        "labels": {
+          "alt": "Absheron",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة آبشوران",
+          "bn": "আবশেরন জেলা",
+          "de": "Abşeron",
+          "en": "Absheron District",
+          "es": "Abşeron",
+          "fr": "Abşeron",
+          "el": "Αμπσερόν",
+          "hi": "एबशेरन जिला",
+          "hu": "Abşeroni járás",
+          "id": "Abşeron",
+          "it": "distretto di Abşeron",
+          "ja": "アブシェロン県",
+          "ko": "압셰론 구",
+          "nl": "Abşeron",
+          "pl": "Rejon Abşeron",
+          "pt": "Absheron",
+          "ru": "Апшеронский район",
+          "sv": "Apsjeron",
+          "tr": "Abşeron Rayonu",
+          "vi": "Absheron",
+          "zh": "阿布歇隆區"
+        },
+        "population": 432236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6495,
+          40.4
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-abs",
+        "area": 0.0058799999999995505,
+        "bounding_box": [
+          49.597,
+          40.372,
+          49.702,
+          40.428
+        ],
+        "point": [
+          49.6495,
+          40.4
+        ],
+        "labels": {
+          "alt": "Absheron",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة آبشوران",
+          "bn": "আবশেরন জেলা",
+          "de": "Abşeron",
+          "en": "Absheron District",
+          "es": "Abşeron",
+          "fr": "Abşeron",
+          "el": "Αμπσερόν",
+          "hi": "एबशेरन जिला",
+          "hu": "Abşeroni járás",
+          "id": "Abşeron",
+          "it": "distretto di Abşeron",
+          "ja": "アブシェロン県",
+          "ko": "압셰론 구",
+          "nl": "Abşeron",
+          "pl": "Rejon Abşeron",
+          "pt": "Absheron",
+          "ru": "Апшеронский район",
+          "sv": "Apsjeron",
+          "tr": "Abşeron Rayonu",
+          "vi": "Absheron",
+          "zh": "阿布歇隆區"
+        },
+        "population": 432236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.292,
+          40.554500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-gyg",
+        "area": 0.23728199999999897,
+        "bounding_box": [
+          46.079,
+          40.276,
+          46.505,
+          40.833
+        ],
+        "point": [
+          46.292,
+          40.554500000000004
+        ],
+        "labels": {
+          "alt": "Khanlar",
+          "local": null,
+          "len": 6,
+          "ar": null,
+          "bn": null,
+          "de": "Göygöl",
+          "en": "Goygol District",
+          "es": "Göygöl",
+          "fr": "Göygöl",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": "Khanlar",
+          "it": "distretto di Göygöl",
+          "ja": "ギョイギョル県",
+          "ko": "괴이괼 구",
+          "nl": "Göygöl",
+          "pl": "Rejon Göygöl",
+          "pt": "Goygol",
+          "ru": "Гёйгёльский район",
+          "sv": "Xanlar Rayonu",
+          "tr": "Göygöl Rayonu",
+          "vi": "Goygol",
+          "zh": "漢拉爾區"
+        },
+        "population": 154809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1545,
+          40.281499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-kur",
+        "area": 0.30410699999999824,
+        "bounding_box": [
+          47.851,
+          40.031,
+          48.458,
+          40.532
+        ],
+        "point": [
+          48.1545,
+          40.281499999999994
+        ],
+        "labels": {
+          "alt": "Kurdamir",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة كوردامير",
+          "bn": "কুরদামির জেলা",
+          "de": "Kürdəmir",
+          "en": "Kurdamir District",
+          "es": "Kürdəmir",
+          "fr": "Kürdəmir",
+          "el": "Κουρνταμίρ",
+          "hi": "कुर्दमीर जिला",
+          "hu": null,
+          "id": "Kurdamir",
+          "it": "distretto di Kürdəmir",
+          "ja": "キュルダミル県",
+          "ko": "퀴르데미르 구",
+          "nl": "Kürdəmir",
+          "pl": "Rejon Kürdəmir",
+          "pt": "Kurdamir",
+          "ru": "Кюрдамирский район",
+          "sv": "Kürdämir",
+          "tr": "Kürdemir Rayonu",
+          "vi": "Kyurdamir",
+          "zh": "丘爾達米爾區"
+        },
+        "population": 113572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6935,
+          40.245999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-zar",
+        "area": 0.14529000000000095,
+        "bounding_box": [
+          47.443,
+          40.101,
+          47.944,
+          40.391
+        ],
+        "point": [
+          47.6935,
+          40.245999999999995
+        ],
+        "labels": {
+          "alt": "Zardab",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة زارداب",
+          "bn": "জারডাব জেলা",
+          "de": "Zərdab",
+          "en": "Zardab District",
+          "es": "Zərdab",
+          "fr": "Zərdab",
+          "el": "Ζάρνταμπ",
+          "hi": "ज़ारदब जिला",
+          "hu": null,
+          "id": "Zardab",
+          "it": "distretto di Zərdab",
+          "ja": "ザルダブ県",
+          "ko": "제르다프 구",
+          "nl": "Zərdab",
+          "pl": "Rejon Zərdab",
+          "pt": "Zardab",
+          "ru": "Зардобский район",
+          "sv": "Zärdab",
+          "tr": "Zerdab Rayonu",
+          "vi": "Zerdab",
+          "zh": "扎爾多布區"
+        },
+        "population": 50764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.620999999999995,
+          39.872
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sab",
+        "area": 0.394743999999996,
+        "bounding_box": [
+          48.25,
+          39.606,
+          48.992,
+          40.138
+        ],
+        "point": [
+          48.620999999999995,
+          39.872
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة صابرآباد",
+          "bn": "সাবিরাবাদ জেলা",
+          "de": "Sabirabad",
+          "en": "Sabirabad District",
+          "es": "Sabirabad",
+          "fr": "Sabirabad",
+          "el": "Σαμπιραμπάντ",
+          "hi": "सबीराबाद जिला",
+          "hu": null,
+          "id": "Sabirabad",
+          "it": "distretto di Sabirabad",
+          "ja": "サビラバド県",
+          "ko": "사비라바트 구",
+          "nl": "Sabirabad",
+          "pl": "Rejon Sabirabad",
+          "pt": "Sabirabad",
+          "ru": "Сабирабадский район",
+          "sv": "Sabirabad Rayonu",
+          "tr": "Sabirabad Rayonu",
+          "vi": "Sabirabad",
+          "zh": "薩比拉巴德區"
+        },
+        "population": 179478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.915,
+          39.944
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sr",
+        "area": 0.006840000000000305,
+        "bounding_box": [
+          48.87,
+          39.906,
+          48.96,
+          39.982
+        ],
+        "point": [
+          48.915,
+          39.944
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "شيروان",
+          "bn": null,
+          "de": "Şirvan",
+          "en": "Shirvan",
+          "es": "Shirvan",
+          "fr": "Şirvan",
+          "el": "Σιρβάν",
+          "hi": null,
+          "hu": null,
+          "id": "Shirvan",
+          "it": "Şirvan",
+          "ja": "シルヴァン",
+          "ko": "시르반",
+          "nl": "Şirvan",
+          "pl": "Szyrwan",
+          "pt": "Shirvan",
+          "ru": "Ширван",
+          "sv": "Shirvan",
+          "tr": "Şirvan",
+          "vi": null,
+          "zh": "希爾萬"
+        },
+        "population": 89331
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.459500000000006,
+          39.807500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-sat",
+        "area": 0.18826499999999796,
+        "bounding_box": [
+          48.215,
+          39.615,
+          48.704,
+          40.0
+        ],
+        "point": [
+          48.459500000000006,
+          39.807500000000005
+        ],
+        "labels": {
+          "alt": "Saatly",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة ساتلي",
+          "bn": "সাটলি জেলা",
+          "de": "Saatlı",
+          "en": "Saatly District",
+          "es": "Saatlı",
+          "fr": "Saatlı",
+          "el": "Σαάτλι",
+          "hi": "सातली जिला",
+          "hu": null,
+          "id": "Saatly",
+          "it": "distretto di Saatlı",
+          "ja": "サアトル",
+          "ko": "사틀르 구",
+          "nl": "Saatlı",
+          "pl": "Rejon Saatlı",
+          "pt": "Saatly",
+          "ru": "Саатлинский район",
+          "sv": "Saatlı Rayonu",
+          "tr": "Saatlı Rayonu",
+          "vi": "Saatly",
+          "zh": "薩特雷區"
+        },
+        "population": 104904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2265,
+          40.3625
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-bar",
+        "area": 0.20651500000000195,
+        "bounding_box": [
+          46.969,
+          40.162,
+          47.484,
+          40.563
+        ],
+        "point": [
+          47.2265,
+          40.3625
+        ],
+        "labels": {
+          "alt": "Barda",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة بردع",
+          "bn": "বারদা জেলা",
+          "de": "Bərdə",
+          "en": "Barda District",
+          "es": "Bərdə",
+          "fr": "Bərdə",
+          "el": "Μπάρντα",
+          "hi": "बर्दा जिला",
+          "hu": null,
+          "id": "Barda",
+          "it": "distretto di Bərdə",
+          "ja": "バルダ県",
+          "ko": "베르데 구",
+          "nl": "Bərdə",
+          "pl": "Rejon Bərdə",
+          "pt": "Barda",
+          "ru": "Бардинский район",
+          "sv": "Bərdə Rayonu",
+          "tr": "Berde Rayonu",
+          "vi": "Barda",
+          "zh": "巴爾達區"
+        },
+        "population": 174351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0165,
+          40.847
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-skr",
+        "area": 0.34046000000000093,
+        "bounding_box": [
+          45.723,
+          40.557,
+          46.31,
+          41.137
+        ],
+        "point": [
+          46.0165,
+          40.847
+        ],
+        "labels": {
+          "alt": "Shamkir",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة شمكير",
+          "bn": "শামকির জেলা",
+          "de": "Şəmkir",
+          "en": "Shamkir District",
+          "es": "Şəmkir",
+          "fr": "Şəmkir",
+          "el": "Επαρχία Σαμκίρ",
+          "hi": "शामकीर जिला",
+          "hu": "Şəmkiri járás",
+          "id": "Shamkir",
+          "it": "distretto di Şəmkir",
+          "ja": "シャムキル県",
+          "ko": "솀키르 구",
+          "nl": "Şəmkir",
+          "pl": "Rejon Şəmkir",
+          "pt": "Shamkir",
+          "ru": "Шамкирский район",
+          "sv": "Sjämkir",
+          "tr": "Şemkir Rayonu",
+          "vi": "Shamkir",
+          "zh": "沙姆基爾區"
+        },
+        "population": 214321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.366,
+          40.536
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-agu",
+        "area": 0.2951520000000004,
+        "bounding_box": [
+          48.08,
+          40.278,
+          48.652,
+          40.794
+        ],
+        "point": [
+          48.366,
+          40.536
+        ],
+        "labels": {
+          "alt": "Agsu",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة أقسو",
+          "bn": "আগসো জেলা",
+          "de": "Ağsu",
+          "en": "Agsu District",
+          "es": "Ağsu",
+          "fr": "Ağsu",
+          "el": "Άγκσου",
+          "hi": "एग्सू जिला",
+          "hu": null,
+          "id": "Agsu",
+          "it": "distretto di Ağsu",
+          "ja": "アグス県",
+          "ko": "아흐수 구",
+          "nl": "Ağsu",
+          "pl": "Rejon Ağsu",
+          "pt": "Agsu",
+          "ru": "Ахсуйский район",
+          "sv": "Ağsu Rayonu",
+          "tr": "Ağsu Rayonu",
+          "vi": "Aghsu",
+          "zh": "阿赫蘇區"
+        },
+        "population": 81796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5985,
+          40.608000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-smi",
+        "area": 0.2849199999999978,
+        "bounding_box": [
+          48.389,
+          40.268,
+          48.808,
+          40.948
+        ],
+        "point": [
+          48.5985,
+          40.608000000000004
+        ],
+        "labels": {
+          "alt": "Shamakhi",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة شاماخي",
+          "bn": null,
+          "de": "Şamaxı",
+          "en": "Shamakhi District",
+          "es": "Şamaxı",
+          "fr": "Şamaxı",
+          "el": null,
+          "hi": null,
+          "hu": "Şamaxı járás",
+          "id": "Shamakhi",
+          "it": "distretto di Şamaxı",
+          "ja": "シャマフ県",
+          "ko": "샤마흐 구",
+          "nl": "Şamaxı",
+          "pl": "Rejon Şamaxı",
+          "pt": "Shamakhi",
+          "ru": "Шемахинский район",
+          "sv": "Sjamachy",
+          "tr": "Şamahı Rayonu",
+          "vi": "Shamakhy",
+          "zh": "沙馬基區"
+        },
+        "population": 107462
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3365,
+          41.189
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-qba",
+        "area": 0.48274799999999374,
+        "bounding_box": [
+          47.926,
+          40.895,
+          48.747,
+          41.483
+        ],
+        "point": [
+          48.3365,
+          41.189
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "قوبا",
+          "bn": "কোবা জেলা",
+          "de": "Quba",
+          "en": "Quba District",
+          "es": "Quba",
+          "fr": "Quba",
+          "el": "Κούμπα",
+          "hi": "क्यूबा जिला",
+          "hu": "Qubai járás",
+          "id": "Quba",
+          "it": "distretto di Quba",
+          "ja": "クバ県",
+          "ko": "구바 구",
+          "nl": "Quba",
+          "pl": "Rejon Quba",
+          "pt": "Quba",
+          "ru": "Кубинский район",
+          "sv": "Quba Rayonu",
+          "tr": "Kuba Rayonu",
+          "vi": "Guba",
+          "zh": "庫巴區"
+        },
+        "population": 168707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.729,
+          40.408500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-uca",
+        "area": 0.12302399999999811,
+        "bounding_box": [
+          47.465,
+          40.292,
+          47.993,
+          40.525
+        ],
+        "point": [
+          47.729,
+          40.408500000000004
+        ],
+        "labels": {
+          "alt": "Ujar",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة أويار",
+          "bn": "উজার জেলা",
+          "de": "Ucar",
+          "en": "Ujar District",
+          "es": "Ucar",
+          "fr": "Ucar",
+          "el": "Ούτζαρ",
+          "hi": "उजर जिला",
+          "hu": null,
+          "id": "Ujar",
+          "it": "distretto di Ucar",
+          "ja": "ウジャル県",
+          "ko": "우자르 구",
+          "nl": "Ucar",
+          "pl": "Rejon Ucar",
+          "pt": "Ujar",
+          "ru": "Уджарский район",
+          "sv": "Udzjar",
+          "tr": "Ucar Rayonu",
+          "vi": "Ujar",
+          "zh": "烏賈雷區"
+        },
+        "population": 85999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9855,
+          40.527
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-qob",
+        "area": 0.26084999999999925,
+        "bounding_box": [
+          48.708,
+          40.292,
+          49.263,
+          40.762
+        ],
+        "point": [
+          48.9855,
+          40.527
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة غوبوستان",
+          "bn": "গোবুস্তান জেলা",
+          "de": "Qobustan",
+          "en": "Gobustan District",
+          "es": "Qobustan",
+          "fr": "Qobustan",
+          "el": "Γκομπουστάν",
+          "hi": "गोबस्टन जिला",
+          "hu": null,
+          "id": "Qobustan",
+          "it": "distretto di Qobustan",
+          "ja": "ゴブスタン県",
+          "ko": "고부스탄 구",
+          "nl": "Qobustan",
+          "pl": "Rejon Qobustan",
+          "pt": "Gobustão",
+          "ru": "Гобустанский район",
+          "sv": "Qobustan Rayonu",
+          "tr": "Kobustan Rayonu",
+          "vi": "Gobustan",
+          "zh": "戈布斯坦區"
+        },
+        "population": 43916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1125,
+          40.788
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-ism",
+        "area": 0.41855000000000475,
+        "bounding_box": [
+          47.732,
+          40.513,
+          48.493,
+          41.063
+        ],
+        "point": [
+          48.1125,
+          40.788
+        ],
+        "labels": {
+          "alt": "Ismailli",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة إسمايلي",
+          "bn": "ইসমাইলি জেলা",
+          "de": "İsmayıllı",
+          "en": "Ismailli District",
+          "es": "İsmayıllı",
+          "fr": "Ismailli",
+          "el": "Ισμαΐλι",
+          "hi": "इस्माइलि जिला",
+          "hu": "İsmayıllı járás",
+          "id": "Ismailli",
+          "it": "distretto di İsmayıllı",
+          "ja": "イスマイル県",
+          "ko": "이스마이을르 구",
+          "nl": "İsmayıllı",
+          "pl": "Rejon İsmayıllı",
+          "pt": "Ismailli",
+          "ru": "Исмаиллинский район",
+          "sv": "Ismajylly",
+          "tr": "İsmayıllı Rayonu",
+          "vi": "Ismailly",
+          "zh": "伊斯梅爾雷區"
+        },
+        "population": 88357
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.997,
+          40.691
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-yev",
+        "area": 0.2926000000000003,
+        "bounding_box": [
+          46.731,
+          40.416,
+          47.263,
+          40.966
+        ],
+        "point": [
+          46.997,
+          40.691
+        ],
+        "labels": {
+          "alt": "Yevlakh",
+          "local": null,
+          "len": 13,
+          "ar": "مقاطعة يفلاخ",
+          "bn": "ইয়েভ্লাক জেলা",
+          "de": "Yevlax",
+          "en": "Yevlakh District",
+          "es": "Yevlax",
+          "fr": "Yevlax",
+          "el": "Γιεβλάκ",
+          "hi": "यवलाख जिला",
+          "hu": null,
+          "id": "Yevlakh",
+          "it": "distretto di Yevlax",
+          "ja": "イェヴラフ県",
+          "ko": "예블라흐 구",
+          "nl": "Yevlax",
+          "pl": "Rejon Yevlax",
+          "pt": "Yevlakh",
+          "ru": "Евлахский район",
+          "sv": "Yevlakh",
+          "tr": "Yevlah Rayonu",
+          "vi": "Yevlakh",
+          "zh": "葉夫拉赫區"
+        },
+        "population": 216118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.147999999999996,
+          40.6045
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-yev",
+        "area": 0.005658000000000265,
+        "bounding_box": [
+          47.107,
+          40.57,
+          47.189,
+          40.639
+        ],
+        "point": [
+          47.147999999999996,
+          40.6045
+        ],
+        "labels": {
+          "alt": "Yevlakh",
+          "local": null,
+          "len": 13,
+          "ar": "مقاطعة يفلاخ",
+          "bn": "ইয়েভ্লাক জেলা",
+          "de": "Yevlax",
+          "en": "Yevlakh District",
+          "es": "Yevlax",
+          "fr": "Yevlax",
+          "el": "Γιεβλάκ",
+          "hi": "यवलाख जिला",
+          "hu": null,
+          "id": "Yevlakh",
+          "it": "distretto di Yevlax",
+          "ja": "イェヴラフ県",
+          "ko": "예블라흐 구",
+          "nl": "Yevlax",
+          "pl": "Rejon Yevlax",
+          "pt": "Yevlakh",
+          "ru": "Евлахский район",
+          "sv": "Yevlakh",
+          "tr": "Yevlah Rayonu",
+          "vi": "Yevlakh",
+          "zh": "葉夫拉赫區"
+        },
+        "population": 216118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.355000000000004,
+          40.674
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-ga",
+        "area": 0.011628000000000157,
+        "bounding_box": [
+          46.298,
+          40.623,
+          46.412,
+          40.725
+        ],
+        "point": [
+          46.355000000000004,
+          40.674
+        ],
+        "labels": {
+          "alt": "Ganja city",
+          "local": null,
+          "len": 5,
+          "ar": "غنجة",
+          "bn": "গাঞ্জা",
+          "de": "Gəncə",
+          "en": "Ganja",
+          "es": "Ganja",
+          "fr": "Gəncə",
+          "el": "Γκαντζά",
+          "hi": "गांजा",
+          "hu": "Gəncə",
+          "id": "Ganja",
+          "it": "Gäncä",
+          "ja": "ギャンジャ",
+          "ko": "간자",
+          "nl": "Gəncə",
+          "pl": "Gandża",
+          "pt": "Ganja",
+          "ru": "Гянджа",
+          "sv": "Gəncə",
+          "tr": "Gence",
+          "vi": "Ganca",
+          "zh": "占贾"
+        },
+        "population": 241054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.955,
+          40.7475
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-mi",
+        "area": 0.003060000000000019,
+        "bounding_box": [
+          46.921,
+          40.725,
+          46.989,
+          40.77
+        ],
+        "point": [
+          46.955,
+          40.7475
+        ],
+        "labels": {
+          "alt": "Mingachevir",
+          "local": null,
+          "len": 10,
+          "ar": "مينجا تشيفير",
+          "bn": "মিঙ্গাচেভির",
+          "de": "Mingəçevir",
+          "en": "Mingachevir",
+          "es": "Mingachevir",
+          "fr": "Mingachevir",
+          "el": "Μινγκατσεβίρ",
+          "hi": "मिंगाशेवीर",
+          "hu": null,
+          "id": "Mingachevir",
+          "it": "Mingəçevir",
+          "ja": "ミンゲチェヴィル",
+          "ko": "밍개체비르",
+          "nl": "Mingəçevir",
+          "pl": "Mingeczaur",
+          "pt": "Mingachevir",
+          "ru": "Мингечевир",
+          "sv": "Mingetjaur",
+          "tr": "Mingeçevir",
+          "vi": "Mingachevir",
+          "zh": "明盖恰乌尔"
+        },
+        "population": 11933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.817,
+          40.558499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-goy",
+        "area": 0.10764599999999938,
+        "bounding_box": [
+          47.586,
+          40.442,
+          48.048,
+          40.675
+        ],
+        "point": [
+          47.817,
+          40.558499999999995
+        ],
+        "labels": {
+          "alt": "Goychay",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة غويتشاي",
+          "bn": "গয়চা",
+          "de": "Göyçay",
+          "en": "Goychay",
+          "es": "Göyçay",
+          "fr": "Göyçay",
+          "el": "Γκοϊτσάι",
+          "hi": "गोएचाए",
+          "hu": null,
+          "id": "Goychay",
+          "it": "distretto di Göyçay",
+          "ja": "ギョイチャイ県",
+          "ko": "괴이차이 구",
+          "nl": "Göyçay",
+          "pl": "Rejon Göyçay",
+          "pt": "Goychay",
+          "ru": "Гёйчайский район",
+          "sv": "Göjtjaj",
+          "tr": "Göyçay Rayonu",
+          "vi": "Goychay",
+          "zh": "蓋奧克恰伊區"
+        },
+        "population": 114619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4135,
+          40.5435
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-ags",
+        "area": 0.20180100000000054,
+        "bounding_box": [
+          47.208,
+          40.298,
+          47.619,
+          40.789
+        ],
+        "point": [
+          47.4135,
+          40.5435
+        ],
+        "labels": {
+          "alt": "Agdash",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة آقداش",
+          "bn": "আগডাস জেলা",
+          "de": "Ağdaş",
+          "en": "Agdash District",
+          "es": "Ağdaş",
+          "fr": "Ağdaş",
+          "el": "Αγκντάς",
+          "hi": "एगडैश जिला",
+          "hu": "Ağdaşi járás",
+          "id": "Agdash",
+          "it": "distretto di Ağdaş",
+          "ja": "アグダシュ県",
+          "ko": "아그다슈 구",
+          "nl": "Ağdaş",
+          "pl": "Rejon Ağdaş",
+          "pt": "Agdash",
+          "ru": "Агдашский район",
+          "sv": "Aghdasj",
+          "tr": "Ağdaş Rayonu",
+          "vi": "Aghdash",
+          "zh": "阿格達什區"
+        },
+        "population": 99534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4255,
+          39.980999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-agc",
+        "area": 0.36199799999999777,
+        "bounding_box": [
+          47.094,
+          39.708,
+          47.757,
+          40.254
+        ],
+        "point": [
+          47.4255,
+          39.980999999999995
+        ],
+        "labels": {
+          "alt": "Agjabadi",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة آقجبدي",
+          "bn": "আগজাবাদি জেলা",
+          "de": "Ağcabədi",
+          "en": "Aghjabadi District",
+          "es": "Ağcabədi",
+          "fr": "Ağcabədi",
+          "el": "Αγκτζαμπάντι",
+          "hi": "एग्जाबेड़ी जिला",
+          "hu": "Ağcabədi járás",
+          "id": "Agjabadi",
+          "it": "distretto di Ağcabədi",
+          "ja": "アグジャバディ県",
+          "ko": "아그자베디 구",
+          "nl": "Ağcabədi",
+          "pl": "Rejon Ağcabədi",
+          "pt": "Aghjabadi",
+          "ru": "Агджабединский район",
+          "sv": "Ağcabədi",
+          "tr": "Ağcabedi Rayonu",
+          "vi": "Aghjabedi",
+          "zh": "阿格賈貝迪區"
+        },
+        "population": 149541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.772999999999996,
+          39.8315
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-xa",
+        "area": 0.004032000000000156,
+        "bounding_box": [
+          46.741,
+          39.8,
+          46.805,
+          39.863
+        ],
+        "point": [
+          46.772999999999996,
+          39.8315
+        ],
+        "labels": {
+          "alt": "Khojali",
+          "local": null,
+          "len": 11,
+          "ar": "سيتباناكيرت",
+          "bn": "স্টেপানাকেট",
+          "de": "Stepanakert",
+          "en": "Stepanakert",
+          "es": "Stepanakert",
+          "fr": "Stepanakert",
+          "el": "Στεπανακέρτ",
+          "hi": "सटेपणाकेर्ट",
+          "hu": "Sztepanakert",
+          "id": "Stepanakert",
+          "it": "Step'anakert",
+          "ja": "ステパナケルト",
+          "ko": "스테파나케르트",
+          "nl": "Stepanakert",
+          "pl": "Stepanakert",
+          "pt": "Stepanakert",
+          "ru": "Степанакерт",
+          "sv": "Stepanakert",
+          "tr": "Hankendi",
+          "vi": "Khankendy",
+          "zh": "斯捷潘納克特"
+        },
+        "population": 4176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.826,
+          40.508
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "az",
+        "region_child": "az-na",
+        "area": 0.0006720000000001647,
+        "bounding_box": [
+          46.812,
+          40.496,
+          46.84,
+          40.52
+        ],
+        "point": [
+          46.826,
+          40.508
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": null,
+          "bn": null,
+          "de": "Naftalan",
+          "en": "Naftalan",
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": "Naftalan Şəhəri",
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 1454
+      }
+    }
+  ]
+}

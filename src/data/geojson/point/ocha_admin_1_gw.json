@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.703,
+          12.136500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw01",
+        "area": 0.7862580000000011,
+        "bounding_box": [
+          -15.066,
+          11.595,
+          -14.34,
+          12.678
+        ],
+        "point": [
+          -14.703,
+          12.136500000000002
+        ],
+        "labels": {
+          "en": "Bafata"
+        },
+        "population": 246252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.7915,
+          11.8845
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw02",
+        "area": 0.10216299999999949,
+        "bounding_box": [
+          -15.972,
+          11.743,
+          -15.611,
+          12.026
+        ],
+        "point": [
+          -15.7915,
+          11.8845
+        ],
+        "labels": {
+          "en": "Biombo"
+        },
+        "population": 132644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.6085,
+          11.8655
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw08",
+        "area": 0.014714999999999975,
+        "bounding_box": [
+          -15.663,
+          11.798,
+          -15.554,
+          11.933
+        ],
+        "point": [
+          -15.6085,
+          11.8655
+        ],
+        "labels": {
+          "en": "Bissau"
+        },
+        "population": 461154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.148,
+          11.1105
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.0370260000000003,
+        "bounding_box": [
+          -16.247,
+          11.017,
+          -16.049,
+          11.204
+        ],
+        "point": [
+          -16.148,
+          11.1105
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.722000000000001,
+          11.236
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.01760800000000023,
+        "bounding_box": [
+          -15.784,
+          11.165,
+          -15.66,
+          11.307
+        ],
+        "point": [
+          -15.722000000000001,
+          11.236
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.331,
+          11.5425
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.016236000000000177,
+        "bounding_box": [
+          -16.413,
+          11.493,
+          -16.249,
+          11.592
+        ],
+        "point": [
+          -16.331,
+          11.5425
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.399000000000001,
+          11.628
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.015456000000000003,
+        "bounding_box": [
+          -15.468,
+          11.572,
+          -15.33,
+          11.684
+        ],
+        "point": [
+          -15.399000000000001,
+          11.628
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.996,
+          11.474
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.014276000000000082,
+        "bounding_box": [
+          -16.079,
+          11.431,
+          -15.913,
+          11.517
+        ],
+        "point": [
+          -15.996,
+          11.474
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.557500000000001,
+          11.5565
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.014231000000000006,
+        "bounding_box": [
+          -15.624,
+          11.503,
+          -15.491,
+          11.61
+        ],
+        "point": [
+          -15.557500000000001,
+          11.5565
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.936,
+          11.1235
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.012502000000000076,
+        "bounding_box": [
+          -15.983,
+          11.057,
+          -15.889,
+          11.19
+        ],
+        "point": [
+          -15.936,
+          11.1235
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.020500000000002,
+          11.1385
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.011837000000000134,
+        "bounding_box": [
+          -16.065,
+          11.072,
+          -15.976,
+          11.205
+        ],
+        "point": [
+          -16.020500000000002,
+          11.1385
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.235,
+          11.4875
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.010530000000000088,
+        "bounding_box": [
+          -16.3,
+          11.447,
+          -16.17,
+          11.528
+        ],
+        "point": [
+          -16.235,
+          11.4875
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.213,
+          11.2575
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.009960000000000104,
+        "bounding_box": [
+          -16.273,
+          11.216,
+          -16.153,
+          11.299
+        ],
+        "point": [
+          -16.213,
+          11.2575
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.8725,
+          11.251999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.007349999999999987,
+        "bounding_box": [
+          -15.91,
+          11.203,
+          -15.835,
+          11.301
+        ],
+        "point": [
+          -15.8725,
+          11.251999999999999
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.075499999999998,
+          11.3205
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw03",
+        "area": 0.0044550000000000015,
+        "bounding_box": [
+          -16.125,
+          11.298,
+          -16.026,
+          11.343
+        ],
+        "point": [
+          -16.075499999999998,
+          11.3205
+        ],
+        "labels": {
+          "en": "Bolama/Bijagos"
+        },
+        "population": 25310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.0995,
+          12.195
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw04",
+        "area": 0.7817839999999997,
+        "bounding_box": [
+          -16.718,
+          11.879,
+          -15.481,
+          12.511
+        ],
+        "point": [
+          -16.0995,
+          12.195
+        ],
+        "labels": {
+          "en": "Cacheu"
+        },
+        "population": 210712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.0715,
+          11.8265
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw04",
+        "area": 0.01667700000000005,
+        "bounding_box": [
+          -16.148,
+          11.772,
+          -15.995,
+          11.881
+        ],
+        "point": [
+          -16.0715,
+          11.8265
+        ],
+        "labels": {
+          "en": "Cacheu"
+        },
+        "population": 210712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.287,
+          11.9065
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw04",
+        "area": 0.01362399999999992,
+        "bounding_box": [
+          -16.339,
+          11.841,
+          -16.235,
+          11.972
+        ],
+        "point": [
+          -16.287,
+          11.9065
+        ],
+        "labels": {
+          "en": "Cacheu"
+        },
+        "population": 210712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.1,
+          12.1175
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw05",
+        "area": 1.0317180000000004,
+        "bounding_box": [
+          -14.561,
+          11.558,
+          -13.639,
+          12.677
+        ],
+        "point": [
+          -14.1,
+          12.1175
+        ],
+        "labels": {
+          "en": "Gabu"
+        },
+        "population": 268637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.3025,
+          12.288
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw06",
+        "area": 0.7144739999999987,
+        "bounding_box": [
+          -15.757,
+          11.895,
+          -14.848,
+          12.681
+        ],
+        "point": [
+          -15.3025,
+          12.288
+        ],
+        "labels": {
+          "en": "Oio"
+        },
+        "population": 284109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.199,
+          11.6335
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw07",
+        "area": 0.4350320000000003,
+        "bounding_box": [
+          -15.555,
+          11.328,
+          -14.843,
+          11.939
+        ],
+        "point": [
+          -15.199,
+          11.6335
+        ],
+        "labels": {
+          "en": "Quinara"
+        },
+        "population": 71158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.917000000000002,
+          11.311499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gw",
+        "region_child": "gw09",
+        "area": 0.7879619999999992,
+        "bounding_box": [
+          -15.428,
+          10.926,
+          -14.406,
+          11.697
+        ],
+        "point": [
+          -14.917000000000002,
+          11.311499999999999
+        ],
+        "labels": {
+          "en": "Tombali"
+        },
+        "population": 102761
+      }
+    }
+  ]
+}

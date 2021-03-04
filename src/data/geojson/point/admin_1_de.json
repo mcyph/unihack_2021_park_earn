@@ -1,0 +1,1277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.462,
+          50.916
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-sn",
+        "area": 4.69591200000001,
+        "bounding_box": [
+          11.905,
+          50.162,
+          15.019,
+          51.67
+        ],
+        "point": [
+          13.462,
+          50.916
+        ],
+        "labels": {
+          "alt": "Saxony",
+          "local": null,
+          "len": 7,
+          "ar": "ساكسونيا",
+          "bn": "জ্যাক্সোনি",
+          "de": "Sachsen",
+          "en": "Saxony",
+          "es": "Sajonia",
+          "fr": "Saxe",
+          "el": "Σαξωνία",
+          "hi": "सैक्सोनी",
+          "hu": "Szászország",
+          "id": "Sachsen",
+          "it": "Sassonia",
+          "ja": "ザクセン州",
+          "ko": "작센 주",
+          "nl": "Saksen",
+          "pl": "Saksonia",
+          "pt": "Saxónia",
+          "ru": "Саксония",
+          "sv": "Sachsen",
+          "tr": "Saksonya",
+          "vi": "Sachsen",
+          "zh": "萨克森自由州"
+        },
+        "population": 3726796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.413,
+          48.9135
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-by",
+        "area": 15.778098000000009,
+        "bounding_box": [
+          9.01,
+          47.272,
+          13.816,
+          50.555
+        ],
+        "point": [
+          11.413,
+          48.9135
+        ],
+        "labels": {
+          "alt": "Bavaria",
+          "local": null,
+          "len": 6,
+          "ar": "بافاريا",
+          "bn": "বাভারিয়া",
+          "de": "Bayern",
+          "en": "Bavaria",
+          "es": "Baviera",
+          "fr": "Bavière",
+          "el": "Βαυαρία",
+          "hi": "बायर्न",
+          "hu": "Bajorország",
+          "id": "Bayern",
+          "it": "Baviera",
+          "ja": "バイエルン自由州",
+          "ko": "바이에른 주",
+          "nl": "Beieren",
+          "pl": "Bawaria",
+          "pt": "Baviera",
+          "ru": "Бавария",
+          "sv": "Bayern",
+          "tr": "Bavyera",
+          "vi": "Bayern",
+          "zh": "巴伐利亚"
+        },
+        "population": 12463723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.297,
+          49.94
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-rp",
+        "area": 4.717527999999995,
+        "bounding_box": [
+          6.096,
+          48.958,
+          8.498,
+          50.922
+        ],
+        "point": [
+          7.297,
+          49.94
+        ],
+        "labels": {
+          "alt": "Rhineland-Palatinate",
+          "local": null,
+          "len": 15,
+          "ar": "راينلند بالاتينات",
+          "bn": "রিনেল্যান্ড-প্যালাটিনাটা",
+          "de": "Rheinland-Pfalz",
+          "en": "Rhineland-Palatinate",
+          "es": "Renania-Palatinado",
+          "fr": "Rhénanie-Palatinat",
+          "el": "Ρηνανία-Παλατινάτο",
+          "hi": "राइनलैन्ड",
+          "hu": "Rajna-vidék–Pfalz",
+          "id": "Rheinland-Pfalz",
+          "it": "Renania-Palatinato",
+          "ja": "ラインラント＝プファルツ州",
+          "ko": "라인란트팔츠 주",
+          "nl": "Rijnland-Palts",
+          "pl": "Nadrenia-Palatynat",
+          "pt": "Renânia-Palatinado",
+          "ru": "Рейнланд-Пфальц",
+          "sv": "Rheinland-Pfalz",
+          "tr": "Renanya-Palatina",
+          "vi": "Rheinland-Pfalz",
+          "zh": "莱茵兰－普法尔茨"
+        },
+        "population": 4032745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.865,
+          49.3675
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-sl",
+        "area": 0.543919999999996,
+        "bounding_box": [
+          6.345,
+          49.106,
+          7.385,
+          49.629
+        ],
+        "point": [
+          6.865,
+          49.3675
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "سارلاند",
+          "bn": "জারল্যান্ড",
+          "de": "Saarland",
+          "en": "Saarland",
+          "es": "Sarre",
+          "fr": "Sarre",
+          "el": "Σάαρλαντ",
+          "hi": "सारलैंड",
+          "hu": "Saar-vidék",
+          "id": "Saarland",
+          "it": "Saarland",
+          "ja": "ザールラント州",
+          "ko": "자를란트 주",
+          "nl": "Saarland",
+          "pl": "Saara",
+          "pt": "Sarre",
+          "ru": "Саар",
+          "sv": "Saarland",
+          "tr": "Saarland",
+          "vi": "Saarland",
+          "zh": "萨尔"
+        },
+        "population": 969994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8485,
+          54.138999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-sh",
+        "area": 3.8211939999999966,
+        "bounding_box": [
+          8.603,
+          53.372,
+          11.094,
+          54.906
+        ],
+        "point": [
+          9.8485,
+          54.138999999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 18,
+          "ar": "شليسفيغ هولشتاين",
+          "bn": "শ্লেসভিগ-হোলস্টাইন",
+          "de": "Schleswig-Holstein",
+          "en": "Schleswig-Holstein",
+          "es": "Schleswig-Holstein",
+          "fr": "Schleswig-Holstein",
+          "el": "Σλέσβιχ-Χόλσταϊν",
+          "hi": "श्लेसविग-होल्सटीन",
+          "hu": "Schleswig-Holstein",
+          "id": "Schleswig-Holstein",
+          "it": "Schleswig-Holstein",
+          "ja": "シュレースヴィヒ＝ホルシュタイン州",
+          "ko": "슐레스비히홀슈타인 주",
+          "nl": "Sleeswijk-Holstein",
+          "pl": "Szlezwik-Holsztyn",
+          "pt": "Schleswig-Holstein",
+          "ru": "Шлезвиг-Гольштейн",
+          "sv": "Schleswig-Holstein",
+          "tr": "Schleswig-Holstein",
+          "vi": "Schleswig-Holstein",
+          "zh": "石勒苏益格-荷尔斯泰因"
+        },
+        "population": 2724855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.16,
+          54.475
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-sh",
+        "area": 0.03757599999999994,
+        "bounding_box": [
+          11.006,
+          54.414,
+          11.314,
+          54.536
+        ],
+        "point": [
+          11.16,
+          54.475
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 18,
+          "ar": "شليسفيغ هولشتاين",
+          "bn": "শ্লেসভিগ-হোলস্টাইন",
+          "de": "Schleswig-Holstein",
+          "en": "Schleswig-Holstein",
+          "es": "Schleswig-Holstein",
+          "fr": "Schleswig-Holstein",
+          "el": "Σλέσβιχ-Χόλσταϊν",
+          "hi": "श्लेसविग-होल्सटीन",
+          "hu": "Schleswig-Holstein",
+          "id": "Schleswig-Holstein",
+          "it": "Schleswig-Holstein",
+          "ja": "シュレースヴィヒ＝ホルシュタイン州",
+          "ko": "슐레스비히홀슈타인 주",
+          "nl": "Sleeswijk-Holstein",
+          "pl": "Szlezwik-Holsztyn",
+          "pt": "Schleswig-Holstein",
+          "ru": "Шлезвиг-Гольштейн",
+          "sv": "Schleswig-Holstein",
+          "tr": "Schleswig-Holstein",
+          "vi": "Schleswig-Holstein",
+          "zh": "石勒苏益格-荷尔斯泰因"
+        },
+        "population": 2724855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.494499999999999,
+          54.722
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-sh",
+        "area": 0.01353199999999956,
+        "bounding_box": [
+          8.395,
+          54.688,
+          8.594,
+          54.756
+        ],
+        "point": [
+          8.494499999999999,
+          54.722
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 18,
+          "ar": "شليسفيغ هولشتاين",
+          "bn": "শ্লেসভিগ-হোলস্টাইন",
+          "de": "Schleswig-Holstein",
+          "en": "Schleswig-Holstein",
+          "es": "Schleswig-Holstein",
+          "fr": "Schleswig-Holstein",
+          "el": "Σλέσβιχ-Χόλσταϊν",
+          "hi": "श्लेसविग-होल्सटीन",
+          "hu": "Schleswig-Holstein",
+          "id": "Schleswig-Holstein",
+          "it": "Schleswig-Holstein",
+          "ja": "シュレースヴィヒ＝ホルシュタイン州",
+          "ko": "슐레스비히홀슈타인 주",
+          "nl": "Sleeswijk-Holstein",
+          "pl": "Szlezwik-Holsztyn",
+          "pt": "Schleswig-Holstein",
+          "ru": "Шлезвиг-Гольштейн",
+          "sv": "Schleswig-Holstein",
+          "tr": "Schleswig-Holstein",
+          "vi": "Schleswig-Holstein",
+          "zh": "石勒苏益格-荷尔斯泰因"
+        },
+        "population": 2724855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.333,
+          54.907
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-sh",
+        "area": 0.007216000000000144,
+        "bounding_box": [
+          8.289,
+          54.866,
+          8.377,
+          54.948
+        ],
+        "point": [
+          8.333,
+          54.907
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 18,
+          "ar": "شليسفيغ هولشتاين",
+          "bn": "শ্লেসভিগ-হোলস্টাইন",
+          "de": "Schleswig-Holstein",
+          "en": "Schleswig-Holstein",
+          "es": "Schleswig-Holstein",
+          "fr": "Schleswig-Holstein",
+          "el": "Σλέσβιχ-Χόλσταϊν",
+          "hi": "श्लेसविग-होल्सटीन",
+          "hu": "Schleswig-Holstein",
+          "id": "Schleswig-Holstein",
+          "it": "Schleswig-Holstein",
+          "ja": "シュレースヴィヒ＝ホルシュタイン州",
+          "ko": "슐레스비히홀슈타인 주",
+          "nl": "Sleeswijk-Holstein",
+          "pl": "Szlezwik-Holsztyn",
+          "pt": "Schleswig-Holstein",
+          "ru": "Шлезвиг-Гольштейн",
+          "sv": "Schleswig-Holstein",
+          "tr": "Schleswig-Holstein",
+          "vi": "Schleswig-Holstein",
+          "zh": "石勒苏益格-荷尔斯泰因"
+        },
+        "population": 2724855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9035,
+          54.495000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-sh",
+        "area": 0.006901999999999966,
+        "bounding_box": [
+          8.844,
+          54.466,
+          8.963,
+          54.524
+        ],
+        "point": [
+          8.9035,
+          54.495000000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 18,
+          "ar": "شليسفيغ هولشتاين",
+          "bn": "শ্লেসভিগ-হোলস্টাইন",
+          "de": "Schleswig-Holstein",
+          "en": "Schleswig-Holstein",
+          "es": "Schleswig-Holstein",
+          "fr": "Schleswig-Holstein",
+          "el": "Σλέσβιχ-Χόλσταϊν",
+          "hi": "श्लेसविग-होल्सटीन",
+          "hu": "Schleswig-Holstein",
+          "id": "Schleswig-Holstein",
+          "it": "Schleswig-Holstein",
+          "ja": "シュレースヴィヒ＝ホルシュタイン州",
+          "ko": "슐레스비히홀슈타인 주",
+          "nl": "Sleeswijk-Holstein",
+          "pl": "Szlezwik-Holsztyn",
+          "pt": "Schleswig-Holstein",
+          "ru": "Шлезвиг-Гольштейн",
+          "sv": "Schleswig-Holstein",
+          "tr": "Schleswig-Holstein",
+          "vi": "Schleswig-Holstein",
+          "zh": "石勒苏益格-荷尔斯泰因"
+        },
+        "population": 2724855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1345,
+          52.6015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-ni",
+        "area": 12.589689000000002,
+        "bounding_box": [
+          6.688,
+          51.315,
+          11.581,
+          53.888
+        ],
+        "point": [
+          9.1345,
+          52.6015
+        ],
+        "labels": {
+          "alt": "Lower Saxony",
+          "local": null,
+          "len": 13,
+          "ar": "سكسونيا السفلى",
+          "bn": "নিডারজাখসেন",
+          "de": "Niedersachsen",
+          "en": "Lower Saxony",
+          "es": "Baja Sajonia",
+          "fr": "Basse-Saxe",
+          "el": "Κάτω Σαξωνία",
+          "hi": "निचला सैक्सोनी",
+          "hu": "Alsó-Szászország",
+          "id": "Niedersachsen",
+          "it": "Bassa Sassonia",
+          "ja": "ニーダーザクセン州",
+          "ko": "니더작센 주",
+          "nl": "Nedersaksen",
+          "pl": "Dolna Saksonia",
+          "pt": "Baixa Saxônia",
+          "ru": "Нижняя Саксония",
+          "sv": "Niedersachsen",
+          "tr": "Aşağı Saksonya",
+          "vi": "Niedersachsen",
+          "zh": "下萨克森"
+        },
+        "population": 7674652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6565,
+          51.423500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-nw",
+        "area": 7.943409000000002,
+        "bounding_box": [
+          5.852,
+          50.323,
+          9.461,
+          52.524
+        ],
+        "point": [
+          7.6565,
+          51.423500000000004
+        ],
+        "labels": {
+          "alt": "North Rhine-Westphalia",
+          "local": null,
+          "len": 19,
+          "ar": "شمال الراين-وستفاليا",
+          "bn": "নর্থ রিনে-ভেস্টফালিয়া",
+          "de": "Nordrhein-Westfalen",
+          "en": "North Rhine-Westphalia",
+          "es": "Renania del Norte-Westfalia",
+          "fr": "Rhénanie-du-Nord-Westphalie",
+          "el": "Βόρεια Ρηνανία-Βεστφαλία",
+          "hi": "उत्तरी राइन",
+          "hu": "Észak-Rajna-Vesztfália",
+          "id": "Nordrhein-Westfalen",
+          "it": "Renania Settentrionale-Vestfalia",
+          "ja": "ノルトライン＝ヴェストファーレン州",
+          "ko": "노르트라인베스트팔렌 주",
+          "nl": "Noordrijn-Westfalen",
+          "pl": "Nadrenia Północna-Westfalia",
+          "pt": "Renânia do Norte-Vestfália",
+          "ru": "Северный Рейн-Вестфалия",
+          "sv": "Nordrhein-Westfalen",
+          "tr": "Kuzey Ren-Vestfalya",
+          "vi": "Nordrhein-Westfalen",
+          "zh": "北莱茵－威斯特法伦"
+        },
+        "population": 17186669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9945,
+          48.664
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-bw",
+        "area": 6.661590000000002,
+        "bounding_box": [
+          7.522,
+          47.533,
+          10.467,
+          49.795
+        ],
+        "point": [
+          8.9945,
+          48.664
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 17,
+          "ar": "بادن-فورتمبيرغ",
+          "bn": "বাডেন-ভুর্টেমবার্গ",
+          "de": "Baden-Württemberg",
+          "en": "Baden-Württemberg",
+          "es": "Baden-Wurtemberg",
+          "fr": "Bade-Wurtemberg",
+          "el": "Βάδη-Βυρτεμβέργη",
+          "hi": "बेडन-वुर्टमबर्ग",
+          "hu": "Baden-Württemberg",
+          "id": "Baden-Württemberg",
+          "it": "Baden-Württemberg",
+          "ja": "バーデン＝ヴュルテンベルク州",
+          "ko": "바덴뷔르템베르크 주",
+          "nl": "Baden-Württemberg",
+          "pl": "Badenia-Wirtembergia",
+          "pt": "Baden-Württemberg",
+          "ru": "Баден-Вюртемберг",
+          "sv": "Baden-Württemberg",
+          "tr": "Baden-Württemberg",
+          "vi": "Baden-Württemberg",
+          "zh": "巴登－符腾堡"
+        },
+        "population": 10362955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.017499999999998,
+          52.428
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-bb",
+        "area": 7.531920000000013,
+        "bounding_box": [
+          11.274,
+          51.348,
+          14.761,
+          53.508
+        ],
+        "point": [
+          13.017499999999998,
+          52.428
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "براندنبورغ",
+          "bn": "ব্র্যান্ডেনবুর্গ",
+          "de": "Brandenburg",
+          "en": "Brandenburg",
+          "es": "Brandeburgo",
+          "fr": "Brandebourg",
+          "el": "Βραδεμβούργο",
+          "hi": "ब्रैंडेनबर्ग",
+          "hu": "Brandenburg",
+          "id": "Brandenburg",
+          "it": "Brandeburgo",
+          "ja": "ブランデンブルク州",
+          "ko": "브란덴부르크 주",
+          "nl": "Brandenburg",
+          "pl": "Brandenburgia",
+          "pt": "Brandemburgo",
+          "ru": "Бранденбург",
+          "sv": "Brandenburg",
+          "tr": "Brandenburg",
+          "vi": "Brandenburg",
+          "zh": "勃兰登堡"
+        },
+        "population": 2472453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.496,
+          53.791
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-mv",
+        "area": 5.177139999999998,
+        "bounding_box": [
+          10.601,
+          53.108,
+          14.391,
+          54.474
+        ],
+        "point": [
+          12.496,
+          53.791
+        ],
+        "labels": {
+          "alt": "Mecklenburg-West Pomerania",
+          "local": null,
+          "len": 22,
+          "ar": "مكلنبورغ فوربومرن",
+          "bn": "মেকলেনবুর্গ-ভোপোমান",
+          "de": "Mecklenburg-Vorpommern",
+          "en": "Mecklenburg-Western Pomerania",
+          "es": "Mecklemburgo-Pomerania Occidental",
+          "fr": "Mecklembourg-Poméranie-Occidentale",
+          "el": "Μεκλεμβούργο-Δυτική Πομερανία",
+          "hi": "मेक्लेनबर्ग-वोर्पोमेर्न",
+          "hu": "Mecklenburg–Elő-Pomeránia",
+          "id": "Mecklenburg-Vorpommern",
+          "it": "Meclemburgo-Pomerania Anteriore",
+          "ja": "メクレンブルク＝フォアポンメルン州",
+          "ko": "메클렌부르크포어포메른 주",
+          "nl": "Mecklenburg-Voor-Pommeren",
+          "pl": "Meklemburgia-Pomorze Przednie",
+          "pt": "Mecklemburgo-Pomerânia Ocidental",
+          "ru": "Мекленбург-Передняя Померания",
+          "sv": "Mecklenburg-Vorpommern",
+          "tr": "Mecklenburg-Vorpommern",
+          "vi": "Mecklenburg-Vorpommern",
+          "zh": "梅克伦堡－前波美拉尼亚"
+        },
+        "population": 1457305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4285,
+          54.460499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-mv",
+        "area": 0.2852850000000037,
+        "bounding_box": [
+          13.115,
+          54.233,
+          13.742,
+          54.688
+        ],
+        "point": [
+          13.4285,
+          54.460499999999996
+        ],
+        "labels": {
+          "alt": "Mecklenburg-West Pomerania",
+          "local": null,
+          "len": 22,
+          "ar": "مكلنبورغ فوربومرن",
+          "bn": "মেকলেনবুর্গ-ভোপোমান",
+          "de": "Mecklenburg-Vorpommern",
+          "en": "Mecklenburg-Western Pomerania",
+          "es": "Mecklemburgo-Pomerania Occidental",
+          "fr": "Mecklembourg-Poméranie-Occidentale",
+          "el": "Μεκλεμβούργο-Δυτική Πομερανία",
+          "hi": "मेक्लेनबर्ग-वोर्पोमेर्न",
+          "hu": "Mecklenburg–Elő-Pomeránia",
+          "id": "Mecklenburg-Vorpommern",
+          "it": "Meclemburgo-Pomerania Anteriore",
+          "ja": "メクレンブルク＝フォアポンメルン州",
+          "ko": "메클렌부르크포어포메른 주",
+          "nl": "Mecklenburg-Voor-Pommeren",
+          "pl": "Meklemburgia-Pomorze Przednie",
+          "pt": "Mecklemburgo-Pomerânia Ocidental",
+          "ru": "Мекленбург-Передняя Померания",
+          "sv": "Mecklenburg-Vorpommern",
+          "tr": "Mecklenburg-Vorpommern",
+          "vi": "Mecklenburg-Vorpommern",
+          "zh": "梅克伦堡－前波美拉尼亚"
+        },
+        "population": 1457305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9815,
+          54.009
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-mv",
+        "area": 0.15080999999999947,
+        "bounding_box": [
+          13.753,
+          53.844,
+          14.21,
+          54.174
+        ],
+        "point": [
+          13.9815,
+          54.009
+        ],
+        "labels": {
+          "alt": "Mecklenburg-West Pomerania",
+          "local": null,
+          "len": 22,
+          "ar": "مكلنبورغ فوربومرن",
+          "bn": "মেকলেনবুর্গ-ভোপোমান",
+          "de": "Mecklenburg-Vorpommern",
+          "en": "Mecklenburg-Western Pomerania",
+          "es": "Mecklemburgo-Pomerania Occidental",
+          "fr": "Mecklembourg-Poméranie-Occidentale",
+          "el": "Μεκλεμβούργο-Δυτική Πομερανία",
+          "hi": "मेक्लेनबर्ग-वोर्पोमेर्न",
+          "hu": "Mecklenburg–Elő-Pomeránia",
+          "id": "Mecklenburg-Vorpommern",
+          "it": "Meclemburgo-Pomerania Anteriore",
+          "ja": "メクレンブルク＝フォアポンメルン州",
+          "ko": "메클렌부르크포어포메른 주",
+          "nl": "Mecklenburg-Voor-Pommeren",
+          "pl": "Meklemburgia-Pomorze Przednie",
+          "pt": "Mecklemburgo-Pomerânia Ocidental",
+          "ru": "Мекленбург-Передняя Померания",
+          "sv": "Mecklenburg-Vorpommern",
+          "tr": "Mecklenburg-Vorpommern",
+          "vi": "Mecklenburg-Vorpommern",
+          "zh": "梅克伦堡－前波美拉尼亚"
+        },
+        "population": 1457305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.422,
+          54.001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-mv",
+        "area": 0.005520000000000241,
+        "bounding_box": [
+          11.376,
+          53.971,
+          11.468,
+          54.031
+        ],
+        "point": [
+          11.422,
+          54.001
+        ],
+        "labels": {
+          "alt": "Mecklenburg-West Pomerania",
+          "local": null,
+          "len": 22,
+          "ar": "مكلنبورغ فوربومرن",
+          "bn": "মেকলেনবুর্গ-ভোপোমান",
+          "de": "Mecklenburg-Vorpommern",
+          "en": "Mecklenburg-Western Pomerania",
+          "es": "Mecklemburgo-Pomerania Occidental",
+          "fr": "Mecklembourg-Poméranie-Occidentale",
+          "el": "Μεκλεμβούργο-Δυτική Πομερανία",
+          "hi": "मेक्लेनबर्ग-वोर्पोमेर्न",
+          "hu": "Mecklenburg–Elő-Pomeránia",
+          "id": "Mecklenburg-Vorpommern",
+          "it": "Meclemburgo-Pomerania Anteriore",
+          "ja": "メクレンブルク＝フォアポンメルン州",
+          "ko": "메클렌부르크포어포메른 주",
+          "nl": "Mecklenburg-Voor-Pommeren",
+          "pl": "Meklemburgia-Pomorze Przednie",
+          "pt": "Mecklemburgo-Pomerânia Ocidental",
+          "ru": "Мекленбург-Передняя Померания",
+          "sv": "Mecklenburg-Vorpommern",
+          "tr": "Mecklenburg-Vorpommern",
+          "vi": "Mecklenburg-Vorpommern",
+          "zh": "梅克伦堡－前波美拉尼亚"
+        },
+        "population": 1457305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.777000000000001,
+          53.1185
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-hb",
+        "area": 0.07966200000000204,
+        "bounding_box": [
+          8.564,
+          53.025,
+          8.99,
+          53.212
+        ],
+        "point": [
+          8.777000000000001,
+          53.1185
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "ولاية بريمن",
+          "bn": "ব্রেমেনের ফ্রি হেনসিয়াটিক শহর",
+          "de": "Freie Hansestadt Bremen",
+          "en": "Bremen",
+          "es": "Bremen",
+          "fr": "Brême",
+          "el": "Βρέμη",
+          "hi": "ब्रेमेन",
+          "hu": "Bréma",
+          "id": "Bremen",
+          "it": "Brema",
+          "ja": "ブレーメン州",
+          "ko": "브레멘 주",
+          "nl": "Bremen",
+          "pl": "Brema",
+          "pt": "Bremen",
+          "ru": "Бремен",
+          "sv": "Bremen",
+          "tr": "Bremen",
+          "vi": "Bremen",
+          "zh": "不來梅州"
+        },
+        "population": 534597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.576,
+          53.567
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-hb",
+        "area": 0.012599999999999228,
+        "bounding_box": [
+          8.513,
+          53.517,
+          8.639,
+          53.617
+        ],
+        "point": [
+          8.576,
+          53.567
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "ولاية بريمن",
+          "bn": "ব্রেমেনের ফ্রি হেনসিয়াটিক শহর",
+          "de": "Freie Hansestadt Bremen",
+          "en": "Bremen",
+          "es": "Bremen",
+          "fr": "Brême",
+          "el": "Βρέμη",
+          "hi": "ब्रेमेन",
+          "hu": "Bréma",
+          "id": "Bremen",
+          "it": "Brema",
+          "ja": "ブレーメン州",
+          "ko": "브레멘 주",
+          "nl": "Bremen",
+          "pl": "Brema",
+          "pt": "Bremen",
+          "ru": "Бремен",
+          "sv": "Bremen",
+          "tr": "Bremen",
+          "vi": "Bremen",
+          "zh": "不來梅州"
+        },
+        "population": 534597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0345,
+          53.5585
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-hh",
+        "area": 0.18138299999999846,
+        "bounding_box": [
+          9.741,
+          53.404,
+          10.328,
+          53.713
+        ],
+        "point": [
+          10.0345,
+          53.5585
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "هامبورغ",
+          "bn": "হামবুর্গ",
+          "de": "Hamburg",
+          "en": "Hamburg",
+          "es": "Hamburgo",
+          "fr": "Hambourg",
+          "el": "Αμβούργο",
+          "hi": "हैम्बर्ग",
+          "hu": "Hamburg",
+          "id": "Hamburg",
+          "it": "Amburgo",
+          "ja": "ハンブルク",
+          "ko": "함부르크",
+          "nl": "Hamburg",
+          "pl": "Hamburg",
+          "pt": "Hamburgo",
+          "ru": "Гамбург",
+          "sv": "Hamburg",
+          "tr": "Hamburg",
+          "vi": "Hamburg",
+          "zh": "汉堡"
+        },
+        "population": 1695658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0005,
+          50.5225
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-he",
+        "area": 5.540127000000002,
+        "bounding_box": [
+          7.771,
+          49.396,
+          10.23,
+          51.649
+        ],
+        "point": [
+          9.0005,
+          50.5225
+        ],
+        "labels": {
+          "alt": "Hesse",
+          "local": null,
+          "len": 6,
+          "ar": "هسن",
+          "bn": "হেসে",
+          "de": "Hessen",
+          "en": "Hesse",
+          "es": "Hesse",
+          "fr": "Hesse",
+          "el": "Έσση",
+          "hi": "हेसे",
+          "hu": "Hessen",
+          "id": "Hessen",
+          "it": "Assia",
+          "ja": "ヘッセン州",
+          "ko": "헤센 주",
+          "nl": "Hessen",
+          "pl": "Hesja",
+          "pt": "Hesse",
+          "ru": "Гессен",
+          "sv": "Hessen",
+          "tr": "Hessen",
+          "vi": "Hessen",
+          "zh": "黑森"
+        },
+        "population": 5884183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.280000000000001,
+          50.923500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-th",
+        "area": 3.9014179999999987,
+        "bounding_box": [
+          9.913,
+          50.21,
+          12.647,
+          51.637
+        ],
+        "point": [
+          11.280000000000001,
+          50.923500000000004
+        ],
+        "labels": {
+          "alt": "Thuringia",
+          "local": null,
+          "len": 9,
+          "ar": "تورينغن",
+          "bn": "থুরিনগিয়া",
+          "de": "Thüringen",
+          "en": "Thuringia",
+          "es": "Turingia",
+          "fr": "Thuringe",
+          "el": "Θουριγγία",
+          "hi": "ठुरुंगिया",
+          "hu": "Türingia",
+          "id": "Thüringen",
+          "it": "Turingia",
+          "ja": "テューリンゲン州",
+          "ko": "튀링겐 주",
+          "nl": "Thüringen",
+          "pl": "Turyngia",
+          "pt": "Turíngia",
+          "ru": "Тюрингия",
+          "sv": "Thüringen",
+          "tr": "Türingiya",
+          "vi": "Thüringen",
+          "zh": "图林根"
+        },
+        "population": 1966501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9085,
+          51.9855
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-st",
+        "area": 5.619555000000005,
+        "bounding_box": [
+          10.58,
+          50.928,
+          13.237,
+          53.043
+        ],
+        "point": [
+          11.9085,
+          51.9855
+        ],
+        "labels": {
+          "alt": "Saxony-Anhalt",
+          "local": null,
+          "len": 14,
+          "ar": "ساكسونيا أنهالت",
+          "bn": "জ্যাক্সোনি-আনহাল্ট",
+          "de": "Sachsen-Anhalt",
+          "en": "Saxony-Anhalt",
+          "es": "Sajonia-Anhalt",
+          "fr": "Saxe-Anhalt",
+          "el": "Σαξωνία-Άνχαλτ",
+          "hi": "सैक्सोनी-एन्हाल्ट",
+          "hu": "Szász-Anhalt",
+          "id": "Sachsen-Anhalt",
+          "it": "Sassonia-Anhalt",
+          "ja": "ザクセン＝アンハルト州",
+          "ko": "작센안할트 주",
+          "nl": "Saksen-Anhalt",
+          "pl": "Saksonia-Anhalt",
+          "pt": "Saxônia-Anhalt",
+          "ru": "Саксония-Анхальт",
+          "sv": "Sachsen-Anhalt",
+          "tr": "Saksonya-Anhalt",
+          "vi": "Sachsen-Anhalt",
+          "zh": "萨克森－安哈尔特"
+        },
+        "population": 2067479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4215,
+          52.519499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "de",
+        "region_child": "de-be",
+        "area": 0.18913299999999905,
+        "bounding_box": [
+          13.092,
+          52.376,
+          13.751,
+          52.663
+        ],
+        "point": [
+          13.4215,
+          52.519499999999994
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "برلين",
+          "bn": "বার্লিন",
+          "de": "Berlin",
+          "en": "Berlin",
+          "es": "Berlín",
+          "fr": "Berlin",
+          "el": "Βερολίνο",
+          "hi": "बर्लिन",
+          "hu": "Berlin",
+          "id": "Berlin",
+          "it": "Berlino",
+          "ja": "ベルリン",
+          "ko": "베를린",
+          "nl": "Berlijn",
+          "pl": "Berlin",
+          "pt": "Berlim",
+          "ru": "Берлин",
+          "sv": "Berlin",
+          "tr": "Berlin",
+          "vi": "Berlin",
+          "zh": "柏林"
+        },
+        "population": 3145411
+      }
+    }
+  ]
+}

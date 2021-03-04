@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.178,
+          41.6105
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-di",
+        "area": 0.4292879999999985,
+        "bounding_box": [
+          19.806,
+          41.322,
+          20.55,
+          41.899
+        ],
+        "point": [
+          20.178,
+          41.6105
+        ],
+        "labels": {
+          "alt": "Dibra| Dibrë",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة ديبر",
+          "bn": null,
+          "de": "Qark Dibra",
+          "en": "Dibër County",
+          "es": "condado de Dibër",
+          "fr": "préfecture de Dibër",
+          "el": "Νομός Ντίμπρα",
+          "hi": "डिबॅर प्रांत",
+          "hu": "Dibra megye",
+          "id": null,
+          "it": "prefettura di Dibër",
+          "ja": "ディブラ州",
+          "ko": "디버르 주",
+          "nl": "Dibër",
+          "pl": "obwód Dibra",
+          "pt": "Dibër",
+          "ru": "Дибра",
+          "sv": "Dibër prefektur",
+          "tr": "Debre ili",
+          "vi": "Dibër",
+          "zh": "第巴爾州"
+        },
+        "population": 101100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.194000000000003,
+          42.184
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-07",
+        "area": 0.5880599999999984,
+        "bounding_box": [
+          19.789,
+          41.821,
+          20.599,
+          42.547
+        ],
+        "point": [
+          20.194000000000003,
+          42.184
+        ],
+        "labels": {
+          "alt": "Kosova|Kossovo",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة كوكس",
+          "bn": null,
+          "de": "Qark Kukës",
+          "en": "Kukës County",
+          "es": "Condado de Kukës",
+          "fr": "préfecture de Kukës",
+          "el": "Νομός Κουκς",
+          "hi": "कुकेस प्रांत",
+          "hu": "Kukës megye",
+          "id": null,
+          "it": "prefettura di Kukës",
+          "ja": "クケス州",
+          "ko": "쿠커스 주",
+          "nl": "Kukës",
+          "pl": "Obwód Kukës",
+          "pt": "Kukës",
+          "ru": "Кукес",
+          "sv": "Kukës prefektur",
+          "tr": "Kukës ili",
+          "vi": "Kukës",
+          "zh": "庫克斯州"
+        },
+        "population": 66350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.665,
+          40.5835
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-06",
+        "area": 0.7477199999999964,
+        "bounding_box": [
+          20.293,
+          40.081,
+          21.037,
+          41.086
+        ],
+        "point": [
+          20.665,
+          40.5835
+        ],
+        "labels": {
+          "alt": "Coriza|Corizza|Koritsa|Koritza|Korça|Kortscha",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة كورتشي",
+          "bn": "কোরচে কাউন্টি",
+          "de": "Qark Korça",
+          "en": "Korçë County",
+          "es": "Condado de Korçë",
+          "fr": "préfecture de Korçë",
+          "el": "Νομός Κορυτσάς",
+          "hi": "कोर्से प्रांत",
+          "hu": "Korça megye",
+          "id": "Korçë County",
+          "it": "prefettura di Coriza",
+          "ja": "コルチャ州",
+          "ko": "코르처 주",
+          "nl": "Korçë",
+          "pl": "Obwód Korcza",
+          "pt": "Korçë",
+          "ru": "Корча",
+          "sv": "Korçë prefektur",
+          "tr": "Görice ili",
+          "vi": "Korçë",
+          "zh": "科赤州"
+        },
+        "population": 189397
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.134,
+          41.052
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-el",
+        "area": 0.6222719999999986,
+        "bounding_box": [
+          19.671,
+          40.716,
+          20.597,
+          41.388
+        ],
+        "point": [
+          20.134,
+          41.052
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة إلباسان",
+          "bn": null,
+          "de": "Qark Elbasan",
+          "en": "Elbasan County",
+          "es": "condado de Elbasan",
+          "fr": "préfecture d'Elbasan",
+          "el": "Νομός Ελβασάν",
+          "hi": "एलबसन प्रांत",
+          "hu": "Elbasan megye",
+          "id": null,
+          "it": "prefettura di Elbasan",
+          "ja": "エルバサン州",
+          "ko": "엘바산 주",
+          "nl": "Elbasan",
+          "pl": "obwód Elbasan",
+          "pt": "Elbasan",
+          "ru": "Эльбасан",
+          "sv": "Elbasan prefektur",
+          "tr": "Elbasan ili",
+          "vi": "Elbasan",
+          "zh": "艾巴申州"
+        },
+        "population": 248647
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.186999999999998,
+          40.1555
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-gj",
+        "area": 0.6360080000000004,
+        "bounding_box": [
+          19.759,
+          39.784,
+          20.615,
+          40.527
+        ],
+        "point": [
+          20.186999999999998,
+          40.1555
+        ],
+        "labels": {
+          "alt": "Gjinokastër|Argirocastro|Argyrocastro|Argyrokastron",
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة غيروكاستر",
+          "bn": "গিজারকাসার কাউন্টি",
+          "de": "Qark Gjirokastra",
+          "en": "Gjirokastër County",
+          "es": "Condado de Gjirokastër",
+          "fr": "préfecture de Gjirokastër",
+          "el": "Περιφέρεια Αργυροκάστρου",
+          "hi": "घिरोकसतेर प्रांत",
+          "hu": "Gjirokastra megye",
+          "id": "Gjirokastër County",
+          "it": "prefettura di Argirocastro",
+          "ja": "ジロカストラ州",
+          "ko": "지로카스터르 주",
+          "nl": "Gjirokastër",
+          "pl": "Obwód Gjirokastra",
+          "pt": "Gjirokastër",
+          "ru": "Гирокастра",
+          "sv": "Gjirokastër prefektur",
+          "tr": "Ergiri ili",
+          "vi": "Gjirokastër",
+          "zh": "吉羅卡斯特州"
+        },
+        "population": 54251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.802500000000002,
+          40.1465
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-vl",
+        "area": 1.0079349999999991,
+        "bounding_box": [
+          19.305,
+          39.64,
+          20.3,
+          40.653
+        ],
+        "point": [
+          19.802500000000002,
+          40.1465
+        ],
+        "labels": {
+          "alt": "Vlona|Vlora|Vlonë|Valona",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة فلوره",
+          "bn": "ভ্ল ভ্লোর কাউন্টি",
+          "de": "Qark Vlora",
+          "en": "Vlorë County",
+          "es": "Condado de Vlorë",
+          "fr": "préfecture de Vlorë",
+          "el": "Νομός Αυλώνα",
+          "hi": "व्लोरे प्रांत",
+          "hu": "Vlora megye",
+          "id": "Vlorë County",
+          "it": "prefettura di Valona",
+          "ja": "ヴロラ州",
+          "ko": "블로러 주",
+          "nl": "Vlorë",
+          "pl": "Obwód Wlora",
+          "pt": "Vlorë",
+          "ru": "Влёра",
+          "sv": "Vlorë prefektur",
+          "tr": "Avlonya ili",
+          "vi": "Vlorë",
+          "zh": "夫羅勒州"
+        },
+        "population": 166191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.759500000000003,
+          42.2455
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-10",
+        "area": 0.780507000000002,
+        "bounding_box": [
+          19.283,
+          41.836,
+          20.236,
+          42.655
+        ],
+        "point": [
+          19.759500000000003,
+          42.2455
+        ],
+        "labels": {
+          "alt": "Escútari|Shkodra|Skodë|Scutari",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة شكودر",
+          "bn": null,
+          "de": "Qark Shkodra",
+          "en": "Shkodër County",
+          "es": "Condado de Shkodër",
+          "fr": "préfecture de Shkodër",
+          "el": "Νομός Σκόδρας",
+          "hi": "श्कोडेर प्रांत",
+          "hu": "Shkodra megye",
+          "id": null,
+          "it": "prefettura di Scutari",
+          "ja": "シュコドラ州",
+          "ko": "슈코더르 주",
+          "nl": "Shkodër",
+          "pl": "Obwód Szkodra",
+          "pt": "Shkodër",
+          "ru": "Шкодер",
+          "sv": "Shkodër prefektur",
+          "tr": "İşkodra ili",
+          "vi": "Shkodër",
+          "zh": "士科德州"
+        },
+        "population": 194879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.605,
+          40.746
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-04",
+        "area": 0.3876000000000014,
+        "bounding_box": [
+          19.305,
+          40.423,
+          19.905,
+          41.069
+        ],
+        "point": [
+          19.605,
+          40.746
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة فيير",
+          "bn": null,
+          "de": "Qark Fier",
+          "en": "Fier County",
+          "es": "Condado de Fier",
+          "fr": "préfecture de Fier",
+          "el": "Νομός Φιέρ",
+          "hi": "फिएर प्रांत",
+          "hu": null,
+          "id": null,
+          "it": "prefettura di Fier",
+          "ja": "フィエル州",
+          "ko": "피에르 주",
+          "nl": "Fier",
+          "pl": "Obwód Fier",
+          "pt": "Fier",
+          "ru": "Фиери",
+          "sv": "Fier prefektur",
+          "tr": "Fier ili",
+          "vi": "Fier",
+          "zh": "非夏爾州"
+        },
+        "population": 259069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.842,
+          41.2595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-dr",
+        "area": 0.3947879999999983,
+        "bounding_box": [
+          19.448,
+          41.009,
+          20.236,
+          41.51
+        ],
+        "point": [
+          19.842,
+          41.2595
+        ],
+        "labels": {
+          "alt": "Durresi|Durrsi|Durazzo",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة دوريس",
+          "bn": "দুরস কাউন্টি",
+          "de": "Qark Durrës",
+          "en": "Durrës County",
+          "es": "condado de Durrës",
+          "fr": "préfecture de Durrës",
+          "el": "Νομός Δυρραχίου",
+          "hi": "डुर्रेस प्रांत",
+          "hu": "Durrës megye",
+          "id": "Durrës County",
+          "it": "prefettura di Durazzo",
+          "ja": "ドゥラス州",
+          "ko": "두러스 주",
+          "nl": "Durrës",
+          "pl": "obwód Durrës",
+          "pt": "Durrës",
+          "ru": "Дуррес",
+          "sv": "Durrës prefektur",
+          "tr": "Dıraç ili",
+          "vi": "Durrës",
+          "zh": "杜勒斯州"
+        },
+        "population": 994336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6625,
+          41.4155
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-02",
+        "area": 0.1704710000000017,
+        "bounding_box": [
+          19.414,
+          41.244,
+          19.911,
+          41.587
+        ],
+        "point": [
+          19.6625,
+          41.4155
+        ],
+        "labels": {
+          "alt": "Durresi|Durrsi|Durazzo",
+          "local": null,
+          "len": 6,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 280129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.866500000000002,
+          41.793
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-le",
+        "area": 0.3764699999999983,
+        "bounding_box": [
+          19.466,
+          41.558,
+          20.267,
+          42.028
+        ],
+        "point": [
+          19.866500000000002,
+          41.793
+        ],
+        "labels": {
+          "alt": "Alessio|Lezha",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة لجه",
+          "bn": null,
+          "de": "Qark Lezha",
+          "en": "Lezhë County",
+          "es": "Condado de Lezhë",
+          "fr": "préfecture de Lezhë",
+          "el": "Νομός Λεζ",
+          "hi": "लेज़ह प्रांत",
+          "hu": "Lezha megye",
+          "id": null,
+          "it": "prefettura di Alessio",
+          "ja": "レジャ州",
+          "ko": "레저 주",
+          "nl": "Lezhë",
+          "pl": "Obwód Lezha",
+          "pt": "Lezhë",
+          "ru": "Лежа",
+          "sv": "Lezhë prefektur",
+          "tr": "Leç ili",
+          "vi": "Lezhë",
+          "zh": "列澤州"
+        },
+        "population": 121165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0875,
+          40.623000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "al",
+        "region_child": "al-br",
+        "area": 0.3569220000000028,
+        "bounding_box": [
+          19.732,
+          40.372,
+          20.443,
+          40.874
+        ],
+        "point": [
+          20.0875,
+          40.623000000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة بيرات",
+          "bn": "বেরাট কাউন্টি",
+          "de": "Qark Berat",
+          "en": "Berat County",
+          "es": "condado de Berat",
+          "fr": "préfecture de Berat",
+          "el": "Νομός Μπεράτ",
+          "hi": "बेरत प्रांत",
+          "hu": "Berat megye",
+          "id": "Berat County",
+          "it": "prefettura di Berat",
+          "ja": "ベラト州",
+          "ko": "베라트 주",
+          "nl": "Berat",
+          "pl": "obwód Berat",
+          "pt": "Berat",
+          "ru": "Берат",
+          "sv": "Beratprefekturen",
+          "tr": "Berat ili",
+          "vi": "Berat",
+          "zh": "培拉特州"
+        },
+        "population": 110668
+      }
+    }
+  ]
+}

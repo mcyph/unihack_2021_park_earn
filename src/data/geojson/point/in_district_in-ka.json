@@ -1,0 +1,1025 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.171,
+          18.019
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "bidar",
+        "area": 0.8439,
+        "bounding_box": [
+          76.686,
+          17.584,
+          77.656,
+          18.454
+        ],
+        "point": [
+          77.171,
+          18.019
+        ],
+        "labels": {
+          "en": "Bidar"
+        },
+        "population": 1852144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.877,
+          17.241
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "kalaburagi",
+        "area": 1.7214399999999985,
+        "bounding_box": [
+          76.065,
+          16.711,
+          77.689,
+          17.771
+        ],
+        "point": [
+          76.877,
+          17.241
+        ],
+        "labels": {
+          "en": "Kalaburagi"
+        },
+        "population": 2924127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.773,
+          16.158
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "belagavi",
+        "area": 2.1892600000000084,
+        "bounding_box": [
+          74.088,
+          15.359,
+          75.458,
+          16.957
+        ],
+        "point": [
+          74.773,
+          16.158
+        ],
+        "labels": {
+          "en": "Belagavi"
+        },
+        "population": 5439616
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8845,
+          16.5745
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "yadgir",
+        "area": 0.8994150000000022,
+        "bounding_box": [
+          76.292,
+          16.195,
+          77.477,
+          16.954
+        ],
+        "point": [
+          76.8845,
+          16.5745
+        ],
+        "labels": {
+          "en": "Yadgir"
+        },
+        "population": 1372901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6595,
+          16.29
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "bagalkote",
+        "area": 1.2831299999999974,
+        "bounding_box": [
+          74.987,
+          15.813,
+          76.332,
+          16.767
+        ],
+        "point": [
+          75.6595,
+          16.29
+        ],
+        "labels": {
+          "en": "Bagalkote"
+        },
+        "population": 2067979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.916,
+          16.055
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "raichur",
+        "area": 1.3830960000000059,
+        "bounding_box": [
+          76.234,
+          15.548,
+          77.598,
+          16.562
+        ],
+        "point": [
+          76.916,
+          16.055
+        ],
+        "labels": {
+          "en": "Raichur"
+        },
+        "population": 2139663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.293,
+          15.5745
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "koppal",
+        "area": 0.9061739999999965,
+        "bounding_box": [
+          75.774,
+          15.138,
+          76.812,
+          16.011
+        ],
+        "point": [
+          76.293,
+          15.5745
+        ],
+        "labels": {
+          "en": "Koppal"
+        },
+        "population": 1554164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.658,
+          15.4155
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "gadag",
+        "area": 0.7226879999999999,
+        "bounding_box": [
+          75.274,
+          14.945,
+          76.042,
+          15.886
+        ],
+        "point": [
+          75.658,
+          15.4155
+        ],
+        "labels": {
+          "en": "Gadag"
+        },
+        "population": 1214479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.41550000000001,
+          15.1985
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "ballari",
+        "area": 1.919330999999999,
+        "bounding_box": [
+          75.664,
+          14.56,
+          77.167,
+          15.837
+        ],
+        "point": [
+          76.41550000000001,
+          15.1985
+        ],
+        "labels": {
+          "en": "Ballari"
+        },
+        "population": 2961615
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.141,
+          15.3705
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "dharwad",
+        "area": 0.5489640000000021,
+        "bounding_box": [
+          74.727,
+          15.039,
+          75.555,
+          15.702
+        ],
+        "point": [
+          75.141,
+          15.3705
+        ],
+        "labels": {
+          "en": "Dharwad"
+        },
+        "population": 2085120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5945,
+          14.724499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "uttara kannada",
+        "area": 1.624148999999993,
+        "bounding_box": [
+          74.086,
+          13.926,
+          75.103,
+          15.523
+        ],
+        "point": [
+          74.5945,
+          14.724499999999999
+        ],
+        "labels": {
+          "en": "Uttara Kannada"
+        },
+        "population": 1584255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.417,
+          14.7195
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "haveri",
+        "area": 0.7115400000000031,
+        "bounding_box": [
+          75.015,
+          14.277,
+          75.819,
+          15.162
+        ],
+        "point": [
+          75.417,
+          14.7195
+        ],
+        "labels": {
+          "en": "Haveri"
+        },
+        "population": 1601743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.524,
+          14.305
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "chitradurga",
+        "area": 1.4550839999999863,
+        "bounding_box": [
+          76.025,
+          13.576,
+          77.023,
+          15.034
+        ],
+        "point": [
+          76.524,
+          14.305
+        ],
+        "labels": {
+          "en": "Chitradurga"
+        },
+        "population": 1796630
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9665,
+          14.3685
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "davanagere",
+        "area": 1.274624999999995,
+        "bounding_box": [
+          75.4,
+          13.806,
+          76.533,
+          14.931
+        ],
+        "point": [
+          75.9665,
+          14.3685
+        ],
+        "labels": {
+          "en": "Davanagere"
+        },
+        "population": 2107715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.25200000000001,
+          14.056000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "shivamogga",
+        "area": 1.5022920000000042,
+        "bounding_box": [
+          74.625,
+          13.457,
+          75.879,
+          14.655
+        ],
+        "point": [
+          75.25200000000001,
+          14.056000000000001
+        ],
+        "labels": {
+          "en": "Shivamogga"
+        },
+        "population": 1877620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8945,
+          13.529499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "udupi",
+        "area": 0.5700450000000048,
+        "bounding_box": [
+          74.583,
+          13.072,
+          75.206,
+          13.987
+        ],
+        "point": [
+          74.8945,
+          13.529499999999999
+        ],
+        "labels": {
+          "en": "Udupi"
+        },
+        "population": 1133119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.72149999999999,
+          13.405999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "chikkamagaluru",
+        "area": 1.2670100000000093,
+        "bounding_box": [
+          75.079,
+          12.913,
+          76.364,
+          13.899
+        ],
+        "point": [
+          75.72149999999999,
+          13.405999999999999
+        ],
+        "labels": {
+          "en": "Chikkamagaluru"
+        },
+        "population": 1171172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.786,
+          13.59
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "chikkaballapura",
+        "area": 0.6275199999999994,
+        "bounding_box": [
+          77.362,
+          13.22,
+          78.21,
+          13.96
+        ],
+        "point": [
+          77.786,
+          13.59
+        ],
+        "labels": {
+          "en": "Chikkaballapura"
+        },
+        "population": 1324052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.09450000000001,
+          13.030000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "hassan",
+        "area": 1.115685999999994,
+        "bounding_box": [
+          75.555,
+          12.513,
+          76.634,
+          13.547
+        ],
+        "point": [
+          76.09450000000001,
+          13.030000000000001
+        ],
+        "labels": {
+          "en": "Hassan"
+        },
+        "population": 1844508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.213,
+          13.1795
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "kolar",
+        "area": 0.624401999999997,
+        "bounding_box": [
+          77.84,
+          12.761,
+          78.586,
+          13.598
+        ],
+        "point": [
+          78.213,
+          13.1795
+        ],
+        "labels": {
+          "en": "Kolar"
+        },
+        "population": 1623827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.57400000000001,
+          13.19
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "bengaluru",
+        "area": 0.5067359999999975,
+        "bounding_box": [
+          77.183,
+          12.866,
+          77.965,
+          13.514
+        ],
+        "point": [
+          77.57400000000001,
+          13.19
+        ],
+        "labels": {
+          "en": "Bengaluru Rural"
+        },
+        "population": 1375825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2235,
+          12.8205
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "dakshina kannada",
+        "area": 0.6452950000000058,
+        "bounding_box": [
+          74.776,
+          12.46,
+          75.671,
+          13.181
+        ],
+        "point": [
+          75.2235,
+          12.8205
+        ],
+        "labels": {
+          "en": "Dakshina Kannada"
+        },
+        "population": 2383228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5815,
+          12.946
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "bengaluru urban",
+        "area": 0.28657199999999416,
+        "bounding_box": [
+          77.331,
+          12.66,
+          77.832,
+          13.232
+        ],
+        "point": [
+          77.5815,
+          12.946
+        ],
+        "labels": {
+          "en": "Bengaluru Urban"
+        },
+        "population": 13376270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7775,
+          12.3825
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "kodagu",
+        "area": 0.7431689999999943,
+        "bounding_box": [
+          75.366,
+          11.931,
+          76.189,
+          12.834
+        ],
+        "point": [
+          75.7775,
+          12.3825
+        ],
+        "labels": {
+          "en": "Kodagu"
+        },
+        "population": 576818
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0895,
+          11.9545
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "chamarajanagara",
+        "area": 0.9871869999999924,
+        "bounding_box": [
+          76.403,
+          11.595,
+          77.776,
+          12.314
+        ],
+        "point": [
+          77.0895,
+          11.9545
+        ],
+        "labels": {
+          "en": "Chamarajanagara"
+        },
+        "population": 1091910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90899999999999,
+          13.4205
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "tumakuru",
+        "area": 1.516276000000013,
+        "bounding_box": [
+          76.347,
+          12.746,
+          77.471,
+          14.095
+        ],
+        "point": [
+          76.90899999999999,
+          13.4205
+        ],
+        "labels": {
+          "en": "Tumakuru"
+        },
+        "population": 2765917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.258,
+          14.115
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "tumakuru",
+        "area": 0.23517200000000063,
+        "bounding_box": [
+          76.999,
+          13.888,
+          77.517,
+          14.342
+        ],
+        "point": [
+          77.258,
+          14.115
+        ],
+        "labels": {
+          "en": "Tumakuru"
+        },
+        "population": 2765917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.082,
+          13.072
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "tumakuru",
+        "area": 7.999999999980474e-06,
+        "bounding_box": [
+          77.081,
+          13.07,
+          77.083,
+          13.074
+        ],
+        "point": [
+          77.082,
+          13.072
+        ],
+        "labels": {
+          "en": "Tumakuru"
+        },
+        "population": 2765917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.351,
+          12.718
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "ramanagara",
+        "area": 0.5365680000000026,
+        "bounding_box": [
+          77.068,
+          12.244,
+          77.634,
+          13.192
+        ],
+        "point": [
+          77.351,
+          12.718
+        ],
+        "labels": {
+          "en": "Ramanagara"
+        },
+        "population": 1170038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.83099999999999,
+          12.638
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "mandya",
+        "area": 0.8323320000000035,
+        "bounding_box": [
+          76.332,
+          12.221,
+          77.33,
+          13.055
+        ],
+        "point": [
+          76.83099999999999,
+          12.638
+        ],
+        "labels": {
+          "en": "Mandya"
+        },
+        "population": 1818803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.908,
+          12.368500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "mandya",
+        "area": 0.0004600000000002646,
+        "bounding_box": [
+          76.898,
+          12.357,
+          76.918,
+          12.38
+        ],
+        "point": [
+          76.908,
+          12.368500000000001
+        ],
+        "labels": {
+          "en": "Mandya"
+        },
+        "population": 1818803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.976,
+          12.2645
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "mandya",
+        "area": 0.00022799999999998885,
+        "bounding_box": [
+          76.97,
+          12.255,
+          76.982,
+          12.274
+        ],
+        "point": [
+          76.976,
+          12.2645
+        ],
+        "labels": {
+          "en": "Mandya"
+        },
+        "population": 1818803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5215,
+          12.197
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "mysuru",
+        "area": 1.124549999999996,
+        "bounding_box": [
+          75.909,
+          11.738,
+          77.134,
+          12.656
+        ],
+        "point": [
+          76.5215,
+          12.197
+        ],
+        "labels": {
+          "en": "Mysuru"
+        },
+        "population": 3395597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.90350000000001,
+          16.814999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ka",
+        "region_child": "vijayapura",
+        "area": 1.5027400000000086,
+        "bounding_box": [
+          75.336,
+          16.153,
+          76.471,
+          17.477
+        ],
+        "point": [
+          75.90350000000001,
+          16.814999999999998
+        ],
+        "labels": {
+          "en": "Vijayapura"
+        },
+        "population": 2611826
+      }
+    }
+  ]
+}

@@ -1,0 +1,1648 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6135,
+          46.268
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-vs",
+        "area": 1.3401519999999938,
+        "bounding_box": [
+          6.75,
+          45.88,
+          8.477,
+          46.656
+        ],
+        "point": [
+          7.6135,
+          46.268
+        ],
+        "labels": {
+          "alt": "Vallais|Vallese|Wallis",
+          "local": null,
+          "len": 6,
+          "ar": "كانتون فاليز",
+          "bn": "ক্যান্টন অব ভ্যালাইস",
+          "de": "Kanton Wallis",
+          "en": "Canton of Valais",
+          "es": "cantón del Valais",
+          "fr": "canton du Valais",
+          "el": "Καντόνι του Βαλαί",
+          "hi": "वाले कैन्टन",
+          "hu": "Wallis kanton",
+          "id": "Kanton Valais",
+          "it": "Canton Vallese",
+          "ja": "ヴァレー州",
+          "ko": "발레 주",
+          "nl": "Wallis",
+          "pl": "Valais",
+          "pt": "Valais",
+          "ru": "Вале",
+          "sv": "Valais",
+          "tr": "Valais",
+          "vi": "Valais",
+          "zh": "瓦莱州"
+        },
+        "population": 370683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.774999999999999,
+          46.226
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-ti",
+        "area": 0.6301800000000022,
+        "bounding_box": [
+          8.386,
+          45.821,
+          9.164,
+          46.631
+        ],
+        "point": [
+          8.774999999999999,
+          46.226
+        ],
+        "labels": {
+          "alt": "Tesino|Tessin",
+          "local": null,
+          "len": 6,
+          "ar": "كانتون تيسينو",
+          "bn": "তিকিনো",
+          "de": "Kanton Tessin",
+          "en": "Ticino",
+          "es": "Tesino",
+          "fr": "canton du Tessin",
+          "el": "Τιτσίνο",
+          "hi": "तिचीनो कैन्टन",
+          "hu": "Ticino kanton",
+          "id": "Kanton Ticino",
+          "it": "canton Ticino",
+          "ja": "ティチーノ州",
+          "ko": "티치노 주",
+          "nl": "Ticino",
+          "pl": "Ticino",
+          "pt": "Ticino",
+          "ru": "Тичино",
+          "sv": "Ticino",
+          "tr": "Ticino",
+          "vi": "Ticino",
+          "zh": "提契諾州"
+        },
+        "population": 380043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5565,
+          46.6185
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-gr",
+        "area": 1.6082549999999967,
+        "bounding_box": [
+          8.654,
+          46.173,
+          10.459,
+          47.064
+        ],
+        "point": [
+          9.5565,
+          46.6185
+        ],
+        "labels": {
+          "alt": "Graubünden|Grigioni|Grischun|Grisons",
+          "local": null,
+          "len": 10,
+          "ar": "كانتون غراوبوندن",
+          "bn": "গ্রাউবান্ডেন",
+          "de": "Kanton Graubünden",
+          "en": "Graubünden",
+          "es": "Grisones",
+          "fr": "canton des Grisons",
+          "el": "Γκραουμπούντεν",
+          "hi": "ग्राउबुन्डन कैन्टन",
+          "hu": "Graubünden kanton",
+          "id": "Kanton Graubünden",
+          "it": "Cantone dei Grigioni",
+          "ja": "グラウビュンデン州",
+          "ko": "그라우뷘덴 주",
+          "nl": "Graubünden",
+          "pl": "Gryzonia",
+          "pt": "Grisões",
+          "ru": "Граубюнден",
+          "sv": "Graubünden",
+          "tr": "Graubünden",
+          "vi": "Graubünden",
+          "zh": "格勞賓登州"
+        },
+        "population": 210480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.621500000000001,
+          47.7205
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-sh",
+        "area": 0.07422100000000068,
+        "bounding_box": [
+          8.391,
+          47.64,
+          8.852,
+          47.801
+        ],
+        "point": [
+          8.621500000000001,
+          47.7205
+        ],
+        "labels": {
+          "alt": "Schaffhouse|Schaffusa|Sciaffusa",
+          "local": null,
+          "len": 12,
+          "ar": "كانتون شافهوزن",
+          "bn": "স্ক্যাফহোসেন ক্যান্টন",
+          "de": "Kanton Schaffhausen",
+          "en": "Canton of Schaffhausen",
+          "es": "Schaffhausen",
+          "fr": "canton de Schaffhouse",
+          "el": "Σαφχάουζεν",
+          "hi": "शाफ़हाउसन कैन्टन",
+          "hu": "Schaffhausen kanton",
+          "id": "Kanton Schaffhausen",
+          "it": "Canton Sciaffusa",
+          "ja": "シャフハウゼン州",
+          "ko": "샤프하우젠 주",
+          "nl": "Schaffhausen",
+          "pl": "Szafuza",
+          "pt": "Schaffhausen",
+          "ru": "Шаффхаузен",
+          "sv": "Schaffhausen",
+          "tr": "Schaffhausen",
+          "vi": "Schaffhausen",
+          "zh": "沙夫豪森州"
+        },
+        "population": 92049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.171,
+          47.5295
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-tg",
+        "area": 0.22843599999999994,
+        "bounding_box": [
+          8.789,
+          47.38,
+          9.553,
+          47.679
+        ],
+        "point": [
+          9.171,
+          47.5295
+        ],
+        "labels": {
+          "alt": "Thurgovie|Turgovia|Turg¢via",
+          "local": null,
+          "len": 7,
+          "ar": "كانتون تورغاو",
+          "bn": "থোগাও",
+          "de": "Kanton Thurgau",
+          "en": "Thurgau",
+          "es": "Turgovia",
+          "fr": "canton de Thurgovie",
+          "el": "Θέργκο",
+          "hi": "ठूरगाउ कैन्टन",
+          "hu": "Thurgau kanton",
+          "id": "Kanton Thurgau",
+          "it": "Canton Turgovia",
+          "ja": "トゥールガウ州",
+          "ko": "투르가우 주",
+          "nl": "Thurgau",
+          "pl": "Turgowia",
+          "pt": "Turgóvia",
+          "ru": "Тургау",
+          "sv": "Thurgau",
+          "tr": "Thurgau",
+          "vi": "Thurgau",
+          "zh": "圖爾高州"
+        },
+        "population": 278896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.661,
+          47.430499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-zh",
+        "area": 0.3270959999999991,
+        "bounding_box": [
+          8.353,
+          47.165,
+          8.969,
+          47.696
+        ],
+        "point": [
+          8.661,
+          47.430499999999995
+        ],
+        "labels": {
+          "alt": "Turitg|Zurigo|Zürih|Zurique",
+          "local": null,
+          "len": 6,
+          "ar": "كانتون زيورخ",
+          "bn": "ক্যান্টন  অফ জুরিখ",
+          "de": "Kanton Zürich",
+          "en": "Canton of Zürich",
+          "es": "Zúrich",
+          "fr": "canton de Zurich",
+          "el": "Κάντον οφ Ζυρίχη",
+          "hi": "ज़्यूरिख़ कैन्टन",
+          "hu": "Zürich kanton",
+          "id": "Kanton Zürich",
+          "it": "Canton Zurigo",
+          "ja": "チューリヒ州",
+          "ko": "취리히 주",
+          "nl": "Zürich",
+          "pl": "Zurych",
+          "pt": "Zurique",
+          "ru": "Цюрих",
+          "sv": "Zürich",
+          "tr": "Zürih",
+          "vi": "Zürich",
+          "zh": "苏黎世州"
+        },
+        "population": 1545999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.074,
+          47.382000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-ag",
+        "area": 0.33311999999999736,
+        "bounding_box": [
+          7.727,
+          47.142,
+          8.421,
+          47.622
+        ],
+        "point": [
+          8.074,
+          47.382000000000005
+        ],
+        "labels": {
+          "alt": "Argovia|Arg¢via|Argovie",
+          "local": null,
+          "len": 6,
+          "ar": "كانتون أرجاو",
+          "bn": "আরগাও",
+          "de": "Kanton Aargau",
+          "en": "canton of Aargau",
+          "es": "Argovia",
+          "fr": "canton d'Argovie",
+          "el": "Άαργκαου",
+          "hi": "आरगाउ कैन्टन",
+          "hu": "Aargau kanton",
+          "id": "Kanton Aargau",
+          "it": "Canton Argovia",
+          "ja": "アールガウ州",
+          "ko": "아르가우 주",
+          "nl": "Aargau",
+          "pl": "Argowia",
+          "pt": "Argóvia",
+          "ru": "Аргау",
+          "sv": "Aargau",
+          "tr": "Aargau",
+          "vi": "Aargau",
+          "zh": "阿爾高州"
+        },
+        "population": 738280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.584,
+          47.56
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-bs",
+        "area": 0.006300000000000554,
+        "bounding_box": [
+          7.521,
+          47.535,
+          7.647,
+          47.585
+        ],
+        "point": [
+          7.584,
+          47.56
+        ],
+        "labels": {
+          "alt": "Bâle-Ville|Basel-City|Basel-Town|Basilea-Citad|Basilea Ciudad|Basilea città|Basiléia cidade",
+          "local": null,
+          "len": 11,
+          "ar": "كانتون مدينة بازل",
+          "bn": "বা্যাসেল-স্টাড",
+          "de": "Kanton Basel-Stadt",
+          "en": "Basel-Stadt",
+          "es": "Cantón de Basilea-Ciudad",
+          "fr": "canton de Bâle-Ville",
+          "el": "Καντόνι της Μπάζελ-Στατ",
+          "hi": "बासल-श्तात कैन्टन",
+          "hu": "Basel-Stadt kanton",
+          "id": "Kanton Basel-Kota",
+          "it": "Canton Basilea Città",
+          "ja": "バーゼル＝シュタット準州",
+          "ko": "바젤슈타트 주",
+          "nl": "Basel-Stadt",
+          "pl": "Bazylea-Miasto",
+          "pt": "Basileia-Cidade",
+          "ru": "Базель-Штадт",
+          "sv": "Basel-Stadt",
+          "tr": "Basel-Stadt",
+          "vi": "Basel-Stadt",
+          "zh": "巴塞爾城市州"
+        },
+        "population": 172627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6695,
+          47.463499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-bl",
+        "area": 0.1136290000000029,
+        "bounding_box": [
+          7.384,
+          47.364,
+          7.955,
+          47.563
+        ],
+        "point": [
+          7.6695,
+          47.463499999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "كانتون ريف بازل",
+          "bn": "ব্যাসেল-ল্যান্ড",
+          "de": "Kanton Basel-Landschaft",
+          "en": "Canton of Basel-Landschaft",
+          "es": "Cantón de Basilea-Campiña",
+          "fr": "canton de Bâle-Campagne",
+          "el": "Καντόνι της Μπάζελ-Λάντσαφτ",
+          "hi": "बासल-लान्डशाफ़्ट कैन्टन",
+          "hu": "Basel-Landschaft kanton",
+          "id": "Kanton Basel-Negeri",
+          "it": "Canton Basilea Campagna",
+          "ja": "バーゼル＝ラント準州",
+          "ko": "바젤란트 주",
+          "nl": "Basel-Landschaft",
+          "pl": "Bazylea-Okręg",
+          "pt": "Basileia-Campo",
+          "ru": "Базель-Ланд",
+          "sv": "Basel-Landschaft",
+          "tr": "Basel-Landschaft",
+          "vi": "Basel-Landschaft",
+          "zh": "巴塞爾鄉村州"
+        },
+        "population": 299944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3625,
+          47.423
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-bl",
+        "area": 0.0010200000000001625,
+        "bounding_box": [
+          7.337,
+          47.413,
+          7.388,
+          47.433
+        ],
+        "point": [
+          7.3625,
+          47.423
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "كانتون ريف بازل",
+          "bn": "ব্যাসেল-ল্যান্ড",
+          "de": "Kanton Basel-Landschaft",
+          "en": "Canton of Basel-Landschaft",
+          "es": "Cantón de Basilea-Campiña",
+          "fr": "canton de Bâle-Campagne",
+          "el": "Καντόνι της Μπάζελ-Λάντσαφτ",
+          "hi": "बासल-लान्डशाफ़्ट कैन्टन",
+          "hu": "Basel-Landschaft kanton",
+          "id": "Kanton Basel-Negeri",
+          "it": "Canton Basilea Campagna",
+          "ja": "バーゼル＝ラント準州",
+          "ko": "바젤란트 주",
+          "nl": "Basel-Landschaft",
+          "pl": "Bazylea-Okręg",
+          "pt": "Basileia-Campo",
+          "ru": "Базель-Ланд",
+          "sv": "Basel-Landschaft",
+          "tr": "Basel-Landschaft",
+          "vi": "Basel-Landschaft",
+          "zh": "巴塞爾鄉村州"
+        },
+        "population": 299944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2125,
+          47.2055
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-sg",
+        "area": 0.5451250000000041,
+        "bounding_box": [
+          8.775,
+          46.894,
+          9.65,
+          47.517
+        ],
+        "point": [
+          9.2125,
+          47.2055
+        ],
+        "labels": {
+          "alt": "Saint-Gall|San Gallo|Son Gagl",
+          "local": null,
+          "len": 12,
+          "ar": "كانتون سانت غالن",
+          "bn": "ক্যান্টন সেন্ট গ্যালেন",
+          "de": "Kanton St. Gallen",
+          "en": "Canton of St. Gallen",
+          "es": "Cantón de San Galo",
+          "fr": "canton de Saint-Gall",
+          "el": "Κάντον οφ Σαίντ Γκαλέν",
+          "hi": "सांक्त गालन कैन्टन",
+          "hu": "Sankt Gallen kanton",
+          "id": "Kanton St. Gallen",
+          "it": "Canton San Gallo",
+          "ja": "ザンクト・ガレン州",
+          "ko": "장크트갈렌 주",
+          "nl": "Sankt Gallen",
+          "pl": "St. Gallen",
+          "pt": "São Galo",
+          "ru": "Санкт-Галлен",
+          "sv": "Sankt Gallen",
+          "tr": "St. Gallen",
+          "vi": "Bang St. Gallen",
+          "zh": "聖加侖州"
+        },
+        "population": 507451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.689,
+          47.304
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-so",
+        "area": 0.24479999999999952,
+        "bounding_box": [
+          7.349,
+          47.124,
+          8.029,
+          47.484
+        ],
+        "point": [
+          7.689,
+          47.304
+        ],
+        "labels": {
+          "alt": "Solothurn",
+          "local": null,
+          "len": 9,
+          "ar": "كانتون سولوتورن",
+          "bn": "ক্যান্টন অব সোলোথাম",
+          "de": "Kanton Solothurn",
+          "en": "Canton of Solothurn",
+          "es": "Soleura",
+          "fr": "canton de Soleure",
+          "el": "Κάντον οφ Σολόθουμ",
+          "hi": "सोलोथूर्न कैन्टन",
+          "hu": "Solothurn kanton",
+          "id": "Kanton Solothurn",
+          "it": "Canton Soletta",
+          "ja": "ゾロトゥルン州",
+          "ko": "졸로투른 주",
+          "nl": "Solothurn",
+          "pl": "Solura",
+          "pt": "Soleura",
+          "ru": "Золотурн",
+          "sv": "Solothurn",
+          "tr": "Solothurn",
+          "vi": "Solothurn",
+          "zh": "索洛圖恩州"
+        },
+        "population": 253304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4025,
+          47.432
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-so",
+        "area": 0.001406000000000138,
+        "bounding_box": [
+          7.384,
+          47.413,
+          7.421,
+          47.451
+        ],
+        "point": [
+          7.4025,
+          47.432
+        ],
+        "labels": {
+          "alt": "Solothurn",
+          "local": null,
+          "len": 9,
+          "ar": "كانتون سولوتورن",
+          "bn": "ক্যান্টন অব সোলোথাম",
+          "de": "Kanton Solothurn",
+          "en": "Canton of Solothurn",
+          "es": "Soleura",
+          "fr": "canton de Soleure",
+          "el": "Κάντον οφ Σολόθουμ",
+          "hi": "सोलोथूर्न कैन्टन",
+          "hu": "Solothurn kanton",
+          "id": "Kanton Solothurn",
+          "it": "Canton Soletta",
+          "ja": "ゾロトゥルン州",
+          "ko": "졸로투른 주",
+          "nl": "Solothurn",
+          "pl": "Solura",
+          "pt": "Soleura",
+          "ru": "Золотурн",
+          "sv": "Solothurn",
+          "tr": "Solothurn",
+          "vi": "Solothurn",
+          "zh": "索洛圖恩州"
+        },
+        "population": 253304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1985,
+          47.3215
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-ju",
+        "area": 0.24153499999999553,
+        "bounding_box": [
+          6.838,
+          47.154,
+          7.559,
+          47.489
+        ],
+        "point": [
+          7.1985,
+          47.3215
+        ],
+        "labels": {
+          "alt": "Giura",
+          "local": null,
+          "len": 4,
+          "ar": "كانتون جورا",
+          "bn": "জুরা",
+          "de": "Kanton Jura",
+          "en": "Canton of Jura",
+          "es": "Cantón del Jura",
+          "fr": "canton du Jura",
+          "el": "Τζούρα",
+          "hi": "जूरा कैन्टन",
+          "hu": "Jura kanton",
+          "id": "Kanton Jura",
+          "it": "Canton Giura",
+          "ja": "ジュラ州",
+          "ko": "쥐라 주",
+          "nl": "Kanton Jura",
+          "pl": "Kanton Jura",
+          "pt": "Cantão do Jura",
+          "ru": "Юра",
+          "sv": "Kanton Jura",
+          "tr": "Jura",
+          "vi": "Jura",
+          "zh": "汝拉州"
+        },
+        "population": 70298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.119999999999999,
+          46.231
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-ge",
+        "area": 0.06504399999999942,
+        "bounding_box": [
+          5.959,
+          46.13,
+          6.281,
+          46.332
+        ],
+        "point": [
+          6.119999999999999,
+          46.231
+        ],
+        "labels": {
+          "alt": "Cenevre|Genebra|Geneve|Geneva|Genevra|Genf|Ginebra|Ginevra",
+          "local": null,
+          "len": 6,
+          "ar": "كانتون جنيف",
+          "bn": null,
+          "de": "Kanton Genf",
+          "en": "Canton of Geneva",
+          "es": "Cantón de Ginebra",
+          "fr": "canton de Genève",
+          "el": null,
+          "hi": "जनीवा कैन्टन",
+          "hu": "Genf kanton",
+          "id": "Kanton Jenewa",
+          "it": "Canton Ginevra",
+          "ja": "ジュネーヴ州",
+          "ko": "제네바 주",
+          "nl": "Genève",
+          "pl": "Genewa",
+          "pt": "Genebra",
+          "ru": "Женева",
+          "sv": "Genève",
+          "tr": "Cenevre",
+          "vi": "Genève",
+          "zh": "日內瓦州"
+        },
+        "population": 514219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.656499999999999,
+          46.564499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-vd",
+        "area": 0.8950550000000024,
+        "bounding_box": [
+          6.059,
+          46.19,
+          7.254,
+          46.939
+        ],
+        "point": [
+          6.656499999999999,
+          46.564499999999995
+        ],
+        "labels": {
+          "alt": "Vad|Waadt|Waadtland",
+          "local": null,
+          "len": 4,
+          "ar": "كانتون فود",
+          "bn": "ভৌড ক্যান্টন",
+          "de": "Kanton Waadt",
+          "en": "Canton of Vaud",
+          "es": "Vaud",
+          "fr": "canton de Vaud",
+          "el": "Καντόνι του Βω",
+          "hi": "वो कैन्टन",
+          "hu": "Vaud kanton",
+          "id": "Kanton Vaud",
+          "it": "Canton Vaud",
+          "ja": "ヴォー州",
+          "ko": "보 주",
+          "nl": "Vaud",
+          "pl": "Vaud",
+          "pt": "Vaud",
+          "ru": "Во",
+          "sv": "Vaud",
+          "tr": "Vaud",
+          "vi": "Vaud",
+          "zh": "沃州"
+        },
+        "population": 865337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.02,
+          46.926
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-vd",
+        "area": 0.01894400000000009,
+        "bounding_box": [
+          6.946,
+          46.862,
+          7.094,
+          46.99
+        ],
+        "point": [
+          7.02,
+          46.926
+        ],
+        "labels": {
+          "alt": "Vad|Waadt|Waadtland",
+          "local": null,
+          "len": 4,
+          "ar": "كانتون فود",
+          "bn": "ভৌড ক্যান্টন",
+          "de": "Kanton Waadt",
+          "en": "Canton of Vaud",
+          "es": "Vaud",
+          "fr": "canton de Vaud",
+          "el": "Καντόνι του Βω",
+          "hi": "वो कैन्टन",
+          "hu": "Vaud kanton",
+          "id": "Kanton Vaud",
+          "it": "Canton Vaud",
+          "ja": "ヴォー州",
+          "ko": "보 주",
+          "nl": "Vaud",
+          "pl": "Vaud",
+          "pt": "Vaud",
+          "ru": "Во",
+          "sv": "Vaud",
+          "tr": "Vaud",
+          "vi": "Vaud",
+          "zh": "沃州"
+        },
+        "population": 865337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.763,
+          47.0065
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-ne",
+        "area": 0.20672000000000043,
+        "bounding_box": [
+          6.443,
+          46.845,
+          7.083,
+          47.168
+        ],
+        "point": [
+          6.763,
+          47.0065
+        ],
+        "labels": {
+          "alt": "Neuenburg",
+          "local": null,
+          "len": 9,
+          "ar": "كانتون نيوشاتل",
+          "bn": "ক্যান্টন অফ নুচাচেল",
+          "de": "Kanton Neuenburg",
+          "en": "Canton of Neuchâtel",
+          "es": "Neuchâtel",
+          "fr": "canton de Neuchâtel",
+          "el": "Καντόνι του Νεσατέλ",
+          "hi": "नोशातेल कैन्टन",
+          "hu": "Neuchâtel kanton",
+          "id": "Kanton Neuchâtel",
+          "it": "Canton Neuchâtel",
+          "ja": "ヌーシャテル州",
+          "ko": "뇌샤텔 주",
+          "nl": "Neuchâtel",
+          "pl": "Neuchâtel",
+          "pt": "Neuchâtel",
+          "ru": "Невшатель",
+          "sv": "Neuchâtel",
+          "tr": "Neuchâtel",
+          "vi": "Bang Neuchâtel",
+          "zh": "納沙泰爾州"
+        },
+        "population": 176679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648,
+          46.8245
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-be",
+        "area": 1.5752519999999917,
+        "bounding_box": [
+          6.85,
+          46.331,
+          8.446,
+          47.318
+        ],
+        "point": [
+          7.648,
+          46.8245
+        ],
+        "labels": {
+          "alt": "Berna|Berne",
+          "local": null,
+          "len": 4,
+          "ar": "كانتون برن",
+          "bn": "ক্যান্টন অব বার্ন",
+          "de": "Kanton Bern",
+          "en": "Canton of Bern",
+          "es": "Berna",
+          "fr": "canton de Berne",
+          "el": "Καντόνι της Βέρνης",
+          "hi": "बर्न कैन्टन",
+          "hu": "Bern kanton",
+          "id": "Kanton Bern",
+          "it": "Canton Berna",
+          "ja": "ベルン州",
+          "ko": "베른 주",
+          "nl": "Bern",
+          "pl": "Berno",
+          "pt": "Berna",
+          "ru": "Берн",
+          "sv": "Bern",
+          "tr": "Bern",
+          "vi": "Bern",
+          "zh": "伯恩州"
+        },
+        "population": 1025549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1685,
+          47.03
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-lu",
+        "area": 0.3308179999999964,
+        "bounding_box": [
+          7.839,
+          46.779,
+          8.498,
+          47.281
+        ],
+        "point": [
+          8.1685,
+          47.03
+        ],
+        "labels": {
+          "alt": "Lucerna|Luzern",
+          "local": null,
+          "len": 7,
+          "ar": "كانتون لوتسيرن",
+          "bn": "লুসেন ক্যান্টন",
+          "de": "Kanton Luzern",
+          "en": "Canton of Lucerne",
+          "es": "Lucerna",
+          "fr": "canton de Lucerne",
+          "el": "Λουζέμ",
+          "hi": "लूसर्न कैन्टन",
+          "hu": "Luzern kanton",
+          "id": "Kanton Luzern",
+          "it": "Canton Lucerna",
+          "ja": "ルツェルン州",
+          "ko": "루체른 주",
+          "nl": "Luzern",
+          "pl": "Lucerna",
+          "pt": "Lucerna",
+          "ru": "Люцерн",
+          "sv": "Luzern",
+          "tr": "Luzern",
+          "vi": "Luzern",
+          "zh": "卢塞恩州"
+        },
+        "population": 407655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5445,
+          47.1665
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-zg",
+        "area": 0.04404299999999958,
+        "bounding_box": [
+          8.406,
+          47.087,
+          8.683,
+          47.246
+        ],
+        "point": [
+          8.5445,
+          47.1665
+        ],
+        "labels": {
+          "alt": "Zoug|Zugo",
+          "local": null,
+          "len": 3,
+          "ar": "كانتون تسوغ",
+          "bn": "কেন্টনঅফ জগ",
+          "de": "Kanton Zug",
+          "en": "Canton of Zug",
+          "es": "Zug",
+          "fr": "canton de Zoug",
+          "el": "Κάντον οφ Ζάγκ",
+          "hi": "ज़ूग कैन्टन",
+          "hu": "Zug kanton",
+          "id": "Kanton Zug",
+          "it": "Canton Zugo",
+          "ja": "ツーク州",
+          "ko": "추크 주",
+          "nl": "Zug",
+          "pl": "Zug",
+          "pt": "Zug",
+          "ru": "Цуг",
+          "sv": "Zug",
+          "tr": "Zug",
+          "vi": "Bang Zug",
+          "zh": "楚格州"
+        },
+        "population": 128453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6725,
+          46.76
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-ur",
+        "area": 0.24122400000000158,
+        "bounding_box": [
+          8.408,
+          46.532,
+          8.937,
+          46.988
+        ],
+        "point": [
+          8.6725,
+          46.76
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "كانتون أوري",
+          "bn": "উরি",
+          "de": "Kanton Uri",
+          "en": "Uri",
+          "es": "Uri",
+          "fr": "canton d'Uri",
+          "el": "Ούρι",
+          "hi": "ऊरी कैन्टन",
+          "hu": "Uri kanton",
+          "id": "Kanton Uri",
+          "it": "Canton Uri",
+          "ja": "ウーリ州",
+          "ko": "우리 주",
+          "nl": "Uri",
+          "pl": "Uri",
+          "pt": "Uri",
+          "ru": "Ури",
+          "sv": "Uri",
+          "tr": "Uri",
+          "vi": "Bang Uri",
+          "zh": "烏里州"
+        },
+        "population": 36360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.686499999999999,
+          47.0565
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-sz",
+        "area": 0.19641299999999598,
+        "bounding_box": [
+          8.388,
+          46.892,
+          8.985,
+          47.221
+        ],
+        "point": [
+          8.686499999999999,
+          47.0565
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "كانتون شفيتس",
+          "bn": "শাভেজের ক্যান্টন",
+          "de": "Kanton Schwyz",
+          "en": "Canton of Schwyz",
+          "es": "Schwyz",
+          "fr": "canton de Schwytz",
+          "el": "Στσγουίζ",
+          "hi": "श्वीट्ज़ कैन्टन",
+          "hu": "Schwyz kanton",
+          "id": "Kanton Schwyz",
+          "it": "Canton Svitto",
+          "ja": "シュヴィーツ州",
+          "ko": "슈비츠 주",
+          "nl": "Schwyz",
+          "pl": "Schwyz",
+          "pt": "Schwyz",
+          "ru": "Швиц",
+          "sv": "Schwyz",
+          "tr": "Schwyz",
+          "vi": "Bang Schwyz",
+          "zh": "施維茨州"
+        },
+        "population": 167644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0565,
+          46.985
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-gl",
+        "area": 0.13579199999999808,
+        "bounding_box": [
+          8.872,
+          46.801,
+          9.241,
+          47.169
+        ],
+        "point": [
+          9.0565,
+          46.985
+        ],
+        "labels": {
+          "alt": "Glaris|Glarona|Glaruna",
+          "local": null,
+          "len": 6,
+          "ar": "كانتون غلاروس",
+          "bn": "ক্যান্টন অব গ্লারুস",
+          "de": "Kanton Glarus",
+          "en": "Canton of Glarus",
+          "es": "Cantón de Glaris",
+          "fr": "canton de Glaris",
+          "el": "Κάντον οφ Γκλάρους",
+          "hi": "ग्लारुस कैन्टन",
+          "hu": "Glarus kanton",
+          "id": "Kanton Glarus",
+          "it": "Canton Glarona",
+          "ja": "グラールス州",
+          "ko": "글라루스 주",
+          "nl": "Glarus",
+          "pl": "Glarus",
+          "pt": "Glarus",
+          "ru": "Гларус",
+          "sv": "Glarus",
+          "tr": "Glarus",
+          "vi": "Glarus",
+          "zh": "格拉魯斯州"
+        },
+        "population": 39008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3945,
+          46.8865
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-nw",
+        "area": 0.07470499999999945,
+        "bounding_box": [
+          8.227,
+          46.775,
+          8.562,
+          46.998
+        ],
+        "point": [
+          8.3945,
+          46.8865
+        ],
+        "labels": {
+          "alt": "Nidvaldo|Nidwald|Unterwalden-le-Bas|Nidwaldo",
+          "local": null,
+          "len": 9,
+          "ar": "كانتون نيدفالدن",
+          "bn": "নিডওয়ডেন",
+          "de": "Kanton Nidwalden",
+          "en": "Nidwalden",
+          "es": "Nidwalden",
+          "fr": "canton de Nidwald",
+          "el": "Νιντγουάλντεν",
+          "hi": "नीडवाल्डन कैन्टन",
+          "hu": "Nidwalden kanton",
+          "id": "Kanton Nidwalden",
+          "it": "Canton Nidvaldo",
+          "ja": "ニトヴァルデン準州",
+          "ko": "니트발덴 주",
+          "nl": "Nidwalden",
+          "pl": "Nidwalden",
+          "pt": "Nidwald",
+          "ru": "Нидвальден",
+          "sv": "Nidwalden",
+          "tr": "Nidwalden",
+          "vi": "Nidwalden",
+          "zh": "下瓦爾登州"
+        },
+        "population": 42834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.095000000000001,
+          46.7245
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-fr",
+        "area": 0.3219839999999983,
+        "bounding_box": [
+          6.807,
+          46.445,
+          7.383,
+          47.004
+        ],
+        "point": [
+          7.095000000000001,
+          46.7245
+        ],
+        "labels": {
+          "alt": "Freiburg|Friburg|Friburgo",
+          "local": null,
+          "len": 8,
+          "ar": "كانتون فريبورغ",
+          "bn": "ক্যান্টন  অফ ফিরবার্গ",
+          "de": "Kanton Freiburg",
+          "en": "Canton of Fribourg",
+          "es": "Friburgo",
+          "fr": "canton de Fribourg",
+          "el": "Κάντον οφ Φρίμπουργκ",
+          "hi": "फ़्राइबूर्ग कैन्टन",
+          "hu": "Fribourg kanton",
+          "id": "Kanton Fribourg",
+          "it": "Canton Friburgo",
+          "ja": "フリブール州",
+          "ko": "프리부르 주",
+          "nl": "Fribourg",
+          "pl": "Fryburg",
+          "pt": "Friburgo",
+          "ru": "Фрибур",
+          "sv": "Fribourg",
+          "tr": "Fribourg",
+          "vi": "Fribourg",
+          "zh": "弗里堡州"
+        },
+        "population": 322634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.848,
+          46.8465
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-fr",
+        "area": 0.01984399999999916,
+        "bounding_box": [
+          6.766,
+          46.786,
+          6.93,
+          46.907
+        ],
+        "point": [
+          6.848,
+          46.8465
+        ],
+        "labels": {
+          "alt": "Freiburg|Friburg|Friburgo",
+          "local": null,
+          "len": 8,
+          "ar": "كانتون فريبورغ",
+          "bn": "ক্যান্টন  অফ ফিরবার্গ",
+          "de": "Kanton Freiburg",
+          "en": "Canton of Fribourg",
+          "es": "Friburgo",
+          "fr": "canton de Fribourg",
+          "el": "Κάντον οφ Φρίμπουργκ",
+          "hi": "फ़्राइबूर्ग कैन्टन",
+          "hu": "Fribourg kanton",
+          "id": "Kanton Fribourg",
+          "it": "Canton Friburgo",
+          "ja": "フリブール州",
+          "ko": "프리부르 주",
+          "nl": "Fribourg",
+          "pl": "Fryburg",
+          "pt": "Friburgo",
+          "ru": "Фрибур",
+          "sv": "Fribourg",
+          "tr": "Fribourg",
+          "vi": "Fribourg",
+          "zh": "弗里堡州"
+        },
+        "population": 322634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.206,
+          46.8655
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-ow",
+        "area": 0.06901200000000028,
+        "bounding_box": [
+          8.044,
+          46.759,
+          8.368,
+          46.972
+        ],
+        "point": [
+          8.206,
+          46.8655
+        ],
+        "labels": {
+          "alt": "Obvaldo|Obwald|Unterwalden-le-Haut|Obwaldo|Sursilvania",
+          "local": null,
+          "len": 8,
+          "ar": "كانتون أوبفالدن",
+          "bn": "ওবেল্ডেন",
+          "de": "Kanton Obwalden",
+          "en": "Obwalden",
+          "es": "Obwalden",
+          "fr": "canton d'Obwald",
+          "el": "Ομπγουάλντεν",
+          "hi": "ओबवाल्डन कैन्टन",
+          "hu": "Obwalden kanton",
+          "id": "Kanton Obwalden",
+          "it": "Canton Obvaldo",
+          "ja": "オプヴァルデン準州",
+          "ko": "옵발덴 주",
+          "nl": "Obwalden",
+          "pl": "Obwalden",
+          "pt": "Obwald",
+          "ru": "Обвальден",
+          "sv": "Obwalden",
+          "tr": "Obwalden",
+          "vi": "Obwalden",
+          "zh": "上瓦爾登州"
+        },
+        "population": 40203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.43,
+          46.818
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-ow",
+        "area": 0.013719999999999913,
+        "bounding_box": [
+          8.36,
+          46.769,
+          8.5,
+          46.867
+        ],
+        "point": [
+          8.43,
+          46.818
+        ],
+        "labels": {
+          "alt": "Obvaldo|Obwald|Unterwalden-le-Haut|Obwaldo|Sursilvania",
+          "local": null,
+          "len": 8,
+          "ar": "كانتون أوبفالدن",
+          "bn": "ওবেল্ডেন",
+          "de": "Kanton Obwalden",
+          "en": "Obwalden",
+          "es": "Obwalden",
+          "fr": "canton d'Obwald",
+          "el": "Ομπγουάλντεν",
+          "hi": "ओबवाल्डन कैन्टन",
+          "hu": "Obwalden kanton",
+          "id": "Kanton Obwalden",
+          "it": "Canton Obvaldo",
+          "ja": "オプヴァルデン準州",
+          "ko": "옵발덴 주",
+          "nl": "Obwalden",
+          "pl": "Obwalden",
+          "pt": "Obwald",
+          "ru": "Обвальден",
+          "sv": "Obwalden",
+          "tr": "Obwalden",
+          "vi": "Obwalden",
+          "zh": "上瓦爾登州"
+        },
+        "population": 40203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.397,
+          47.3605
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-ar",
+        "area": 0.09073000000000157,
+        "bounding_box": [
+          9.186,
+          47.253,
+          9.608,
+          47.468
+        ],
+        "point": [
+          9.397,
+          47.3605
+        ],
+        "labels": {
+          "alt": "Appenzell Ausser-Rhoden|Appenzell Outer Rhodes|Appenzell dadens|Appenzell Rhodes Extérieures|Appenzello Esterno",
+          "local": null,
+          "len": 22,
+          "ar": "كانتون أبينزيل أوسيرهودن",
+          "bn": "অ্যাপেনজেল অসারহোডেন",
+          "de": "Kanton Appenzell Ausserrhoden",
+          "en": "canton of Appenzell Ausserrhoden",
+          "es": "Cantón de Appenzell Rodas Exteriores",
+          "fr": "canton d'Appenzell Rhodes-Extérieures",
+          "el": "Απενζέλ Οσερχόντεν",
+          "hi": "आपनत्सेल आउसारोडन कैन्टन",
+          "hu": "Appenzell Ausserrhoden kanton",
+          "id": "Kanton Appenzell Ausserrhoden",
+          "it": "Canton Appenzello Esterno",
+          "ja": "アッペンツェル・アウサーローデン準州",
+          "ko": "아펜첼아우서로덴 주",
+          "nl": "Appenzell Ausserrhoden",
+          "pl": "Appenzell Ausserrhoden",
+          "pt": "Appenzell Exterior",
+          "ru": "Аппенцелль-Ауссерроден",
+          "sv": "Appenzell Ausserrhoden",
+          "tr": "Appenzell Ausserrhoden",
+          "vi": "Appenzell Ausserrhoden",
+          "zh": "外阿彭策爾州"
+        },
+        "population": 64914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3955,
+          47.314
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ch",
+        "region_child": "ch-ai",
+        "area": 0.027379999999999096,
+        "bounding_box": [
+          9.303,
+          47.24,
+          9.488,
+          47.388
+        ],
+        "point": [
+          9.3955,
+          47.314
+        ],
+        "labels": {
+          "alt": "Appenzell Inner-Rhoden|Appenzell Inner Rhodes|Appenzell dador|Appenzell Rhodes Intérieures|Appenzello Interno",
+          "local": null,
+          "len": 21,
+          "ar": "كانتون أبينزيل إينرهودن",
+          "bn": "অ্যাপ্যেনজেল  ইনারহোদেন",
+          "de": "Kanton Appenzell Innerrhoden",
+          "en": "canton of Appenzell Innerrhoden",
+          "es": "Cantón de Appenzell Rodas Interiores",
+          "fr": "canton d'Appenzell Rhodes-Intérieures",
+          "el": "Απενζέλ Ινερχόντεν",
+          "hi": "आपनत्सेल इन्नररोडन कैन्टन",
+          "hu": "Appenzell Innerrhoden kanton",
+          "id": "Kanton Appenzell Innerrhoden",
+          "it": "Canton Appenzello Interno",
+          "ja": "アッペンツェル・インナーローデン準州",
+          "ko": "아펜첼이너로덴 주",
+          "nl": "Appenzell Innerrhoden",
+          "pl": "Appenzell Innerrhoden",
+          "pt": "Appenzell Interior",
+          "ru": "Аппенцелль-Иннерроден",
+          "sv": "Appenzell Innerrhoden",
+          "tr": "Appenzell Innerrhoden",
+          "vi": "Appenzell Innerrhoden",
+          "zh": "內阿彭策爾州"
+        },
+        "population": 15811
+      }
+    }
+  ]
+}

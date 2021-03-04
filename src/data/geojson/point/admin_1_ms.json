@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.197500000000005,
+          16.779
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ms",
+        "region_child": "ms-p",
+        "area": 0.004399999999999883,
+        "bounding_box": [
+          -62.225,
+          16.739,
+          -62.17,
+          16.819
+        ],
+        "point": [
+          -62.197500000000005,
+          16.779
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 4110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.188,
+          16.7115
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ms",
+        "region_child": "ms-a",
+        "area": 0.005401999999999889,
+        "bounding_box": [
+          -62.225,
+          16.675,
+          -62.151,
+          16.748
+        ],
+        "point": [
+          -62.188,
+          16.7115
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.17,
+          16.7485
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ms",
+        "region_child": "ms-g",
+        "area": 0.002165999999999894,
+        "bounding_box": [
+          -62.189,
+          16.72,
+          -62.151,
+          16.777
+        ],
+        "point": [
+          -62.17,
+          16.7485
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "سانت جورج، بربادوس",
+          "bn": "সেন্ট জর্জ",
+          "de": "Saint George",
+          "en": "Saint George",
+          "es": "Parroquia de Saint George",
+          "fr": "Saint George",
+          "el": "Άγιος Γεώργιος",
+          "hi": "सेंट जॉर्ज",
+          "hu": null,
+          "id": "Saint George",
+          "it": "Saint George",
+          "ja": "セント・ジョージ",
+          "ko": "세인트조지 교구",
+          "nl": "Saint George",
+          "pl": "Saint George",
+          "pt": "Saint George",
+          "ru": "Приход Сент-Джордж",
+          "sv": "Saint George",
+          "tr": "Saint George",
+          "vi": "Saint George",
+          "zh": "聖喬治教區"
+        },
+        "population": 0
+      }
+    }
+  ]
+}

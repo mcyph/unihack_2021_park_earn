@@ -1,0 +1,588 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.999000000000002,
+          -29.167
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ls",
+        "region_child": "ls-j",
+        "area": 0.7114359999999991,
+        "bounding_box": [
+          28.562,
+          -29.574,
+          29.436,
+          -28.76
+        ],
+        "point": [
+          28.999000000000002,
+          -29.167
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة موخوتلنغ",
+          "bn": "মোকুলং জেলা",
+          "de": "Mokhotlong",
+          "en": "Mokhotlong District",
+          "es": "Distrito de Mokhotlong",
+          "fr": "District de Mokhotlong",
+          "el": "Μοκχοτλόνγκ",
+          "hi": "मोखोटलांग जिला",
+          "hu": null,
+          "id": "Distrik Mokhotlong",
+          "it": "distretto di Mokhotlong",
+          "ja": "モコトロング県",
+          "ko": "모코틀롱 구",
+          "nl": "Mokhotlong",
+          "pl": "Dystrykt Mokhotlong",
+          "pt": "Mokhotlong",
+          "ru": "Мокотлонг",
+          "sv": "Mokhotlongdistriktet",
+          "tr": "Mokhotlong District",
+          "vi": "Quận Mokhotlong",
+          "zh": "莫霍特隆區"
+        },
+        "population": 107930
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.524,
+          -28.8115
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ls",
+        "region_child": "ls-b",
+        "area": 0.2931479999999987,
+        "bounding_box": [
+          28.218,
+          -29.051,
+          28.83,
+          -28.572
+        ],
+        "point": [
+          28.524,
+          -28.8115
+        ],
+        "labels": {
+          "alt": "Butha Buthe",
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة بوثا-بوث",
+          "bn": "বুথা বুথে জেলা",
+          "de": "Butha-Buthe",
+          "en": "Butha-Buthe District",
+          "es": "Distrito de Butha-Buthe",
+          "fr": "District de Butha-Buthe",
+          "el": "Μπούτα-Μπούθε",
+          "hi": "बूथा-बूथे जिला",
+          "hu": null,
+          "id": "Distrik Butha-Buthe",
+          "it": "distretto di Butha-Buthe",
+          "ja": "ブータ・ブーテ県",
+          "ko": "부타부테 구",
+          "nl": "Butha-Buthe",
+          "pl": "Dystrykt Butha-Buthe",
+          "pt": "Butha-Buthe",
+          "ru": "Бута-Буте",
+          "sv": "Butha-Buthe",
+          "tr": "Butha-Buthe Bölgesi",
+          "vi": "Quận Butha-Buthe",
+          "zh": "布塔-布泰區"
+        },
+        "population": 95580
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2125,
+          -29.021
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ls",
+        "region_child": "ls-c",
+        "area": 0.7404800000000007,
+        "bounding_box": [
+          27.634,
+          -29.341,
+          28.791,
+          -28.701
+        ],
+        "point": [
+          28.2125,
+          -29.021
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة لريب",
+          "bn": "লেরিবে জেলা",
+          "de": "Leribe",
+          "en": "Leribe District",
+          "es": "Distrito de Leribe",
+          "fr": "District de Leribe",
+          "el": "Λερίμπε",
+          "hi": "लारीब जिला",
+          "hu": null,
+          "id": "Distrik Leribe",
+          "it": "distretto di Leribe",
+          "ja": "レリベ県",
+          "ko": "레리베 구",
+          "nl": "Leribe",
+          "pl": "Dystrykt Leribe",
+          "pt": "Leribe",
+          "ru": "Лерибе",
+          "sv": "Leribe District",
+          "tr": "Leribe District",
+          "vi": "Quận Leribe",
+          "zh": "萊里貝區"
+        },
+        "population": 283219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.673499999999997,
+          -29.956
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ls",
+        "region_child": "ls-h",
+        "area": 0.4083939999999972,
+        "bounding_box": [
+          28.203,
+          -30.173,
+          29.144,
+          -29.739
+        ],
+        "point": [
+          28.673499999999997,
+          -29.956
+        ],
+        "labels": {
+          "alt": "Quacha's Nek|Quachas Nek",
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة قاخاز نك",
+          "bn": "কাচাস নেক জেলা",
+          "de": "Qacha’s Nek",
+          "en": "Qacha's Nek District",
+          "es": "Distrito de Qacha's Nek",
+          "fr": "District de Qacha's Nek",
+          "el": "Κάτσας Νεκ",
+          "hi": "काशाज़ नेक जिला",
+          "hu": null,
+          "id": "Distrik Qacha's Nek",
+          "it": "distretto di Qacha's Nek",
+          "ja": "クァクハスネック県",
+          "ko": "카차스네크 구",
+          "nl": "Qacha's Nek",
+          "pl": "Dystrykt Qacha's Nek",
+          "pt": "Qacha's Nek",
+          "ru": "Цгачас-Нек",
+          "sv": "Qacha's Nek",
+          "tr": "Qacha's Nek District",
+          "vi": "Quận Qacha's Nek",
+          "zh": "加查斯內克區"
+        },
+        "population": 66574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.689500000000002,
+          -29.5
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ls",
+        "region_child": "ls-k",
+        "area": 0.9290519999999949,
+        "bounding_box": [
+          28.1,
+          -29.894,
+          29.279,
+          -29.106
+        ],
+        "point": [
+          28.689500000000002,
+          -29.5
+        ],
+        "labels": {
+          "alt": "Thaba Tseka",
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة ثابا-تسيكا",
+          "bn": "থাবা তেস্কা জেলা",
+          "de": "Thaba-Tseka",
+          "en": "Thaba-Tseka District",
+          "es": "Distrito de Thaba-Tseka",
+          "fr": "District de Thaba-Tseka",
+          "el": "Θάμπα-Τσέκα",
+          "hi": "थबा-त्सेका जिला",
+          "hu": null,
+          "id": "Distrik Thaba-Tseka",
+          "it": "distretto di Thaba-Tseka",
+          "ja": "ターバ・ツェーカ県",
+          "ko": "타바체카 구",
+          "nl": "Thaba-Tseka",
+          "pl": "Dystrykt Thaba-Tseka",
+          "pt": "Thaba-Tseka",
+          "ru": "Таба-Цека",
+          "sv": "Thaba-Tseka",
+          "tr": "Thaba-Tseka District",
+          "vi": "Quận Thaba-Tseka",
+          "zh": "塔巴-采卡區"
+        },
+        "population": 129808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8985,
+          -29.155
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ls",
+        "region_child": "ls-d",
+        "area": 0.33790000000000087,
+        "bounding_box": [
+          27.511,
+          -29.373,
+          28.286,
+          -28.937
+        ],
+        "point": [
+          27.8985,
+          -29.155
+        ],
+        "labels": {
+          "alt": "Teyateyaneng",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة بيريا",
+          "bn": "বেরিয়া জেলা",
+          "de": "Berea",
+          "en": "Berea District",
+          "es": "Distrito de Berea",
+          "fr": "District de Berea",
+          "el": "Μπερέα",
+          "hi": "बीरिया जिला",
+          "hu": null,
+          "id": "Distrik Berea",
+          "it": "distretto di Berea",
+          "ja": "ベレア県",
+          "ko": "베레아 구",
+          "nl": "Berea",
+          "pl": "Dystrykt Berea",
+          "pt": "Berea",
+          "ru": "Берья",
+          "sv": "Berea",
+          "tr": "Berea District",
+          "vi": "Quận Berea",
+          "zh": "伯里亞區"
+        },
+        "population": 290000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7515,
+          -29.585
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ls",
+        "region_child": "ls-a",
+        "area": 0.5779199999999997,
+        "bounding_box": [
+          27.3,
+          -29.905,
+          28.203,
+          -29.265
+        ],
+        "point": [
+          27.7515,
+          -29.585
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة ماسيرو",
+          "bn": "মাসেরো জেলা",
+          "de": "Maseru",
+          "en": "Maseru District",
+          "es": "Distrito de Maseru",
+          "fr": "District de Maseru",
+          "el": "Μασερού",
+          "hi": "मसेरु जिला",
+          "hu": null,
+          "id": "Distrik Maseru",
+          "it": "distretto di Maseru",
+          "ja": "マセル県",
+          "ko": "마세루 구",
+          "nl": "Maseru",
+          "pl": "Dystrykt Maseru",
+          "pt": "Maseru",
+          "ru": "Масеру",
+          "sv": "Maseru",
+          "tr": "Maseru District",
+          "vi": "Quận Maseru",
+          "zh": "馬塞盧區"
+        },
+        "population": 458136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54,
+          -29.7795
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ls",
+        "region_child": "ls-e",
+        "area": 0.5584440000000023,
+        "bounding_box": [
+          27.002,
+          -30.039,
+          28.078,
+          -29.52
+        ],
+        "point": [
+          27.54,
+          -29.7795
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة مافتنغ",
+          "bn": "মাফেতেং জেলা",
+          "de": "Mafeteng",
+          "en": "Mafeteng District",
+          "es": "Distrito de Mafeteng",
+          "fr": "District de Mafeteng",
+          "el": "Μαφετένγκ",
+          "hi": "माफेटेंग जिला",
+          "hu": null,
+          "id": "Distrik Mafeteng",
+          "it": "distretto di Mafeteng",
+          "ja": "マフェテング県",
+          "ko": "마페텡 구",
+          "nl": "Mafeteng",
+          "pl": "Dystrykt Mafeteng",
+          "pt": "Mafeteng",
+          "ru": "Мафетенг",
+          "sv": "Mafeteng District",
+          "tr": "Mafeteng District",
+          "vi": "Quận Mafeteng",
+          "zh": "馬費滕區"
+        },
+        "population": 173137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2,
+          -29.8315
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ls",
+        "region_child": "ls-e",
+        "area": 0.056979999999999,
+        "bounding_box": [
+          28.09,
+          -29.961,
+          28.31,
+          -29.702
+        ],
+        "point": [
+          28.2,
+          -29.8315
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة مافتنغ",
+          "bn": "মাফেতেং জেলা",
+          "de": "Mafeteng",
+          "en": "Mafeteng District",
+          "es": "Distrito de Mafeteng",
+          "fr": "District de Mafeteng",
+          "el": "Μαφετένγκ",
+          "hi": "माफेटेंग जिला",
+          "hu": null,
+          "id": "Distrik Mafeteng",
+          "it": "distretto di Mafeteng",
+          "ja": "マフェテング県",
+          "ko": "마페텡 구",
+          "nl": "Mafeteng",
+          "pl": "Dystrykt Mafeteng",
+          "pt": "Mafeteng",
+          "ru": "Мафетенг",
+          "sv": "Mafeteng District",
+          "tr": "Mafeteng District",
+          "vi": "Quận Mafeteng",
+          "zh": "馬費滕區"
+        },
+        "population": 173137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.863,
+          -30.0845
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ls",
+        "region_child": "ls-f",
+        "area": 0.8539280000000015,
+        "bounding_box": [
+          27.171,
+          -30.393,
+          28.555,
+          -29.776
+        ],
+        "point": [
+          27.863,
+          -30.0845
+        ],
+        "labels": {
+          "alt": "Mohales Hoek",
+          "local": null,
+          "len": 13,
+          "ar": "مقاطعة موهيلز هوك",
+          "bn": "মোহালেস হোয়েক জেলা",
+          "de": "Mohale’s Hoek",
+          "en": "Mohale's Hoek District",
+          "es": "Distrito de Mohale's Hoek",
+          "fr": "District de Mohale's Hoek",
+          "el": "Μοχάλες Χόεκ",
+          "hi": "मोहालेज़ होएक जिला",
+          "hu": null,
+          "id": "Distrik Mohale's Hoek",
+          "it": "distretto di Mohale's Hoek",
+          "ja": "モハレス・フーク県",
+          "ko": "모할레스후크 구",
+          "nl": "Mohale's Hoek",
+          "pl": "Dystrykt Mohale's Hoek",
+          "pt": "Mohale's Hoek",
+          "ru": "Мохалес-Хук",
+          "sv": "Mohale's Hoek District",
+          "tr": "Mohale's Hoek District",
+          "vi": "Quận Mohale's Hoek",
+          "zh": "莫哈萊斯胡克區"
+        },
+        "population": 152938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9445,
+          -30.325499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ls",
+        "region_child": "ls-g",
+        "area": 0.5341269999999981,
+        "bounding_box": [
+          27.533,
+          -30.65,
+          28.356,
+          -30.001
+        ],
+        "point": [
+          27.9445,
+          -30.325499999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة قوثنغ",
+          "bn": "কুতিং জেলা",
+          "de": "Quthing",
+          "en": "Quthing District",
+          "es": "Quthing",
+          "fr": "District de Quthing",
+          "el": "Κουτίνγκ",
+          "hi": "क्यूथिंग जिला",
+          "hu": null,
+          "id": "Distrik Quthing",
+          "it": "distretto di Quthing",
+          "ja": "クティング県",
+          "ko": "쿠팅 구",
+          "nl": "Quthing",
+          "pl": "Dystrykt Quthing",
+          "pt": "Quthing",
+          "ru": "Цгутинг",
+          "sv": "Quthing",
+          "tr": "Quthing Distring",
+          "vi": "Quận Quthing",
+          "zh": "古廷區"
+        },
+        "population": 119607
+      }
+    }
+  ]
+}

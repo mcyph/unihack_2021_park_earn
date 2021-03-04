@@ -1,0 +1,1985 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791,
+          43.675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "099",
+        "area": 0.23660000000000164,
+        "bounding_box": [
+          -97.129,
+          43.5,
+          -96.453,
+          43.85
+        ],
+        "point": [
+          -96.791,
+          43.675
+        ],
+        "labels": {
+          "en": "Minnehaha"
+        },
+        "population": 195135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.757,
+          43.334
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "067",
+        "area": 0.23771199999999854,
+        "bounding_box": [
+          -98.115,
+          43.168,
+          -97.399,
+          43.5
+        ],
+        "point": [
+          -97.757,
+          43.334
+        ],
+        "labels": {
+          "en": "Hutchinson"
+        },
+        "population": 6683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.67099999999999,
+          44.0225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "101",
+        "area": 0.15216399999999913,
+        "bounding_box": [
+          -96.889,
+          43.848,
+          -96.453,
+          44.197
+        ],
+        "point": [
+          -96.67099999999999,
+          44.0225
+        ],
+        "labels": {
+          "en": "Moody"
+        },
+        "population": 6453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.40799999999999,
+          43.348
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "043",
+        "area": 0.18059599999999945,
+        "bounding_box": [
+          -98.707,
+          43.197,
+          -98.109,
+          43.499
+        ],
+        "point": [
+          -98.40799999999999,
+          43.348
+        ],
+        "labels": {
+          "en": "Douglas"
+        },
+        "population": 2620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6685,
+          44.760999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "039",
+        "area": 0.18879000000000298,
+        "bounding_box": [
+          -96.886,
+          44.544,
+          -96.451,
+          44.978
+        ],
+        "point": [
+          -96.6685,
+          44.760999999999996
+        ],
+        "labels": {
+          "en": "Deuel"
+        },
+        "population": 4234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.737,
+          44.8485
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "025",
+        "area": 0.29962800000000356,
+        "bounding_box": [
+          -97.983,
+          44.544,
+          -97.491,
+          45.153
+        ],
+        "point": [
+          -97.737,
+          44.8485
+        ],
+        "labels": {
+          "en": "Clark"
+        },
+        "population": 3279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.61,
+          44.022
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "097",
+        "area": 0.16677200000000153,
+        "bounding_box": [
+          -97.851,
+          43.849,
+          -97.369,
+          44.195
+        ],
+        "point": [
+          -97.61,
+          44.022
+        ],
+        "labels": {
+          "en": "Miner"
+        },
+        "population": 2015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.62950000000001,
+          44.066
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "073",
+        "area": 0.1558900000000037,
+        "bounding_box": [
+          -98.927,
+          43.935,
+          -98.332,
+          44.197
+        ],
+        "point": [
+          -98.62950000000001,
+          44.066
+        ],
+        "labels": {
+          "en": "Jerauld"
+        },
+        "population": 1882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.369,
+          43.674499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "087",
+        "area": 0.1675199999999948,
+        "bounding_box": [
+          -97.609,
+          43.5,
+          -97.129,
+          43.849
+        ],
+        "point": [
+          -97.369,
+          43.674499999999995
+        ],
+        "labels": {
+          "en": "McCook"
+        },
+        "population": 5456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.75399999999999,
+          44.373
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "081",
+        "area": 0.2802559999999988,
+        "bounding_box": [
+          -104.056,
+          44.141,
+          -103.452,
+          44.605
+        ],
+        "point": [
+          -103.75399999999999,
+          44.373
+        ],
+        "labels": {
+          "en": "Lawrence"
+        },
+        "population": 26627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.568,
+          44.9925
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "137",
+        "area": 0.8303040000000029,
+        "bounding_box": [
+          -102.0,
+          44.512,
+          -101.136,
+          45.473
+        ],
+        "point": [
+          -101.568,
+          44.9925
+        ],
+        "labels": {
+          "en": "Ziebach"
+        },
+        "population": 2629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.13149999999999,
+          43.717
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "015",
+        "area": 0.29429999999999873,
+        "bounding_box": [
+          -99.469,
+          43.499,
+          -98.794,
+          43.935
+        ],
+        "point": [
+          -99.13149999999999,
+          43.717
+        ],
+        "labels": {
+          "en": "Brule"
+        },
+        "population": 5152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.201,
+          44.7225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "119",
+        "area": 0.37065600000000565,
+        "bounding_box": [
+          -100.729,
+          44.547,
+          -99.673,
+          44.898
+        ],
+        "point": [
+          -100.201,
+          44.7225
+        ],
+        "labels": {
+          "en": "Sully"
+        },
+        "population": 1205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0975,
+          45.420500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "129",
+        "area": 0.27187099999999614,
+        "bounding_box": [
+          -100.487,
+          45.246,
+          -99.708,
+          45.595
+        ],
+        "point": [
+          -100.0975,
+          45.420500000000004
+        ],
+        "labels": {
+          "en": "Walworth"
+        },
+        "population": 4929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.491,
+          44.3695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "077",
+        "area": 0.25337399999999727,
+        "bounding_box": [
+          -97.854,
+          44.195,
+          -97.128,
+          44.544
+        ],
+        "point": [
+          -97.491,
+          44.3695
+        ],
+        "labels": {
+          "en": "Kingsbury"
+        },
+        "population": 4511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5275,
+          44.370999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "055",
+        "area": 0.7226720000000012,
+        "bounding_box": [
+          -102.008,
+          43.995,
+          -101.047,
+          44.747
+        ],
+        "point": [
+          -101.5275,
+          44.370999999999995
+        ],
+        "labels": {
+          "en": "Haakon"
+        },
+        "population": 1718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.787,
+          43.675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "061",
+        "area": 0.12742400000000198,
+        "bounding_box": [
+          -97.968,
+          43.499,
+          -97.606,
+          43.851
+        ],
+        "point": [
+          -97.787,
+          43.675
+        ],
+        "labels": {
+          "en": "Hanson"
+        },
+        "population": 3529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.879,
+          45.0985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "041",
+        "area": 0.9317560000000027,
+        "bounding_box": [
+          -101.501,
+          44.724,
+          -100.257,
+          45.473
+        ],
+        "point": [
+          -100.879,
+          45.0985
+        ],
+        "labels": {
+          "en": "Dewey"
+        },
+        "population": 5222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.983,
+          42.894000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "027",
+        "area": 0.13527999999999885,
+        "bounding_box": [
+          -97.161,
+          42.704,
+          -96.805,
+          43.084
+        ],
+        "point": [
+          -96.983,
+          42.894000000000005
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 14097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3985,
+          42.985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "135",
+        "area": 0.1764900000000036,
+        "bounding_box": [
+          -97.637,
+          42.8,
+          -97.16,
+          43.17
+        ],
+        "point": [
+          -97.3985,
+          42.985
+        ],
+        "labels": {
+          "en": "Yankton"
+        },
+        "population": 23153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.352,
+          45.5895
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "013",
+        "area": 0.5214539999999951,
+        "bounding_box": [
+          -98.725,
+          45.24,
+          -97.979,
+          45.939
+        ],
+        "point": [
+          -98.352,
+          45.5895
+        ],
+        "labels": {
+          "en": "Brown"
+        },
+        "population": 37637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.12950000000001,
+          44.022
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "079",
+        "area": 0.16738800000000256,
+        "bounding_box": [
+          -97.37,
+          43.848,
+          -96.889,
+          44.196
+        ],
+        "point": [
+          -97.12950000000001,
+          44.022
+        ],
+        "labels": {
+          "en": "Lake"
+        },
+        "population": 11117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.825,
+          43.859
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "085",
+        "area": 0.7783120000000061,
+        "bounding_box": [
+          -100.367,
+          43.5,
+          -99.283,
+          44.218
+        ],
+        "point": [
+          -99.825,
+          43.859
+        ],
+        "labels": {
+          "en": "Lyman"
+        },
+        "population": 3625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.60149999999999,
+          43.692
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "071",
+        "area": 0.6514499999999959,
+        "bounding_box": [
+          -102.139,
+          43.389,
+          -101.064,
+          43.995
+        ],
+        "point": [
+          -101.60149999999999,
+          43.692
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 3121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.37100000000001,
+          43.667
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "033",
+        "area": 0.519840000000007,
+        "bounding_box": [
+          -104.055,
+          43.477,
+          -102.687,
+          43.857
+        ],
+        "point": [
+          -103.37100000000001,
+          43.667
+        ],
+        "labels": {
+          "en": "Custer"
+        },
+        "population": 9327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2795,
+          44.414500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "005",
+        "area": 0.3744670000000038,
+        "bounding_box": [
+          -98.706,
+          44.195,
+          -97.853,
+          44.634
+        ],
+        "point": [
+          -98.2795,
+          44.414500000000004
+        ],
+        "labels": {
+          "en": "Beadle"
+        },
+        "population": 17870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7015,
+          43.9385
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "075",
+        "area": 0.33422499999999633,
+        "bounding_box": [
+          -101.064,
+          43.708,
+          -100.339,
+          44.169
+        ],
+        "point": [
+          -100.7015,
+          43.9385
+        ],
+        "labels": {
+          "en": "Jones"
+        },
+        "population": 839
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.108,
+          45.7685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "021",
+        "area": 0.27448199999999806,
+        "bounding_box": [
+          -100.499,
+          45.593,
+          -99.717,
+          45.944
+        ],
+        "point": [
+          -100.108,
+          45.7685
+        ],
+        "labels": {
+          "en": "Campbell"
+        },
+        "population": 1211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.494,
+          45.579
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "063",
+        "area": 0.8081280000000091,
+        "bounding_box": [
+          -104.046,
+          45.213,
+          -102.942,
+          45.945
+        ],
+        "point": [
+          -103.494,
+          45.579
+        ],
+        "labels": {
+          "en": "Harding"
+        },
+        "population": 1160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1885,
+          44.9775
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "029",
+        "area": 0.21393700000000215,
+        "bounding_box": [
+          -97.495,
+          44.803,
+          -96.882,
+          45.152
+        ],
+        "point": [
+          -97.1885,
+          44.9775
+        ],
+        "labels": {
+          "en": "Codington"
+        },
+        "population": 28585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8945,
+          42.966
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "009",
+        "area": 0.21175199999999708,
+        "bounding_box": [
+          -98.154,
+          42.762,
+          -97.635,
+          43.17
+        ],
+        "point": [
+          -97.8945,
+          42.966
+        ],
+        "labels": {
+          "en": "Bon Homme"
+        },
+        "population": 6883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6695,
+          43.193
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "007",
+        "area": 0.3479020000000024,
+        "bounding_box": [
+          -102.111,
+          42.996,
+          -101.228,
+          43.39
+        ],
+        "point": [
+          -101.6695,
+          43.193
+        ],
+        "labels": {
+          "en": "Bennett"
+        },
+        "population": 3234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.84899999999999,
+          45.6165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "109",
+        "area": 0.48436199999999935,
+        "bounding_box": [
+          -97.228,
+          45.297,
+          -96.47,
+          45.936
+        ],
+        "point": [
+          -96.84899999999999,
+          45.6165
+        ],
+        "labels": {
+          "en": "Roberts"
+        },
+        "population": 10281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.713,
+          43.194
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "121",
+        "area": 0.40376000000000356,
+        "bounding_box": [
+          -101.228,
+          42.998,
+          -100.198,
+          43.39
+        ],
+        "point": [
+          -100.713,
+          43.194
+        ],
+        "labels": {
+          "en": "Todd"
+        },
+        "population": 10206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1625,
+          43.2915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "125",
+        "area": 0.19890899999999645,
+        "bounding_box": [
+          -97.401,
+          43.083,
+          -96.924,
+          43.5
+        ],
+        "point": [
+          -97.1625,
+          43.2915
+        ],
+        "labels": {
+          "en": "Turner"
+        },
+        "population": 7873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1455,
+          43.674499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "035",
+        "area": 0.12743299999999702,
+        "bounding_box": [
+          -98.326,
+          43.498,
+          -97.965,
+          43.851
+        ],
+        "point": [
+          -98.1455,
+          43.674499999999995
+        ],
+        "labels": {
+          "en": "Davison"
+        },
+        "population": 20283
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5295,
+          44.476
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "117",
+        "area": 0.7854000000000031,
+        "bounding_box": [
+          -101.167,
+          44.168,
+          -99.892,
+          44.784
+        ],
+        "point": [
+          -100.5295,
+          44.476
+        ],
+        "labels": {
+          "en": "Stanley"
+        },
+        "population": 3168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.56450000000001,
+          43.718500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "003",
+        "area": 0.21379300000000398,
+        "bounding_box": [
+          -98.808,
+          43.499,
+          -98.321,
+          43.938
+        ],
+        "point": [
+          -98.56450000000001,
+          43.718500000000006
+        ],
+        "labels": {
+          "en": "Aurora"
+        },
+        "population": 2386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.028,
+          44.099000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "103",
+        "area": 1.6924960000000122,
+        "bounding_box": [
+          -104.055,
+          43.687,
+          -102.001,
+          44.511
+        ],
+        "point": [
+          -103.028,
+          44.099000000000004
+        ],
+        "labels": {
+          "en": "Pennington"
+        },
+        "population": 115277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.681,
+          43.2915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "083",
+        "area": 0.2034960000000006,
+        "bounding_box": [
+          -96.925,
+          43.083,
+          -96.437,
+          43.5
+        ],
+        "point": [
+          -96.681,
+          43.2915
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 81948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.478,
+          45.4915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "105",
+        "area": 0.868906000000002,
+        "bounding_box": [
+          -102.957,
+          45.038,
+          -101.999,
+          45.945
+        ],
+        "point": [
+          -102.478,
+          45.4915
+        ],
+        "labels": {
+          "en": "Perkins"
+        },
+        "population": 2316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791,
+          44.3695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "011",
+        "area": 0.23662199999999678,
+        "bounding_box": [
+          -97.13,
+          44.195,
+          -96.452,
+          44.544
+        ],
+        "point": [
+          -96.791,
+          44.3695
+        ],
+        "labels": {
+          "en": "Brookings"
+        },
+        "population": 36011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2515,
+          44.065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "017",
+        "area": 0.1718640000000009,
+        "bounding_box": [
+          -99.577,
+          43.933,
+          -98.926,
+          44.197
+        ],
+        "point": [
+          -99.2515,
+          44.065
+        ],
+        "labels": {
+          "en": "Buffalo"
+        },
+        "population": 1804
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.721,
+          43.6205
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "095",
+        "area": 0.46948199999999185,
+        "bounding_box": [
+          -101.228,
+          43.389,
+          -100.214,
+          43.852
+        ],
+        "point": [
+          -100.721,
+          43.6205
+        ],
+        "labels": {
+          "en": "Mellette"
+        },
+        "population": 2007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9985,
+          45.072
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "107",
+        "area": 0.2978500000000059,
+        "bounding_box": [
+          -100.424,
+          44.897,
+          -99.573,
+          45.247
+        ],
+        "point": [
+          -99.9985,
+          45.072
+        ],
+        "labels": {
+          "en": "Potter"
+        },
+        "population": 2030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.528,
+          43.239999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "047",
+        "area": 0.5038120000000026,
+        "bounding_box": [
+          -104.055,
+          43.001,
+          -103.001,
+          43.479
+        ],
+        "point": [
+          -103.528,
+          43.239999999999995
+        ],
+        "labels": {
+          "en": "Fall River"
+        },
+        "population": 6740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.09,
+          44.323
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "065",
+        "area": 0.44190000000000246,
+        "bounding_box": [
+          -100.581,
+          44.098,
+          -99.599,
+          44.548
+        ],
+        "point": [
+          -100.09,
+          44.323
+        ],
+        "labels": {
+          "en": "Hughes"
+        },
+        "population": 17595
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.488,
+          44.5445
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "069",
+        "area": 0.2650800000000027,
+        "bounding_box": [
+          -99.676,
+          44.192,
+          -99.3,
+          44.897
+        ],
+        "point": [
+          -99.488,
+          44.5445
+        ],
+        "labels": {
+          "en": "Hyde"
+        },
+        "population": 1213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.188,
+          44.673500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "057",
+        "area": 0.15868800000000277,
+        "bounding_box": [
+          -97.492,
+          44.543,
+          -96.884,
+          44.804
+        ],
+        "point": [
+          -97.188,
+          44.673500000000004
+        ],
+        "labels": {
+          "en": "Hamlin"
+        },
+        "population": 6356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21549999999999,
+          45.4185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "045",
+        "area": 0.34446300000000685,
+        "bounding_box": [
+          -99.709,
+          45.244,
+          -98.722,
+          45.593
+        ],
+        "point": [
+          -99.21549999999999,
+          45.4185
+        ],
+        "labels": {
+          "en": "Edmunds"
+        },
+        "population": 3866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0065,
+          44.546
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "059",
+        "area": 0.43032599999999854,
+        "bounding_box": [
+          -99.313,
+          44.195,
+          -98.7,
+          44.897
+        ],
+        "point": [
+          -99.0065,
+          44.546
+        ],
+        "labels": {
+          "en": "Hand"
+        },
+        "population": 3198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3475,
+          44.938
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "115",
+        "area": 0.45349200000000117,
+        "bounding_box": [
+          -98.718,
+          44.632,
+          -97.977,
+          45.244
+        ],
+        "point": [
+          -98.3475,
+          44.938
+        ],
+        "labels": {
+          "en": "Spink"
+        },
+        "population": 5480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1445,
+          45.071
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "049",
+        "area": 0.2982359999999989,
+        "bounding_box": [
+          -99.573,
+          44.897,
+          -98.716,
+          45.245
+        ],
+        "point": [
+          -99.1445,
+          45.071
+        ],
+        "labels": {
+          "en": "Faulk"
+        },
+        "population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5075,
+          44.891999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "019",
+        "area": 0.7068420000000118,
+        "bounding_box": [
+          -104.058,
+          44.571,
+          -102.957,
+          45.213
+        ],
+        "point": [
+          -103.5075,
+          44.891999999999996
+        ],
+        "labels": {
+          "en": "Butte"
+        },
+        "population": 11208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.787,
+          44.59
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "093",
+        "area": 1.416599999999996,
+        "bounding_box": [
+          -103.574,
+          44.14,
+          -102.0,
+          45.04
+        ],
+        "point": [
+          -102.787,
+          44.59
+        ],
+        "labels": {
+          "en": "Meade"
+        },
+        "population": 26443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.221,
+          45.766000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "089",
+        "area": 0.3479000000000013,
+        "bounding_box": [
+          -99.718,
+          45.591,
+          -98.724,
+          45.941
+        ],
+        "point": [
+          -99.221,
+          45.766000000000005
+        ],
+        "labels": {
+          "en": "McPherson"
+        },
+        "population": 2094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.541,
+          43.352000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "102",
+        "area": 0.6495199999999975,
+        "bounding_box": [
+          -103.001,
+          42.999,
+          -102.081,
+          43.705
+        ],
+        "point": [
+          -102.541,
+          43.352000000000004
+        ],
+        "labels": {
+          "en": "Oglala Lakota"
+        },
+        "population": 14872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.69,
+          43.1685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "023",
+        "area": 0.8234459999999988,
+        "bounding_box": [
+          -99.311,
+          42.837,
+          -98.069,
+          43.5
+        ],
+        "point": [
+          -98.69,
+          43.1685
+        ],
+        "labels": {
+          "en": "Charles Mix"
+        },
+        "population": 8919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.62549999999999,
+          42.782
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "127",
+        "area": 0.21804400000000482,
+        "bounding_box": [
+          -96.806,
+          42.48,
+          -96.445,
+          43.084
+        ],
+        "point": [
+          -96.62549999999999,
+          42.782
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 16261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.604,
+          45.3695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "037",
+        "area": 0.3303719999999983,
+        "bounding_box": [
+          -97.982,
+          45.151,
+          -97.226,
+          45.588
+        ],
+        "point": [
+          -97.604,
+          45.3695
+        ],
+        "labels": {
+          "en": "Day"
+        },
+        "population": 5236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8825,
+          43.382
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "123",
+        "area": 0.5352959999999917,
+        "bounding_box": [
+          -100.231,
+          42.998,
+          -99.534,
+          43.766
+        ],
+        "point": [
+          -99.8825,
+          43.382
+        ],
+        "labels": {
+          "en": "Tripp"
+        },
+        "population": 4944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.09049999999999,
+          44.0235
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "111",
+        "area": 0.1676009999999971,
+        "bounding_box": [
+          -98.332,
+          43.85,
+          -97.849,
+          44.197
+        ],
+        "point": [
+          -98.09049999999999,
+          44.0235
+        ],
+        "labels": {
+          "en": "Sanborn"
+        },
+        "population": 2094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.155,
+          45.7085
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "031",
+        "area": 0.8003160000000017,
+        "bounding_box": [
+          -102.001,
+          45.472,
+          -100.309,
+          45.945
+        ],
+        "point": [
+          -101.155,
+          45.7085
+        ],
+        "labels": {
+          "en": "Corson"
+        },
+        "population": 3880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.01650000000001,
+          43.248999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "053",
+        "area": 0.519570000000008,
+        "bounding_box": [
+          -99.534,
+          42.998,
+          -98.499,
+          43.5
+        ],
+        "point": [
+          -99.01650000000001,
+          43.248999999999995
+        ],
+        "labels": {
+          "en": "Gregory"
+        },
+        "population": 3802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.839,
+          45.152
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "051",
+        "area": 0.2709000000000014,
+        "bounding_box": [
+          -97.226,
+          44.977,
+          -96.452,
+          45.327
+        ],
+        "point": [
+          -96.839,
+          45.152
+        ],
+        "labels": {
+          "en": "Grant"
+        },
+        "population": 6922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6035,
+          45.747
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sd",
+        "region_child": "091",
+        "area": 0.2846340000000001,
+        "bounding_box": [
+          -97.98,
+          45.558,
+          -97.227,
+          45.936
+        ],
+        "point": [
+          -97.6035,
+          45.747
+        ],
+        "labels": {
+          "en": "Marshall"
+        },
+        "population": 4718
+      }
+    }
+  ]
+}

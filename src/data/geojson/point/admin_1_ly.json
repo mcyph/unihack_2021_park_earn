@@ -1,0 +1,1171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.625,
+          30.4735
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-gd",
+        "area": 10.406963999999991,
+        "bounding_box": [
+          9.287,
+          28.529,
+          11.963,
+          32.418
+        ],
+        "point": [
+          10.625,
+          30.4735
+        ],
+        "labels": {
+          "alt": "Gadamis|Ghadames",
+          "local": null,
+          "len": 8,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 125557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0115,
+          32.7435
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-nq",
+        "area": 0.982625000000001,
+        "bounding_box": [
+          11.45,
+          32.306,
+          12.573,
+          33.181
+        ],
+        "point": [
+          12.0115,
+          32.7435
+        ],
+        "labels": {
+          "alt": "an-Niqat al-Hams|Nigat al Khums",
+          "local": null,
+          "len": 17,
+          "ar": "شعبية النقاط الخمس",
+          "bn": "নোকাত আল খামস",
+          "de": "Munizip an-Nuqat al-Chams",
+          "en": "Nuqat al Khams",
+          "es": "An Nuqat al Khams",
+          "fr": "An Nouqat al Khams",
+          "el": "Νουγκάτ Αλ Κχαμς",
+          "hi": "नुकत अल खाम्स",
+          "hu": "Nukát el-Hamsz tartomány",
+          "id": "An Nuqat al Khams",
+          "it": "distretto di al-Nuqat al-Khams",
+          "ja": "ヌカート・アル・ハムス県",
+          "ko": "안누카트알캄스 주",
+          "nl": "An Nuqat al Khams",
+          "pl": "An-Nukat al-Chams",
+          "pt": "An Nuqat al Khams",
+          "ru": "Эн-Нугат-эль-Хумс",
+          "sv": "An Nuqat al Khams",
+          "tr": "Nuqat Al Khams",
+          "vi": "Nuqat al Khams",
+          "zh": "努加特海姆斯省"
+        },
+        "population": 362515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0745,
+          23.2725
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-kf",
+        "area": 43.90558900000002,
+        "bounding_box": [
+          19.168,
+          19.496,
+          24.981,
+          27.049
+        ],
+        "point": [
+          22.0745,
+          23.2725
+        ],
+        "labels": {
+          "alt": "al-Kufra",
+          "local": null,
+          "len": 9,
+          "ar": "شعبية الكفرة",
+          "bn": "কুফ্রা জেলা",
+          "de": "Munizip al-Kufra",
+          "en": "Kufra District",
+          "es": "Al Kufrah",
+          "fr": "Al-Koufrah",
+          "el": "Κούφρα",
+          "hi": "कुफरा जिला",
+          "hu": "Kufra tartomány",
+          "id": "Al Kufrah",
+          "it": "distretto di Cufra",
+          "ja": "クフラ県",
+          "ko": "알쿠프라 주",
+          "nl": "Al Kufrah",
+          "pl": "Al-Kufra",
+          "pt": "Al Kufrah",
+          "ru": "Эль-Куфра",
+          "sv": "Al Kufrah",
+          "tr": "El Kufra ili",
+          "vi": "Quận Kufra",
+          "zh": "庫夫拉省"
+        },
+        "population": 59703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2595,
+          24.4695
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-mq",
+        "area": 40.92198299999999,
+        "bounding_box": [
+          11.333,
+          21.864,
+          19.186,
+          27.075
+        ],
+        "point": [
+          15.2595,
+          24.4695
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "شعبية مرزق",
+          "bn": "মারজুক জেলা",
+          "de": "Munizip Murzuq",
+          "en": "Murzuq District",
+          "es": "Murzuk",
+          "fr": "Mourzouq",
+          "el": "Μαρζούκ",
+          "hi": "मुरज़ूक़ डिस्ट्रिक्ट",
+          "hu": "Murzuk tartomány",
+          "id": "Distrik Murzuq",
+          "it": "distretto di Murzuch",
+          "ja": "ムルズク県",
+          "ko": "무르주크 주",
+          "nl": "Murzuq",
+          "pl": "Marzuk",
+          "pt": "Murzuq",
+          "ru": "Марзук",
+          "sv": "Murzuq",
+          "tr": "Murzuq District",
+          "vi": "Quận Murzuq",
+          "zh": "邁爾祖格省"
+        },
+        "population": 97284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0535,
+          30.157
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-bu",
+        "area": 9.043399999999995,
+        "bounding_box": [
+          22.956,
+          28.097,
+          25.151,
+          32.217
+        ],
+        "point": [
+          24.0535,
+          30.157
+        ],
+        "labels": {
+          "alt": "Tobruk|Tubruq",
+          "local": null,
+          "len": 9,
+          "ar": "شعبية البطنان",
+          "bn": "বুটনান জেলা",
+          "de": "Munizip al-Butnan",
+          "en": "Butnan District",
+          "es": "Al Butnan",
+          "fr": "Al Boutnan",
+          "el": "Μπουτνάν",
+          "hi": "बटनान प्रांत",
+          "hu": "Butnán tartomány",
+          "id": "Al Butnan",
+          "it": "distretto di al-Butnan",
+          "ja": "ブトナーン県",
+          "ko": "알부트난 주",
+          "nl": "Al Butnan",
+          "pl": "Al-Butnan",
+          "pt": "Al Butnan",
+          "ru": "Эль-Бутнан",
+          "sv": "Al Butnan",
+          "tr": "El Butnan ili",
+          "vi": "Quận Butnan",
+          "zh": "布特南省"
+        },
+        "population": 188183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.740000000000002,
+          29.1355
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-aj",
+        "area": 27.580910000000028,
+        "bounding_box": [
+          18.499,
+          27.008,
+          24.981,
+          31.263
+        ],
+        "point": [
+          21.740000000000002,
+          29.1355
+        ],
+        "labels": {
+          "alt": "Aghdabiya",
+          "local": null,
+          "len": 8,
+          "ar": "شعبية إجدابيا",
+          "bn": "আজডাবিয়া জেলা",
+          "de": "Munizip Adschdabiya",
+          "en": "Ajdabiya District",
+          "es": "Distrito del Ajdabiya",
+          "fr": "District d'Ajdabiya",
+          "el": "Αζνταμπίγια",
+          "hi": "अदाबिया जिला",
+          "hu": null,
+          "id": "Distrik Ajdabiya",
+          "it": "distretto di Agedabia",
+          "ja": "アジュダービヤー",
+          "ko": "아즈다비야 지구",
+          "nl": "Ajdabiyah",
+          "pl": "Adżdabija",
+          "pt": "Ajdabiya",
+          "ru": "Адждабия",
+          "sv": "Ajdabuya distriktet",
+          "tr": "Ajdabiya District",
+          "vi": "Quận Ajdabiya",
+          "zh": "艾季達比亞省"
+        },
+        "population": 218058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8355,
+          27.8925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-ws",
+        "area": 20.49806700000002,
+        "bounding_box": [
+          9.777,
+          26.217,
+          15.894,
+          29.568
+        ],
+        "point": [
+          12.8355,
+          27.8925
+        ],
+        "labels": {
+          "alt": "Wadi Al Shatii|Shati|Wadi ash-Shati'",
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 93944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4295,
+          26.072499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-gt",
+        "area": 7.345778999999996,
+        "bounding_box": [
+          9.378,
+          24.326,
+          11.481,
+          27.819
+        ],
+        "point": [
+          10.4295,
+          26.072499999999998
+        ],
+        "labels": {
+          "alt": "Gat",
+          "local": null,
+          "len": 4,
+          "ar": "بلدية غات",
+          "bn": "ঘাট জেলা",
+          "de": "Munizip Ghat",
+          "en": "Ghat District",
+          "es": "Ghat",
+          "fr": "Ghat",
+          "el": "Γκατ",
+          "hi": "घाट जिला",
+          "hu": "Gát tartomány",
+          "id": "Distrik Ghat",
+          "it": "distretto di Ghat",
+          "ja": "ガート県",
+          "ko": "가트 주",
+          "nl": "Ghat",
+          "pl": "Ghat",
+          "pt": "Ghat",
+          "ru": "Гат",
+          "sv": "Ghat",
+          "tr": "Ghat District",
+          "vi": "Quận Ghat",
+          "zh": "加特省"
+        },
+        "population": 29337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.448,
+          29.872999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-sr",
+        "area": 7.400816000000001,
+        "bounding_box": [
+          16.115,
+          28.485,
+          18.781,
+          31.261
+        ],
+        "point": [
+          17.448,
+          29.872999999999998
+        ],
+        "labels": {
+          "alt": "Sirte",
+          "local": null,
+          "len": 4,
+          "ar": "شعبية سرت",
+          "bn": null,
+          "de": "Munizip Surt",
+          "en": "Sirte District",
+          "es": "Sirte",
+          "fr": "Syrte",
+          "el": null,
+          "hi": null,
+          "hu": "Szurt tartomány",
+          "id": "Surt",
+          "it": "distretto di Sirte",
+          "ja": "スルト県",
+          "ko": "시르테 주",
+          "nl": "Sirte",
+          "pl": "Syrta",
+          "pt": "Surt",
+          "ru": "Сирт",
+          "sv": "Surt",
+          "tr": null,
+          "vi": null,
+          "zh": "蘇爾特省"
+        },
+        "population": 149186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9645,
+          30.9135
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-mi",
+        "area": 9.62770900000001,
+        "bounding_box": [
+          13.398,
+          29.377,
+          16.531,
+          32.45
+        ],
+        "point": [
+          14.9645,
+          30.9135
+        ],
+        "labels": {
+          "alt": "Misrata, Misurata",
+          "local": null,
+          "len": 8,
+          "ar": "شعبية مصراتة",
+          "bn": "মেসারাতা জেলা",
+          "de": "Munizip Misrata",
+          "en": "Misrata District",
+          "es": "Misurata",
+          "fr": "Misratah",
+          "el": "Μισράτα",
+          "hi": "मिस्राटा जिला",
+          "hu": "Miszráta tartomány",
+          "id": "Distrik Misrata",
+          "it": "distretto di Misurata",
+          "ja": "ミスラタ県",
+          "ko": "미스라타 주",
+          "nl": "Misratah",
+          "pl": "Misrata",
+          "pt": "Misurata",
+          "ru": "Мисурата",
+          "sv": "Misratah",
+          "tr": "Misrata District",
+          "vi": "Quận Misrata",
+          "zh": "米蘇拉塔省"
+        },
+        "population": 484859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.997,
+          32.352000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-mb",
+        "area": 1.2358640000000005,
+        "bounding_box": [
+          13.236,
+          31.946,
+          14.758,
+          32.758
+        ],
+        "point": [
+          13.997,
+          32.352000000000004
+        ],
+        "labels": {
+          "alt": "Al Murgub|Al Khums|Homs|Khoms",
+          "local": null,
+          "len": 9,
+          "ar": "شعبية المرقب",
+          "bn": "মুরকাব পৌরসভা",
+          "de": "Munizip al-Murgub",
+          "en": "Murqub Municipality",
+          "es": "Al Murgub",
+          "fr": "Al Mourqoub",
+          "el": "Κοινότητα Μουρκούμπ",
+          "hi": "मरकब नगरपालिका",
+          "hu": "Markab tartomány",
+          "id": "Kotamadya Murqub",
+          "it": "distretto di al-Murgub",
+          "ja": "ムルクブ県",
+          "ko": "알무르굽 주",
+          "nl": "Al Murgub",
+          "pl": "Al-Marakib",
+          "pt": "Al Marqab",
+          "ru": "Эль-Маргаб",
+          "sv": "Al Murgub",
+          "tr": "Murqup Belediyesi",
+          "vi": "Đô thị tự trị Murqub",
+          "zh": "迈尔盖卜省"
+        },
+        "population": 613528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.515,
+          32.6265
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-tn",
+        "area": 0.5136299999999946,
+        "bounding_box": [
+          13.076,
+          32.334,
+          13.954,
+          32.919
+        ],
+        "point": [
+          13.515,
+          32.6265
+        ],
+        "labels": {
+          "alt": "Taghura' wa-n-Nawahi al-Arba",
+          "local": null,
+          "len": 28,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 1514117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.487,
+          32.555
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-za",
+        "area": 0.8037120000000075,
+        "bounding_box": [
+          11.863,
+          32.233,
+          13.111,
+          32.877
+        ],
+        "point": [
+          12.487,
+          32.555
+        ],
+        "labels": {
+          "alt": "az-Zawiya|Zavia|Zawia",
+          "local": null,
+          "len": 10,
+          "ar": "شعبية الزاوية",
+          "bn": "যাইয়া জেলা",
+          "de": "Munizip az-Zawiya",
+          "en": "Zawiya District",
+          "es": "Zauiya",
+          "fr": "Az Zaouiyah",
+          "el": "Ζαγία",
+          "hi": "ज़ाविया जिला",
+          "hu": "Závija tartomány",
+          "id": "Distrik Zawiya",
+          "it": "distretto di Zawiya",
+          "ja": "ザーウィヤ県",
+          "ko": "앗자위야 주",
+          "nl": "Az Zawiyah",
+          "pl": "Az-Zawija",
+          "pt": "Az Zawiyah",
+          "ru": "Эз-Завия",
+          "sv": "Az Zawiyah",
+          "tr": "Zawaiya District",
+          "vi": "Quận Zawiya",
+          "zh": "扎維耶省"
+        },
+        "population": 670365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5845,
+          31.87
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-qb",
+        "area": 2.8739480000000026,
+        "bounding_box": [
+          21.918,
+          30.792,
+          23.251,
+          32.948
+        ],
+        "point": [
+          22.5845,
+          31.87
+        ],
+        "labels": {
+          "alt": "Al Qubah|al-Qubba",
+          "local": null,
+          "len": 9,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 192308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.722,
+          32.008
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-ja",
+        "area": 1.4695199999999984,
+        "bounding_box": [
+          21.332,
+          31.066,
+          22.112,
+          32.95
+        ],
+        "point": [
+          21.722,
+          32.008
+        ],
+        "labels": {
+          "alt": "Al Bayda'|al-Ghabal al-Ahdar|Beida|Djebel Akhdar|Jebel el Akhdar",
+          "local": null,
+          "len": 18,
+          "ar": "شعبية الجبل الأخضر",
+          "bn": "জাবাল আল আকদার",
+          "de": "Munizip al-Dschabal al-Achdar",
+          "en": "Jabal al Akhdar",
+          "es": "Al Jabal al Akhdar",
+          "fr": "Al Jabal al Akhdar",
+          "el": "Τζαμπάλ αλ Ακντάρ",
+          "hi": "जबल अल अख्दर",
+          "hu": "Dzsabal el-Ahdar tartomány",
+          "id": "Al Jabal al Akhdar",
+          "it": "distretto di al-Jabal al-Akhdar",
+          "ja": "ジャバル・アル・アフダル県",
+          "ko": "알자발알아크다르 주",
+          "nl": "Al Jabal al Akhdar",
+          "pl": "Al-Dżabal al-Achdar",
+          "pt": "Al Jabal al Akhdar",
+          "ru": "Эль-Джебель-эль-Ахдар",
+          "sv": "Al Jabal al Akhdar",
+          "tr": "Jabak Al Akhdar",
+          "vi": "Jabal al Akhdar",
+          "zh": "綠山省"
+        },
+        "population": 253513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.012999999999998,
+          31.907
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-mj",
+        "area": 2.4611839999999927,
+        "bounding_box": [
+          20.309,
+          31.033,
+          21.717,
+          32.781
+        ],
+        "point": [
+          21.012999999999998,
+          31.907
+        ],
+        "labels": {
+          "alt": "al-Hizam al-Ahdar",
+          "local": null,
+          "len": 7,
+          "ar": "شعبية المرج",
+          "bn": "মার্জ জেলা",
+          "de": "Munizip al-Mardsch",
+          "en": "Marj District",
+          "es": "Al Marj",
+          "fr": "Al Marj",
+          "el": "Μάρτζ",
+          "hi": "मारज जिला",
+          "hu": "Mardzs tartomány",
+          "id": "Distrik Marj",
+          "it": "distretto di al-Marj",
+          "ja": "マルジュ県",
+          "ko": "알마르즈 주",
+          "nl": "Al Marj",
+          "pl": "Al-Mardż",
+          "pt": "Al Marj",
+          "ru": "Эль-Мардж",
+          "sv": "Al Marj",
+          "tr": "Marj District",
+          "vi": "Quận Marj",
+          "zh": "邁爾季省"
+        },
+        "population": 345844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.619500000000002,
+          31.785000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-ba",
+        "area": 2.1768439999999973,
+        "bounding_box": [
+          19.92,
+          31.007,
+          21.319,
+          32.563
+        ],
+        "point": [
+          20.619500000000002,
+          31.785000000000004
+        ],
+        "labels": {
+          "alt": "Banghazi|Bengasi",
+          "local": null,
+          "len": 8,
+          "ar": "بنغازي",
+          "bn": "বেনগাজি",
+          "de": "Bengasi",
+          "en": "Benghazi",
+          "es": "Bengasi",
+          "fr": "Benghazi",
+          "el": "Βεγγάζη",
+          "hi": "बेंघाज़ी",
+          "hu": "Bengázi",
+          "id": "Benghazi",
+          "it": "Bengasi",
+          "ja": "ベンガジ",
+          "ko": "벵가지",
+          "nl": "Benghazi",
+          "pl": "Bengazi",
+          "pt": "Bengasi",
+          "ru": "Бенгази",
+          "sv": "Benghazi",
+          "tr": "Bingazi",
+          "vi": "Benghazi",
+          "zh": "班加西"
+        },
+        "population": 710570
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.035499999999999,
+          32.4905
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-ji",
+        "area": 0.19869099999999898,
+        "bounding_box": [
+          12.82,
+          32.26,
+          13.251,
+          32.721
+        ],
+        "point": [
+          13.035499999999999,
+          32.4905
+        ],
+        "labels": {
+          "alt": "Al Jfara|Al `Aziziyah|al-Ghifara|Al `Aziziyah",
+          "local": null,
+          "len": 10,
+          "ar": "شعبية الجفارة",
+          "bn": "জাফারা পৌরসভা",
+          "de": "Munizip al-Dschifara",
+          "en": "Jafara Municipality",
+          "es": "Al Jfara",
+          "fr": "Al Djfara",
+          "el": "Τζαφάρα",
+          "hi": "जाफरा नगरपालिका",
+          "hu": "Dzsifára tartomány",
+          "id": "Kotamadya Jafara",
+          "it": "distretto di Gefara",
+          "ja": "ジファーラ県",
+          "ko": "알즈파라 주",
+          "nl": "Al Jfara",
+          "pl": "Al-Dżifara",
+          "pt": "Al Jifarah",
+          "ru": "Эль-Джифара",
+          "sv": "Al Jfara",
+          "tr": "El Cfara ili",
+          "vi": "Đô thị tự trị Jafara",
+          "zh": "吉法拉省"
+        },
+        "population": 129594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.286,
+          30.372
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-mz",
+        "area": 13.19488,
+        "bounding_box": [
+          11.59,
+          28.427,
+          14.982,
+          32.317
+        ],
+        "point": [
+          13.286,
+          30.372
+        ],
+        "labels": {
+          "alt": "Mizda",
+          "local": null,
+          "len": 6,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 375369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.79,
+          27.933
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-ju",
+        "area": 18.37951199999999,
+        "bounding_box": [
+          14.408,
+          26.004,
+          19.172,
+          29.862
+        ],
+        "point": [
+          16.79,
+          27.933
+        ],
+        "labels": {
+          "alt": "al-Ghufra",
+          "local": null,
+          "len": 9,
+          "ar": "شعبية الجفرة",
+          "bn": "জুফ্রা",
+          "de": "Munizip al-Dschufra",
+          "en": "Jufra",
+          "es": "Al Jufrah",
+          "fr": "Al Djoufrah",
+          "el": "Τζούφρα",
+          "hi": "जुफरा जिला",
+          "hu": "Dzsufra tartomány",
+          "id": "Jufra",
+          "it": "distretto di Giofra",
+          "ja": "ジュフラ県",
+          "ko": "알주프라 주",
+          "nl": "Al Jufrah",
+          "pl": "Al-Dżufra",
+          "pt": "Al Jufrah",
+          "ru": "Эль-Джуфра",
+          "sv": "Al Jufrah",
+          "tr": "El Cufra ili",
+          "vi": "Jufra",
+          "zh": "朱夫拉省"
+        },
+        "population": 63767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.106000000000002,
+          26.994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-sb",
+        "area": 3.5079120000000006,
+        "bounding_box": [
+          13.932,
+          26.247,
+          16.28,
+          27.741
+        ],
+        "point": [
+          15.106000000000002,
+          26.994
+        ],
+        "labels": {
+          "alt": "Sabhah, Sebha",
+          "local": null,
+          "len": 5,
+          "ar": "شعبية سبها",
+          "bn": "সাবা জেলা",
+          "de": "Munizip Sabha",
+          "en": "Sabha District",
+          "es": "Sabha",
+          "fr": "Sebha",
+          "el": "Σάμπχα",
+          "hi": "सभा जिला",
+          "hu": "Szabha tartomány",
+          "id": "Distrik Sabha",
+          "it": "distretto di Sebha",
+          "ja": "サブハー県",
+          "ko": "세바 주",
+          "nl": "Sabha",
+          "pl": "Sabha",
+          "pt": "Sabha",
+          "ru": "Сабха",
+          "sv": "Sabha",
+          "tr": "Sabha District",
+          "vi": "Quận Sabha",
+          "zh": "塞卜哈省"
+        },
+        "population": 163608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.725000000000001,
+          26.42
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ly",
+        "region_child": "ly-wd",
+        "area": 4.956448000000011,
+        "bounding_box": [
+          11.304,
+          25.548,
+          14.146,
+          27.292
+        ],
+        "point": [
+          12.725000000000001,
+          26.42
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "شعبية وادي الحياة",
+          "bn": "ওয়াদি আল হায়া জেলা",
+          "de": "Munizip Wadi al-Haya",
+          "en": "Wadi al Hayaa District",
+          "es": "Wadi Al Hayaa",
+          "fr": "Wadi al Hayaat",
+          "el": "Γουάντι αλ Χάγιαα",
+          "hi": "वादी अल हया जिला",
+          "hu": "Vádi el-Haját tartomány",
+          "id": "Distrik Wadi al Hayaa",
+          "it": "distretto di Wadi al-Hayaa",
+          "ja": "ワジ・アル・ハヤー県",
+          "ko": "와디알하야 주",
+          "nl": "Wadi Al Hayaa",
+          "pl": "Wadi al-Hajat",
+          "pt": "Wadi Al Hayat",
+          "ru": "Вади-эль-Хаят",
+          "sv": "Wadi Al Hayaa",
+          "tr": "Wadi Al Hayaa District",
+          "vi": "Quận Wadi al Hayaa",
+          "zh": "瓦迪哈耶特省"
+        },
+        "population": 93649
+      }
+    }
+  ]
+}

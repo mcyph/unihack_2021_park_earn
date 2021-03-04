@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.852999999999994,
+          30.682
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "il",
+        "region_child": "il-d",
+        "area": 2.8846400000000023,
+        "bounding_box": [
+          34.248,
+          29.49,
+          35.458,
+          31.874
+        ],
+        "point": [
+          34.852999999999994,
+          30.682
+        ],
+        "labels": {
+          "alt": "Southern District",
+          "local": null,
+          "len": 7,
+          "ar": "المنطقة الجنوبية",
+          "bn": null,
+          "de": "Südbezirk",
+          "en": "Southern District",
+          "es": "Distrito Meridional",
+          "fr": "district sud",
+          "el": null,
+          "hi": null,
+          "hu": "Déli körzet",
+          "id": "Distrik Selatan",
+          "it": "distretto Sud",
+          "ja": "南部地区",
+          "ko": "남부 구",
+          "nl": "Zuid",
+          "pl": "Dystrykt Południowy",
+          "pt": "Distrito Sul",
+          "ru": "Южный округ Израиля",
+          "sv": "Södra distriktet",
+          "tr": "Güney Bölgesi",
+          "vi": "Quận Nam",
+          "zh": "南部区"
+        },
+        "population": 1351956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4565,
+          32.896
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "il",
+        "region_child": "il-z",
+        "area": 0.8819859999999982,
+        "bounding_box": [
+          35.025,
+          32.385,
+          35.888,
+          33.407
+        ],
+        "point": [
+          35.4565,
+          32.896
+        ],
+        "labels": {
+          "alt": "Northern",
+          "local": null,
+          "len": 7,
+          "ar": "المنطقة الشمالية",
+          "bn": "নর্দান জেলা",
+          "de": "Nordbezirk",
+          "en": "Northern District",
+          "es": "Distrito Norte",
+          "fr": "District nord",
+          "el": "Βόρεια Περιοχή",
+          "hi": "उत्तरी जिला",
+          "hu": "Északi körzet",
+          "id": "Distrik Utara",
+          "it": "distretto Nord",
+          "ja": "北部地区",
+          "ko": "북부 구",
+          "nl": "Noord",
+          "pl": "Dystrykt Północny",
+          "pt": "Distrito Norte",
+          "ru": "Северный округ Израиля",
+          "sv": "Norra distriktet",
+          "tr": "Kuzey Bölgesi",
+          "vi": "Quận Bắc",
+          "zh": "北部区"
+        },
+        "population": 1577322
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.039,
+          32.6375
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "il",
+        "region_child": "il-ha",
+        "area": 0.1747620000000003,
+        "bounding_box": [
+          34.868,
+          32.382,
+          35.21,
+          32.893
+        ],
+        "point": [
+          35.039,
+          32.6375
+        ],
+        "labels": {
+          "alt": "Hefa",
+          "local": null,
+          "len": 5,
+          "ar": "منطقة حيفا",
+          "bn": "হাইফা জেলা",
+          "de": "Bezirk Haifa",
+          "en": "Haifa District",
+          "es": "Distrito de Haifa",
+          "fr": "district de Haïfa",
+          "el": "Χαΐφα",
+          "hi": "हैफा जिला",
+          "hu": "Haifai körzet",
+          "id": "Distrik Haifa",
+          "it": "distretto di Haifa",
+          "ja": "ハイファ地区",
+          "ko": "하이파 구",
+          "nl": "Haifa",
+          "pl": "Dystrykt Hajfy",
+          "pt": "Haifa",
+          "ru": "Хайфский округ",
+          "sv": "Haifa",
+          "tr": "Hayfa Bölgesi",
+          "vi": "Quận Haifa",
+          "zh": "海法区"
+        },
+        "population": 980448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8495,
+          32.097
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "il",
+        "region_child": "il-m",
+        "area": 0.22827400000000272,
+        "bounding_box": [
+          34.666,
+          31.786,
+          35.033,
+          32.408
+        ],
+        "point": [
+          34.8495,
+          32.097
+        ],
+        "labels": {
+          "alt": "Central District",
+          "local": null,
+          "len": 8,
+          "ar": "المنطقة الوسطى",
+          "bn": "সেন্ট্রাল জেলা",
+          "de": "Zentralbezirk",
+          "en": "Central District",
+          "es": "Distrito Central",
+          "fr": "district centre",
+          "el": "Σέντραλ Ντίστρικτ",
+          "hi": "मध्य जिला",
+          "hu": "Központi körzet",
+          "id": "Distrik Tengah",
+          "it": "distretto Centrale",
+          "ja": "中央地区",
+          "ko": "중부 구",
+          "nl": "Centrum",
+          "pl": "Dystrykt Centralny",
+          "pt": "Distrito Central",
+          "ru": "Центральный округ",
+          "sv": "Centrala distriktet",
+          "tr": "Merkez Bölge",
+          "vi": "Quận Trung",
+          "zh": "中央区"
+        },
+        "population": 2293188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0175,
+          31.7245
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "il",
+        "region_child": "il-jm",
+        "area": 0.08830699999999969,
+        "bounding_box": [
+          34.828,
+          31.608,
+          35.207,
+          31.841
+        ],
+        "point": [
+          35.0175,
+          31.7245
+        ],
+        "labels": {
+          "alt": "Al-Quds|Yerushalayim",
+          "local": null,
+          "len": 9,
+          "ar": "منطقة القدس",
+          "bn": null,
+          "de": "Bezirk Jerusalem",
+          "en": "Jerusalem District",
+          "es": "Distrito de Jerusalén",
+          "fr": "district de Jérusalem",
+          "el": null,
+          "hi": null,
+          "hu": "Jeruzsálemi körzet",
+          "id": "Distrik Yerusalem",
+          "it": "distretto di Gerusalemme",
+          "ja": "エルサレム地区",
+          "ko": "예루살렘 구",
+          "nl": "Jeruzalem",
+          "pl": "Dystrykt Jerozolimy",
+          "pt": "Jerusalém",
+          "ru": "Иерусалимский округ",
+          "sv": "Jerusalem",
+          "tr": "Kudüs Bölgesi",
+          "vi": "Quận Jerusalem",
+          "zh": "耶路撒冷区"
+        },
+        "population": 800107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.801,
+          32.0965
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "il",
+        "region_child": "il-ta",
+        "area": 0.025861999999999778,
+        "bounding_box": [
+          34.734,
+          32.0,
+          34.868,
+          32.193
+        ],
+        "point": [
+          34.801,
+          32.0965
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "منطقة تل أبيب",
+          "bn": null,
+          "de": "Bezirk Tel Aviv",
+          "en": "Tel Aviv District",
+          "es": "Distrito de Tel Aviv",
+          "fr": "district de Tel Aviv",
+          "el": null,
+          "hi": null,
+          "hu": "Tel-Avivi körzet",
+          "id": "Distrik Tel Aviv",
+          "it": "distretto di Tel Aviv",
+          "ja": "テルアビブ地区",
+          "ko": "텔아비브 구",
+          "nl": "Tel Aviv",
+          "pl": "Dystrykt Tel Awiwu",
+          "pt": "Tel Aviv",
+          "ru": "Тель-Авивский округ",
+          "sv": "Tel Aviv",
+          "tr": "Tel Aviv Bölgesi",
+          "vi": "Quận Tel Aviv",
+          "zh": "特拉维夫区"
+        },
+        "population": 1315344
+      }
+    }
+  ]
+}

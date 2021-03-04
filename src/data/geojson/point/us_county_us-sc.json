@@ -1,0 +1,1415 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.174,
+          34.682500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "023",
+        "area": 0.1752120000000022,
+        "bounding_box": [
+          -81.488,
+          34.543,
+          -80.86,
+          34.822
+        ],
+        "point": [
+          -81.174,
+          34.682500000000005
+        ],
+        "labels": {
+          "en": "Chester"
+        },
+        "population": 32930
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74,
+          34.0015
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "081",
+        "area": 0.19992800000000302,
+        "bounding_box": [
+          -82.008,
+          33.815,
+          -81.472,
+          34.188
+        ],
+        "point": [
+          -81.74,
+          34.0015
+        ],
+        "labels": {
+          "en": "Saluda"
+        },
+        "population": 20540
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.70949999999999,
+          33.5985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "089",
+        "area": 0.46079500000000895,
+        "bounding_box": [
+          -80.102,
+          33.305,
+          -79.317,
+          33.892
+        ],
+        "point": [
+          -79.70949999999999,
+          33.5985
+        ],
+        "labels": {
+          "en": "Williamsburg"
+        },
+        "population": 32263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4345,
+          33.076
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "035",
+        "area": 0.36687600000001036,
+        "bounding_box": [
+          -80.79,
+          32.818,
+          -80.079,
+          33.334
+        ],
+        "point": [
+          -80.4345,
+          33.076
+        ],
+        "labels": {
+          "en": "Dorchester"
+        },
+        "population": 193077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9045,
+          33.163
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "015",
+        "area": 0.6295199999999902,
+        "bounding_box": [
+          -80.362,
+          32.819,
+          -79.447,
+          33.507
+        ],
+        "point": [
+          -79.9045,
+          33.163
+        ],
+        "labels": {
+          "en": "Berkeley"
+        },
+        "population": 221505
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.102,
+          34.1815
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "047",
+        "area": 0.21204799999999643,
+        "bounding_box": [
+          -82.334,
+          33.953,
+          -81.87,
+          34.41
+        ],
+        "point": [
+          -82.102,
+          34.1815
+        ],
+        "labels": {
+          "en": "Greenwood"
+        },
+        "population": 73049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6925,
+          34.5525
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "069",
+        "area": 0.24686499999999986,
+        "bounding_box": [
+          -79.935,
+          34.298,
+          -79.45,
+          34.807
+        ],
+        "point": [
+          -79.6925,
+          34.5525
+        ],
+        "labels": {
+          "en": "Marlboro"
+        },
+        "population": 29241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.013,
+          33.2335
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "009",
+        "area": 0.17758999999999553,
+        "bounding_box": [
+          -81.228,
+          33.027,
+          -80.798,
+          33.44
+        ],
+        "point": [
+          -81.013,
+          33.2335
+        ],
+        "labels": {
+          "en": "Bamberg"
+        },
+        "population": 15293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9735,
+          34.309
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "031",
+        "area": 0.2814259999999988,
+        "bounding_box": [
+          -80.289,
+          34.086,
+          -79.658,
+          34.532
+        ],
+        "point": [
+          -79.9735,
+          34.309
+        ],
+        "labels": {
+          "en": "Darlington"
+        },
+        "population": 69654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5995,
+          33.5375
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "003",
+        "area": 0.5601750000000036,
+        "bounding_box": [
+          -82.012,
+          33.198,
+          -81.187,
+          33.877
+        ],
+        "point": [
+          -81.5995,
+          33.5375
+        ],
+        "labels": {
+          "en": "Aiken"
+        },
+        "population": 179074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9795,
+          34.4945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "059",
+        "area": 0.3911929999999944,
+        "bounding_box": [
+          -82.315,
+          34.203,
+          -81.644,
+          34.786
+        ],
+        "point": [
+          -81.9795,
+          34.4945
+        ],
+        "labels": {
+          "en": "Laurens"
+        },
+        "population": 64182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.631,
+          34.302499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "071",
+        "area": 0.29076400000000063,
+        "bounding_box": [
+          -81.945,
+          34.071,
+          -81.317,
+          34.534
+        ],
+        "point": [
+          -81.631,
+          34.302499999999995
+        ],
+        "labels": {
+          "en": "Newberry"
+        },
+        "population": 39097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2485,
+          33.9255
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "063",
+        "area": 0.3515249999999989,
+        "bounding_box": [
+          -81.571,
+          33.653,
+          -80.926,
+          34.198
+        ],
+        "point": [
+          -81.2485,
+          33.9255
+        ],
+        "labels": {
+          "en": "Lexington"
+        },
+        "population": 317954
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65299999999999,
+          34.514
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "007",
+        "area": 0.4135800000000066,
+        "bounding_box": [
+          -82.992,
+          34.209,
+          -82.314,
+          34.819
+        ],
+        "point": [
+          -82.65299999999999,
+          34.514
+        ],
+        "labels": {
+          "en": "Anderson"
+        },
+        "population": 210875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6605,
+          32.391000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "013",
+        "area": 0.44383400000000034,
+        "bounding_box": [
+          -81.015,
+          32.078,
+          -80.306,
+          32.704
+        ],
+        "point": [
+          -80.6605,
+          32.391000000000005
+        ],
+        "labels": {
+          "en": "Beaufort"
+        },
+        "population": 216933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71199999999999,
+          34.8545
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "077",
+        "area": 0.21020199999999745,
+        "bounding_box": [
+          -82.939,
+          34.623,
+          -82.485,
+          35.086
+        ],
+        "point": [
+          -82.71199999999999,
+          34.8545
+        ],
+        "labels": {
+          "en": "Pickens"
+        },
+        "population": 128032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8505,
+          34.614000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "077",
+        "area": 0.00010999999999993491,
+        "bounding_box": [
+          -82.856,
+          34.609,
+          -82.845,
+          34.619
+        ],
+        "point": [
+          -82.8505,
+          34.614000000000004
+        ],
+        "labels": {
+          "en": "Pickens"
+        },
+        "population": 128032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5815,
+          34.342
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "055",
+        "area": 0.324869999999999,
+        "bounding_box": [
+          -80.879,
+          34.069,
+          -80.284,
+          34.615
+        ],
+        "point": [
+          -80.5815,
+          34.342
+        ],
+        "labels": {
+          "en": "Kershaw"
+        },
+        "population": 72232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4555,
+          34.85
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "045",
+        "area": 0.45164399999999244,
+        "bounding_box": [
+          -82.764,
+          34.484,
+          -82.147,
+          35.216
+        ],
+        "point": [
+          -82.4555,
+          34.85
+        ],
+        "labels": {
+          "en": "Greenville"
+        },
+        "population": 536868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.69399999999999,
+          34.04
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "041",
+        "area": 0.4017399999999985,
+        "bounding_box": [
+          -80.073,
+          33.775,
+          -79.315,
+          34.305
+        ],
+        "point": [
+          -79.69399999999999,
+          34.04
+        ],
+        "labels": {
+          "en": "Florence"
+        },
+        "population": 149273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.26750000000001,
+          33.906499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "085",
+        "area": 0.3921749999999989,
+        "bounding_box": [
+          -80.641,
+          33.644,
+          -79.894,
+          34.169
+        ],
+        "point": [
+          -80.26750000000001,
+          33.906499999999994
+        ],
+        "labels": {
+          "en": "Sumter"
+        },
+        "population": 110355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7975,
+          33.442
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "075",
+        "area": 0.6100300000000068,
+        "bounding_box": [
+          -81.373,
+          33.177,
+          -80.222,
+          33.707
+        ],
+        "point": [
+          -80.7975,
+          33.442
+        ],
+        "labels": {
+          "en": "Orangeburg"
+        },
+        "population": 93460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.969,
+          34.8935
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "083",
+        "area": 0.31096999999999586,
+        "bounding_box": [
+          -82.226,
+          34.591,
+          -81.712,
+          35.196
+        ],
+        "point": [
+          -81.969,
+          34.8935
+        ],
+        "labels": {
+          "en": "Spartanburg"
+        },
+        "population": 318217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35,
+          33.998000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "067",
+        "area": 0.2690640000000023,
+        "bounding_box": [
+          -79.572,
+          33.695,
+          -79.128,
+          34.301
+        ],
+        "point": [
+          -79.35,
+          33.998000000000005
+        ],
+        "labels": {
+          "en": "Marion"
+        },
+        "population": 30781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.858,
+          32.849000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "019",
+        "area": 0.8725440000000025,
+        "bounding_box": [
+          -80.454,
+          32.483,
+          -79.262,
+          33.215
+        ],
+        "point": [
+          -79.858,
+          32.849000000000004
+        ],
+        "labels": {
+          "en": "Charleston"
+        },
+        "population": 396382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9175,
+          33.75449999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "037",
+        "area": 0.23629500000000278,
+        "bounding_box": [
+          -82.183,
+          33.532,
+          -81.652,
+          33.977
+        ],
+        "point": [
+          -81.9175,
+          33.75449999999999
+        ],
+        "labels": {
+          "en": "Edgefield"
+        },
+        "population": 29783
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0955,
+          34.763999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "073",
+        "area": 0.3019279999999956,
+        "bounding_box": [
+          -83.354,
+          34.472,
+          -82.837,
+          35.056
+        ],
+        "point": [
+          -83.0955,
+          34.763999999999996
+        ],
+        "labels": {
+          "en": "Oconee"
+        },
+        "population": 83461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65299999999999,
+          32.789500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "029",
+        "area": 0.671813999999987,
+        "bounding_box": [
+          -81.082,
+          32.398,
+          -80.224,
+          33.181
+        ],
+        "point": [
+          -80.65299999999999,
+          32.789500000000004
+        ],
+        "labels": {
+          "en": "Colleton"
+        },
+        "population": 39528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.127,
+          32.79
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "049",
+        "area": 0.2853480000000041,
+        "bounding_box": [
+          -81.428,
+          32.553,
+          -80.826,
+          33.027
+        ],
+        "point": [
+          -81.127,
+          32.79
+        ],
+        "labels": {
+          "en": "Hampton"
+        },
+        "population": 20809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4905,
+          34.249
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "001",
+        "area": 0.23547000000000168,
+        "bounding_box": [
+          -82.741,
+          34.014,
+          -82.24,
+          34.484
+        ],
+        "point": [
+          -82.4905,
+          34.249
+        ],
+        "labels": {
+          "en": "Abbeville"
+        },
+        "population": 24851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.919,
+          33.935500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "051",
+        "area": 0.6106799999999998,
+        "bounding_box": [
+          -79.339,
+          33.572,
+          -78.499,
+          34.299
+        ],
+        "point": [
+          -78.919,
+          33.935500000000005
+        ],
+        "labels": {
+          "en": "Horry"
+        },
+        "population": 368090
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62049999999999,
+          35.0115
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "021",
+        "area": 0.17491499999999624,
+        "bounding_box": [
+          -81.874,
+          34.839,
+          -81.367,
+          35.184
+        ],
+        "point": [
+          -81.62049999999999,
+          35.0115
+        ],
+        "labels": {
+          "en": "Cherokee"
+        },
+        "population": 58206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65899999999999,
+          34.766999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "057",
+        "area": 0.3102359999999982,
+        "bounding_box": [
+          -80.91,
+          34.458,
+          -80.408,
+          35.076
+        ],
+        "point": [
+          -80.65899999999999,
+          34.766999999999996
+        ],
+        "labels": {
+          "en": "Lancaster"
+        },
+        "population": 96336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.348,
+          32.951499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "005",
+        "area": 0.21971600000000643,
+        "bounding_box": [
+          -81.614,
+          32.745,
+          -81.082,
+          33.158
+        ],
+        "point": [
+          -81.348,
+          32.951499999999996
+        ],
+        "labels": {
+          "en": "Allendale"
+        },
+        "population": 9646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.241,
+          34.159499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "061",
+        "area": 0.19919999999999535,
+        "bounding_box": [
+          -80.481,
+          33.952,
+          -80.001,
+          34.367
+        ],
+        "point": [
+          -80.241,
+          34.159499999999994
+        ],
+        "labels": {
+          "en": "Lee"
+        },
+        "population": 18611
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.208,
+          33.688500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "027",
+        "area": 0.34328800000000276,
+        "bounding_box": [
+          -80.54,
+          33.43,
+          -79.876,
+          33.947
+        ],
+        "point": [
+          -80.208,
+          33.688500000000005
+        ],
+        "labels": {
+          "en": "Clarendon"
+        },
+        "population": 37675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.09899999999999,
+          34.3735
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "039",
+        "area": 0.2612260000000042,
+        "bounding_box": [
+          -81.428,
+          34.175,
+          -80.77,
+          34.572
+        ],
+        "point": [
+          -81.09899999999999,
+          34.3735
+        ],
+        "labels": {
+          "en": "Fairfield"
+        },
+        "population": 24353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.352,
+          34.426
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "033",
+        "area": 0.21917999999999938,
+        "bounding_box": [
+          -79.633,
+          34.231,
+          -79.071,
+          34.621
+        ],
+        "point": [
+          -79.352,
+          34.426
+        ],
+        "labels": {
+          "en": "Dillon"
+        },
+        "population": 33482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.01150000000001,
+          32.3915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "053",
+        "area": 0.3864630000000004,
+        "bounding_box": [
+          -81.281,
+          32.033,
+          -80.742,
+          32.75
+        ],
+        "point": [
+          -81.01150000000001,
+          32.3915
+        ],
+        "labels": {
+          "en": "Jasper"
+        },
+        "population": 30529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32,
+          33.836
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "065",
+        "area": 0.2694999999999997,
+        "bounding_box": [
+          -82.595,
+          33.591,
+          -82.045,
+          34.081
+        ],
+        "point": [
+          -82.32,
+          33.836
+        ],
+        "labels": {
+          "en": "McCormick"
+        },
+        "population": 10617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63499999999999,
+          34.679
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "087",
+        "area": 0.20498399999999956,
+        "bounding_box": [
+          -81.854,
+          34.445,
+          -81.416,
+          34.913
+        ],
+        "point": [
+          -81.63499999999999,
+          34.679
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 27855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.97149999999999,
+          34.006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "079",
+        "area": 0.39292199999999716,
+        "bounding_box": [
+          -81.345,
+          33.743,
+          -80.598,
+          34.269
+        ],
+        "point": [
+          -80.97149999999999,
+          34.006
+        ],
+        "labels": {
+          "en": "Richland"
+        },
+        "population": 461753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7775,
+          33.673
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "017",
+        "area": 0.23308200000000182,
+        "bounding_box": [
+          -81.059,
+          33.466,
+          -80.496,
+          33.88
+        ],
+        "point": [
+          -80.7775,
+          33.673
+        ],
+        "labels": {
+          "en": "Calhoun"
+        },
+        "population": 15176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.179,
+          34.9925
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "091",
+        "area": 0.21597000000000094,
+        "bounding_box": [
+          -81.492,
+          34.82,
+          -80.866,
+          35.165
+        ],
+        "point": [
+          -81.179,
+          34.9925
+        ],
+        "labels": {
+          "en": "York"
+        },
+        "population": 309188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4805,
+          33.292
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "011",
+        "area": 0.2277000000000016,
+        "bounding_box": [
+          -81.768,
+          33.094,
+          -81.193,
+          33.49
+        ],
+        "point": [
+          -81.4805,
+          33.292
+        ],
+        "labels": {
+          "en": "Barnwell"
+        },
+        "population": 21788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.304,
+          33.415
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "043",
+        "area": 0.5504199999999962,
+        "bounding_box": [
+          -79.681,
+          33.05,
+          -78.927,
+          33.78
+        ],
+        "point": [
+          -79.304,
+          33.415
+        ],
+        "labels": {
+          "en": "Georgetown"
+        },
+        "population": 65305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17,
+          34.591499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-sc",
+        "region_child": "025",
+        "area": 0.35358399999999673,
+        "bounding_box": [
+          -80.562,
+          34.366,
+          -79.778,
+          34.817
+        ],
+        "point": [
+          -80.17,
+          34.591499999999996
+        ],
+        "labels": {
+          "en": "Chesterfield"
+        },
+        "population": 51011
+      }
+    }
+  ]
+}

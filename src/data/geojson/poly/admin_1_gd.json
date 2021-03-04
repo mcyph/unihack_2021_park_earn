@@ -1,0 +1,524 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.683,
+              12.025
+            ],
+            [
+              -61.677,
+              12.085
+            ],
+            [
+              -61.686,
+              12.111
+            ],
+            [
+              -61.751,
+              12.11
+            ],
+            [
+              -61.73,
+              12.016
+            ],
+            [
+              -61.683,
+              12.025
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gd",
+        "region_child": "gd-03",
+        "area": 0.007029999999999864,
+        "bounding_box": [
+          -61.751,
+          12.016,
+          -61.677,
+          12.111
+        ],
+        "point": [
+          -61.714,
+          12.063500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "أبرشية القديس جورج",
+          "bn": "সেন্ট জর্জ প্যারিশ",
+          "de": "Saint George",
+          "en": "Saint George Parish",
+          "es": "Parroquia de Saint George",
+          "fr": "Paroisse de Saint George",
+          "el": "Άγιος Γεώργιος",
+          "hi": "सेंट जॉर्ज पैरिश",
+          "hu": null,
+          "id": "Paroki Saint George",
+          "it": "Parrocchia di Saint George",
+          "ja": "セント・ジョージ郡",
+          "ko": "세인트조지 교구",
+          "nl": "Saint George",
+          "pl": "Saint George",
+          "pt": "Saint George",
+          "ru": "Приход Сент-Джордж",
+          "sv": "Saint George",
+          "tr": "Sain George Parish",
+          "vi": "Giáo xứ Saint George",
+          "zh": "聖喬治區"
+        },
+        "population": 18762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.625,
+              12.069
+            ],
+            [
+              -61.677,
+              12.085
+            ],
+            [
+              -61.683,
+              12.025
+            ],
+            [
+              -61.625,
+              12.069
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gd",
+        "region_child": "gd-02",
+        "area": 0.0034800000000000187,
+        "bounding_box": [
+          -61.683,
+          12.025,
+          -61.625,
+          12.085
+        ],
+        "point": [
+          -61.653999999999996,
+          12.055
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "أبرشية القديس ديفيد",
+          "bn": "সেন্ট ডেভিড প্যারিশ",
+          "de": "Saint David",
+          "en": "Saint David Parish",
+          "es": "Parroquia de Saint David",
+          "fr": "Paroisse de Saint David",
+          "el": "Άγιος Δαβίδ",
+          "hi": "सेंट डेविड पैरिश",
+          "hu": null,
+          "id": "Paroki Saint David",
+          "it": "Parrocchia di Saint David",
+          "ja": "セント・デイヴィッド郡",
+          "ko": "세인트데이비드 교구",
+          "nl": "Saint David",
+          "pl": "Saint David",
+          "pt": "Saint David",
+          "ru": "Приход Сент-Дэвид",
+          "sv": "Saint David",
+          "tr": "Saint David Parish",
+          "vi": "Giáo xứ Saint David",
+          "zh": "聖戴維區"
+        },
+        "population": 6023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.603,
+              12.177
+            ],
+            [
+              -61.656,
+              12.179
+            ],
+            [
+              -61.663,
+              12.159
+            ],
+            [
+              -61.686,
+              12.111
+            ],
+            [
+              -61.677,
+              12.085
+            ],
+            [
+              -61.625,
+              12.069
+            ],
+            [
+              -61.603,
+              12.177
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gd",
+        "region_child": "gd-01",
+        "area": 0.009129999999999777,
+        "bounding_box": [
+          -61.686,
+          12.069,
+          -61.603,
+          12.179
+        ],
+        "point": [
+          -61.6445,
+          12.124
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "أبرشية سانت أندرو",
+          "bn": "সেন্ট আন্ড্রু পারিশ",
+          "de": "Saint Andrew",
+          "en": "Saint Andrew Parish",
+          "es": "Parroquia de Saint Andrew",
+          "fr": "Paroisse de Saint Andrew",
+          "el": "Άγιος Ανδρέας",
+          "hi": "सेंट एंड्रू पैरिश",
+          "hu": null,
+          "id": "Paroki Saint Andrew",
+          "it": "Parrocchia di Saint Andrew",
+          "ja": "セント・アンドリューズ",
+          "ko": "세인트앤드루 교구",
+          "nl": "Saint Andrew",
+          "pl": "Saint Andrew",
+          "pt": "Saint Andrew",
+          "ru": "Приход Сент-Эндрю",
+          "sv": "Saint Andrew",
+          "tr": "Saint Andrew Parish",
+          "vi": "Giáo xứ Saint Andrew",
+          "zh": "聖安德魯區"
+        },
+        "population": 21797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.682,
+              12.223
+            ],
+            [
+              -61.656,
+              12.179
+            ],
+            [
+              -61.603,
+              12.177
+            ],
+            [
+              -61.628,
+              12.237
+            ],
+            [
+              -61.682,
+              12.223
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gd",
+        "region_child": "gd-06",
+        "area": 0.004740000000000077,
+        "bounding_box": [
+          -61.682,
+          12.177,
+          -61.603,
+          12.237
+        ],
+        "point": [
+          -61.6425,
+          12.207
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "أبرشية القديس باتريك",
+          "bn": "সেন্ত প্যাট্রিক পারিশ",
+          "de": "Saint Patrick",
+          "en": "Saint Patrick Parish",
+          "es": "Parroquia de Saint Patrick",
+          "fr": "Paroisse de Saint Patrick",
+          "el": "Άγιος Πατρίκιος",
+          "hi": "सेंट पैट्रिक पैरिश",
+          "hu": null,
+          "id": "Paroki Saint Patrick",
+          "it": "Parrocchia di Saint Patrick",
+          "ja": "セント・パトリック郡",
+          "ko": "세인트패트릭 교구",
+          "nl": "Saint Patrick",
+          "pl": "Saint Patrick",
+          "pt": "Saint Patrick",
+          "ru": "Приход Сент-Патрик",
+          "sv": "Saint Patrick",
+          "tr": "Saint Patrick Parish",
+          "vi": "Giáo xứ Saint Patrick",
+          "zh": "聖帕特里克區"
+        },
+        "population": 9320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.715,
+              12.184
+            ],
+            [
+              -61.663,
+              12.159
+            ],
+            [
+              -61.656,
+              12.179
+            ],
+            [
+              -61.682,
+              12.223
+            ],
+            [
+              -61.715,
+              12.184
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gd",
+        "region_child": "gd-05",
+        "area": 0.003776000000000298,
+        "bounding_box": [
+          -61.715,
+          12.159,
+          -61.656,
+          12.223
+        ],
+        "point": [
+          -61.685500000000005,
+          12.191
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "أبرشية القديس مارك",
+          "bn": "সেন্ট মাার্ক পারিশ",
+          "de": "Saint Mark",
+          "en": "Saint Mark Parish",
+          "es": "Parroquia de Saint Mark",
+          "fr": "Paroisse de Saint Mark",
+          "el": "Άγιος Μάρκος",
+          "hi": "सेंट मार्क पैरिश",
+          "hu": null,
+          "id": "Paroki Saint Mark",
+          "it": "Parrocchia di Saint Mark",
+          "ja": "セント・マーク",
+          "ko": "세인트마크 교구",
+          "nl": "Saint Mark",
+          "pl": "Saint Mark",
+          "pt": "Saint Mark",
+          "ru": "Приход Сент-Марка",
+          "sv": "Saint Mark",
+          "tr": "Saint Mark Parish",
+          "vi": "Giáo xứ Saint Mark",
+          "zh": "聖馬克區"
+        },
+        "population": 2626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.751,
+              12.11
+            ],
+            [
+              -61.686,
+              12.111
+            ],
+            [
+              -61.663,
+              12.159
+            ],
+            [
+              -61.715,
+              12.184
+            ],
+            [
+              -61.751,
+              12.11
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gd",
+        "region_child": "gd-04",
+        "area": 0.006512000000000058,
+        "bounding_box": [
+          -61.751,
+          12.11,
+          -61.663,
+          12.184
+        ],
+        "point": [
+          -61.706999999999994,
+          12.146999999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "أبرشية القديس جون",
+          "bn": "সেন্ট জন প্যারিশ",
+          "de": "Saint John",
+          "en": "Saint John Parish",
+          "es": "Parroquia de Saint John",
+          "fr": "Paroisse de Saint John",
+          "el": "Άγιος Ιωάννης",
+          "hi": "सेंट जॉन पैरिश",
+          "hu": null,
+          "id": "Paroki Saint John",
+          "it": "Parrocchia di Saint John",
+          "ja": "セント・ジョン郡",
+          "ko": "세인트존 교구",
+          "nl": "Saint John",
+          "pl": "Saint John",
+          "pt": "Saint John",
+          "ru": "Приход Сент-Джон",
+          "sv": "Saint John",
+          "tr": "Saint John Parish",
+          "vi": "Giáo xứ Saint John",
+          "zh": "聖約翰區"
+        },
+        "population": 5082
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.428,
+              12.455
+            ],
+            [
+              -61.422,
+              12.513
+            ],
+            [
+              -61.443,
+              12.517
+            ],
+            [
+              -61.467,
+              12.476
+            ],
+            [
+              -61.428,
+              12.455
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gd",
+        "region_child": "gd-10",
+        "area": 0.0027900000000000784,
+        "bounding_box": [
+          -61.467,
+          12.455,
+          -61.422,
+          12.517
+        ],
+        "point": [
+          -61.4445,
+          12.486
+        ],
+        "labels": {
+          "alt": "Southern Grenadine Islands",
+          "local": null,
+          "len": 31,
+          "ar": "كارياكو و بيتي مارتينيك",
+          "bn": "ক্যারিয়ারাকু এবং পেতিট মার্টিনিক",
+          "de": "Carriacou und Petite Martinique",
+          "en": "Carriacou and Petite Martinique",
+          "es": "Carriacou et Petite Martinique",
+          "fr": "Carriacou et Petite Martinique",
+          "el": "Καρριακού και Μικρή Μαρτινίκα",
+          "hi": "कैरिकू और पेटाईट मार्टिनीक",
+          "hu": null,
+          "id": "Carriacou dan Petite Martinique",
+          "it": "Carriacou e Petite Martinique",
+          "ja": "カリアク島",
+          "ko": "카리아쿠 프티마르티니크",
+          "nl": "Carriacou en Petite Martinique",
+          "pl": "Carriacou i Mała Martynika",
+          "pt": "Carriacou e Petite Martinique",
+          "ru": "Карриаку и Малый Мартиник",
+          "sv": "Carriacou och Petite Martinique",
+          "tr": "Carriacou and Petite Martinique",
+          "vi": "Carriacou và Petite Martinique",
+          "zh": "卡里亞庫和小馬提尼克"
+        },
+        "population": 2625
+      }
+    }
+  ]
+}

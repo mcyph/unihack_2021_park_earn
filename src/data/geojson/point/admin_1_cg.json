@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5345,
+          1.4745000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-7",
+        "area": 9.881115,
+        "bounding_box": [
+          16.427,
+          -0.756,
+          18.642,
+          3.705
+        ],
+        "point": [
+          17.5345,
+          1.4745000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إدارة ليكوالا",
+          "bn": "লিকুউলা বিভাগ",
+          "de": "Likouala",
+          "en": "Likouala Department",
+          "es": "Likouala",
+          "fr": "Likouala",
+          "el": "Λικουαλά",
+          "hi": "लिकौला विभाग",
+          "hu": null,
+          "id": "Likouala Department",
+          "it": "Dipartimento di Likouala",
+          "ja": "リクアラ地方",
+          "ko": "리쿠알라 주",
+          "nl": "Likouala",
+          "pl": "Departament Likouala",
+          "pt": "Likouala",
+          "ru": "Ликуала",
+          "sv": "Likouala",
+          "tr": "Likouala",
+          "vi": "Khu vực hành chính Likouala",
+          "zh": "利夸拉省"
+        },
+        "population": 1126796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9575,
+          -0.776
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-8",
+        "area": 7.885313999999998,
+        "bounding_box": [
+          14.369,
+          -2.017,
+          17.546,
+          0.465
+        ],
+        "point": [
+          15.9575,
+          -0.776
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إدارة كوفيت",
+          "bn": "কুবেতে বিভাগ",
+          "de": "Cuvette",
+          "en": "Cuvette Department",
+          "es": "Departamento de Cuvette",
+          "fr": "Cuvette",
+          "el": "Κυβέτ",
+          "hi": "क्यूवेट विभाग",
+          "hu": null,
+          "id": "Wilayah Cuvette",
+          "it": "Dipartimento di Cuvette",
+          "ja": "キュヴェト地方",
+          "ko": "퀴베트 주",
+          "nl": "Cuvette",
+          "pl": "Departament Cuvette",
+          "pt": "Cuvette",
+          "ru": "Кювет",
+          "sv": "Cuvette",
+          "tr": "Cuvette",
+          "vi": "Khu vực hành chính Cuvette",
+          "zh": "盆地省"
+        },
+        "population": 174408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.378499999999999,
+          -2.0095
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-14",
+        "area": 5.475364999999995,
+        "bounding_box": [
+          14.101,
+          -3.081,
+          16.656,
+          -0.938
+        ],
+        "point": [
+          15.378499999999999,
+          -2.0095
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إدارة بلاتيوكس",
+          "bn": "প্লেটুক্স বিভাগ",
+          "de": "Plateaux",
+          "en": "Plateaux Department",
+          "es": "Plateaux",
+          "fr": "Plateaux",
+          "el": "Πλατώ",
+          "hi": "प्लेटो विभाग",
+          "hu": null,
+          "id": "Plateaux Department",
+          "it": "Dipartimento degli Altopiani",
+          "ja": "プラトー地方",
+          "ko": "플라토 주",
+          "nl": "Plateaux",
+          "pl": "Departament Plateaux",
+          "pt": "Plateaux",
+          "ru": "Плато",
+          "sv": "Plateaux",
+          "tr": "Plateaux",
+          "vi": "Khu vực hành chính Plateaux",
+          "zh": "高原省"
+        },
+        "population": 114581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0435,
+          -3.8105
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-12",
+        "area": 5.176629000000002,
+        "bounding_box": [
+          13.86,
+          -4.904,
+          16.227,
+          -2.717
+        ],
+        "point": [
+          15.0435,
+          -3.8105
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "إدارة بول",
+          "bn": "পুল বিভাগ",
+          "de": "Pool",
+          "en": "Pool Department",
+          "es": "Departamento de Pool",
+          "fr": "Pool",
+          "el": "Πουλ",
+          "hi": "पूल विभाग",
+          "hu": null,
+          "id": "Pool Department",
+          "it": "Dipartimento di Pool",
+          "ja": "プール地方",
+          "ko": "풀 주",
+          "nl": "Pool",
+          "pl": "Departament Pool",
+          "pt": "Pool",
+          "ru": "Пул",
+          "sv": "Pool",
+          "tr": "Pool",
+          "vi": "Khu vực hành chính Pool",
+          "zh": "普爾省"
+        },
+        "population": 15684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457,
+          -3.984
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-bzv",
+        "area": 1.0741440000000004,
+        "bounding_box": [
+          14.956,
+          -4.52,
+          15.958,
+          -3.448
+        ],
+        "point": [
+          15.457,
+          -3.984
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "برازافيل",
+          "bn": "ব্রাজাভিল",
+          "de": "Brazzaville",
+          "en": "Brazzaville",
+          "es": "Brazzaville",
+          "fr": "Brazzaville",
+          "el": "Μπραζαβίλ",
+          "hi": "ब्राजाविल",
+          "hu": "Brazzaville",
+          "id": "Brazzaville",
+          "it": "Brazzaville",
+          "ja": "ブラザヴィル",
+          "ko": "브라자빌",
+          "nl": "Brazzaville",
+          "pl": "Brazzaville",
+          "pt": "Brazzaville",
+          "ru": "Браззавиль",
+          "sv": "Brazzaville",
+          "tr": "Brazzaville",
+          "vi": "Brazzaville",
+          "zh": "布拉柴维尔"
+        },
+        "population": 1061390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.491,
+          -4.1205
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-11",
+        "area": 2.3479000000000005,
+        "bounding_box": [
+          12.605,
+          -4.783,
+          14.377,
+          -3.458
+        ],
+        "point": [
+          13.491,
+          -4.1205
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إدارة بوينزا",
+          "bn": "বুয়েঞ্জা বিভাগ",
+          "de": "Bouenza",
+          "en": "Bouenza Department",
+          "es": "Bouenza",
+          "fr": "Bouenza",
+          "el": "Μπουενζά",
+          "hi": "बुएँज़ा विभाग",
+          "hu": null,
+          "id": "Bouenza",
+          "it": "Dipartimento di Bouenza",
+          "ja": "ブエンザ地方",
+          "ko": "부엔자 주",
+          "nl": "Bouenza",
+          "pl": "Departament Bouenza",
+          "pt": "Bouenza",
+          "ru": "Буэнза",
+          "sv": "Région de la Bouenza",
+          "tr": "Bouenza",
+          "vi": "Khu vực hành chính Bouenza",
+          "zh": "布恩扎省"
+        },
+        "population": 265187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.558,
+          -3.355
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-9",
+        "area": 6.254640000000001,
+        "bounding_box": [
+          11.536,
+          -4.885,
+          13.58,
+          -1.825
+        ],
+        "point": [
+          12.558,
+          -3.355
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إدارة نياري",
+          "bn": "নিয়ারি বিভাগ",
+          "de": "Niari",
+          "en": "Niari Department",
+          "es": "Niari",
+          "fr": "Niari",
+          "el": "Νιαρί",
+          "hi": "नियारी विभाग",
+          "hu": null,
+          "id": "Niari Department",
+          "it": "Dipartimento di Niari",
+          "ja": "ニアリ地方",
+          "ko": "니아리 주",
+          "nl": "Niari",
+          "pl": "Departament Niari",
+          "pt": "Niari",
+          "ru": "Ниари",
+          "sv": "Région du Niari",
+          "tr": "Niari",
+          "vi": "Khu vực hành chính Niari",
+          "zh": "尼阿里省"
+        },
+        "population": 167089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9485,
+          -4.2645
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-5",
+        "area": 2.5218589999999974,
+        "bounding_box": [
+          11.114,
+          -5.02,
+          12.783,
+          -3.509
+        ],
+        "point": [
+          11.9485,
+          -4.2645
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إدارة كويلو",
+          "bn": "কুইলু বিভাগ",
+          "de": "Kouilou",
+          "en": "Kouilou Department",
+          "es": "Kouilou",
+          "fr": "Kouilou",
+          "el": "Κουιλού",
+          "hi": "कुइलू विभाग",
+          "hu": null,
+          "id": "Kouilou",
+          "it": "Dipartimento di Kouilou",
+          "ja": "クイル地方",
+          "ko": "쿠일루 주",
+          "nl": "Kouilou",
+          "pl": "Departament Kouilou",
+          "pt": "Kouilou",
+          "ru": "Куилу",
+          "sv": "Région du Kouilou",
+          "tr": "Kouilou",
+          "vi": "Khu vực hành chính Kouilou",
+          "zh": "奎盧省"
+        },
+        "population": 398395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.09,
+          1.3840000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-13",
+        "area": 10.52128,
+        "bounding_box": [
+          13.13,
+          0.042,
+          17.05,
+          2.726
+        ],
+        "point": [
+          15.09,
+          1.3840000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إدارة سانغا",
+          "bn": "সাংহা বিভাগ",
+          "de": "Sangha",
+          "en": "Sangha Department",
+          "es": "Departamento de Sangha",
+          "fr": "Sangha",
+          "el": "Σανγκά",
+          "hi": "संघ विभाग",
+          "hu": null,
+          "id": "Sangha Department",
+          "it": "Dipartimento di Sangha",
+          "ja": "サンガ地方",
+          "ko": "상가 주",
+          "nl": "Sangha",
+          "pl": "Departament Sangha",
+          "pt": "Sangha",
+          "ru": "Санга",
+          "sv": "Sangha",
+          "tr": "Sangha",
+          "vi": "Khu vực hành chính Sangha",
+          "zh": "桑加省"
+        },
+        "population": 111761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.558,
+          0.10250000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-15",
+        "area": 3.7469580000000016,
+        "bounding_box": [
+          13.831,
+          -1.186,
+          15.285,
+          1.391
+        ],
+        "point": [
+          14.558,
+          0.10250000000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "أدارة كوفيت-كويست",
+          "bn": "কুবেতে বিভাগ",
+          "de": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest Department",
+          "es": "Cuvette-Oeste",
+          "fr": "Cuvette-Ouest",
+          "el": "Κυβέτ-Ουέστ",
+          "hi": "कुवेटे-आउस्ट विभाग",
+          "hu": null,
+          "id": "Cuvette-Ouest",
+          "it": "Dipartimento di Cuvette-Ovest",
+          "ja": "西キュヴェト地方",
+          "ko": "퀴베트우에스트 주",
+          "nl": "Cuvette-Ouest",
+          "pl": "Departament Cuvette-Ouest",
+          "pt": "Cuvette-Ouest",
+          "ru": "Западный Кювет",
+          "sv": "Cuvette-Ouest",
+          "tr": "Batı Cuvette",
+          "vi": "Khu vực hành chính Cuvette-Ouest",
+          "zh": "西盆地省"
+        },
+        "population": 176329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.471499999999999,
+          -3.0744999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-2",
+        "area": 3.391925000000002,
+        "bounding_box": [
+          12.604,
+          -4.052,
+          14.339,
+          -2.097
+        ],
+        "point": [
+          13.471499999999999,
+          -3.0744999999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إدارة ليكومو",
+          "bn": "লেকুমৌ বিভাগ",
+          "de": "Lékoumou",
+          "en": "Lékoumou Department",
+          "es": "Lékoumou",
+          "fr": "Lékoumou",
+          "el": "Λεκουμού",
+          "hi": "लिकूमू विभाग",
+          "hu": null,
+          "id": "Lékoumou",
+          "it": "Dipartimento di Lékoumou",
+          "ja": "レクム地方",
+          "ko": "레쿠무 주",
+          "nl": "Lékoumou",
+          "pl": "Departament Lékoumou",
+          "pt": "Lékoumou",
+          "ru": "Лекуму",
+          "sv": "Lékoumou",
+          "tr": "Lékoumou",
+          "vi": "Khu hành chính Lékoumou",
+          "zh": "萊庫穆省"
+        },
+        "population": 159776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.859,
+          -4.798500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cg",
+        "region_child": "cg-16",
+        "area": 0.008813999999999966,
+        "bounding_box": [
+          11.82,
+          -4.855,
+          11.898,
+          -4.742
+        ],
+        "point": [
+          11.859,
+          -4.798500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": "Pointe-Noire",
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 105772
+      }
+    }
+  ]
+}

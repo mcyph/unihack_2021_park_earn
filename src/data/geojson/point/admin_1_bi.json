@@ -1,0 +1,906 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.316499999999998,
+          -2.724
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-my",
+        "area": 0.4016340000000003,
+        "bounding_box": [
+          30.078,
+          -3.145,
+          30.555,
+          -2.303
+        ],
+        "point": [
+          30.316499999999998,
+          -2.724
+        ],
+        "labels": {
+          "alt": "Muhinga",
+          "local": null,
+          "len": 7,
+          "ar": "محافظة موينغا",
+          "bn": "মুইজিং প্রদেশ",
+          "de": "Muyinga",
+          "en": "Muyinga Province",
+          "es": "Provincia de Muyinga",
+          "fr": "province de Muyinga",
+          "el": "Μουγίνγκα",
+          "hi": "मयिंगा प्रांत",
+          "hu": null,
+          "id": "Provinsi Muyinga",
+          "it": "provincia di Muyinga",
+          "ja": "ムインガ県",
+          "ko": "무잉가 주",
+          "nl": "Muyinga",
+          "pl": "Prowincja Muyinga",
+          "pt": "Muyinga",
+          "ru": "Муйинга",
+          "sv": "Muyinga",
+          "tr": "Muyinga Province",
+          "vi": "Tỉnh Muyinga",
+          "zh": "穆因加省"
+        },
+        "population": 989536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.165,
+          -2.5515
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-ki",
+        "area": 0.23959799999999934,
+        "bounding_box": [
+          29.904,
+          -2.781,
+          30.426,
+          -2.322
+        ],
+        "point": [
+          30.165,
+          -2.5515
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة كيروندو",
+          "bn": "কিরুন্ডো প্রদেশ",
+          "de": "Kirundo",
+          "en": "Kirundo Province",
+          "es": "Provincia de Kirundo",
+          "fr": "province de Kirundo",
+          "el": "Κιρούντο",
+          "hi": "किरुन्विभाग प्रांत",
+          "hu": null,
+          "id": "Provinsi Kirundo",
+          "it": "provincia di Kirundo",
+          "ja": "キルンド県",
+          "ko": "키룬도 주",
+          "nl": "Kirundo",
+          "pl": "Prowincja Kirundo",
+          "pt": "Kirundo",
+          "ru": "Кирундо",
+          "sv": "Kirundo",
+          "tr": "Kirundo Province",
+          "vi": "Tỉnh Kirundo",
+          "zh": "基龍多省"
+        },
+        "population": 936111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9075,
+          -2.8625
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-ng",
+        "area": 0.25099100000000063,
+        "bounding_box": [
+          29.628,
+          -3.087,
+          30.187,
+          -2.638
+        ],
+        "point": [
+          29.9075,
+          -2.8625
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة نغوزي",
+          "bn": "গোজি প্রদেশ",
+          "de": "Ngozi",
+          "en": "Ngozi Province",
+          "es": "Provincia de Ngozi",
+          "fr": "province de Ngozi",
+          "el": "Νγκόζι",
+          "hi": "नोगोज़ी प्रांत",
+          "hu": null,
+          "id": "Provinsi Ngozi",
+          "it": "provincia di Ngozi",
+          "ja": "ンゴジ県",
+          "ko": "응고지 주",
+          "nl": "Ngozi",
+          "pl": "Prowincja Ngozi",
+          "pt": "Ngozi",
+          "ru": "Нгози",
+          "sv": "Ngozi",
+          "tr": "Ngozi Province",
+          "vi": "Tỉnh Ngozi",
+          "zh": "恩戈齊省"
+        },
+        "population": 872031
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.245,
+          -2.8505000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-ci",
+        "area": 0.25350000000000006,
+        "bounding_box": [
+          28.995,
+          -3.104,
+          29.495,
+          -2.597
+        ],
+        "point": [
+          29.245,
+          -2.8505000000000003
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "محافظة سيبيتوك",
+          "bn": "চিবিটক প্রদেশ",
+          "de": "Cibitoke",
+          "en": "Cibitoke Province",
+          "es": "Provincia de Cibitoke",
+          "fr": "province de Cibitoke",
+          "el": "Κιμπιτόκε",
+          "hi": "सिबिटोक प्रांत",
+          "hu": null,
+          "id": "Provinsi Cibitoke",
+          "it": "provincia di Cibitoke",
+          "ja": "チビトケ県",
+          "ko": "치비토케 주",
+          "nl": "Cibitoke",
+          "pl": "Prowincja Cibitoke",
+          "pt": "Cibitoke",
+          "ru": "Кибитоке",
+          "sv": "Cibitoke",
+          "tr": "Cibitoke Province",
+          "vi": "Tỉnh Cibitoke",
+          "zh": "锡比托凯省"
+        },
+        "population": 683879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6615,
+          -2.996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-ky",
+        "area": 0.1766640000000001,
+        "bounding_box": [
+          29.445,
+          -3.2,
+          29.878,
+          -2.792
+        ],
+        "point": [
+          29.6615,
+          -2.996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة كايانزا",
+          "bn": "কানজা প্রদেশ",
+          "de": "Kayanza",
+          "en": "Kayanza Province",
+          "es": "Provincia de Kayanza",
+          "fr": "province de Kayanza",
+          "el": "Καγιάνζα",
+          "hi": "कयांजा प्रांत",
+          "hu": null,
+          "id": "Provinsi Kayanza",
+          "it": "provincia di Kayanza",
+          "ja": "カヤンザ県",
+          "ko": "카얀자 주",
+          "nl": "Kayanza",
+          "pl": "Prowincja Kayanza",
+          "pt": "Kayanza",
+          "ru": "Каянза",
+          "sv": "Kayanza",
+          "tr": "Kayanza Province",
+          "vi": "Tỉnh Kayanza",
+          "zh": "卡揚扎省"
+        },
+        "population": 832767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5605,
+          -3.138
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-ca",
+        "area": 0.25846799999999964,
+        "bounding_box": [
+          30.289,
+          -3.376,
+          30.832,
+          -2.9
+        ],
+        "point": [
+          30.5605,
+          -3.138
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة كانكوزو",
+          "bn": "ক্যানকুযো প্রদেশ",
+          "de": "Cankuzo",
+          "en": "Cankuzo Province",
+          "es": "Provincia de Cankuzo",
+          "fr": "province de Cankuzo",
+          "el": "Κανκούζο",
+          "hi": "कैन्कुज़ो प्रांत",
+          "hu": null,
+          "id": "Provinsi Cankuzo",
+          "it": "provincia di Cankuzo",
+          "ja": "カンクゾ県",
+          "ko": "캉쿠조 주",
+          "nl": "Cankuzo",
+          "pl": "Prowincja Cankuzo",
+          "pt": "Cankuzo",
+          "ru": "Чанкузо",
+          "sv": "Cankuzo",
+          "tr": "Cankuzo ili",
+          "vi": "Tỉnh Cankuzo",
+          "zh": "坎庫佐省"
+        },
+        "population": 321028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.339,
+          -3.4445
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-ry",
+        "area": 0.3124380000000002,
+        "bounding_box": [
+          30.038,
+          -3.704,
+          30.64,
+          -3.185
+        ],
+        "point": [
+          30.339,
+          -3.4445
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظة روييغي",
+          "bn": "রুইগি প্রদেশ",
+          "de": "Ruyigi",
+          "en": "Ruyigi Province",
+          "es": "Provincia de Ruyigi",
+          "fr": "province de Ruyigi",
+          "el": "Ρουγίγκι",
+          "hi": "रुइगी प्रांत",
+          "hu": null,
+          "id": "Provinsi Ruyigi",
+          "it": "provincia di Ruyigi",
+          "ja": "ルイギ県",
+          "ko": "루이기 주",
+          "nl": "Ruyigi",
+          "pl": "Prowincja Ruyigi",
+          "pt": "Ruyigi",
+          "ru": "Руйиги",
+          "sv": "Ruyigi",
+          "tr": "Ruyigi Province",
+          "vi": "Tỉnh Ruyigi",
+          "zh": "鲁伊吉省"
+        },
+        "population": 601831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.132,
+          -3.886
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-rt",
+        "area": 0.25,
+        "bounding_box": [
+          29.882,
+          -4.136,
+          30.382,
+          -3.636
+        ],
+        "point": [
+          30.132,
+          -3.886
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة روتانا",
+          "bn": "রুটানা প্রদেশ",
+          "de": "Rutana",
+          "en": "Rutana Province",
+          "es": "Provincia de Rutana",
+          "fr": "province de Rutana",
+          "el": "Ρουτάνα",
+          "hi": "रुटाना प्रांत",
+          "hu": null,
+          "id": "Provinsi Rutana",
+          "it": "provincia di Rutana",
+          "ja": "ルタナ県",
+          "ko": "루타나 주",
+          "nl": "Rutana",
+          "pl": "Prowincja Rutana",
+          "pt": "Rutana",
+          "ru": "Рутана",
+          "sv": "Rutana",
+          "tr": "Rutana Province",
+          "vi": "Tỉnh Rutana",
+          "zh": "魯塔納省"
+        },
+        "population": 502755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7715,
+          -4.2345
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-ma",
+        "area": 0.3680949999999989,
+        "bounding_box": [
+          29.367,
+          -4.462,
+          30.176,
+          -4.007
+        ],
+        "point": [
+          29.7715,
+          -4.2345
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة ماكامبا",
+          "bn": "মাকাম্বা প্রদেশ",
+          "de": "Makamba",
+          "en": "Makamba Province",
+          "es": "Provincia de Makamba",
+          "fr": "province de Makamba",
+          "el": "Μακάμπα",
+          "hi": "मकम्बा प्रांत",
+          "hu": null,
+          "id": "Provinsi Makamba",
+          "it": "provincia di Makamba",
+          "ja": "マカンバ県",
+          "ko": "마캄바 주",
+          "nl": "Makamba",
+          "pl": "Prowincja Makamba",
+          "pt": "Makamba",
+          "ru": "Макамба",
+          "sv": "Makamba",
+          "tr": "Makamba Province",
+          "vi": "Tỉnh Makamba",
+          "zh": "馬坎巴省"
+        },
+        "population": 536944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.386499999999998,
+          -3.1109999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-bb",
+        "area": 0.13800000000000093,
+        "bounding_box": [
+          29.214,
+          -3.311,
+          29.559,
+          -2.911
+        ],
+        "point": [
+          29.386499999999998,
+          -3.1109999999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة بوبانزا",
+          "bn": "বুবাঞ্জা প্রদেশ",
+          "de": "Bubanza",
+          "en": "Bubanza Province",
+          "es": "Provincia de Bubanza",
+          "fr": "province de Bubanza",
+          "el": "Μπουμπάνζα",
+          "hi": "बुबांज़ा प्रांत",
+          "hu": null,
+          "id": "Provinsi Bubanza",
+          "it": "provincia di Bubanza",
+          "ja": "ブバンザ県",
+          "ko": "부반자 주",
+          "nl": "Bubanza",
+          "pl": "Prowincja Bubanza",
+          "pt": "Bubanza",
+          "ru": "Бубанза",
+          "sv": "Bubanza",
+          "tr": "Bubanza ili",
+          "vi": "Tỉnh Bubanza",
+          "zh": "布班扎省"
+        },
+        "population": 439979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.408,
+          -3.4930000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-bl",
+        "area": 0.18502399999999974,
+        "bounding_box": [
+          29.212,
+          -3.729,
+          29.604,
+          -3.257
+        ],
+        "point": [
+          29.408,
+          -3.4930000000000003
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "مقاطعة بويمبورا الريفية",
+          "bn": "বুজাম্বুরা রুরাল প্রদেশ",
+          "de": "Bujumbura Rural",
+          "en": "Bujumbura Rural Province",
+          "es": "Provincia de Buyumbura Rural",
+          "fr": "province de Bujumbura rural",
+          "el": "Μπουζουμπουρά-Ρουράλ",
+          "hi": "बुखुम्बुरा ग्रामीण प्रांत",
+          "hu": null,
+          "id": "Provinsi Bujumbura Rural",
+          "it": "provincia di Bujumbura Rurale",
+          "ja": "ブジュンブラ近郊県",
+          "ko": "부줌부라 교외주",
+          "nl": "Bujumbura Rural",
+          "pl": "Prowincja Bużumbura",
+          "pt": "Bujumbura Rural",
+          "ru": "Бужумбура-Рурал",
+          "sv": "Bujumbura Rural",
+          "tr": "Bujumbura Rural ili",
+          "vi": "Tỉnh Bujumbura Rural",
+          "zh": "布松布拉鄉村省"
+        },
+        "population": 727045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.311500000000002,
+          -3.4425
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-bm",
+        "area": 0.0515410000000004,
+        "bounding_box": [
+          29.212,
+          -3.572,
+          29.411,
+          -3.313
+        ],
+        "point": [
+          29.311500000000002,
+          -3.4425
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "مقاطعة بويومبورا مايري",
+          "bn": "বুজুম্বুরা মাইরি প্রদেশ",
+          "de": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie Province",
+          "es": "Provincia de Buyumbura Mairie",
+          "fr": "province de Bujumbura Mairie",
+          "el": "Μπουτζουμπούρα",
+          "hi": "बुखुम्बरा मैरी प्रांत",
+          "hu": null,
+          "id": "Provinsi Bujumbura Mairie",
+          "it": "provincia di Bujumbura Mairie",
+          "ja": "ブジュンブラ・メリー県",
+          "ko": "부줌부라 도시주",
+          "nl": "Bujumbura Mairie",
+          "pl": "Prowincja Miasto Bużumbura",
+          "pt": "Bujumbura Mairie",
+          "ru": "Бужумбура-Мэри",
+          "sv": "Bujumbura Mairie",
+          "tr": "Bujumbra Mairie Province",
+          "vi": "Tỉnh Bujumbura Mairie",
+          "zh": null
+        },
+        "population": 955606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.567500000000003,
+          -3.8674999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-br",
+        "area": 0.4636030000000002,
+        "bounding_box": [
+          29.207,
+          -4.189,
+          29.928,
+          -3.546
+        ],
+        "point": [
+          29.567500000000003,
+          -3.8674999999999997
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظة بوروري",
+          "bn": "বুরুরি প্রদেশ",
+          "de": "Bururi",
+          "en": "Bururi Province",
+          "es": "Provincia de Bururi",
+          "fr": "Bururi",
+          "el": "Μπουρούρι",
+          "hi": "बुरीरी प्रांत",
+          "hu": null,
+          "id": "Provinsi Bururi",
+          "it": "provincia di Bururi",
+          "ja": "ブルリ県",
+          "ko": "부루리 주",
+          "nl": "Bururi",
+          "pl": "Prowincja Bururi",
+          "pt": "Bururi",
+          "ru": "Бурури",
+          "sv": "Bururi",
+          "tr": "Bururi ili",
+          "vi": "Tỉnh Bururi",
+          "zh": "布鲁里省"
+        },
+        "population": 891557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.915,
+          -3.439
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-gi",
+        "area": 0.28803600000000007,
+        "bounding_box": [
+          29.726,
+          -3.82,
+          30.104,
+          -3.058
+        ],
+        "point": [
+          29.915,
+          -3.439
+        ],
+        "labels": {
+          "alt": "Kitega",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة جيتيغا",
+          "bn": "গিটেগা প্রদেশ",
+          "de": "Gitega",
+          "en": "Gitega Province",
+          "es": "Provincia de Gitega",
+          "fr": "province de Gitega",
+          "el": "Γκιτέγκα",
+          "hi": "गिटेगा प्रांत",
+          "hu": null,
+          "id": "Provinsi Gitega",
+          "it": "provincia di Gitega",
+          "ja": "ギテガ県",
+          "ko": "기테가 주",
+          "nl": "Gitega",
+          "pl": "Prowincja Gitega",
+          "pt": "Gitega",
+          "ru": "Гитега",
+          "sv": "Gitega",
+          "tr": "Gitega Province",
+          "vi": "Tỉnh Gitega",
+          "zh": "基特加省"
+        },
+        "population": 872656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.683,
+          -3.2465
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-mu",
+        "area": 0.09952000000000007,
+        "bounding_box": [
+          29.523,
+          -3.402,
+          29.843,
+          -3.091
+        ],
+        "point": [
+          29.683,
+          -3.2465
+        ],
+        "labels": {
+          "alt": "Muramviya",
+          "local": null,
+          "len": 8,
+          "ar": "محافظة مورامفيا",
+          "bn": "মুরাম্ভিয়া প্রদেশ",
+          "de": "Muramvya",
+          "en": "Muramvya Province",
+          "es": "Provincia de Muramvya",
+          "fr": "province de Muramvya",
+          "el": "Μουράμβια",
+          "hi": "मुरम्व्य प्रांत",
+          "hu": null,
+          "id": "Provinsi Muramvya",
+          "it": "provincia di Muramvya",
+          "ja": "ムランヴィヤ県",
+          "ko": "무람비야 주",
+          "nl": "Muramvya",
+          "pl": "Prowincja Muramvya",
+          "pt": "Muramvya",
+          "ru": "Мурамвия",
+          "sv": "Muramvya",
+          "tr": "Muramvya Province",
+          "vi": "Tỉnh Muramvya",
+          "zh": "穆拉姆维亚省"
+        },
+        "population": 440721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.735500000000002,
+          -3.519
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-mw",
+        "area": 0.09877800000000028,
+        "bounding_box": [
+          29.584,
+          -3.682,
+          29.887,
+          -3.356
+        ],
+        "point": [
+          29.735500000000002,
+          -3.519
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة موارو",
+          "bn": "ম্বারো প্রদেশ",
+          "de": "Mwaro",
+          "en": "Mwaro Province",
+          "es": "Provincia de Mwaro",
+          "fr": "province de Mwaro",
+          "el": "Μουάρο",
+          "hi": "मवारो प्रांत",
+          "hu": null,
+          "id": "Provinsi Mwaro",
+          "it": "provincia di Mwaro",
+          "ja": "ムワロ県",
+          "ko": "음와로 주",
+          "nl": "Mwaro",
+          "pl": "Prowincja Mwaro",
+          "pt": "Mwaro",
+          "ru": "Мваро",
+          "sv": "Mwaro",
+          "tr": "Mwaro Province",
+          "vi": "Tỉnh Mwaro",
+          "zh": "穆瓦洛省"
+        },
+        "population": 325839
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1145,
+          -3.1225
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bi",
+        "region_child": "bi-kr",
+        "area": 0.20070300000000116,
+        "bounding_box": [
+          29.891,
+          -3.347,
+          30.338,
+          -2.898
+        ],
+        "point": [
+          30.1145,
+          -3.1225
+        ],
+        "labels": {
+          "alt": "Karusi",
+          "local": null,
+          "len": 6,
+          "ar": "محافظة كاروزي",
+          "bn": "কারুজি প্রদেশ",
+          "de": "Karuzi",
+          "en": "Karuzi Province",
+          "es": "Provincia de Karuzi",
+          "fr": "province de Karuzi",
+          "el": "Καρούζι",
+          "hi": "कारुज़ी प्रांत",
+          "hu": null,
+          "id": "Provinsi Karuzi",
+          "it": "provincia di Karuzi",
+          "ja": "カルジ県",
+          "ko": "카루지 주",
+          "nl": "Karuzi",
+          "pl": "Prowincja Karuzi",
+          "pt": "Karuzi",
+          "ru": "Карузи",
+          "sv": "Karuzi",
+          "tr": "Karuzi",
+          "vi": "Tỉnh Karuzi",
+          "zh": "卡鲁济省"
+        },
+        "population": 494584
+      }
+    }
+  ]
+}

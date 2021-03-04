@@ -1,0 +1,1025 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6175,
+          27.597
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "tinsukia",
+        "area": 0.5946600000000022,
+        "bounding_box": [
+          95.22,
+          27.223,
+          96.015,
+          27.971
+        ],
+        "point": [
+          95.6175,
+          27.597
+        ],
+        "labels": {
+          "en": "Tinsukia"
+        },
+        "population": 1405401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8625,
+          27.5945
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "dhemaji",
+        "area": 0.7451550000000012,
+        "bounding_box": [
+          94.21,
+          27.309,
+          95.515,
+          27.88
+        ],
+        "point": [
+          94.8625,
+          27.5945
+        ],
+        "labels": {
+          "en": "Dhemaji"
+        },
+        "population": 700472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.024,
+          27.3975
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "dibrugarh",
+        "area": 0.5639600000000006,
+        "bounding_box": [
+          94.564,
+          27.091,
+          95.484,
+          27.704
+        ],
+        "point": [
+          95.024,
+          27.3975
+        ],
+        "labels": {
+          "en": "Dibrugarh"
+        },
+        "population": 1517740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1635,
+          27.1715
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "lakhimpur",
+        "area": 0.6489070000000073,
+        "bounding_box": [
+          93.698,
+          26.823,
+          94.629,
+          27.52
+        ],
+        "point": [
+          94.1635,
+          27.1715
+        ],
+        "labels": {
+          "en": "Lakhimpur"
+        },
+        "population": 1162723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6685,
+          26.993499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "sivasagar",
+        "area": 0.3079609999999977,
+        "bounding_box": [
+          94.395,
+          26.712,
+          94.942,
+          27.275
+        ],
+        "point": [
+          94.6685,
+          26.993499999999997
+        ],
+        "labels": {
+          "en": "Sivasagar"
+        },
+        "population": 800875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2875,
+          26.6495
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "jorhat",
+        "area": 0.3804930000000011,
+        "bounding_box": [
+          93.972,
+          26.348,
+          94.603,
+          26.951
+        ],
+        "point": [
+          94.2875,
+          26.6495
+        ],
+        "labels": {
+          "en": "Jorhat"
+        },
+        "population": 1033973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7345,
+          26.764
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "sonitpur",
+        "area": 0.440056,
+        "bounding_box": [
+          92.324,
+          26.496,
+          93.145,
+          27.032
+        ],
+        "point": [
+          92.7345,
+          26.764
+        ],
+        "labels": {
+          "en": "Sonitpur"
+        },
+        "population": 1468546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7325,
+          26.369500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "golaghat",
+        "area": 0.9988109999999889,
+        "bounding_box": [
+          93.287,
+          25.809,
+          94.178,
+          26.93
+        ],
+        "point": [
+          93.7325,
+          26.369500000000002
+        ],
+        "labels": {
+          "en": "Golaghat"
+        },
+        "population": 1314620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0515,
+          26.704
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "udalguri",
+        "area": 0.31692000000000303,
+        "bounding_box": [
+          91.704,
+          26.476,
+          92.399,
+          26.932
+        ],
+        "point": [
+          92.0515,
+          26.704
+        ],
+        "labels": {
+          "en": "Udalguri"
+        },
+        "population": 911050
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6465,
+          26.645
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "chirang",
+        "area": 0.3216779999999979,
+        "bounding_box": [
+          90.336,
+          26.386,
+          90.957,
+          26.904
+        ],
+        "point": [
+          90.6465,
+          26.645
+        ],
+        "labels": {
+          "en": "Chirang"
+        },
+        "population": 615090
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3355,
+          26.628
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "baksa",
+        "area": 0.39559200000000244,
+        "bounding_box": [
+          90.869,
+          26.416,
+          91.802,
+          26.84
+        ],
+        "point": [
+          91.3355,
+          26.628
+        ],
+        "labels": {
+          "en": "Baksa"
+        },
+        "population": 1260975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8565,
+          26.331
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "nagaon",
+        "area": 0.6774820000000029,
+        "bounding_box": [
+          92.395,
+          25.964,
+          93.318,
+          26.698
+        ],
+        "point": [
+          92.8565,
+          26.331
+        ],
+        "labels": {
+          "en": "Nagaon"
+        },
+        "population": 2338226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1325,
+          26.490000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "kokrajhar",
+        "area": 0.4543139999999952,
+        "bounding_box": [
+          89.828,
+          26.117,
+          90.437,
+          26.863
+        ],
+        "point": [
+          90.1325,
+          26.490000000000002
+        ],
+        "labels": {
+          "en": "Kokrajhar"
+        },
+        "population": 1305916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.064,
+          26.434
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "darrang",
+        "area": 0.2979799999999994,
+        "bounding_box": [
+          91.747,
+          26.199,
+          92.381,
+          26.669
+        ],
+        "point": [
+          92.064,
+          26.434
+        ],
+        "labels": {
+          "en": "Darrang"
+        },
+        "population": 1117597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9715,
+          26.377499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "barpeta",
+        "area": 0.3662749999999998,
+        "bounding_box": [
+          90.653,
+          26.09,
+          91.29,
+          26.665
+        ],
+        "point": [
+          90.9715,
+          26.377499999999998
+        ],
+        "labels": {
+          "en": "Barpeta"
+        },
+        "population": 1885096
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4005,
+          26.354
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "nalbari",
+        "area": 0.1608839999999999,
+        "bounding_box": [
+          91.216,
+          26.136,
+          91.585,
+          26.572
+        ],
+        "point": [
+          91.4005,
+          26.354
+        ],
+        "labels": {
+          "en": "Nalbari"
+        },
+        "population": 979685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.27,
+          26.2905
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "morigaon",
+        "area": 0.2676040000000026,
+        "bounding_box": [
+          91.972,
+          26.066,
+          92.568,
+          26.515
+        ],
+        "point": [
+          92.27,
+          26.2905
+        ],
+        "labels": {
+          "en": "Morigaon"
+        },
+        "population": 1128822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.381,
+          26.125999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "kamrup",
+        "area": 0.7108920000000049,
+        "bounding_box": [
+          90.94,
+          25.723,
+          91.822,
+          26.529
+        ],
+        "point": [
+          91.381,
+          26.125999999999998
+        ],
+        "labels": {
+          "en": "Kamrup"
+        },
+        "population": 1548757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.52449999999999,
+          25.8795
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "kamrup",
+        "area": 0.00048300000000001174,
+        "bounding_box": [
+          91.514,
+          25.868,
+          91.535,
+          25.891
+        ],
+        "point": [
+          91.52449999999999,
+          25.8795
+        ],
+        "labels": {
+          "en": "Kamrup"
+        },
+        "population": 1548757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.626,
+          26.348
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "bongaigaon",
+        "area": 0.17180799999999824,
+        "bounding_box": [
+          90.39,
+          26.166,
+          90.862,
+          26.53
+        ],
+        "point": [
+          90.626,
+          26.348
+        ],
+        "labels": {
+          "en": "Bongaigaon"
+        },
+        "population": 805335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0915,
+          26.131500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "dhubri",
+        "area": 0.3964249999999975,
+        "bounding_box": [
+          89.699,
+          25.879,
+          90.484,
+          26.384
+        ],
+        "point": [
+          90.0915,
+          26.131500000000003
+        ],
+        "labels": {
+          "en": "Dhubri"
+        },
+        "population": 1394237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.86949999999999,
+          26.137
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "kamrup metropolitan",
+        "area": 0.16863600000000104,
+        "bounding_box": [
+          91.564,
+          25.999,
+          92.175,
+          26.275
+        ],
+        "point": [
+          91.86949999999999,
+          26.137
+        ],
+        "labels": {
+          "en": "Kamrup Metropolitan"
+        },
+        "population": 1436761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.608,
+          26.05
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "goalpara",
+        "area": 0.3240599999999981,
+        "bounding_box": [
+          90.117,
+          25.885,
+          91.099,
+          26.215
+        ],
+        "point": [
+          90.608,
+          26.05
+        ],
+        "labels": {
+          "en": "Goalpara"
+        },
+        "population": 1062556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9975,
+          25.398
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "dima hasao",
+        "area": 0.8140559999999959,
+        "bounding_box": [
+          92.522,
+          24.97,
+          93.473,
+          25.826
+        ],
+        "point": [
+          92.9975,
+          25.398
+        ],
+        "labels": {
+          "en": "Dima Hasao"
+        },
+        "population": 290892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.84,
+          24.759999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "cachar",
+        "area": 0.646503999999997,
+        "bounding_box": [
+          92.418,
+          24.377,
+          93.262,
+          25.143
+        ],
+        "point": [
+          92.84,
+          24.759999999999998
+        ],
+        "labels": {
+          "en": "Cachar"
+        },
+        "population": 2130347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.389,
+          24.575000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "karimganj",
+        "area": 0.26870800000000317,
+        "bounding_box": [
+          92.192,
+          24.234,
+          92.586,
+          24.916
+        ],
+        "point": [
+          92.389,
+          24.575000000000003
+        ],
+        "labels": {
+          "en": "Karimganj"
+        },
+        "population": 1425597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5995,
+          24.508000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "hailakandi",
+        "area": 0.26786200000000343,
+        "bounding_box": [
+          92.419,
+          24.137,
+          92.78,
+          24.879
+        ],
+        "point": [
+          92.5995,
+          24.508000000000003
+        ],
+        "labels": {
+          "en": "Hailakandi"
+        },
+        "population": 762803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.05099999999999,
+          27.0685
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "charaideo",
+        "area": 0.19717400000000007,
+        "bounding_box": [
+          94.734,
+          26.913,
+          95.368,
+          27.224
+        ],
+        "point": [
+          95.05099999999999,
+          27.0685
+        ],
+        "labels": {
+          "en": "Charaideo"
+        },
+        "population": 490140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.275,
+          27.024
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "majuli",
+        "area": 0.19970400000000313,
+        "bounding_box": [
+          93.957,
+          26.867,
+          94.593,
+          27.181
+        ],
+        "point": [
+          94.275,
+          27.024
+        ],
+        "labels": {
+          "en": "Majuli"
+        },
+        "population": 145704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.416,
+          26.7945
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "biswanath",
+        "area": 0.29765399999999875,
+        "bounding_box": [
+          93.043,
+          26.595,
+          93.789,
+          26.994
+        ],
+        "point": [
+          93.416,
+          26.7945
+        ],
+        "labels": {
+          "en": "Biswanath"
+        },
+        "population": 665656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9755,
+          25.9605
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "hojai",
+        "area": 0.2633550000000028,
+        "bounding_box": [
+          92.704,
+          25.718,
+          93.247,
+          26.203
+        ],
+        "point": [
+          92.9755,
+          25.9605
+        ],
+        "labels": {
+          "en": "Hojai"
+        },
+        "population": 1115040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.007,
+          25.759999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "south salmara mankachar",
+        "area": 0.2234400000000047,
+        "bounding_box": [
+          89.817,
+          25.466,
+          90.197,
+          26.054
+        ],
+        "point": [
+          90.007,
+          25.759999999999998
+        ],
+        "labels": {
+          "en": "South Salmara Mankachar"
+        },
+        "population": 556685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.344,
+          26.0715
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "karbi anglong",
+        "area": 1.1913000000000076,
+        "bounding_box": [
+          92.794,
+          25.53,
+          93.894,
+          26.613
+        ],
+        "point": [
+          93.344,
+          26.0715
+        ],
+        "labels": {
+          "en": "Karbi Anglong"
+        },
+        "population": 691408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.60900000000001,
+          25.8525
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-as",
+        "region_child": "west karbi anglong",
+        "area": 0.5626499999999959,
+        "bounding_box": [
+          92.144,
+          25.55,
+          93.074,
+          26.155
+        ],
+        "point": [
+          92.60900000000001,
+          25.8525
+        ],
+        "labels": {
+          "en": "West Karbi Anglong"
+        },
+        "population": 367138
+      }
+    }
+  ]
+}

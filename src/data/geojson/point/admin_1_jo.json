@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.819500000000005,
+          32.465999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-ir",
+        "area": 0.3017400000000021,
+        "bounding_box": [
+          35.552,
+          32.184,
+          36.087,
+          32.748
+        ],
+        "point": [
+          35.819500000000005,
+          32.465999999999994
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إربد",
+          "bn": "ইরবিদ গভর্নোরেট",
+          "de": "Gouvernement Irbid",
+          "en": "Irbid Governorate",
+          "es": "Gobernación de Irbid",
+          "fr": "Gouvernorat d'Irbid",
+          "el": "Ιρμπίντ Γκοβερνοράτε",
+          "hi": "आइरबिड गवर्नरेट",
+          "hu": "Irbid kormányzóság",
+          "id": "Irbid Governorate",
+          "it": "governatorato di Irbid",
+          "ja": "イルビド県",
+          "ko": "이르비드 주",
+          "nl": "Irbid",
+          "pl": "Irbid",
+          "pt": "Governorado de Irbid",
+          "ru": "Ирбид",
+          "sv": "Irbid",
+          "tr": "Irbid Yönetimi",
+          "vi": "Tỉnh Irbid",
+          "zh": "伊爾比德省"
+        },
+        "population": 1388653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.670500000000004,
+          31.595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-md",
+        "area": 0.1614059999999999,
+        "bounding_box": [
+          35.457,
+          31.406,
+          35.884,
+          31.784
+        ],
+        "point": [
+          35.670500000000004,
+          31.595
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مادبا",
+          "bn": "মাদাবা গভর্নোরেট",
+          "de": "Gouvernement Madaba",
+          "en": "Madaba Governorate",
+          "es": "Gobernación de Madaba",
+          "fr": "subdivision de Madaba",
+          "el": "Μαντάμπα Γκοβερνοράτε",
+          "hi": "मदाबा गवर्नरेट",
+          "hu": "Mádaba kormányzóság",
+          "id": "Madaba Governorate",
+          "it": "governatorato di Madaba",
+          "ja": "マダバ県",
+          "ko": "마다바 주",
+          "nl": "Madaba",
+          "pl": "Madaba",
+          "pt": "Madaba",
+          "ru": "Мадаба",
+          "sv": "Madaba",
+          "tr": "Madaba Yönetimi",
+          "vi": "Tỉnh Madaba",
+          "zh": "馬代巴省"
+        },
+        "population": 175353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7695,
+          31.1015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-ka",
+        "area": 0.5653049999999996,
+        "bounding_box": [
+          35.347,
+          30.767,
+          36.192,
+          31.436
+        ],
+        "point": [
+          35.7695,
+          31.1015
+        ],
+        "labels": {
+          "alt": "Al Karak|Kerak",
+          "local": null,
+          "len": 5,
+          "ar": "الكرك",
+          "bn": "কারাক গভর্নোরেট",
+          "de": "Gouvernement Karak",
+          "en": "Karak Governorate",
+          "es": "Gobernación de Karak",
+          "fr": "Gouvernorat de Karak",
+          "el": "Καράκ Γκοβερνοράτε",
+          "hi": "करक गवर्नरेट",
+          "hu": "Karak kormányzóság",
+          "id": "Karak Governorate",
+          "it": "governatorato di al-Karak",
+          "ja": "カラク県",
+          "ko": "카라크 주",
+          "nl": "Kerak",
+          "pl": "Al-Karak",
+          "pt": "Karak",
+          "ru": "Эль-Карак",
+          "sv": "Karak",
+          "tr": "Karak Yönetimi",
+          "vi": "Khu vực hành chính Karak",
+          "zh": "卡拉克省"
+        },
+        "population": 271163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.644000000000005,
+          30.799
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-at",
+        "area": 0.2979199999999988,
+        "bounding_box": [
+          35.264,
+          30.603,
+          36.024,
+          30.995
+        ],
+        "point": [
+          35.644000000000005,
+          30.799
+        ],
+        "labels": {
+          "alt": "At Tafilah|Tafela|Tafileh",
+          "local": null,
+          "len": 7,
+          "ar": "الطفيلة",
+          "bn": "তাফিলাহ গভর্নোরেট",
+          "de": "Gouvernement at-Tafila",
+          "en": "Tafilah Governorate",
+          "es": "Gobernación de Tafila",
+          "fr": "Gouvernorat de Tafilah",
+          "el": "Ταφιλάχ Γκοβερνοράτε",
+          "hi": "तफिला गवर्नरेट",
+          "hu": "Tafíla kormányzóság",
+          "id": "Kegubernuran Tafilah",
+          "it": "governatorato di al-Tafila",
+          "ja": "タフィラ県",
+          "ko": "타필라 주",
+          "nl": "Tafilah",
+          "pl": "At-Tafila",
+          "pt": "Governamento de Tafilah",
+          "ru": "Эт-Тафила",
+          "sv": "Tafilah",
+          "tr": "Tafilah Yönetimi",
+          "vi": "Tỉnh Tafilah",
+          "zh": "塔菲拉省"
+        },
+        "population": 96057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3445,
+          29.976
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-aq",
+        "area": 1.1770080000000054,
+        "bounding_box": [
+          34.949,
+          29.232,
+          35.74,
+          30.72
+        ],
+        "point": [
+          35.3445,
+          29.976
+        ],
+        "labels": {
+          "alt": "Al `Aqabah",
+          "local": null,
+          "len": 5,
+          "ar": "العقبة",
+          "bn": "আকাবা গভর্নোরেট",
+          "de": "Aqaba",
+          "en": "Aqaba Governorate",
+          "es": "Gobernación de Aqaba",
+          "fr": "Gouvernorat d'Aqaba",
+          "el": "Ακάμπα Γκοβερνοράτε",
+          "hi": "अकाबा गवर्नरेट",
+          "hu": "Akaba kormányzóság",
+          "id": "Aqaba Governorate",
+          "it": "governatorato di Aqaba",
+          "ja": "アカバ県",
+          "ko": "아카바 주",
+          "nl": "Akaba",
+          "pl": "Akaba",
+          "pt": "Governorado de Aqaba",
+          "ru": "Акаба",
+          "sv": "Akaba",
+          "tr": "Aqaba Yönetimi",
+          "vi": "Tỉnh Aqaba",
+          "zh": "亞喀巴省"
+        },
+        "population": 165522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.721500000000006,
+          31.935499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-ba",
+        "area": 0.22345099999999862,
+        "bounding_box": [
+          35.502,
+          31.681,
+          35.941,
+          32.19
+        ],
+        "point": [
+          35.721500000000006,
+          31.935499999999998
+        ],
+        "labels": {
+          "alt": "Al Balqa'|Balka|Belga",
+          "local": null,
+          "len": 5,
+          "ar": "البلقاء",
+          "bn": "বাল্কা গভর্নোরেট",
+          "de": "Gouvernement al-Balqa",
+          "en": "Balqa Governorate",
+          "es": "Gobernación de Balqa'",
+          "fr": "Gouvernorat de Balqa",
+          "el": "Μπάλγκα",
+          "hi": "बालका गवर्नरेट",
+          "hu": "Balká kormányzóság",
+          "id": "Balqa Governorate",
+          "it": "governatorato di Balqa",
+          "ja": "バルカ県",
+          "ko": "발카 주",
+          "nl": "Balka",
+          "pl": "Al-Balka",
+          "pt": "Balqa",
+          "ru": "Эль-Балка",
+          "sv": "Balqa",
+          "tr": "Balqa Yönetimi",
+          "vi": "Tỉnh Balqa",
+          "zh": "拜勒加省"
+        },
+        "population": 626388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.620000000000005,
+          32.534
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-ma",
+        "area": 5.604543999999996,
+        "bounding_box": [
+          35.948,
+          31.696,
+          39.292,
+          33.372
+        ],
+        "point": [
+          37.620000000000005,
+          32.534
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "المفرق",
+          "bn": "মাফ্রাক গভর্নোরেট",
+          "de": "Gouvernement Mafraq",
+          "en": "Mafraq Governorate",
+          "es": "Gobernación de Mafraq",
+          "fr": "Gouvernorat de Mafraq",
+          "el": "Μάφρακ",
+          "hi": "माफराक गवर्नरेट",
+          "hu": "Mafrak kormányzóság",
+          "id": "Mafraq Governorate",
+          "it": "governatorato di Mafraq",
+          "ja": "マフラク県",
+          "ko": "마프라크 주",
+          "nl": "Mafrak",
+          "pl": "Al-Mafrak",
+          "pt": "Mafraq",
+          "ru": "Эль-Мафрак",
+          "sv": "Mafraq",
+          "tr": "Mafraq Yönetimi",
+          "vi": "Tỉnh Mafraq",
+          "zh": "馬弗拉克省"
+        },
+        "population": 432094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.64,
+          30.2195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-mn",
+        "area": 5.522237999999998,
+        "bounding_box": [
+          35.299,
+          29.19,
+          37.981,
+          31.249
+        ],
+        "point": [
+          36.64,
+          30.2195
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "معان",
+          "bn": "মা'আন গভার্নোরেট",
+          "de": "Ma'an Governorate",
+          "en": "Ma'an Governorate",
+          "es": "Gobernación de Ma'an",
+          "fr": "Gouvernorat de Ma'an",
+          "el": "Μαάν Γκοβερνοράτε",
+          "hi": "मान गवर्नरेट",
+          "hu": "Maán kormányzóság",
+          "id": "Ma'an",
+          "it": "governatorato di Ma'an",
+          "ja": "マアーン県",
+          "ko": "마안 주",
+          "nl": "Ma'an",
+          "pl": "Ma'an",
+          "pt": "Governadoria Maan",
+          "ru": "Маан",
+          "sv": "Ma'an",
+          "tr": "Ma'an Valiliği",
+          "vi": "Tỉnh Ma'an",
+          "zh": "馬安省"
+        },
+        "population": 126185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4465,
+          31.6465
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-am",
+        "area": 1.2392490000000007,
+        "bounding_box": [
+          35.671,
+          31.247,
+          37.222,
+          32.046
+        ],
+        "point": [
+          36.4465,
+          31.6465
+        ],
+        "labels": {
+          "alt": "Ama",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة العاصمة",
+          "bn": "আম্মান গভর্নোরেট",
+          "de": "Gouvernement Amman",
+          "en": "Amman Governorate",
+          "es": "Gobernación de Ammán",
+          "fr": "Gouvernorat d'Amman",
+          "el": "Αμάν",
+          "hi": "अम्मान गवर्नरेट",
+          "hu": "Főváros kormányzóság",
+          "id": "Amman Governorate",
+          "it": "governatorato di Amman",
+          "ja": "アンマン県",
+          "ko": "암만 주",
+          "nl": "Amman",
+          "pl": "Amman",
+          "pt": "Amã",
+          "ru": "Амман",
+          "sv": "Amman",
+          "tr": "Başkent ili",
+          "vi": "Tỉnh Amman",
+          "zh": "安曼省"
+        },
+        "population": 2273841
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.828500000000005,
+          31.849000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-az",
+        "area": 1.2980400000000043,
+        "bounding_box": [
+          35.896,
+          31.501,
+          37.761,
+          32.197
+        ],
+        "point": [
+          36.828500000000005,
+          31.849000000000004
+        ],
+        "labels": {
+          "alt": "Az Zarqa'",
+          "local": null,
+          "len": 5,
+          "ar": "الزرقاء",
+          "bn": "জারকা গভর্নোরেট",
+          "de": "Gouvernement Zarqa",
+          "en": "Zarqa Governorate",
+          "es": "Gobernación de Zarká",
+          "fr": "Gouvernorat de Zarqa",
+          "el": "Ζάρκα",
+          "hi": "ज़ारका गवर्नरेट",
+          "hu": "Zarká kormányzóság",
+          "id": "Kegubernuran Zarqa",
+          "it": "governatorato di al-Zarqa",
+          "ja": "ザルカ県",
+          "ko": "자르카 주",
+          "nl": "Zarka",
+          "pl": "Az-Zarka",
+          "pt": "Governorado de Zarqa",
+          "ru": "Эз-Зарка",
+          "sv": "Zarqa",
+          "tr": "Zarqa Yönetimi",
+          "vi": "Tỉnh Zarqa",
+          "zh": "扎爾卡省"
+        },
+        "population": 1237492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.760999999999996,
+          32.278999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-aj",
+        "area": 0.07084800000000158,
+        "bounding_box": [
+          35.617,
+          32.156,
+          35.905,
+          32.402
+        ],
+        "point": [
+          35.760999999999996,
+          32.278999999999996
+        ],
+        "labels": {
+          "alt": "Ajloan|`Ajlun",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة عجلون",
+          "bn": "আজলুন গভর্নোরেট",
+          "de": "Gouvernement Adschlun",
+          "en": "Ajloun Governorate",
+          "es": "Gobernación de Ajlun",
+          "fr": "Gouvernorat d'Ajlun",
+          "el": "Ατζλούν Γκοβερνοράτε",
+          "hi": "अजलुन",
+          "hu": "Adzslún kormányzóság",
+          "id": "Kegubernuran Ajloun",
+          "it": "governatorato di Ajlun",
+          "ja": "アジュルン県",
+          "ko": "아질룬 주",
+          "nl": "Ajlun",
+          "pl": "Adżlun",
+          "pt": "Governorato de Ajloun",
+          "ru": "Аджлун",
+          "sv": "Ajlun",
+          "tr": "Ajloun Yönetimi",
+          "vi": "Tỉnh Ajloun",
+          "zh": "阿傑隆省"
+        },
+        "population": 165192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.856,
+          32.2255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "jo",
+        "region_child": "jo-ja",
+        "area": 0.08339800000000082,
+        "bounding_box": [
+          35.695,
+          32.096,
+          36.017,
+          32.355
+        ],
+        "point": [
+          35.856,
+          32.2255
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "جرش",
+          "bn": "জারাশ গভর্নোরেট",
+          "de": "Gouvernement Dscharasch",
+          "en": "Jerash Governorate",
+          "es": "Gobernación de Gerasa",
+          "fr": "Gouvernorat de Jerash",
+          "el": "Τζέρας",
+          "hi": "जेराश",
+          "hu": "Dzseras kormányzóság",
+          "id": "Kegubernuran Jerash",
+          "it": "governatorato di Jerash",
+          "ja": "ジェラシュ県",
+          "ko": "제라시 주",
+          "nl": "Jerash",
+          "pl": "Dżarasz",
+          "pt": "Governorado de Gérasa",
+          "ru": "Джараш",
+          "sv": "Jerash",
+          "tr": "Jerash Yönetimi",
+          "vi": "Tỉnh Jerash",
+          "zh": "傑拉什省"
+        },
+        "population": 184527
+      }
+    }
+  ]
+}

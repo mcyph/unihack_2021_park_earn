@@ -1,0 +1,800 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.471,
+          -19.391
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-nw",
+        "area": 16.06425599999999,
+        "bounding_box": [
+          20.975,
+          -21.0,
+          25.967,
+          -17.782
+        ],
+        "point": [
+          23.471,
+          -19.391
+        ],
+        "labels": {
+          "alt": "North West|Bokone-Bophirima",
+          "local": null,
+          "len": 10,
+          "ar": "مقاطغة شمال غرب",
+          "bn": "নর্থ ওয়েস্ট জেলা",
+          "de": "North West District",
+          "en": "North-West District",
+          "es": "Distrito Noroeste",
+          "fr": "District du Nord-Ouest",
+          "el": "Βορειοδυτική Περιφέρεια",
+          "hi": "उत्तर-पश्चिमी जिला",
+          "hu": null,
+          "id": "Distrik Barat Laut",
+          "it": "distretto Nordoccidentale",
+          "ja": "ノースウェスト地区",
+          "ko": "북서부 구",
+          "nl": "North-West",
+          "pl": "Dystrykt Północno-Zachodni",
+          "pt": "Noroeste",
+          "ru": "Северо-Западный округ",
+          "sv": "Northwest",
+          "tr": "Kuzeybatı Bölgesi",
+          "vi": "Quận Tây-Bắc",
+          "zh": "西北區"
+        },
+        "population": 212438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6145,
+          -21.474
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-ce",
+        "area": 27.070508000000004,
+        "bounding_box": [
+          23.879,
+          -23.948,
+          29.35,
+          -19.0
+        ],
+        "point": [
+          26.6145,
+          -21.474
+        ],
+        "labels": {
+          "alt": "Centre|Ngwato|Serowe-Palapye",
+          "local": null,
+          "len": 7,
+          "ar": "المقاطعة المركزية",
+          "bn": "সেন্ট্রাল জেলা",
+          "de": "Central District",
+          "en": "Central District",
+          "es": "Distrito Central",
+          "fr": "District Central",
+          "el": "Κεντρική Περιφέρεια",
+          "hi": "मध्य जिला",
+          "hu": null,
+          "id": "Distrik Central",
+          "it": "distretto Centrale",
+          "ja": "セントラル地区",
+          "ko": "중부 구",
+          "nl": "Central",
+          "pl": "Dystrykt Centralny",
+          "pt": "Central",
+          "ru": "Центральный округ",
+          "sv": "Central",
+          "tr": "Merkez Bölgesi",
+          "vi": "Quận Miền Trung",
+          "zh": "中部區"
+        },
+        "population": 681280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6025,
+          -21.0125
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-ne",
+        "area": 0.836224999999999,
+        "bounding_box": [
+          27.215,
+          -21.552,
+          27.99,
+          -20.473
+        ],
+        "point": [
+          27.6025,
+          -21.0125
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة الشمال الشرقي",
+          "bn": "নর্থ-ইস্ট জেলা",
+          "de": "North-East District",
+          "en": "North-East District",
+          "es": "Distrito Noreste",
+          "fr": "District du Nord-Est",
+          "el": "Βορειοανατολική Περιφέρεια",
+          "hi": "उत्तर-पूर्व जिला",
+          "hu": null,
+          "id": "Distrik Timur Laut",
+          "it": "distretto Nordorientale",
+          "ja": "ノースイースト地区",
+          "ko": "북동부 구",
+          "nl": "North-East",
+          "pl": "Dystrykt Północno-Wschodni",
+          "pt": "Nordeste",
+          "ru": "Северо-Восточный округ",
+          "sv": "Northeast",
+          "tr": "Kuzeydoğu Bölgesi",
+          "vi": "Quận Đông-Bắc",
+          "zh": "東北區"
+        },
+        "population": 128471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4255,
+          -24.113500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-kl",
+        "area": 1.1815050000000034,
+        "bounding_box": [
+          25.886,
+          -24.661,
+          26.965,
+          -23.566
+        ],
+        "point": [
+          26.4255,
+          -24.113500000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة كغاتلنغ",
+          "bn": "ঘালেং জেলা",
+          "de": "Kgatleng District",
+          "en": "Kgatleng District",
+          "es": "Distrito Kgatleng",
+          "fr": "District de Kgatleng",
+          "el": "Περιφέρεια Κγκατλένγκ",
+          "hi": "गैटलेंग जिला",
+          "hu": null,
+          "id": "Distrik Kgatleng",
+          "it": "distretto di Kgatleng",
+          "ja": "カトレン地区",
+          "ko": "크가틀렝 구",
+          "nl": "Kgatleng",
+          "pl": "Dystrykt Kgatleng",
+          "pt": "Kgatleng",
+          "ru": "Кгатленг",
+          "sv": "Kgatleng",
+          "tr": "Kgatleng Bölgesi",
+          "vi": "Quận Kgatleng",
+          "zh": "卡特倫區"
+        },
+        "population": 111977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.854,
+          -25.011000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-se",
+        "area": 0.5640959999999988,
+        "bounding_box": [
+          25.542,
+          -25.463,
+          26.166,
+          -24.559
+        ],
+        "point": [
+          25.854,
+          -25.011000000000003
+        ],
+        "labels": {
+          "alt": "Borwa-Botlhaba",
+          "local": null,
+          "len": 10,
+          "ar": "المقاطعة الجنوب شرقية",
+          "bn": "সাউথ ইস্ট জেলা",
+          "de": "South-East District",
+          "en": "South-East District",
+          "es": "Distrito Sudeste",
+          "fr": "District du Sud-Est",
+          "el": "Νοτιοανατολική Περιφέρεια",
+          "hi": "दक्षिण-पूर्व जिला",
+          "hu": null,
+          "id": "Distrik Tenggara",
+          "it": "distretto Sudorientale",
+          "ja": "サウスイースト地区",
+          "ko": "남동부 구",
+          "nl": "South-East",
+          "pl": "Dystrykt Południowo-Wschodni",
+          "pt": "Sudeste",
+          "ru": "Юго-Восточный округ",
+          "sv": "Southeast",
+          "tr": "Güneydoğu Bölgesi",
+          "vi": "Quận Đông-Nam",
+          "zh": "東南區"
+        },
+        "population": 226779
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.368000000000002,
+          -24.914
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-so",
+        "area": 4.827540000000008,
+        "bounding_box": [
+          23.049,
+          -25.829,
+          25.687,
+          -23.999
+        ],
+        "point": [
+          24.368000000000002,
+          -24.914
+        ],
+        "labels": {
+          "alt": "Borwa|Ngwakets|Ngwaketse",
+          "local": null,
+          "len": 8,
+          "ar": "المقاطعة الجنوبية",
+          "bn": "সাউদার্ন জেলা",
+          "de": "Southern District",
+          "en": "Southern District",
+          "es": "Distrito Sur",
+          "fr": "District du Sud",
+          "el": "Νότια Περιφέρεια",
+          "hi": "दक्षिणी जिला",
+          "hu": null,
+          "id": "Distrik Selatan",
+          "it": "distretto Meridionale",
+          "ja": "サザン地区",
+          "ko": "남부 구",
+          "nl": "Southern",
+          "pl": "Dystrykt Południowy",
+          "pt": "Distrito do Sul",
+          "ru": "Южный округ",
+          "sv": "Southern",
+          "tr": "Güney Bölgesi",
+          "vi": "Quận Miền Nam",
+          "zh": "南部區"
+        },
+        "population": 240995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2405,
+          -25.099
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-kg",
+        "area": 16.185179999999995,
+        "bounding_box": [
+          19.98,
+          -26.889,
+          24.501,
+          -23.309
+        ],
+        "point": [
+          22.2405,
+          -25.099
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة كغالاجادي",
+          "bn": "কগালাগাডি জেলা",
+          "de": "Kgalagadi District",
+          "en": "Kgalagadi District",
+          "es": "Distrito Kgalagadi",
+          "fr": "District de Kgalagadi",
+          "el": "Περιφέρεια Κγκαλαγκάντι",
+          "hi": "कगालगाड़ी जिला",
+          "hu": null,
+          "id": "Distrik Kgalagadi",
+          "it": "distretto di Kgalagadi",
+          "ja": "カラハリ地区",
+          "ko": "크갈라가디 구",
+          "nl": "Kgalagadi",
+          "pl": "Dystrykt Kgaladi",
+          "pt": "Kgalagadi",
+          "ru": "Кгалагади",
+          "sv": "Kgalagadi",
+          "tr": "Kgalagadi Bölgesi",
+          "vi": "Quận Kgalagadi",
+          "zh": "卡拉哈迪區"
+        },
+        "population": 58859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7085,
+          -22.1595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-gh",
+        "area": 12.664058999999991,
+        "bounding_box": [
+          19.978,
+          -23.319,
+          25.439,
+          -21.0
+        ],
+        "point": [
+          22.7085,
+          -22.1595
+        ],
+        "labels": {
+          "alt": "Ghantsi",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعةغانزي",
+          "bn": "গাঞ্জি জেলা",
+          "de": "Ghanzi District",
+          "en": "Ghanzi District",
+          "es": "Distrito Ghanzi",
+          "fr": "District de Ghanzi",
+          "el": "Περιφέρεια Γκάνζι",
+          "hi": "घनजी जिला",
+          "hu": null,
+          "id": "Distrik Ghanzi",
+          "it": "distretto di Ghanzi",
+          "ja": "ハンツィ地区",
+          "ko": "간지 구",
+          "nl": "Ghanzi",
+          "pl": "Dystrykt Ghanzi",
+          "pt": "Ghanzi",
+          "ru": "Ганзи",
+          "sv": "Ghanzi",
+          "tr": "Ghanzi Bölgesi",
+          "vi": "Quận Ghanzi",
+          "zh": "杭濟區"
+        },
+        "population": 56503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.488500000000002,
+          -23.860500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-kw",
+        "area": 5.565470999999987,
+        "bounding_box": [
+          22.957,
+          -24.769,
+          26.02,
+          -22.952
+        ],
+        "point": [
+          24.488500000000002,
+          -23.860500000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة كويننغ",
+          "bn": "কেনেং জেলা",
+          "de": "Kweneng District",
+          "en": "Kweneng District",
+          "es": "Distrito Kweneng",
+          "fr": "District de Kweneng",
+          "el": "Περιφέρεια Κουενένγκ",
+          "hi": "क्वेनेंग जिला",
+          "hu": null,
+          "id": "Distrik Kweneng",
+          "it": "distretto di Kweneng",
+          "ja": "クウェネン地区",
+          "ko": "퀘넹 구",
+          "nl": "Kweneng",
+          "pl": "Dystrykt Kweneng",
+          "pt": "Kweneng",
+          "ru": "Квененг",
+          "sv": "Kweneng",
+          "tr": "Kweneng Bölgesi",
+          "vi": "Quận Kweneng",
+          "zh": "奎嫩區"
+        },
+        "population": 394711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.934,
+          -24.6115
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-ga",
+        "area": 0.04138200000000001,
+        "bounding_box": [
+          25.835,
+          -24.716,
+          26.033,
+          -24.507
+        ],
+        "point": [
+          25.934,
+          -24.6115
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "جابورون",
+          "bn": "গ্যাবোরোন",
+          "de": "Gaborone",
+          "en": "Gaborone",
+          "es": "Gaborone",
+          "fr": "Gaborone",
+          "el": "Γκαμπορόνε",
+          "hi": "गोबोर्नी",
+          "hu": "Gaborone",
+          "id": "Gaborone",
+          "it": "Gaborone",
+          "ja": "ハボローネ",
+          "ko": "가보로네",
+          "nl": "Gaborone",
+          "pl": "Gaborone",
+          "pt": "Gaborone",
+          "ru": "Габороне",
+          "sv": "Gaborone",
+          "tr": "Gaborone",
+          "vi": "Gaborone",
+          "zh": "嘉柏隆里"
+        },
+        "population": 161752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7295,
+          -24.560499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-jw",
+        "area": 0.03641700000000026,
+        "bounding_box": [
+          24.638,
+          -24.66,
+          24.821,
+          -24.461
+        ],
+        "point": [
+          24.7295,
+          -24.560499999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "غوانينغ",
+          "bn": "জোওনেং",
+          "de": "Jwaneng",
+          "en": "Jwaneng",
+          "es": "Jwaneng",
+          "fr": "Jwaneng",
+          "el": "Τζουανένγκ",
+          "hi": "ज्वानेंग",
+          "hu": null,
+          "id": "Jwaneng",
+          "it": "Jwaneng",
+          "ja": "ジュワネン",
+          "ko": "주아넹",
+          "nl": "Jwaneng",
+          "pl": "Jwaneng",
+          "pt": "Jwaneng",
+          "ru": "Джваненг",
+          "sv": "Jwaneng",
+          "tr": "Jwaneng",
+          "vi": "Jwaneng",
+          "zh": "朱瓦能"
+        },
+        "population": 2770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.499000000000002,
+          -21.1705
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-fr",
+        "area": 0.007280000000000254,
+        "bounding_box": [
+          27.459,
+          -21.216,
+          27.539,
+          -21.125
+        ],
+        "point": [
+          27.499000000000002,
+          -21.1705
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "فرانسيس",
+          "bn": "ফ্রাঞ্চিসটাউন",
+          "de": "Francistown",
+          "en": "Francistown",
+          "es": "Francistown",
+          "fr": "Francistown",
+          "el": "Φράνσισταουν",
+          "hi": "फ्रांसिसटाउन",
+          "hu": null,
+          "id": "Francistown",
+          "it": "Francistown",
+          "ja": "フランシスタウン",
+          "ko": "프랜시스타운",
+          "nl": "Francistown",
+          "pl": "Francistown",
+          "pt": "Francistown",
+          "ru": "Франсистаун",
+          "sv": "Francistown",
+          "tr": "Francistown",
+          "vi": "Francistown",
+          "zh": "弗朗西斯敦"
+        },
+        "population": 71844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.686999999999998,
+          -25.2085
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-lo",
+        "area": 0.0019380000000000866,
+        "bounding_box": [
+          25.668,
+          -25.234,
+          25.706,
+          -25.183
+        ],
+        "point": [
+          25.686999999999998,
+          -25.2085
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "لوباتس",
+          "bn": "লোবাৎসে",
+          "de": "Lobatse",
+          "en": "Lobatse",
+          "es": "Lobatse",
+          "fr": "Lobatse",
+          "el": "Λομπάτσε",
+          "hi": "लोबात्से",
+          "hu": "Lobatse",
+          "id": "Lobatse",
+          "it": "Lobatse",
+          "ja": "ロバツェ",
+          "ko": "로바체",
+          "nl": "Lobatse",
+          "pl": "Lobatse",
+          "pt": "Lobatse",
+          "ru": "Лобаце",
+          "sv": "Lobatse",
+          "tr": "Lobatse",
+          "vi": "Lobatse",
+          "zh": "洛巴策"
+        },
+        "population": 21100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8455,
+          -21.978499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-sp",
+        "area": 0.002624999999999986,
+        "bounding_box": [
+          27.808,
+          -21.996,
+          27.883,
+          -21.961
+        ],
+        "point": [
+          27.8455,
+          -21.978499999999997
+        ],
+        "labels": {
+          "alt": "Selibe Phikwe",
+          "local": null,
+          "len": 13,
+          "ar": "سيليبي-فيكوي",
+          "bn": "সেলেবি-পিখবে",
+          "de": "Selebi-Phikwe",
+          "en": "Selebi-Phikwe",
+          "es": "Selebi-Phikwe",
+          "fr": "Selebi-Phikwe",
+          "el": "Σελέμπι-Φίκουε",
+          "hi": "सेलेबी-फिकवे",
+          "hu": null,
+          "id": "Selebi-Phikwe",
+          "it": "Selebi Pikwe",
+          "ja": "セレビ・ピクウェ",
+          "ko": "셀레비피퀘",
+          "nl": "Selebi-Phikwe",
+          "pl": "Selebi-Pikwe",
+          "pt": "Selebi-Phikwe",
+          "ru": "Селеби-Пхикве",
+          "sv": "Selebi-Phikwe",
+          "tr": "Selibe-Phikwe",
+          "vi": "Selebi-Phikwe",
+          "zh": "塞莱比-皮奎"
+        },
+        "population": 19045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2255,
+          -20.579
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bw",
+        "region_child": "bw-st",
+        "area": 0.0024399999999999457,
+        "bounding_box": [
+          26.195,
+          -20.599,
+          26.256,
+          -20.559
+        ],
+        "point": [
+          26.2255,
+          -20.579
+        ],
+        "labels": {
+          "alt": "Sowa Town",
+          "local": null,
+          "len": 4,
+          "ar": "سوا، بوتسوانا",
+          "bn": "সোবা",
+          "de": "Sowa",
+          "en": "Sowa",
+          "es": "Ciudad del Sowa",
+          "fr": "Sowa Town",
+          "el": "Σόβα",
+          "hi": "सोवा",
+          "hu": null,
+          "id": "Sowa",
+          "it": "Sowa Town",
+          "ja": "ソワ",
+          "ko": "소와",
+          "nl": "Sowa",
+          "pl": "Sowa",
+          "pt": "Sowa",
+          "ru": "Сова",
+          "sv": "Sowa Town",
+          "tr": "Sowa",
+          "vi": "Sowa",
+          "zh": null
+        },
+        "population": 865
+      }
+    }
+  ]
+}

@@ -1,0 +1,3125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.816,
+          -20.628500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "dores do rio preto",
+        "area": 0.0381779999999994,
+        "bounding_box": [
+          -41.879,
+          -20.78,
+          -41.753,
+          -20.477
+        ],
+        "point": [
+          -41.816,
+          -20.628500000000003
+        ],
+        "labels": {
+          "en": "Dores do Rio Preto"
+        },
+        "population": 7207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.722,
+          -20.79
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "guaçuí",
+        "area": 0.07833600000000031,
+        "bounding_box": [
+          -41.85,
+          -20.943,
+          -41.594,
+          -20.637
+        ],
+        "point": [
+          -41.722,
+          -20.79
+        ],
+        "labels": {
+          "en": "Guaçuí"
+        },
+        "population": 30411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6605,
+          -20.355
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "iúna",
+        "area": 0.11830600000000026,
+        "bounding_box": [
+          -41.859,
+          -20.504,
+          -41.462,
+          -20.206
+        ],
+        "point": [
+          -41.6605,
+          -20.355
+        ],
+        "labels": {
+          "en": "Iúna"
+        },
+        "population": 27650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7275,
+          -20.5865
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "divino de são lourenço",
+        "area": 0.025181000000000224,
+        "bounding_box": [
+          -41.802,
+          -20.671,
+          -41.653,
+          -20.502
+        ],
+        "point": [
+          -41.7275,
+          -20.5865
+        ],
+        "labels": {
+          "en": "Divino de São Lourenço"
+        },
+        "population": 4152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.698,
+          -20.518500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "ibitirama",
+        "area": 0.06169200000000104,
+        "bounding_box": [
+          -41.804,
+          -20.664,
+          -41.592,
+          -20.373
+        ],
+        "point": [
+          -41.698,
+          -20.518500000000003
+        ],
+        "labels": {
+          "en": "Ibitirama"
+        },
+        "population": 8904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.653999999999996,
+          -20.9755
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "são josé do calçado",
+        "area": 0.04313199999999821,
+        "bounding_box": [
+          -41.736,
+          -21.107,
+          -41.572,
+          -20.844
+        ],
+        "point": [
+          -41.653999999999996,
+          -20.9755
+        ],
+        "labels": {
+          "en": "São José do Calçado"
+        },
+        "population": 10571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.667500000000004,
+          -20.3365
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "irupi",
+        "area": 0.04034899999999968,
+        "bounding_box": [
+          -41.796,
+          -20.415,
+          -41.539,
+          -20.258
+        ],
+        "point": [
+          -41.667500000000004,
+          -20.3365
+        ],
+        "labels": {
+          "en": "Irupi"
+        },
+        "population": 13301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.644999999999996,
+          -21.075499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "bom jesus do norte",
+        "area": 0.019980000000000667,
+        "bounding_box": [
+          -41.719,
+          -21.143,
+          -41.571,
+          -21.008
+        ],
+        "point": [
+          -41.644999999999996,
+          -21.075499999999998
+        ],
+        "labels": {
+          "en": "Bom Jesus do Norte"
+        },
+        "population": 9065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.57,
+          -21.069499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "apiacá",
+        "area": 0.034199999999999904,
+        "bounding_box": [
+          -41.646,
+          -21.182,
+          -41.494,
+          -20.957
+        ],
+        "point": [
+          -41.57,
+          -21.069499999999998
+        ],
+        "labels": {
+          "en": "Apiacá"
+        },
+        "population": 7411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.55,
+          -20.2715
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "ibatiba",
+        "area": 0.03694200000000053,
+        "bounding_box": [
+          -41.691,
+          -20.337,
+          -41.409,
+          -20.206
+        ],
+        "point": [
+          -41.55,
+          -20.2715
+        ],
+        "labels": {
+          "en": "Ibatiba"
+        },
+        "population": 25946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.495000000000005,
+          -20.728
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "alegre",
+        "area": 0.1061399999999996,
+        "bounding_box": [
+          -41.64,
+          -20.911,
+          -41.35,
+          -20.545
+        ],
+        "point": [
+          -41.495000000000005,
+          -20.728
+        ],
+        "labels": {
+          "en": "Alegre"
+        },
+        "population": 29796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3635,
+          -21.0655
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "mimoso do sul",
+        "area": 0.165345000000002,
+        "bounding_box": [
+          -41.59,
+          -21.248,
+          -41.137,
+          -20.883
+        ],
+        "point": [
+          -41.3635,
+          -21.0655
+        ],
+        "labels": {
+          "en": "Mimoso do Sul"
+        },
+        "population": 25787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.455,
+          -20.4025
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "muniz freire",
+        "area": 0.12269999999999852,
+        "bounding_box": [
+          -41.605,
+          -20.607,
+          -41.305,
+          -20.198
+        ],
+        "point": [
+          -41.455,
+          -20.4025
+        ],
+        "labels": {
+          "en": "Muniz Freire"
+        },
+        "population": 17146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.346000000000004,
+          -20.933
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "muqui",
+        "area": 0.04687200000000044,
+        "bounding_box": [
+          -41.472,
+          -21.026,
+          -41.22,
+          -20.84
+        ],
+        "point": [
+          -41.346000000000004,
+          -20.933
+        ],
+        "labels": {
+          "en": "Muqui"
+        },
+        "population": 15018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.391999999999996,
+          -20.8145
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "jerônimo monteiro",
+        "area": 0.026838000000000577,
+        "bounding_box": [
+          -41.463,
+          -20.909,
+          -41.321,
+          -20.72
+        ],
+        "point": [
+          -41.391999999999996,
+          -20.8145
+        ],
+        "labels": {
+          "en": "Jerônimo Monteiro"
+        },
+        "population": 11653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.216,
+          -20.537999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "castelo",
+        "area": 0.10692000000000004,
+        "bounding_box": [
+          -41.414,
+          -20.673,
+          -41.018,
+          -20.403
+        ],
+        "point": [
+          -41.216,
+          -20.537999999999997
+        ],
+        "labels": {
+          "en": "Castelo"
+        },
+        "population": 37164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.19,
+          -20.7845
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "cachoeiro de itapemirim",
+        "area": 0.14129000000000133,
+        "bounding_box": [
+          -41.389,
+          -20.962,
+          -40.991,
+          -20.607
+        ],
+        "point": [
+          -41.19,
+          -20.7845
+        ],
+        "labels": {
+          "en": "Cachoeiro de Itapemirim"
+        },
+        "population": 206112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.320499999999996,
+          -20.1075
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "brejetuba",
+        "area": 0.06551299999999842,
+        "bounding_box": [
+          -41.416,
+          -20.279,
+          -41.225,
+          -19.936
+        ],
+        "point": [
+          -41.320499999999996,
+          -20.1075
+        ],
+        "labels": {
+          "en": "Brejetuba"
+        },
+        "population": 12037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.2605,
+          -20.375
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "conceição do castelo",
+        "area": 0.05985999999999983,
+        "bounding_box": [
+          -41.363,
+          -20.521,
+          -41.158,
+          -20.229
+        ],
+        "point": [
+          -41.2605,
+          -20.375
+        ],
+        "labels": {
+          "en": "Conceição do Castelo"
+        },
+        "population": 12584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.193,
+          -20.9685
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "atilio vivacqua",
+        "area": 0.037386000000000086,
+        "bounding_box": [
+          -41.286,
+          -21.069,
+          -41.1,
+          -20.868
+        ],
+        "point": [
+          -41.193,
+          -20.9685
+        ],
+        "labels": {
+          "en": "Atilio Vivacqua"
+        },
+        "population": 11754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.079499999999996,
+          -21.156
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "presidente kennedy",
+        "area": 0.0890299999999983,
+        "bounding_box": [
+          -41.233,
+          -21.301,
+          -40.926,
+          -21.011
+        ],
+        "point": [
+          -41.079499999999996,
+          -21.156
+        ],
+        "labels": {
+          "en": "Presidente Kennedy"
+        },
+        "population": 11780
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.1105,
+          -20.089
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "afonso cláudio",
+        "area": 0.13094200000000014,
+        "bounding_box": [
+          -41.275,
+          -20.288,
+          -40.946,
+          -19.89
+        ],
+        "point": [
+          -41.1105,
+          -20.089
+        ],
+        "labels": {
+          "en": "Afonso Cláudio"
+        },
+        "population": 30227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.1325,
+          -20.3705
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "venda nova do imigrante",
+        "area": 0.031312999999999876,
+        "bounding_box": [
+          -41.219,
+          -20.461,
+          -41.046,
+          -20.28
+        ],
+        "point": [
+          -41.1325,
+          -20.3705
+        ],
+        "labels": {
+          "en": "Venda Nova do Imigrante"
+        },
+        "population": 25770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.938500000000005,
+          -20.989
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "itapemirim",
+        "area": 0.09024999999999928,
+        "bounding_box": [
+          -41.119,
+          -21.114,
+          -40.758,
+          -20.864
+        ],
+        "point": [
+          -40.938500000000005,
+          -20.989
+        ],
+        "labels": {
+          "en": "Itapemirim"
+        },
+        "population": 33221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.055499999999995,
+          -19.872999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "laranja da terra",
+        "area": 0.05996399999999904,
+        "bounding_box": [
+          -41.187,
+          -19.987,
+          -40.924,
+          -19.759
+        ],
+        "point": [
+          -41.055499999999995,
+          -19.872999999999998
+        ],
+        "labels": {
+          "en": "Laranja da Terra"
+        },
+        "population": 10691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.0045,
+          -19.5135
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "baixo guandu",
+        "area": 0.21629299999999657,
+        "bounding_box": [
+          -41.19,
+          -19.805,
+          -40.819,
+          -19.222
+        ],
+        "point": [
+          -41.0045,
+          -19.5135
+        ],
+        "labels": {
+          "en": "Baixo Guandu"
+        },
+        "population": 30011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.835499999999996,
+          -20.318
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "domingos martins",
+        "area": 0.20019600000000096,
+        "bounding_box": [
+          -41.137,
+          -20.484,
+          -40.534,
+          -20.152
+        ],
+        "point": [
+          -40.835499999999996,
+          -20.318
+        ],
+        "labels": {
+          "en": "Domingos Martins"
+        },
+        "population": 32943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.0715,
+          -18.871499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "mantenópolis",
+        "area": 0.052396999999999055,
+        "bounding_box": [
+          -41.245,
+          -18.947,
+          -40.898,
+          -18.796
+        ],
+        "point": [
+          -41.0715,
+          -18.871499999999997
+        ],
+        "labels": {
+          "en": "Mantenópolis"
+        },
+        "population": 15095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.9985,
+          -20.6475
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vargem alta",
+        "area": 0.07929700000000116,
+        "bounding_box": [
+          -41.088,
+          -20.869,
+          -40.909,
+          -20.426
+        ],
+        "point": [
+          -40.9985,
+          -20.6475
+        ],
+        "labels": {
+          "en": "Vargem Alta"
+        },
+        "population": 21066
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.911500000000004,
+          -20.7855
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "rio novo do sul",
+        "area": 0.03590499999999879,
+        "bounding_box": [
+          -40.995,
+          -20.893,
+          -40.828,
+          -20.678
+        ],
+        "point": [
+          -40.911500000000004,
+          -20.7855
+        ],
+        "labels": {
+          "en": "Rio Novo do Sul"
+        },
+        "population": 11371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.039,
+          -18.539
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "água doce do norte",
+        "area": 0.11211200000000038,
+        "bounding_box": [
+          -41.182,
+          -18.735,
+          -40.896,
+          -18.343
+        ],
+        "point": [
+          -41.039,
+          -18.539
+        ],
+        "labels": {
+          "en": "Água Doce do Norte"
+        },
+        "population": 11154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.875,
+          -21.0925
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "marataízes",
+        "area": 0.029550000000000996,
+        "bounding_box": [
+          -40.95,
+          -21.191,
+          -40.8,
+          -20.994
+        ],
+        "point": [
+          -40.875,
+          -21.0925
+        ],
+        "labels": {
+          "en": "Marataízes"
+        },
+        "population": 35793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.816,
+          -20.0865
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "santa maria de jetibá",
+        "area": 0.12420199999999952,
+        "bounding_box": [
+          -41.037,
+          -20.227,
+          -40.595,
+          -19.946
+        ],
+        "point": [
+          -40.816,
+          -20.0865
+        ],
+        "labels": {
+          "en": "Santa Maria de Jetibá"
+        },
+        "population": 40445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.838499999999996,
+          -18.2345
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "ecoporanga",
+        "area": 0.3655549999999977,
+        "bounding_box": [
+          -41.162,
+          -18.517,
+          -40.515,
+          -17.952
+        ],
+        "point": [
+          -40.838499999999996,
+          -18.2345
+        ],
+        "labels": {
+          "en": "Ecoporanga"
+        },
+        "population": 22388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.826499999999996,
+          -20.5675
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "alfredo chaves",
+        "area": 0.09267499999999847,
+        "bounding_box": [
+          -40.995,
+          -20.705,
+          -40.658,
+          -20.43
+        ],
+        "point": [
+          -40.826499999999996,
+          -20.5675
+        ],
+        "labels": {
+          "en": "Alfredo Chaves"
+        },
+        "population": 14271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85850000000001,
+          -20.761000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "iconha",
+        "area": 0.03221399999999968,
+        "bounding_box": [
+          -40.947,
+          -20.852,
+          -40.77,
+          -20.67
+        ],
+        "point": [
+          -40.85850000000001,
+          -20.761000000000003
+        ],
+        "labels": {
+          "en": "Iconha"
+        },
+        "population": 13670
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.983000000000004,
+          -19.031
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "alto rio novo",
+        "area": 0.03238399999999923,
+        "bounding_box": [
+          -41.071,
+          -19.123,
+          -40.895,
+          -18.939
+        ],
+        "point": [
+          -40.983000000000004,
+          -19.031
+        ],
+        "labels": {
+          "en": "Alto Rio Novo"
+        },
+        "population": 7707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8765,
+          -19.7235
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "itaguaçu",
+        "area": 0.07977099999999977,
+        "bounding_box": [
+          -40.997,
+          -19.889,
+          -40.756,
+          -19.558
+        ],
+        "point": [
+          -40.8765,
+          -19.7235
+        ],
+        "labels": {
+          "en": "Itaguaçu"
+        },
+        "population": 13677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.872,
+          -19.9535
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "itarana",
+        "area": 0.04723600000000014,
+        "bounding_box": [
+          -40.97,
+          -20.074,
+          -40.774,
+          -19.833
+        ],
+        "point": [
+          -40.872,
+          -19.9535
+        ],
+        "labels": {
+          "en": "Itarana"
+        },
+        "population": 10355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.766999999999996,
+          -20.433
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "marechal floriano",
+        "area": 0.05219999999999977,
+        "bounding_box": [
+          -40.912,
+          -20.523,
+          -40.622,
+          -20.343
+        ],
+        "point": [
+          -40.766999999999996,
+          -20.433
+        ],
+        "labels": {
+          "en": "Marechal Floriano"
+        },
+        "population": 16712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.838499999999996,
+          -18.6625
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "barra de são francisco",
+        "area": 0.17717499999999806,
+        "bounding_box": [
+          -41.025,
+          -18.9,
+          -40.652,
+          -18.425
+        ],
+        "point": [
+          -40.838499999999996,
+          -18.6625
+        ],
+        "labels": {
+          "en": "Barra de São Francisco"
+        },
+        "population": 43272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7645,
+          -20.838
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "piúma",
+        "area": 0.013208000000000154,
+        "bounding_box": [
+          -40.828,
+          -20.89,
+          -40.701,
+          -20.786
+        ],
+        "point": [
+          -40.7645,
+          -20.838
+        ],
+        "labels": {
+          "en": "Piúma"
+        },
+        "population": 16390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.707,
+          -20.6935
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "anchieta",
+        "area": 0.0802400000000021,
+        "bounding_box": [
+          -40.843,
+          -20.841,
+          -40.571,
+          -20.546
+        ],
+        "point": [
+          -40.707,
+          -20.6935
+        ],
+        "labels": {
+          "en": "Anchieta"
+        },
+        "population": 26282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.81,
+          -19.148
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "pancas",
+        "area": 0.12958000000000072,
+        "bounding_box": [
+          -40.965,
+          -19.357,
+          -40.655,
+          -18.939
+        ],
+        "point": [
+          -40.81,
+          -19.148
+        ],
+        "labels": {
+          "en": "Pancas"
+        },
+        "population": 22454
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.6265,
+          -19.4715
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "colatina",
+        "area": 0.25177899999999714,
+        "bounding_box": [
+          -40.885,
+          -19.715,
+          -40.368,
+          -19.228
+        ],
+        "point": [
+          -40.6265,
+          -19.4715
+        ],
+        "labels": {
+          "en": "Colatina"
+        },
+        "population": 121749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7305,
+          -18.995
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "águia branca",
+        "area": 0.1074920000000011,
+        "bounding_box": [
+          -40.905,
+          -19.149,
+          -40.556,
+          -18.841
+        ],
+        "point": [
+          -40.7305,
+          -18.995
+        ],
+        "labels": {
+          "en": "Águia Branca"
+        },
+        "population": 9411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.64,
+          -19.865000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "santa teresa",
+        "area": 0.09926400000000102,
+        "bounding_box": [
+          -40.828,
+          -19.997,
+          -40.452,
+          -19.733
+        ],
+        "point": [
+          -40.64,
+          -19.865000000000002
+        ],
+        "labels": {
+          "en": "Santa Teresa"
+        },
+        "population": 23264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.563500000000005,
+          -20.1075
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "santa leopoldina",
+        "area": 0.12393299999999993,
+        "bounding_box": [
+          -40.753,
+          -20.271,
+          -40.374,
+          -19.944
+        ],
+        "point": [
+          -40.563500000000005,
+          -20.1075
+        ],
+        "labels": {
+          "en": "Santa Leopoldina"
+        },
+        "population": 11912
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.6495,
+          -19.726
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "são roque do canaã",
+        "area": 0.05470399999999919,
+        "bounding_box": [
+          -40.781,
+          -19.83,
+          -40.518,
+          -19.622
+        ],
+        "point": [
+          -40.6495,
+          -19.726
+        ],
+        "labels": {
+          "en": "São Roque do Canaã"
+        },
+        "population": 12199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5385,
+          -20.612
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "guarapari",
+        "area": 0.10071599999999939,
+        "bounding_box": [
+          -40.702,
+          -20.766,
+          -40.375,
+          -20.458
+        ],
+        "point": [
+          -40.5385,
+          -20.612
+        ],
+        "labels": {
+          "en": "Guarapari"
+        },
+        "population": 121550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3745,
+          -20.6095
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "guarapari",
+        "area": 9.000000000000683e-06,
+        "bounding_box": [
+          -40.376,
+          -20.611,
+          -40.373,
+          -20.608
+        ],
+        "point": [
+          -40.3745,
+          -20.6095
+        ],
+        "labels": {
+          "en": "Guarapari"
+        },
+        "population": 121550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.503,
+          -20.667
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "guarapari",
+        "area": 8.000000000005343e-06,
+        "bounding_box": [
+          -40.505,
+          -20.668,
+          -40.501,
+          -20.666
+        ],
+        "point": [
+          -40.503,
+          -20.667
+        ],
+        "labels": {
+          "en": "Guarapari"
+        },
+        "population": 121550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.382000000000005,
+          -20.613999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "guarapari",
+        "area": 7.999999999991133e-06,
+        "bounding_box": [
+          -40.384,
+          -20.615,
+          -40.38,
+          -20.613
+        ],
+        "point": [
+          -40.382000000000005,
+          -20.613999999999997
+        ],
+        "labels": {
+          "en": "Guarapari"
+        },
+        "population": 121550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.391000000000005,
+          -20.598
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "guarapari",
+        "area": 4.000000000002671e-06,
+        "bounding_box": [
+          -40.392,
+          -20.599,
+          -40.39,
+          -20.597
+        ],
+        "point": [
+          -40.391000000000005,
+          -20.598
+        ],
+        "labels": {
+          "en": "Guarapari"
+        },
+        "population": 121550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3815,
+          -20.612000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "guarapari",
+        "area": 1.9999999999942303e-06,
+        "bounding_box": [
+          -40.382,
+          -20.613,
+          -40.381,
+          -20.611
+        ],
+        "point": [
+          -40.3815,
+          -20.612000000000002
+        ],
+        "labels": {
+          "en": "Guarapari"
+        },
+        "population": 121550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3765,
+          -20.613500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "guarapari",
+        "area": 1.000000000005997e-06,
+        "bounding_box": [
+          -40.377,
+          -20.614,
+          -40.376,
+          -20.613
+        ],
+        "point": [
+          -40.3765,
+          -20.613500000000002
+        ],
+        "labels": {
+          "en": "Guarapari"
+        },
+        "population": 121550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3955,
+          -20.621499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "guarapari",
+        "area": 9.999999999988916e-07,
+        "bounding_box": [
+          -40.396,
+          -20.622,
+          -40.395,
+          -20.621
+        ],
+        "point": [
+          -40.3955,
+          -20.621499999999997
+        ],
+        "labels": {
+          "en": "Guarapari"
+        },
+        "population": 121550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.388,
+          -20.61
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "guarapari",
+        "area": 0.0,
+        "bounding_box": [
+          -40.388,
+          -20.61,
+          -40.388,
+          -20.61
+        ],
+        "point": [
+          -40.388,
+          -20.61
+        ],
+        "labels": {
+          "en": "Guarapari"
+        },
+        "population": 121550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3735,
+          -20.612
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "guarapari",
+        "area": 0.0,
+        "bounding_box": [
+          -40.374,
+          -20.612,
+          -40.373,
+          -20.612
+        ],
+        "point": [
+          -40.3735,
+          -20.612
+        ],
+        "labels": {
+          "en": "Guarapari"
+        },
+        "population": 121550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.6435,
+          -18.6065
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila pavão",
+        "area": 0.07736100000000111,
+        "bounding_box": [
+          -40.804,
+          -18.727,
+          -40.483,
+          -18.486
+        ],
+        "point": [
+          -40.6435,
+          -18.6065
+        ],
+        "labels": {
+          "en": "Vila Pavão"
+        },
+        "population": 9140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5305,
+          -18.6565
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "nova venécia",
+        "area": 0.2933350000000007,
+        "bounding_box": [
+          -40.777,
+          -18.954,
+          -40.284,
+          -18.359
+        ],
+        "point": [
+          -40.5305,
+          -18.6565
+        ],
+        "labels": {
+          "en": "Nova Venécia"
+        },
+        "population": 49122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5015,
+          -20.392
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "viana",
+        "area": 0.05898599999999879,
+        "bounding_box": [
+          -40.632,
+          -20.505,
+          -40.371,
+          -20.279
+        ],
+        "point": [
+          -40.5015,
+          -20.392
+        ],
+        "labels": {
+          "en": "Viana"
+        },
+        "population": 73143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.467,
+          -20.3065
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "cariacica",
+        "area": 0.05143000000000039,
+        "bounding_box": [
+          -40.606,
+          -20.399,
+          -40.328,
+          -20.214
+        ],
+        "point": [
+          -40.467,
+          -20.3065
+        ],
+        "labels": {
+          "en": "Cariacica"
+        },
+        "population": 381438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5305,
+          -19.161
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "são domingos do norte",
+        "area": 0.07528399999999914,
+        "bounding_box": [
+          -40.69,
+          -19.279,
+          -40.371,
+          -19.043
+        ],
+        "point": [
+          -40.5305,
+          -19.161
+        ],
+        "labels": {
+          "en": "São Domingos do Norte"
+        },
+        "population": 9207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5085,
+          -19.426499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "marilândia",
+        "area": 0.06314300000000034,
+        "bounding_box": [
+          -40.644,
+          -19.543,
+          -40.373,
+          -19.31
+        ],
+        "point": [
+          -40.5085,
+          -19.426499999999997
+        ],
+        "labels": {
+          "en": "Marilândia"
+        },
+        "population": 12427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5145,
+          -18.9535
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "são gabriel da palha",
+        "area": 0.060278999999999534,
+        "bounding_box": [
+          -40.656,
+          -19.06,
+          -40.373,
+          -18.847
+        ],
+        "point": [
+          -40.5145,
+          -18.9535
+        ],
+        "labels": {
+          "en": "São Gabriel da Palha"
+        },
+        "population": 37406
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4915,
+          -19.2015
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "governador lindenberg",
+        "area": 0.06245100000000003,
+        "bounding_box": [
+          -40.62,
+          -19.323,
+          -40.363,
+          -19.08
+        ],
+        "point": [
+          -40.4915,
+          -19.2015
+        ],
+        "labels": {
+          "en": "Governador Lindenberg"
+        },
+        "population": 11860
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3765,
+          -20.428
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 0.04644000000000097,
+        "bounding_box": [
+          -40.484,
+          -20.536,
+          -40.269,
+          -20.32
+        ],
+        "point": [
+          -40.3765,
+          -20.428
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2965,
+          -20.3805
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 9.000000000000683e-06,
+        "bounding_box": [
+          -40.298,
+          -20.382,
+          -40.295,
+          -20.379
+        ],
+        "point": [
+          -40.2965,
+          -20.3805
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.253,
+          -20.353
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 3.999999999988461e-06,
+        "bounding_box": [
+          -40.254,
+          -20.354,
+          -40.252,
+          -20.352
+        ],
+        "point": [
+          -40.253,
+          -20.353
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.28,
+          -20.362499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 1.9999999999977832e-06,
+        "bounding_box": [
+          -40.281,
+          -20.363,
+          -40.279,
+          -20.362
+        ],
+        "point": [
+          -40.28,
+          -20.362499999999997
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.311499999999995,
+          -20.421
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 1.9999999999942303e-06,
+        "bounding_box": [
+          -40.312,
+          -20.422,
+          -40.311,
+          -20.42
+        ],
+        "point": [
+          -40.311499999999995,
+          -20.421
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2715,
+          -20.320999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 1.9999999999942303e-06,
+        "bounding_box": [
+          -40.272,
+          -20.322,
+          -40.271,
+          -20.32
+        ],
+        "point": [
+          -40.2715,
+          -20.320999999999998
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.281,
+          -20.3535
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 1.999999999990678e-06,
+        "bounding_box": [
+          -40.282,
+          -20.354,
+          -40.28,
+          -20.353
+        ],
+        "point": [
+          -40.281,
+          -20.3535
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2515,
+          -20.3515
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 1.000000000005997e-06,
+        "bounding_box": [
+          -40.252,
+          -20.352,
+          -40.251,
+          -20.351
+        ],
+        "point": [
+          -40.2515,
+          -20.3515
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2785,
+          -20.3645
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 1.0000000000024443e-06,
+        "bounding_box": [
+          -40.279,
+          -20.365,
+          -40.278,
+          -20.364
+        ],
+        "point": [
+          -40.2785,
+          -20.3645
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2715,
+          -20.3345
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 9.999999999988916e-07,
+        "bounding_box": [
+          -40.272,
+          -20.335,
+          -40.271,
+          -20.334
+        ],
+        "point": [
+          -40.2715,
+          -20.3345
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2685,
+          -20.3315
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 9.999999999988916e-07,
+        "bounding_box": [
+          -40.269,
+          -20.332,
+          -40.268,
+          -20.331
+        ],
+        "point": [
+          -40.2685,
+          -20.3315
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2685,
+          -20.320500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 9.999999999988916e-07,
+        "bounding_box": [
+          -40.269,
+          -20.321,
+          -40.268,
+          -20.32
+        ],
+        "point": [
+          -40.2685,
+          -20.320500000000003
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2705,
+          -20.3325
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 9.99999999995339e-07,
+        "bounding_box": [
+          -40.271,
+          -20.333,
+          -40.27,
+          -20.332
+        ],
+        "point": [
+          -40.2705,
+          -20.3325
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.357,
+          -20.524
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila velha",
+        "area": 0.0,
+        "bounding_box": [
+          -40.358,
+          -20.524,
+          -40.356,
+          -20.524
+        ],
+        "point": [
+          -40.357,
+          -20.524
+        ],
+        "labels": {
+          "en": "Vila Velha"
+        },
+        "population": 467659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.434,
+          -19.712
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "joão neiva",
+        "area": 0.03347999999999994,
+        "bounding_box": [
+          -40.527,
+          -19.802,
+          -40.341,
+          -19.622
+        ],
+        "point": [
+          -40.434,
+          -19.712
+        ],
+        "labels": {
+          "en": "João Neiva"
+        },
+        "population": 15787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.513999999999996,
+          -18.015
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "mucurici",
+        "area": 0.07291200000000132,
+        "bounding_box": [
+          -40.661,
+          -18.139,
+          -40.367,
+          -17.891
+        ],
+        "point": [
+          -40.513999999999996,
+          -18.015
+        ],
+        "labels": {
+          "en": "Mucurici"
+        },
+        "population": 5572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4295,
+          -19.8285
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "ibiraçu",
+        "area": 0.027888999999999938,
+        "bounding_box": [
+          -40.513,
+          -19.912,
+          -40.346,
+          -19.745
+        ],
+        "point": [
+          -40.4295,
+          -19.8285
+        ],
+        "labels": {
+          "en": "Ibiraçu"
+        },
+        "population": 12766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3295,
+          -19.9535
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "fundão",
+        "area": 0.07195500000000046,
+        "bounding_box": [
+          -40.505,
+          -20.056,
+          -40.154,
+          -19.851
+        ],
+        "point": [
+          -40.3295,
+          -19.9535
+        ],
+        "labels": {
+          "en": "Fundão"
+        },
+        "population": 21703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.519999999999996,
+          -18.258
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "ponto belo",
+        "area": 0.06217200000000014,
+        "bounding_box": [
+          -40.619,
+          -18.415,
+          -40.421,
+          -18.101
+        ],
+        "point": [
+          -40.519999999999996,
+          -18.258
+        ],
+        "labels": {
+          "en": "Ponto Belo"
+        },
+        "population": 7666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.1095,
+          -19.341
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "linhares",
+        "area": 0.5819720000000009,
+        "bounding_box": [
+          -40.53,
+          -19.687,
+          -39.689,
+          -18.995
+        ],
+        "point": [
+          -40.1095,
+          -19.341
+        ],
+        "labels": {
+          "en": "Linhares"
+        },
+        "population": 176926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3035,
+          -20.137
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "serra",
+        "area": 0.06571999999999949,
+        "bounding_box": [
+          -40.436,
+          -20.261,
+          -40.171,
+          -20.013
+        ],
+        "point": [
+          -40.3035,
+          -20.137
+        ],
+        "labels": {
+          "en": "Serra"
+        },
+        "population": 520678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.288,
+          -20.2845
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vitória",
+        "area": 0.0136499999999995,
+        "bounding_box": [
+          -40.363,
+          -20.33,
+          -40.213,
+          -20.239
+        ],
+        "point": [
+          -40.288,
+          -20.2845
+        ],
+        "labels": {
+          "en": "Vitória"
+        },
+        "population": 357620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.322499999999998,
+          -20.500999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vitória",
+        "area": 0.0014099999999999044,
+        "bounding_box": [
+          -29.346,
+          -20.516,
+          -29.299,
+          -20.486
+        ],
+        "point": [
+          -29.322499999999998,
+          -20.500999999999998
+        ],
+        "labels": {
+          "en": "Vitória"
+        },
+        "population": 357620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.841,
+          -20.4735
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vitória",
+        "area": 2.999999999999517e-05,
+        "bounding_box": [
+          -28.844,
+          -20.476,
+          -28.838,
+          -20.471
+        ],
+        "point": [
+          -28.841,
+          -20.4735
+        ],
+        "labels": {
+          "en": "Vitória"
+        },
+        "population": 357620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.8375,
+          -20.4625
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vitória",
+        "area": 1.4999999999997585e-05,
+        "bounding_box": [
+          -28.839,
+          -20.465,
+          -28.836,
+          -20.46
+        ],
+        "point": [
+          -28.8375,
+          -20.4625
+        ],
+        "labels": {
+          "en": "Vitória"
+        },
+        "population": 357620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.8425,
+          -20.4575
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vitória",
+        "area": 9.000000000000683e-06,
+        "bounding_box": [
+          -28.844,
+          -20.459,
+          -28.841,
+          -20.456
+        ],
+        "point": [
+          -28.8425,
+          -20.4575
+        ],
+        "labels": {
+          "en": "Vitória"
+        },
+        "population": 357620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.335,
+          -18.9625
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "vila valério",
+        "area": 0.0637000000000015,
+        "bounding_box": [
+          -40.465,
+          -19.085,
+          -40.205,
+          -18.84
+        ],
+        "point": [
+          -40.335,
+          -18.9625
+        ],
+        "labels": {
+          "en": "Vila Valério"
+        },
+        "population": 13584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3085,
+          -19.221
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "rio bananal",
+        "area": 0.07843000000000061,
+        "bounding_box": [
+          -40.435,
+          -19.376,
+          -40.182,
+          -19.066
+        ],
+        "point": [
+          -40.3085,
+          -19.221
+        ],
+        "labels": {
+          "en": "Rio Bananal"
+        },
+        "population": 18881
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.218,
+          -18.371499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "pinheiros",
+        "area": 0.13943999999999812,
+        "bounding_box": [
+          -40.498,
+          -18.496,
+          -39.938,
+          -18.247
+        ],
+        "point": [
+          -40.218,
+          -18.371499999999997
+        ],
+        "labels": {
+          "en": "Pinheiros"
+        },
+        "population": 27033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3105,
+          -18.469
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "boa esperança",
+        "area": 0.08699999999999974,
+        "bounding_box": [
+          -40.498,
+          -18.585,
+          -40.123,
+          -18.353
+        ],
+        "point": [
+          -40.3105,
+          -18.469
+        ],
+        "labels": {
+          "en": "Boa Esperança"
+        },
+        "population": 14837
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.132000000000005,
+          -19.783
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "aracruz",
+        "area": 0.20508800000000105,
+        "bounding_box": [
+          -40.353,
+          -20.015,
+          -39.911,
+          -19.551
+        ],
+        "point": [
+          -40.132000000000005,
+          -19.783
+        ],
+        "labels": {
+          "en": "Aracruz"
+        },
+        "population": 102640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.0615,
+          -18.7965
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "são mateus",
+        "area": 0.4829250000000029,
+        "bounding_box": [
+          -40.404,
+          -19.149,
+          -39.719,
+          -18.444
+        ],
+        "point": [
+          -40.0615,
+          -18.7965
+        ],
+        "labels": {
+          "en": "São Mateus"
+        },
+        "population": 131583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2675,
+          -18.1205
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "montanha",
+        "area": 0.1417289999999992,
+        "bounding_box": [
+          -40.446,
+          -18.319,
+          -40.089,
+          -17.922
+        ],
+        "point": [
+          -40.2675,
+          -18.1205
+        ],
+        "labels": {
+          "en": "Montanha"
+        },
+        "population": 18436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.138999999999996,
+          -19.07
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "sooretama",
+        "area": 0.09900000000000089,
+        "bounding_box": [
+          -40.289,
+          -19.235,
+          -39.989,
+          -18.905
+        ],
+        "point": [
+          -40.138999999999996,
+          -19.07
+        ],
+        "labels": {
+          "en": "Sooretama"
+        },
+        "population": 31136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.974999999999994,
+          -18.9675
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "jaguaré",
+        "area": 0.18034200000000064,
+        "bounding_box": [
+          -40.208,
+          -19.161,
+          -39.742,
+          -18.774
+        ],
+        "point": [
+          -39.974999999999994,
+          -18.9675
+        ],
+        "labels": {
+          "en": "Jaguaré"
+        },
+        "population": 31196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.0615,
+          -18.147
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "pedro canário",
+        "area": 0.1072139999999992,
+        "bounding_box": [
+          -40.222,
+          -18.314,
+          -39.901,
+          -17.98
+        ],
+        "point": [
+          -40.0615,
+          -18.147
+        ],
+        "labels": {
+          "en": "Pedro Canário"
+        },
+        "population": 24818
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.848,
+          -18.4495
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-es",
+        "region_child": "conceição da barra",
+        "area": 0.19765200000000208,
+        "bounding_box": [
+          -40.03,
+          -18.721,
+          -39.666,
+          -18.178
+        ],
+        "point": [
+          -39.848,
+          -18.4495
+        ],
+        "labels": {
+          "en": "Conceição da Barra"
+        },
+        "population": 31234
+      }
+    }
+  ]
+}

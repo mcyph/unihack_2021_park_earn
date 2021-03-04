@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.387,
+          -7.4510000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "mâncio lima",
+        "area": 0.8214399999999996,
+        "bounding_box": [
+          -73.991,
+          -7.791,
+          -72.783,
+          -7.111
+        ],
+        "point": [
+          -73.387,
+          -7.4510000000000005
+        ],
+        "labels": {
+          "en": "Mâncio Lima"
+        },
+        "population": 21509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1905,
+          -7.8575
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "rodrigues alves",
+        "area": 0.4500810000000047,
+        "bounding_box": [
+          -73.772,
+          -8.051,
+          -72.609,
+          -7.664
+        ],
+        "point": [
+          -73.1905,
+          -7.8575
+        ],
+        "labels": {
+          "en": "Rodrigues Alves"
+        },
+        "population": 24669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7935,
+          -7.955500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "cruzeiro do sul",
+        "area": 1.7390490000000067,
+        "bounding_box": [
+          -73.632,
+          -8.474,
+          -71.955,
+          -7.437
+        ],
+        "point": [
+          -72.7935,
+          -7.955500000000001
+        ],
+        "labels": {
+          "en": "Cruzeiro do Sul"
+        },
+        "population": 91246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.76599999999999,
+          -8.452
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "porto walter",
+        "area": 0.7458000000000066,
+        "bounding_box": [
+          -73.331,
+          -8.782,
+          -72.201,
+          -8.122
+        ],
+        "point": [
+          -72.76599999999999,
+          -8.452
+        ],
+        "labels": {
+          "en": "Porto Walter"
+        },
+        "population": 15441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.62049999999999,
+          -9.0905
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "marechal thaumaturgo",
+        "area": 0.9918449999999897,
+        "bounding_box": [
+          -73.213,
+          -9.509,
+          -72.028,
+          -8.672
+        ],
+        "point": [
+          -72.62049999999999,
+          -9.0905
+        ],
+        "labels": {
+          "en": "Marechal Thaumaturgo"
+        },
+        "population": 24295
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.92750000000001,
+          -9.222000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "jordão",
+        "area": 1.0246500000000065,
+        "bounding_box": [
+          -72.373,
+          -9.797,
+          -71.482,
+          -8.647
+        ],
+        "point": [
+          -71.92750000000001,
+          -9.222000000000001
+        ],
+        "labels": {
+          "en": "Jordão"
+        },
+        "population": 9610
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3905,
+          -8.26
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "tarauacá",
+        "area": 2.2237700000000054,
+        "bounding_box": [
+          -72.266,
+          -8.895,
+          -70.515,
+          -7.625
+        ],
+        "point": [
+          -71.3905,
+          -8.26
+        ],
+        "labels": {
+          "en": "Tarauacá"
+        },
+        "population": 48928
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8215,
+          -8.8965
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "feijó",
+        "area": 6.09021300000001,
+        "bounding_box": [
+          -72.2,
+          -10.001,
+          -69.443,
+          -7.792
+        ],
+        "point": [
+          -70.8215,
+          -8.8965
+        ],
+        "labels": {
+          "en": "Feijó"
+        },
+        "population": 39305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44800000000001,
+          -9.516
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "santa rosa do purus",
+        "area": 1.4578719999999845,
+        "bounding_box": [
+          -71.1,
+          -10.075,
+          -69.796,
+          -8.957
+        ],
+        "point": [
+          -70.44800000000001,
+          -9.516
+        ],
+        "labels": {
+          "en": "Santa Rosa do Purus"
+        },
+        "population": 8803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7735,
+          -9.396
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "manoel urbano",
+        "area": 3.5047740000000056,
+        "bounding_box": [
+          -70.625,
+          -10.425,
+          -68.922,
+          -8.367
+        ],
+        "point": [
+          -69.7735,
+          -9.396
+        ],
+        "labels": {
+          "en": "Manoel Urbano"
+        },
+        "population": 10226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4225,
+          -9.772
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "sena madureira",
+        "area": 4.61279,
+        "bounding_box": [
+          -70.625,
+          -10.731,
+          -68.22,
+          -8.813
+        ],
+        "point": [
+          -69.4225,
+          -9.772
+        ],
+        "labels": {
+          "en": "Sena Madureira"
+        },
+        "population": 49107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0065,
+          -10.719999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "assis brasil",
+        "area": 0.8631000000000042,
+        "bounding_box": [
+          -70.623,
+          -11.07,
+          -69.39,
+          -10.37
+        ],
+        "point": [
+          -70.0065,
+          -10.719999999999999
+        ],
+        "labels": {
+          "en": "Assis Brasil"
+        },
+        "population": 9081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.231,
+          -10.704
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "brasiléia",
+        "area": 0.6979720000000051,
+        "bounding_box": [
+          -69.778,
+          -11.023,
+          -68.684,
+          -10.385
+        ],
+        "point": [
+          -69.231,
+          -10.704
+        ],
+        "labels": {
+          "en": "Brasiléia"
+        },
+        "population": 25121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.423,
+          -9.995000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "rio branco",
+        "area": 1.8443600000000024,
+        "bounding_box": [
+          -69.364,
+          -10.485,
+          -67.482,
+          -9.505
+        ],
+        "point": [
+          -68.423,
+          -9.995000000000001
+        ],
+        "labels": {
+          "en": "Rio Branco"
+        },
+        "population": 445680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.576,
+          -10.612
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "xapuri",
+        "area": 1.0175879999999944,
+        "bounding_box": [
+          -69.169,
+          -11.041,
+          -67.983,
+          -10.183
+        ],
+        "point": [
+          -68.576,
+          -10.612
+        ],
+        "labels": {
+          "en": "Xapuri"
+        },
+        "population": 21510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6115,
+          -10.8795
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "epitaciolândia",
+        "area": 0.23735699999999338,
+        "bounding_box": [
+          -68.835,
+          -11.145,
+          -68.388,
+          -10.614
+        ],
+        "point": [
+          -68.6115,
+          -10.8795
+        ],
+        "labels": {
+          "en": "Epitaciolândia"
+        },
+        "population": 23087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1255,
+          -9.601
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "bujari",
+        "area": 0.4731619999999941,
+        "bounding_box": [
+          -68.455,
+          -9.96,
+          -67.796,
+          -9.242
+        ],
+        "point": [
+          -68.1255,
+          -9.601
+        ],
+        "labels": {
+          "en": "Bujari"
+        },
+        "population": 12277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7065,
+          -9.6355
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "porto acre",
+        "area": 0.4459950000000005,
+        "bounding_box": [
+          -68.089,
+          -9.927,
+          -67.324,
+          -9.344
+        ],
+        "point": [
+          -67.7065,
+          -9.6355
+        ],
+        "labels": {
+          "en": "Porto Acre"
+        },
+        "population": 19105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8255,
+          -10.454999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "capixaba",
+        "area": 0.24613199999999466,
+        "bounding_box": [
+          -68.064,
+          -10.713,
+          -67.587,
+          -10.197
+        ],
+        "point": [
+          -67.8255,
+          -10.454999999999998
+        ],
+        "labels": {
+          "en": "Capixaba"
+        },
+        "population": 14985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.45949999999999,
+          -9.9775
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "senador guiomard",
+        "area": 0.5697689999999916,
+        "bounding_box": [
+          -67.829,
+          -10.363,
+          -67.09,
+          -9.592
+        ],
+        "point": [
+          -67.45949999999999,
+          -9.9775
+        ],
+        "labels": {
+          "en": "Senador Guiomard"
+        },
+        "population": 21117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.3535,
+          -10.2405
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "plácido de castro",
+        "area": 0.37999499999999886,
+        "bounding_box": [
+          -67.706,
+          -10.51,
+          -67.001,
+          -9.971
+        ],
+        "point": [
+          -67.3535,
+          -10.2405
+        ],
+        "labels": {
+          "en": "Plácido de Castro"
+        },
+        "population": 18421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9085,
+          -9.954
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-ac",
+        "region_child": "acrelândia",
+        "area": 0.316364000000001,
+        "bounding_box": [
+          -67.193,
+          -10.232,
+          -66.624,
+          -9.676
+        ],
+        "point": [
+          -66.9085,
+          -9.954
+        ],
+        "labels": {
+          "en": "Acrelândia"
+        },
+        "population": 19155
+      }
+    }
+  ]
+}

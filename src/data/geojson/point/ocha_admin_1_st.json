@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4,
+          1.6155
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "st",
+        "region_child": "st01",
+        "area": 0.01946799999999995,
+        "bounding_box": [
+          7.338,
+          1.537,
+          7.462,
+          1.694
+        ],
+        "point": [
+          7.4,
+          1.6155
+        ],
+        "labels": {
+          "en": "Principe"
+        },
+        "population": 7009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6085,
+          0.21799999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "st",
+        "region_child": "st02",
+        "area": 0.11504999999999996,
+        "bounding_box": [
+          6.461,
+          0.023,
+          6.756,
+          0.413
+        ],
+        "point": [
+          6.6085,
+          0.21799999999999997
+        ],
+        "labels": {
+          "en": "Sao Tome"
+        },
+        "population": 169661
+      }
+    }
+  ]
+}

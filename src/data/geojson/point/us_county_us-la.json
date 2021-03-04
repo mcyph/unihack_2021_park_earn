@@ -1,0 +1,2015 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.32650000000001,
+          30.264499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "019",
+        "area": 0.3972809999999974,
+        "bounding_box": [
+          -93.765,
+          30.038,
+          -92.888,
+          30.491
+        ],
+        "point": [
+          -93.32650000000001,
+          30.264499999999998
+        ],
+        "labels": {
+          "en": "Calcasieu"
+        },
+        "population": 202340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.39349999999999,
+          32.7975
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "111",
+        "area": 0.2948729999999988,
+        "bounding_box": [
+          -92.734,
+          32.581,
+          -92.053,
+          33.014
+        ],
+        "point": [
+          -92.39349999999999,
+          32.7975
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 22831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.36449999999999,
+          30.6175
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "105",
+        "area": 0.3121689999999971,
+        "bounding_box": [
+          -90.568,
+          30.234,
+          -90.161,
+          31.001
+        ],
+        "point": [
+          -90.36449999999999,
+          30.6175
+        ],
+        "labels": {
+          "en": "Tangipahoa"
+        },
+        "population": 146801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.09049999999999,
+          32.102000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "021",
+        "area": 0.15575000000000322,
+        "bounding_box": [
+          -92.313,
+          31.927,
+          -91.868,
+          32.277
+        ],
+        "point": [
+          -92.09049999999999,
+          32.102000000000004
+        ],
+        "labels": {
+          "en": "Caldwell"
+        },
+        "population": 9714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.30449999999999,
+          31.991
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "107",
+        "area": 0.28328399999999704,
+        "bounding_box": [
+          -91.579,
+          31.733,
+          -91.03,
+          32.249
+        ],
+        "point": [
+          -91.30449999999999,
+          31.991
+        ],
+        "labels": {
+          "en": "Tensas"
+        },
+        "population": 4190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.566,
+          32.321
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "049",
+        "area": 0.17779999999999918,
+        "bounding_box": [
+          -92.82,
+          32.146,
+          -92.312,
+          32.496
+        ],
+        "point": [
+          -92.566,
+          32.321
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 17194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.58500000000001,
+          31.5935
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "043",
+        "area": 0.31664600000000237,
+        "bounding_box": [
+          -92.974,
+          31.39,
+          -92.196,
+          31.797
+        ],
+        "point": [
+          -92.58500000000001,
+          31.5935
+        ],
+        "labels": {
+          "en": "Grant"
+        },
+        "population": 26646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.648,
+          32.6065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "061",
+        "area": 0.14306199999999586,
+        "bounding_box": [
+          -92.881,
+          32.453,
+          -92.415,
+          32.76
+        ],
+        "point": [
+          -92.648,
+          32.6065
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 51344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.86099999999999,
+          30.2625
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "053",
+        "area": 0.2435400000000031,
+        "bounding_box": [
+          -93.131,
+          30.037,
+          -92.591,
+          30.488
+        ],
+        "point": [
+          -92.86099999999999,
+          30.2625
+        ],
+        "labels": {
+          "en": "Jefferson Davis"
+        },
+        "population": 32099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.09649999999999,
+          30.2075
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "055",
+        "area": 0.1285569999999988,
+        "bounding_box": [
+          -92.285,
+          30.037,
+          -91.908,
+          30.378
+        ],
+        "point": [
+          -92.09649999999999,
+          30.2075
+        ],
+        "labels": {
+          "en": "Lafayette"
+        },
+        "population": 257907
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3515,
+          29.814
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "113",
+        "area": 0.5161500000000013,
+        "bounding_box": [
+          -92.739,
+          29.481,
+          -91.964,
+          30.147
+        ],
+        "point": [
+          -92.3515,
+          29.814
+        ],
+        "labels": {
+          "en": "Vermilion"
+        },
+        "population": 62205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.231,
+          32.7715
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "035",
+        "area": 0.21201799999999962,
+        "bounding_box": [
+          -91.458,
+          32.538,
+          -91.004,
+          33.005
+        ],
+        "point": [
+          -91.231,
+          32.7715
+        ],
+        "labels": {
+          "en": "East Carroll"
+        },
+        "population": 6346
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0705,
+          30.825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "037",
+        "area": 0.17115000000000222,
+        "bounding_box": [
+          -91.315,
+          30.65,
+          -90.826,
+          31.0
+        ],
+        "point": [
+          -91.0705,
+          30.825
+        ],
+        "labels": {
+          "en": "East Feliciana"
+        },
+        "population": 19244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38499999999999,
+          29.915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "087",
+        "area": 0.7448760000000044,
+        "bounding_box": [
+          -90.012,
+          29.618,
+          -88.758,
+          30.212
+        ],
+        "point": [
+          -89.38499999999999,
+          29.915
+        ],
+        "labels": {
+          "en": "St. Bernard"
+        },
+        "population": 18985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.36,
+          30.261
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "047",
+        "area": 0.3219039999999952,
+        "bounding_box": [
+          -91.701,
+          30.025,
+          -91.019,
+          30.497
+        ],
+        "point": [
+          -91.36,
+          30.261
+        ],
+        "labels": {
+          "en": "Iberville"
+        },
+        "population": 33697
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7325,
+          32.4095
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "083",
+        "area": 0.3105450000000048,
+        "bounding_box": [
+          -92.034,
+          32.152,
+          -91.431,
+          32.667
+        ],
+        "point": [
+          -91.7325,
+          32.4095
+        ],
+        "labels": {
+          "en": "Richland"
+        },
+        "population": 20422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.679,
+          30.265500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "099",
+        "area": 0.288300000000002,
+        "bounding_box": [
+          -91.989,
+          30.033,
+          -91.369,
+          30.498
+        ],
+        "point": [
+          -91.679,
+          30.265500000000003
+        ],
+        "labels": {
+          "en": "St. Martin"
+        },
+        "population": 56252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.28049999999999,
+          29.835
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "099",
+        "area": 0.1041759999999982,
+        "bounding_box": [
+          -91.472,
+          29.699,
+          -91.089,
+          29.971
+        ],
+        "point": [
+          -91.28049999999999,
+          29.835
+        ],
+        "labels": {
+          "en": "St. Martin"
+        },
+        "population": 56252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.982,
+          32.801
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "027",
+        "area": 0.22307600000000305,
+        "bounding_box": [
+          -93.239,
+          32.584,
+          -92.725,
+          33.018
+        ],
+        "point": [
+          -92.982,
+          32.801
+        ],
+        "labels": {
+          "en": "Claiborne"
+        },
+        "population": 17565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.402,
+          30.7405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "039",
+        "area": 0.2396600000000045,
+        "bounding_box": [
+          -92.632,
+          30.48,
+          -92.172,
+          31.001
+        ],
+        "point": [
+          -92.402,
+          30.7405
+        ],
+        "labels": {
+          "en": "Evangeline"
+        },
+        "population": 32121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.086,
+          30.5745
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "097",
+        "area": 0.4485139999999977,
+        "bounding_box": [
+          -92.493,
+          30.299,
+          -91.679,
+          30.85
+        ],
+        "point": [
+          -92.086,
+          30.5745
+        ],
+        "labels": {
+          "en": "St. Landry"
+        },
+        "population": 78944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5655,
+          30.7515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "077",
+        "area": 0.2754810000000023,
+        "bounding_box": [
+          -91.822,
+          30.483,
+          -91.309,
+          31.02
+        ],
+        "point": [
+          -91.5655,
+          30.7515
+        ],
+        "labels": {
+          "en": "Pointe Coupee"
+        },
+        "population": 22730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.19200000000001,
+          31.627000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "059",
+        "area": 0.2251480000000058,
+        "bounding_box": [
+          -92.379,
+          31.326,
+          -92.005,
+          31.928
+        ],
+        "point": [
+          -92.19200000000001,
+          31.627000000000002
+        ],
+        "labels": {
+          "en": "LaSalle"
+        },
+        "population": 15487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.33850000000001,
+          32.7145
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "119",
+        "area": 0.23446500000000378,
+        "bounding_box": [
+          -93.531,
+          32.41,
+          -93.146,
+          33.019
+        ],
+        "point": [
+          -93.33850000000001,
+          32.7145
+        ],
+        "labels": {
+          "en": "Webster"
+        },
+        "population": 40499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.803,
+          30.0275
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "093",
+        "area": 0.08919400000000109,
+        "bounding_box": [
+          -90.964,
+          29.889,
+          -90.642,
+          30.166
+        ],
+        "point": [
+          -90.803,
+          30.0275
+        ],
+        "labels": {
+          "en": "St. James"
+        },
+        "population": 23168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.47749999999999,
+          29.380000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "075",
+        "area": 1.2568499999999887,
+        "bounding_box": [
+          -90.076,
+          28.855,
+          -88.879,
+          29.905
+        ],
+        "point": [
+          -89.47749999999999,
+          29.380000000000003
+        ],
+        "labels": {
+          "en": "Plaquemines"
+        },
+        "population": 20460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.761,
+          32.757000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "067",
+        "area": 0.3262999999999973,
+        "bounding_box": [
+          -92.086,
+          32.506,
+          -91.436,
+          33.008
+        ],
+        "point": [
+          -91.761,
+          32.757000000000005
+        ],
+        "labels": {
+          "en": "Morehouse"
+        },
+        "population": 25605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5275,
+          31.2035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "079",
+        "area": 0.570502999999999,
+        "bounding_box": [
+          -92.981,
+          30.889,
+          -92.074,
+          31.518
+        ],
+        "point": [
+          -92.5275,
+          31.2035
+        ],
+        "labels": {
+          "en": "Rapides"
+        },
+        "population": 137007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.97900000000001,
+          31.0955
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "009",
+        "area": 0.2989800000000002,
+        "bounding_box": [
+          -92.281,
+          30.848,
+          -91.677,
+          31.343
+        ],
+        "point": [
+          -91.97900000000001,
+          31.0955
+        ],
+        "labels": {
+          "en": "Avoyelles"
+        },
+        "population": 42633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.644,
+          31.9285
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "127",
+        "area": 0.29149600000000303,
+        "bounding_box": [
+          -92.976,
+          31.709,
+          -92.312,
+          32.148
+        ],
+        "point": [
+          -92.644,
+          31.9285
+        ],
+        "labels": {
+          "en": "Winn"
+        },
+        "population": 13908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.201,
+          31.112000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "115",
+        "area": 0.381524,
+        "bounding_box": [
+          -93.578,
+          30.859,
+          -92.824,
+          31.365
+        ],
+        "point": [
+          -93.201,
+          31.112000000000002
+        ],
+        "labels": {
+          "en": "Vernon"
+        },
+        "population": 52203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.779,
+          31.597
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "025",
+        "area": 0.36599999999999966,
+        "bounding_box": [
+          -92.023,
+          31.222,
+          -91.535,
+          31.972
+        ],
+        "point": [
+          -91.779,
+          31.597
+        ],
+        "labels": {
+          "en": "Catahoula"
+        },
+        "population": 9894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0725,
+          29.854
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "007",
+        "area": 0.17099999999999982,
+        "bounding_box": [
+          -91.26,
+          29.626,
+          -90.885,
+          30.082
+        ],
+        "point": [
+          -91.0725,
+          29.854
+        ],
+        "labels": {
+          "en": "Assumption"
+        },
+        "population": 23818
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.69900000000001,
+          32.095
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "031",
+        "area": 0.345375999999998,
+        "bounding_box": [
+          -94.043,
+          31.844,
+          -93.355,
+          32.346
+        ],
+        "point": [
+          -93.69900000000001,
+          32.095
+        ],
+        "labels": {
+          "en": "De Soto"
+        },
+        "population": 27969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.757,
+          32.6075
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "017",
+        "area": 0.47075600000000245,
+        "bounding_box": [
+          -94.043,
+          32.196,
+          -93.471,
+          33.019
+        ],
+        "point": [
+          -93.757,
+          32.6075
+        ],
+        "labels": {
+          "en": "Caddo"
+        },
+        "population": 258115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.37,
+          32.0625
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "081",
+        "area": 0.17198999999999776,
+        "bounding_box": [
+          -93.615,
+          31.887,
+          -93.125,
+          32.238
+        ],
+        "point": [
+          -93.37,
+          32.0625
+        ],
+        "labels": {
+          "en": "Red River"
+        },
+        "population": 8554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0375,
+          30.8335
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "117",
+        "area": 0.20860299999999976,
+        "bounding_box": [
+          -90.347,
+          30.665,
+          -89.728,
+          31.002
+        ],
+        "point": [
+          -90.0375,
+          30.8335
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 50424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5575,
+          31.506
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "085",
+        "area": 0.4372400000000003,
+        "bounding_box": [
+          -93.879,
+          31.166,
+          -93.236,
+          31.846
+        ],
+        "point": [
+          -93.5575,
+          31.506
+        ],
+        "labels": {
+          "en": "Sabine"
+        },
+        "population": 25085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.09,
+          29.6425
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "051",
+        "area": 0.4160999999999959,
+        "bounding_box": [
+          -90.28,
+          29.095,
+          -89.9,
+          30.19
+        ],
+        "point": [
+          -90.09,
+          29.6425
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 404192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8755,
+          30.4255
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "103",
+        "area": 0.4360529999999978,
+        "bounding_box": [
+          -90.256,
+          30.139,
+          -89.495,
+          30.712
+        ],
+        "point": [
+          -89.8755,
+          30.4255
+        ],
+        "labels": {
+          "en": "St. Tammany"
+        },
+        "population": 285501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2715,
+          29.79
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "023",
+        "area": 0.6916899999999986,
+        "bounding_box": [
+          -93.929,
+          29.527,
+          -92.614,
+          30.053
+        ],
+        "point": [
+          -93.2715,
+          29.79
+        ],
+        "labels": {
+          "en": "Cameron"
+        },
+        "population": 4703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0795,
+          30.516
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "033",
+        "area": 0.1912260000000026,
+        "bounding_box": [
+          -91.315,
+          30.313,
+          -90.844,
+          30.719
+        ],
+        "point": [
+          -91.0795,
+          30.516
+        ],
+        "labels": {
+          "en": "East Baton Rouge"
+        },
+        "population": 469020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.634,
+          29.7405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "045",
+        "area": 0.6287120000000078,
+        "bounding_box": [
+          -92.046,
+          29.359,
+          -91.222,
+          30.122
+        ],
+        "point": [
+          -91.634,
+          29.7405
+        ],
+        "labels": {
+          "en": "Iberia"
+        },
+        "population": 72585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0805,
+          31.747500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "069",
+        "area": 0.5791230000000006,
+        "bounding_box": [
+          -93.442,
+          31.347,
+          -92.719,
+          32.148
+        ],
+        "point": [
+          -93.0805,
+          31.747500000000002
+        ],
+        "labels": {
+          "en": "Natchitoches"
+        },
+        "population": 40099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8655,
+          29.381999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "109",
+        "area": 0.7737840000000011,
+        "bounding_box": [
+          -91.354,
+          28.986,
+          -90.377,
+          29.778
+        ],
+        "point": [
+          -90.8655,
+          29.381999999999998
+        ],
+        "labels": {
+          "en": "Terrebonne"
+        },
+        "population": 119416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1015,
+          32.366
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "013",
+        "area": 0.2868900000000021,
+        "bounding_box": [
+          -93.429,
+          32.147,
+          -92.774,
+          32.585
+        ],
+        "point": [
+          -93.1015,
+          32.366
+        ],
+        "labels": {
+          "en": "Bienville"
+        },
+        "population": 12880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.60849999999999,
+          32.6275
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "015",
+        "area": 0.3687929999999923,
+        "bounding_box": [
+          -93.844,
+          32.236,
+          -93.373,
+          33.019
+        ],
+        "point": [
+          -93.60849999999999,
+          32.6275
+        ],
+        "labels": {
+          "en": "Bossier"
+        },
+        "population": 138287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.857,
+          30.6615
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "003",
+        "area": 0.26030000000000164,
+        "bounding_box": [
+          -93.131,
+          30.424,
+          -92.583,
+          30.899
+        ],
+        "point": [
+          -92.857,
+          30.6615
+        ],
+        "labels": {
+          "en": "Allen"
+        },
+        "population": 25696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.15950000000001,
+          32.491
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "073",
+        "area": 0.2371040000000039,
+        "bounding_box": [
+          -92.415,
+          32.259,
+          -91.904,
+          32.723
+        ],
+        "point": [
+          -92.15950000000001,
+          32.491
+        ],
+        "labels": {
+          "en": "Ouachita"
+        },
+        "population": 160204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4215,
+          30.091
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "095",
+        "area": 0.2225599999999988,
+        "bounding_box": [
+          -90.689,
+          29.883,
+          -90.154,
+          30.299
+        ],
+        "point": [
+          -90.4215,
+          30.091
+        ],
+        "labels": {
+          "en": "St. John the Baptist"
+        },
+        "population": 48779
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7385,
+          30.8245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "091",
+        "area": 0.12109499999999929,
+        "bounding_box": [
+          -90.911,
+          30.649,
+          -90.566,
+          31.0
+        ],
+        "point": [
+          -90.7385,
+          30.8245
+        ],
+        "labels": {
+          "en": "St. Helena"
+        },
+        "population": 11815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4195,
+          30.8265
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "125",
+        "area": 0.16801499999999764,
+        "bounding_box": [
+          -91.663,
+          30.654,
+          -91.176,
+          30.999
+        ],
+        "point": [
+          -91.4195,
+          30.8265
+        ],
+        "labels": {
+          "en": "West Feliciana"
+        },
+        "population": 16159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.697,
+          31.0195
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "125",
+        "area": 0.0054059999999999265,
+        "bounding_box": [
+          -91.75,
+          30.994,
+          -91.644,
+          31.045
+        ],
+        "point": [
+          -91.697,
+          31.0195
+        ],
+        "labels": {
+          "en": "West Feliciana"
+        },
+        "population": 16159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.509,
+          29.598
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "101",
+        "area": 0.6100320000000037,
+        "bounding_box": [
+          -91.935,
+          29.24,
+          -91.083,
+          29.956
+        ],
+        "point": [
+          -91.509,
+          29.598
+        ],
+        "labels": {
+          "en": "St. Mary"
+        },
+        "population": 55477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.503,
+          29.4585
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "057",
+        "area": 0.9344160000000087,
+        "bounding_box": [
+          -91.007,
+          28.995,
+          -89.999,
+          29.922
+        ],
+        "point": [
+          -90.503,
+          29.4585
+        ],
+        "labels": {
+          "en": "Lafourche"
+        },
+        "population": 103416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4515,
+          32.794
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "123",
+        "area": 0.1589999999999998,
+        "bounding_box": [
+          -91.639,
+          32.582,
+          -91.264,
+          33.006
+        ],
+        "point": [
+          -91.4515,
+          32.794
+        ],
+        "labels": {
+          "en": "West Carroll"
+        },
+        "population": 10909
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6225,
+          31.366
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "029",
+        "area": 0.3872880000000042,
+        "bounding_box": [
+          -91.867,
+          30.97,
+          -91.378,
+          31.762
+        ],
+        "point": [
+          -91.6225,
+          31.366
+        ],
+        "labels": {
+          "en": "Concordia"
+        },
+        "population": 21504
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.733,
+          30.412999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "063",
+        "area": 0.24553200000000042,
+        "bounding_box": [
+          -90.992,
+          30.176,
+          -90.474,
+          30.65
+        ],
+        "point": [
+          -90.733,
+          30.412999999999997
+        ],
+        "labels": {
+          "en": "Livingston"
+        },
+        "population": 177597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3135,
+          30.490499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "121",
+        "area": 0.1155910000000011,
+        "bounding_box": [
+          -91.485,
+          30.322,
+          -91.142,
+          30.659
+        ],
+        "point": [
+          -91.3135,
+          30.490499999999997
+        ],
+        "labels": {
+          "en": "West Baton Rouge"
+        },
+        "population": 26211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.217,
+          32.378
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "065",
+        "area": 0.2516000000000056,
+        "bounding_box": [
+          -91.557,
+          32.193,
+          -90.877,
+          32.563
+        ],
+        "point": [
+          -91.217,
+          32.378
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 10735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.031,
+          32.150999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "065",
+        "area": 0.0033599999999995725,
+        "bounding_box": [
+          -91.059,
+          32.121,
+          -91.003,
+          32.181
+        ],
+        "point": [
+          -91.031,
+          32.150999999999996
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 10735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8825,
+          30.033
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "071",
+        "area": 0.17098000000000058,
+        "bounding_box": [
+          -90.14,
+          29.867,
+          -89.625,
+          30.199
+        ],
+        "point": [
+          -89.8825,
+          30.033
+        ],
+        "labels": {
+          "en": "Orleans"
+        },
+        "population": 247357
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.86949999999999,
+          30.204500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "005",
+        "area": 0.13480499999999979,
+        "bounding_box": [
+          -91.106,
+          30.062,
+          -90.633,
+          30.347
+        ],
+        "point": [
+          -90.86949999999999,
+          30.204500000000003
+        ],
+        "labels": {
+          "en": "Ascension"
+        },
+        "population": 150181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.387,
+          30.265
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "001",
+        "area": 0.21168000000000498,
+        "bounding_box": [
+          -92.632,
+          30.049,
+          -92.142,
+          30.481
+        ],
+        "point": [
+          -92.387,
+          30.265
+        ],
+        "labels": {
+          "en": "Acadia"
+        },
+        "population": 66116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.35849999999999,
+          29.927500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "089",
+        "area": 0.18039299999999794,
+        "bounding_box": [
+          -90.55,
+          29.692,
+          -90.167,
+          30.163
+        ],
+        "point": [
+          -90.35849999999999,
+          29.927500000000002
+        ],
+        "labels": {
+          "en": "St. Charles"
+        },
+        "population": 60824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3595,
+          30.6425
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "011",
+        "area": 0.3679649999999988,
+        "bounding_box": [
+          -93.742,
+          30.402,
+          -92.977,
+          30.883
+        ],
+        "point": [
+          -93.3595,
+          30.6425
+        ],
+        "labels": {
+          "en": "Beauregard"
+        },
+        "population": 38671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.689,
+          32.138999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-la",
+        "region_child": "041",
+        "area": 0.2531160000000015,
+        "bounding_box": [
+          -91.926,
+          31.872,
+          -91.452,
+          32.406
+        ],
+        "point": [
+          -91.689,
+          32.138999999999996
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 20333
+      }
+    }
+  ]
+}

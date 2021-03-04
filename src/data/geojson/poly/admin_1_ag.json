@@ -1,0 +1,629 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.726,
+              17.038
+            ],
+            [
+              -61.733,
+              17.064
+            ],
+            [
+              -61.774,
+              17.06
+            ],
+            [
+              -61.815,
+              17.048
+            ],
+            [
+              -61.804,
+              17.007
+            ],
+            [
+              -61.726,
+              17.038
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ag",
+        "region_child": "ag-06",
+        "area": 0.005072999999999798,
+        "bounding_box": [
+          -61.815,
+          17.007,
+          -61.726,
+          17.064
+        ],
+        "point": [
+          -61.7705,
+          17.0355
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "أبرشية القديس بول",
+          "bn": "সেন্ট পল পাারিশ",
+          "de": "Saint Paul",
+          "en": "Saint Paul Parish",
+          "es": "Parroquia de Saint Paul",
+          "fr": "Saint-Paul",
+          "el": "Άγιος Παύλος",
+          "hi": "सेंट पॉल पल्ली",
+          "hu": null,
+          "id": "Paroki Saint Paul",
+          "it": "Saint Paul",
+          "ja": "セント・ポール",
+          "ko": "세인트폴 교구",
+          "nl": "Saint Paul",
+          "pl": "Saint Paul",
+          "pt": "Saint Paul",
+          "ru": "Приход Сент-Пол",
+          "sv": "Parish of Saint Paul",
+          "tr": "Saint Paul PArish",
+          "vi": "Giáo xứ Saint Paul",
+          "zh": "聖保羅區"
+        },
+        "population": 4870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.715,
+              17.093
+            ],
+            [
+              -61.733,
+              17.064
+            ],
+            [
+              -61.726,
+              17.038
+            ],
+            [
+              -61.686,
+              17.029
+            ],
+            [
+              -61.668,
+              17.079
+            ],
+            [
+              -61.715,
+              17.093
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ag",
+        "region_child": "ag-08",
+        "area": 0.004159999999999858,
+        "bounding_box": [
+          -61.733,
+          17.029,
+          -61.668,
+          17.093
+        ],
+        "point": [
+          -61.7005,
+          17.061
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "أبرشية سانت فيليب، أنتيغوا وبربودا",
+          "bn": "সেন্ট ফিলিপ পারিস",
+          "de": "Saint Philip",
+          "en": "Saint Philip Parish",
+          "es": "Parroquia de Saint Philip",
+          "fr": "Saint-Philip",
+          "el": "Άγιος Φίλιππος",
+          "hi": "सेंट फिलिप पल्ली",
+          "hu": null,
+          "id": "Paroki Saint Philip",
+          "it": "Saint Philip",
+          "ja": "サンフィリップ教区",
+          "ko": "세인트필립 교구",
+          "nl": "Saint Philip",
+          "pl": "Saint Philip",
+          "pt": "Saint Philip",
+          "ru": "Приход Сент-Филип",
+          "sv": "Parish of Saint Philip",
+          "tr": "Saint Philip Paris",
+          "vi": "Giáo xứ Saint Philip",
+          "zh": "聖菲利普區"
+        },
+        "population": 1817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.756,
+              17.114
+            ],
+            [
+              -61.774,
+              17.071
+            ],
+            [
+              -61.774,
+              17.06
+            ],
+            [
+              -61.733,
+              17.064
+            ],
+            [
+              -61.715,
+              17.093
+            ],
+            [
+              -61.756,
+              17.114
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ag",
+        "region_child": "ag-07",
+        "area": 0.0031859999999999857,
+        "bounding_box": [
+          -61.774,
+          17.06,
+          -61.715,
+          17.114
+        ],
+        "point": [
+          -61.7445,
+          17.087
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "أبرشية القديس بيتر",
+          "bn": "সেন্ট পিটার পারিশ",
+          "de": "Saint Peter",
+          "en": "Saint Peter Parish",
+          "es": "Parroquia de Saint Peter",
+          "fr": "Saint-Peter",
+          "el": "Άγιος Πέτρος",
+          "hi": "सेंट पीटर पल्ली",
+          "hu": null,
+          "id": "Paroki Saint Peter",
+          "it": "Saint Peter",
+          "ja": "セント・ピーター",
+          "ko": "세인트피터 교구",
+          "nl": "Saint Peter",
+          "pl": "Saint Peter",
+          "pt": "Saint Peter",
+          "ru": "Приход Сент-Питер",
+          "sv": "Parish of Saint Peter",
+          "tr": "Saint Peter Parish",
+          "vi": "Giáo xứ Saint Peter",
+          "zh": "聖彼得區"
+        },
+        "population": 2063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.793,
+              17.165
+            ],
+            [
+              -61.796,
+              17.084
+            ],
+            [
+              -61.774,
+              17.071
+            ],
+            [
+              -61.756,
+              17.114
+            ],
+            [
+              -61.793,
+              17.165
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ag",
+        "region_child": "ag-03",
+        "area": 0.0037599999999998255,
+        "bounding_box": [
+          -61.796,
+          17.071,
+          -61.756,
+          17.165
+        ],
+        "point": [
+          -61.775999999999996,
+          17.118000000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "أبرشية القديس جورج",
+          "bn": "সেন্ট জর্জ প্যারিশ",
+          "de": "Saint George",
+          "en": "Saint George Parish",
+          "es": "Parroquia de Saint George",
+          "fr": "Saint-George",
+          "el": "Άγιος Γεώργιος",
+          "hi": "सेंट जॉर्ज पल्ली",
+          "hu": null,
+          "id": "Paroki Saint George",
+          "it": "Saint George",
+          "ja": "セント・ジョージ教区",
+          "ko": "세인트조지 교구",
+          "nl": "Saint George",
+          "pl": "Saint George",
+          "pt": "Saint George",
+          "ru": "Приход Сент-Джордж",
+          "sv": "Parish of Saint George",
+          "tr": "Saint George Parish",
+          "vi": "Giáo xứ Saint George",
+          "zh": "聖喬治區"
+        },
+        "population": 5156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.866,
+              17.087
+            ],
+            [
+              -61.815,
+              17.048
+            ],
+            [
+              -61.774,
+              17.06
+            ],
+            [
+              -61.774,
+              17.071
+            ],
+            [
+              -61.796,
+              17.084
+            ],
+            [
+              -61.793,
+              17.165
+            ],
+            [
+              -61.825,
+              17.169
+            ],
+            [
+              -61.866,
+              17.087
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ag",
+        "region_child": "ag-04",
+        "area": 0.011132000000000053,
+        "bounding_box": [
+          -61.866,
+          17.048,
+          -61.774,
+          17.169
+        ],
+        "point": [
+          -61.82,
+          17.1085
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": "Saint John",
+          "en": "Saint John Parish",
+          "es": "Parroquia de Saint John",
+          "fr": "Saint-John",
+          "el": "Άγιος Ιωάννης",
+          "hi": "सेंट जॉन पल्ली",
+          "hu": null,
+          "id": "Paroki Saint John",
+          "it": "Saint John",
+          "ja": null,
+          "ko": "세인트존 교구",
+          "nl": "Saint John",
+          "pl": "Saint John",
+          "pt": "Saint John",
+          "ru": null,
+          "sv": "Parish of Saint John",
+          "tr": null,
+          "vi": null,
+          "zh": "圣约翰区"
+        },
+        "population": 52167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.804,
+              17.007
+            ],
+            [
+              -61.815,
+              17.048
+            ],
+            [
+              -61.866,
+              17.087
+            ],
+            [
+              -61.89,
+              17.035
+            ],
+            [
+              -61.852,
+              17.008
+            ],
+            [
+              -61.804,
+              17.007
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ag",
+        "region_child": "ag-05",
+        "area": 0.006879999999999735,
+        "bounding_box": [
+          -61.89,
+          17.007,
+          -61.804,
+          17.087
+        ],
+        "point": [
+          -61.847,
+          17.047
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "أبرشية سانت ماري",
+          "bn": "সেন্ট ম্যারি পারিশ",
+          "de": "Saint Mary",
+          "en": "Saint Mary Parish",
+          "es": "Parroquia de Saint Mary",
+          "fr": "Saint-Mary",
+          "el": "Αγία Μαρία",
+          "hi": "सेंट मैरी पल्ली",
+          "hu": null,
+          "id": "Paroki Saint Mary",
+          "it": "Saint Mary",
+          "ja": "セント・メアリー教区",
+          "ko": "세인트메리 교구",
+          "nl": "Saint Mary",
+          "pl": "Saint Mary",
+          "pt": "Saint Mary",
+          "ru": "Приход Сент-Мэри",
+          "sv": "Parish of Saint Mary",
+          "tr": "Saint Mary Parish",
+          "vi": "Giáo xứ Saint Mary",
+          "zh": "聖瑪麗區"
+        },
+        "population": 4265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.839,
+              17.593
+            ],
+            [
+              -61.771,
+              17.546
+            ],
+            [
+              -61.736,
+              17.554
+            ],
+            [
+              -61.729,
+              17.605
+            ],
+            [
+              -61.754,
+              17.669
+            ],
+            [
+              -61.818,
+              17.703
+            ],
+            [
+              -61.86,
+              17.684
+            ],
+            [
+              -61.857,
+              17.601
+            ],
+            [
+              -61.839,
+              17.593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ag",
+        "region_child": "ag-10",
+        "area": 0.02056700000000004,
+        "bounding_box": [
+          -61.86,
+          17.546,
+          -61.729,
+          17.703
+        ],
+        "point": [
+          -61.7945,
+          17.624499999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "بربودا",
+          "bn": "বারবুডা",
+          "de": "Barbuda",
+          "en": "Barbuda",
+          "es": "Barbuda",
+          "fr": "Barbuda",
+          "el": "Μπαρμπούντα",
+          "hi": "बारबूडा",
+          "hu": "Barbuda",
+          "id": "Barbuda",
+          "it": "Barbuda",
+          "ja": "バーブーダ島",
+          "ko": "바부다 섬",
+          "nl": "Barbuda",
+          "pl": "Barbuda",
+          "pt": "Barbuda",
+          "ru": "Барбуда",
+          "sv": "Barbuda",
+          "tr": "Barbuda",
+          "vi": "Barbuda",
+          "zh": "巴布達島"
+        },
+        "population": 1871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.346,
+              16.939
+            ],
+            [
+              -62.348,
+              16.934
+            ],
+            [
+              -62.343,
+              16.935
+            ],
+            [
+              -62.346,
+              16.939
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ag",
+        "region_child": "ag-11",
+        "area": 2.499999999997229e-05,
+        "bounding_box": [
+          -62.348,
+          16.934,
+          -62.343,
+          16.939
+        ],
+        "point": [
+          -62.3455,
+          16.936500000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "ريدوندا",
+          "bn": "রেডোন্ডা",
+          "de": "Redonda",
+          "en": "Redonda",
+          "es": "Isla Redonda",
+          "fr": "Redonda",
+          "el": "Ρεντόντα",
+          "hi": "रेडोन्डा",
+          "hu": "Redonda",
+          "id": "Redonda",
+          "it": "Redonda",
+          "ja": "レドンダ島",
+          "ko": "레돈다 섬",
+          "nl": "Redonda",
+          "pl": "Redonda",
+          "pt": "Redonda",
+          "ru": "Редонда",
+          "sv": "Redonda",
+          "tr": "Redonda",
+          "vi": "Redonda",
+          "zh": "雷東達島"
+        },
+        "population": 0
+      }
+    }
+  ]
+}

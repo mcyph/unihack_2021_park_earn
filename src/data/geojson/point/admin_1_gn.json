@@ -1,0 +1,1807 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.793,
+          9.855
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-fa",
+        "area": 2.117568,
+        "bounding_box": [
+          -11.449,
+          9.048,
+          -10.137,
+          10.662
+        ],
+        "point": [
+          -10.793,
+          9.855
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": null,
+          "bn": null,
+          "de": "Region Faranah",
+          "en": "Faranah Region",
+          "es": "Faranah",
+          "fr": "Région de Faranah",
+          "el": "Φαρανά",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "regione di Faranah",
+          "ja": "ファラナ州",
+          "ko": "파라나 주",
+          "nl": "Faranah",
+          "pl": "Faranah",
+          "pt": "Faranah",
+          "ru": "Фарана",
+          "sv": "Faranah Region",
+          "tr": null,
+          "vi": null,
+          "zh": "法拉納大區"
+        },
+        "population": 348997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.696,
+          10.089
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-kd",
+        "area": 1.2329440000000003,
+        "bounding_box": [
+          -13.282,
+          9.563,
+          -12.11,
+          10.615
+        ],
+        "point": [
+          -12.696,
+          10.089
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم كينديا",
+          "bn": "কিন্ডিয়া অঞ্চল",
+          "de": "Region Kindia",
+          "en": "Kindia Region",
+          "es": "Kindia",
+          "fr": "Région de Kindia",
+          "el": "Κιντιά",
+          "hi": "केंडिया क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Kindia",
+          "it": "regione di Kindia",
+          "ja": "キンディア州",
+          "ko": "킨디아 주",
+          "nl": "Kindia",
+          "pl": "Kindia",
+          "pt": "Kindia",
+          "ru": "Киндия",
+          "sv": "Kindia Region",
+          "tr": "Kindia Bölgesi",
+          "vi": "Khu vực Kindia",
+          "zh": "金迪亞大區"
+        },
+        "population": 486805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.8375,
+          10.604
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-mm",
+        "area": 1.6995880000000003,
+        "bounding_box": [
+          -12.426,
+          9.882,
+          -11.249,
+          11.326
+        ],
+        "point": [
+          -11.8375,
+          10.604
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": null,
+          "bn": null,
+          "de": "Mamou",
+          "en": "Mamou Prefecture",
+          "es": null,
+          "fr": "préfecture de Mamou",
+          "el": "Μαμού",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "prefettura di Mamou",
+          "ja": "マムー県",
+          "ko": null,
+          "nl": "Mamou Prefecture",
+          "pl": "Prefektura Mamou",
+          "pt": null,
+          "ru": "Маму",
+          "sv": "Mamou Prefecture",
+          "tr": null,
+          "vi": null,
+          "zh": "馬木省"
+        },
+        "population": 293288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.102,
+          10.5535
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-db",
+        "area": 1.1279519999999987,
+        "bounding_box": [
+          -11.606,
+          9.994,
+          -10.598,
+          11.113
+        ],
+        "point": [
+          -11.102,
+          10.5535
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظة دابولا",
+          "bn": "দাবোলা",
+          "de": "Dabola",
+          "en": "Dabola Prefecture",
+          "es": "Ayuntamiento del Dabola",
+          "fr": "préfecture de Dabola",
+          "el": "Νταμπολά",
+          "hi": "दबोला प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Dabola",
+          "it": "prefettura di Dabola",
+          "ja": "ダボラ県",
+          "ko": "다보라 지방 행정 구역",
+          "nl": "Dabola Prefecture",
+          "pl": "Prefektura Dabola",
+          "pt": "Preeitura de Dabola",
+          "ru": "Префектура Дабола",
+          "sv": "Dabola",
+          "tr": "Dabola Prefecture",
+          "vi": "Tỉnh Dabola",
+          "zh": "達波拉省"
+        },
+        "population": 243163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.0615,
+          9.3695
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-fo",
+        "area": 0.6037830000000003,
+        "bounding_box": [
+          -13.521,
+          9.041,
+          -12.602,
+          9.698
+        ],
+        "point": [
+          -13.0615,
+          9.3695
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": "Forécariah",
+          "en": "Forécariah Prefecture",
+          "es": null,
+          "fr": "préfecture de Forécariah",
+          "el": "Φορεκαριά",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "prefettura di Forécariah",
+          "ja": "フォレカリア県",
+          "ko": null,
+          "nl": "Forécariah Prefecture",
+          "pl": "Prefektura Forécariah",
+          "pt": null,
+          "ru": null,
+          "sv": "Préfecture de Forécariah",
+          "tr": null,
+          "vi": null,
+          "zh": "福雷卡里亞省"
+        },
+        "population": 268502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.247499999999999,
+          8.746
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-gu",
+        "area": 0.8384900000000002,
+        "bounding_box": [
+          -10.725,
+          8.307,
+          -9.77,
+          9.185
+        ],
+        "point": [
+          -10.247499999999999,
+          8.746
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "محافظة غوكيدو",
+          "bn": "গুয়েকেদু প্রশাসনিক অঞ্চল",
+          "de": "Guéckédou",
+          "en": "Guéckédou Prefecture",
+          "es": "Guéckédou",
+          "fr": "préfecture de Guéckédou",
+          "el": "Γκουεκεντού",
+          "hi": "ग्वेकेडू प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Guéckédou",
+          "it": "prefettura di Guéckédou",
+          "ja": "ゲケドゥ県",
+          "ko": "게케두 지방 행정 구역",
+          "nl": "Guéckédou Prefecture",
+          "pl": "Prefektura Guéckédou",
+          "pt": "Prefeitura de Guéckédou",
+          "ru": "Префектура Гекеду",
+          "sv": "Préfecture de Guékédou",
+          "tr": "Guéckéedou Prefecture",
+          "vi": "Quận Guéckédou",
+          "zh": "蓋凱杜省"
+        },
+        "population": 288408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0125,
+          10.0425
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-k",
+        "area": 2.6672749999999983,
+        "bounding_box": [
+          -9.955,
+          9.335,
+          -8.07,
+          10.75
+        ],
+        "point": [
+          -9.0125,
+          10.0425
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم كانكان",
+          "bn": "কানকান অঞ্চল",
+          "de": "Region Kankan",
+          "en": "Kankan Region",
+          "es": "Kankan",
+          "fr": "Région de Kankan",
+          "el": "Κανκάν",
+          "hi": "कांकन प्रदेश",
+          "hu": null,
+          "id": "Wilayah Kankan",
+          "it": "regione di Kankan",
+          "ja": "カンカン州",
+          "ko": "캉칸 주",
+          "nl": "Kankan",
+          "pl": "Kankan",
+          "pt": "Kankan",
+          "ru": "Канкан",
+          "sv": "Kankan Region",
+          "tr": "Kankan Bölgesi",
+          "vi": "Khu vực Kankan",
+          "zh": "康康大區"
+        },
+        "population": 527278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.669,
+          10.799499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-md",
+        "area": 2.3921919999999988,
+        "bounding_box": [
+          -9.373,
+          9.95,
+          -7.965,
+          11.649
+        ],
+        "point": [
+          -8.669,
+          10.799499999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "محافظة مانديانا",
+          "bn": "মান্দিয়ানা প্রশাসনিক অঞ্চল",
+          "de": "Mandiana",
+          "en": "Mandiana Prefecture",
+          "es": "Ayuntamiento Mandiana",
+          "fr": "préfecture de Mandiana",
+          "el": "Μαντιανά",
+          "hi": "मैन्दियाना प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Mandiana",
+          "it": "prefettura di Mandiana",
+          "ja": "マンディアナ県",
+          "ko": "만디아나 지방 행정 구역",
+          "nl": "Mandiana Prefecture",
+          "pl": "Prefektura Mandiana",
+          "pt": "Prefeitura de Mandiana",
+          "ru": "Префектура Мандиана",
+          "sv": "Mandiana Prefecture",
+          "tr": "Mandiana Prefecture",
+          "vi": "Tỉnh Mandiana",
+          "zh": "芒賈納省"
+        },
+        "population": 378941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3155,
+          8.717500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-be",
+        "area": 1.8206509999999978,
+        "bounding_box": [
+          -8.969,
+          8.021,
+          -7.662,
+          9.414
+        ],
+        "point": [
+          -8.3155,
+          8.717500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة بيلا",
+          "bn": "বেলা প্রশাসনিক অঞ্চল",
+          "de": "Beyla",
+          "en": "Beyla Prefecture",
+          "es": "Beyla",
+          "fr": "préfecture de Beyla",
+          "el": "Μπεϋλά",
+          "hi": "बेयला प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Beyla",
+          "it": "prefettura di Beyla",
+          "ja": "ベイラ県",
+          "ko": "베일라 지방 행정 구역",
+          "nl": "Beyla Prefecture",
+          "pl": "Prefektura Beyla",
+          "pt": "Beyla",
+          "ru": "Префектура Бейла",
+          "sv": "Beyla Prefecture",
+          "tr": "Beyla Prefecture",
+          "vi": "Quận Beyla",
+          "zh": "貝拉省"
+        },
+        "population": 420182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.32,
+          7.882
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-lo",
+        "area": 0.3420560000000007,
+        "bounding_box": [
+          -8.573,
+          7.544,
+          -8.067,
+          8.22
+        ],
+        "point": [
+          -8.32,
+          7.882
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "ولاية لولا",
+          "bn": "লোলা প্রশাসনিক অঞ্চল",
+          "de": "Lola",
+          "en": "Lola Prefecture",
+          "es": "Lola",
+          "fr": "préfecture de Lola",
+          "el": "Λολά",
+          "hi": "लोला प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Lola",
+          "it": "prefettura di Lola",
+          "ja": "ローラ県",
+          "ko": "롤라 지방 행정 구역",
+          "nl": "Lola Prefecture",
+          "pl": "Prefektura Lola",
+          "pt": "Lola",
+          "ru": "Префектура Лола",
+          "sv": "Lola",
+          "tr": "Lola Prefecture",
+          "vi": "Quận Lola",
+          "zh": "洛拉省"
+        },
+        "population": 138722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.157,
+          12.344000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-kn",
+        "area": 0.7619640000000002,
+        "bounding_box": [
+          -13.736,
+          12.015,
+          -12.578,
+          12.673
+        ],
+        "point": [
+          -13.157,
+          12.344000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "محافظة كاوندارا",
+          "bn": "কুন্ডারা প্রশাসনিক অঞ্চল",
+          "de": "Koundara",
+          "en": "Koundara Prefecture",
+          "es": "Ayuntamiento Koundara",
+          "fr": "préfecture de Koundara",
+          "el": "Κουνταρά",
+          "hi": "कौन्डारा प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Koundara",
+          "it": "prefettura di Koundara",
+          "ja": "クンダラ県",
+          "ko": "쿤다라 지방 행정 구역",
+          "nl": "Koundara Prefecture",
+          "pl": "Prefektura Koundara",
+          "pt": "Koundara",
+          "ru": "Префектюр-де-Кундара",
+          "sv": "Koundara Prefecture",
+          "tr": "Koundrata Prefecture",
+          "vi": "Tỉnh Koundara",
+          "zh": "孔達拉省"
+        },
+        "population": 148969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.125499999999999,
+          12.0425
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-ml",
+        "area": 1.1490249999999995,
+        "bounding_box": [
+          -12.863,
+          11.653,
+          -11.388,
+          12.432
+        ],
+        "point": [
+          -12.125499999999999,
+          12.0425
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "ولاية مالي",
+          "bn": "মালি প্রশাসনিক অঞ্চল",
+          "de": "Mali",
+          "en": "Mali Prefecture",
+          "es": "Ayuntamiento del Mali",
+          "fr": "préfecture de Mali",
+          "el": "Μαλί",
+          "hi": "माली प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Mali",
+          "it": "prefettura di Mali",
+          "ja": "マリ県",
+          "ko": "말리 지방 행정 구역",
+          "nl": "Mali Prefecture",
+          "pl": "Prefektura Mali",
+          "pt": "Prefeitura de Mali",
+          "ru": "Префектура Мали",
+          "sv": "Mali Prefecture",
+          "tr": "Mali Prefecture",
+          "vi": "Tỉnh Mali",
+          "zh": "馬里省"
+        },
+        "population": 362082
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.388,
+          8.4225
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-mc",
+        "area": 1.4204400000000001,
+        "bounding_box": [
+          -9.92,
+          7.755,
+          -8.856,
+          9.09
+        ],
+        "point": [
+          -9.388,
+          8.4225
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "ولاية ماسينتا",
+          "bn": "ম্যাসেন্টা প্রশাসনিক অঞ্চল",
+          "de": "Macenta",
+          "en": "Macenta Prefecture",
+          "es": "Macenta",
+          "fr": "préfecture de Macenta",
+          "el": "Μασεντά",
+          "hi": "मैसेन्टा प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Macenta",
+          "it": "prefettura di Macenta",
+          "ja": "マサンタ県",
+          "ko": "마센타 지방 행정 구역",
+          "nl": "Macenta Prefecture",
+          "pl": "Prefektura Macenta",
+          "pt": "Macenta",
+          "ru": "Префектура Масента",
+          "sv": "Macenta",
+          "tr": "Macenta Prefecture",
+          "vi": "Quận Macenta",
+          "zh": "馬桑塔省"
+        },
+        "population": 296528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1075,
+          7.628
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-yo",
+        "area": 0.6451500000000007,
+        "bounding_box": [
+          -9.487,
+          7.203,
+          -8.728,
+          8.053
+        ],
+        "point": [
+          -9.1075,
+          7.628
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة يومو",
+          "bn": "ইয়োমু প্রশাসনিক অঞ্চল",
+          "de": "Yomou",
+          "en": "Yomou Prefecture",
+          "es": "Yomou",
+          "fr": "préfecture de Yomou",
+          "el": "Γιομού",
+          "hi": "यौमो प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Yomou",
+          "it": "prefettura di Yomou",
+          "ja": "ヨムー県",
+          "ko": "요무 지방 행정 구역",
+          "nl": "Yomou Prefecture",
+          "pl": "Prefektura Yomou",
+          "pt": "Prefeitura de Yomou",
+          "ru": "Префектура Йому",
+          "sv": "Yomou",
+          "tr": "Yomou Prefecture",
+          "vi": "Quận Yomou",
+          "zh": "約穆省"
+        },
+        "population": 146837
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.749500000000001,
+          7.993
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-nz",
+        "area": 0.4741380000000014,
+        "bounding_box": [
+          -9.069,
+          7.622,
+          -8.43,
+          8.364
+        ],
+        "point": [
+          -8.749500000000001,
+          7.993
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": null,
+          "bn": null,
+          "de": "Nzérékoré",
+          "en": "Nzérékoré Prefecture",
+          "es": null,
+          "fr": "préfecture de Nzérékoré",
+          "el": "Νζερεκορέ",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "prefettura di Nzérékoré",
+          "ja": "ンゼレコレ県",
+          "ko": null,
+          "nl": "Nzérékoré Prefecture",
+          "pl": "Prefektura Nzérékoré",
+          "pt": null,
+          "ru": null,
+          "sv": "Nzerekore Prefecture",
+          "tr": null,
+          "vi": null,
+          "zh": "恩澤雷科雷省"
+        },
+        "population": 446555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.376000000000001,
+          11.722
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-ga",
+        "area": 1.5832320000000004,
+        "bounding_box": [
+          -14.048,
+          11.133,
+          -12.704,
+          12.311
+        ],
+        "point": [
+          -13.376000000000001,
+          11.722
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظة غاوال",
+          "bn": "গাউল প্রশাসনিক অঞ্চল",
+          "de": "Gaoual",
+          "en": "Gaoual Prefecture",
+          "es": "Ayuntamiento Gaoual",
+          "fr": "préfecture de Gaoual",
+          "el": "Γκαουάλ",
+          "hi": "गाओल प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Gaoual",
+          "it": "prefettura di Gaoual",
+          "ja": "ガワル県",
+          "ko": "가우알 지방 행정 구역",
+          "nl": "Gaoual Prefecture",
+          "pl": "Prefektura Gaoual",
+          "pt": "Gaoual",
+          "ru": "Префектура Гауаль",
+          "sv": "Gaoual Prefecture",
+          "tr": "Gaoual Prefecture",
+          "vi": "Quận Gaoual",
+          "zh": "加瓦爾省"
+        },
+        "population": 216000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4205,
+          11.068999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-bk",
+        "area": 1.5746319999999976,
+        "bounding_box": [
+          -15.081,
+          10.473,
+          -13.76,
+          11.665
+        ],
+        "point": [
+          -14.4205,
+          11.068999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "إقليم بوكيه",
+          "bn": "বুকে অঞ্চল",
+          "de": "Region Boké",
+          "en": "Boké Region",
+          "es": "Boké",
+          "fr": "Région de Boké",
+          "el": "Μποκέ",
+          "hi": "बोके क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Boké",
+          "it": "regione di Boké",
+          "ja": "ボケ州",
+          "ko": "보케 주",
+          "nl": "Boké",
+          "pl": "Boké",
+          "pt": "Boké",
+          "ru": "Боке",
+          "sv": "Boke Region",
+          "tr": "Boké Bölgesi",
+          "vi": "Khu vực Boké",
+          "zh": "博凱大區"
+        },
+        "population": 517842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.467500000000001,
+          11.6805
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-si",
+        "area": 2.4184729999999983,
+        "bounding_box": [
+          -10.208,
+          10.864,
+          -8.727,
+          12.497
+        ],
+        "point": [
+          -9.467500000000001,
+          11.6805
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة سيغيري",
+          "bn": "সিগুইরি প্রশাসনিক অঞ্চল",
+          "de": "Siguiri",
+          "en": "Siguiri Prefecture",
+          "es": "Condado de Siguiri",
+          "fr": "préfecture de Siguiri",
+          "el": "Σιγκιρί",
+          "hi": "सिगुइरी प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Siguiri",
+          "it": "prefettura di Siguiri",
+          "ja": "シギリ県",
+          "ko": "시기리 현",
+          "nl": "Siguiri Prefecture",
+          "pl": "Prefektura Siguiri",
+          "pt": "Siguiri",
+          "ru": "Префектура Сигири",
+          "sv": "Siguiri Prefecture",
+          "tr": "Siguiri Prefecture",
+          "vi": "Quận Siguiri",
+          "zh": "錫吉里省"
+        },
+        "population": 1010733
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.8305,
+          11.711
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-kb",
+        "area": 0.8251039999999996,
+        "bounding_box": [
+          -12.317,
+          11.287,
+          -11.344,
+          12.135
+        ],
+        "point": [
+          -11.8305,
+          11.711
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظة كوبيا",
+          "bn": "কুবিয়া প্রশাসনিক অঞ্চল",
+          "de": "Koubia",
+          "en": "Koubia Prefecture",
+          "es": "Ayuntamiento Koubia",
+          "fr": "préfecture de Koubia",
+          "el": "Κουμπιά",
+          "hi": "कूबिया प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Koubia",
+          "it": "prefettura di Koubia",
+          "ja": "クビア県",
+          "ko": "쿠비아 지방 행정 구역",
+          "nl": "Koubia Prefecture",
+          "pl": "Prefektura Koubia",
+          "pt": "Koubia",
+          "ru": "Префектура Кубия",
+          "sv": "Koubia",
+          "tr": "Koubia Prefectura",
+          "vi": "Tỉnh Koubia",
+          "zh": "庫比亞省"
+        },
+        "population": 108533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.562000000000001,
+          11.521
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-to",
+        "area": 0.9196679999999997,
+        "bounding_box": [
+          -12.005,
+          11.002,
+          -11.119,
+          12.04
+        ],
+        "point": [
+          -11.562000000000001,
+          11.521
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظة توغيه",
+          "bn": "তউগু প্রশাসনিক অঞ্চল",
+          "de": "Tougué",
+          "en": "Tougué Prefecture",
+          "es": "Tougué",
+          "fr": "préfecture de Tougué",
+          "el": "Τουγκουέ",
+          "hi": "तुगुए प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Tougué",
+          "it": "prefettura di Tougué",
+          "ja": "トゥゲ県",
+          "ko": "투구 지방 행정 구역",
+          "nl": "Tougué Prefecture",
+          "pl": "Prefektura Tougué",
+          "pt": "Prefeitura de Tougué",
+          "ru": "Префектура Туге",
+          "sv": "Tougue Prefecture",
+          "tr": "Tougué Prefecture",
+          "vi": "Quận Tougué",
+          "zh": "圖蓋省"
+        },
+        "population": 100965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.655999999999999,
+          11.582
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-di",
+        "area": 1.9543159999999995,
+        "bounding_box": [
+          -11.423,
+          10.945,
+          -9.889,
+          12.219
+        ],
+        "point": [
+          -10.655999999999999,
+          11.582
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "محافظة دينغويراي",
+          "bn": "ডিঙ্গুইরায় প্রশাসনিক অঞ্চল",
+          "de": "Dinguiraye",
+          "en": "Dinguiraye Prefecture",
+          "es": "Ayuntamiento del Dinguiraye",
+          "fr": "préfecture de Dinguiraye",
+          "el": "Ντινγιράιγ",
+          "hi": "डिंगुइरे प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Dinguiraye",
+          "it": "prefettura di Dinguiraye",
+          "ja": "ダンギレ県",
+          "ko": "딩기라예 지방 행정 구역",
+          "nl": "Dinguiraye Prefecture",
+          "pl": "Prefektura Dinguiraye",
+          "pt": "Prefeitura de Dinguiraye",
+          "ru": "Префектура Дингирайе",
+          "sv": "Dinguiraye Prefecture",
+          "tr": "Ginguiraye Prefecture",
+          "vi": "Quận Dinguiraye",
+          "zh": "丁吉拉伊省"
+        },
+        "population": 250062
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0815,
+          10.2955
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-bf",
+        "area": 0.8366490000000001,
+        "bounding_box": [
+          -14.551,
+          9.85,
+          -13.612,
+          10.741
+        ],
+        "point": [
+          -14.0815,
+          10.2955
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة بوفا",
+          "bn": "বোফ্যা প্রশাসনিক অঞ্চল",
+          "de": "Boffa",
+          "en": "Boffa Prefecture",
+          "es": "Ayuntamiento del Boffa",
+          "fr": "préfecture de Boffa",
+          "el": "Μποφφά",
+          "hi": "बोफ़ा प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Boffa",
+          "it": "prefettura di Boffa",
+          "ja": "ボッファ県",
+          "ko": "보파 지방 행정 구역",
+          "nl": "Boffa Prefecture",
+          "pl": "Prefektura Boffa",
+          "pt": "Prefeitura de Boffa",
+          "ru": "Префектура Боффа",
+          "sv": "Boffa",
+          "tr": "Boffa Prefecture",
+          "vi": "Quận Boffa",
+          "zh": "博法省"
+        },
+        "population": 227729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5135,
+          9.9565
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-du",
+        "area": 0.7151049999999992,
+        "bounding_box": [
+          -13.913,
+          9.509,
+          -13.114,
+          10.404
+        ],
+        "point": [
+          -13.5135,
+          9.9565
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة دوبريكا",
+          "bn": "দেব্রেকা প্রশাসনিক অঞ্চল",
+          "de": "Dubréka",
+          "en": "Dubréka Prefecture",
+          "es": "Dubréka",
+          "fr": "préfecture de Dubréka",
+          "el": "Ντουμπρεκά",
+          "hi": "डब्रेका प्रान्त",
+          "hu": null,
+          "id": "Prefektur Dubréka",
+          "it": "prefettura di Dubréka",
+          "ja": "ドュブレカ県",
+          "ko": "두브레카 지방 행정 구역",
+          "nl": "Dubréka Prefecture",
+          "pl": "Prefektura Dubréka",
+          "pt": "Prefeitura de Dubreka",
+          "ru": "Префектура Дубрека",
+          "sv": "Préfecture de Dubréka",
+          "tr": "Dubréka Prefecture",
+          "vi": "Quận Dubréka",
+          "zh": "杜布雷卡省"
+        },
+        "population": 2041555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.6745,
+          9.5485
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-c",
+        "area": 0.0032129999999999503,
+        "bounding_box": [
+          -13.706,
+          9.523,
+          -13.643,
+          9.574
+        ],
+        "point": [
+          -13.6745,
+          9.5485
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "كوناكري",
+          "bn": "কোনাক্রি",
+          "de": "Conakry",
+          "en": "Conakry",
+          "es": "Conakri",
+          "fr": "Conakry",
+          "el": "Κονακρί",
+          "hi": "कोनाक्री",
+          "hu": "Conakry",
+          "id": "Conakry",
+          "it": "Conakry",
+          "ja": "コナクリ",
+          "ko": "코나크리",
+          "nl": "Conakry",
+          "pl": "Konakry",
+          "pt": "Conacri",
+          "ru": "Конакри",
+          "sv": "Conakry",
+          "tr": "Konakri",
+          "vi": "Conakry",
+          "zh": "科納克里"
+        },
+        "population": 24466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.309000000000001,
+          9.7615
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-co",
+        "area": 0.2080500000000009,
+        "bounding_box": [
+          -13.528,
+          9.524,
+          -13.09,
+          9.999
+        ],
+        "point": [
+          -13.309000000000001,
+          9.7615
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة كويا",
+          "bn": "কোয়াহ প্রশাসনিক অঞ্চল",
+          "de": "Coyah",
+          "en": "Coyah Prefecture",
+          "es": "Coyah",
+          "fr": "préfecture de Coyah",
+          "el": "Κογιά",
+          "hi": "कोयाह प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Coyah",
+          "it": "prefettura di Coyah",
+          "ja": "コヤ県",
+          "ko": "코야 지방 행정 구역",
+          "nl": "Coyah Prefecture",
+          "pl": "Prefektura Coyah",
+          "pt": "Coyah",
+          "ru": "Префектура Койя",
+          "sv": "Coyah",
+          "tr": "Coyah Prefecture",
+          "vi": "Quận Coyah",
+          "zh": "科亞省"
+        },
+        "population": 752770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.849499999999999,
+          9.286999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-ks",
+        "area": 1.073478000000001,
+        "bounding_box": [
+          -10.478,
+          8.86,
+          -9.221,
+          9.714
+        ],
+        "point": [
+          -9.849499999999999,
+          9.286999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "محافظة كيسيدوغو",
+          "bn": "কিস্যিদোগু প্রশাসনিক অঞ্চল",
+          "de": "Kissidougou",
+          "en": "Kissidougou Prefecture",
+          "es": "Kissidougou",
+          "fr": "préfecture de Kissidougou",
+          "el": "Κισσιντουγκού",
+          "hi": "किसिडूगू प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Kissidougou",
+          "it": "prefettura di Kissidougou",
+          "ja": "キシドゥグ県",
+          "ko": "키시두구 지방 행정 구역",
+          "nl": "Kissidougou Prefecture",
+          "pl": "Prefektura Kissidougou",
+          "pt": "Kissidougou",
+          "ru": "Киссидугу",
+          "sv": "Kissidougou",
+          "tr": "Kissidougou Prefecture",
+          "vi": "Tỉnh Kissidougou",
+          "zh": "基西杜古省"
+        },
+        "population": 373253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.901,
+          9.3255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-ke",
+        "area": 0.7212300000000014,
+        "bounding_box": [
+          -9.336,
+          8.911,
+          -8.466,
+          9.74
+        ],
+        "point": [
+          -8.901,
+          9.3255
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة كيرونيه",
+          "bn": "কেরুয়ানে প্রশাসনিক অঞ্চল",
+          "de": "Kérouané",
+          "en": "Kérouané Prefecture",
+          "es": "Kérouané",
+          "fr": "préfecture de Kérouane",
+          "el": "Κερουανέ",
+          "hi": "केरोवां प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Kérouané",
+          "it": "prefettura di Kérouané",
+          "ja": "ケルワヌ県",
+          "ko": "케로우아네 지방 행정 구역",
+          "nl": "Kérouané Prefecture",
+          "pl": "Prefektura Kérouané",
+          "pt": "Kérouané",
+          "ru": "Префектура Керуане",
+          "sv": "Kerouane Prefecture",
+          "tr": "Kérouane Prefecture",
+          "vi": "Quận Kérouané",
+          "zh": "凱魯阿內省"
+        },
+        "population": 166420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.51,
+          10.880500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-te",
+        "area": 1.2280900000000003,
+        "bounding_box": [
+          -14.145,
+          10.397,
+          -12.875,
+          11.364
+        ],
+        "point": [
+          -13.51,
+          10.880500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "محافظة تيليميلي",
+          "bn": "টেলিমেলি প্রশাসনিক অঞ্চল",
+          "de": "Télimélé",
+          "en": "Télimélé Prefecture",
+          "es": "Télimélé",
+          "fr": "préfecture de Télimélé",
+          "el": "Τελιμελέ",
+          "hi": "टेलेमिले प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Télimélé",
+          "it": "prefettura di Télimélé",
+          "ja": "テリメレ県",
+          "ko": "텔리멜리 지방 행정 구역",
+          "nl": "Télimélé Prefecture",
+          "pl": "Prefektura Télimélé",
+          "pt": "Télimélé",
+          "ru": "Префектура Телимеле",
+          "sv": "Telimele Prefecture",
+          "tr": "Télimélé Prefecture",
+          "vi": "Quận Télimélé",
+          "zh": "泰利梅萊省"
+        },
+        "population": 287132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.725999999999999,
+          11.356000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-le",
+        "area": 0.39072000000000046,
+        "bounding_box": [
+          -12.99,
+          10.986,
+          -12.462,
+          11.726
+        ],
+        "point": [
+          -12.725999999999999,
+          11.356000000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة ليلوما",
+          "bn": "লিলুমা প্রশাসনিক অঞ্চল",
+          "de": "Lélouma",
+          "en": "Lélouma Prefecture",
+          "es": "Ayuntamiento del Lélouma",
+          "fr": "préfecture de Lélouma",
+          "el": "Λελουμά",
+          "hi": "लेलौमा प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Lélouma",
+          "it": "prefettura di Lélouma",
+          "ja": "レルーマ県",
+          "ko": "렐루마 지방 행정 구역",
+          "nl": "Lélouma Prefecture",
+          "pl": "Prefektura Lélouma",
+          "pt": "Prefeitura de Lélouma",
+          "ru": "Префектура Лелума",
+          "sv": "Lelouma Prefecture",
+          "tr": "Lélouma Prefecure",
+          "vi": "Tỉnh Lélouma",
+          "zh": "萊盧馬省"
+        },
+        "population": 169429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.215,
+          10.892
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-dl",
+        "area": 0.6977400000000005,
+        "bounding_box": [
+          -12.65,
+          10.491,
+          -11.78,
+          11.293
+        ],
+        "point": [
+          -12.215,
+          10.892
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظة دالابا",
+          "bn": "বালাবা প্রশাসনিক অঞ্চল",
+          "de": "Dalaba",
+          "en": "Dalaba Prefecture",
+          "es": "Ayuntamiento del Dalaba",
+          "fr": "préfecture de Dalaba",
+          "el": "Νταλαμπά",
+          "hi": "दलाबा प्रान्त",
+          "hu": null,
+          "id": "Prefektur Dalaba",
+          "it": "prefettura di Dalaba",
+          "ja": "ダラバ県",
+          "ko": "달라바 지방 행정 구역",
+          "nl": "Dalaba Prefecture",
+          "pl": "Prefektura Dalaba",
+          "pt": "Dalaba",
+          "ru": "Префектура Далаба",
+          "sv": "Dalaba",
+          "tr": "Dalaba Prefecture",
+          "vi": "Tỉnh Dalaba",
+          "zh": "達拉巴省"
+        },
+        "population": 163593
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2905,
+          11.437999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-la",
+        "area": 0.2731800000000001,
+        "bounding_box": [
+          -12.526,
+          11.148,
+          -12.055,
+          11.728
+        ],
+        "point": [
+          -12.2905,
+          11.437999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "محافظة لابي",
+          "bn": "লাবি প্রশাসনিক অঞ্চল",
+          "de": "Labé",
+          "en": "Labé Prefecture",
+          "es": "Labé",
+          "fr": "préfecture de Labé",
+          "el": "Λαμπέ",
+          "hi": "लाबे प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Labé",
+          "it": "prefettura di Labé",
+          "ja": "ラベ県",
+          "ko": "라베 지방 행정 구역",
+          "nl": "Labé Prefecture",
+          "pl": "Prefektura Labé",
+          "pt": "Labé",
+          "ru": "Префектура Лабе",
+          "sv": "Labe Prefecture",
+          "tr": "Labé Prefecture",
+          "vi": "Quận Labé",
+          "zh": "拉貝省"
+        },
+        "population": 349730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.5425,
+          10.8925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-pi",
+        "area": 0.7106449999999984,
+        "bounding_box": [
+          -12.963,
+          10.47,
+          -12.122,
+          11.315
+        ],
+        "point": [
+          -12.5425,
+          10.8925
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "محافظة بيتا",
+          "bn": "পিটা প্রশাসনিক অঞ্চল",
+          "de": "Pita",
+          "en": "Pita Prefecture",
+          "es": "Ayuntamiento Pita",
+          "fr": "préfecture de Pita",
+          "el": "Πιτά",
+          "hi": "पीटा प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Pita",
+          "it": "prefettura di Pita",
+          "ja": "ピタ県",
+          "ko": "피타 지방 행정 구역",
+          "nl": "Pita Prefecture",
+          "pl": "Pita",
+          "pt": "Pita",
+          "ru": "Префектура Пита",
+          "sv": "Pita",
+          "tr": "Pita Prefecture",
+          "vi": "Tỉnh Pita",
+          "zh": "皮塔省"
+        },
+        "population": 282484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.117,
+          10.531500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-ko",
+        "area": 2.8963080000000008,
+        "bounding_box": [
+          -10.891,
+          9.596,
+          -9.343,
+          11.467
+        ],
+        "point": [
+          -10.117,
+          10.531500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة كوروسا",
+          "bn": "করৌস্যা প্রশাসনিক অঞ্চল",
+          "de": "Kouroussa",
+          "en": "Kouroussa Prefecture",
+          "es": "Kouroussa",
+          "fr": "préfecture de Kouroussa",
+          "el": "Κουρουσσά",
+          "hi": "कौरुसा प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Kouroussa",
+          "it": "prefettura di Kouroussa",
+          "ja": "クールーサ県",
+          "ko": "쿠루사 지방 행정 구역",
+          "nl": "Kouroussa Prefecture",
+          "pl": "Prefektura Kouroussa",
+          "pt": "Kouroussa",
+          "ru": "Префектура Курусса",
+          "sv": "Kouroussa",
+          "tr": "Kouroussa Prefecture",
+          "vi": "Tỉnh Kouroussa",
+          "zh": "庫魯薩省"
+        },
+        "population": 336826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5125,
+          10.477
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gn",
+        "region_child": "gn-fr",
+        "area": 0.30130799999999985,
+        "bounding_box": [
+          -13.829,
+          10.239,
+          -13.196,
+          10.715
+        ],
+        "point": [
+          -13.5125,
+          10.477
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "محافظة فريا",
+          "bn": "ফ্রিয়া প্রশাসনিক অঞ্চল",
+          "de": "Fria",
+          "en": "Fria Prefecture",
+          "es": "Ayuntamiento Veszprém",
+          "fr": "préfecture de Fria",
+          "el": "Φριά",
+          "hi": "फ्रिया प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Fria",
+          "it": "prefettura di Fria",
+          "ja": "フリア県",
+          "ko": "프리아 지방 행정 구역",
+          "nl": "Fria Prefecture",
+          "pl": "Prefektura Fria",
+          "pt": "Fria",
+          "ru": "Префектура Фрия",
+          "sv": "Fria",
+          "tr": "Fria Prefecture",
+          "vi": "Quận Fria",
+          "zh": "弗里亞省"
+        },
+        "population": 164060
+      }
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.31099999999998,
+          -33.3005
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "central coast",
+        "area": 0.3334500000000063,
+        "bounding_box": [
+          150.986,
+          -33.557,
+          151.636,
+          -33.044
+        ],
+        "point": [
+          151.31099999999998,
+          -33.3005
+        ],
+        "labels": {
+          "en": "Central Coast"
+        },
+        "population": 280162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.52100000000002,
+          -34.887
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "illawarra shoalhaven",
+        "area": 1.6502600000000005,
+        "bounding_box": [
+          149.976,
+          -35.644,
+          151.066,
+          -34.13
+        ],
+        "point": [
+          150.52100000000002,
+          -34.887
+        ],
+        "labels": {
+          "en": "Illawarra Shoalhaven"
+        },
+        "population": 348022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.44400000000002,
+          -33.388999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "nepean blue mountains",
+        "area": 1.4144479999999837,
+        "bounding_box": [
+          149.752,
+          -33.9,
+          151.136,
+          -32.878
+        ],
+        "point": [
+          150.44400000000002,
+          -33.388999999999996
+        ],
+        "labels": {
+          "en": "Nepean Blue Mountains"
+        },
+        "population": 336701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.15800000000002,
+          -33.613
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "northern sydney",
+        "area": 0.1628639999999941,
+        "bounding_box": [
+          150.984,
+          -33.847,
+          151.332,
+          -33.379
+        ],
+        "point": [
+          151.15800000000002,
+          -33.613
+        ],
+        "labels": {
+          "en": "Northern Sydney"
+        },
+        "population": 761051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1035,
+          -34.01349999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "south eastern sydney",
+        "area": 0.11507099999999992,
+        "bounding_box": [
+          150.922,
+          -34.172,
+          151.285,
+          -33.855
+        ],
+        "point": [
+          151.1035,
+          -34.01349999999999
+        ],
+        "labels": {
+          "en": "South Eastern Sydney"
+        },
+        "population": 742370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.51600000000002,
+          -34.286
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "south western sydney",
+        "area": 1.068672000000017,
+        "bounding_box": [
+          149.964,
+          -34.77,
+          151.068,
+          -33.802
+        ],
+        "point": [
+          150.51600000000002,
+          -34.286
+        ],
+        "labels": {
+          "en": "South Western Sydney"
+        },
+        "population": 835059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1285,
+          -33.8945
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "sydney",
+        "area": 0.019293000000001333,
+        "bounding_box": [
+          151.04,
+          -33.949,
+          151.217,
+          -33.84
+        ],
+        "point": [
+          151.1285,
+          -33.8945
+        ],
+        "labels": {
+          "en": "Sydney"
+        },
+        "population": 540470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.922,
+          -33.632999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "western sydney",
+        "area": 0.1652400000000056,
+        "bounding_box": [
+          150.76,
+          -33.888,
+          151.084,
+          -33.378
+        ],
+        "point": [
+          150.922,
+          -33.632999999999996
+        ],
+        "labels": {
+          "en": "Western Sydney"
+        },
+        "population": 813171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0795,
+          -31.984499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "far west",
+        "area": 24.84533100000001,
+        "bounding_box": [
+          140.999,
+          -34.97,
+          145.16,
+          -28.999
+        ],
+        "point": [
+          143.0795,
+          -31.984499999999997
+        ],
+        "labels": {
+          "en": "Far West"
+        },
+        "population": 33638
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.74,
+          -30.7825
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "hunter new england",
+        "area": 19.983648000000088,
+        "bounding_box": [
+          148.676,
+          -33.203,
+          152.804,
+          -28.362
+        ],
+        "point": [
+          150.74,
+          -30.7825
+        ],
+        "labels": {
+          "en": "Hunter New England"
+        },
+        "population": 796184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.662,
+          -30.8125
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "mid north coast",
+        "area": 2.1971999999999827,
+        "bounding_box": [
+          152.062,
+          -31.728,
+          153.262,
+          -29.897
+        ],
+        "point": [
+          152.662,
+          -30.8125
+        ],
+        "labels": {
+          "en": "Mid North Coast"
+        },
+        "population": 195958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2215,
+          -34.735
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "murrumbidgee",
+        "area": 23.971295999999953,
+        "bounding_box": [
+          143.318,
+          -36.799,
+          149.125,
+          -32.671
+        ],
+        "point": [
+          146.2215,
+          -34.735
+        ],
+        "labels": {
+          "en": "Murrumbidgee"
+        },
+        "population": 229655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.954,
+          -36.015
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "albury wodonga health (network with victoria)",
+        "area": 0.05494399999999776,
+        "bounding_box": [
+          146.818,
+          -36.116,
+          147.09,
+          -35.914
+        ],
+        "point": [
+          146.954,
+          -36.015
+        ],
+        "labels": {
+          "en": "Albury Wodonga Health (Network with Victoria)"
+        },
+        "population": 47645
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.895,
+          -29.288
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "northern nsw",
+        "area": 3.288948000000018,
+        "bounding_box": [
+          152.168,
+          -30.419,
+          153.622,
+          -28.157
+        ],
+        "point": [
+          152.895,
+          -29.288
+        ],
+        "labels": {
+          "en": "Northern NSW"
+        },
+        "population": 270186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2665,
+          -35.6965
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "southern nsw",
+        "area": 7.707827000000011,
+        "bounding_box": [
+          148.201,
+          -37.505,
+          150.332,
+          -33.888
+        ],
+        "point": [
+          149.2665,
+          -35.6965
+        ],
+        "labels": {
+          "en": "Southern NSW"
+        },
+        "population": 185049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.18849999999998,
+          -31.600500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "lhd",
+        "region_parent": "au-nsw",
+        "region_child": "western nsw",
+        "area": 33.02572500000001,
+        "bounding_box": [
+          144.016,
+          -34.203,
+          150.361,
+          -28.998
+        ],
+        "point": [
+          147.18849999999998,
+          -31.600500000000004
+        ],
+        "labels": {
+          "en": "Western NSW"
+        },
+        "population": 261466
+      }
+    }
+  ]
+}

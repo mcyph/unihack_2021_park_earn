@@ -1,0 +1,4510 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8595,
+          41.0935
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-75",
+        "area": 1.1482289999999993,
+        "bounding_box": [
+          42.279,
+          40.599,
+          43.44,
+          41.588
+        ],
+        "point": [
+          42.8595,
+          41.0935
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "أرداهان",
+          "bn": "আরদাহান প্রদেশ",
+          "de": "Ardahan",
+          "en": "Ardahan Province",
+          "es": "Provincia de Ardahan",
+          "fr": "Ardahan",
+          "el": "Αρνταχάν",
+          "hi": "अर्दहन प्रांत",
+          "hu": "Ardahan",
+          "id": "Provinsi Ardahan",
+          "it": "provincia di Ardahan",
+          "ja": "アルダハン県",
+          "ko": "아르다한 주",
+          "nl": "Ardahan",
+          "pl": "Ardahan",
+          "pt": "Ardahan",
+          "ru": "Ардахан",
+          "sv": "Ardahan",
+          "tr": "Ardahan",
+          "vi": "Ardahan",
+          "zh": "阿尔达汉省"
+        },
+        "population": 84808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.833,
+          41.035
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-08",
+        "area": 1.3526960000000068,
+        "bounding_box": [
+          41.127,
+          40.556,
+          42.539,
+          41.514
+        ],
+        "point": [
+          41.833,
+          41.035
+        ],
+        "labels": {
+          "alt": "Çoruh",
+          "local": null,
+          "len": 6,
+          "ar": "أرتوين",
+          "bn": "আর্টভিন প্রদেশ",
+          "de": "Artvin",
+          "en": "Artvin Province",
+          "es": "Provincia de Artvin",
+          "fr": "Artvin",
+          "el": "Επαρχία Αρτβίν",
+          "hi": "आर्टविन प्रांत",
+          "hu": "Artvin",
+          "id": "Provinsi Artvin",
+          "it": "provincia di Artvin",
+          "ja": "アルトヴィン県",
+          "ko": "아르트빈 주",
+          "nl": "Artvin",
+          "pl": "Artvin",
+          "pt": "Artvin",
+          "ru": "Артвин",
+          "sv": "Artvin",
+          "tr": "Artvin ili",
+          "vi": "Artvin",
+          "zh": "阿尔特温省"
+        },
+        "population": 142925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.545500000000004,
+          37.438
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-73",
+        "area": 1.132911999999996,
+        "bounding_box": [
+          41.682,
+          37.11,
+          43.409,
+          37.766
+        ],
+        "point": [
+          42.545500000000004,
+          37.438
+        ],
+        "labels": {
+          "alt": "Şırnak",
+          "local": null,
+          "len": 6,
+          "ar": "شرناق",
+          "bn": "সিনাক প্রদেশ",
+          "de": "Şırnak",
+          "en": "Şırnak Province",
+          "es": "Provincia de Şırnak",
+          "fr": "Şırnak",
+          "el": "Σίρνακ",
+          "hi": "सिर्नक प्रांत",
+          "hu": "Şırnak",
+          "id": "Provinsi Şırnak",
+          "it": "provincia di Şırnak",
+          "ja": "シュルナク県",
+          "ko": "시르나크 주",
+          "nl": "Şırnak",
+          "pl": "Şırnak",
+          "pt": "Şırnak",
+          "ru": "Ширнак",
+          "sv": "Şırnak",
+          "tr": "Şırnak",
+          "vi": "Şırnak",
+          "zh": "舍尔纳克省"
+        },
+        "population": 521504
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.081,
+          37.44499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-30",
+        "area": 1.349712,
+        "bounding_box": [
+          43.36,
+          36.977,
+          44.802,
+          37.913
+        ],
+        "point": [
+          44.081,
+          37.44499999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "هكاري",
+          "bn": "হাক্কারি প্রদেশ",
+          "de": "Hakkâri",
+          "en": "Hakkâri Province",
+          "es": "Provincia de Hakkâri",
+          "fr": "Hakkari",
+          "el": "Χακάρι",
+          "hi": "हक्कारी प्रोविंस",
+          "hu": "Hakkari",
+          "id": "Provinsi Hakkari",
+          "it": "provincia di Hakkâri",
+          "ja": "ハッキャリ県",
+          "ko": "하카리 주",
+          "nl": "Hakkâri",
+          "pl": "Hakkari",
+          "pt": "Hakkâri",
+          "ru": "Хаккяри",
+          "sv": "Hakkari",
+          "tr": "Hakkâri",
+          "vi": "Hakkâri",
+          "zh": "哈卡里省"
+        },
+        "population": 296811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0625,
+          39.869
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-76",
+        "area": 0.7176980000000011,
+        "bounding_box": [
+          43.318,
+          39.628,
+          44.807,
+          40.11
+        ],
+        "point": [
+          44.0625,
+          39.869
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "اغدير",
+          "bn": null,
+          "de": "Iğdır",
+          "en": "Iğdır Province",
+          "es": "Provincia de Iğdır",
+          "fr": "Iğdır",
+          "el": null,
+          "hi": null,
+          "hu": "Iğdır",
+          "id": "Provinsi Iğdır",
+          "it": "provincia di Iğdır",
+          "ja": "ウードゥル県",
+          "ko": "이디르 주",
+          "nl": "Iğdır",
+          "pl": "Iğdır",
+          "pt": "Iğdır",
+          "ru": "Ыгдыр",
+          "sv": "Iğdır",
+          "tr": "Iğdır",
+          "vi": "Iğdır",
+          "zh": "厄德尔省"
+        },
+        "population": 208115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.364999999999995,
+          39.4955
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-04",
+        "area": 2.1575819999999886,
+        "bounding_box": [
+          42.272,
+          39.002,
+          44.458,
+          39.989
+        ],
+        "point": [
+          43.364999999999995,
+          39.4955
+        ],
+        "labels": {
+          "alt": "Ağri|Karaköse",
+          "local": null,
+          "len": 4,
+          "ar": "أغري",
+          "bn": "আরি প্রদেশ",
+          "de": "Ağrı",
+          "en": "Ağrı Province",
+          "es": "Provincia de Ağrı",
+          "fr": "Ağrı",
+          "el": "Άγκρι",
+          "hi": "एग्री प्रांत",
+          "hu": "Ağrı",
+          "id": "Provinsi Ağrı",
+          "it": "provincia di Ağrı",
+          "ja": "アール県",
+          "ko": "아리 주",
+          "nl": "Ağrı",
+          "pl": "Ağrı",
+          "pt": "Ağrı",
+          "ru": "Агры",
+          "sv": "Ağrı",
+          "tr": "Ağrı",
+          "vi": "Ağrı",
+          "zh": "阿勒省"
+        },
+        "population": 549110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5685,
+          38.5685
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-65",
+        "area": 2.9974230000000097,
+        "bounding_box": [
+          42.678,
+          37.727,
+          44.459,
+          39.41
+        ],
+        "point": [
+          43.5685,
+          38.5685
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "وان",
+          "bn": "ভয়ান ভ্যান প্রদেশ",
+          "de": "Van",
+          "en": "Van Province",
+          "es": "Provincia de Van",
+          "fr": "Van",
+          "el": "Βαν",
+          "hi": "वान प्रांत",
+          "hu": "Van",
+          "id": "Provinsi Van",
+          "it": "provincia di Van",
+          "ja": "ヴァン県",
+          "ko": "반 주",
+          "nl": "Van",
+          "pl": "Wan",
+          "pt": "Van",
+          "ru": "Ван",
+          "sv": "Van",
+          "tr": "Van",
+          "vi": "Van",
+          "zh": "凡城省"
+        },
+        "population": 1187646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.491500000000002,
+          41.6785
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-39",
+        "area": 1.176820999999996,
+        "bounding_box": [
+          26.78,
+          41.265,
+          28.203,
+          42.092
+        ],
+        "point": [
+          27.491500000000002,
+          41.6785
+        ],
+        "labels": {
+          "alt": "Kırklareli",
+          "local": null,
+          "len": 10,
+          "ar": "قرقلر ايلي",
+          "bn": "কির্কারেলি প্রদেশ",
+          "de": "Kırklareli",
+          "en": "Kırklareli Province",
+          "es": "Provincia de Kırklareli",
+          "fr": "Kırklareli",
+          "el": "Επαρχία Σαράντα Εκκλησιών",
+          "hi": "किर्कलारेली प्रांत",
+          "hu": "Kırklareli",
+          "id": "Provinsi Kırklareli",
+          "it": "provincia di Kırklareli",
+          "ja": "クルクラーレリ県",
+          "ko": "키르클라렐리 주",
+          "nl": "Kırklareli",
+          "pl": "Kırklareli",
+          "pt": "Kırklareli",
+          "ru": "Кыркларели",
+          "sv": "Kırklareli",
+          "tr": "Kırklareli",
+          "vi": "Kırklareli",
+          "zh": "克尔克拉雷利省"
+        },
+        "population": 327827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.475,
+          41.291
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-22",
+        "area": 1.193007999999998,
+        "bounding_box": [
+          26.044,
+          40.599,
+          26.906,
+          41.983
+        ],
+        "point": [
+          26.475,
+          41.291
+        ],
+        "labels": {
+          "alt": "Adrianople|Adrianopel",
+          "local": null,
+          "len": 6,
+          "ar": "ادرنة",
+          "bn": "এডির্নে প্রদেশ",
+          "de": "Edirne",
+          "en": "Edirne Province",
+          "es": "Provincia de Edirne",
+          "fr": "Edirne",
+          "el": "Επαρχία Αδριανούπολης",
+          "hi": "एडीर्ने प्रांत",
+          "hu": "Edirne",
+          "id": "Provinsi Edirne",
+          "it": "provincia di Edirne",
+          "ja": "エディルネ県",
+          "ko": "에디르네 주",
+          "nl": "Edirne",
+          "pl": "Edirne",
+          "pt": "Edirne",
+          "ru": "Эдирне",
+          "sv": "Edirne",
+          "tr": "Edirne",
+          "vi": "Edirne",
+          "zh": "埃迪尔内省"
+        },
+        "population": 367814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.939499999999995,
+          40.5145
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-36",
+        "area": 1.8711150000000043,
+        "bounding_box": [
+          42.15,
+          39.922,
+          43.729,
+          41.107
+        ],
+        "point": [
+          42.939499999999995,
+          40.5145
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "كارس",
+          "bn": null,
+          "de": "Kars",
+          "en": "Kars Province",
+          "es": "Kars",
+          "fr": "Kars",
+          "el": null,
+          "hi": "कार्स",
+          "hu": "Kars",
+          "id": "Provinsi Kars",
+          "it": "Kars",
+          "ja": "カルス県",
+          "ko": "카르스 주",
+          "nl": "Kars",
+          "pl": "Kars",
+          "pt": "Kars",
+          "ru": "Карс",
+          "sv": "Kars",
+          "tr": "Kars",
+          "vi": "Kars",
+          "zh": "卡尔斯省"
+        },
+        "population": 282364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9525,
+          37.344
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-47",
+        "area": 1.6040099999999986,
+        "bounding_box": [
+          40.0,
+          36.923,
+          41.905,
+          37.765
+        ],
+        "point": [
+          40.9525,
+          37.344
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "ماردين",
+          "bn": "মার্দিন প্রদেশ",
+          "de": "Mardin",
+          "en": "Mardin Province",
+          "es": "Provincia de Mardin",
+          "fr": "Mardin",
+          "el": "Επαρχία Μαρντίν",
+          "hi": "मार्दिन प्रांत",
+          "hu": "Mardin",
+          "id": "Provinsi Mardin",
+          "it": "provincia di Mardin",
+          "ja": "マルディン県",
+          "ko": "마르딘 주",
+          "nl": "Mardin",
+          "pl": "Mardin",
+          "pt": "Mardin",
+          "ru": "ил Мардин",
+          "sv": "Mardin",
+          "tr": "Mardin",
+          "vi": "Mardin",
+          "zh": "马尔丁省"
+        },
+        "population": 794868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.051,
+          37.3515
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-63",
+        "area": 3.346860000000009,
+        "bounding_box": [
+          37.841,
+          36.66,
+          40.261,
+          38.043
+        ],
+        "point": [
+          39.051,
+          37.3515
+        ],
+        "labels": {
+          "alt": "Şanlıurfa|Urfa",
+          "local": null,
+          "len": 9,
+          "ar": "شانلي أورفة",
+          "bn": "স্যানলুরফা প্রদেশ",
+          "de": "Şanlıurfa",
+          "en": "Şanlıurfa Province",
+          "es": "Provincia de Sanliurfa",
+          "fr": "Şanlıurfa",
+          "el": "Επαρχία Σανλιούρφα",
+          "hi": "सैन्ल्युर्फा",
+          "hu": "Şanlıurfa",
+          "id": "Provinsi Şanlıurfa",
+          "it": "provincia di Şanlıurfa",
+          "ja": "シャンルウルファ県",
+          "ko": "샨리우르파 주",
+          "nl": "Şanlıurfa",
+          "pl": "Şanlıurfa",
+          "pt": "Şanlıurfa",
+          "ru": "Шанлыурфа",
+          "sv": "Şanlıurfa",
+          "tr": "Şanlıurfa",
+          "vi": "Şanlıurfa",
+          "zh": "尚勒乌尔法省"
+        },
+        "population": 1986162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.090999999999994,
+          36.814
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-79",
+        "area": 0.33445600000000525,
+        "bounding_box": [
+          36.66,
+          36.62,
+          37.522,
+          37.008
+        ],
+        "point": [
+          37.090999999999994,
+          36.814
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "كلس",
+          "bn": "কিলিস প্রদেশ",
+          "de": "Kilis",
+          "en": "Kilis Province",
+          "es": "Provincia de Kilis",
+          "fr": "Kilis",
+          "el": "Επαρχία Κιλίς",
+          "hi": "किलिस प्रांत",
+          "hu": "Kilis",
+          "id": "Provinsi Kilis",
+          "it": "provincia di Kilis",
+          "ja": "キリス県",
+          "ko": "킬리스 주",
+          "nl": "Kilis",
+          "pl": "Kilis",
+          "pt": "Kilis",
+          "ru": "Килис",
+          "sv": "Kilis",
+          "tr": "Kilis",
+          "vi": "Kilis",
+          "zh": "基利斯省"
+        },
+        "population": 139809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.245999999999995,
+          37.1055
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-27",
+        "area": 1.3704440000000002,
+        "bounding_box": [
+          36.452,
+          36.674,
+          38.04,
+          37.537
+        ],
+        "point": [
+          37.245999999999995,
+          37.1055
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "عنتاب",
+          "bn": "গাজিয়ান্টেপ প্রদেশ",
+          "de": "Gaziantep",
+          "en": "Gaziantep Province",
+          "es": "Provincia de Gaziantep",
+          "fr": "Gaziantep",
+          "el": "Επαρχία Γκαζιαντέπ",
+          "hi": "गज़ियांटेप प्रांत",
+          "hu": "Gaziantep",
+          "id": "Provinsi Gaziantep",
+          "it": "provincia di Gaziantep",
+          "ja": "ガズィアンテプ県",
+          "ko": "가지안테프 주",
+          "nl": "Gaziantep",
+          "pl": "Gaziantep",
+          "pt": "Gaziantep",
+          "ru": "Газиантеп",
+          "sv": "Gaziantep",
+          "tr": "Gaziantep",
+          "vi": "Gaziantep",
+          "zh": "加济安泰普省"
+        },
+        "population": 2345280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2265,
+          36.416
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-31",
+        "area": 1.0394999999999959,
+        "bounding_box": [
+          35.789,
+          35.822,
+          36.664,
+          37.01
+        ],
+        "point": [
+          36.2265,
+          36.416
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "هاتاي",
+          "bn": "হাতায়",
+          "de": "Hatay",
+          "en": "Hatay Province",
+          "es": "Provincia de Hatay",
+          "fr": "Hatay",
+          "el": "Επαρχία Χατάι",
+          "hi": "हेटे",
+          "hu": "Hatay",
+          "id": "Provinsi Hatay",
+          "it": "provincia di Hatay",
+          "ja": "ハタイ県",
+          "ko": "하타이 주",
+          "nl": "Hatay",
+          "pl": "Hatay",
+          "pt": "Hatay",
+          "ru": "Хатай",
+          "sv": "Hatay",
+          "tr": "Hatay",
+          "vi": "Hatay",
+          "zh": "哈塔伊省"
+        },
+        "population": 1686375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.629,
+          41.251000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-34",
+        "area": 0.5548799999999965,
+        "bounding_box": [
+          28.149,
+          40.962,
+          29.109,
+          41.54
+        ],
+        "point": [
+          28.629,
+          41.251000000000005
+        ],
+        "labels": {
+          "alt": "İstanbul|Constantinople|Estambul|Istambul|Konstantinopel|Stamboul",
+          "local": null,
+          "len": 8,
+          "ar": "إسطنبول",
+          "bn": null,
+          "de": "Istanbul",
+          "en": "Istanbul Province",
+          "es": "Provincia de Estambul",
+          "fr": "Istanbul",
+          "el": "Επαρχία Κωνσταντινούπολης",
+          "hi": null,
+          "hu": "İstanbul",
+          "id": "Provinsi İstanbul",
+          "it": "provincia di Istanbul",
+          "ja": "イスタンブール県",
+          "ko": "이스탄불 주",
+          "nl": "Istanboel",
+          "pl": "Stambuł",
+          "pt": "Istambul",
+          "ru": "Стамбул",
+          "sv": "İstanbul",
+          "tr": "İstanbul",
+          "vi": "Istanbul",
+          "zh": "伊斯坦堡省"
+        },
+        "population": 14732157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4465,
+          41.058
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-34",
+        "area": 0.3209820000000006,
+        "bounding_box": [
+          29.008,
+          40.875,
+          29.885,
+          41.241
+        ],
+        "point": [
+          29.4465,
+          41.058
+        ],
+        "labels": {
+          "alt": "İstanbul|Constantinople|Estambul|Istambul|Konstantinopel|Stamboul",
+          "local": null,
+          "len": 8,
+          "ar": "إسطنبول",
+          "bn": null,
+          "de": "Istanbul",
+          "en": "Istanbul Province",
+          "es": "Provincia de Estambul",
+          "fr": "Istanbul",
+          "el": "Επαρχία Κωνσταντινούπολης",
+          "hi": null,
+          "hu": "İstanbul",
+          "id": "Provinsi İstanbul",
+          "it": "provincia di Istanbul",
+          "ja": "イスタンブール県",
+          "ko": "이스탄불 주",
+          "nl": "Istanboel",
+          "pl": "Stambuł",
+          "pt": "Istambul",
+          "ru": "Стамбул",
+          "sv": "İstanbul",
+          "tr": "İstanbul",
+          "vi": "Istanbul",
+          "zh": "伊斯坦堡省"
+        },
+        "population": 14732157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.454500000000003,
+          41.0265
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-59",
+        "area": 1.3750869999999964,
+        "bounding_box": [
+          26.716,
+          40.561,
+          28.193,
+          41.492
+        ],
+        "point": [
+          27.454500000000003,
+          41.0265
+        ],
+        "labels": {
+          "alt": "Tekirdağ",
+          "local": null,
+          "len": 8,
+          "ar": "تيكيرداغ",
+          "bn": "তিকরদাগ প্রদেশ",
+          "de": "Tekirdağ",
+          "en": "Tekirdağ Province",
+          "es": "Provincia de Tekirdağ",
+          "fr": "Tekirdağ",
+          "el": "Επαρχία Ραιδεστού",
+          "hi": "टेकीरडैग प्रांत",
+          "hu": "Tekirdağ",
+          "id": "Provinsi Tekirdağ",
+          "it": "provincia di Tekirdağ",
+          "ja": "テキルダー県",
+          "ko": "테키르다 주",
+          "nl": "Tekirdağ",
+          "pl": "Tekirdağ",
+          "pt": "Tekirdağ",
+          "ru": "Текирдаг",
+          "sv": "Tekirdağ",
+          "tr": "Tekirdağ",
+          "vi": "Tekirdağ",
+          "zh": "泰基尔达省"
+        },
+        "population": 1033311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.820999999999998,
+          39.9585
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-17",
+        "area": 1.5004979999999917,
+        "bounding_box": [
+          26.07,
+          39.459,
+          27.572,
+          40.458
+        ],
+        "point": [
+          26.820999999999998,
+          39.9585
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "جاناكالي",
+          "bn": "ক্যানাক্কালে প্রদেশ",
+          "de": "Çanakkale",
+          "en": "Çanakkale Province",
+          "es": "Provincia de Çanakkale",
+          "fr": "Çanakkale",
+          "el": "Επαρχία Τσανάκκαλε",
+          "hi": "कनक्केल प्रांत",
+          "hu": "Çanakkale",
+          "id": "Provinsi Çanakkale",
+          "it": "provincia di Çanakkale",
+          "ja": "チャナッカレ県",
+          "ko": "차나칼레 주",
+          "nl": "Çanakkale",
+          "pl": "Çanakkale",
+          "pt": "Çanakkale",
+          "ru": "Чанаккале",
+          "sv": "Çanakkale",
+          "tr": "Çanakkale",
+          "vi": "Çanakkale",
+          "zh": "恰纳卡莱省"
+        },
+        "population": 490448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.570999999999998,
+          40.3885
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-17",
+        "area": 0.5305499999999963,
+        "bounding_box": [
+          26.178,
+          40.051,
+          26.964,
+          40.726
+        ],
+        "point": [
+          26.570999999999998,
+          40.3885
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "جاناكالي",
+          "bn": "ক্যানাক্কালে প্রদেশ",
+          "de": "Çanakkale",
+          "en": "Çanakkale Province",
+          "es": "Provincia de Çanakkale",
+          "fr": "Çanakkale",
+          "el": "Επαρχία Τσανάκκαλε",
+          "hi": "कनक्केल प्रांत",
+          "hu": "Çanakkale",
+          "id": "Provinsi Çanakkale",
+          "it": "provincia di Çanakkale",
+          "ja": "チャナッカレ県",
+          "ko": "차나칼레 주",
+          "nl": "Çanakkale",
+          "pl": "Çanakkale",
+          "pt": "Çanakkale",
+          "ru": "Чанаккале",
+          "sv": "Çanakkale",
+          "tr": "Çanakkale",
+          "vi": "Çanakkale",
+          "zh": "恰纳卡莱省"
+        },
+        "population": 490448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8375,
+          40.169
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-17",
+        "area": 0.050255999999999454,
+        "bounding_box": [
+          25.663,
+          40.097,
+          26.012,
+          40.241
+        ],
+        "point": [
+          25.8375,
+          40.169
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "جاناكالي",
+          "bn": "ক্যানাক্কালে প্রদেশ",
+          "de": "Çanakkale",
+          "en": "Çanakkale Province",
+          "es": "Provincia de Çanakkale",
+          "fr": "Çanakkale",
+          "el": "Επαρχία Τσανάκκαλε",
+          "hi": "कनक्केल प्रांत",
+          "hu": "Çanakkale",
+          "id": "Provinsi Çanakkale",
+          "it": "provincia di Çanakkale",
+          "ja": "チャナッカレ県",
+          "ko": "차나칼레 주",
+          "nl": "Çanakkale",
+          "pl": "Çanakkale",
+          "pt": "Çanakkale",
+          "ru": "Чанаккале",
+          "sv": "Çanakkale",
+          "tr": "Çanakkale",
+          "vi": "Çanakkale",
+          "zh": "恰纳卡莱省"
+        },
+        "population": 490448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.869,
+          40.9215
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-53",
+        "area": 0.7848060000000049,
+        "bounding_box": [
+          40.352,
+          40.542,
+          41.386,
+          41.301
+        ],
+        "point": [
+          40.869,
+          40.9215
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "ريزه",
+          "bn": "রিজ প্রদেশ",
+          "de": "Rize",
+          "en": "Rize Province",
+          "es": "Provincia de Rize",
+          "fr": "Rize",
+          "el": "Επαρχία Ριζούντας",
+          "hi": "रिज़े प्रांत",
+          "hu": "Rize",
+          "id": "Provinsi Rize",
+          "it": "provincia di Rize",
+          "ja": "リゼ県",
+          "ko": "리제 주",
+          "nl": "Rize",
+          "pl": "Prowincja Rize",
+          "pt": "Rize",
+          "ru": "Ризе",
+          "sv": "Rize",
+          "tr": "Rize",
+          "vi": "Rize",
+          "zh": "里泽省"
+        },
+        "population": 292477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8045,
+          40.811
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-61",
+        "area": 0.8241380000000051,
+        "bounding_box": [
+          39.12,
+          40.51,
+          40.489,
+          41.112
+        ],
+        "point": [
+          39.8045,
+          40.811
+        ],
+        "labels": {
+          "alt": "Trapezunt|Trebizond|Trebizonda|Trébizonde",
+          "local": null,
+          "len": 7,
+          "ar": "طرابزون",
+          "bn": "ট্রাব্জন প্রদেশ",
+          "de": "Trabzon",
+          "en": "Trabzon Province",
+          "es": "Provincia de Trabzon",
+          "fr": "Trabzon",
+          "el": "Επαρχία Τραπεζούντας",
+          "hi": "ट्रैब्जन प्रांत",
+          "hu": "Trabzon",
+          "id": "Provinsi Trabzon",
+          "it": "provincia di Trebisonda",
+          "ja": "トラブゾン県",
+          "ko": "트라브존 주",
+          "nl": "Trabzon",
+          "pl": "Trabzon",
+          "pt": "Trebizonda",
+          "ru": "Трабзон",
+          "sv": "Trabzon",
+          "tr": "Trabzon",
+          "vi": "Trabzon",
+          "zh": "特拉布宗省"
+        },
+        "population": 637743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.605500000000006,
+          40.563500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-28",
+        "area": 1.1034450000000042,
+        "bounding_box": [
+          38.063,
+          40.055,
+          39.148,
+          41.072
+        ],
+        "point": [
+          38.605500000000006,
+          40.563500000000005
+        ],
+        "labels": {
+          "alt": "Kerasund",
+          "local": null,
+          "len": 7,
+          "ar": "غيرسون",
+          "bn": "গিরেসুন প্রদেশ",
+          "de": "Giresun",
+          "en": "Giresun Province",
+          "es": "Provincia de Giresun",
+          "fr": "Giresun",
+          "el": "Επαρχία Κερασούντας",
+          "hi": "गियरसन प्रांत",
+          "hu": "Giresun",
+          "id": "Provinsi Giresun",
+          "it": "provincia di Giresun",
+          "ja": "ギレスン県",
+          "ko": "기레순 주",
+          "nl": "Giresun",
+          "pl": "Giresun",
+          "pt": "Giresun",
+          "ru": "Гиресун",
+          "sv": "Giresun",
+          "tr": "Giresun",
+          "vi": "Giresun",
+          "zh": "吉雷松省"
+        },
+        "population": 354193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4285,
+          40.74
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-52",
+        "area": 1.1905440000000063,
+        "bounding_box": [
+          36.699,
+          40.332,
+          38.158,
+          41.148
+        ],
+        "point": [
+          37.4285,
+          40.74
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "أردو",
+          "bn": "অর্দু প্রদেশ",
+          "de": "Ordu",
+          "en": "Ordu Province",
+          "es": "Provincia de Ordu",
+          "fr": "Ordu",
+          "el": "Επαρχία Ορντού",
+          "hi": "ओर्दू प्रांत",
+          "hu": "Ordu",
+          "id": "Provinsi Ordu",
+          "it": "provincia di Ordu",
+          "ja": "オルドゥ県",
+          "ko": "오르두 주",
+          "nl": "Ordu",
+          "pl": "Ordu",
+          "pt": "Ordu",
+          "ru": "Орду",
+          "sv": "Ordu",
+          "tr": "Ordu",
+          "vi": "Ordu",
+          "zh": "奥尔杜省"
+        },
+        "population": 611934
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.019999999999996,
+          41.289500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-55",
+        "area": 2.003639999999998,
+        "bounding_box": [
+          34.888,
+          40.847,
+          37.152,
+          41.732
+        ],
+        "point": [
+          36.019999999999996,
+          41.289500000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "سامسون",
+          "bn": null,
+          "de": "Samsun",
+          "en": "Samsun Province",
+          "es": "Provincia de Samsun",
+          "fr": "Samsun",
+          "el": "Επαρχία Σαμψούντας",
+          "hi": null,
+          "hu": "Samsun",
+          "id": "Provinsi Samsun",
+          "it": "provincia di Samsun",
+          "ja": "サムスン県",
+          "ko": "삼순 주",
+          "nl": "Samsun",
+          "pl": "Samsun",
+          "pt": "Samsun",
+          "ru": "Самсун",
+          "sv": "Samsun",
+          "tr": "Samsun",
+          "vi": "Samsun",
+          "zh": "萨姆松省"
+        },
+        "population": 1319593
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.822500000000005,
+          41.650499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-57",
+        "area": 1.2244049999999997,
+        "bounding_box": [
+          34.14,
+          41.202,
+          35.505,
+          42.099
+        ],
+        "point": [
+          34.822500000000005,
+          41.650499999999994
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة سينوب",
+          "bn": "সিনোপ প্রদেশ",
+          "de": "Sinop",
+          "en": "Sinop Province",
+          "es": "Provincia de Sinope",
+          "fr": "Sinop",
+          "el": "Επαρχία Σινώπης",
+          "hi": "सिनोप",
+          "hu": "Sinop",
+          "id": "Provinsi Sinop",
+          "it": "provincia di Sinope",
+          "ja": "スィノプ県",
+          "ko": "시노프 주",
+          "nl": "Sinop",
+          "pl": "Synopa",
+          "pt": "Sinop",
+          "ru": "Синоп",
+          "sv": "Sinop",
+          "tr": "Sinop",
+          "vi": "Sinop",
+          "zh": "锡诺普省"
+        },
+        "population": 157861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6935,
+          41.44
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-37",
+        "area": 2.071662000000004,
+        "bounding_box": [
+          32.799,
+          40.861,
+          34.588,
+          42.019
+        ],
+        "point": [
+          33.6935,
+          41.44
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "قسطموني",
+          "bn": "কাস্তামনু প্রদেশ",
+          "de": "Kastamonu",
+          "en": "Kastamonu Province",
+          "es": "Provincia de Kastamonu",
+          "fr": "Kastamonu",
+          "el": "Επαρχία Κασταμονής",
+          "hi": "कस्तामोनु प्रांत",
+          "hu": "Kastamonu",
+          "id": "Provinsi Kastamonu",
+          "it": "provincia di Kastamonu",
+          "ja": "カスタモヌ県",
+          "ko": "카스타모누 주",
+          "nl": "Kastamonu",
+          "pl": "Kastamonu",
+          "pt": "Kastamonu",
+          "ru": "Кастамону",
+          "sv": "Kastamonu",
+          "tr": "Kastamonu",
+          "vi": "Kastamonu",
+          "zh": "卡斯塔莫努省"
+        },
+        "population": 351500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5035,
+          41.5935
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-74",
+        "area": 0.39388699999999943,
+        "bounding_box": [
+          32.134,
+          41.327,
+          32.873,
+          41.86
+        ],
+        "point": [
+          32.5035,
+          41.5935
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "بارتين",
+          "bn": "বারতিন প্রদেশ",
+          "de": "Bartın",
+          "en": "Bartın Province",
+          "es": "Bartın",
+          "fr": "Bartın",
+          "el": "Επαρχία Μπαρτίν",
+          "hi": "बार्टिन प्रांत",
+          "hu": "Bartın",
+          "id": "Provinsi Bartın",
+          "it": "provincia di Bartın",
+          "ja": "バルトゥン県",
+          "ko": "바르틴 주",
+          "nl": "Bartın",
+          "pl": "Bartın",
+          "pt": "Bartın",
+          "ru": "Бартын",
+          "sv": "Bartın",
+          "tr": "Bartın",
+          "vi": "Bartın",
+          "zh": "巴尔滕省"
+        },
+        "population": 152037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.826500000000003,
+          41.309
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-67",
+        "area": 0.5573799999999995,
+        "bounding_box": [
+          31.346,
+          41.019,
+          32.307,
+          41.599
+        ],
+        "point": [
+          31.826500000000003,
+          41.309
+        ],
+        "labels": {
+          "alt": "Zonguldak",
+          "local": null,
+          "len": 9,
+          "ar": "زانغولداك",
+          "bn": "জঙ্গুলডাক প্রদেশ",
+          "de": "Zonguldak",
+          "en": "Zonguldak Province",
+          "es": "Provincia de Zonguldak",
+          "fr": "Zonguldak",
+          "el": "Επαρχία Ζονγκουλντάκ",
+          "hi": "ज़ोंगुलदक प्रांत",
+          "hu": "Zonguldak",
+          "id": "Provinsi Zonguldak",
+          "it": "provincia di Zonguldak",
+          "ja": "ゾングルダク県",
+          "ko": "종굴다크 주",
+          "nl": "Zonguldak",
+          "pl": "Zonguldak",
+          "pt": "Zonguldak",
+          "ru": "Зонгулдак",
+          "sv": "Zonguldak",
+          "tr": "Zonguldak",
+          "vi": "Zonguldak",
+          "zh": "宗古尔达克省"
+        },
+        "population": 610399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.334,
+          40.911500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-81",
+        "area": 0.44547000000000575,
+        "bounding_box": [
+          30.869,
+          40.672,
+          31.799,
+          41.151
+        ],
+        "point": [
+          31.334,
+          40.911500000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "دوزجه",
+          "bn": "দুজচে প্রদেশ",
+          "de": "Düzce",
+          "en": "Düzce Province",
+          "es": "Provincia de Düzce",
+          "fr": "Düzce",
+          "el": "Επαρχία Ντούζτζε",
+          "hi": "डूट्स प्रांत",
+          "hu": "Düzce",
+          "id": "Provinsi Düzce",
+          "it": "provincia di Düzce",
+          "ja": "デュズジェ県",
+          "ko": "뒤즈제 주",
+          "nl": "Düzce",
+          "pl": "Düzce",
+          "pt": "Düzce",
+          "ru": "Дюздже",
+          "sv": "Düzce",
+          "tr": "Düzce",
+          "vi": "Düzce",
+          "zh": "迪兹杰省"
+        },
+        "population": 382790
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.444,
+          40.751000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-54",
+        "area": 0.8702399999999973,
+        "bounding_box": [
+          29.926,
+          40.331,
+          30.962,
+          41.171
+        ],
+        "point": [
+          30.444,
+          40.751000000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "صقاريا",
+          "bn": "সা্কায়া প্রদেশ",
+          "de": "Sakarya",
+          "en": "Sakarya Province",
+          "es": "Provincia de Sakarya",
+          "fr": "Sakarya",
+          "el": "Επαρχία Σαγγάριου",
+          "hi": "सकरया  प्रोविंस",
+          "hu": "Sakarya",
+          "id": "Provinsi Sakarya",
+          "it": "provincia di Sakarya",
+          "ja": "サカリヤ県",
+          "ko": "사카리아 주",
+          "nl": "Sakarya",
+          "pl": "Sakarya",
+          "pt": "Sakarya",
+          "ru": "Сакарья",
+          "sv": "Sakarya",
+          "tr": "Sakarya",
+          "vi": "Sakarya",
+          "zh": "萨卡里亚省"
+        },
+        "population": 940731
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8685,
+          40.8815
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-41",
+        "area": 0.8099109999999982,
+        "bounding_box": [
+          29.254,
+          40.552,
+          30.483,
+          41.211
+        ],
+        "point": [
+          29.8685,
+          40.8815
+        ],
+        "labels": {
+          "alt": "İzmit",
+          "local": null,
+          "len": 7,
+          "ar": "قوجه ايلي",
+          "bn": "কোকাইলি প্রদেশ",
+          "de": "Kocaeli",
+          "en": "Kocaeli Province",
+          "es": "Provincia de Kocaeli",
+          "fr": "Kocaeli",
+          "el": "Επαρχία Κοτζαελί",
+          "hi": "कोकाएली",
+          "hu": "Kocaeli",
+          "id": "Provinsi Kocaeli",
+          "it": "provincia di Kocaeli",
+          "ja": "コジャエリ県",
+          "ko": "코자엘리 주",
+          "nl": "Kocaeli",
+          "pl": "Kocaeli",
+          "pt": "Kocaeli",
+          "ru": "Коджаэли",
+          "sv": "Kocaeli",
+          "tr": "Kocaeli",
+          "vi": "Kocaeli",
+          "zh": "科贾埃利省"
+        },
+        "population": 1902508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.110500000000002,
+          40.5865
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-77",
+        "area": 0.1543049999999972,
+        "bounding_box": [
+          28.793,
+          40.465,
+          29.428,
+          40.708
+        ],
+        "point": [
+          29.110500000000002,
+          40.5865
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "يالوفا",
+          "bn": "ইয়ালোভা প্রদেশ",
+          "de": "Yalova",
+          "en": "Yalova Province",
+          "es": "Provincia de Yalova",
+          "fr": "Yalova",
+          "el": "Επαρχία Γιάλοβας",
+          "hi": "यलोवा प्रांत",
+          "hu": "Yalova",
+          "id": "Provinsi Yalova",
+          "it": "provincia di Yalova",
+          "ja": "ヤロヴァ県",
+          "ko": "얄로바 주",
+          "nl": "Yalova",
+          "pl": "Yalova",
+          "pt": "Yalova",
+          "ru": "Ялова",
+          "sv": "Yalova",
+          "tr": "Yalova",
+          "vi": "Yalova",
+          "zh": "亚洛瓦省"
+        },
+        "population": 247481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.02,
+          40.0835
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-16",
+        "area": 1.958046000000003,
+        "bounding_box": [
+          28.099,
+          39.552,
+          29.941,
+          40.615
+        ],
+        "point": [
+          29.02,
+          40.0835
+        ],
+        "labels": {
+          "alt": "Burssa|Brusa|Brussa|Brousse",
+          "local": null,
+          "len": 5,
+          "ar": "بورصة",
+          "bn": "বুরসা প্রদেশ",
+          "de": "Bursa",
+          "en": "Bursa Province",
+          "es": "Provincia de Bursa",
+          "fr": "Bursa",
+          "el": "Επαρχία Προύσας",
+          "hi": "बुर्सा प्रांत",
+          "hu": "Bursa",
+          "id": "Provinsi Bursa",
+          "it": "provincia di Bursa",
+          "ja": "ブルサ県",
+          "ko": "부르사 주",
+          "nl": "Bursa",
+          "pl": "Bursa",
+          "pt": "Bursa",
+          "ru": "Бурса",
+          "sv": "Bursa",
+          "tr": "Bursa",
+          "vi": "Bursa",
+          "zh": "布尔萨省"
+        },
+        "population": 3280581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.798000000000002,
+          39.793499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-10",
+        "area": 3.4766060000000008,
+        "bounding_box": [
+          26.629,
+          39.05,
+          28.967,
+          40.537
+        ],
+        "point": [
+          27.798000000000002,
+          39.793499999999995
+        ],
+        "labels": {
+          "alt": "Balıkesir|Balikisri",
+          "local": null,
+          "len": 9,
+          "ar": "بالق أسير",
+          "bn": "বালিকেসির প্রদেশ",
+          "de": "Balıkesir",
+          "en": "Balıkesir Province",
+          "es": "Provincia de Balıkesir",
+          "fr": "Balıkesir",
+          "el": "Επαρχία Μπαλικεσίρ",
+          "hi": "बालिकेसिर प्रांत",
+          "hu": "Balıkesir",
+          "id": "Provinsi Balıkesir",
+          "it": "provincia di Balıkesir",
+          "ja": "バルケスィル県",
+          "ko": "발리케시르 주",
+          "nl": "Balıkesir",
+          "pl": "Balıkesir",
+          "pt": "Balıkesir",
+          "ru": "Балыкесир",
+          "sv": "Balıkesir",
+          "tr": "Balıkesir",
+          "vi": "Balıkesir",
+          "zh": "巴勒克埃西尔省"
+        },
+        "population": 1193575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.619999999999997,
+          40.62
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-10",
+        "area": 0.016167999999999624,
+        "bounding_box": [
+          27.526,
+          40.577,
+          27.714,
+          40.663
+        ],
+        "point": [
+          27.619999999999997,
+          40.62
+        ],
+        "labels": {
+          "alt": "Balıkesir|Balikisri",
+          "local": null,
+          "len": 9,
+          "ar": "بالق أسير",
+          "bn": "বালিকেসির প্রদেশ",
+          "de": "Balıkesir",
+          "en": "Balıkesir Province",
+          "es": "Provincia de Balıkesir",
+          "fr": "Balıkesir",
+          "el": "Επαρχία Μπαλικεσίρ",
+          "hi": "बालिकेसिर प्रांत",
+          "hu": "Balıkesir",
+          "id": "Provinsi Balıkesir",
+          "it": "provincia di Balıkesir",
+          "ja": "バルケスィル県",
+          "ko": "발리케시르 주",
+          "nl": "Balıkesir",
+          "pl": "Balıkesir",
+          "pt": "Balıkesir",
+          "ru": "Балыкесир",
+          "sv": "Balıkesir",
+          "tr": "Balıkesir",
+          "vi": "Balıkesir",
+          "zh": "巴勒克埃西尔省"
+        },
+        "population": 1193575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4135,
+          38.676
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-35",
+        "area": 3.620072000000002,
+        "bounding_box": [
+          26.265,
+          37.888,
+          28.562,
+          39.464
+        ],
+        "point": [
+          27.4135,
+          38.676
+        ],
+        "labels": {
+          "alt": "İzmir|Esmirna|Smirne|Smyrna",
+          "local": null,
+          "len": 5,
+          "ar": "إزمير",
+          "bn": "ইজমির প্রদেশ",
+          "de": "Izmir",
+          "en": "Izmir Province",
+          "es": "Provincia de Esmirna",
+          "fr": "Izmir",
+          "el": "Επαρχία Σμύρνης",
+          "hi": "इज़मिर प्रांत",
+          "hu": "İzmir",
+          "id": "Provinsi İzmir",
+          "it": "provincia di Smirne",
+          "ja": "イズミル県",
+          "ko": "이즈미르 주",
+          "nl": "İzmir",
+          "pl": "İzmir",
+          "pt": "Esmirna",
+          "ru": "Измир",
+          "sv": "İzmir",
+          "tr": "İzmir",
+          "vi": "İzmir",
+          "zh": "伊兹密尔省"
+        },
+        "population": 4237359
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9555,
+          37.729
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-09",
+        "area": 1.4243060000000087,
+        "bounding_box": [
+          27.011,
+          37.352,
+          28.9,
+          38.106
+        ],
+        "point": [
+          27.9555,
+          37.729
+        ],
+        "labels": {
+          "alt": "Aydın",
+          "local": null,
+          "len": 5,
+          "ar": "أيدين",
+          "bn": "আইডিন প্রদেশ",
+          "de": "Aydın",
+          "en": "Aydın Province",
+          "es": "Provincia de Aydin",
+          "fr": "Aydın",
+          "el": "Επαρχία Αϊδινίου",
+          "hi": "आयदीन प्रांत",
+          "hu": "Aydın",
+          "id": "Provinsi Aydın",
+          "it": "provincia di Aydın",
+          "ja": "アイドゥン県",
+          "ko": "아이딘 주",
+          "nl": "Aydın",
+          "pl": "Aydın",
+          "pt": "Aidim",
+          "ru": "Айдын",
+          "sv": "Aydın",
+          "tr": "Aydın",
+          "vi": "Aydın",
+          "zh": "艾登省"
+        },
+        "population": 1032946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.459,
+          36.9355
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-48",
+        "area": 3.156180000000004,
+        "bounding_box": [
+          27.229,
+          36.294,
+          29.689,
+          37.577
+        ],
+        "point": [
+          28.459,
+          36.9355
+        ],
+        "labels": {
+          "alt": "Muğla",
+          "local": null,
+          "len": 5,
+          "ar": "موغلا",
+          "bn": "মুগ্লা প্রদেশ",
+          "de": "Muğla",
+          "en": "Muğla Province",
+          "es": "Provincia de Muğla",
+          "fr": "Muğla",
+          "el": "Επαρχία Μούγλων",
+          "hi": "मुगला प्रांत",
+          "hu": "Muğla",
+          "id": "Provinsi Muğla",
+          "it": "provincia di Muğla",
+          "ja": "ムーラ県",
+          "ko": "물라 주",
+          "nl": "Muğla",
+          "pl": "Muğla",
+          "pt": "Muğla",
+          "ru": "Мугла",
+          "sv": "Muğla",
+          "tr": "Muğla",
+          "vi": "Muğla",
+          "zh": "穆拉省"
+        },
+        "population": 911630
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9565,
+          36.760999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-07",
+        "area": 4.5235939999999895,
+        "bounding_box": [
+          29.261,
+          36.094,
+          32.652,
+          37.428
+        ],
+        "point": [
+          30.9565,
+          36.760999999999996
+        ],
+        "labels": {
+          "alt": "Adalia|Anatolia",
+          "local": null,
+          "len": 7,
+          "ar": "أنطاليا",
+          "bn": "আন্তালিয়া প্রদেশ",
+          "de": "Antalya",
+          "en": "Antalya Province",
+          "es": "Provincia de Antalya",
+          "fr": "Antalya",
+          "el": "Επαρχία Αττάλειας",
+          "hi": "अंताल्या प्रांत",
+          "hu": "Antalya",
+          "id": "Provinsi Antalya",
+          "it": "provincia di Adalia",
+          "ja": "アンタルヤ県",
+          "ko": "안탈리아 주",
+          "nl": "Antalya",
+          "pl": "Antalya",
+          "pt": "Antália",
+          "ru": "Анталья",
+          "sv": "Antalya",
+          "tr": "Antalya",
+          "vi": "Antalya",
+          "zh": "安塔利亚省"
+        },
+        "population": 1978226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.827,
+          36.714
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-33",
+        "area": 3.448740000000003,
+        "bounding_box": [
+          32.572,
+          36.027,
+          35.082,
+          37.401
+        ],
+        "point": [
+          33.827,
+          36.714
+        ],
+        "labels": {
+          "alt": "İçel",
+          "local": null,
+          "len": 6,
+          "ar": "مرسين",
+          "bn": "মেরসিন প্রদেশ",
+          "de": "Mersin",
+          "en": "Mersin Province",
+          "es": "Provincia de Mersin",
+          "fr": "Mersin",
+          "el": "Επαρχία Μερσίν",
+          "hi": "मर्सिन प्रांत",
+          "hu": "Mersin",
+          "id": "Provinsi Mersin",
+          "it": "provincia di Mersin",
+          "ja": "メルスィン県",
+          "ko": "메르신 주",
+          "nl": "Mersin",
+          "pl": "Mersin",
+          "pt": "Mersin",
+          "ru": "Мерсин",
+          "sv": "Mersin",
+          "tr": "Mersin",
+          "vi": "Mersin",
+          "zh": "梅尔辛省"
+        },
+        "population": 1540739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.649,
+          37.5095
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-01",
+        "area": 3.309734000000005,
+        "bounding_box": [
+          34.792,
+          36.544,
+          36.506,
+          38.475
+        ],
+        "point": [
+          35.649,
+          37.5095
+        ],
+        "labels": {
+          "alt": "Seyhan",
+          "local": null,
+          "len": 5,
+          "ar": "أضنة",
+          "bn": "আদানা প্রদেশ",
+          "de": "Adana",
+          "en": "Adana Province",
+          "es": "Provincia de Adana",
+          "fr": "Adana",
+          "el": "Επαρχία Αδάνων",
+          "hi": "अडाना प्रांत",
+          "hu": "Adana",
+          "id": "Provinsi Adana",
+          "it": "provincia di Adana",
+          "ja": "アダナ県",
+          "ko": "아다나 주",
+          "nl": "Adana",
+          "pl": "Adana",
+          "pt": "Adana",
+          "ru": "Адана",
+          "sv": "Adana",
+          "tr": "Adana",
+          "vi": "Adana",
+          "zh": "阿达纳省"
+        },
+        "population": 1775930
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5635,
+          40.5925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-14",
+        "area": 1.7305750000000055,
+        "bounding_box": [
+          30.601,
+          40.143,
+          32.526,
+          41.042
+        ],
+        "point": [
+          31.5635,
+          40.5925
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "محافظة بولو",
+          "bn": "বলু প্রদেশ",
+          "de": "Bolu",
+          "en": "Bolu Province",
+          "es": "Provincia de Bolu",
+          "fr": "Bolu",
+          "el": "Επαρχία Μπολού",
+          "hi": "बोलू प्रांत",
+          "hu": "Bolu",
+          "id": "Provinsi Bolu",
+          "it": "provincia di Bolu",
+          "ja": "ボル県",
+          "ko": "볼루 주",
+          "nl": "Bolu",
+          "pl": "Bolu",
+          "pt": "Bolu",
+          "ru": "Болу",
+          "sv": "Bolu",
+          "tr": "Bolu",
+          "vi": "Bolu",
+          "zh": "博卢省"
+        },
+        "population": 288765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4005,
+          39.674499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-06",
+        "area": 6.333452999999993,
+        "bounding_box": [
+          30.864,
+          38.644,
+          33.937,
+          40.705
+        ],
+        "point": [
+          32.4005,
+          39.674499999999995
+        ],
+        "labels": {
+          "alt": "Ancara|Angora",
+          "local": null,
+          "len": 6,
+          "ar": "أنقرة",
+          "bn": "আঙ্কারা প্রদেশ",
+          "de": "Ankara",
+          "en": "Ankara Province",
+          "es": "Ankara",
+          "fr": "Ankara",
+          "el": "Επαρχία Άγκυρας",
+          "hi": null,
+          "hu": "Ankara",
+          "id": "Provinsi Ankara",
+          "it": "provincia di Ankara",
+          "ja": "アンカラ県",
+          "ko": "앙카라 주",
+          "nl": "Ankara",
+          "pl": "Ankara",
+          "pt": "Ancara",
+          "ru": "Анкара",
+          "sv": "Ankara",
+          "tr": "Ankara",
+          "vi": "Ankara",
+          "zh": "安卡拉省"
+        },
+        "population": 5954205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2025,
+          40.071
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-11",
+        "area": 0.9935980000000024,
+        "bounding_box": [
+          29.666,
+          39.608,
+          30.739,
+          40.534
+        ],
+        "point": [
+          30.2025,
+          40.071
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "بيله جك",
+          "bn": "বিলেচিক প্রদেশ",
+          "de": "Bilecik",
+          "en": "Bilecik Province",
+          "es": "Provincia de Bilecik",
+          "fr": "Bilecik",
+          "el": "Επαρχία Μπιλετσίκ",
+          "hi": "बिलेसिक प्रांत",
+          "hu": "Bilecik",
+          "id": "Provinsi Bilecik",
+          "it": "provincia di Bilecik",
+          "ja": "ビレジク県",
+          "ko": "빌레지크 주",
+          "nl": "Bilecik",
+          "pl": "Bilecik",
+          "pt": "Bilecik",
+          "ru": "Биледжик",
+          "sv": "Bilecik",
+          "tr": "Bilecik",
+          "vi": "Bilecik",
+          "zh": "比莱吉克省"
+        },
+        "population": 286178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0895,
+          39.6275
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-26",
+        "area": 2.0614669999999924,
+        "bounding_box": [
+          30.136,
+          39.087,
+          32.043,
+          40.168
+        ],
+        "point": [
+          31.0895,
+          39.6275
+        ],
+        "labels": {
+          "alt": "Eskişehir",
+          "local": null,
+          "len": 9,
+          "ar": "إسكي شهر",
+          "bn": "এস্কিসেহির প্রদেশ",
+          "de": "Eskişehir",
+          "en": "Eskişehir Province",
+          "es": "Provincia de Eskişehir",
+          "fr": "Eskişehir",
+          "el": "Επαρχία Εσκί Σεχίρ",
+          "hi": "एस्कीसेहिर प्रांत",
+          "hu": "Eskişehir",
+          "id": "Provinsi Eskişehir",
+          "it": "provincia di Eskişehir",
+          "ja": "エスキシェヒル県",
+          "ko": "에스키셰히르 주",
+          "nl": "Eskişehir",
+          "pl": "Eskişehir",
+          "pt": "Eskişehir",
+          "ru": "Эскишехир",
+          "sv": "Eskişehir",
+          "tr": "Eskişehir",
+          "vi": "Eskişehir",
+          "zh": "埃斯基谢希尔省"
+        },
+        "population": 778482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3285,
+          40.68
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-18",
+        "area": 1.3604040000000055,
+        "bounding_box": [
+          32.507,
+          40.266,
+          34.15,
+          41.094
+        ],
+        "point": [
+          33.3285,
+          40.68
+        ],
+        "labels": {
+          "alt": "Çankırı|Changra",
+          "local": null,
+          "len": 7,
+          "ar": "جانقري",
+          "bn": "ক্লেযান ক্যানকিরি প্রদেশ",
+          "de": "Çankırı",
+          "en": "Çankırı Province",
+          "es": "Provincia de Çankırı",
+          "fr": "Çankırı",
+          "el": "Επαρχία Τσανκιρί",
+          "hi": "कैंकीरी प्रांत",
+          "hu": "Çankırı",
+          "id": "Provinsi Çankırı",
+          "it": "provincia di Çankırı",
+          "ja": "チャンクル県",
+          "ko": "창키리 주",
+          "nl": "Çankırı",
+          "pl": "Çankırı",
+          "pt": "Çankırı",
+          "ru": "Чанкыры",
+          "sv": "Çankırı",
+          "tr": "Çankırı",
+          "vi": "Çankırı",
+          "zh": "昌克勒省"
+        },
+        "population": 132865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.632000000000005,
+          41.182500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-78",
+        "area": 0.7602419999999999,
+        "bounding_box": [
+          32.149,
+          40.789,
+          33.115,
+          41.576
+        ],
+        "point": [
+          32.632000000000005,
+          41.182500000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "كارابوك",
+          "bn": "কারাবুক প্রদেশ",
+          "de": "Karabük",
+          "en": "Karabük Province",
+          "es": "Provincia de Karabük",
+          "fr": "Karabük",
+          "el": "Επαρχία Καραμπούκ",
+          "hi": "कराबुक प्रांत",
+          "hu": "Karabük",
+          "id": "Provinsi Karabük",
+          "it": "provincia di Karabük",
+          "ja": "カラビュック県",
+          "ko": "카라뷔크 주",
+          "nl": "Karabük",
+          "pl": "Karabük",
+          "pt": "Karabük",
+          "ru": "Карабюк",
+          "sv": "Karabük",
+          "tr": "Karabük",
+          "vi": "Karabük",
+          "zh": "卡拉比克省"
+        },
+        "population": 244733
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5725,
+          40.415499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-60",
+        "area": 2.0888749999999936,
+        "bounding_box": [
+          35.51,
+          39.924,
+          37.635,
+          40.907
+        ],
+        "point": [
+          36.5725,
+          40.415499999999994
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "توقات",
+          "bn": "টোকাট প্রদেশ",
+          "de": "Tokat",
+          "en": "Tokat Province",
+          "es": "Provincia de Tokat",
+          "fr": "Tokat",
+          "el": "Επαρχία Τοκάτ",
+          "hi": "टोकैत प्रांत",
+          "hu": "Tokat",
+          "id": "Provinsi Tokat",
+          "it": "provincia di Tokat",
+          "ja": "トカト県",
+          "ko": "토카트 주",
+          "nl": "Tokat",
+          "pl": "Tokat",
+          "pt": "Tokat",
+          "ru": "Токат",
+          "sv": "Tokat",
+          "tr": "Tokat",
+          "vi": "Tokat",
+          "zh": "托卡特省"
+        },
+        "population": 500146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.291,
+          39.556
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-58",
+        "area": 5.695712,
+        "bounding_box": [
+          35.82,
+          38.588,
+          38.762,
+          40.524
+        ],
+        "point": [
+          37.291,
+          39.556
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "سيواس",
+          "bn": "সিভাস প্রদেশ",
+          "de": "Sivas",
+          "en": "Sivas Province",
+          "es": "Provincia de Sivas",
+          "fr": "Sivas",
+          "el": "Επαρχία Σεβάστειας",
+          "hi": "सिवास प्रांत",
+          "hu": "Sivas",
+          "id": "Provinsi Sivas",
+          "it": "provincia di Sivas",
+          "ja": "スィヴァス県",
+          "ko": "시바스 주",
+          "nl": "Sivas",
+          "pl": "Sivas",
+          "pt": "Sivas",
+          "ru": "Сивас",
+          "sv": "Sivas",
+          "tr": "Sivas",
+          "vi": "Sivas",
+          "zh": "錫瓦斯省"
+        },
+        "population": 600094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.711,
+          40.6095
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-19",
+        "area": 2.096081999999998,
+        "bounding_box": [
+          33.964,
+          39.908,
+          35.458,
+          41.311
+        ],
+        "point": [
+          34.711,
+          40.6095
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "جوروم",
+          "bn": null,
+          "de": "Çorum",
+          "en": "Çorum Province",
+          "es": "Provincia de Çorum",
+          "fr": "Çorum",
+          "el": "Επαρχία Τσορούμ",
+          "hi": null,
+          "hu": "Çorum",
+          "id": "Provinsi Çorum",
+          "it": "provincia di Çorum",
+          "ja": "チョルム県",
+          "ko": "초룸 주",
+          "nl": "Çorum",
+          "pl": "Çorum",
+          "pt": "Çorum",
+          "ru": "Чорум",
+          "sv": "Çorum",
+          "tr": "Çorum",
+          "vi": "Çorum",
+          "zh": "乔鲁姆省"
+        },
+        "population": 507201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7625,
+          40.638000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-05",
+        "area": 1.3137740000000055,
+        "bounding_box": [
+          35.031,
+          40.189,
+          36.494,
+          41.087
+        ],
+        "point": [
+          35.7625,
+          40.638000000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "أماصيا",
+          "bn": "আমাসিয়া প্রদেশ",
+          "de": "Amasya",
+          "en": "Amasya Province",
+          "es": "Provincia de Amasya",
+          "fr": "Amasya",
+          "el": "Επαρχία Αμάσειας",
+          "hi": "अमासिया प्रांत",
+          "hu": "Amasya",
+          "id": "Provinsi Amasya",
+          "it": "provincia di Amasya",
+          "ja": "アマスィヤ県",
+          "ko": "아마시아 주",
+          "nl": "Amasya",
+          "pl": "Amasya",
+          "pt": "Amasya",
+          "ru": "Амасья",
+          "sv": "Amasya",
+          "tr": "Amasya",
+          "vi": "Amasya",
+          "zh": "阿马西亚省"
+        },
+        "population": 319777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5505,
+          39.315
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-43",
+        "area": 2.1681280000000034,
+        "bounding_box": [
+          28.659,
+          38.707,
+          30.442,
+          39.923
+        ],
+        "point": [
+          29.5505,
+          39.315
+        ],
+        "labels": {
+          "alt": "Kütanya",
+          "local": null,
+          "len": 7,
+          "ar": "كوتاهية",
+          "bn": "কুটাহিয়া প্রদেশ",
+          "de": "Kütahya",
+          "en": "Kütahya Province",
+          "es": "Provincia de Kütahya",
+          "fr": "Kütahya",
+          "el": "Επαρχία Κιουτάχειας",
+          "hi": "कुताह्या प्रांत",
+          "hu": "Kütahya",
+          "id": "Provinsi Kütahya",
+          "it": "provincia di Kütahya",
+          "ja": "キュタヒヤ県",
+          "ko": "퀴타히아 주",
+          "nl": "Kütahya",
+          "pl": "Kütahya",
+          "pt": "Kütahya",
+          "ru": "Кютахья",
+          "sv": "Kütahya",
+          "tr": "Kütahya",
+          "vi": "Kütahya",
+          "zh": "屈塔希亚省"
+        },
+        "population": 573442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.883,
+          37.947500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-42",
+        "area": 8.304641999999996,
+        "bounding_box": [
+          31.254,
+          36.673,
+          34.512,
+          39.222
+        ],
+        "point": [
+          32.883,
+          37.947500000000005
+        ],
+        "labels": {
+          "alt": "Konieh|Kunja",
+          "local": null,
+          "len": 5,
+          "ar": "قونية",
+          "bn": "কন্যা প্রদেশ",
+          "de": "Konya",
+          "en": "Konya Province",
+          "es": "Provincia de Konya",
+          "fr": "Konya",
+          "el": "Επαρχία Ικονίου",
+          "hi": "कोन्या प्रांत",
+          "hu": "Konya",
+          "id": "Provinsi Konya",
+          "it": "provincia di Konya",
+          "ja": "コンヤ県",
+          "ko": "코니아 주",
+          "nl": "Konya",
+          "pl": "Konya",
+          "pt": "Konya",
+          "ru": "Конья",
+          "sv": "Konya",
+          "tr": "Konya",
+          "vi": "Konya",
+          "zh": "科尼亚省"
+        },
+        "population": 2126090
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3025,
+          37.04
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-70",
+        "area": 2.055301999999995,
+        "bounding_box": [
+          32.456,
+          36.433,
+          34.149,
+          37.647
+        ],
+        "point": [
+          33.3025,
+          37.04
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "كارامان",
+          "bn": "ক্যারাম্যান প্রদেশ",
+          "de": "Karaman",
+          "en": "Karaman Province",
+          "es": "Provincia de Karaman",
+          "fr": "Karaman",
+          "el": "Επαρχία Καραμάν",
+          "hi": "कारमन जिला",
+          "hu": "Karaman",
+          "id": "Provinsi Karaman",
+          "it": "provincia di Karaman",
+          "ja": "カラマン県",
+          "ko": "카라만 주",
+          "nl": "Karaman",
+          "pl": "Karaman",
+          "pt": "Karaman",
+          "ru": "Караман",
+          "sv": "Karaman",
+          "tr": "Karaman",
+          "vi": "Karaman",
+          "zh": "卡拉曼省"
+        },
+        "population": 236989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7095,
+          37.878
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-51",
+        "area": 1.1561480000000113,
+        "bounding_box": [
+          34.16,
+          37.352,
+          35.259,
+          38.404
+        ],
+        "point": [
+          34.7095,
+          37.878
+        ],
+        "labels": {
+          "alt": "Niğde",
+          "local": null,
+          "len": 5,
+          "ar": "نيدا",
+          "bn": "নিগদে প্রদেশ",
+          "de": "Niğde",
+          "en": "Niğde Province",
+          "es": "Provincia de Niğde",
+          "fr": "Niğde",
+          "el": "Επαρχία Νίγδης",
+          "hi": "निगडे प्रांत",
+          "hu": "Niğde",
+          "id": "Provinsi Niğde",
+          "it": "provincia di Niğde",
+          "ja": "ニーデ県",
+          "ko": "니데 주",
+          "nl": "Niğde",
+          "pl": "Niğde",
+          "pt": "Niğde",
+          "ru": "Нигде",
+          "sv": "Niğde",
+          "tr": "Niğde",
+          "vi": "Niğde",
+          "zh": "尼代省"
+        },
+        "population": 328500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9255,
+          38.542
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-38",
+        "area": 3.2012640000000077,
+        "bounding_box": [
+          34.915,
+          37.75,
+          36.936,
+          39.334
+        ],
+        "point": [
+          35.9255,
+          38.542
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "قيصرية",
+          "bn": "কিয়েসির প্রদেশ",
+          "de": "Kayseri",
+          "en": "Kayseri Province",
+          "es": "Provincia de Kayseri",
+          "fr": "Kayseri",
+          "el": "Επαρχία Καισάρειας",
+          "hi": "केसेरी प्रांत",
+          "hu": "Kayseri",
+          "id": "Provinsi Kayseri",
+          "it": "provincia di Kayseri",
+          "ja": "カイセリ県",
+          "ko": "카이세리 주",
+          "nl": "Kayseri",
+          "pl": "Kayseri",
+          "pt": "Kayseri",
+          "ru": "Кайсери",
+          "sv": "Kayseri",
+          "tr": "Kayseri",
+          "vi": "Kayseri",
+          "zh": "开塞利省"
+        },
+        "population": 1570558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.817999999999998,
+          37.933
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-32",
+        "area": 1.8693840000000002,
+        "bounding_box": [
+          30.015,
+          37.351,
+          31.621,
+          38.515
+        ],
+        "point": [
+          30.817999999999998,
+          37.933
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إسبرطة",
+          "bn": "ইস্পার্টা প্রদেশ",
+          "de": "Isparta",
+          "en": "Isparta Province",
+          "es": "Provincia de Isparta",
+          "fr": "Isparta",
+          "el": "Επαρχία Ισπάρτα",
+          "hi": "इस्पार्टा प्रांत",
+          "hu": "Isparta",
+          "id": "Provinsi Isparta",
+          "it": "provincia di Isparta",
+          "ja": "ウスパルタ県",
+          "ko": "이스파르타 주",
+          "nl": "Isparta",
+          "pl": "Isparta",
+          "pt": "Isparta",
+          "ru": "Ыспарта",
+          "sv": "Isparta",
+          "tr": "Isparta",
+          "vi": "Isparta",
+          "zh": "伊斯帕尔塔省"
+        },
+        "population": 476398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.132,
+          38.7575
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-45",
+        "area": 2.363056000000004,
+        "bounding_box": [
+          27.228,
+          38.104,
+          29.036,
+          39.411
+        ],
+        "point": [
+          28.132,
+          38.7575
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مانيسا",
+          "bn": "মানিশা প্রদেশ",
+          "de": "Manisa",
+          "en": "Manisa Province",
+          "es": "Provincia de Manisa",
+          "fr": "Manisa",
+          "el": "Επαρχία Μανίσας",
+          "hi": "मनीसा प्रांत",
+          "hu": "Manisa",
+          "id": "Provinsi Manisa",
+          "it": "provincia di Manisa",
+          "ja": "マニサ県",
+          "ko": "마니사 주",
+          "nl": "Manisa",
+          "pl": "Manisa",
+          "pt": "Manisa",
+          "ru": "Маниса",
+          "sv": "Manisa",
+          "tr": "Manisa",
+          "vi": "Manisa",
+          "zh": "马尼萨省"
+        },
+        "population": 1478677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.302,
+          37.681
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-20",
+        "area": 2.273164000000008,
+        "bounding_box": [
+          28.563,
+          36.912,
+          30.041,
+          38.45
+        ],
+        "point": [
+          29.302,
+          37.681
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "دنيزلي",
+          "bn": "দানিজি প্রদেশ",
+          "de": "Denizli",
+          "en": "Denizli Province",
+          "es": "Provincia de Denizli",
+          "fr": "Denizli",
+          "el": "Επαρχία Ντενιζλί",
+          "hi": "देनिज्ली प्रांत",
+          "hu": "Denizli",
+          "id": "Provinsi Denizli",
+          "it": "provincia di Denizli",
+          "ja": "デニズリ県",
+          "ko": "데니즐리 주",
+          "nl": "Denizli",
+          "pl": "Denizli",
+          "pt": "Denizli",
+          "ru": "Денизли",
+          "sv": "Denizli",
+          "tr": "Denizli",
+          "vi": "Denizli",
+          "zh": "代尼兹利省"
+        },
+        "population": 1079353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1625,
+          37.379999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-15",
+        "area": 1.4399399999999907,
+        "bounding_box": [
+          29.39,
+          36.914,
+          30.935,
+          37.846
+        ],
+        "point": [
+          30.1625,
+          37.379999999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "بوردور",
+          "bn": "বুরদূর প্রদেশ",
+          "de": "Burdur",
+          "en": "Burdur Province",
+          "es": "Provincia de Burdur",
+          "fr": "Burdur",
+          "el": "Επαρχία Μπουρντούρ",
+          "hi": "बुर्दूर प्रांत",
+          "hu": "Burdur",
+          "id": "Provinsi Burdur",
+          "it": "provincia di Burdur",
+          "ja": "ブルドゥル県",
+          "ko": "부르두르 주",
+          "nl": "Burdur",
+          "pl": "Burdur",
+          "pt": "Burdur",
+          "ru": "Бурдур",
+          "sv": "Burdur",
+          "tr": "Burdur",
+          "vi": "Burdur",
+          "zh": "布尔杜尔省"
+        },
+        "population": 266644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8775,
+          38.467
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-68",
+        "area": 1.308299999999999,
+        "bounding_box": [
+          33.265,
+          37.933,
+          34.49,
+          39.001
+        ],
+        "point": [
+          33.8775,
+          38.467
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "آق سراي",
+          "bn": "আকসার প্রদেশ",
+          "de": "Aksaray",
+          "en": "Aksaray Province",
+          "es": "Provincia de Aksaray",
+          "fr": "Aksaray",
+          "el": "Επαρχία Ακσαράι",
+          "hi": "अकसरय प्रांत",
+          "hu": "Aksaray",
+          "id": "Provinsi Aksaray",
+          "it": "provincia di Aksaray",
+          "ja": "アクサライ県",
+          "ko": "악사라이 주",
+          "nl": "Aksaray",
+          "pl": "Aksaray",
+          "pt": "Aksaray",
+          "ru": "Аксарай",
+          "sv": "Aksaray",
+          "tr": "Aksaray",
+          "vi": "Aksaray",
+          "zh": "阿克萨赖省"
+        },
+        "population": 380326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6385,
+          38.876000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-50",
+        "area": 0.9134399999999985,
+        "bounding_box": [
+          34.206,
+          38.348,
+          35.071,
+          39.404
+        ],
+        "point": [
+          34.6385,
+          38.876000000000005
+        ],
+        "labels": {
+          "alt": "Nevşehir",
+          "local": null,
+          "len": 8,
+          "ar": "نوشهر",
+          "bn": "নেভসেহির প্রদেশ",
+          "de": "Nevşehir",
+          "en": "Nevşehir Province",
+          "es": "Provincia de Nevşehir",
+          "fr": "Nevşehir",
+          "el": "Επαρχία Νεβσεχίρ",
+          "hi": "नेविसिर प्रांत",
+          "hu": "Nevşehir",
+          "id": "Provinsi Nevşehir",
+          "it": "provincia di Nevşehir",
+          "ja": "ネヴシェヒル県",
+          "ko": "네브셰히르 주",
+          "nl": "Nevşehir",
+          "pl": "Nevşehir",
+          "pt": "Nevşehir",
+          "ru": "Невшехир",
+          "sv": "Nevşehir",
+          "tr": "Nevşehir",
+          "vi": "Nevşehir",
+          "zh": "内夫谢希尔省"
+        },
+        "population": 275861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.132999999999996,
+          39.6235
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-66",
+        "area": 2.6373600000000126,
+        "bounding_box": [
+          34.053,
+          39.013,
+          36.213,
+          40.234
+        ],
+        "point": [
+          35.132999999999996,
+          39.6235
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "يوزغات",
+          "bn": "ইয়জগাট প্রদেশ",
+          "de": "Yozgat",
+          "en": "Yozgat Province",
+          "es": "Provincia de Yozgat",
+          "fr": "Yozgat",
+          "el": "Επαρχία Γιοζγκάτ",
+          "hi": "योज़्गट प्रांत",
+          "hu": "Yozgat",
+          "id": "Provinsi Yozgat",
+          "it": "provincia di Yozgat",
+          "ja": "ヨズガト県",
+          "ko": "요즈가트 주",
+          "nl": "Yozgat",
+          "pl": "Yozgat",
+          "pt": "Yozgat",
+          "ru": "Йозгат",
+          "sv": "Yozgat",
+          "tr": "Yozgat",
+          "vi": "Yozgat",
+          "zh": "约兹加特省"
+        },
+        "population": 357777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1305,
+          39.3395
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-40",
+        "area": 1.1802489999999997,
+        "bounding_box": [
+          33.524,
+          38.853,
+          34.737,
+          39.826
+        ],
+        "point": [
+          34.1305,
+          39.3395
+        ],
+        "labels": {
+          "alt": "Kırşehir",
+          "local": null,
+          "len": 8,
+          "ar": "قرشهر",
+          "bn": "কিরিসিয়ার প্রদেশ",
+          "de": "Kırşehir",
+          "en": "Kırşehir Province",
+          "es": "Provincia de Kırşehir",
+          "fr": "Kırşehir",
+          "el": "Επαρχία Κιρσεχίρ",
+          "hi": "किरिसहिर प्रांत",
+          "hu": "Kırşehir",
+          "id": "Provinsi Kırşehir",
+          "it": "provincia di Kırşehir",
+          "ja": "クルシェヒル県",
+          "ko": "키르셰히르 주",
+          "nl": "Kırşehir",
+          "pl": "Kırşehir",
+          "pt": "Kırşehir",
+          "ru": "Кыршехир",
+          "sv": "Kırşehir",
+          "tr": "Kırşehir",
+          "vi": "Kırşehir",
+          "zh": "克尔谢希尔省"
+        },
+        "population": 191407
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.363500000000002,
+          38.549
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-64",
+        "area": 0.7062719999999958,
+        "bounding_box": [
+          28.838,
+          38.213,
+          29.889,
+          38.885
+        ],
+        "point": [
+          29.363500000000002,
+          38.549
+        ],
+        "labels": {
+          "alt": "Uşak",
+          "local": null,
+          "len": 4,
+          "ar": "أوشاك",
+          "bn": "উসাক প্রদেশ",
+          "de": "Uşak",
+          "en": "Uşak Province",
+          "es": "Provincia de Uşak",
+          "fr": "Uşak",
+          "el": "Επαρχία Ουσάκ",
+          "hi": "उसाक प्रांत",
+          "hu": "Uşak",
+          "id": "Provinsi Uşak",
+          "it": "provincia di Uşak",
+          "ja": "ウシャク県",
+          "ko": "우샤크 주",
+          "nl": "Uşak",
+          "pl": "Uşak",
+          "pt": "Uşak",
+          "ru": "Ушак",
+          "sv": "Uşak",
+          "tr": "Uşak",
+          "vi": "Uşak",
+          "zh": "乌沙克省"
+        },
+        "population": 359360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.518,
+          39.548
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-24",
+        "area": 2.4401999999999915,
+        "bounding_box": [
+          38.356,
+          39.023,
+          40.68,
+          40.073
+        ],
+        "point": [
+          39.518,
+          39.548
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "أرزنجان",
+          "bn": "এরজিঙ্কান প্রদেশ",
+          "de": "Erzincan",
+          "en": "Erzincan Province",
+          "es": "Provincia de Erzincan",
+          "fr": "Erzincan",
+          "el": "Ερζινκάν",
+          "hi": "अर्ज़िनकैन प्रांत",
+          "hu": "Erzincan",
+          "id": "Provinsi Erzincan",
+          "it": "provincia di Erzincan",
+          "ja": "エルズィンジャン県",
+          "ko": "에르진잔 주",
+          "nl": "Erzincan",
+          "pl": "Erzincan",
+          "pt": "Erzincan",
+          "ru": "Эрзинджан",
+          "sv": "Erzincan",
+          "tr": "Erzincan",
+          "vi": "Erzincan",
+          "zh": "埃尔津詹省"
+        },
+        "population": 174352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6375,
+          39.173
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-62",
+        "area": 1.5047000000000013,
+        "bounding_box": [
+          38.72,
+          38.763,
+          40.555,
+          39.583
+        ],
+        "point": [
+          39.6375,
+          39.173
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "تونجيلي",
+          "bn": "টুনসেলি প্রদেশ",
+          "de": "Tunceli",
+          "en": "Tunceli Province",
+          "es": "Provincia de Tunceli",
+          "fr": "Tunceli",
+          "el": "Τούνκελι",
+          "hi": "ट्यूनसेली प्रांत",
+          "hu": "Tunceli",
+          "id": "Provinsi Tunceli",
+          "it": "provincia di Tunceli",
+          "ja": "トゥンジェリ県",
+          "ko": "툰젤리 주",
+          "nl": "Tunceli",
+          "pl": "Tunceli",
+          "pt": "Tunceli",
+          "ru": "Тунджели",
+          "sv": "Tunceli",
+          "tr": "Tunceli",
+          "vi": "Tunceli",
+          "zh": "通杰利省"
+        },
+        "population": 64944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.694000000000003,
+          38.5205
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-03",
+        "area": 3.13737999999999,
+        "bounding_box": [
+          29.664,
+          37.759,
+          31.724,
+          39.282
+        ],
+        "point": [
+          30.694000000000003,
+          38.5205
+        ],
+        "labels": {
+          "alt": "Afyon",
+          "local": null,
+          "len": 14,
+          "ar": "أفيون قره حصار",
+          "bn": "আফিয়নকারাহিসার প্রদেশ",
+          "de": "Afyonkarahisar",
+          "en": "Afyonkarahisar Province",
+          "es": "Provincia de Afyonkarahisar",
+          "fr": "Afyonkarahisar",
+          "el": "Επαρχία Αφιόν Καραχισάρ",
+          "hi": "एफ्योंकराहिसर प्रांत",
+          "hu": "Afyonkarahisar",
+          "id": "Provinsi Afyonkarahisar",
+          "it": "provincia di Afyonkarahisar",
+          "ja": "アフィヨンカラヒサール県",
+          "ko": "아피온카라히사르 주",
+          "nl": "Afyonkarahisar",
+          "pl": "Afyonkarahisar",
+          "pt": "Afyonkarahisar",
+          "ru": "ил Афьонкарахисар",
+          "sv": "Afyonkarahisar",
+          "tr": "Afyonkarahisar",
+          "vi": "Afyonkarahisar",
+          "zh": "阿菲永卡拉希萨尔省"
+        },
+        "population": 649355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.685500000000005,
+          39.8035
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-71",
+        "area": 0.8852249999999957,
+        "bounding_box": [
+          33.273,
+          39.267,
+          34.098,
+          40.34
+        ],
+        "point": [
+          33.685500000000005,
+          39.8035
+        ],
+        "labels": {
+          "alt": "Kırıkkale",
+          "local": null,
+          "len": 8,
+          "ar": "قيريقكالي",
+          "bn": "কিরিক্কাল প্রদেশ",
+          "de": "Kırıkkale",
+          "en": "Kırıkkale Province",
+          "es": "Provincia de Kırıkkale",
+          "fr": "Kırıkkale",
+          "el": "Επαρχία Κιρίκαλε",
+          "hi": "किरिककैले प्रांत",
+          "hu": "Kırıkkale",
+          "id": "Provinsi Kırıkkale",
+          "it": "provincia di Kırıkkale",
+          "ja": "クルッカレ県",
+          "ko": "키리칼레 주",
+          "nl": "Kırıkkale",
+          "pl": "Kırıkkale",
+          "pt": "Kırıkkale",
+          "ru": "ил Кырыккале",
+          "sv": "Kırıkkale",
+          "tr": "Kırıkkale",
+          "vi": "Kırıkkale",
+          "zh": "克勒克卡莱省"
+        },
+        "population": 248317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.001,
+          37.929
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-46",
+        "area": 2.1743040000000016,
+        "bounding_box": [
+          36.22,
+          37.233,
+          37.782,
+          38.625
+        ],
+        "point": [
+          37.001,
+          37.929
+        ],
+        "labels": {
+          "alt": "Kahramanmaraş",
+          "local": null,
+          "len": 8,
+          "ar": "قهرمان مرعش",
+          "bn": "কাহ্রামমানমারাস প্রদেশ",
+          "de": "Kahramanmaraş",
+          "en": "Kahramanmaraş Province",
+          "es": "Provincia de Kahramanmaraş",
+          "fr": "Kahramanmaraş",
+          "el": "Επαρχία Καχραμανμαράς",
+          "hi": "कहारामनमारास प्रांत",
+          "hu": "Kahramanmaraş",
+          "id": "Provinsi Kahramanmaraş",
+          "it": "provincia di Kahramanmaraş",
+          "ja": "カフラマンマラシュ県",
+          "ko": "카라만마라슈 주",
+          "nl": "Kahramanmaraş",
+          "pl": "Kahramanmaraş",
+          "pt": "Kahramanmaraş",
+          "ru": "Кахраманмараш",
+          "sv": "Kahramanmaraş",
+          "tr": "Kahramanmaraş",
+          "vi": "Kahramanmaraş",
+          "zh": "卡赫拉曼马拉什省"
+        },
+        "population": 1103727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.903000000000006,
+          39.013
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-49",
+        "area": 1.412968000000006,
+        "bounding_box": [
+          41.164,
+          38.535,
+          42.642,
+          39.491
+        ],
+        "point": [
+          41.903000000000006,
+          39.013
+        ],
+        "labels": {
+          "alt": "Muş",
+          "local": null,
+          "len": 3,
+          "ar": "موش",
+          "bn": "মোস প্রদেশ",
+          "de": "Muş",
+          "en": "Muş Province",
+          "es": "Provincia de Muş",
+          "fr": "Muş",
+          "el": "Μους",
+          "hi": "मूस प्रांत",
+          "hu": "Muş",
+          "id": "Provinsi Muş",
+          "it": "provincia di Muş",
+          "ja": "ムシュ県",
+          "ko": "무슈 주",
+          "nl": "Muş",
+          "pl": "Muş",
+          "pt": "Muş",
+          "ru": "Муш",
+          "sv": "Muş",
+          "tr": "Muş",
+          "vi": "Muş",
+          "zh": "穆什省"
+        },
+        "population": 358655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.403,
+          40.047
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-25",
+        "area": 4.077432000000005,
+        "bounding_box": [
+          40.242,
+          39.169,
+          42.564,
+          40.925
+        ],
+        "point": [
+          41.403,
+          40.047
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "أرضروم",
+          "bn": "এরজুরাম প্রদেশ",
+          "de": "Erzurum",
+          "en": "Erzurum Province",
+          "es": "Provincia de Erzurum",
+          "fr": "Erzurum",
+          "el": "Ερζουρούμ",
+          "hi": "एर्ज़ुरुम प्रांत",
+          "hu": "Erzurum",
+          "id": "Provinsi Erzurum",
+          "it": "provincia di Erzurum",
+          "ja": "エルズルム県",
+          "ko": "에르주룸 주",
+          "nl": "Erzurum",
+          "pl": "Erzurum",
+          "pt": "Erzurum",
+          "ru": "Эрзурум",
+          "sv": "Erzurum",
+          "tr": "Erzurum",
+          "vi": "Erzurum",
+          "zh": "埃尔祖鲁姆省"
+        },
+        "population": 610508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1875,
+          38.485
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-44",
+        "area": 2.557589999999999,
+        "bounding_box": [
+          37.226,
+          37.82,
+          39.149,
+          39.15
+        ],
+        "point": [
+          38.1875,
+          38.485
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "ملطية",
+          "bn": "মালাটিয়া প্রদেশ",
+          "de": "Malatya",
+          "en": "Malatya Province",
+          "es": "Provincia de Malatya",
+          "fr": "Malatya",
+          "el": "Επαρχία Μαλάτειας",
+          "hi": "मालात्या प्रांत",
+          "hu": "Malatya",
+          "id": "Provinsi Malatya",
+          "it": "provincia di Malatya",
+          "ja": "マラティヤ県",
+          "ko": "말라티아 주",
+          "nl": "Malatya",
+          "pl": "Malatya",
+          "pt": "Malatya",
+          "ru": "Малатья",
+          "sv": "Malatya",
+          "tr": "Malatya",
+          "vi": "Malatya",
+          "zh": "马拉蒂亚省"
+        },
+        "population": 680728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3705,
+          38.7775
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-23",
+        "area": 1.8448290000000032,
+        "bounding_box": [
+          38.349,
+          38.326,
+          40.392,
+          39.229
+        ],
+        "point": [
+          39.3705,
+          38.7775
+        ],
+        "labels": {
+          "alt": "Elazığ",
+          "local": null,
+          "len": 6,
+          "ar": "إيلازيغ",
+          "bn": "এলাজিগ প্রদেশ",
+          "de": "Elazığ",
+          "en": "Elazığ Province",
+          "es": "Provincia de Elazığ",
+          "fr": "Elâzığ",
+          "el": "Επαρχία Ελαζίγκ",
+          "hi": "एलाज़िग",
+          "hu": "Elazığ",
+          "id": "Provinsi Elâzığ",
+          "it": "provincia di Elâzığ",
+          "ja": "エラズー県",
+          "ko": "엘라지 주",
+          "nl": "Elazığ",
+          "pl": "Elazığ",
+          "pt": "Elazığ",
+          "ru": "Элязыг",
+          "sv": "Elazığ",
+          "tr": "Elâzığ",
+          "vi": "Elâzığ",
+          "zh": "埃拉泽省"
+        },
+        "population": 561439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.346000000000004,
+          38.524
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-13",
+        "area": 1.8907999999999974,
+        "bounding_box": [
+          41.531,
+          37.944,
+          43.161,
+          39.104
+        ],
+        "point": [
+          42.346000000000004,
+          38.524
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "بدليس",
+          "bn": "বিতলিস প্রদেশ",
+          "de": "Bitlis",
+          "en": "Bitlis Province",
+          "es": "Provincia de Bitlis",
+          "fr": "Bitlis",
+          "el": "Μπίτλις",
+          "hi": "बिटलिस प्रांत",
+          "hu": "Bitlis",
+          "id": "Provinsi Bitlis",
+          "it": "provincia di Bitlis",
+          "ja": "ビトリス県",
+          "ko": "비틀리스 주",
+          "nl": "Bitlis",
+          "pl": "Bitlis",
+          "pt": "Bitlis",
+          "ru": "Битлис",
+          "sv": "Bitlis",
+          "tr": "Bitlis",
+          "vi": "Bitlis",
+          "zh": "比特利斯省"
+        },
+        "population": 299542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.6425,
+          39.0295
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-12",
+        "area": 1.3842650000000047,
+        "bounding_box": [
+          40.015,
+          38.478,
+          41.27,
+          39.581
+        ],
+        "point": [
+          40.6425,
+          39.0295
+        ],
+        "labels": {
+          "alt": "Çapakçur",
+          "local": null,
+          "len": 6,
+          "ar": "بينكل",
+          "bn": "বিঙ্গল প্রদেশ",
+          "de": "Bingöl",
+          "en": "Bingöl Province",
+          "es": "Provincia de Bingöl",
+          "fr": "Bingöl",
+          "el": "Μπινγκόλ",
+          "hi": "बिंगोल प्रांत",
+          "hu": "Bingöl",
+          "id": "Provinsi Bingöl",
+          "it": "provincia di Bingöl",
+          "ja": "ビンギョル県",
+          "ko": "빙괼 주",
+          "nl": "Bingöl",
+          "pl": "Bingöl",
+          "pt": "Bingöl",
+          "ru": "Бингёль",
+          "sv": "Bingöl",
+          "tr": "Bingöl",
+          "vi": "Bingöl",
+          "zh": "宾格尔省"
+        },
+        "population": 262675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3305,
+          37.313
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-80",
+        "area": 0.5560719999999961,
+        "bounding_box": [
+          35.94,
+          36.957,
+          36.721,
+          37.669
+        ],
+        "point": [
+          36.3305,
+          37.313
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "عثمانية",
+          "bn": "ওমানিয়ে প্রদেশ",
+          "de": "Osmaniye",
+          "en": "Osmaniye Province",
+          "es": "Provincia de Osmaniye",
+          "fr": "Osmaniye",
+          "el": "Επαρχία Οσμανίγιε",
+          "hi": "उस्मानिये प्रांत",
+          "hu": "Osmaniye",
+          "id": "Provinsi Osmaniye",
+          "it": "provincia di Osmaniye",
+          "ja": "オスマニエ県",
+          "ko": "오스마니예 주",
+          "nl": "Osmaniye",
+          "pl": "Osmaniye",
+          "pt": "Osmaniye",
+          "ru": "Османие",
+          "sv": "Osmaniye",
+          "tr": "Osmaniye",
+          "vi": "Osmaniye",
+          "zh": "奧斯曼尼耶省"
+        },
+        "population": 505595
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.339,
+          37.826
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-02",
+        "area": 1.4745360000000063,
+        "bounding_box": [
+          37.422,
+          37.424,
+          39.256,
+          38.228
+        ],
+        "point": [
+          38.339,
+          37.826
+        ],
+        "labels": {
+          "alt": "Adıyaman",
+          "local": null,
+          "len": 8,
+          "ar": "أديامان",
+          "bn": "আদিয়ামান প্রদেশ",
+          "de": "Adıyaman",
+          "en": "Adıyaman Province",
+          "es": "Provincia de Adıyaman",
+          "fr": "Adıyaman",
+          "el": "Επαρχία Αντιγιαμάν",
+          "hi": null,
+          "hu": "Adıyaman",
+          "id": "Provinsi Adıyaman",
+          "it": "provincia di Adıyaman",
+          "ja": "アドゥヤマン県",
+          "ko": "아디야만 주",
+          "nl": "Adıyaman",
+          "pl": "Adıyaman",
+          "pt": "Adıyaman",
+          "ru": "Адыяман",
+          "sv": "Adıyaman",
+          "tr": "Adıyaman",
+          "vi": "Adıyaman",
+          "zh": "阿德亚曼省"
+        },
+        "population": 563351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2705,
+          38.0575
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-21",
+        "area": 3.1498929999999987,
+        "bounding_box": [
+          39.115,
+          37.376,
+          41.426,
+          38.739
+        ],
+        "point": [
+          40.2705,
+          38.0575
+        ],
+        "labels": {
+          "alt": "Diyarbakır",
+          "local": null,
+          "len": 10,
+          "ar": "دياربكر",
+          "bn": "দিয়ারবাকির প্রদেশ",
+          "de": "Diyarbakır",
+          "en": "Diyarbakır Province",
+          "es": "Provincia de Diyarbakır",
+          "fr": "Diyarbakır",
+          "el": "Επαρχία Ντιγιαρμπακίρ",
+          "hi": "दियेर्बाकीर प्रांत",
+          "hu": "Diyarbakır",
+          "id": "Provinsi Diyarbakır",
+          "it": "provincia di Diyarbakır",
+          "ja": "ディヤルバクル県",
+          "ko": "디야르바키르 주",
+          "nl": "Diyarbakır",
+          "pl": "Diyarbakır",
+          "pt": "Diyarbakır",
+          "ru": "Диярбакыр",
+          "sv": "Diyarbakır",
+          "tr": "Diyarbakır",
+          "vi": "Diyarbakır",
+          "zh": "迪亚巴克尔省"
+        },
+        "population": 1654699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.426,
+          38.036500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-72",
+        "area": 0.8093700000000066,
+        "bounding_box": [
+          41.035,
+          37.519,
+          41.817,
+          38.554
+        ],
+        "point": [
+          41.426,
+          38.036500000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "بطمان",
+          "bn": "ব্যাটম্যান প্রদেশ",
+          "de": "Batman",
+          "en": "Batman Province",
+          "es": "Provincia de Batman",
+          "fr": "Batman",
+          "el": "Επαρχία Μπατμάν",
+          "hi": "बतमान",
+          "hu": "Batman",
+          "id": "Provinsi Batman",
+          "it": "provincia di Batman",
+          "ja": "バトマン県",
+          "ko": "바트만 주",
+          "nl": "Batman",
+          "pl": "Batman",
+          "pt": "Batman",
+          "ru": "ил Батман",
+          "sv": "Batman",
+          "tr": "Batman",
+          "vi": "Batman",
+          "zh": "巴特曼省"
+        },
+        "population": 593819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.221000000000004,
+          37.9265
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-56",
+        "area": 0.9712160000000026,
+        "bounding_box": [
+          41.413,
+          37.626,
+          43.029,
+          38.227
+        ],
+        "point": [
+          42.221000000000004,
+          37.9265
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "سعرد",
+          "bn": "সাঁর্ত প্রদেশ",
+          "de": "Siirt",
+          "en": "Siirt Province",
+          "es": "Provincia de Siirt",
+          "fr": "Siirt",
+          "el": "Επαρχία Σιίρτ",
+          "hi": "सिर्ट प्रांत",
+          "hu": "Siirt",
+          "id": "Provinsi Siirt",
+          "it": "provincia di Siirt",
+          "ja": "スィイルト県",
+          "ko": "시이르트 주",
+          "nl": "Siirt",
+          "pl": "Siirt",
+          "pt": "Siirt",
+          "ru": "Сиирт",
+          "sv": "Siirt",
+          "tr": "Siirt",
+          "vi": "Siirt",
+          "zh": "锡尔特省"
+        },
+        "population": 368596
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.305499999999995,
+          40.309
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-69",
+        "area": 0.5815319999999993,
+        "bounding_box": [
+          39.811,
+          40.015,
+          40.8,
+          40.603
+        ],
+        "point": [
+          40.305499999999995,
+          40.309
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "بايبورت",
+          "bn": "বেবোর্ট প্রদেশ",
+          "de": "Bayburt",
+          "en": "Bayburt Province",
+          "es": "Provincia de Bayburt",
+          "fr": "Bayburt",
+          "el": "Επαρχία Μπαϊμπούρτ",
+          "hi": "बेबर्ट प्रांत",
+          "hu": "Bayburt",
+          "id": "Provinsi Bayburt",
+          "it": "provincia di Bayburt",
+          "ja": "バイブルト県",
+          "ko": "바이부르트 주",
+          "nl": "Bayburt",
+          "pl": "Bayburt",
+          "pt": "Bayburt",
+          "ru": "Байбурт",
+          "sv": "Bayburt",
+          "tr": "Bayburt",
+          "vi": "Bayburt",
+          "zh": "巴伊布尔特省"
+        },
+        "population": 58182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3555,
+          40.339
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tr",
+        "region_child": "tr-29",
+        "area": 0.926354000000002,
+        "bounding_box": [
+          38.842,
+          39.888,
+          39.869,
+          40.79
+        ],
+        "point": [
+          39.3555,
+          40.339
+        ],
+        "labels": {
+          "alt": "Gümüşhane",
+          "local": null,
+          "len": 9,
+          "ar": "كوموش خانة",
+          "bn": null,
+          "de": "Gümüşhane",
+          "en": "Gümüşhane Province",
+          "es": "Provincia de Gümüşhane",
+          "fr": "Gümüşhane",
+          "el": "Επαρχία Γκιουμούσχανε",
+          "hi": null,
+          "hu": "Gümüşhane",
+          "id": "Provinsi Gümüşhane",
+          "it": "provincia di Gümüşhane",
+          "ja": "ギュミュシュハーネ県",
+          "ko": "귀뮈샤네 주",
+          "nl": "Gümüşhane",
+          "pl": "Gümüşhane",
+          "pt": "Gümüşhane",
+          "ru": "Гюмюшхане",
+          "sv": "Gümüşhane",
+          "tr": "Gümüşhane",
+          "vi": "Gümüşhane",
+          "zh": "居米什哈内省"
+        },
+        "population": 93371
+      }
+    }
+  ]
+}

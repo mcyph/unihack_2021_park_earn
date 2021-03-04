@@ -1,0 +1,694 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.392,
+          -26.9795
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-ka",
+        "area": 20.515538,
+        "bounding_box": [
+          14.801,
+          -28.959,
+          19.983,
+          -25.0
+        ],
+        "point": [
+          17.392,
+          -26.9795
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إقليم كاراس",
+          "bn": "কারাস অঞ্চল",
+          "de": "ǀǀKaras",
+          "en": "Karas Region",
+          "es": "Karas",
+          "fr": "Karas",
+          "el": "Καράς",
+          "hi": "कारास प्रदेश",
+          "hu": null,
+          "id": "Wilayah Karas",
+          "it": "regione di Karas",
+          "ja": "カラス州",
+          "ko": "카라스 주",
+          "nl": "Karas",
+          "pl": "Karas",
+          "pt": "Karas",
+          "ru": "Карас",
+          "sv": "Karas",
+          "tr": "Karas",
+          "vi": "Khu vực Karas",
+          "zh": "卡拉斯區"
+        },
+        "population": 84977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2155,
+          -19.069499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-ku",
+        "area": 21.163814999999996,
+        "bounding_box": [
+          11.718,
+          -21.188,
+          16.713,
+          -16.951
+        ],
+        "point": [
+          14.2155,
+          -19.069499999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "اقليم كونيني",
+          "bn": "কুনেনে অঞ্চল",
+          "de": "Kunene",
+          "en": "Kunene Region",
+          "es": "Kunene",
+          "fr": "Kunene",
+          "el": "Κουνένε",
+          "hi": "कुनेने प्रदेश",
+          "hu": null,
+          "id": "Wilayah Kunene",
+          "it": "regione del Kunene",
+          "ja": "クネネ州",
+          "ko": "쿠네네 주",
+          "nl": "Kunene",
+          "pl": "Kunene",
+          "pt": "Kunene",
+          "ru": "Кунене",
+          "sv": "Kunene",
+          "tr": "Kunene",
+          "vi": "Khu vực Kunene",
+          "zh": "庫內內區"
+        },
+        "population": 111982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.892,
+          -18.403
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-os",
+        "area": 3.065299999999996,
+        "bounding_box": [
+          14.137,
+          -19.418,
+          15.647,
+          -17.388
+        ],
+        "point": [
+          14.892,
+          -18.403
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إقليم أوموساتي",
+          "bn": "ওমোসাথি অঞ্চল",
+          "de": "Omusati",
+          "en": "Omusati Region",
+          "es": "Omusati",
+          "fr": "Omusati",
+          "el": "Ομουσάτι",
+          "hi": "ओमुसाती प्रदेश",
+          "hu": null,
+          "id": "Wilayah Omusati",
+          "it": "regione di Omusati",
+          "ja": "オムサティ州",
+          "ko": "오무사티 주",
+          "nl": "Omusati",
+          "pl": "Omusati",
+          "pt": "Omusati",
+          "ru": "Омусати",
+          "sv": "Omusati",
+          "tr": "Omusati",
+          "vi": "Khu vực Omusati",
+          "zh": "奧穆薩蒂區"
+        },
+        "population": 256737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7795,
+          -17.652
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-ow",
+        "area": 1.283966,
+        "bounding_box": [
+          15.559,
+          -17.915,
+          18.0,
+          -17.389
+        ],
+        "point": [
+          16.7795,
+          -17.652
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "إقليم أوهانغوينا",
+          "bn": "ওহাংয়েনা অঞ্চল",
+          "de": "Ohangwena",
+          "en": "Ohangwena Region",
+          "es": "Ohangwena",
+          "fr": "Ohangwena",
+          "el": "Οχανγκβένα",
+          "hi": "ओहांगवेना प्रदेश",
+          "hu": null,
+          "id": "Wilayah Ohangwena",
+          "it": "regione di Ohangwena",
+          "ja": "オハングウェナ州",
+          "ko": "오항궤나 주",
+          "nl": "Ohangwena",
+          "pl": "Ohangwena",
+          "pt": "Ohangwena",
+          "ru": "Охангвена",
+          "sv": "Ohangwena",
+          "tr": "Ohangwena",
+          "vi": "Khu vực Ohangwena",
+          "zh": "奧漢圭納區"
+        },
+        "population": 271101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.496499999999997,
+          -18.289
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-ok",
+        "area": 5.3873999999999995,
+        "bounding_box": [
+          18.0,
+          -19.189,
+          20.993,
+          -17.389
+        ],
+        "point": [
+          19.496499999999997,
+          -18.289
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إقليم أوكافانغو",
+          "bn": "কাভাঙ্গো অঞ্চল",
+          "de": "Kavango",
+          "en": "Kavango Region",
+          "es": "Kavango",
+          "fr": "Kavango",
+          "el": "Καβάνγκο",
+          "hi": "कवांगो प्रदेश",
+          "hu": null,
+          "id": "Wilayah Kavango",
+          "it": "regione di Kavango",
+          "ja": "カバンゴ州",
+          "ko": "카방고 주",
+          "nl": "Kavango",
+          "pl": "Kavango",
+          "pt": "Kavango",
+          "ru": "Окаванго",
+          "sv": "Kavango",
+          "tr": "Kavango",
+          "vi": "Khu vực Kavango",
+          "zh": "奧卡萬戈區"
+        },
+        "population": 221358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.123,
+          -17.9715
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-ca",
+        "area": 4.244081999999994,
+        "bounding_box": [
+          20.986,
+          -18.468,
+          25.26,
+          -17.475
+        ],
+        "point": [
+          23.123,
+          -17.9715
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "اقليم زامبيزي",
+          "bn": "জাম্বেজি অঞ্চল",
+          "de": "Sambesi",
+          "en": "Zambezi Region",
+          "es": "Caprivi",
+          "fr": "Zambezi",
+          "el": "Κάπριβι",
+          "hi": "कप्रीवी प्रदेश",
+          "hu": null,
+          "id": "Wilayah Zambezi",
+          "it": "regione dello Zambesi",
+          "ja": "カプリビ州",
+          "ko": "카프리비 주",
+          "nl": "Caprivi",
+          "pl": "Caprivi",
+          "pt": "Caprivi",
+          "ru": "Каприви",
+          "sv": "Caprivi",
+          "tr": "Caprivi",
+          "vi": "Zambezi",
+          "zh": "卡普里维区"
+        },
+        "population": 133815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.221,
+          -24.5175
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-ha",
+        "area": 14.760305999999986,
+        "bounding_box": [
+          14.46,
+          -25.854,
+          19.982,
+          -23.181
+        ],
+        "point": [
+          17.221,
+          -24.5175
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم هارداب",
+          "bn": "হারডাপ অঞ্চল",
+          "de": "Hardap",
+          "en": "Hardap Region",
+          "es": "Hardap",
+          "fr": "Hardap",
+          "el": "Χαρντάπ",
+          "hi": "हारडाप प्रदेश",
+          "hu": null,
+          "id": "Wilayah Hardap",
+          "it": "regione di Hardap",
+          "ja": "ハルダプ州",
+          "ko": "하르다프 주",
+          "nl": "Hardap",
+          "pl": "Hardap",
+          "pt": "Hardap",
+          "ru": "Хардап",
+          "sv": "Hardap",
+          "tr": "Hardap",
+          "vi": "Khu vực Hardap",
+          "zh": "哈達普區"
+        },
+        "population": 92356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2875,
+          -20.567
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-od",
+        "area": 19.454161999999982,
+        "bounding_box": [
+          15.596,
+          -22.374,
+          20.979,
+          -18.76
+        ],
+        "point": [
+          18.2875,
+          -20.567
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "إقليم أوتجوزوندجوبا",
+          "bn": "অতজুন্ডজুপা অঞ্চল",
+          "de": "Otjozondjupa",
+          "en": "Otjozondjupa Region",
+          "es": "Otjozondjupa",
+          "fr": "Otjozondjupa",
+          "el": "Οτζοζοντζούπα",
+          "hi": "ओट्योज़न्द्यूपा प्रदेश",
+          "hu": null,
+          "id": "Wilayah Otjozondjupa",
+          "it": "regione di Otjozondjupa",
+          "ja": "オチョソンデュパ州",
+          "ko": "오초존주파 주",
+          "nl": "Otjozondjupa",
+          "pl": "Otjozondjupa",
+          "pt": "Otjozondjupa",
+          "ru": "Очосондьюпа",
+          "sv": "Otjozondjupa",
+          "tr": "Otjozondjupa",
+          "vi": "Khu vực Otjozondjupa",
+          "zh": "奧喬宗朱帕區"
+        },
+        "population": 156889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.474,
+          -22.0535
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-oh",
+        "area": 10.942662,
+        "bounding_box": [
+          17.963,
+          -23.864,
+          20.985,
+          -20.243
+        ],
+        "point": [
+          19.474,
+          -22.0535
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إقليم أوماهيكي",
+          "bn": null,
+          "de": "Omaheke",
+          "en": "Omaheke Region",
+          "es": "Omaheke",
+          "fr": "Omaheke",
+          "el": null,
+          "hi": "ओमाहेके प्रदेश",
+          "hu": null,
+          "id": null,
+          "it": "regione di Omaheke",
+          "ja": "オマヘケ州",
+          "ko": "오마헤케 주",
+          "nl": "Omaheke",
+          "pl": "Omaheke",
+          "pt": "Omaheke",
+          "ru": "Омахеке",
+          "sv": null,
+          "tr": "Omaheke",
+          "vi": null,
+          "zh": "奧馬海凱區"
+        },
+        "population": 75113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0825,
+          -22.1505
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-er",
+        "area": 9.678243000000002,
+        "bounding_box": [
+          13.628,
+          -23.814,
+          16.537,
+          -20.487
+        ],
+        "point": [
+          15.0825,
+          -22.1505
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم إيرونغو",
+          "bn": "এরোংগু অঞ্চল",
+          "de": "Erongo",
+          "en": "Erongo Region",
+          "es": "Erongo",
+          "fr": "Erongo",
+          "el": "Ερόνγκο",
+          "hi": "एरोंगो प्रदेश",
+          "hu": null,
+          "id": "Wilayah Erongo",
+          "it": "regione degli Erongo",
+          "ja": "エロンゴ州",
+          "ko": "에롱고 주",
+          "nl": "Erongo",
+          "pl": "Erongo",
+          "pt": "Erongo",
+          "ru": "Эронго",
+          "sv": "Erongo",
+          "tr": "Erongo",
+          "vi": "Khu vực Erongo",
+          "zh": "埃龍戈區"
+        },
+        "population": 206481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.119,
+          -22.865
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-kh",
+        "area": 6.421760000000003,
+        "bounding_box": [
+          15.735,
+          -24.025,
+          18.503,
+          -21.705
+        ],
+        "point": [
+          17.119,
+          -22.865
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم خوماس",
+          "bn": "খুমাস অঞ্চল",
+          "de": "Khomas",
+          "en": "Khomas Region",
+          "es": "Khomas",
+          "fr": "Khomas",
+          "el": "Κόμας",
+          "hi": "खोमास प्रदेश",
+          "hu": null,
+          "id": "Wilayah Khomas",
+          "it": "regione di Khomas",
+          "ja": "ホマス州",
+          "ko": "호마스 주",
+          "nl": "Khomas",
+          "pl": "Khomas",
+          "pt": "Khomas",
+          "ru": "Кхомас",
+          "sv": "Khomas",
+          "tr": "Khomas",
+          "vi": "Khomas",
+          "zh": "霍馬斯區"
+        },
+        "population": 454477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.663,
+          -18.505
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-on",
+        "area": 1.2390000000000008,
+        "bounding_box": [
+          15.288,
+          -19.331,
+          16.038,
+          -17.679
+        ],
+        "point": [
+          15.663,
+          -18.505
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم أوشانا",
+          "bn": "ওশানা অঞ্চল",
+          "de": "Oshana",
+          "en": "Oshana Region",
+          "es": "Oshana",
+          "fr": "Oshana",
+          "el": "Οσάνα",
+          "hi": "ओशाना प्रदेश",
+          "hu": null,
+          "id": "Wilayah Oshana",
+          "it": "regione dell'Oshana",
+          "ja": "オシャナ州",
+          "ko": "오샤나 주",
+          "nl": "Oshana",
+          "pl": "Oshana",
+          "pt": "Oshana",
+          "ru": "Ошана",
+          "sv": "Oshana",
+          "tr": "Oshana",
+          "vi": "Khu vực Oshana",
+          "zh": "奧沙納區"
+        },
+        "population": 181639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.018,
+          -18.609
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "na",
+        "region_child": "na-ot",
+        "area": 4.298403999999994,
+        "bounding_box": [
+          15.841,
+          -19.522,
+          18.195,
+          -17.696
+        ],
+        "point": [
+          17.018,
+          -18.609
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إقليم أوشيكوتو",
+          "bn": "ওসিকোতো অঞ্চল",
+          "de": "Oshikoto",
+          "en": "Oshikoto Region",
+          "es": "Oshikoto",
+          "fr": "Oshikoto",
+          "el": "Οσικότο",
+          "hi": "ओशीकोतो प्रदेश",
+          "hu": null,
+          "id": "Wilayah Oshikoto",
+          "it": "regione di Oshikoto",
+          "ja": "オシコト州",
+          "ko": "오시코토 주",
+          "nl": "Oshikoto",
+          "pl": "Oshikoto",
+          "pt": "Oshikoto",
+          "ru": "Ошикото",
+          "sv": "Oshikoto",
+          "tr": "Oshikoto",
+          "vi": "Khu vực Oshikoto",
+          "zh": "奧希科托區"
+        },
+        "population": 206544
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.1565,
+          -14.2805
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "wf",
+        "region_child": "wf-sg",
+        "area": 0.0038349999999999127,
+        "bounding_box": [
+          -178.186,
+          -14.313,
+          -178.127,
+          -14.248
+        ],
+        "point": [
+          -178.1565,
+          -14.2805
+        ],
+        "labels": {
+          "alt": "Singave",
+          "local": null,
+          "len": 6,
+          "ar": "مدينة سيغاف",
+          "bn": "সিগাভে",
+          "de": "Sigave",
+          "en": "Sigave",
+          "es": "Sigave",
+          "fr": "Sigave",
+          "el": "Σιγκάβε",
+          "hi": "सिगेव",
+          "hu": "Sigave",
+          "id": "Sigave",
+          "it": "Sigave",
+          "ja": "シガベ首長国",
+          "ko": "시가베",
+          "nl": "Sigave",
+          "pl": "Sigave",
+          "pt": "Sigave",
+          "ru": "Сигав",
+          "sv": "Sigave",
+          "tr": "Sigave",
+          "vi": "Sigave",
+          "zh": "锡加韦"
+        },
+        "population": 1071
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.11950000000002,
+          -14.284500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "wf",
+        "region_child": "wf-al",
+        "area": 0.0013109999999997885,
+        "bounding_box": [
+          -178.131,
+          -14.313,
+          -178.108,
+          -14.256
+        ],
+        "point": [
+          -178.11950000000002,
+          -14.284500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "ألو",
+          "bn": "আলো",
+          "de": "Alo",
+          "en": "Alo",
+          "es": "Alo",
+          "fr": "Alo",
+          "el": "Άλο",
+          "hi": "एलो",
+          "hu": "Alo",
+          "id": "Alo",
+          "it": "Alo",
+          "ja": "アロ首長国",
+          "ko": "알로",
+          "nl": "Alo",
+          "pl": "Alo",
+          "pt": "Alo",
+          "ru": "Ало",
+          "sv": "Alo",
+          "tr": "Alo",
+          "vi": "Alo",
+          "zh": "阿洛"
+        },
+        "population": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.163,
+          -13.274000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "wf",
+        "region_child": "wf-uv",
+        "area": 0.00961999999999796,
+        "bounding_box": [
+          -176.2,
+          -13.339,
+          -176.126,
+          -13.209
+        ],
+        "point": [
+          -176.163,
+          -13.274000000000001
+        ],
+        "labels": {
+          "alt": "Wallis",
+          "local": null,
+          "len": 5,
+          "ar": "أوفيا",
+          "bn": "উভা",
+          "de": "Uvea",
+          "en": "Uvea",
+          "es": "Uvea",
+          "fr": "Royaume coutumier de Uvea",
+          "el": "Ουβέα",
+          "hi": "यूविया",
+          "hu": null,
+          "id": "Uvea",
+          "it": "Wallis",
+          "ja": "ウベア首長国",
+          "ko": "우베아",
+          "nl": "Uvea",
+          "pl": "Uvea",
+          "pt": "Uvea",
+          "ru": "Увеа",
+          "sv": "Uvea",
+          "tr": "Uvea",
+          "vi": "Uvea",
+          "zh": "乌韦阿"
+        },
+        "population": 3111
+      }
+    }
+  ]
+}

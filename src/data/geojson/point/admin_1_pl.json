@@ -1,0 +1,853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9925,
+          50.213
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-sl",
+        "area": 3.208655999999997,
+        "bounding_box": [
+          18.019,
+          49.389,
+          19.966,
+          51.037
+        ],
+        "point": [
+          18.9925,
+          50.213
+        ],
+        "labels": {
+          "alt": "Slaskie",
+          "local": null,
+          "len": 8,
+          "ar": "محافظة سيليزيا",
+          "bn": "সিলেসিয়ান ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Schlesien",
+          "en": "Silesian Voivodeship",
+          "es": "Voivodato de Silesia",
+          "fr": "Voïvodie de Silésie",
+          "el": "Σιλεσία",
+          "hi": "सिलेसियन वोईवोडीशिप",
+          "hu": "Sziléziai vajdaság",
+          "id": "Provinsi Silesia",
+          "it": "voivodato della Slesia",
+          "ja": "シロンスク県",
+          "ko": "실롱스크 주",
+          "nl": "Woiwodschap Silezië",
+          "pl": "województwo śląskie",
+          "pt": "Voivodia da Silésia",
+          "ru": "Силезское воеводство",
+          "sv": "Schlesiens vojvodskap",
+          "tr": "Silezya Voyvodalığı",
+          "vi": "Śląskie",
+          "zh": "西里西亚省"
+        },
+        "population": 4600677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.313,
+          49.8335
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-ma",
+        "area": 3.125002000000006,
+        "bounding_box": [
+          19.112,
+          49.183,
+          21.514,
+          50.484
+        ],
+        "point": [
+          20.313,
+          49.8335
+        ],
+        "labels": {
+          "alt": "Malopolskie",
+          "local": null,
+          "len": 13,
+          "ar": "محافظة بولندا الصغرى",
+          "bn": "লেসার পোল্যান্ড ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Kleinpolen",
+          "en": "Lesser Poland Voivodeship",
+          "es": "Voivodato de Pequeña Polonia",
+          "fr": "Voïvodie de Petite-Pologne",
+          "el": "Μαλοπόλσκιε",
+          "hi": "लघुतर पोलैंड वोइवोडीशिप",
+          "hu": "Kis-lengyelországi vajdaság",
+          "id": "Provinsi Polandia Kecil",
+          "it": "voivodato della Piccola Polonia",
+          "ja": "マウォポルスカ県",
+          "ko": "마워폴스카 주",
+          "nl": "Woiwodschap Klein-Polen",
+          "pl": "województwo małopolskie",
+          "pt": "Voivodia da Pequena Polónia",
+          "ru": "Малопольское воеводство",
+          "sv": "Lillpolens vojvodskap",
+          "tr": "Küçük Polonya Voyvodalığı",
+          "vi": "Małopolskie",
+          "zh": "小波兰省"
+        },
+        "population": 3421609
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4345,
+          49.921499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-pk",
+        "area": 4.449832999999997,
+        "bounding_box": [
+          21.21,
+          49.013,
+          23.659,
+          50.83
+        ],
+        "point": [
+          22.4345,
+          49.921499999999995
+        ],
+        "labels": {
+          "alt": "Podkarpackie",
+          "local": null,
+          "len": 13,
+          "ar": "محافظة بودكارباتسكي",
+          "bn": "পোডকারপ্যাকি ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Karpatenvorland",
+          "en": "Podkarpackie Voivodeship",
+          "es": "Voivodato de Subcarpacia",
+          "fr": "Basses-Carpates",
+          "el": "Ποντκαρπάκιε",
+          "hi": "पॉडकारपैकी वोइवोडीशिप",
+          "hu": "Kárpátaljai vajdaság",
+          "id": "Provinsi Podkarpacie",
+          "it": "voivodato della Precarpazia",
+          "ja": "ポトカルパチェ県",
+          "ko": "포드카르파츠키에 주",
+          "nl": "Woiwodschap Subkarpaten",
+          "pl": "województwo podkarpackie",
+          "pt": "Voivodia da Subcarpácia",
+          "ru": "Подкарпатское воеводство",
+          "sv": "Nedre Karpaternas vojvodskap",
+          "tr": "Alt Karpatya Voyvodalığı",
+          "vi": "Podkarpackie",
+          "zh": "喀尔巴阡山省"
+        },
+        "population": 2164740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.264,
+          50.932500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-ds",
+        "area": 4.870900000000011,
+        "bounding_box": [
+          14.81,
+          50.095,
+          17.718,
+          51.77
+        ],
+        "point": [
+          16.264,
+          50.932500000000005
+        ],
+        "labels": {
+          "alt": "Dolnoslaskie",
+          "local": null,
+          "len": 14,
+          "ar": "محافظة سيليزيا السفلى",
+          "bn": "লোয়ার সিলেসিয়ান ভৈভেডেশিপ",
+          "de": "Woiwodschaft Niederschlesien",
+          "en": "Lower Silesian Voivodeship",
+          "es": "Baja Silesia",
+          "fr": "Voïvodie de Basse-Silésie",
+          "el": "Κάτω Σιλεσία",
+          "hi": "निचला सिलेसियन वोइवोडीशिप",
+          "hu": "Alsó-sziléziai vajdaság",
+          "id": "Provinsi Dolnośląskie",
+          "it": "voivodato della Bassa Slesia",
+          "ja": "ドルヌィ・シロンスク県",
+          "ko": "돌니실롱스크 주",
+          "nl": "Neder-Silezië",
+          "pl": "województwo dolnośląskie",
+          "pt": "Voivodia da Baixa Silésia",
+          "ru": "Нижнесилезское воеводство",
+          "sv": "Nedre Schlesiens vojvodskap",
+          "tr": "Aşağı Silezya Voyvodalığı",
+          "vi": "Dolnośląskie",
+          "zh": "下西里西亚省"
+        },
+        "population": 3182147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.799999999999997,
+          50.562
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-op",
+        "area": 2.013312000000003,
+        "bounding_box": [
+          16.944,
+          49.974,
+          18.656,
+          51.15
+        ],
+        "point": [
+          17.799999999999997,
+          50.562
+        ],
+        "labels": {
+          "alt": "Opolskie",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة أوبولي",
+          "bn": "ওপোল ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Opole",
+          "en": "Opole Voivodeship",
+          "es": "Opole",
+          "fr": "Voïvodie d'Opole",
+          "el": "Βοϊβοδάτο Οπόλε",
+          "hi": "ऑपोल",
+          "hu": "Opolei vajdaság",
+          "id": "Provinsi Opole",
+          "it": "voivodato di Opole",
+          "ja": "オポーレ県",
+          "ko": "오폴레 주",
+          "nl": "Opole",
+          "pl": "województwo opolskie",
+          "pt": "Voivodia de Opole",
+          "ru": "Опольское воеводство",
+          "sv": "Opole vojvodskap",
+          "tr": "Opole Voyvodalığı",
+          "vi": "Opolskie",
+          "zh": "奧波萊省"
+        },
+        "population": 979475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7215,
+          53.342
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-pd",
+        "area": 5.067258000000015,
+        "bounding_box": [
+          21.523,
+          52.285,
+          23.92,
+          54.399
+        ],
+        "point": [
+          22.7215,
+          53.342
+        ],
+        "labels": {
+          "alt": "Podlaskie",
+          "local": null,
+          "len": 10,
+          "ar": "محافظة بودلاسكي",
+          "bn": "পোদলাস্কি ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Podlachien",
+          "en": "Podlaskie Voivodeship",
+          "es": "Voivodato de Podlaquia",
+          "fr": "Voïvodie de Podlachie",
+          "el": "Ποντλάσκιε",
+          "hi": "पॉडलास्की वोईवोडीशिप",
+          "hu": "Podlasiei vajdaság",
+          "id": "Provinsi Podlasie",
+          "it": "voivodato della Podlachia",
+          "ja": "ポドラシェ県",
+          "ko": "포들라스키에 주",
+          "nl": "Woiwodschap Podlachië",
+          "pl": "województwo podlaskie",
+          "pt": "Voivodia da Podláquia",
+          "ru": "Подляское воеводство",
+          "sv": "Podlasiens vojvodskap",
+          "tr": "Podlakya Voyvodalığı",
+          "vi": "Podlaskie",
+          "zh": "波德拉謝省"
+        },
+        "population": 1240845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9695,
+          53.7635
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-wn",
+        "area": 4.938902999999978,
+        "bounding_box": [
+          19.128,
+          53.093,
+          22.811,
+          54.434
+        ],
+        "point": [
+          20.9695,
+          53.7635
+        ],
+        "labels": {
+          "alt": "Warminsko-Mazurskie",
+          "local": null,
+          "len": 16,
+          "ar": "محافظة فارميا-مازوريا",
+          "bn": "ওয়ারমিয়া-মাসুরিয়ান ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Ermland-Masuren",
+          "en": "Warmian-Masurian Voivodeship",
+          "es": "Voivodato de Varmia y Masuria",
+          "fr": "Voïvodie de Varmie-Mazurie",
+          "el": "βοϊβοδάτο Βαρμίας-Μαζουρίας",
+          "hi": "वार्मियन-मसुरियन वाइवोडीशिप",
+          "hu": "Varmia-Mazúriai vajdaság",
+          "id": "Provinsi Warmia-Mazury",
+          "it": "voivodato della Varmia-Masuria",
+          "ja": "ヴァルミア＝マズールィ県",
+          "ko": "바르미아마주리 주",
+          "nl": "Ermland-Mazurië",
+          "pl": "województwo warmińsko-mazurskie",
+          "pt": "Voivodia da Vármia-Masúria",
+          "ru": "Варминско-Мазурское воеводство",
+          "sv": "Ermland-Masuriens vojvodskap",
+          "tr": "Varmiya-Mazurya Voyvodalığı",
+          "vi": "Warmińsko-Mazurskie",
+          "zh": "瓦爾米亞-馬祖里省"
+        },
+        "population": 1482007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455499999999999,
+          52.251
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-lb",
+        "area": 3.1273479999999965,
+        "bounding_box": [
+          14.54,
+          51.397,
+          16.371,
+          53.105
+        ],
+        "point": [
+          15.455499999999999,
+          52.251
+        ],
+        "labels": {
+          "alt": "Lubuskie",
+          "local": null,
+          "len": 6,
+          "ar": "محافظة لوبوسكي",
+          "bn": "লুবুজ ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Lebus",
+          "en": "Lubusz Voivodeship",
+          "es": "Voivodato de Lubusz",
+          "fr": "Voïvodie de Lubusz",
+          "el": "Λουμπούζ Βοϊβοδάτο",
+          "hi": "लुबुस वोइवोडीशिप",
+          "hu": "Lubusi vajdaság",
+          "id": "Provinsi Lubusz",
+          "it": "voivodato di Lubusz",
+          "ja": "ルブシュ県",
+          "ko": "루부시 주",
+          "nl": "Woiwodschap Lubusz",
+          "pl": "województwo lubuskie",
+          "pt": "Voivodia da Lubúsquia",
+          "ru": "Любушское воеводство",
+          "sv": "Lubusz vojvodskap",
+          "tr": "Lubusz Voyvodalığı",
+          "vi": "Lubuskie",
+          "zh": "盧布斯卡省"
+        },
+        "population": 1039639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.562999999999999,
+          53.5865
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-zp",
+        "area": 5.701318000000001,
+        "bounding_box": [
+          14.124,
+          52.596,
+          17.002,
+          54.577
+        ],
+        "point": [
+          15.562999999999999,
+          53.5865
+        ],
+        "labels": {
+          "alt": "Zachodniopomorskie",
+          "local": null,
+          "len": 15,
+          "ar": "محافظة غرب بوميرانيا",
+          "bn": "পশ্চিম পেমারানিয়ান ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Westpommern",
+          "en": "West Pomeranian Voivodeship",
+          "es": "Voivodato de Pomerania Occidental",
+          "fr": "Voïvodie de Poméranie occidentale",
+          "el": "Δυτική Πομερανία",
+          "hi": "पश्चिम पोमेररेनियन वोइवोडीशिप",
+          "hu": "Nyugat-Pomerániai vajdaság",
+          "id": "Provinsi Pomerania Barat",
+          "it": "voivodato della Pomerania Occidentale",
+          "ja": "西ポモージェ県",
+          "ko": "서포모제 주",
+          "nl": "Woiwodschap West-Pommeren",
+          "pl": "województwo zachodniopomorskie",
+          "pt": "Voivodia da Pomerânia Ocidental",
+          "ru": "Западно-Поморское воеводство",
+          "sv": "Västpommerns vojvodskap",
+          "tr": "Batı Pomeranya Voyvodalığı",
+          "vi": "Zachodniopomorskie",
+          "zh": "西波美拉尼亚省"
+        },
+        "population": 1769364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.889,
+          51.302
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-lu",
+        "area": 4.918320000000014,
+        "bounding_box": [
+          21.647,
+          50.312,
+          24.131,
+          52.292
+        ],
+        "point": [
+          22.889,
+          51.302
+        ],
+        "labels": {
+          "alt": "Lubelskie",
+          "local": null,
+          "len": 6,
+          "ar": "محافظة لوبلين",
+          "bn": "লুব্লিন ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Lublin",
+          "en": "Lublin Voivodeship",
+          "es": "Lublin",
+          "fr": "Voïvodie de Lublin",
+          "el": "Λούμπλιν",
+          "hi": "लुब्लिन",
+          "hu": "Lublini vajdaság",
+          "id": "Provinsi Lublin",
+          "it": "voivodato di Lublino",
+          "ja": "ルブリン県",
+          "ko": "루블린 주",
+          "nl": "Lublin",
+          "pl": "województwo lubelskie",
+          "pt": "Voivodia de Lublin",
+          "ru": "Люблинское воеводство",
+          "sv": "Lublins vojvodskap",
+          "tr": "Lublin Voyvodalığı",
+          "vi": "Lubelskie",
+          "zh": "卢布林省"
+        },
+        "population": 2134477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2715,
+          54.135999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-pm",
+        "area": 4.174092000000009,
+        "bounding_box": [
+          16.785,
+          53.434,
+          19.758,
+          54.838
+        ],
+        "point": [
+          18.2715,
+          54.135999999999996
+        ],
+        "labels": {
+          "alt": "Pomorskie",
+          "local": null,
+          "len": 10,
+          "ar": "محافظة بوميرانيا",
+          "bn": "পোমেরানিয়ান ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Pommern",
+          "en": "Pomeranian Voivodeship",
+          "es": "Voivodato de Pomerania",
+          "fr": "Voïvodie de Poméranie",
+          "el": "Πομερανία",
+          "hi": "पोमरेनियन वोइवोडीशिप",
+          "hu": "Pomerániai vajdaság",
+          "id": "Provinsi Pomerania",
+          "it": "voivodato della Pomerania",
+          "ja": "ポモージェ県",
+          "ko": "포모제 주",
+          "nl": "Woiwodschap Pommeren",
+          "pl": "województwo pomorskie",
+          "pt": "Voivodia da Pomerânia",
+          "ru": "Поморское воеводство",
+          "sv": "Pommerns vojvodskap",
+          "tr": "Pomeranya Voyvodalığı",
+          "vi": "Pomorskie",
+          "zh": "濱海省"
+        },
+        "population": 2387074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.191499999999998,
+          52.2285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-mz",
+        "area": 9.215921000000018,
+        "bounding_box": [
+          19.296,
+          51.013,
+          23.087,
+          53.444
+        ],
+        "point": [
+          21.191499999999998,
+          52.2285
+        ],
+        "labels": {
+          "alt": "Mazowieckie",
+          "local": null,
+          "len": 8,
+          "ar": "محافظة مازوفيا",
+          "bn": "মেসোভিয়ান ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Masowien",
+          "en": "Masovian Voivodeship",
+          "es": "Voivodato de Mazovia",
+          "fr": "Voïvodie de Mazovie",
+          "el": "Μασοβία",
+          "hi": "मासोवियन वोईवोडीशिप",
+          "hu": "Mazóviai vajdaság",
+          "id": "Provinsi Mazowsze",
+          "it": "voivodato della Masovia",
+          "ja": "マゾフシェ県",
+          "ko": "마조프셰 주",
+          "nl": "Woiwodschap Mazovië",
+          "pl": "województwo mazowieckie",
+          "pt": "Voivodia da Mazóvia",
+          "ru": "Мазовецкое воеводство",
+          "sv": "Masoviens vojvodskap",
+          "tr": "Mazovya Voyvodalığı",
+          "vi": "Mazowieckie",
+          "zh": "馬佐夫舍省"
+        },
+        "population": 5525559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3645,
+          51.569
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-ld",
+        "area": 4.007070000000002,
+        "bounding_box": [
+          18.055,
+          50.804,
+          20.674,
+          52.334
+        ],
+        "point": [
+          19.3645,
+          51.569
+        ],
+        "labels": {
+          "alt": "Lódzkie",
+          "local": null,
+          "len": 4,
+          "ar": "محافظة وودج",
+          "bn": "লোজ ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Łódź",
+          "en": "Łódź Voivodeship",
+          "es": "Voivodato de Łódź",
+          "fr": "Voïvodie de Łódź",
+          "el": "Λοτζ",
+          "hi": "लौड्ज़ वोईवोडीशिप",
+          "hu": "Łódźi vajdaság",
+          "id": "Provinsi Łódź",
+          "it": "voivodato di Łódź",
+          "ja": "ウッチ県",
+          "ko": "우치 주",
+          "nl": "Woiwodschap Łódź",
+          "pl": "województwo łódzkie",
+          "pt": "Voivodia de Łódź",
+          "ru": "Лодзинское воеводство",
+          "sv": "Łódź vojvodskap",
+          "tr": "Łódź Voyvodalığı",
+          "vi": "Łódzkie",
+          "zh": "罗兹省"
+        },
+        "population": 2485387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5225,
+          52.986999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-kp",
+        "area": 3.4755179999999988,
+        "bounding_box": [
+          17.297,
+          52.278,
+          19.748,
+          53.696
+        ],
+        "point": [
+          18.5225,
+          52.986999999999995
+        ],
+        "labels": {
+          "alt": "Kujawsko-Pomorskie",
+          "local": null,
+          "len": 19,
+          "ar": "محافظة كويافيا-بوميرانيا",
+          "bn": "কুয়েভিয়ান-পোমারানিয়ান ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Kujawien-Pommern",
+          "en": "Kuyavian-Pomeranian Voivodeship",
+          "es": "Cuyavia y Pomerania",
+          "fr": "Voïvodie de Couïavie-Poméranie",
+          "el": "Κουγιαβιανό-Πομεράνιο Βοϊβοδάτο",
+          "hi": "कुआवियन-पोमरेनियन वोईवोडशिप",
+          "hu": "Kujávia-Pomerániai vajdaság",
+          "id": "Provinsi Kujawy-Pomorze",
+          "it": "voivodato della Cuiavia-Pomerania",
+          "ja": "クヤヴィ＝ポモージェ県",
+          "ko": "쿠야비포모제 주",
+          "nl": "Koejavië-Pommeren",
+          "pl": "województwo kujawsko-pomorskie",
+          "pt": "Voivodia da Cujávia-Pomerânia",
+          "ru": "Куявско-Поморское воеводство",
+          "sv": "Kujavien-Pommerns vojvodskap",
+          "tr": "Kuyavya-Pomeranya Voyvodalığı",
+          "vi": "Kujawsko-Pomorskie",
+          "zh": "庫亞維-波美拉尼亞省"
+        },
+        "population": 2131127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4545,
+          52.327
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-wp",
+        "area": 8.193977999999996,
+        "bounding_box": [
+          15.83,
+          51.066,
+          19.079,
+          53.588
+        ],
+        "point": [
+          17.4545,
+          52.327
+        ],
+        "labels": {
+          "alt": "Wielkopolskie",
+          "local": null,
+          "len": 14,
+          "ar": "بولندا الكبرى",
+          "bn": "গ্রেটার পোল্যান্ড ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Großpolen",
+          "en": "Greater Poland Voivodeship",
+          "es": "Voivodato de Gran Polonia",
+          "fr": "Voïvodie de Grande-Pologne",
+          "el": "Ευρύτερη Πολωνία",
+          "hi": "बृहत्तर पोलैंड वोईवोडीशिप",
+          "hu": "Nagy-Lengyelországi vajdaság",
+          "id": "Provinsi Polandia Besar",
+          "it": "voivodato della Grande Polonia",
+          "ja": "ヴィエルコポルスカ県",
+          "ko": "비엘코폴스카 주",
+          "nl": "Woiwodschap Groot-Polen",
+          "pl": "województwo wielkopolskie",
+          "pt": "Voivodia da Grande Polônia",
+          "ru": "Великопольское воеводство",
+          "sv": "Storpolens vojvodskap",
+          "tr": "Büyük Polonya Voyvodalığı",
+          "vi": "Wielkopolskie",
+          "zh": "大波兰省"
+        },
+        "population": 3567221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.793,
+          50.732
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pl",
+        "region_child": "pl-sk",
+        "area": 2.3458319999999997,
+        "bounding_box": [
+          19.742,
+          50.174,
+          21.844,
+          51.29
+        ],
+        "point": [
+          20.793,
+          50.732
+        ],
+        "labels": {
+          "alt": "Swietokrzyskie",
+          "local": null,
+          "len": 14,
+          "ar": "محافظة شفينتوكشيسكي",
+          "bn": "সুইটোকিজিস্কি ভয়ভোডেশিপ",
+          "de": "Woiwodschaft Heiligkreuz",
+          "en": "Świętokrzyskie Voivodeship",
+          "es": "Voivodato de Santa Cruz",
+          "fr": "Voïvodie de Sainte-Croix",
+          "el": "βοϊβοδάτο Σβιετοκρίσκιε",
+          "hi": "स्वेतोक्रझिस्की वोइवोडीशिप",
+          "hu": "Szentkereszt vajdaság",
+          "id": "Provinsi Święty Krzyż",
+          "it": "voivodato della Santacroce",
+          "ja": "シフィェンティクシシュ県",
+          "ko": "시비엥토크시스키에 주",
+          "nl": "Święty Krzyż",
+          "pl": "województwo świętokrzyskie",
+          "pt": "Voivodia de Santa Cruz",
+          "ru": "Свентокшиское воеводство",
+          "sv": "Święty Krzyż vojvodskap",
+          "tr": "Świętokrzyskie Voyvodalığı",
+          "vi": "Świętokrzyskie",
+          "zh": "聖十字省"
+        },
+        "population": 1201839
+      }
+    }
+  ]
+}

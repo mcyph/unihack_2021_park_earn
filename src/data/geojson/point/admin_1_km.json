@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.74,
+          -12.3125
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "km",
+        "region_child": "km-m",
+        "area": 0.026619999999999568,
+        "bounding_box": [
+          43.63,
+          -12.373,
+          43.85,
+          -12.252
+        ],
+        "point": [
+          43.74,
+          -12.3125
+        ],
+        "labels": {
+          "alt": "Moûhîlî|Mūhīlī|Mohéli|Mwali",
+          "local": null,
+          "len": 7,
+          "ar": "موهيلي",
+          "bn": "মুহেলি",
+          "de": "Mohéli",
+          "en": "Mohéli",
+          "es": "Mohéli",
+          "fr": "Mohéli",
+          "el": "Μοελί",
+          "hi": "मोहली",
+          "hu": null,
+          "id": "Mohéli",
+          "it": "Mohéli",
+          "ja": "モヘリ島",
+          "ko": "모엘리 섬",
+          "nl": "Mohéli",
+          "pl": "Mohéli",
+          "pt": "Mohéli",
+          "ru": "Мвали",
+          "sv": "Mohéli",
+          "tr": "Moheli",
+          "vi": "Mohéli",
+          "zh": "莫埃利島"
+        },
+        "population": 292881
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.426,
+          -12.2095
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "km",
+        "region_child": "km-a",
+        "area": 0.05994600000000097,
+        "bounding_box": [
+          44.323,
+          -12.355,
+          44.529,
+          -12.064
+        ],
+        "point": [
+          44.426,
+          -12.2095
+        ],
+        "labels": {
+          "alt": "Andjouân|Anjwān|Anjouan|Ndzuwani",
+          "local": null,
+          "len": 8,
+          "ar": "أنجوان",
+          "bn": "আঞ্জুয়ান",
+          "de": "Anjouan",
+          "en": "Anjouan",
+          "es": "Anjouan",
+          "fr": "Anjouan",
+          "el": "Ανζουάν",
+          "hi": "अंजुअन",
+          "hu": "Anjouan",
+          "id": "Anjouan",
+          "it": "Anjouan",
+          "ja": "アンジュアン島",
+          "ko": "앙주앙 섬",
+          "nl": "Anjouan",
+          "pl": "Anjouan",
+          "pt": "Anjouan",
+          "ru": "Анжуан",
+          "sv": "Anjouan",
+          "tr": "Anjouan",
+          "vi": "Anjouan",
+          "zh": "昂儒昂岛"
+        },
+        "population": 57019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.356,
+          -11.6465
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "km",
+        "region_child": "km-g",
+        "area": 0.1633060000000007,
+        "bounding_box": [
+          43.213,
+          -11.932,
+          43.499,
+          -11.361
+        ],
+        "point": [
+          43.356,
+          -11.6465
+        ],
+        "labels": {
+          "alt": "Andjazîdja|Anjazījah|Grande Comore|Ngazidja",
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 395151
+      }
+    }
+  ]
+}

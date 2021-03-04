@@ -1,0 +1,959 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.977000000000004,
+          -21.969
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-19",
+        "area": 12.741567999999987,
+        "bounding_box": [
+          -62.65,
+          -23.873,
+          -59.304,
+          -20.065
+        ],
+        "point": [
+          -60.977000000000004,
+          -21.969
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة بوكويرون",
+          "bn": "বুকেরন",
+          "de": "Departamento Boquerón",
+          "en": "Boquerón Department",
+          "es": "Boquerón",
+          "fr": "Boquerón",
+          "el": "Μποκερόν",
+          "hi": "सोलह बोकेरोन",
+          "hu": "Boquerón megye",
+          "id": "Departemen Boquerón",
+          "it": "Boquerón",
+          "ja": "ボケローン県",
+          "ko": "보케론 주",
+          "nl": "Boquerón",
+          "pl": "Boquerón",
+          "pt": "Boquerón",
+          "ru": "Бокерон",
+          "sv": "Boquerón",
+          "tr": "XVI Boqueron",
+          "vi": "XVI Boquerón",
+          "zh": "博克龍省"
+        },
+        "population": 68246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.942,
+          -23.6865
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-15",
+        "area": 11.872313999999998,
+        "bounding_box": [
+          -60.793,
+          -25.29,
+          -57.091,
+          -22.083
+        ],
+        "point": [
+          -58.942,
+          -23.6865
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "بريزيدنت هايز",
+          "bn": "প্রেসিডেন্টে হায়েস",
+          "de": "Departamento Presidente Hayes",
+          "en": "Presidente Hayes Department",
+          "es": "Presidente Hayes",
+          "fr": "Presidente Hayes",
+          "el": "Πρεσιδέντε Άγιες",
+          "hi": "प्रेसिदेंते हेयेस",
+          "hu": "Presidente Hayes megye",
+          "id": "Departemen Presidente Hayes",
+          "it": "Presidente Hayes",
+          "ja": "プレシデンテ・アジェス県",
+          "ko": "프레시덴테아예스 주",
+          "nl": "Presidente Hayes",
+          "pl": "Presidente Hayes",
+          "pt": "Presidente Hayes",
+          "ru": "Пресиденте-Аес",
+          "sv": "Presidente Hayes",
+          "tr": "Presidente Hayes",
+          "vi": "Presidente Hayes",
+          "zh": "阿耶斯總統省"
+        },
+        "population": 166809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4915,
+          -25.560000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-11",
+        "area": 0.5944179999999973,
+        "bounding_box": [
+          -57.821,
+          -26.011,
+          -57.162,
+          -25.109
+        ],
+        "point": [
+          -57.4915,
+          -25.560000000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "الإدارة المركزية",
+          "bn": "সেন্ট্রাল বিভাগ",
+          "de": "Departamento Central",
+          "en": "Central Department",
+          "es": "Departamento Central",
+          "fr": "département Central",
+          "el": "Σεντράλ",
+          "hi": "केंद्रीय विभाग",
+          "hu": "Central megye",
+          "id": "Departemen Central",
+          "it": "dipartimento Central",
+          "ja": "セントラル県",
+          "ko": "센트랄 주",
+          "nl": "Central",
+          "pl": "Department Centralny",
+          "pt": "Central",
+          "ru": "Сентраль",
+          "sv": "Central",
+          "tr": "Central Departmant",
+          "vi": "Khu vực hành chính Miền Trung",
+          "zh": "中央省"
+        },
+        "population": 1968004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.608,
+          -25.3185
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-asu",
+        "area": 0.021631999999999627,
+        "bounding_box": [
+          -57.672,
+          -25.403,
+          -57.544,
+          -25.234
+        ],
+        "point": [
+          -57.608,
+          -25.3185
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "أسونسيون",
+          "bn": "আসুনসিওন",
+          "de": "Asunción",
+          "en": "Asunción",
+          "es": "Asunción",
+          "fr": "Asunción",
+          "el": "Ασουνσιόν",
+          "hi": "असुन्सियोन",
+          "hu": "Asunción",
+          "id": "Asunción",
+          "it": "Asunción",
+          "ja": "アスンシオン",
+          "ko": "아순시온",
+          "nl": "Asunción",
+          "pl": "Asunción",
+          "pt": "Assunção",
+          "ru": "Асунсьон",
+          "sv": "Asunción",
+          "tr": "Asunción",
+          "vi": "Asunción",
+          "zh": "亞松森"
+        },
+        "population": 875695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.942,
+          -25.353
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-10",
+        "area": 2.0696960000000137,
+        "bounding_box": [
+          -55.526,
+          -26.239,
+          -54.358,
+          -24.467
+        ],
+        "point": [
+          -54.942,
+          -25.353
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "ألتو بارانا",
+          "bn": "আলটো পারানা",
+          "de": "Departamento Alto Paraná",
+          "en": "Alto Paraná Department",
+          "es": "Alto Paraná",
+          "fr": "Alto Paraná",
+          "el": "Άνω Παρανά",
+          "hi": "अल्टो पराना",
+          "hu": "Alto Paraná megye",
+          "id": "Departemen Alto Paraná",
+          "it": "Alto Paraná",
+          "ja": "アルト・パラナ県",
+          "ko": "알토파라나 주",
+          "nl": "Alto Paraná",
+          "pl": "Górna Parana",
+          "pt": "Alto Paraná",
+          "ru": "Альто-Парана",
+          "sv": "Alto Paraná",
+          "tr": "Alto Parana",
+          "vi": "Alto Paraná",
+          "zh": "上巴拉那省"
+        },
+        "population": 888068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.676,
+          -26.8345
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-7",
+        "area": 3.0461199999999993,
+        "bounding_box": [
+          -56.688,
+          -27.587,
+          -54.664,
+          -26.082
+        ],
+        "point": [
+          -55.676,
+          -26.8345
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إيتابوا",
+          "bn": "ইটাপুয়া",
+          "de": "Itapúa",
+          "en": "Itapúa",
+          "es": "Itapúa",
+          "fr": "Itapúa",
+          "el": "Ιταπούα",
+          "hi": "इटापुआ",
+          "hu": "Itapúa megye",
+          "id": "Departemen Itapúa",
+          "it": "Itapúa",
+          "ja": "イタプア県",
+          "ko": "이타푸아 주",
+          "nl": "Itapúa",
+          "pl": "Itapúa",
+          "pt": "Itapúa",
+          "ru": "Итапуа",
+          "sv": "Itapúa",
+          "tr": "Itapua",
+          "vi": "Itapúa",
+          "zh": "伊塔普阿省"
+        },
+        "population": 627622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.924499999999995,
+          -26.6195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-12",
+        "area": 2.358883000000001,
+        "bounding_box": [
+          -58.653,
+          -27.429,
+          -57.196,
+          -25.81
+        ],
+        "point": [
+          -57.924499999999995,
+          -26.6195
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إدارة نيمبوكو",
+          "bn": "নেম্বুকু",
+          "de": "Departamento Ñeembucú",
+          "en": "Ñeembucú Department",
+          "es": "Ñeembucú",
+          "fr": "Ñeembucú",
+          "el": "Νιεεμπουκού",
+          "hi": "नीम्बुकु",
+          "hu": "Ñeembucú megye",
+          "id": "Departemen Ñeembucú",
+          "it": "Ñeembucú",
+          "ja": "ニェエンブクー県",
+          "ko": "녬부쿠 주",
+          "nl": "Ñeembucú",
+          "pl": "Ñeembucú",
+          "pt": "Ñeembucú",
+          "ru": "Ньеэмбуку",
+          "sv": "Ñeembucú",
+          "tr": "Neembucu",
+          "vi": "Neembucú",
+          "zh": "涅恩布庫省"
+        },
+        "population": 85627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1185,
+          -26.9555
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-8",
+        "area": 1.2938190000000038,
+        "bounding_box": [
+          -57.705,
+          -27.507,
+          -56.532,
+          -26.404
+        ],
+        "point": [
+          -57.1185,
+          -26.9555
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "ميسيونيس",
+          "bn": "মিশনেস",
+          "de": "Departamento Misiones",
+          "en": "Misiones Department",
+          "es": "Misiones",
+          "fr": "Misiones",
+          "el": "Μισιόνες",
+          "hi": "मिशिनेस",
+          "hu": "Misiones megye",
+          "id": "Departemen Misiones",
+          "it": "Misiones",
+          "ja": "ミシオネス県",
+          "ko": "미시오네스 주",
+          "nl": "Misiones",
+          "pl": "Misiones",
+          "pt": "Misiones",
+          "ru": "Мисьонес",
+          "sv": "Misiones",
+          "tr": "Misiones",
+          "vi": "Misiones",
+          "zh": "米西奧內斯省"
+        },
+        "population": 123748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.875,
+          -20.854999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-16",
+        "area": 12.857599999999978,
+        "bounding_box": [
+          -61.925,
+          -22.423,
+          -57.825,
+          -19.287
+        ],
+        "point": [
+          -59.875,
+          -20.854999999999997
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "إدارة ألتو باراغواي",
+          "bn": "আল্টো প্যারাগুই",
+          "de": "Departamento Alto Paraguay",
+          "en": "Alto Paraguay Department",
+          "es": "Alto Paraguay",
+          "fr": "Alto Paraguay",
+          "el": "Άνω Παραγουάης",
+          "hi": "आल्टो पैराग्वे विभाग",
+          "hu": "Alto Paraguay megye",
+          "id": "Departemen Alto Paraguay",
+          "it": "Alto Paraguay",
+          "ja": "アルト・パラグアイ県",
+          "ko": "알토파라과이 주",
+          "nl": "Alto Paraguay",
+          "pl": "Górny Paragwaj",
+          "pt": "Alto Paraguay",
+          "ru": "Альто-Парагвай",
+          "sv": "Alto Paraguay",
+          "tr": "Alta Paraguai",
+          "vi": "Alto Paraguai",
+          "zh": "上巴拉圭省"
+        },
+        "population": 21122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.052499999999995,
+          -22.793
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-1",
+        "area": 2.6329759999999944,
+        "bounding_box": [
+          -57.977,
+          -23.505,
+          -56.128,
+          -22.081
+        ],
+        "point": [
+          -57.052499999999995,
+          -22.793
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "إدارة كونسيبسيون",
+          "bn": null,
+          "de": "Departamento Concepción",
+          "en": "Concepción Department",
+          "es": "Concepción",
+          "fr": "Concepción",
+          "el": null,
+          "hi": null,
+          "hu": "Concepción megye",
+          "id": "Departemen Concepción",
+          "it": "Concepción",
+          "ja": "コンセプシオン県",
+          "ko": "콘셉시온 주",
+          "nl": "Concepción",
+          "pl": "Concepción",
+          "pt": "Concepción",
+          "ru": "Консепсьон",
+          "sv": "Concepción",
+          "tr": null,
+          "vi": null,
+          "zh": "康塞普西翁省"
+        },
+        "population": 253036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1785,
+          -22.968
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-13",
+        "area": 2.376251999999997,
+        "bounding_box": [
+          -56.843,
+          -23.862,
+          -55.514,
+          -22.074
+        ],
+        "point": [
+          -56.1785,
+          -22.968
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إدارة امامباي",
+          "bn": "আমাম্বে",
+          "de": "Departamento Amambay",
+          "en": "Amambay Department",
+          "es": "Amambay",
+          "fr": "Amambay",
+          "el": "Αμαμπάι",
+          "hi": "अमैम्बे",
+          "hu": "Amambay megye",
+          "id": "Departemen Amambay",
+          "it": "Amambay",
+          "ja": "アマンバイ県",
+          "ko": "아맘바이 주",
+          "nl": "Amambay",
+          "pl": "Amambay",
+          "pt": "Amambay",
+          "ru": "Амамбай",
+          "sv": "Amambay",
+          "tr": "Amambay",
+          "vi": "Amambay",
+          "zh": "阿曼拜省"
+        },
+        "population": 139216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.201499999999996,
+          -24.1565
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-14",
+        "area": 2.394482999999993,
+        "bounding_box": [
+          -56.157,
+          -24.783,
+          -54.246,
+          -23.53
+        ],
+        "point": [
+          -55.201499999999996,
+          -24.1565
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "إدارة كانينديو",
+          "bn": "ক্যানিন্দেউ",
+          "de": "Canindeyú",
+          "en": "Canindeyú",
+          "es": "Canindeyú",
+          "fr": "Canindeyú",
+          "el": "Κανιντεγιού",
+          "hi": "कैनंडेउ",
+          "hu": "Canindeyú megye",
+          "id": "Departemen Canindeyú",
+          "it": "Canindeyú",
+          "ja": "カニンデジュ県",
+          "ko": "카닌데유 주",
+          "nl": "Canindeyú",
+          "pl": "Canindeyú",
+          "pt": "Canindeyú",
+          "ru": "Канендию",
+          "sv": "Canindeyú",
+          "tr": "Canindeyú",
+          "vi": "Canindeyú",
+          "zh": "卡寧德尤省"
+        },
+        "population": 254215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.6055,
+          -24.1725
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-2",
+        "area": 2.9582790000000085,
+        "bounding_box": [
+          -57.46,
+          -25.038,
+          -55.751,
+          -23.307
+        ],
+        "point": [
+          -56.6055,
+          -24.1725
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "إدارة سان بيدرو",
+          "bn": "সান পেড্রো",
+          "de": "Departament de San Pedro",
+          "en": "San Pedro Department",
+          "es": "San Pedro",
+          "fr": "San Pedro",
+          "el": "Σαν Πέδρο",
+          "hi": "सैन पेड्रो विभाग",
+          "hu": "San Pedro megye",
+          "id": "Departemen San Pedro",
+          "it": "San Pedro",
+          "ja": "サン・ペドロ県",
+          "ko": "산페드로 주",
+          "nl": "San Pedro",
+          "pl": "San Pedro",
+          "pt": "San Pedro",
+          "ru": "Сан-Педро",
+          "sv": "San Pedro",
+          "tr": "San Pedro",
+          "vi": "San Pedro",
+          "zh": "聖佩德羅省"
+        },
+        "population": 448098
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.879,
+          -25.106
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-5",
+        "area": 2.246880000000003,
+        "bounding_box": [
+          -56.809,
+          -25.71,
+          -54.949,
+          -24.502
+        ],
+        "point": [
+          -55.879,
+          -25.106
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "كاغوازو",
+          "bn": "কাগুয়াজু",
+          "de": "Caaguazú",
+          "en": "Caaguazú",
+          "es": "Caaguazú",
+          "fr": "Caaguazú",
+          "el": "Κααγουασού",
+          "hi": "कागुआजु",
+          "hu": "Caaguazú megye",
+          "id": "Departemen Caaguazú",
+          "it": "Caaguazú",
+          "ja": "カアグアスー県",
+          "ko": "카과수 주",
+          "nl": "Caaguazú",
+          "pl": "Caaguazú",
+          "pt": "Caaguazú",
+          "ru": "Каагуасу",
+          "sv": "Caaguazú",
+          "tr": "Caagazu",
+          "vi": "Caaguazú",
+          "zh": "卡瓜蘇省"
+        },
+        "population": 565637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.974999999999994,
+          -25.2885
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-3",
+        "area": 0.7132799999999992,
+        "bounding_box": [
+          -57.455,
+          -25.66,
+          -56.495,
+          -24.917
+        ],
+        "point": [
+          -56.974999999999994,
+          -25.2885
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "كورديليرا",
+          "bn": "কর্ডিল্যেরা",
+          "de": "Departamento Cordillera",
+          "en": "Cordillera Department",
+          "es": "Cordillera",
+          "fr": "Cordillera",
+          "el": "Κορδιγιέρα",
+          "hi": "कार्डिलेरा",
+          "hu": "Cordillera megye",
+          "id": "Departemen Cordillera",
+          "it": "Cordillera",
+          "ja": "コルディリェラ県",
+          "ko": "코르디예라 주",
+          "nl": "Cordillera",
+          "pl": "Cordillera",
+          "pt": "Cordillera",
+          "ru": "Кордильера",
+          "sv": "Cordillera",
+          "tr": "Cordillera",
+          "vi": "Cordillera",
+          "zh": "科迪勒拉省"
+        },
+        "population": 316415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.004999999999995,
+          -26.163
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-6",
+        "area": 1.907656000000004,
+        "bounding_box": [
+          -56.783,
+          -26.776,
+          -55.227,
+          -25.55
+        ],
+        "point": [
+          -56.004999999999995,
+          -26.163
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "كازابا",
+          "bn": "কাজাপা",
+          "de": "Caazapá",
+          "en": "Caazapá",
+          "es": "Caazapá",
+          "fr": "Caazapá",
+          "el": "Καασαπά",
+          "hi": "कज़ापा",
+          "hu": "Caazapá megye",
+          "id": "Departemen Caazapá",
+          "it": "Caazapá",
+          "ja": "カアサパー県",
+          "ko": "카사파 주",
+          "nl": "Caazapá",
+          "pl": "Caazapá",
+          "pt": "Caazapá",
+          "ru": "Каасапа",
+          "sv": "Caazapá",
+          "tr": "Caazapa",
+          "vi": "Caazapá",
+          "zh": "卡薩帕省"
+        },
+        "population": 186873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.146,
+          -26.024
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-9",
+        "area": 1.3393639999999944,
+        "bounding_box": [
+          -57.705,
+          -26.623,
+          -56.587,
+          -25.425
+        ],
+        "point": [
+          -57.146,
+          -26.024
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": null,
+          "bn": null,
+          "de": "Departamento Paraguarí",
+          "en": "Paraguarí Department",
+          "es": "Paraguarí",
+          "fr": "Paraguarí",
+          "el": null,
+          "hi": null,
+          "hu": "Paraguarí megye",
+          "id": "Departemen Paraguarí",
+          "it": "Paraguarí",
+          "ja": "パラグアリー県",
+          "ko": "파라과리 주",
+          "nl": "Paraguarí",
+          "pl": "Paraguarí",
+          "pt": "Paraguarí",
+          "ru": "Парагуари",
+          "sv": "Paraguarí",
+          "tr": null,
+          "vi": null,
+          "zh": "巴拉瓜里省"
+        },
+        "population": 238738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.147999999999996,
+          -25.877
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "py",
+        "region_child": "py-4",
+        "area": 0.6255079999999985,
+        "bounding_box": [
+          -56.671,
+          -26.176,
+          -55.625,
+          -25.578
+        ],
+        "point": [
+          -56.147999999999996,
+          -25.877
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "غوايرا",
+          "bn": "গোয়াইরা",
+          "de": "Departamento Guairá",
+          "en": "Guairá Department",
+          "es": "Guairá",
+          "fr": "Guairá",
+          "el": "Γκουαϊρά",
+          "hi": "गुयारा विभाग",
+          "hu": "Guairá megye",
+          "id": "Departemen Guairá",
+          "it": "Guairá",
+          "ja": "グアイラー県",
+          "ko": "과이라 주",
+          "nl": "Guairá",
+          "pl": "Guairá",
+          "pt": "Guairá",
+          "ru": "Гуайра",
+          "sv": "Guairá",
+          "tr": "Guaira",
+          "vi": "Guaira",
+          "zh": "瓜伊拉省"
+        },
+        "population": 226418
+      }
+    }
+  ]
+}

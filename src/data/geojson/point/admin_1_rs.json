@@ -1,0 +1,1330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.586,
+          45.8965
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-01",
+        "area": 0.31968000000000013,
+        "bounding_box": [
+          19.298,
+          45.619,
+          19.874,
+          46.174
+        ],
+        "point": [
+          19.586,
+          45.8965
+        ],
+        "labels": {
+          "alt": "North Bačka",
+          "local": "Севернобачки",
+          "len": 13,
+          "ar": "مقاطعة شمال باكشتا",
+          "bn": "নর্থ বাক্কা জেলা",
+          "de": "Okrug Severna Bačka",
+          "en": "North Bačka District",
+          "es": "Distrito de Bačka del Norte",
+          "fr": "Bačka septentrionale",
+          "el": "Βόρειο Μπάκα",
+          "hi": "उत्तर बाक्का जिला",
+          "hu": "Észak-bácskai körzet",
+          "id": "Distrik Bačka Utara",
+          "it": "Distretto della Bačka Settentrionale",
+          "ja": "北バチュカ郡",
+          "ko": "북바치카 구",
+          "nl": "Noord-Bačka",
+          "pl": "Okręg północnobacki",
+          "pt": "Distrito Norte de Backa",
+          "ru": "Северно-Бачский округ",
+          "sv": "Norra Bačka",
+          "tr": "Kuzey Bačka İlçesi",
+          "vi": "Quận Bắc Backa",
+          "zh": "北巴奇卡州"
+        },
+        "population": 171919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.216,
+          45.727999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-05",
+        "area": 0.43629600000000124,
+        "bounding_box": [
+          18.845,
+          45.434,
+          19.587,
+          46.022
+        ],
+        "point": [
+          19.216,
+          45.727999999999994
+        ],
+        "labels": {
+          "alt": "West Bačka",
+          "local": "Западнобачки",
+          "len": 13,
+          "ar": "مقاطعة غرب باكشتا",
+          "bn": "ওয়েস্ট বাক্কা জেলা",
+          "de": "Okrug Zapadna Bačka",
+          "en": "West Bačka District",
+          "es": "Distrito de Bačka del Oeste",
+          "fr": "Bačka occidentale",
+          "el": "Γουέστ Μπάκα",
+          "hi": "पश्चिम बाका जिला",
+          "hu": "Nyugat-bácskai körzet",
+          "id": "Distrik Bačka Barat",
+          "it": "Distretto della Bačka Occidentale",
+          "ja": "西バチュカ郡",
+          "ko": "서바치카 구",
+          "nl": "West-Bačka",
+          "pl": "Okręg zachodniobacki",
+          "pt": "Distrito de Backa Oeste",
+          "ru": "Западно-Бачский округ",
+          "sv": "Västra Bačka",
+          "tr": "Batı Bačka İlçesi",
+          "vi": "Quận Tây Backa",
+          "zh": "西巴奇卡州"
+        },
+        "population": 161750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.204,
+          45.881
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-03",
+        "area": 0.4969480000000023,
+        "bounding_box": [
+          19.765,
+          45.598,
+          20.643,
+          46.164
+        ],
+        "point": [
+          20.204,
+          45.881
+        ],
+        "labels": {
+          "alt": "North Banat",
+          "local": "Севернобанатски",
+          "len": 16,
+          "ar": "شمال مقاطعة بانات",
+          "bn": "নর্থ বানাট জেলা",
+          "de": "Okrug Severni Banat",
+          "en": "North Banat District",
+          "es": "Distrito de Banato del Norte",
+          "fr": "Banat septentrional",
+          "el": "Βόρειο Μπανάτ",
+          "hi": "उत्तरी बनाट जिला",
+          "hu": "Észak-bánsági körzet",
+          "id": "Distrik Banat Utara",
+          "it": "Distretto del Banato Settentrionale",
+          "ja": "北バナト郡",
+          "ko": "북바나트 구",
+          "nl": "Noord-Banaat",
+          "pl": "Okręg północnobanacki",
+          "pt": "Distrito Norte de Banat",
+          "ru": "Северно-Банатский округ",
+          "sv": "Norra Banatet",
+          "tr": "Kuzey Banat İlçesi",
+          "vi": "Quận Bắc Banat",
+          "zh": "北巴納特州"
+        },
+        "population": 130260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.026,
+          42.5275
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-24",
+        "area": 0.59787,
+        "bounding_box": [
+          21.515,
+          42.235,
+          22.537,
+          42.82
+        ],
+        "point": [
+          22.026,
+          42.5275
+        ],
+        "labels": {
+          "alt": "Pčinja",
+          "local": "Пчињски",
+          "len": 8,
+          "ar": "مقاطعة باتشبنيا",
+          "bn": "পিচিঞ্জা জেলা",
+          "de": "Okrug Pčinja",
+          "en": "Pčinja District",
+          "es": "Distrito de Pčinja",
+          "fr": "Pčinja",
+          "el": "Περιφέρεια Πτσίνια",
+          "hi": "प्सेंजे जिला",
+          "hu": null,
+          "id": "Distrik Pčinja",
+          "it": "Distretto di Pčinja",
+          "ja": "プチニャ郡",
+          "ko": "프치나 구",
+          "nl": "Pčinja",
+          "pl": "Okręg pczyński",
+          "pt": "Distrito de Pcinja",
+          "ru": "Пчиньский округ",
+          "sv": "Pcinja",
+          "tr": "Pčinja İlçesi",
+          "vi": "Quận Pcinja",
+          "zh": "普奇尼亞州"
+        },
+        "population": 133633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2685,
+          44.305
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-14",
+        "area": 0.8519940000000059,
+        "bounding_box": [
+          21.772,
+          43.876,
+          22.765,
+          44.734
+        ],
+        "point": [
+          22.2685,
+          44.305
+        ],
+        "labels": {
+          "alt": "Bor",
+          "local": "Борски",
+          "len": 6,
+          "ar": "مقاطعة بور",
+          "bn": "বোর জেলা",
+          "de": "Okrug Bor",
+          "en": "Bor District",
+          "es": "Distrito de Bor",
+          "fr": "Bor",
+          "el": "Περιφέρεια Μπορ",
+          "hi": "बोर जिला",
+          "hu": "Bor körzet",
+          "id": "Distrik Bor",
+          "it": "Distretto di Bor",
+          "ja": "ボル郡",
+          "ko": "보르 구",
+          "nl": "Bor",
+          "pl": "Okręg borski",
+          "pt": "Bor",
+          "ru": "Борский округ",
+          "sv": "Bor distriktet",
+          "tr": "Bor İlçesi",
+          "vi": "Quận Bor",
+          "zh": "博爾州"
+        },
+        "population": 163872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1525,
+          43.745999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-15",
+        "area": 0.832685999999994,
+        "bounding_box": [
+          21.646,
+          43.335,
+          22.659,
+          44.157
+        ],
+        "point": [
+          22.1525,
+          43.745999999999995
+        ],
+        "labels": {
+          "alt": "Zaječar",
+          "local": "Зајечарски",
+          "len": 10,
+          "ar": "مقاطعة زاييتشار",
+          "bn": "জাজেকার জেলা",
+          "de": "Okrug Zaječar",
+          "en": "Zaječar District",
+          "es": "Distrito de Zaječar",
+          "fr": "Zaječar",
+          "el": "Περιφέρεια Ζάγιετσαρ",
+          "hi": "ज़जेका जिला",
+          "hu": null,
+          "id": "Distrik Zaječar",
+          "it": "Distretto di Zaječar",
+          "ja": "ザイェチャル郡",
+          "ko": "자예차르 구",
+          "nl": "Zaječar",
+          "pl": "Okręg zajeczarski",
+          "pt": "Distrito de Zajecar",
+          "ru": "Заечарский округ",
+          "sv": "Zajecar",
+          "tr": "Zayeçar İlçesi",
+          "vi": "Quận Zajecar",
+          "zh": "扎耶查爾州"
+        },
+        "population": 103415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5485,
+          43.1365
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-22",
+        "area": 0.4597010000000029,
+        "bounding_box": [
+          22.114,
+          42.872,
+          22.983,
+          43.401
+        ],
+        "point": [
+          22.5485,
+          43.1365
+        ],
+        "labels": {
+          "alt": "Pirot",
+          "local": "Пиротски",
+          "len": 8,
+          "ar": "مقاطعة بيروت",
+          "bn": "পিরট জেলা",
+          "de": "Okrug Pirot",
+          "en": "Pirot District",
+          "es": "Distrito de Pirot",
+          "fr": "Pirot",
+          "el": "Οκρούγκ Πίροτ",
+          "hi": "पिरोट जिला",
+          "hu": null,
+          "id": "Distrik Pirot",
+          "it": "Distretto di Pirot",
+          "ja": "ピロト郡",
+          "ko": "피로트 구",
+          "nl": "Pirot",
+          "pl": "Okręg pirocki",
+          "pt": "Distrito de Pirot",
+          "ru": "Пиротский округ",
+          "sv": "Pirot",
+          "tr": "Pirot İlçesi",
+          "vi": "Quận Pirot",
+          "zh": "皮羅特州"
+        },
+        "population": 81268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.966,
+          42.921
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-23",
+        "area": 0.5604719999999944,
+        "bounding_box": [
+          21.387,
+          42.679,
+          22.545,
+          43.163
+        ],
+        "point": [
+          21.966,
+          42.921
+        ],
+        "labels": {
+          "alt": "Jablanica",
+          "local": "Јабланички",
+          "len": 10,
+          "ar": "محافظة يابلانيكا",
+          "bn": "জাব্লানিকা জেলা",
+          "de": "Okrug Jablanica",
+          "en": "Jablanica District",
+          "es": "Distrito de Jablanica",
+          "fr": "Jablanica",
+          "el": "Περιφέρεια Γιαμπλάνιτσα",
+          "hi": "जब्लानिका जिला",
+          "hu": null,
+          "id": "Distrik Jablanica",
+          "it": "Distretto di Jablanica",
+          "ja": "ヤブラニツァ郡",
+          "ko": "야블라니차 구",
+          "nl": "Jablanica",
+          "pl": "Okręg jablanicki",
+          "pt": "Distrito de Jablanica",
+          "ru": "Ябланичский округ",
+          "sv": "Jablanica",
+          "tr": "Jablanica İlçesi",
+          "vi": "Quận Jablanica",
+          "zh": "雅布蘭尼卡州"
+        },
+        "population": 195196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.505499999999998,
+          43.343
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-18",
+        "area": 0.9318960000000055,
+        "bounding_box": [
+          20.054,
+          42.827,
+          20.957,
+          43.859
+        ],
+        "point": [
+          20.505499999999998,
+          43.343
+        ],
+        "labels": {
+          "alt": "Raška",
+          "local": "Рашки",
+          "len": 5,
+          "ar": "مقاطعة راشكا",
+          "bn": "রাস্কা জেলা",
+          "de": "Okrug Raška",
+          "en": "Raška District",
+          "es": "Distrito de Raška",
+          "fr": "Raška",
+          "el": "Περιφέρεια Ράσκα",
+          "hi": "रस्का जिला",
+          "hu": null,
+          "id": "Distrik Raška",
+          "it": "distretto di Raška",
+          "ja": "ラシュカ郡",
+          "ko": "라슈카 구",
+          "nl": "Raška",
+          "pl": "Okręg raski",
+          "pt": "Ráscia",
+          "ru": "Рашский округ",
+          "sv": "Raska",
+          "tr": "Raska District",
+          "vi": "Quận Raska",
+          "zh": "拉什卡州"
+        },
+        "population": 325665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.163,
+          43.454
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-19",
+        "area": 0.5077799999999947,
+        "bounding_box": [
+          20.76,
+          43.139,
+          21.566,
+          43.769
+        ],
+        "point": [
+          21.163,
+          43.454
+        ],
+        "labels": {
+          "alt": "Rasina",
+          "local": "Расински",
+          "len": 10,
+          "ar": "مقاطعة راسينا",
+          "bn": "রাসিনা জেলা",
+          "de": "Okrug Rasina",
+          "en": "Rasina District",
+          "es": "Distrito de Rasina",
+          "fr": "Rasina",
+          "el": "Περιφέρεια Ράσινα",
+          "hi": "रसीना जिला",
+          "hu": null,
+          "id": "Distrik Rasina",
+          "it": "Distretto di Rasina",
+          "ja": "ラシナ郡",
+          "ko": "라시나 구",
+          "nl": "Rasina",
+          "pl": "Okręg rasiński",
+          "pt": "Distrito de Rasina",
+          "ru": "Расинский округ",
+          "sv": "Rasina",
+          "tr": "Rasina District",
+          "vi": "Quận Rasina",
+          "zh": "拉辛那州"
+        },
+        "population": 223080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.359,
+          43.114000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-21",
+        "area": 0.48633600000000465,
+        "bounding_box": [
+          20.912,
+          42.842,
+          21.806,
+          43.386
+        ],
+        "point": [
+          21.359,
+          43.114000000000004
+        ],
+        "labels": {
+          "alt": "Toplica",
+          "local": "Топлички",
+          "len": 8,
+          "ar": "مقاطعة توبليكا",
+          "bn": "টপ্লিকা জেলা",
+          "de": "Okrug Toplica",
+          "en": "Toplica District",
+          "es": "Distrito de Toplica",
+          "fr": "Toplica",
+          "el": "Περιφέρεια Τόπλιτσα",
+          "hi": "टॉपलिका जिला",
+          "hu": null,
+          "id": "Distrik Toplica",
+          "it": "Distretto di Toplica",
+          "ja": "トプリツァ郡",
+          "ko": "토플리차 구",
+          "nl": "Toplica",
+          "pl": "Okręg toplicki",
+          "pt": "Distrito de Toplica",
+          "ru": "Топличский округ",
+          "sv": "Toplica distriktet",
+          "tr": "Toplica Dstrict",
+          "vi": "Quận Toplica",
+          "zh": "托普利卡州"
+        },
+        "population": 81722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.729,
+          43.583
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-16",
+        "area": 1.2409320000000017,
+        "bounding_box": [
+          19.176,
+          43.022,
+          20.282,
+          44.144
+        ],
+        "point": [
+          19.729,
+          43.583
+        ],
+        "labels": {
+          "alt": "Zlatibor",
+          "local": "Златиборски",
+          "len": 11,
+          "ar": "مقاطعة زلاتيبور",
+          "bn": "জাতিবোর জেলা",
+          "de": "Okrug Zlatibor",
+          "en": "Zlatibor District",
+          "es": "Distrito de Zlatibor",
+          "fr": "Zlatibor",
+          "el": "Οκρούγκ Ζλάτιμπορ",
+          "hi": "ज़लातिबोर जिला",
+          "hu": "Zlatibor körzet",
+          "id": "Distrik Zlatibor",
+          "it": "Distretto di Zlatibor",
+          "ja": "ズラティボル郡",
+          "ko": "즐라티보르 구",
+          "nl": "Zlatibor",
+          "pl": "Okręg zlatiborski",
+          "pt": "Distrito de Zlatibor",
+          "ru": "Златиборский округ",
+          "sv": "Zlatibor",
+          "tr": "Zlatibor District",
+          "vi": "Quận Zlatibor",
+          "zh": "茲拉提波爾州"
+        },
+        "population": 259465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.674,
+          44.913
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-07",
+        "area": 0.7431040000000053,
+        "bounding_box": [
+          18.991,
+          44.641,
+          20.357,
+          45.185
+        ],
+        "point": [
+          19.674,
+          44.913
+        ],
+        "labels": {
+          "alt": "Srem",
+          "local": "Сремски",
+          "len": 7,
+          "ar": "مقاطعة سريم",
+          "bn": "স্রেম জেলা",
+          "de": "Okrug Srem",
+          "en": "Srem District",
+          "es": "Distrito de Sirmia",
+          "fr": "Syrmie",
+          "el": "Περιφέρεια Σρεμ",
+          "hi": "सरेम जिला",
+          "hu": "Szerémségi körzet",
+          "id": "Distrik Srem",
+          "it": "Distretto della Sirmia",
+          "ja": "スレム郡",
+          "ko": "스렘 구",
+          "nl": "Srem",
+          "pl": "Okręg sremski",
+          "pt": "Distrito de Srem",
+          "ru": "Сремский округ",
+          "sv": "Srem",
+          "tr": "Srem İlçesi",
+          "vi": "Syrmia",
+          "zh": "斯雷姆州"
+        },
+        "population": 293494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.545,
+          44.5165
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-08",
+        "area": 0.7454760000000002,
+        "bounding_box": [
+          19.107,
+          44.091,
+          19.983,
+          44.942
+        ],
+        "point": [
+          19.545,
+          44.5165
+        ],
+        "labels": {
+          "alt": "Mačva",
+          "local": "Мачвански",
+          "len": 9,
+          "ar": "مقاطعة ماتشفا",
+          "bn": "ম্যাকভা জেলা",
+          "de": "Okrug Mačva",
+          "en": "Mačva District",
+          "es": "Distrito de Mačva",
+          "fr": "Mačva",
+          "el": "Περιφέρεια Μάτσβα",
+          "hi": "मकवा जिला",
+          "hu": null,
+          "id": "Distrik Mačva",
+          "it": "Distretto di Mačva",
+          "ja": "マチュヴァ郡",
+          "ko": "마치바 구",
+          "nl": "Mačva",
+          "pl": "Okręg maczwański",
+          "pt": "Distrito de Mačva",
+          "ru": "Мачванский округ",
+          "sv": "Mačva",
+          "tr": "Maçva İlçesi",
+          "vi": "Quận Macva",
+          "zh": "馬切萬州"
+        },
+        "population": 271122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6615,
+          45.455
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-06",
+        "area": 0.833709999999999,
+        "bounding_box": [
+          19.004,
+          45.138,
+          20.319,
+          45.772
+        ],
+        "point": [
+          19.6615,
+          45.455
+        ],
+        "labels": {
+          "alt": "South Bačka",
+          "local": "Јужнобачки",
+          "len": 11,
+          "ar": "مقاطعة جنوب باتشكا",
+          "bn": "সাউথ বাক্কা জেলা",
+          "de": "Okrug Južna Bačka",
+          "en": "South Bačka District",
+          "es": "Distrito de Bačka del Sur",
+          "fr": "Bačka méridionale",
+          "el": "Νότια Μπάκα",
+          "hi": "दक्षिण बाकाका जिला",
+          "hu": "Dél-bácskai körzet",
+          "id": "Distrik Bačka Selatan",
+          "it": "Distretto della Bačka Meridionale",
+          "ja": "南バチュカ郡",
+          "ko": "남바치카 구",
+          "nl": "Zuid-Bačka",
+          "pl": "Okręg południowobacki",
+          "pt": "Distrito Sul de Backa",
+          "ru": "Южно-Бачский округ",
+          "sv": "Södra Bačka",
+          "tr": "Güney Bačka İlçesi",
+          "vi": "Quận Nam Backa",
+          "zh": "南巴奇卡州"
+        },
+        "population": 650236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5405,
+          45.43
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-02",
+        "area": 0.6956900000000034,
+        "bounding_box": [
+          20.064,
+          45.065,
+          21.017,
+          45.795
+        ],
+        "point": [
+          20.5405,
+          45.43
+        ],
+        "labels": {
+          "alt": "Central Banat",
+          "local": "Средњебанатски",
+          "len": 16,
+          "ar": "مقاطعة سنترال بانات",
+          "bn": "সেন্ট্রাল বানাট জেলা",
+          "de": "Okrug Srednji Banat",
+          "en": "Central Banat District",
+          "es": "Distrito de Banato Central",
+          "fr": "Banat central",
+          "el": "Κεντρικό Μπανάτ",
+          "hi": "केंद्रीय बनाट जिला",
+          "hu": "Közép-bánsági körzet",
+          "id": "Distrik Central Banat",
+          "it": "Distretto del Banato Centrale",
+          "ja": "中央バナト郡",
+          "ko": "중앙바나트 구",
+          "nl": "Centraal-Banaat",
+          "pl": "Okręg środkowobanacki",
+          "pt": "Distrito Central de Banat",
+          "ru": "Средне-Банатский округ",
+          "sv": "Mellersta Banatet",
+          "tr": "Orta Banat İlçesi",
+          "vi": "Quận Trung Banat",
+          "zh": "中巴納特州"
+        },
+        "population": 167434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9585,
+          44.992999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-04",
+        "area": 0.739311999999998,
+        "bounding_box": [
+          20.395,
+          44.665,
+          21.522,
+          45.321
+        ],
+        "point": [
+          20.9585,
+          44.992999999999995
+        ],
+        "labels": {
+          "alt": "South Banat",
+          "local": "Јужнобанатски",
+          "len": 14,
+          "ar": "مقاطعة جنوب بانات",
+          "bn": "সাউথ বানাত জেলা",
+          "de": "Okrug Južni Banat",
+          "en": "South Banat District",
+          "es": "Distrito de Banato del Sur",
+          "fr": "Banat méridional",
+          "el": "Νότιο Μπανάτ",
+          "hi": "दक्षिणी बनाट ज़िला",
+          "hu": "Dél-bánsági körzet",
+          "id": "Distrik Banat Selatan",
+          "it": "Distretto del Banato Meridionale",
+          "ja": "南バナト郡",
+          "ko": "남바나트 구",
+          "nl": "Zuid-Banaat",
+          "pl": "Okręg południowobanacki",
+          "pt": "Distrito Sul de Banat",
+          "ru": "Южно-Банатский округ",
+          "sv": "Södra Banatet",
+          "tr": "Güney Banat İlçesi",
+          "vi": "Quận Nam Banat",
+          "zh": "南巴納特州"
+        },
+        "population": 272826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5365,
+          44.4465
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-11",
+        "area": 0.7602389999999974,
+        "bounding_box": [
+          21.037,
+          44.066,
+          22.036,
+          44.827
+        ],
+        "point": [
+          21.5365,
+          44.4465
+        ],
+        "labels": {
+          "alt": "Braničevo",
+          "local": "Браничевски",
+          "len": 11,
+          "ar": "مقاطعة برانيتشيفو",
+          "bn": "ব্রানিকেভো জেলা",
+          "de": "Okrug Braničevo",
+          "en": "Braničevo District",
+          "es": "Distrito de Braničevo",
+          "fr": "Braničevo",
+          "el": "Μπρανιτσέβο",
+          "hi": "ब्रनिसवो जिला",
+          "hu": null,
+          "id": "Distrik Braničevo",
+          "it": "Distretto di Braničevo",
+          "ja": "ブラニチェヴォ郡",
+          "ko": "브라니체보 구",
+          "nl": "Braničevo",
+          "pl": "Okręg braniczewski",
+          "pt": "Braničevo",
+          "ru": "Браничевский округ",
+          "sv": "Branicevo",
+          "tr": "Braniçevo İlçesi",
+          "vi": "Quận Branicevo",
+          "zh": "布蘭尼切夫州"
+        },
+        "population": 181419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.396,
+          44.66
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-00",
+        "area": 0.7139999999999981,
+        "bounding_box": [
+          19.971,
+          44.24,
+          20.821,
+          45.08
+        ],
+        "point": [
+          20.396,
+          44.66
+        ],
+        "labels": {
+          "alt": "Belgrade",
+          "local": "Београд",
+          "len": 12,
+          "ar": "بلغراد",
+          "bn": "বেলগ্রেড",
+          "de": "Belgrad",
+          "en": "Belgrade",
+          "es": "Belgrado",
+          "fr": "Belgrade",
+          "el": "Βελιγράδι",
+          "hi": "बॅलग्रेड",
+          "hu": "Belgrád",
+          "id": "Beograd",
+          "it": "Belgrado",
+          "ja": "ベオグラード",
+          "ko": "베오그라드",
+          "nl": "Belgrado",
+          "pl": "Belgrad",
+          "pt": "Belgrado",
+          "ru": "Белград",
+          "sv": "Belgrad",
+          "tr": "Belgrad",
+          "vi": "Beograd",
+          "zh": "贝尔格莱德"
+        },
+        "population": 1754344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.95,
+          44.4525
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-10",
+        "area": 0.2350040000000006,
+        "bounding_box": [
+          20.732,
+          44.183,
+          21.168,
+          44.722
+        ],
+        "point": [
+          20.95,
+          44.4525
+        ],
+        "labels": {
+          "alt": "Podunavlje|Danube",
+          "local": "Подунавски",
+          "len": 10,
+          "ar": "مقاطعة بودونافلي",
+          "bn": "পোডুনাভজে জেলা",
+          "de": "Okrug Podunavlje",
+          "en": "Podunavlje District",
+          "es": "Distrito de Podunavlje",
+          "fr": "Podunavlje",
+          "el": "Παραδουνάβια Οκρούγκ",
+          "hi": "पोडूनाव्लिये जिला",
+          "hu": null,
+          "id": "Distrik Podunavlje",
+          "it": "Distretto di Podunavlje",
+          "ja": "ポドゥナヴリェ郡",
+          "ko": "포두나블레 구",
+          "nl": "Podunavlje",
+          "pl": "Okręg podunajski",
+          "pt": "Distrito de Podunavlje",
+          "ru": "Подунайский округ",
+          "sv": "Podunavlje",
+          "tr": "Podunavlye İlçesi",
+          "vi": "Quận Podunavlje",
+          "zh": "波杜那瓦州"
+        },
+        "population": 196440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.909,
+          43.431
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-20",
+        "area": 0.6591839999999992,
+        "bounding_box": [
+          21.466,
+          43.059,
+          22.352,
+          43.803
+        ],
+        "point": [
+          21.909,
+          43.431
+        ],
+        "labels": {
+          "alt": "Nišava",
+          "local": "Нишавски",
+          "len": 8,
+          "ar": "مقاطعة نيشافا",
+          "bn": "নিসাবা জেলা",
+          "de": "Nišavski okrug",
+          "en": "Nišava District",
+          "es": "Distrito de Nišava",
+          "fr": "Nišava",
+          "el": "Νίσαβα",
+          "hi": "निसावा जिला",
+          "hu": null,
+          "id": "Distrik Nišava",
+          "it": "Distretto di Nišava",
+          "ja": "ニシャヴァ郡",
+          "ko": "니샤바 구",
+          "nl": "Nišava",
+          "pl": "Okręg niszawski",
+          "pt": "Distrito de Nisava",
+          "ru": "Нишавский округ",
+          "sv": "Nisava",
+          "tr": "Nišava İlçesi",
+          "vi": "Quận Nisava",
+          "zh": "尼沙瓦州"
+        },
+        "population": 377317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.363,
+          44.0005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-13",
+        "area": 0.5214300000000004,
+        "bounding_box": [
+          20.908,
+          43.714,
+          21.818,
+          44.287
+        ],
+        "point": [
+          21.363,
+          44.0005
+        ],
+        "labels": {
+          "alt": "Pomoravlje",
+          "local": "Поморавски",
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 204024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.764,
+          44.104
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-12",
+        "area": 0.4724999999999966,
+        "bounding_box": [
+          20.389,
+          43.789,
+          21.139,
+          44.419
+        ],
+        "point": [
+          20.764,
+          44.104
+        ],
+        "labels": {
+          "alt": "Šumadija",
+          "local": "Шумадијски",
+          "len": 10,
+          "ar": "مقاطعة شوماديا",
+          "bn": "সোমাডিজা জেলা",
+          "de": "Okrug Šumadija",
+          "en": "Šumadija District",
+          "es": "Distrito de Šumadija",
+          "fr": "Šumadija",
+          "el": "Σουμάντια",
+          "hi": "सुमादिया जिला",
+          "hu": null,
+          "id": "Distrik Šumadija",
+          "it": "Distretto di Šumadija",
+          "ja": "シュマディヤ郡",
+          "ko": "슈마디야 구",
+          "nl": "Šumadija",
+          "pl": "Okręg szumadijski",
+          "pt": "Distrito de Sumadija",
+          "ru": "Шумадийский округ",
+          "sv": "Sumadija",
+          "tr": "Šumadija İlçesi",
+          "vi": "Quận Sumadija",
+          "zh": "舒馬迪亞州"
+        },
+        "population": 284916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.268,
+          43.763999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-17",
+        "area": 0.6749359999999966,
+        "bounding_box": [
+          19.915,
+          43.286,
+          20.621,
+          44.242
+        ],
+        "point": [
+          20.268,
+          43.763999999999996
+        ],
+        "labels": {
+          "alt": "Moravica|Morava",
+          "local": "Моравички",
+          "len": 9,
+          "ar": "مقاطعة مورافيكا",
+          "bn": "মোরাভিকাজেলা",
+          "de": "Okrug Moravica",
+          "en": "Moravica District",
+          "es": "Distrito de Moravica",
+          "fr": "Moravica",
+          "el": "Περιφέρεια Μοράβιτσα",
+          "hi": "मोराविका जिला",
+          "hu": null,
+          "id": "Distrik Moravica",
+          "it": "Distretto di Moravica",
+          "ja": "モラヴィツァ郡",
+          "ko": "모라비차 구",
+          "nl": "Moravica",
+          "pl": "Okręg morawicki",
+          "pt": "Distrito de Moravica",
+          "ru": "Моравичский округ",
+          "sv": "Moravica",
+          "tr": "Moravica District",
+          "vi": "Quận Moravica",
+          "zh": "莫拉瓦州"
+        },
+        "population": 201479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.926499999999997,
+          44.314
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "rs",
+        "region_child": "rs-09",
+        "area": 0.49848599999999466,
+        "bounding_box": [
+          19.43,
+          44.063,
+          20.423,
+          44.565
+        ],
+        "point": [
+          19.926499999999997,
+          44.314
+        ],
+        "labels": {
+          "alt": "Kolubara",
+          "local": "Колубарски",
+          "len": 10,
+          "ar": "مقاطعة كولوبارا",
+          "bn": "কুলোবারা জেলা",
+          "de": "Okrug Kolubara",
+          "en": "Kolubara District",
+          "es": "Distrito de Kolubara",
+          "fr": "Kolubara",
+          "el": "Περιφέρεια Κολούμπαρα",
+          "hi": "कोलुबरा जिला",
+          "hu": null,
+          "id": "Distrik Kolubara",
+          "it": "Distretto di Kolubara",
+          "ja": "コルバラ郡",
+          "ko": "콜루바라 구",
+          "nl": "Kolubara",
+          "pl": "Okręg kolubarski",
+          "pt": "Distrito de Kolubara",
+          "ru": "Колубарский округ",
+          "sv": "Kolubare",
+          "tr": "Kolubara İlçesi",
+          "vi": "Quận Kolubara",
+          "zh": "科盧巴拉州"
+        },
+        "population": 155127
+      }
+    }
+  ]
+}

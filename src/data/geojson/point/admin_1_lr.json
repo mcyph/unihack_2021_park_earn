@@ -1,0 +1,800 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.995000000000001,
+          7.0685
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-cm",
+        "area": 0.9148620000000011,
+        "bounding_box": [
+          -11.476,
+          6.593,
+          -10.514,
+          7.544
+        ],
+        "point": [
+          -10.995000000000001,
+          7.0685
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "مقاطعة غراند كيب ماونت",
+          "bn": "গ্র্যান্ড কেপ মাউন্ট কাউন্টি",
+          "de": "Grand Cape Mount County",
+          "en": "Grand Cape Mount County",
+          "es": "Grand Cape Mount",
+          "fr": "Comté de Grand Cape Mount",
+          "el": "Γκραντ Κέιπ Μάουντ",
+          "hi": "ग्रैंड केप माउंट काउंटी",
+          "hu": null,
+          "id": "Grand Cape Mount County",
+          "it": "contea di Grand Cape Mount",
+          "ja": "グランドケープマウント郡",
+          "ko": "그랜드케이프마운트 주",
+          "nl": "Grand Cape Mount",
+          "pl": "Hrabstwo Grand Cape Mount",
+          "pt": "Grand Cape Mount",
+          "ru": "Гранд-Кейп-Маунт",
+          "sv": "Grand Cape Mount County",
+          "tr": "Grand Cape Mount County",
+          "vi": "Hạt Grand Cape Mount",
+          "zh": "大角山县"
+        },
+        "population": 181091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.312000000000001,
+          7.419499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-x1~",
+        "area": 1.5135779999999992,
+        "bounding_box": [
+          -10.939,
+          6.816,
+          -9.685,
+          8.023
+        ],
+        "point": [
+          -10.312000000000001,
+          7.419499999999999
+        ],
+        "labels": {
+          "alt": "Gbarpolu",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة غباربولو",
+          "bn": "গ্যবারপলু কাউন্টি",
+          "de": "Gbarpolu County",
+          "en": "Gbarpolu County",
+          "es": "Gbarpolu",
+          "fr": "Comté de Gbarpolu",
+          "el": "Γκπαρπόλου",
+          "hi": "बारपोलू काउंटी",
+          "hu": null,
+          "id": "Gbarpolu County",
+          "it": "contea di Gbarpolu",
+          "ja": "バルポル郡",
+          "ko": "바르폴루 주",
+          "nl": "Gbarpolu",
+          "pl": "Hrabstwo Gbarpolu",
+          "pt": "Gbarpolu",
+          "ru": "Гбарполу",
+          "sv": "Gbarpolu County",
+          "tr": "Gbarpolu County",
+          "vi": "Hạt Gbarpolu",
+          "zh": "巴波卢县"
+        },
+        "population": 115169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.985,
+          7.8765
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-lo",
+        "area": 1.7327260000000009,
+        "bounding_box": [
+          -10.616,
+          7.19,
+          -9.354,
+          8.563
+        ],
+        "point": [
+          -9.985,
+          7.8765
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة لوفا",
+          "bn": "লোফা কাউন্টি",
+          "de": "Lofa County",
+          "en": "Lofa County",
+          "es": "Lofa",
+          "fr": "Comté de Lofa",
+          "el": "Λόφα",
+          "hi": "लोफ़ा काउंटी",
+          "hu": null,
+          "id": "Lofa County",
+          "it": "contea di Lofa",
+          "ja": "ロファ郡",
+          "ko": "로파 주",
+          "nl": "Lofa",
+          "pl": "Hrabstwo Lofa",
+          "pt": "Lofa",
+          "ru": "Лофа",
+          "sv": "Lofa County",
+          "tr": "Lofa County",
+          "vi": "Hạt Lofa",
+          "zh": "洛法县"
+        },
+        "population": 320425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.736,
+          6.763
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-ni",
+        "area": 1.6832479999999999,
+        "bounding_box": [
+          -9.188,
+          5.832,
+          -8.284,
+          7.694
+        ],
+        "point": [
+          -8.736,
+          6.763
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة نيمبا",
+          "bn": "নিম্বা",
+          "de": "Nimba County",
+          "en": "Nimba",
+          "es": "Nimba",
+          "fr": "Comté de Nimba",
+          "el": "Νίμπα",
+          "hi": "निम्बा",
+          "hu": null,
+          "id": "Nimba",
+          "it": "contea di Nimba",
+          "ja": "ニンバ郡",
+          "ko": "님바 주",
+          "nl": "Nimba",
+          "pl": "Hrabstwo Nimba",
+          "pt": "Nimba",
+          "ru": "Нимба",
+          "sv": "Nimba County",
+          "tr": "Nimba",
+          "vi": "Nimba",
+          "zh": "寧巴縣"
+        },
+        "population": 554110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1675,
+          5.975
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-gg",
+        "area": 1.5964760000000011,
+        "bounding_box": [
+          -8.938,
+          5.457,
+          -7.397,
+          6.493
+        ],
+        "point": [
+          -8.1675,
+          5.975
+        ],
+        "labels": {
+          "alt": "Grand Gedeh",
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة غراند غيده",
+          "bn": "গ্রান্ড গাদেহ কাউন্টি",
+          "de": "Grand Gedeh County",
+          "en": "Grand Gedeh County",
+          "es": "Grand Gedeh",
+          "fr": "Comté de Grand Gedeh",
+          "el": "Γκραντ Γκεντέ",
+          "hi": "ग्रैंड गेदेह काउंटी",
+          "hu": null,
+          "id": "Grand Gedeh County",
+          "it": "contea di Grand Gedeh",
+          "ja": "グランドゲデ郡",
+          "ko": "그랜드 게데 주",
+          "nl": "Grand Gedeh",
+          "pl": "Grand Gedeh",
+          "pt": "Grand Gedeh",
+          "ru": "Гранд-Геде",
+          "sv": "Grand Gedeh County",
+          "tr": "Grand Gedeh County",
+          "vi": "Hạt Grand Gedeh",
+          "zh": "大各德县"
+        },
+        "population": 179139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.914999999999999,
+          5.165
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-x2~",
+        "area": 0.7307999999999996,
+        "bounding_box": [
+          -8.44,
+          4.817,
+          -7.39,
+          5.513
+        ],
+        "point": [
+          -7.914999999999999,
+          5.165
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة ريفر جي",
+          "bn": "রিভার গি কাউন্টি",
+          "de": "River Gee County",
+          "en": "River Gee County",
+          "es": "River Gee",
+          "fr": "Comté de River Gee",
+          "el": "Ρίβερ Γκι",
+          "hi": "रिवर जी काउंटी",
+          "hu": null,
+          "id": "River Gee County",
+          "it": "contea di River Gee",
+          "ja": "リバージー郡",
+          "ko": "리버지 주",
+          "nl": "River Gee",
+          "pl": "Hrabstwo River Gee",
+          "pt": "River Gee",
+          "ru": "Ривер-Ги",
+          "sv": "River Gee County",
+          "tr": "River Gee County",
+          "vi": "Hạt River Gee",
+          "zh": "吉河县"
+        },
+        "population": 85684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8205,
+          4.73
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-my",
+        "area": 0.42819399999999946,
+        "bounding_box": [
+          -8.1,
+          4.347,
+          -7.541,
+          5.113
+        ],
+        "point": [
+          -7.8205,
+          4.73
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة ماريلاند",
+          "bn": "ম্যারিল্যান্ড কাউন্টি",
+          "de": "Maryland County",
+          "en": "Maryland County",
+          "es": "Condado de Maryland",
+          "fr": "Comté de Maryland",
+          "el": "Μέριλαντ",
+          "hi": "मेरीलैंड काउंटी",
+          "hu": null,
+          "id": "Maryland County",
+          "it": "contea di Maryland",
+          "ja": "メリーランド郡",
+          "ko": "메릴랜드 주",
+          "nl": "Maryland",
+          "pl": "Hrabstwo Maryland",
+          "pt": "Maryland",
+          "ru": "Мэриленд",
+          "sv": "Maryland County",
+          "tr": "Maryland County",
+          "vi": "Hạt Maryland",
+          "zh": "馬里蘭縣"
+        },
+        "population": 174617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.806000000000001,
+          6.932
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-bg",
+        "area": 1.3719999999999997,
+        "bounding_box": [
+          -10.506,
+          6.442,
+          -9.106,
+          7.422
+        ],
+        "point": [
+          -9.806000000000001,
+          6.932
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة بونغ",
+          "bn": "বং কাউন্টি",
+          "de": "Bong County",
+          "en": "Bong County",
+          "es": "Bong",
+          "fr": "Comté de Bong",
+          "el": "Μπονγκ",
+          "hi": "बोंग काउंटी",
+          "hu": null,
+          "id": "Bong County",
+          "it": "contea di Bong",
+          "ja": "ボン郡",
+          "ko": "봉 주",
+          "nl": "Bong",
+          "pl": "Hrabstwo Bong",
+          "pt": "Bong",
+          "ru": "Бонг",
+          "sv": "Bong County",
+          "tr": "Bong County",
+          "vi": "Hạt Bong",
+          "zh": "邦县"
+        },
+        "population": 399708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.773,
+          6.6975
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-bm",
+        "area": 0.3593280000000004,
+        "bounding_box": [
+          -11.077,
+          6.402,
+          -10.469,
+          6.993
+        ],
+        "point": [
+          -10.773,
+          6.6975
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة بومي",
+          "bn": "বমি কাউন্টি",
+          "de": "Bomi County",
+          "en": "Bomi County",
+          "es": "Bomi",
+          "fr": "Comté de Bomi",
+          "el": "Μπόμι",
+          "hi": "बोमी काउंटी",
+          "hu": null,
+          "id": "Bomi County",
+          "it": "contea di Bomi",
+          "ja": "ボミ郡",
+          "ko": "보미 주",
+          "nl": "Bomi",
+          "pl": "Hrabstwo Bomi",
+          "pt": "Bomi",
+          "ru": "Боми",
+          "sv": "Bomi County",
+          "tr": "Bomi County",
+          "vi": "Hạt Bomi",
+          "zh": "伯米县"
+        },
+        "population": 129205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.5815,
+          6.529
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-mo",
+        "area": 0.27691400000000027,
+        "bounding_box": [
+          -10.807,
+          6.222,
+          -10.356,
+          6.836
+        ],
+        "point": [
+          -10.5815,
+          6.529
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة مونتسرادو",
+          "bn": "মন্টসেররাডো কাউন্টি",
+          "de": "Montserrado County",
+          "en": "Montserrado County",
+          "es": "Condado de Montserrado",
+          "fr": "Comté de Montserrado",
+          "el": "Μοντσεράντο",
+          "hi": "मोंटसेरैडो काउंटी",
+          "hu": null,
+          "id": "Montserrado County",
+          "it": "contea di Montserrado",
+          "ja": "モンセラード郡",
+          "ko": "몽세라도 주",
+          "nl": "Montserrado",
+          "pl": "Hrabstwo Montserrado",
+          "pt": "Montserrado",
+          "ru": "Монтсеррадо",
+          "sv": "Montserrado County",
+          "tr": "Montserrado County",
+          "vi": "Montserrado",
+          "zh": "蒙特塞拉多县"
+        },
+        "population": 1456465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.1785,
+          6.468999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-mg",
+        "area": 0.583212,
+        "bounding_box": [
+          -10.637,
+          6.151,
+          -9.72,
+          6.787
+        ],
+        "point": [
+          -10.1785,
+          6.468999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة مارجيبي",
+          "bn": "মারগিবি কাউন্টি",
+          "de": "Margibi County",
+          "en": "Margibi County",
+          "es": "Margibi",
+          "fr": "Comté de Margibi",
+          "el": "Μάργκιμπι",
+          "hi": "मारजीबी काउंटी",
+          "hu": null,
+          "id": "Margibi County",
+          "it": "contea di Margibi",
+          "ja": "マージビ郡",
+          "ko": "마르지비 주",
+          "nl": "Margibi",
+          "pl": "Hrabstwo Margibi",
+          "pt": "Margibi",
+          "ru": "Маргиби",
+          "sv": "Margibi County",
+          "tr": "Margibi County",
+          "vi": "Hạt Margibi",
+          "zh": "马及比县"
+        },
+        "population": 227644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.729,
+          6.1165
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-gb",
+        "area": 1.3665960000000013,
+        "bounding_box": [
+          -10.367,
+          5.581,
+          -9.091,
+          6.652
+        ],
+        "point": [
+          -9.729,
+          6.1165
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة غراند باسا",
+          "bn": "গ্রান্ড বাসসা কাউন্টি",
+          "de": "Grand Bassa County",
+          "en": "Grand Bassa County",
+          "es": "Grand Bassa",
+          "fr": "Comté de Grand Bassa",
+          "el": "Γκραντ Μπάσσα",
+          "hi": "ग्रैंड बासा काउंटी",
+          "hu": null,
+          "id": "Grand Bassa County",
+          "it": "contea di Grand Bassa",
+          "ja": "グランドバッサ郡",
+          "ko": "그랜드바사 주",
+          "nl": "Grand Bassa",
+          "pl": "Grand Bassa",
+          "pt": "Grand Bassa",
+          "ru": "Гранд-Баса",
+          "sv": "Grand Bassa County",
+          "tr": "Grand Bassa County",
+          "vi": "Hạt Grand Bassa",
+          "zh": "大巴萨县"
+        },
+        "population": 240575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.397,
+          5.813000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-ri",
+        "area": 0.728448000000001,
+        "bounding_box": [
+          -9.733,
+          5.271,
+          -9.061,
+          6.355
+        ],
+        "point": [
+          -9.397,
+          5.813000000000001
+        ],
+        "labels": {
+          "alt": "Rivercess",
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة ريفرسيس",
+          "bn": "রিভারকেস কাউন্টি",
+          "de": "River Cess County",
+          "en": "Rivercess County",
+          "es": "Condado de Rivercess",
+          "fr": "Comté de River Cess",
+          "el": "Ρίβερκες",
+          "hi": "रिवरसेस काउंटी",
+          "hu": null,
+          "id": "Rivercess County",
+          "it": "contea di River Cess",
+          "ja": "リバーセス郡",
+          "ko": "리버세스 주",
+          "nl": "River Cess",
+          "pl": "Hrabstwo River Cess",
+          "pt": "River Cess",
+          "ru": "Ривер-Сесс",
+          "sv": "River Cess County",
+          "tr": "Rivercess County",
+          "vi": "Hạt Rivercess",
+          "zh": "里弗塞斯縣"
+        },
+        "population": 92702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.868500000000001,
+          5.3485
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-si",
+        "area": 1.1804130000000004,
+        "bounding_box": [
+          -9.429,
+          4.822,
+          -8.308,
+          5.875
+        ],
+        "point": [
+          -8.868500000000001,
+          5.3485
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة سينو",
+          "bn": "সিনো কাউন্টি",
+          "de": "Sinoe County",
+          "en": "Sinoe County",
+          "es": "Sinoe",
+          "fr": "Comté de Sinoe",
+          "el": "Σινόε",
+          "hi": "सीनो काउंटी",
+          "hu": null,
+          "id": "Sinoe County",
+          "it": "contea di Sinoe",
+          "ja": "シノエ郡",
+          "ko": "시노에 주",
+          "nl": "Sinoe",
+          "pl": "Hrabstwo Sinoe",
+          "pt": "Sinoe",
+          "ru": "Синоэ",
+          "sv": "Sinoe County",
+          "tr": "Sinoe County",
+          "vi": "Hạt Sinoe",
+          "zh": "錫諾縣"
+        },
+        "population": 114811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.259500000000001,
+          4.813000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lr",
+        "region_child": "lr-gk",
+        "area": 0.6347459999999997,
+        "bounding_box": [
+          -8.704,
+          4.456,
+          -7.815,
+          5.17
+        ],
+        "point": [
+          -8.259500000000001,
+          4.813000000000001
+        ],
+        "labels": {
+          "alt": "Grand Kru",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة غراند كرو",
+          "bn": "গ্র্যান্ড ক্রু কাউন্টি",
+          "de": "Grand Kru County",
+          "en": "Grand Kru County",
+          "es": "Grand Kru",
+          "fr": "Comté de Grand Kru",
+          "el": "Γκραντ Κρου",
+          "hi": "ग्रैंड क्रू काउंटी",
+          "hu": null,
+          "id": "Grand Kru County",
+          "it": "contea di Grand Kru",
+          "ja": "グランドクル郡",
+          "ko": "그랜드크루 주",
+          "nl": "Grand Kru",
+          "pl": "Hrabstwo Grand Kru",
+          "pt": "Grand Kru",
+          "ru": "Гранд-Кру",
+          "sv": "Grand Kru County",
+          "tr": "Grand Kru County",
+          "vi": "Hạt Grand Kru",
+          "zh": "大克鲁县"
+        },
+        "population": 61690
+      }
+    }
+  ]
+}

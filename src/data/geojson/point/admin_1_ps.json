@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.364000000000004,
+          31.397
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ps",
+        "region_child": "ps-gzz",
+        "area": 0.12201599999999842,
+        "bounding_box": [
+          34.2,
+          31.211,
+          34.528,
+          31.583
+        ],
+        "point": [
+          34.364000000000004,
+          31.397
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "محافظة غزة",
+          "bn": null,
+          "de": "Gouvernement Gaza",
+          "en": "Gaza Governorate",
+          "es": "Gobernación de Gaza",
+          "fr": "gouvernorat de Gaza",
+          "el": null,
+          "hi": null,
+          "hu": "Gáza kormányzóság",
+          "id": "Kegubernuran Gaza",
+          "it": "governatorato di Gaza",
+          "ja": "ガザ県",
+          "ko": "가자 주",
+          "nl": "Gaza",
+          "pl": null,
+          "pt": null,
+          "ru": "Газа",
+          "sv": null,
+          "tr": "Gazze valiliği",
+          "vi": null,
+          "zh": "加沙省"
+        },
+        "population": 2086832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22,
+          31.9435
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ps",
+        "region_child": "ps-wbk",
+        "area": 0.8450820000000056,
+        "bounding_box": [
+          34.867,
+          31.345,
+          35.573,
+          32.542
+        ],
+        "point": [
+          35.22,
+          31.9435
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 4259498
+      }
+    }
+  ]
+}

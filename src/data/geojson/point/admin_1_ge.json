@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.07,
+          42.991
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-ab",
+        "area": 2.5365600000000113,
+        "bounding_box": [
+          39.986,
+          42.406,
+          42.154,
+          43.576
+        ],
+        "point": [
+          41.07,
+          42.991
+        ],
+        "labels": {
+          "alt": "Sokhumi",
+          "local": null,
+          "len": 8,
+          "ar": "أبخازيا",
+          "bn": "আবখাজিয়া",
+          "de": "Abchasien",
+          "en": "Abkhazia",
+          "es": "Abjasia",
+          "fr": "Abkhazie",
+          "el": "Αμπχαζία",
+          "hi": "अबख़ाज़िया",
+          "hu": "Abházia",
+          "id": "Abkhazia",
+          "it": "Abcasia",
+          "ja": "アブハジア",
+          "ko": "압하지야",
+          "nl": "Abchazië",
+          "pl": "Abchazja",
+          "pt": "Abecásia",
+          "ru": "Абхазия",
+          "sv": "Abchazien",
+          "tr": "Abhazya",
+          "vi": "Abkhazia",
+          "zh": "阿布哈茲"
+        },
+        "population": 278624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.363,
+          42.647
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-sz",
+        "area": 1.9098239999999975,
+        "bounding_box": [
+          41.551,
+          42.059,
+          43.175,
+          43.235
+        ],
+        "point": [
+          42.363,
+          42.647
+        ],
+        "labels": {
+          "alt": "Zugdidi",
+          "local": null,
+          "len": 22,
+          "ar": "سامغريلو زيمو سفانيتي",
+          "bn": "সেমগ্রেলো-জেমো ভেনাতি",
+          "de": "Mingrelien und Oberswanetien",
+          "en": "Samegrelo-Zemo Svaneti",
+          "es": "Samegrelo-Zemo Svaneti",
+          "fr": "Mingrélie-Haute Svanétie",
+          "el": "Σαμεγκρέλο-Ζέμο Σβανέτι",
+          "hi": "समग्रेलो-ज़मो स्वानेती",
+          "hu": "Szamegrelo-Felső-Szvanéti",
+          "id": "Samegrelo-Zemo Svaneti",
+          "it": "Mingrelia-Alta Svanezia",
+          "ja": "サメグレロ＝ゼモ・スヴァネティ州",
+          "ko": "사메그렐로제모스바네티 주",
+          "nl": "Samegrelo-Zemo Svaneti",
+          "pl": "Megrelia i Górna Swanetia",
+          "pt": "Samegrelo-Zemo Svaneti",
+          "ru": "Самегрело — Земо-Сванети",
+          "sv": "Megrelien-Övre Svanetien",
+          "tr": "Samegrelo-Zemo Svaneti",
+          "vi": "Samegrelo-Zemo Svaneti",
+          "zh": "薩梅格列羅-上斯瓦涅季亞州"
+        },
+        "population": 279443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9995,
+          42.172
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-sk",
+        "area": 1.0437700000000028,
+        "bounding_box": [
+          43.426,
+          41.717,
+          44.573,
+          42.627
+        ],
+        "point": [
+          43.9995,
+          42.172
+        ],
+        "labels": {
+          "alt": "Gori",
+          "local": null,
+          "len": 12,
+          "ar": "شيدا كارتلي",
+          "bn": "সিদা কার্টলি",
+          "de": "Innerkartlien",
+          "en": "Shida Kartli",
+          "es": "Shida Kartli",
+          "fr": "Kartlie intérieure",
+          "el": "Σίντα Καρτλί",
+          "hi": "शिडा कर्टली",
+          "hu": "Felső-Kartli",
+          "id": "Shida Kartli",
+          "it": "Shida Kartli",
+          "ja": "シダ・カルトリ州",
+          "ko": "시다카르틀리 주",
+          "nl": "Sjida Kartli",
+          "pl": "Wewnętrzna Kartlia",
+          "pt": "Shida Kartli",
+          "ru": "Верхняя Карталиния",
+          "sv": "Inre Kartlien",
+          "tr": "Şida Kartli",
+          "vi": "Shida Kartli",
+          "zh": "什達-卡特利州"
+        },
+        "population": 235276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1305,
+          42.637
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-rl",
+        "area": 0.9236699999999907,
+        "bounding_box": [
+          42.353,
+          42.34,
+          43.908,
+          42.934
+        ],
+        "point": [
+          43.1305,
+          42.637
+        ],
+        "labels": {
+          "alt": "Ambrolauri",
+          "local": null,
+          "len": 29,
+          "ar": "راتشا-ليخخومي وكفيمو سفانيتي",
+          "bn": "রচা- লেচুমি এবং কিভোম ভেনেটি",
+          "de": "Ratscha-Letschchumi und Niederswanetien",
+          "en": "Racha-Lechkhumi and Kvemo Svaneti",
+          "es": "Racha-Lechjumi y Kvemo Svaneti",
+          "fr": "Racha-Lechkhumi et Kvemo Svaneti",
+          "el": "Ράτσα-Λετσκούμι και Κβέμο Σβανέτι",
+          "hi": "रचा-लेचुखुमी और क्वेमो स्वानेती",
+          "hu": "Racsa-Lecshumi és Alsó-Szvanéti",
+          "id": "Racha-Lechkhumi dan Kvemo Svaneti",
+          "it": "Racha-Lechkhumi e Kvemo Svaneti",
+          "ja": "ラチャ＝レチフミおよびクヴェモ・スヴァネティ州",
+          "ko": "라차레츠후미크베모스바네티 주",
+          "nl": "Ratsja-Letsjchoemi en Kvemo Svaneti",
+          "pl": "Racza-Leczchumi i Dolna Swanetia",
+          "pt": "Racha-Lechkhumi e Kvemo Svaneti",
+          "ru": "Рача-Лечхуми и Квемо-Сванети",
+          "sv": "Ratja-Letjchumi och Nedre Svanetien",
+          "tr": "Raca-Leçhumi ve Kvemo Svaneti",
+          "vi": "Racha-Lechkhumi và Kvemo Svaneti",
+          "zh": "拉恰-列其呼米-下斯瓦涅季亞州"
+        },
+        "population": 26768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.744,
+          42.223
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-mm",
+        "area": 1.1985839999999974,
+        "bounding_box": [
+          44.186,
+          41.686,
+          45.302,
+          42.76
+        ],
+        "point": [
+          44.744,
+          42.223
+        ],
+        "labels": {
+          "alt": "Mtskheta",
+          "local": null,
+          "len": 17,
+          "ar": "متسخيتا-متيانيتي",
+          "bn": "এম টি স্কেটা এমতিয়ানে",
+          "de": "Mzcheta-Mtianeti",
+          "en": "Mtskheta-Mtianeti",
+          "es": "Mtsjeta-Mtianeti",
+          "fr": "Mtskheta-Mtianeti",
+          "el": "Μτσκέτα-Μτιανέτι",
+          "hi": "मत्सखेता-मटियानेटी",
+          "hu": "Mcheta-Mtianeti",
+          "id": "Mtskheta-Mtianeti",
+          "it": "Mtskheta-Mtianeti",
+          "ja": "ムツヘタ＝ムティアネティ州",
+          "ko": "므츠헤타므티아네티 주",
+          "nl": "Mtscheta-Mtianeti",
+          "pl": "Mccheta-Mtianetia",
+          "pt": "Mtskheta-Mtianeti",
+          "ru": "Мцхета-Мтианети",
+          "sv": "Mtscheta-Mtianeti",
+          "tr": "Mtsheta-Mtianeti",
+          "vi": "Mtskheta-Mtianeti",
+          "zh": "姆茨赫塔-姆季阿涅季州"
+        },
+        "population": 92829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8545,
+          41.8025
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-ka",
+        "area": 2.5255050000000034,
+        "bounding_box": [
+          45.021,
+          41.045,
+          46.688,
+          42.56
+        ],
+        "point": [
+          45.8545,
+          41.8025
+        ],
+        "labels": {
+          "alt": "Telavi",
+          "local": null,
+          "len": 7,
+          "ar": "كاخيتي",
+          "bn": "কাখেটি",
+          "de": "Kachetien",
+          "en": "Kakheti",
+          "es": "Kajetia",
+          "fr": "Kakhétie",
+          "el": "Κακχέτι",
+          "hi": "ककेती",
+          "hu": "Kaheti",
+          "id": "Kakheti",
+          "it": "Cachezia",
+          "ja": "カヘティ州",
+          "ko": "카헤티 주",
+          "nl": "Kacheti",
+          "pl": "Kachetia",
+          "pt": "Kakheti",
+          "ru": "Кахетия",
+          "sv": "Kachetien",
+          "tr": "Kaheti",
+          "vi": "Kakheti",
+          "zh": "卡赫季州"
+        },
+        "population": 278600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2295,
+          41.512
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-sj",
+        "area": 1.2125700000000033,
+        "bounding_box": [
+          42.481,
+          41.107,
+          43.978,
+          41.917
+        ],
+        "point": [
+          43.2295,
+          41.512
+        ],
+        "labels": {
+          "alt": "Akhaltsikhe",
+          "local": null,
+          "len": 18,
+          "ar": "سامتسخه-جافاخيتي",
+          "bn": "সাঁমটস্কে-জাভাকেটি",
+          "de": "Samzche-Dschawachetien",
+          "en": "Samtskhe-Javakheti",
+          "es": "Samtsje-Yavajeti",
+          "fr": "Samtskhé-Djavakhétie",
+          "el": "Σάμτσκε-Τζαβακέτι",
+          "hi": "सम्सकी-जावखेती",
+          "hu": "Szamche-Dzsavaheti",
+          "id": "Samtskhe-Javakheti",
+          "it": "Samtskhe-Javakheti",
+          "ja": "サムツヘ＝ジャヴァヘティ州",
+          "ko": "삼츠헤자바헤티 주",
+          "nl": "Samtsche-Dzjavacheti",
+          "pl": "Samcche-Dżawachetia",
+          "pt": "Samtskhe-Javakheti",
+          "ru": "Самцхе-Джавахети",
+          "sv": "Samtsche-Dzjavachetien",
+          "tr": "Samtshe-Cavaheti",
+          "vi": "Samtskhe-Javakheti",
+          "zh": "薩姆茨赫-扎瓦赫季州"
+        },
+        "population": 143914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.054,
+          41.664500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-aj",
+        "area": 0.5084819999999978,
+        "bounding_box": [
+          41.521,
+          41.426,
+          42.587,
+          41.903
+        ],
+        "point": [
+          42.054,
+          41.664500000000004
+        ],
+        "labels": {
+          "alt": "Batumi",
+          "local": null,
+          "len": 6,
+          "ar": "أجاريا",
+          "bn": "আদজারা স্বায়ত্তশাসিত প্রজাতন্ত্র",
+          "de": "Adscharien",
+          "en": "Adjara",
+          "es": "Ayaria",
+          "fr": "Adjarie",
+          "el": "Αζαρία",
+          "hi": "अद्जारा",
+          "hu": "Adzsaria",
+          "id": "Ajaria",
+          "it": "Agiaria",
+          "ja": "アジャリア自治共和国",
+          "ko": "아자리야 공화국",
+          "nl": "Adzjarië",
+          "pl": "Adżaria",
+          "pt": "Adjara",
+          "ru": "Аджария",
+          "sv": "Adzjarien",
+          "tr": "Acara Özerk Cumhuriyeti",
+          "vi": "Adjara",
+          "zh": "阿扎尔"
+        },
+        "population": 257805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.503,
+          41.5015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-kk",
+        "area": 1.1171800000000007,
+        "bounding_box": [
+          43.673,
+          41.165,
+          45.333,
+          41.838
+        ],
+        "point": [
+          44.503,
+          41.5015
+        ],
+        "labels": {
+          "alt": "Rustavi",
+          "local": null,
+          "len": 12,
+          "ar": "كفيمو كارتلي",
+          "bn": "কাভমো কার্তলি",
+          "de": "Niederkartlien",
+          "en": "Kvemo Kartli",
+          "es": "Kvemo Kartli",
+          "fr": "Basse  Kartlie",
+          "el": "Κβέμο Κάρτλι",
+          "hi": "केवोमो कार्टली",
+          "hu": "Alsó-Kartli",
+          "id": "Kvemo Kartli",
+          "it": "Kvemo Kartli",
+          "ja": "クヴェモ・カルトリ州",
+          "ko": "크베모카르틀리 주",
+          "nl": "Kvemo Kartli",
+          "pl": "Dolna Kartlia",
+          "pt": "Kvemo Kartli",
+          "ru": "Квемо-Картли",
+          "sv": "Nedre Kartlien",
+          "tr": "Kvemo Kartli",
+          "vi": "Kvemo Kartli",
+          "zh": "克維莫-卡特利州"
+        },
+        "population": 506642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.182500000000005,
+          41.9765
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-gu",
+        "area": 0.3412750000000001,
+        "bounding_box": [
+          41.715,
+          41.794,
+          42.65,
+          42.159
+        ],
+        "point": [
+          42.182500000000005,
+          41.9765
+        ],
+        "labels": {
+          "alt": "Ozurgeti",
+          "local": null,
+          "len": 5,
+          "ar": "غيوريا",
+          "bn": "গুরিয়া",
+          "de": "Gurien",
+          "en": "Guria",
+          "es": "Guria",
+          "fr": "Gourie",
+          "el": "Γκούρια",
+          "hi": "गुरिया",
+          "hu": "Guria",
+          "id": "Guria",
+          "it": "Guria",
+          "ja": "グリア州",
+          "ko": "구리아 주",
+          "nl": "Goeria",
+          "pl": "Guria",
+          "pt": "Guria",
+          "ru": "Гурия",
+          "sv": "Gurien",
+          "tr": "Guria",
+          "vi": "Guria",
+          "zh": "古利亞州"
+        },
+        "population": 100739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.831,
+          41.711
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-tb",
+        "area": 0.05040000000000049,
+        "bounding_box": [
+          44.681,
+          41.627,
+          44.981,
+          41.795
+        ],
+        "point": [
+          44.831,
+          41.711
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "تبليسي",
+          "bn": "তিবিলিসি",
+          "de": "Tiflis",
+          "en": "Tbilisi",
+          "es": "Tiflis",
+          "fr": "Tbilissi",
+          "el": "Τιφλίδα",
+          "hi": "थ्बिलिसि",
+          "hu": "Tbiliszi",
+          "id": "Tbilisi",
+          "it": "Tbilisi",
+          "ja": "トビリシ",
+          "ko": "트빌리시",
+          "nl": "Tbilisi",
+          "pl": "Tbilisi",
+          "pt": "Tbilisi",
+          "ru": "Тбилиси",
+          "sv": "Tbilisi",
+          "tr": "Tiflis",
+          "vi": "Tbilisi",
+          "zh": "第比利斯"
+        },
+        "population": 1013747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.001000000000005,
+          42.165
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ge",
+        "region_child": "ge-im",
+        "area": 1.1085920000000082,
+        "bounding_box": [
+          42.229,
+          41.806,
+          43.773,
+          42.524
+        ],
+        "point": [
+          43.001000000000005,
+          42.165
+        ],
+        "labels": {
+          "alt": "Kutaisi",
+          "local": null,
+          "len": 7,
+          "ar": "إيميريتي",
+          "bn": "ইমেরেতি",
+          "de": "Imeretien",
+          "en": "Imereti",
+          "es": "Imericia",
+          "fr": "Iméréthie",
+          "el": "Ιμερετί",
+          "hi": "इमेरेती",
+          "hu": "Imereti",
+          "id": "Imereti",
+          "it": "Imerezia",
+          "ja": "イメレティ州",
+          "ko": "이메레티 주",
+          "nl": "Imereti",
+          "pl": "Imeretia",
+          "pt": "Imereti",
+          "ru": "Имеретия",
+          "sv": "Imeretien",
+          "tr": "İmereti",
+          "vi": "Imereti",
+          "zh": "伊梅列季亞州"
+        },
+        "population": 463218
+      }
+    }
+  ]
+}

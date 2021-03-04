@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.97050000000002,
+          36.7405
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16202",
+        "area": 0.044589000000004486,
+        "bounding_box": [
+          136.837,
+          36.657,
+          137.104,
+          36.824
+        ],
+        "point": [
+          136.97050000000002,
+          36.7405
+        ],
+        "labels": {
+          "ja": "高岡市",
+          "en": "takaoka-shi"
+        },
+        "population": 165129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.3665,
+          36.5685
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16201",
+        "area": 0.2687690000000121,
+        "bounding_box": [
+          137.028,
+          36.37,
+          137.705,
+          36.767
+        ],
+        "point": [
+          137.3665,
+          36.5685
+        ],
+        "labels": {
+          "ja": "富山市",
+          "en": "toyama-shi"
+        },
+        "population": 403312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.3835,
+          36.7495
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16206",
+        "area": 0.013634999999998959,
+        "bounding_box": [
+          137.316,
+          36.699,
+          137.451,
+          36.8
+        ],
+        "point": [
+          137.3835,
+          36.7495
+        ],
+        "labels": {
+          "ja": "滑川市",
+          "en": "namerikawa-shi"
+        },
+        "population": 31211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.91649999999998,
+          36.450500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16210",
+        "area": 0.10413499999999604,
+        "bounding_box": [
+          136.769,
+          36.274,
+          137.064,
+          36.627
+        ],
+        "point": [
+          136.91649999999998,
+          36.450500000000005
+        ],
+        "labels": {
+          "ja": "南砺市",
+          "en": "nanto-shi"
+        },
+        "population": 52512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.518,
+          36.906499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16342",
+        "area": 0.02005600000000315,
+        "bounding_box": [
+          137.426,
+          36.852,
+          137.61,
+          36.961
+        ],
+        "point": [
+          137.518,
+          36.906499999999994
+        ],
+        "labels": {
+          "ja": "入善町",
+          "en": "nyuzen-machi"
+        },
+        "population": 25141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.95,
+          36.8685
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16205",
+        "area": 0.04018799999999503,
+        "bounding_box": [
+          136.848,
+          36.77,
+          137.052,
+          36.967
+        ],
+        "point": [
+          136.95,
+          36.8685
+        ],
+        "labels": {
+          "ja": "氷見市",
+          "en": "himi-shi"
+        },
+        "population": 48735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.04149999999998,
+          36.932
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16205",
+        "area": 0.0,
+        "bounding_box": [
+          137.041,
+          36.932,
+          137.042,
+          36.932
+        ],
+        "point": [
+          137.04149999999998,
+          36.932
+        ],
+        "labels": {
+          "ja": "氷見市",
+          "en": "himi-shi"
+        },
+        "population": 48735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.30599999999998,
+          36.7
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16321",
+        "area": 0.0005720000000005881,
+        "bounding_box": [
+          137.295,
+          36.687,
+          137.317,
+          36.713
+        ],
+        "point": [
+          137.30599999999998,
+          36.7
+        ],
+        "labels": {
+          "ja": "舟橋村",
+          "en": "funahashi-mura"
+        },
+        "population": 1751
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9855,
+          36.613
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16208",
+        "area": 0.022895999999999687,
+        "bounding_box": [
+          136.906,
+          36.541,
+          137.065,
+          36.685
+        ],
+        "point": [
+          136.9855,
+          36.613
+        ],
+        "labels": {
+          "ja": "砺波市",
+          "en": "tonami-shi"
+        },
+        "population": 48895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.09550000000002,
+          36.715
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16211",
+        "area": 0.02332200000000122,
+        "bounding_box": [
+          137.011,
+          36.646,
+          137.18,
+          36.784
+        ],
+        "point": [
+          137.09550000000002,
+          36.715
+        ],
+        "labels": {
+          "ja": "射水市",
+          "en": "imizu-shi"
+        },
+        "population": 88077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0865,
+          36.783
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16211",
+        "area": 0.0012100000000000656,
+        "bounding_box": [
+          137.059,
+          36.772,
+          137.114,
+          36.794
+        ],
+        "point": [
+          137.0865,
+          36.783
+        ],
+        "labels": {
+          "ja": "射水市",
+          "en": "imizu-shi"
+        },
+        "population": 88077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.586,
+          36.772499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16207",
+        "area": 0.10524800000000098,
+        "bounding_box": [
+          137.41,
+          36.623,
+          137.762,
+          36.922
+        ],
+        "point": [
+          137.586,
+          36.772499999999994
+        ],
+        "labels": {
+          "ja": "黒部市",
+          "en": "kurobe-shi"
+        },
+        "population": 40362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.4965,
+          36.766999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16204",
+        "area": 0.0430519999999961,
+        "bounding_box": [
+          137.382,
+          36.673,
+          137.611,
+          36.861
+        ],
+        "point": [
+          137.4965,
+          36.766999999999996
+        ],
+        "labels": {
+          "ja": "魚津市",
+          "en": "uodhu-shi"
+        },
+        "population": 42329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.51549999999997,
+          36.6125
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16323",
+        "area": 0.08787499999999665,
+        "bounding_box": [
+          137.278,
+          36.52,
+          137.753,
+          36.705
+        ],
+        "point": [
+          137.51549999999997,
+          36.6125
+        ],
+        "labels": {
+          "ja": "立山町",
+          "en": "tateyama-machi"
+        },
+        "population": 27049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.471,
+          36.666
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16322",
+        "area": 0.04617600000000276,
+        "bounding_box": [
+          137.315,
+          36.592,
+          137.627,
+          36.74
+        ],
+        "point": [
+          137.471,
+          36.666
+        ],
+        "labels": {
+          "ja": "上市町",
+          "en": "kamiichi-machi"
+        },
+        "population": 20517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8585,
+          36.664
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16209",
+        "area": 0.02355600000000145,
+        "bounding_box": [
+          136.783,
+          36.586,
+          136.934,
+          36.742
+        ],
+        "point": [
+          136.8585,
+          36.664
+        ],
+        "labels": {
+          "ja": "小矢部市",
+          "en": "oyabe-shi"
+        },
+        "population": 31624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.64499999999998,
+          36.867
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-16",
+        "region_child": "16343",
+        "area": 0.05333600000000395,
+        "bounding_box": [
+          137.527,
+          36.754,
+          137.763,
+          36.98
+        ],
+        "point": [
+          137.64499999999998,
+          36.867
+        ],
+        "labels": {
+          "ja": "朝日町",
+          "en": "asahi-machi"
+        },
+        "population": 12900
+      }
+    }
+  ]
+}

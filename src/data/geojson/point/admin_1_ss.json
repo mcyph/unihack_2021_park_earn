@@ -1,0 +1,535 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.861,
+          4.76
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ss",
+        "region_child": "ss-ee",
+        "area": 10.283520000000003,
+        "bounding_box": [
+          31.801,
+          3.512,
+          35.921,
+          6.008
+        ],
+        "point": [
+          33.861,
+          4.76
+        ],
+        "labels": {
+          "alt": "Al Istiwā'īyah ash Sharqīyah| Sharq al Istiwā'īyah| Équatoria oriental",
+          "local": null,
+          "len": 14,
+          "ar": "شرق الاستوائية",
+          "bn": "ইস্টার্ন ইকুয়েটারিয়া",
+          "de": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "es": "Ecuatoria Oriental",
+          "fr": "Équatoria-Oriental",
+          "el": "Ίστερν Εκουατόρια",
+          "hi": "पूर्वी इक्वेटोरिया",
+          "hu": null,
+          "id": "Khatulistiwa Timur",
+          "it": "Equatoria Orientale",
+          "ja": "東エクアトリア州",
+          "ko": "동에콰토리아 주",
+          "nl": "Eastern Equatoria",
+          "pl": "Ekwatoria Wschodnia",
+          "pt": "Equatória Oriental",
+          "ru": "Восточная Экваториальная провинция",
+          "sv": "Eastern Equatoria",
+          "tr": "Doğu Equatoria",
+          "vi": "Đông Equatoria",
+          "zh": "东赤道省"
+        },
+        "population": 6068660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.381,
+          8.526
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ss",
+        "region_child": "ss-bw",
+        "area": 17.12322,
+        "bounding_box": [
+          24.122,
+          6.631,
+          28.64,
+          10.421
+        ],
+        "point": [
+          26.381,
+          8.526
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 19,
+          "ar": "غرب بحر الغزال",
+          "bn": "ওয়েস্টার্ন বাহ্র এল ঘাজাল",
+          "de": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "es": "Bahr al-Gazal Occidental",
+          "fr": "Bahr el Ghazal occidental",
+          "el": "Γουέστερν Μπαχρ ελ Γκαζάλ",
+          "hi": "पश्चिमी बहर एल ग़ज़ल",
+          "hu": null,
+          "id": "Bahrul Ghazal Barat",
+          "it": "Bahr al-Ghazal Occidentale",
+          "ja": "西バハル・アル・ガザール州",
+          "ko": "서바르알가잘 주",
+          "nl": "Western Bahr el Ghazal",
+          "pl": "Bahr el Ghazal Zachodni",
+          "pt": "Bahr al-Ghazal Ocidental",
+          "ru": "Западный Бахр-эль-Газаль",
+          "sv": "Western Bahr el Ghazal",
+          "tr": "Batı Bahr el Ghazal",
+          "vi": "Tây Bahr el Ghazal",
+          "zh": "西加扎勒河省"
+        },
+        "population": 438691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6185,
+          5.547499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ss",
+        "region_child": "ss-ew",
+        "area": 11.890137000000003,
+        "bounding_box": [
+          26.277,
+          4.278,
+          30.96,
+          6.817
+        ],
+        "point": [
+          28.6185,
+          5.547499999999999
+        ],
+        "labels": {
+          "alt": "Al Istiwā'īyah al Gharbīyah|Gharb al Istiwā'īyah| Équatoria occidental",
+          "local": null,
+          "len": 14,
+          "ar": "غرب الاستوائية",
+          "bn": "ওয়েস্টার্ন ইকুয়েটোরিয়া",
+          "de": "Western Equatoria",
+          "en": "Western Equatoria",
+          "es": "Ecuatoria Occidental",
+          "fr": "Équatoria-Occidental",
+          "el": "Γουέστερν Εκουατόρια",
+          "hi": "पश्चिमी इक्वेटोरिया",
+          "hu": null,
+          "id": "Khatulistiwa Barat",
+          "it": "Equatoria Occidentale",
+          "ja": "西エクアトリア州",
+          "ko": "서에콰토리아 주",
+          "nl": "Western Equatoria",
+          "pl": "Ekwatoria Zachodnia",
+          "pt": "Equatória Ocidental",
+          "ru": "Западная Экваториальная провинция",
+          "sv": "Western Equatoria",
+          "tr": "Batı Equatoria",
+          "vi": "Tây Equatoria",
+          "zh": "西赤道省"
+        },
+        "population": 978053
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.055500000000002,
+          4.8420000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ss",
+        "region_child": "ss-ec",
+        "area": 6.919536000000003,
+        "bounding_box": [
+          29.776,
+          3.49,
+          32.335,
+          6.194
+        ],
+        "point": [
+          31.055500000000002,
+          4.8420000000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 17,
+          "ar": "وسط الاستوائية",
+          "bn": "সেন্টাল নিরক্ষীয়তা",
+          "de": "Central Equatoria",
+          "en": "Central Equatoria",
+          "es": "Ecuatoria Central",
+          "fr": "Équatoria-Central",
+          "el": "Κεντρική Εκουατόρια",
+          "hi": "मध्य इक्वेटोरिया",
+          "hu": null,
+          "id": "Khatulistiwa Tengah",
+          "it": "Equatoria Centrale",
+          "ja": "中央エクアトリア州",
+          "ko": "중앙에콰토리아 주",
+          "nl": "Central Equatoria",
+          "pl": "Ekwatoria Środkowa",
+          "pt": "Equatória Central",
+          "ru": "Центральная Экваториальная провинция",
+          "sv": "Central Equatoria",
+          "tr": "Orta Equatoria",
+          "vi": "Trung Equatoria",
+          "zh": "中赤道省"
+        },
+        "population": 2052019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5255,
+          10.08
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ss",
+        "region_child": "ss-nu",
+        "area": 13.555056000000006,
+        "bounding_box": [
+          30.939,
+          7.944,
+          34.112,
+          12.216
+        ],
+        "point": [
+          32.5255,
+          10.08
+        ],
+        "labels": {
+          "alt": "Upper Nile|Sobat|a`Ālī an Nīl|Nil supérieur",
+          "local": null,
+          "len": 10,
+          "ar": "أعالي النيل",
+          "bn": "আপার নীল",
+          "de": "Upper Nile",
+          "en": "Upper Nile",
+          "es": "Alto Nilo",
+          "fr": "Nil Supérieur",
+          "el": "Άπερ Νάιλ",
+          "hi": "ऊपरी नील",
+          "hu": null,
+          "id": "Nil Hulu",
+          "it": "Alto Nilo",
+          "ja": "上ナイル州",
+          "ko": "상나일 주",
+          "nl": "Upper Nile",
+          "pl": "Nil Górny",
+          "pt": "Alto Nilo",
+          "ru": "Верхний Нил",
+          "sv": "Övre Nilen",
+          "tr": "Yukarı Nil Eyaleti",
+          "vi": "Thượng Nin",
+          "zh": "上尼罗省"
+        },
+        "population": 1510910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5805,
+          7.6575
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ss",
+        "region_child": "ss-jg",
+        "area": 17.977875,
+        "bounding_box": [
+          30.193,
+          5.775,
+          34.968,
+          9.54
+        ],
+        "point": [
+          32.5805,
+          7.6575
+        ],
+        "labels": {
+          "alt": "Jungoli|Jonglei|Jonglie|Jonqley|Junqali|Jongley",
+          "local": null,
+          "len": 7,
+          "ar": "جونقلي",
+          "bn": "জংলি",
+          "de": "Jonglei",
+          "en": "Jonglei",
+          "es": "Junqali",
+          "fr": "Jonglei",
+          "el": "Τζονγκλέι",
+          "hi": "जोंगली",
+          "hu": null,
+          "id": "Junqali",
+          "it": "Jonglei",
+          "ja": "ジョングレイ州",
+          "ko": "종글레이 주",
+          "nl": "Jonglei",
+          "pl": "Jonglei",
+          "pt": "Juncáli",
+          "ru": "Джонглий",
+          "sv": "Jonglei",
+          "tr": "Jonglei",
+          "vi": "Jonglei",
+          "zh": "琼莱省"
+        },
+        "population": 2050284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.889499999999998,
+          8.6755
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ss",
+        "region_child": "ss-uy",
+        "area": 6.763868999999994,
+        "bounding_box": [
+          28.829,
+          7.081,
+          30.95,
+          10.27
+        ],
+        "point": [
+          29.889499999999998,
+          8.6755
+        ],
+        "labels": {
+          "alt": "Al-Wahdah| Wahda",
+          "local": null,
+          "len": 5,
+          "ar": "الوحدة",
+          "bn": "ইউনিটি",
+          "de": "Unity",
+          "en": "Unity",
+          "es": "Unidad",
+          "fr": "Unité",
+          "el": "Γιούνιτι",
+          "hi": "यूनिटी स्टेट",
+          "hu": null,
+          "id": "Wahdah",
+          "it": "Unità",
+          "ja": "ユニティ州",
+          "ko": "유니티 주",
+          "nl": "Unity",
+          "pl": "Unity",
+          "pt": "Unidade",
+          "ru": "Эль-Вахда",
+          "sv": "Unity",
+          "tr": "Unity",
+          "vi": "Unity",
+          "zh": "猶尼提省"
+        },
+        "population": 933778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.535,
+          8.8985
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ss",
+        "region_child": "ss-bn",
+        "area": 6.384469999999998,
+        "bounding_box": [
+          26.07,
+          7.809,
+          29.0,
+          9.988
+        ],
+        "point": [
+          27.535,
+          8.8985
+        ],
+        "labels": {
+          "alt": "North Bahr-al-Gazal| North Bahr el Ghazal| Shamal Bahr al Ghazal",
+          "local": null,
+          "len": 20,
+          "ar": "شمال بحر الغزال",
+          "bn": "নর্দান বাহ্র এল ঘেসাল",
+          "de": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "es": "Bahr al-Gazal del Norte",
+          "fr": "Bahr el Ghazal du Nord",
+          "el": "Βόρειο Μπαχρ ελ Γκαζάλ",
+          "hi": "उत्तरी बहर एल ग़ज़ल",
+          "hu": null,
+          "id": "Bahrul Ghazal Utara",
+          "it": "Bahr al-Ghazal Settentrionale",
+          "ja": "北バハル・アル・ガザール州",
+          "ko": "북바르알가잘 주",
+          "nl": "Northern Bahr el Ghazal",
+          "pl": "Bahr el Ghazal Północny",
+          "pt": "Bahr al-Ghazal do Norte",
+          "ru": "Северный Бахр-эль-Газаль",
+          "sv": "Northern Bahr el Ghazal",
+          "tr": "Kuzey Bahr el Ghazal",
+          "vi": "Bắc Bahr el Ghazal",
+          "zh": "北加扎勒河省"
+        },
+        "population": 924926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.136499999999998,
+          6.7595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ss",
+        "region_child": "ss-lk",
+        "area": 6.515486999999996,
+        "bounding_box": [
+          28.602,
+          5.698,
+          31.671,
+          7.821
+        ],
+        "point": [
+          30.136499999999998,
+          6.7595
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "البحيرات",
+          "bn": "লেকস",
+          "de": "Lakes",
+          "en": "Lakes",
+          "es": "Lagos",
+          "fr": "Lacs",
+          "el": "Λέικς",
+          "hi": "लेक्स",
+          "hu": null,
+          "id": "Lakes",
+          "it": "Laghi",
+          "ja": "レイク州",
+          "ko": "레이크스 주",
+          "nl": "Lakes",
+          "pl": "Lakes",
+          "pt": "Lagos",
+          "ru": "Озёрная провинция",
+          "sv": "Lakes",
+          "tr": "Lakes",
+          "vi": "Lakes",
+          "zh": "湖泊省"
+        },
+        "population": 797138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6995,
+          7.8420000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ss",
+        "region_child": "ss-wr",
+        "area": 4.8215880000000055,
+        "bounding_box": [
+          27.7,
+          6.636,
+          29.699,
+          9.048
+        ],
+        "point": [
+          28.6995,
+          7.8420000000000005
+        ],
+        "labels": {
+          "alt": "Warab|Warrab",
+          "local": null,
+          "len": 5,
+          "ar": "واراب",
+          "bn": "ওয়ারর‍্যাপ",
+          "de": "Warrap",
+          "en": "Warrap",
+          "es": "Warab",
+          "fr": "Warab",
+          "el": "Γουαράπ",
+          "hi": "वार्रप",
+          "hu": null,
+          "id": "Warab",
+          "it": "Warrap",
+          "ja": "ワラブ州",
+          "ko": "와랍 주",
+          "nl": "Warrap",
+          "pl": "Warrap",
+          "pt": "Warab",
+          "ru": "Вараб",
+          "sv": "Warrap",
+          "tr": "Warrap",
+          "vi": "Warrap",
+          "zh": "瓦拉布省"
+        },
+        "population": 972418
+      }
+    }
+  ]
+}

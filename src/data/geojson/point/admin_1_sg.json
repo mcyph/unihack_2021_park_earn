@@ -1,0 +1,270 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746,
+          1.3495
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sg",
+        "region_child": "sg-05",
+        "area": 0.03292599999999971,
+        "bounding_box": [
+          103.645,
+          1.268,
+          103.847,
+          1.431
+        ],
+        "point": [
+          103.746,
+          1.3495
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": "South West Singapore District",
+          "en": "South West Community Development Council",
+          "es": "Consejo del Sudoeste",
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": "南西地区",
+          "ko": "남서부 지구 사회 발전 이사회",
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 1280822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8575,
+          1.3495
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sg",
+        "region_child": "sg-01",
+        "area": 0.015965000000001343,
+        "bounding_box": [
+          103.806,
+          1.272,
+          103.909,
+          1.427
+        ],
+        "point": [
+          103.8575,
+          1.3495
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 17,
+          "ar": null,
+          "bn": null,
+          "de": "Central Singapore District",
+          "en": "Central Singapore Community Development Council",
+          "es": "Consejo Central",
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": "シンガポール中央地区",
+          "ko": "중앙싱가포르 지구 사회 발전 이사회",
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 1162573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.938,
+          1.3475
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sg",
+        "region_child": "sg-04",
+        "area": 0.011049999999999609,
+        "bounding_box": [
+          103.873,
+          1.305,
+          104.003,
+          1.39
+        ],
+        "point": [
+          103.938,
+          1.3475
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": "Südost",
+          "en": "South East Community Development Council",
+          "es": "Consejo del Sudeste",
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": "南東地区",
+          "ko": "남동부 지구 사회 발전 이사회",
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": "东南社区发展理事会"
+        },
+        "population": 858220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9325,
+          1.3835000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sg",
+        "region_child": "sg-02",
+        "area": 0.003952999999999587,
+        "bounding_box": [
+          103.899,
+          1.354,
+          103.966,
+          1.413
+        ],
+        "point": [
+          103.9325,
+          1.3835000000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": "North East Community Development Council",
+          "es": "Consejo del Noreste",
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Distretto Nordorientale",
+          "ja": "北東地区",
+          "ko": "북동부 지구 사회 발전 이사회",
+          "nl": "North East Community Development Council",
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 272827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8195,
+          1.387
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sg",
+        "region_child": "sg-03",
+        "area": 0.015252000000000591,
+        "bounding_box": [
+          103.758,
+          1.325,
+          103.881,
+          1.449
+        ],
+        "point": [
+          103.8195,
+          1.387
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 567631
+      }
+    }
+  ]
+}

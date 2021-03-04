@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.644,
+          41.4195
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ri",
+        "region_child": "009",
+        "area": 0.24774600000000013,
+        "bounding_box": [
+          -71.907,
+          41.184,
+          -71.381,
+          41.655
+        ],
+        "point": [
+          -71.644,
+          41.4195
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 130359
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.578,
+          41.19499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ri",
+        "region_child": "009",
+        "area": 0.03999599999999972,
+        "bounding_box": [
+          -71.679,
+          41.096,
+          -71.477,
+          41.294
+        ],
+        "point": [
+          -71.578,
+          41.19499999999999
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 130359
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.55850000000001,
+          41.872
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ri",
+        "region_child": "007",
+        "area": 0.1414140000000011,
+        "bounding_box": [
+          -71.799,
+          41.725,
+          -71.318,
+          42.019
+        ],
+        "point": [
+          -71.55850000000001,
+          41.872
+        ],
+        "labels": {
+          "en": "Providence"
+        },
+        "population": 627543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.28649999999999,
+          41.707
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ri",
+        "region_child": "001",
+        "area": 0.021666000000000334,
+        "bounding_box": [
+          -71.365,
+          41.638,
+          -71.208,
+          41.776
+        ],
+        "point": [
+          -71.28649999999999,
+          41.707
+        ],
+        "labels": {
+          "en": "Bristol"
+        },
+        "population": 49397
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.299,
+          41.499
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ri",
+        "region_child": "005",
+        "area": 0.1612800000000008,
+        "bounding_box": [
+          -71.509,
+          41.307,
+          -71.089,
+          41.691
+        ],
+        "point": [
+          -71.299,
+          41.499
+        ],
+        "labels": {
+          "en": "Newport"
+        },
+        "population": 79947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.55799999999999,
+          41.682500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ri",
+        "region_child": "003",
+        "area": 0.07934400000000191,
+        "bounding_box": [
+          -71.79,
+          41.597,
+          -71.326,
+          41.768
+        ],
+        "point": [
+          -71.55799999999999,
+          41.682500000000005
+        ],
+        "labels": {
+          "en": "Kent"
+        },
+        "population": 166282
+      }
+    }
+  ]
+}

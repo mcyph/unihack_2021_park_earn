@@ -1,0 +1,217 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8025,
+          -26.5465
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sz",
+        "region_child": "sz-lu",
+        "area": 0.7742989999999961,
+        "bounding_box": [
+          31.488,
+          -27.162,
+          32.117,
+          -25.931
+        ],
+        "point": [
+          31.8025,
+          -26.5465
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة لوبومبو",
+          "bn": "লুবোম্বু জেলা",
+          "de": "Lubombo",
+          "en": "Lubombo District",
+          "es": "Lubombo",
+          "fr": "Lubombo",
+          "el": "Λουμπόμπο",
+          "hi": "लुबोम्बो जिला",
+          "hu": null,
+          "id": "Distrik Lubombo",
+          "it": "distretto di Lubombo",
+          "ja": "ルボンボ",
+          "ko": "루봄보 구",
+          "nl": "Lubombo",
+          "pl": "Dystrykt Lubombo",
+          "pt": "Lubombo",
+          "ru": "Лубомбо",
+          "sv": "Lubombo",
+          "tr": "Lubombo District",
+          "vi": "Quận Lubombo",
+          "zh": "卢邦博"
+        },
+        "population": 210217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.322,
+          -26.095
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sz",
+        "region_child": "sz-hh",
+        "area": 0.610300000000001,
+        "bounding_box": [
+          30.897,
+          -26.454,
+          31.747,
+          -25.736
+        ],
+        "point": [
+          31.322,
+          -26.095
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة هوهو",
+          "bn": "হোহো জেলা",
+          "de": "Hhohho",
+          "en": "Hhohho District",
+          "es": "Hhohho",
+          "fr": "Hhohho",
+          "el": "Χνόχο",
+          "hi": "होहो जिला",
+          "hu": null,
+          "id": "Distrik Hhohho",
+          "it": "distretto di Hhohho",
+          "ja": "ホホ",
+          "ko": "호호 구",
+          "nl": "Hhohho",
+          "pl": "Dystrykt Hhohho",
+          "pt": "Hhohho",
+          "ru": "Хохо",
+          "sv": "Hhohho",
+          "tr": "Hhohho District",
+          "vi": "Quận Hhohho",
+          "zh": "霍霍"
+        },
+        "population": 295072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2405,
+          -26.514499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sz",
+        "region_child": "sz-ma",
+        "area": 0.6633749999999974,
+        "bounding_box": [
+          30.783,
+          -26.877,
+          31.698,
+          -26.152
+        ],
+        "point": [
+          31.2405,
+          -26.514499999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة منزيني",
+          "bn": "মাঞ্জিনি জেলা",
+          "de": "Manzini",
+          "en": "Manzini District",
+          "es": "Distrito de Manzini",
+          "fr": "Manzini",
+          "el": "Μανζίνι",
+          "hi": "मैन्ज़ीनी प्रदेश",
+          "hu": null,
+          "id": "Distrik Manzini",
+          "it": "distretto di Manzini",
+          "ja": "マンジニ地方",
+          "ko": "만지니 구",
+          "nl": "Manzini",
+          "pl": "Dystrykt Manzini",
+          "pt": "Manzini",
+          "ru": "Манзини",
+          "sv": "Manzini",
+          "tr": "Manzini District",
+          "vi": "Quận Manzini",
+          "zh": "曼齊尼區"
+        },
+        "population": 381026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4265,
+          -27.038
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sz",
+        "region_child": "sz-sh",
+        "area": 0.6021479999999962,
+        "bounding_box": [
+          30.885,
+          -27.316,
+          31.968,
+          -26.76
+        ],
+        "point": [
+          31.4265,
+          -27.038
+        ],
+        "labels": {
+          "alt": "Shiselwini",
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة شيزلويني",
+          "bn": "শিসেলওয়েনি জেলা",
+          "de": "Shiselweni",
+          "en": "Shiselweni District",
+          "es": "Shishelweni",
+          "fr": "Shiselweni",
+          "el": "Σισελουένι",
+          "hi": "शिसेल्वेनी जिला",
+          "hu": null,
+          "id": "Distrik Shiselweni",
+          "it": "distretto di Shiselweni",
+          "ja": "シセルウェニ",
+          "ko": "시셀웨니 구",
+          "nl": "Shiselweni",
+          "pl": "Dystrykt Shiselweni",
+          "pt": "Shishelweni",
+          "ru": "Шиселвени",
+          "sv": "Shiselweni",
+          "tr": "Shiselweni District",
+          "vi": "Quận Shiselweni",
+          "zh": "希塞卢韦尼"
+        },
+        "population": 200437
+      }
+    }
+  ]
+}

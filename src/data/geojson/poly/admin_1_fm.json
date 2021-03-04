@@ -1,0 +1,337 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              163.026,
+              5.341
+            ],
+            [
+              163.011,
+              5.38
+            ],
+            [
+              162.924,
+              5.321
+            ],
+            [
+              162.916,
+              5.287
+            ],
+            [
+              163.019,
+              5.273
+            ],
+            [
+              163.043,
+              5.311
+            ],
+            [
+              163.026,
+              5.341
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fm",
+        "region_child": "fm-ksa",
+        "area": 0.013589000000001048,
+        "bounding_box": [
+          162.916,
+          5.273,
+          163.043,
+          5.38
+        ],
+        "point": [
+          162.9795,
+          5.326499999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "كوسراي",
+          "bn": "কসরে",
+          "de": "Kosrae",
+          "en": "Kosrae",
+          "es": "Kosrae",
+          "fr": "Kosrae",
+          "el": "Κόσραε",
+          "hi": "कोशराय राज्य",
+          "hu": "Kosrae-sziget",
+          "id": "Kosrae",
+          "it": "Kosrae",
+          "ja": "コスラエ州",
+          "ko": "코스라에 주",
+          "nl": "Kosrae",
+          "pl": "Kosrae",
+          "pt": "Kosrae",
+          "ru": "Кусаие",
+          "sv": "Kosrae",
+          "tr": "Kosrae",
+          "vi": "Kosrae",
+          "zh": "科斯雷"
+        },
+        "population": 3865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              158.291,
+              6.938
+            ],
+            [
+              158.277,
+              6.963
+            ],
+            [
+              158.181,
+              6.979
+            ],
+            [
+              158.142,
+              6.951
+            ],
+            [
+              158.126,
+              6.907
+            ],
+            [
+              158.194,
+              6.793
+            ],
+            [
+              158.292,
+              6.795
+            ],
+            [
+              158.306,
+              6.855
+            ],
+            [
+              158.338,
+              6.879
+            ],
+            [
+              158.325,
+              6.931
+            ],
+            [
+              158.291,
+              6.938
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fm",
+        "region_child": "fm-pni",
+        "area": 0.039431999999997955,
+        "bounding_box": [
+          158.126,
+          6.793,
+          158.338,
+          6.979
+        ],
+        "point": [
+          158.232,
+          6.886
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "ولاية بوهنبي",
+          "bn": "পোহেন্পি অঙ্গরাজ্য",
+          "de": "Bundesstaat Pohnpei",
+          "en": "Pohnpei State",
+          "es": "Pohnpei",
+          "fr": "Pohnpei",
+          "el": "Ποχνπέι",
+          "hi": "पोह्नपेइ राज्य",
+          "hu": null,
+          "id": "Negara bagian Pohnpei",
+          "it": "Pohnpei",
+          "ja": "ポンペイ州",
+          "ko": "폰페이 주",
+          "nl": "Pohnpei",
+          "pl": "Pohnpei",
+          "pt": "Pohnpei",
+          "ru": "Понпеи",
+          "sv": "Pohnpei State",
+          "tr": "Pohnpei Eyaleti",
+          "vi": "Bang Pohnpei",
+          "zh": "波纳佩州"
+        },
+        "population": 33139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.589,
+              7.384
+            ],
+            [
+              151.645,
+              7.336
+            ],
+            [
+              151.65,
+              7.369
+            ],
+            [
+              151.622,
+              7.392
+            ],
+            [
+              151.589,
+              7.384
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fm",
+        "region_child": "fm-trk",
+        "area": 0.003416000000000398,
+        "bounding_box": [
+          151.589,
+          7.336,
+          151.65,
+          7.392
+        ],
+        "point": [
+          151.61950000000002,
+          7.364000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "ولاية تشوك",
+          "bn": "চুুক রাজ্য",
+          "de": "Bundesstaat Chuuk",
+          "en": "Chuuk State",
+          "es": "Chuuk",
+          "fr": "Chuuk",
+          "el": "Τσουούκ",
+          "hi": "चूक राज्य",
+          "hu": null,
+          "id": "Chuuk",
+          "it": "Chuuk",
+          "ja": "チューク州",
+          "ko": "추크 주",
+          "nl": "Chuuk",
+          "pl": "Chuuk",
+          "pt": "Chuuk",
+          "ru": "Трук",
+          "sv": "Chuuk",
+          "tr": "Chuuk",
+          "vi": "Chuuk",
+          "zh": "楚克"
+        },
+        "population": 1434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.192,
+              9.576
+            ],
+            [
+              138.126,
+              9.566
+            ],
+            [
+              138.064,
+              9.436
+            ],
+            [
+              138.08,
+              9.425
+            ],
+            [
+              138.134,
+              9.512
+            ],
+            [
+              138.189,
+              9.507
+            ],
+            [
+              138.192,
+              9.576
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "fm",
+        "region_child": "fm-yap",
+        "area": 0.01932800000000214,
+        "bounding_box": [
+          138.064,
+          9.425,
+          138.192,
+          9.576
+        ],
+        "point": [
+          138.128,
+          9.5005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": null,
+          "bn": null,
+          "de": "Bundesstaat Yap",
+          "en": "Yap State",
+          "es": null,
+          "fr": "Yap",
+          "el": null,
+          "hi": "याप राज्य",
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": "ヤップ州",
+          "ko": "야프 주",
+          "nl": null,
+          "pl": "Yap",
+          "pt": null,
+          "ru": "Яп",
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": "雅浦州"
+        },
+        "population": 4866
+      }
+    }
+  ]
+}

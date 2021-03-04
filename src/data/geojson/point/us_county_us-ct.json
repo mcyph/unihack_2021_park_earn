@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5295,
+          41.412499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ct",
+        "region_child": "007",
+        "area": 0.2096430000000018,
+        "bounding_box": [
+          -72.753,
+          41.178,
+          -72.306,
+          41.647
+        ],
+        "point": [
+          -72.5295,
+          41.412499999999994
+        ],
+        "labels": {
+          "en": "Middlesex"
+        },
+        "population": 177274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1275,
+          41.4645
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ct",
+        "region_child": "011",
+        "area": 0.33882099999999776,
+        "bounding_box": [
+          -72.467,
+          41.215,
+          -71.788,
+          41.714
+        ],
+        "point": [
+          -72.1275,
+          41.4645
+        ],
+        "labels": {
+          "en": "New London"
+        },
+        "population": 289432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.92750000000001,
+          41.3655
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ct",
+        "region_child": "009",
+        "area": 0.4450429999999918,
+        "bounding_box": [
+          -73.327,
+          41.087,
+          -72.528,
+          41.644
+        ],
+        "point": [
+          -72.92750000000001,
+          41.3655
+        ],
+        "labels": {
+          "en": "New Haven"
+        },
+        "population": 903268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.30850000000001,
+          41.811499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ct",
+        "region_child": "013",
+        "area": 0.18645499999999876,
+        "bounding_box": [
+          -72.518,
+          41.589,
+          -72.099,
+          42.034
+        ],
+        "point": [
+          -72.30850000000001,
+          41.811499999999995
+        ],
+        "labels": {
+          "en": "Tolland"
+        },
+        "population": 175519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.71950000000001,
+          41.792
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ct",
+        "region_child": "003",
+        "area": 0.30677399999999744,
+        "bounding_box": [
+          -73.03,
+          41.545,
+          -72.409,
+          42.039
+        ],
+        "point": [
+          -72.71950000000001,
+          41.792
+        ],
+        "labels": {
+          "en": "Hartford"
+        },
+        "population": 929984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.02000000000001,
+          41.831500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ct",
+        "region_child": "015",
+        "area": 0.18406999999999907,
+        "bounding_box": [
+          -72.253,
+          41.634,
+          -71.787,
+          42.029
+        ],
+        "point": [
+          -72.02000000000001,
+          41.831500000000005
+        ],
+        "labels": {
+          "en": "Windham"
+        },
+        "population": 125805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.364,
+          41.309
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ct",
+        "region_child": "001",
+        "area": 0.5212479999999968,
+        "bounding_box": [
+          -73.728,
+          40.951,
+          -73.0,
+          41.667
+        ],
+        "point": [
+          -73.364,
+          41.309
+        ],
+        "labels": {
+          "en": "Fairfield"
+        },
+        "population": 949668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2025,
+          41.7595
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ct",
+        "region_child": "005",
+        "area": 0.3666109999999976,
+        "bounding_box": [
+          -73.518,
+          41.469,
+          -72.887,
+          42.05
+        ],
+        "point": [
+          -73.2025,
+          41.7595
+        ],
+        "labels": {
+          "en": "Litchfield"
+        },
+        "population": 198960
+      }
+    }
+  ]
+}

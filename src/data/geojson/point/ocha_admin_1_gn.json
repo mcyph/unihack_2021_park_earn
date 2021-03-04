@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.7455,
+          11.261
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gn",
+        "region_child": "gn01",
+        "area": 6.687289999999999,
+        "bounding_box": [
+          -14.927,
+          9.846,
+          -12.564,
+          12.676
+        ],
+        "point": [
+          -13.7455,
+          11.261
+        ],
+        "labels": {
+          "en": "Boke"
+        },
+        "population": 1224805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.992,
+          10.8765
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gn",
+        "region_child": "gn01",
+        "area": 0.03427800000000011,
+        "bounding_box": [
+          -15.079,
+          10.778,
+          -14.905,
+          10.975
+        ],
+        "point": [
+          -14.992,
+          10.8765
+        ],
+        "labels": {
+          "en": "Boke"
+        },
+        "population": 1224805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.939,
+          11.000499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gn",
+        "region_child": "gn01",
+        "area": 0.006915999999999993,
+        "bounding_box": [
+          -14.977,
+          10.955,
+          -14.901,
+          11.046
+        ],
+        "point": [
+          -14.939,
+          11.000499999999999
+        ],
+        "labels": {
+          "en": "Boke"
+        },
+        "population": 1224805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5685,
+          9.628
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gn",
+        "region_child": "gn02",
+        "area": 0.05299200000000023,
+        "bounding_box": [
+          -13.672,
+          9.5,
+          -13.465,
+          9.756
+        ],
+        "point": [
+          -13.5685,
+          9.628
+        ],
+        "labels": {
+          "en": "Conakry"
+        },
+        "population": 1867059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.563,
+          10.516
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gn",
+        "region_child": "gn03",
+        "area": 6.589020000000002,
+        "bounding_box": [
+          -11.528,
+          8.809,
+          -9.598,
+          12.223
+        ],
+        "point": [
+          -10.563,
+          10.516
+        ],
+        "labels": {
+          "en": "Faranah"
+        },
+        "population": 1085148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4255,
+          10.6335
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gn",
+        "region_child": "gn04",
+        "area": 11.093613000000005,
+        "bounding_box": [
+          -10.909,
+          8.764,
+          -7.942,
+          12.503
+        ],
+        "point": [
+          -9.4255,
+          10.6335
+        ],
+        "labels": {
+          "en": "Kankan"
+        },
+        "population": 2531110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.052,
+          10.209
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gn",
+        "region_child": "gn05",
+        "area": 4.342067999999999,
+        "bounding_box": [
+          -13.979,
+          9.038,
+          -12.125,
+          11.38
+        ],
+        "point": [
+          -13.052,
+          10.209
+        ],
+        "labels": {
+          "en": "Kindia"
+        },
+        "population": 2046576
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.692,
+          9.778500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gn",
+        "region_child": "gn05",
+        "area": 0.008847999999999879,
+        "bounding_box": [
+          -13.748,
+          9.739,
+          -13.636,
+          9.818
+        ],
+        "point": [
+          -13.692,
+          9.778500000000001
+        ],
+        "labels": {
+          "en": "Kindia"
+        },
+        "population": 2046576
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.0245,
+          11.715
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gn",
+        "region_child": "gn06",
+        "area": 2.8290079999999986,
+        "bounding_box": [
+          -12.996,
+          10.987,
+          -11.053,
+          12.443
+        ],
+        "point": [
+          -12.0245,
+          11.715
+        ],
+        "labels": {
+          "en": "Labe"
+        },
+        "population": 1079404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.064499999999999,
+          10.607
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gn",
+        "region_child": "gn07",
+        "area": 2.6593780000000007,
+        "bounding_box": [
+          -12.974,
+          9.876,
+          -11.155,
+          11.338
+        ],
+        "point": [
+          -12.064499999999999,
+          10.607
+        ],
+        "labels": {
+          "en": "Mamou"
+        },
+        "population": 776855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.159,
+          8.387
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gn",
+        "region_child": "gn08",
+        "area": 7.195136000000001,
+        "bounding_box": [
+          -10.663,
+          7.191,
+          -7.655,
+          9.583
+        ],
+        "point": [
+          -9.159,
+          8.387
+        ],
+        "labels": {
+          "en": "Nzerekore"
+        },
+        "population": 1700762
+      }
+    }
+  ]
+}

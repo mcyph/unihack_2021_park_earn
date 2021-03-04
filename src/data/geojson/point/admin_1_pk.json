@@ -1,0 +1,429 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.866,
+          26.111
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pk",
+        "region_child": "pk-sd",
+        "area": 21.347776000000035,
+        "bounding_box": [
+          66.657,
+          23.695,
+          71.075,
+          28.527
+        ],
+        "point": [
+          68.866,
+          26.111
+        ],
+        "labels": {
+          "alt": "Sindh",
+          "local": null,
+          "len": 4,
+          "ar": "السند",
+          "bn": "সিন্ধু প্রদেশ",
+          "de": "Sindh",
+          "en": "Sindh",
+          "es": "Sindh",
+          "fr": "Sind",
+          "el": "Σιντ",
+          "hi": "सिंध",
+          "hu": "Szindh",
+          "id": "Sindh",
+          "it": "Sindh",
+          "ja": "シンド州",
+          "ko": "신드 주",
+          "nl": "Sindh",
+          "pl": "Sindh",
+          "pt": "Sind",
+          "ru": "Синд",
+          "sv": "Sindh",
+          "tr": "Sind Eyaleti",
+          "vi": "Sindh",
+          "zh": "信德省"
+        },
+        "population": 50371261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7825,
+          35.775999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pk",
+        "region_child": "pk-gb",
+        "area": 11.586348000000024,
+        "bounding_box": [
+          72.516,
+          34.498,
+          77.049,
+          37.054
+        ],
+        "point": [
+          74.7825,
+          35.775999999999996
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": "غلغت-بلتستان",
+          "bn": "গিলগিত-বালতিস্তান",
+          "de": "Gilgit-Baltistan",
+          "en": "Gilgit-Baltistan",
+          "es": "Gilgit-Baltistán",
+          "fr": "Gilgit-Baltistan",
+          "el": "Γκιλγκίτ-Μπαλτιστάν",
+          "hi": "गिलगित-बाल्तिस्तान",
+          "hu": null,
+          "id": "Gilgit–Baltistan",
+          "it": "Gilgit-Baltistan",
+          "ja": "ギルギット・バルティスタン州",
+          "ko": "길기트발티스탄",
+          "nl": "Gilgit-Baltistan",
+          "pl": "Gilgit-Baltistan",
+          "pt": "Gilgit-Baltistão",
+          "ru": "Гилгит-Балтистан",
+          "sv": "Gilgit-Baltistan",
+          "tr": "Gilgit-Baltistan",
+          "vi": "Gilgit-Baltistan",
+          "zh": "吉尔吉特-巴尔蒂斯坦"
+        },
+        "population": 1088441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.326,
+          33.9735
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pk",
+        "region_child": "pk-jk",
+        "area": 4.26145199999998,
+        "bounding_box": [
+          73.4,
+          32.823,
+          75.252,
+          35.124
+        ],
+        "point": [
+          74.326,
+          33.9735
+        ],
+        "labels": {
+          "alt": "Kashmir",
+          "local": null,
+          "len": 12,
+          "ar": "آزاد كشمير",
+          "bn": "আজাদ কাশ্মীর",
+          "de": "Asad Jammu und Kaschmir",
+          "en": "Azad Kashmir",
+          "es": "Azad Cachemira",
+          "fr": "Azad Cachemire",
+          "el": "Αζάντ Κασμίρ",
+          "hi": "आज़ाद कश्मीर",
+          "hu": null,
+          "id": "Azad Kashmir",
+          "it": "Azad Kashmir",
+          "ja": "アザド・カシミール",
+          "ko": "아자드 카슈미르 주",
+          "nl": "Azad Kasjmir",
+          "pl": "Azad Dżammu i Kaszmir",
+          "pt": "Caxemira Livre",
+          "ru": "Азад Кашмир",
+          "sv": "Azad Kashmir",
+          "tr": "Azad Keşmir",
+          "vi": "Azad Kashmir",
+          "zh": "自由克什米爾"
+        },
+        "population": 3514262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.346,
+          30.861
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pk",
+        "region_child": "pk-pb",
+        "area": 38.08431999999998,
+        "bounding_box": [
+          69.333,
+          27.701,
+          75.359,
+          34.021
+        ],
+        "point": [
+          72.346,
+          30.861
+        ],
+        "labels": {
+          "alt": "Pendjab|Penjab",
+          "local": null,
+          "len": 6,
+          "ar": "البنجاب",
+          "bn": "পাঞ্জাব",
+          "de": "Punjab",
+          "en": "Punjab",
+          "es": "Panyab",
+          "fr": "Pendjab",
+          "el": "Παντζάμπ",
+          "hi": "पंजाब",
+          "hu": "Pandzsáb",
+          "id": "Punjab",
+          "it": "Punjab",
+          "ja": "パンジャーブ州",
+          "ko": "펀자브 주",
+          "nl": "Punjab",
+          "pl": "Pendżab",
+          "pt": "Punjab",
+          "ru": "Пенджаб",
+          "sv": "Punjab",
+          "tr": "Pencap Eyaleti",
+          "vi": "Punjab",
+          "zh": "旁遮普省"
+        },
+        "population": 126404216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0995,
+          34.072
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pk",
+        "region_child": "pk-kp",
+        "area": 22.888150000000007,
+        "bounding_box": [
+          70.074,
+          31.247,
+          74.125,
+          36.897
+        ],
+        "point": [
+          72.0995,
+          34.072
+        ],
+        "labels": {
+          "alt": "North-West Frontier Province",
+          "local": null,
+          "len": 8,
+          "ar": "خیبر بختونخوا",
+          "bn": "খাইবার পাখতুনখাওয়া",
+          "de": "Khyber Pakhtunkhwa",
+          "en": "Khyber Pakhtunkhwa",
+          "es": "Khyber Pakhtunkhwa",
+          "fr": "Khyber Pakhtunkhwa",
+          "el": null,
+          "hi": "ख़ैबर-पख़्तूनख़्वा",
+          "hu": "Hajber-Pahtunhva",
+          "id": "Khyber Pakhtunkhwa",
+          "it": "Khyber Pakhtunkhwa",
+          "ja": "カイバル・パクトゥンクワ州",
+          "ko": "카이베르파크툰크와 주",
+          "nl": "Khyber-Pakhtunkhwa",
+          "pl": "Chajber Pachtunchwa",
+          "pt": "Khyber Pakhtunkhwa",
+          "ru": "Хайбер-Пахтунхва",
+          "sv": "Khyber Pukhtunkhwa",
+          "tr": "Kuzeybatı Sınır Eyaleti",
+          "vi": "Khyber Pakhtunkhwa",
+          "zh": "开伯尔－普赫图赫瓦省"
+        },
+        "population": 32773956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.5405,
+          33.0055
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pk",
+        "region_child": "pk-ta",
+        "area": 10.145625000000006,
+        "bounding_box": [
+          69.228,
+          31.073,
+          71.853,
+          34.938
+        ],
+        "point": [
+          70.5405,
+          33.0055
+        ],
+        "labels": {
+          "alt": "Federally Administered Tribal Areas",
+          "local": null,
+          "len": 8,
+          "ar": "المناطق القبلية الخاضعة للإدارة الاتحادية",
+          "bn": "ফেডারেলি এডমিনিস্ট্রেটিভ এরিয়া",
+          "de": "Stammesgebiete unter Bundesverwaltung",
+          "en": "Federally Administered Tribal Areas",
+          "es": "Áreas tribales",
+          "fr": "Régions tribales",
+          "el": "Πακιστανίν",
+          "hi": "संघ-शासित जनजातीय क्षेत्र",
+          "hu": null,
+          "id": "Federally Administered Tribal Areas",
+          "it": "aree tribali di amministrazione federale",
+          "ja": "連邦直轄部族地域",
+          "ko": "연방 직할 부족 지역",
+          "nl": "Federaal Bestuurde Stamgebieden",
+          "pl": "Terytoria Plemienne Administrowane Federalnie",
+          "pt": "Território Federal das Áreas Tribais",
+          "ru": "Территория племён федерального управления",
+          "sv": "Federalt administrerade stamområden",
+          "tr": "Federal yönetilen kabile alanları",
+          "vi": "Các khu vực Hành chính Bộ lạc Liên bang",
+          "zh": "联邦直辖部落地区"
+        },
+        "population": 4786596
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.551,
+          28.475
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pk",
+        "region_child": "pk-ba",
+        "area": 67.46072399999996,
+        "bounding_box": [
+          60.844,
+          24.892,
+          70.258,
+          32.058
+        ],
+        "point": [
+          65.551,
+          28.475
+        ],
+        "labels": {
+          "alt": "Balochistan|BéloutchistanBeluchistan|Baluchistão",
+          "local": null,
+          "len": 11,
+          "ar": "بلوشستان",
+          "bn": "বেলুচিস্তান",
+          "de": "Belutschistan",
+          "en": "Balochistan",
+          "es": "Baluchistán",
+          "fr": "Baloutchistan",
+          "el": "Μπαλοτσιστάν",
+          "hi": "बलूचिस्तान",
+          "hu": "Beludzsisztán",
+          "id": "Balochistan",
+          "it": "Belucistan",
+          "ja": "バローチスターン州",
+          "ko": "발루치스탄 주",
+          "nl": "Beloetsjistan",
+          "pl": "Beludżystan",
+          "pt": "Baluchistão",
+          "ru": "Белуджистан",
+          "sv": "Baluchistan",
+          "tr": "Belucistan Eyaleti",
+          "vi": "Balochistan",
+          "zh": "俾路支省"
+        },
+        "population": 8364545
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0655,
+          33.650000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pk",
+        "region_child": "pk-is",
+        "area": 0.15738799999999858,
+        "bounding_box": [
+          72.81,
+          33.496,
+          73.321,
+          33.804
+        ],
+        "point": [
+          73.0655,
+          33.650000000000006
+        ],
+        "labels": {
+          "alt": "Islamabad|Federal Capital Territory|Federal Capital Territory Islamabad|Territoire de la Capitale fédérale",
+          "local": null,
+          "len": 6,
+          "ar": "ناحية بايتختي اسلام‌آباد",
+          "bn": null,
+          "de": "Hauptstadtterritorium Islamabad",
+          "en": "Islamabad Capital Territory",
+          "es": null,
+          "fr": "Territoire fédéral d'Islamabad",
+          "el": null,
+          "hi": "इस्लामाबाद राजधानी क्षेत्र",
+          "hu": null,
+          "id": null,
+          "it": "Territorio della capitale Islamabad",
+          "ja": "イスラーマーバード首都圏",
+          "ko": "이슬라마바드 수도권",
+          "nl": "Hoofdstedelijk Territorium Islamabad",
+          "pl": "Stołeczne Terytorium Islamabadu",
+          "pt": "Território da Capital Islamabad",
+          "ru": "Федеральная столичная территория",
+          "sv": null,
+          "tr": "İslamabad Başkent Bölgesi",
+          "vi": "Lãnh thổ Thủ đô Islamabad",
+          "zh": "伊斯兰堡首都区"
+        },
+        "population": 2793612
+      }
+    }
+  ]
+}

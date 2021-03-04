@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2285,
+          51.968
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "anhalt-zerbst",
+        "area": 0.30534999999999884,
+        "bounding_box": [
+          11.841,
+          51.771,
+          12.616,
+          52.165
+        ],
+        "point": [
+          12.2285,
+          51.968
+        ],
+        "labels": {
+          "en": "Anhalt-Zerbst"
+        },
+        "population": 65762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74,
+          51.754000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "bernburg",
+        "area": 0.0858519999999995,
+        "bounding_box": [
+          11.571,
+          51.627,
+          11.909,
+          51.881
+        ],
+        "point": [
+          11.74,
+          51.754000000000005
+        ],
+        "labels": {
+          "en": "Bernburg"
+        },
+        "population": 50460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.312999999999999,
+          51.658500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "bitterfeld",
+        "area": 0.14391999999999894,
+        "bounding_box": [
+          12.033,
+          51.53,
+          12.593,
+          51.787
+        ],
+        "point": [
+          12.312999999999999,
+          51.658500000000004
+        ],
+        "labels": {
+          "en": "Bitterfeld"
+        },
+        "population": 72786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.238,
+          51.8055
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "dessau städte",
+        "area": 0.03486600000000021,
+        "bounding_box": [
+          12.121,
+          51.731,
+          12.355,
+          51.88
+        ],
+        "point": [
+          12.238,
+          51.8055
+        ],
+        "labels": {
+          "en": "Dessau Städte"
+        },
+        "population": 69670
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.029,
+          51.761
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "köthen",
+        "area": 0.08663200000000001,
+        "bounding_box": [
+          11.847,
+          51.642,
+          12.211,
+          51.88
+        ],
+        "point": [
+          12.029,
+          51.761
+        ],
+        "labels": {
+          "en": "Köthen"
+        },
+        "population": 51400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.768,
+          51.811
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "wittenberg",
+        "area": 0.33962800000000476,
+        "bounding_box": [
+          12.337,
+          51.614,
+          13.199,
+          52.008
+        ],
+        "point": [
+          12.768,
+          51.811
+        ],
+        "labels": {
+          "en": "Wittenberg"
+        },
+        "population": 90262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4415,
+          51.825500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "aschersleben-staßfurt",
+        "area": 0.1678649999999986,
+        "bounding_box": [
+          11.209,
+          51.645,
+          11.674,
+          52.006
+        ],
+        "point": [
+          11.4415,
+          51.825500000000005
+        ],
+        "labels": {
+          "en": "Aschersleben-Staßfurt"
+        },
+        "population": 70212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.836500000000001,
+          51.132999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "burgenlandkreis",
+        "area": 0.3538159999999981,
+        "bounding_box": [
+          11.366,
+          50.945,
+          12.307,
+          51.321
+        ],
+        "point": [
+          11.836500000000001,
+          51.132999999999996
+        ],
+        "labels": {
+          "en": "Burgenlandkreis"
+        },
+        "population": 107914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.979,
+          51.474999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "halle städte",
+        "area": 0.03182400000000065,
+        "bounding_box": [
+          11.862,
+          51.407,
+          12.096,
+          51.543
+        ],
+        "point": [
+          11.979,
+          51.474999999999994
+        ],
+        "labels": {
+          "en": "Halle Städte"
+        },
+        "population": 212825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.465499999999999,
+          51.5715
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "mansfelder land",
+        "area": 0.2038049999999986,
+        "bounding_box": [
+          11.142,
+          51.414,
+          11.789,
+          51.729
+        ],
+        "point": [
+          11.465499999999999,
+          51.5715
+        ],
+        "labels": {
+          "en": "Mansfelder Land"
+        },
+        "population": 77848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.814,
+          51.3495
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "merseburg-querfurt",
+        "area": 0.1752779999999995,
+        "bounding_box": [
+          11.421,
+          51.238,
+          12.207,
+          51.461
+        ],
+        "point": [
+          11.814,
+          51.3495
+        ],
+        "labels": {
+          "en": "Merseburg-Querfurt"
+        },
+        "population": 105767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9525,
+          51.5285
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "saalkreis",
+        "area": 0.15288100000000077,
+        "bounding_box": [
+          11.688,
+          51.384,
+          12.217,
+          51.673
+        ],
+        "point": [
+          11.9525,
+          51.5285
+        ],
+        "labels": {
+          "en": "Saalkreis"
+        },
+        "population": 69020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.196,
+          51.4885
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "sangerhausen",
+        "area": 0.1791800000000012,
+        "bounding_box": [
+          10.886,
+          51.344,
+          11.506,
+          51.633
+        ],
+        "point": [
+          11.196,
+          51.4885
+        ],
+        "labels": {
+          "en": "Sangerhausen"
+        },
+        "population": 48852
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.033000000000001,
+          51.187
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "weißenfels",
+        "area": 0.0759519999999992,
+        "bounding_box": [
+          11.845,
+          51.086,
+          12.221,
+          51.288
+        ],
+        "point": [
+          12.033000000000001,
+          51.187
+        ],
+        "labels": {
+          "en": "Weißenfels"
+        },
+        "population": 59385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.202,
+          52.661
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "altmarkkreis salzwedel",
+        "area": 0.4903919999999985,
+        "bounding_box": [
+          10.761,
+          52.383,
+          11.643,
+          52.939
+        ],
+        "point": [
+          11.202,
+          52.661
+        ],
+        "labels": {
+          "en": "Altmarkkreis Salzwedel"
+        },
+        "population": 77378
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.306999999999999,
+          52.057500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "bördekreis",
+        "area": 0.23126800000000006,
+        "bounding_box": [
+          10.949,
+          51.896,
+          11.665,
+          52.219
+        ],
+        "point": [
+          11.306999999999999,
+          52.057500000000005
+        ],
+        "labels": {
+          "en": "Bördekreis"
+        },
+        "population": 64508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.92,
+          51.944
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "halberstadt",
+        "area": 0.16707600000000095,
+        "bounding_box": [
+          10.563,
+          51.827,
+          11.277,
+          52.061
+        ],
+        "point": [
+          10.92,
+          51.944
+        ],
+        "labels": {
+          "en": "Halberstadt"
+        },
+        "population": 62013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0155,
+          52.305
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "jerichower land",
+        "area": 0.34420399999999785,
+        "bounding_box": [
+          11.692,
+          52.039,
+          12.339,
+          52.571
+        ],
+        "point": [
+          12.0155,
+          52.305
+        ],
+        "labels": {
+          "en": "Jerichower Land"
+        },
+        "population": 70787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6445,
+          52.128
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "magdeburg städte",
+        "area": 0.0488039999999996,
+        "bounding_box": [
+          11.52,
+          52.03,
+          11.769,
+          52.226
+        ],
+        "point": [
+          11.6445,
+          52.128
+        ],
+        "labels": {
+          "en": "Magdeburg Städte"
+        },
+        "population": 224777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.401,
+          52.308
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "ohrekreis",
+        "area": 0.3701399999999963,
+        "bounding_box": [
+          10.936,
+          52.109,
+          11.866,
+          52.507
+        ],
+        "point": [
+          11.401,
+          52.308
+        ],
+        "labels": {
+          "en": "Ohrekreis"
+        },
+        "population": 98388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1235,
+          51.735
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "quedlinburg",
+        "area": 0.1515359999999995,
+        "bounding_box": [
+          10.898,
+          51.567,
+          11.349,
+          51.903
+        ],
+        "point": [
+          11.1235,
+          51.735
+        ],
+        "labels": {
+          "en": "Quedlinburg"
+        },
+        "population": 57976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.796,
+          51.953
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "schönebeck",
+        "area": 0.1076400000000006,
+        "bounding_box": [
+          11.566,
+          51.836,
+          12.026,
+          52.07
+        ],
+        "point": [
+          11.796,
+          51.953
+        ],
+        "labels": {
+          "en": "Schönebeck"
+        },
+        "population": 55617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8335,
+          52.68
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "stendal",
+        "area": 0.6033279999999952,
+        "bounding_box": [
+          11.405,
+          52.328,
+          12.262,
+          53.032
+        ],
+        "point": [
+          11.8335,
+          52.68
+        ],
+        "labels": {
+          "en": "Stendal"
+        },
+        "population": 102808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.818999999999999,
+          51.784
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-st",
+        "region_child": "wernigerode",
+        "area": 0.16746400000000175,
+        "bounding_box": [
+          10.577,
+          51.611,
+          11.061,
+          51.957
+        ],
+        "point": [
+          10.818999999999999,
+          51.784
+        ],
+        "labels": {
+          "en": "Wernigerode"
+        },
+        "population": 78352
+      }
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4155,
+          10.506499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tg",
+        "region_child": "tg-s",
+        "area": 1.4618909999999996,
+        "bounding_box": [
+          -0.166,
+          9.878,
+          0.997,
+          11.135
+        ],
+        "point": [
+          0.4155,
+          10.506499999999999
+        ],
+        "labels": {
+          "alt": "Région des Savanes",
+          "local": null,
+          "len": 7,
+          "ar": "إقليم سافانس",
+          "bn": "সাভানেস অঞ্চল",
+          "de": "Region Savanes",
+          "en": "Savanes Region",
+          "es": "Sabana",
+          "fr": "Région des Savanes",
+          "el": "Σαβάν",
+          "hi": "सावेनेस क्षेत्र",
+          "hu": null,
+          "id": "Region Savanes",
+          "it": "regione delle Savane",
+          "ja": "サバナ州",
+          "ko": "사반 주",
+          "nl": "Savanes",
+          "pl": "Region Savanes",
+          "pt": "Savanes",
+          "ru": "Область Саванн",
+          "sv": "Savanes",
+          "tr": "Savanes",
+          "vi": "Savanes",
+          "zh": "草原區"
+        },
+        "population": 1208730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8214999999999999,
+          9.526
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tg",
+        "region_child": "tg-k",
+        "area": 1.6542539999999994,
+        "bounding_box": [
+          0.223,
+          8.835,
+          1.42,
+          10.217
+        ],
+        "point": [
+          0.8214999999999999,
+          9.526
+        ],
+        "labels": {
+          "alt": "Région de la Kara",
+          "local": null,
+          "len": 4,
+          "ar": "إقليم كارا",
+          "bn": "কারা অঞ্চল",
+          "de": "Region Kara",
+          "en": "Kara Region",
+          "es": "Kara",
+          "fr": "Région de la Kara",
+          "el": "Περιφέρεια Καρά",
+          "hi": "कारा प्रदेश",
+          "hu": null,
+          "id": "Region Kara",
+          "it": "regione di Kara",
+          "ja": "カラ州",
+          "ko": "카라 주",
+          "nl": "Kara",
+          "pl": "Region Kara",
+          "pt": "Kara",
+          "ru": "Кара",
+          "sv": "Kara",
+          "tr": "Kara",
+          "vi": "Kara",
+          "zh": "卡拉区"
+        },
+        "population": 951770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.004,
+          8.5925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tg",
+        "region_child": "tg-c",
+        "area": 1.7795279999999998,
+        "bounding_box": [
+          0.368,
+          7.893,
+          1.64,
+          9.292
+        ],
+        "point": [
+          1.004,
+          8.5925
+        ],
+        "labels": {
+          "alt": "Région Centrale, Région du Centre",
+          "local": null,
+          "len": 6,
+          "ar": null,
+          "bn": null,
+          "de": "Centre",
+          "en": "Centre Region",
+          "es": "Región Centro",
+          "fr": "Centre",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": "Region Centre",
+          "it": "regione del Centro",
+          "ja": "中部地方",
+          "ko": "중부 주",
+          "nl": "Centre",
+          "pl": "Region Centre",
+          "pt": "Região Centro",
+          "ru": "Центральная область",
+          "sv": "Centre",
+          "tr": "Centre Bölgesi",
+          "vi": null,
+          "zh": "中央大區"
+        },
+        "population": 837782
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0604999999999998,
+          7.452999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tg",
+        "region_child": "tg-p",
+        "area": 2.078778,
+        "bounding_box": [
+          0.495,
+          6.534,
+          1.626,
+          8.372
+        ],
+        "point": [
+          1.0604999999999998,
+          7.452999999999999
+        ],
+        "labels": {
+          "alt": "Région des Plateaux",
+          "local": null,
+          "len": 8,
+          "ar": "إقليم بلاتيوكس",
+          "bn": "প্লাতেঊ অঞ্চল",
+          "de": "Region Plateaux",
+          "en": "Plateaux Region",
+          "es": "Altiplano",
+          "fr": "Région des plateaux",
+          "el": "Πλατώ",
+          "hi": "प्लेटो क्षेत्र",
+          "hu": null,
+          "id": "Region Plateaux",
+          "it": "regione degli Altopiani",
+          "ja": "高原州",
+          "ko": "플라토 주",
+          "nl": "Plateaux",
+          "pl": "Region Plateaux",
+          "pt": "Plateaux",
+          "ru": "Плато",
+          "sv": "Plateaux",
+          "tr": "Plateaux",
+          "vi": "Plateaux",
+          "zh": "高原區"
+        },
+        "population": 1792900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2475,
+          6.5015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tg",
+        "region_child": "tg-m",
+        "area": 0.8584069999999999,
+        "bounding_box": [
+          0.713,
+          6.1,
+          1.782,
+          6.903
+        ],
+        "point": [
+          1.2475,
+          6.5015
+        ],
+        "labels": {
+          "alt": "Région Maritime",
+          "local": null,
+          "len": 8,
+          "ar": "إقليم البحرية",
+          "bn": "মেরিটাইম অঞ্চল",
+          "de": "Region Maritime",
+          "en": "Maritime Region",
+          "es": "Marítima",
+          "fr": "Région maritime",
+          "el": "Μαριτίμ",
+          "hi": "मेरीटाइम प्रांत",
+          "hu": null,
+          "id": "Region Maritime",
+          "it": "regione Marittima",
+          "ja": "沿岸州",
+          "ko": "마리팀 주",
+          "nl": "Maritime",
+          "pl": "Region Maritime",
+          "pt": "Maritime",
+          "ru": "Приморская область",
+          "sv": "Maritime",
+          "tr": "Maritime",
+          "vi": "Maritime",
+          "zh": "濱海區"
+        },
+        "population": 3955897
+      }
+    }
+  ]
+}

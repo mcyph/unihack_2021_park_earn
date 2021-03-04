@@ -1,0 +1,1807 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5465,
+          46.414
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-20",
+        "area": 0.16249999999999876,
+        "bounding_box": [
+          16.234,
+          46.284,
+          16.859,
+          46.544
+        ],
+        "point": [
+          16.5465,
+          46.414
+        ],
+        "labels": {
+          "alt": "Medimurje",
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة ماجيموريه",
+          "bn": "মেডিমুরজে কাউন্টি",
+          "de": "Gespanschaft Međimurje",
+          "en": "Međimurje County",
+          "es": "Međimurje",
+          "fr": "Comitat de Međimurje",
+          "el": "Μεντιμούρτζε",
+          "hi": "मेडीमुर्जे काउंटी",
+          "hu": "Muraköz megye",
+          "id": "Kabupaten Međimurje",
+          "it": "regione del Međimurje",
+          "ja": "メジムリェ郡",
+          "ko": "메지무레 주",
+          "nl": "Međimurje",
+          "pl": "Međimurska županija",
+          "pt": "Condado de Međimurje",
+          "ru": "Меджумурская жупания",
+          "sv": "Međimurjes län",
+          "tr": "Međimurje",
+          "vi": "Hạt Medimurje",
+          "zh": "梅吉穆列縣"
+        },
+        "population": 111002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.609,
+          45.726
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-10",
+        "area": 0.48348000000000324,
+        "bounding_box": [
+          17.135,
+          45.471,
+          18.083,
+          45.981
+        ],
+        "point": [
+          17.609,
+          45.726
+        ],
+        "labels": {
+          "alt": "Virovitica-Podravina",
+          "local": null,
+          "len": 21,
+          "ar": "مقاطعة فيروفيتيكا-بودرافينا",
+          "bn": "ভিরোভিটিকা-পোদ্রাভিনা কাউন্টি",
+          "de": "Gespanschaft Virovitica-Podravina",
+          "en": "Virovitica-Podravina County",
+          "es": "Virovitica-Podravina",
+          "fr": "Comitat de Virovitica-Podravina",
+          "el": "Βιροβιτίκα-Ποντραβίνα",
+          "hi": "विरोविटिका-पॉडराविना काउंटी",
+          "hu": "Verőce-Drávamente megye",
+          "id": "Kabupaten Virovitica-Podravina",
+          "it": "regione di Virovitica e della Podravina",
+          "ja": "ヴィロヴィティツァ＝ポドラヴィナ郡",
+          "ko": "비로비티차포드라비나 주",
+          "nl": "Virovitica-Podravina",
+          "pl": "Virovitičko-podravska županija",
+          "pt": "Condado de Virovitica-Podravina",
+          "ru": "Вировитицко-Подравская жупания",
+          "sv": "Virovitica-Podravinas län",
+          "tr": "Virovitica-Podravina",
+          "vi": "Hạt Virovitica-Podravina",
+          "zh": "維羅維蒂察-波德拉維納縣"
+        },
+        "population": 81056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8285,
+          46.1175
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-06",
+        "area": 0.47371500000000294,
+        "bounding_box": [
+          16.35,
+          45.87,
+          17.307,
+          46.365
+        ],
+        "point": [
+          16.8285,
+          46.1175
+        ],
+        "labels": {
+          "alt": "Koprivnica-Križevci",
+          "local": null,
+          "len": 22,
+          "ar": "مقاطعة كوبريفنيكا-كريزفتسي",
+          "bn": "কপ্রিভনিকা-ক্রিজেভচি কাউন্টি",
+          "de": "Gespanschaft Koprivnica-Križevci",
+          "en": "Koprivnica-Križevci County",
+          "es": "Koprivnica-Križevci",
+          "fr": "Comitat de Koprivnica-Križevci",
+          "el": "Κοπριβνίτσα-Κριζέβσκι",
+          "hi": "कोप्रिव्निका-क्रिझेव्की काउंटी",
+          "hu": "Kapronca-Körös megye",
+          "id": "Kabupaten Koprivnica-Križevci",
+          "it": "regione di Koprivnica e Križevci",
+          "ja": "コプリヴニツァ＝クリジェヴツィ郡",
+          "ko": "코프리브니차크리제브치 주",
+          "nl": "Koprivnica-Križevci",
+          "pl": "Koprivničko-križevačka županija",
+          "pt": "Condado de Koprivnica-Križevci",
+          "ru": "Копривницко-Крижевацкая жупания",
+          "sv": "Koprivnica-Križevcis län",
+          "tr": "Koprivnica-Križevci",
+          "vi": "Hạt Koprivnica-Krizevci",
+          "zh": "科普里夫尼察-克里熱夫齊縣"
+        },
+        "population": 106294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.506,
+          45.5625
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-14",
+        "area": 0.8843999999999959,
+        "bounding_box": [
+          17.906,
+          45.194,
+          19.106,
+          45.931
+        ],
+        "point": [
+          18.506,
+          45.5625
+        ],
+        "labels": {
+          "alt": "Osijek-Baranja",
+          "local": null,
+          "len": 17,
+          "ar": "مقاطعة أوسييك-بارانيا",
+          "bn": "ওসিজেক-বারাঞ্জা কাউন্টি",
+          "de": "Gespanschaft Osijek-Baranja",
+          "en": "Osijek-Baranja County",
+          "es": "Osijek-Baranja",
+          "fr": "Comitat d'Osijek-Baranja",
+          "el": "Οσιτζέκ-Μπαράντζα",
+          "hi": "ओसिएक-बरान्खा  काउंटी",
+          "hu": "Eszék-Baranya megye",
+          "id": "Kabupaten Osijek-Baranja",
+          "it": "regione di Osijek e della Baranja",
+          "ja": "オシエク＝バラニャ郡",
+          "ko": "오시예크바라냐 주",
+          "nl": "Osijek-Baranja",
+          "pl": "Osječko-baranjska županija",
+          "pt": "Condado de Osijek-Barânia",
+          "ru": "Осиецко-Бараньская жупания",
+          "sv": "Osijek-Baranjas län",
+          "tr": "Osijek-Baranya",
+          "vi": "Hạt Osijek-Baranja",
+          "zh": "奧西耶克-巴拉尼亞縣"
+        },
+        "population": 259248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3185,
+          46.203
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-05",
+        "area": 0.3340200000000021,
+        "bounding_box": [
+          15.879,
+          46.013,
+          16.758,
+          46.393
+        ],
+        "point": [
+          16.3185,
+          46.203
+        ],
+        "labels": {
+          "alt": "Varaždin|Varasd",
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة فرازدين",
+          "bn": "ভারাজদিন কাউন্টি",
+          "de": "Gespanschaft Varaždin",
+          "en": "Varaždin County",
+          "es": "Varaždin",
+          "fr": "Comitat de Varaždin",
+          "el": "Βαραζντίν",
+          "hi": "वराज़दिन काउंटी",
+          "hu": "Varasd megye",
+          "id": "Kabupaten Varaždin",
+          "it": "regione di Varaždin",
+          "ja": "ヴァラジュディン郡",
+          "ko": "바라주딘 주",
+          "nl": "Varaždin",
+          "pl": "Varaždinska županija",
+          "pt": "Condado de Varaždin",
+          "ru": "Вараждинская жупания",
+          "sv": "Varaždins län",
+          "tr": "Varaždin Bölgesi",
+          "vi": "Hạt Varazdin",
+          "zh": "瓦拉日丁縣"
+        },
+        "population": 161390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.923,
+          46.085
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-02",
+        "area": 0.23176799999999945,
+        "bounding_box": [
+          15.59,
+          45.911,
+          16.256,
+          46.259
+        ],
+        "point": [
+          15.923,
+          46.085
+        ],
+        "labels": {
+          "alt": "Krapina-Zagorje",
+          "local": null,
+          "len": 18,
+          "ar": "مقاطعة كرابينا زاغوريه",
+          "bn": "ক্রাপিনা-জাগোর্জে কাউন্টি",
+          "de": "Gespanschaft Krapina-Zagorje",
+          "en": "Krapina-Zagorje County",
+          "es": "Krapina-Zagorje",
+          "fr": "Comitat de Krapina-Zagorje",
+          "el": "Κραπίνα-Ζαγκόρτζε",
+          "hi": "क्रापिना-ज़गोरिए काउंटी",
+          "hu": "Krapina-Zagorje megye",
+          "id": "Kabupaten Krapina-Zagorje",
+          "it": "regione di Krapina e dello Zagorje",
+          "ja": "クラピナ＝ザゴリエ郡",
+          "ko": "크라피나자고레 주",
+          "nl": "Krapina-Zagorje",
+          "pl": "Krapinsko-zagorska županija",
+          "pt": "Condado de Krapina-Zagorje",
+          "ru": "Крапинско-Загорская жупания",
+          "sv": "Krapina-Zagorjes län",
+          "tr": "Krapina-Zagorje",
+          "vi": "Hạt Krapina-Zagorje",
+          "zh": "克拉皮納-扎戈列縣"
+        },
+        "population": 127192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9715,
+          45.768
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-01",
+        "area": 0.8455979999999986,
+        "bounding_box": [
+          15.25,
+          45.475,
+          16.693,
+          46.061
+        ],
+        "point": [
+          15.9715,
+          45.768
+        ],
+        "labels": {
+          "alt": "Zagreb",
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة زغرب",
+          "bn": "জাগরেব কাউন্টি",
+          "de": "Gespanschaft Zagreb",
+          "en": "Zagreb County",
+          "es": "Zagreb",
+          "fr": "Comitat de Zagreb",
+          "el": "Ζάγκρεμπ",
+          "hi": "ज़ाग्रेब काउंटी",
+          "hu": "Zágráb megye",
+          "id": "Kabupaten Zagreb",
+          "it": "regione di Zagabria",
+          "ja": "ザグレブ郡",
+          "ko": "자그레브 주",
+          "nl": "Zagreb",
+          "pl": "Zagrebačka županija",
+          "pt": "Condado de Zagreb",
+          "ru": "Загребская жупания",
+          "sv": "Zagrebs län",
+          "tr": "Zagreb Bölgesi",
+          "vi": "Zagreb",
+          "zh": "薩格勒布縣"
+        },
+        "population": 301244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.407,
+          45.287
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-04",
+        "area": 0.7115520000000021,
+        "bounding_box": [
+          14.971,
+          44.879,
+          15.843,
+          45.695
+        ],
+        "point": [
+          15.407,
+          45.287
+        ],
+        "labels": {
+          "alt": "Karlovac",
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة كارلوفاتش",
+          "bn": "কার্লোভাক কাউন্টি",
+          "de": "Gespanschaft Karlovac",
+          "en": "Karlovac County",
+          "es": "Karlovac",
+          "fr": "Comitat de Karlovac",
+          "el": "Κάρλοβακ",
+          "hi": "कार्लोवैक काउंटी",
+          "hu": "Károlyváros megye",
+          "id": "Kabupaten Karlovac",
+          "it": "regione di Karlovac",
+          "ja": "カルロヴァツ郡",
+          "ko": "카를로바츠 주",
+          "nl": "Karlovac",
+          "pl": "Karlovačka županija",
+          "pt": "Condado de Karlovac",
+          "ru": "Карловачка",
+          "sv": "Karlovacs län",
+          "tr": "Karlovac Bölgesi",
+          "vi": "Hạt Karlovac",
+          "zh": "卡爾洛瓦茨縣"
+        },
+        "population": 118347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.671500000000002,
+          45.35
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-08",
+        "area": 0.6964520000000001,
+        "bounding_box": [
+          14.117,
+          45.036,
+          15.226,
+          45.664
+        ],
+        "point": [
+          14.671500000000002,
+          45.35
+        ],
+        "labels": {
+          "alt": "Primorje-Gorski Kotar",
+          "local": null,
+          "len": 18,
+          "ar": "مقاطعة بريموريه-غورسكي كوتار",
+          "bn": "প্রিমোজে-গোরস্কি কোটার কাউন্টি",
+          "de": "Gespanschaft Primorje-Gorski kotar",
+          "en": "Primorje-Gorski Kotar County",
+          "es": "Primorje-Gorski Kotar",
+          "fr": "Comitat de Primorje-Gorski Kotar",
+          "el": "Πριμόρτζε-Γκόρσκι Κοτάρ",
+          "hi": "प्रिमोर्ये-गर्स्की कोटार काउंटी",
+          "hu": "Tengermellék-Hegyvidék megye",
+          "id": "Kabupaten Primorje-Gorski Kotar",
+          "it": "regione litoraneo-montana",
+          "ja": "プリモリェ＝ゴルスキ・コタル郡",
+          "ko": "프리모레고르스키코타르 주",
+          "nl": "Primorje-Gorski Kotar",
+          "pl": "Primorsko-goranska županija",
+          "pt": "Condado Litoral-Serrano",
+          "ru": "Приморско-Горанская жупания",
+          "sv": "Primorje-Gorski kotars län",
+          "tr": "Primorje-Gorski Kotar",
+          "vi": "Hạt Primorje-Gorski Kotar",
+          "zh": "濱海和山區縣"
+        },
+        "population": 265453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.396,
+          44.896
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-08",
+        "area": 0.13027199999999928,
+        "bounding_box": [
+          14.278,
+          44.62,
+          14.514,
+          45.172
+        ],
+        "point": [
+          14.396,
+          44.896
+        ],
+        "labels": {
+          "alt": "Primorje-Gorski Kotar",
+          "local": null,
+          "len": 18,
+          "ar": "مقاطعة بريموريه-غورسكي كوتار",
+          "bn": "প্রিমোজে-গোরস্কি কোটার কাউন্টি",
+          "de": "Gespanschaft Primorje-Gorski kotar",
+          "en": "Primorje-Gorski Kotar County",
+          "es": "Primorje-Gorski Kotar",
+          "fr": "Comitat de Primorje-Gorski Kotar",
+          "el": "Πριμόρτζε-Γκόρσκι Κοτάρ",
+          "hi": "प्रिमोर्ये-गर्स्की कोटार काउंटी",
+          "hu": "Tengermellék-Hegyvidék megye",
+          "id": "Kabupaten Primorje-Gorski Kotar",
+          "it": "regione litoraneo-montana",
+          "ja": "プリモリェ＝ゴルスキ・コタル郡",
+          "ko": "프리모레고르스키코타르 주",
+          "nl": "Primorje-Gorski Kotar",
+          "pl": "Primorsko-goranska županija",
+          "pt": "Condado Litoral-Serrano",
+          "ru": "Приморско-Горанская жупания",
+          "sv": "Primorje-Gorski kotars län",
+          "tr": "Primorje-Gorski Kotar",
+          "vi": "Hạt Primorje-Gorski Kotar",
+          "zh": "濱海和山區縣"
+        },
+        "population": 265453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.620000000000001,
+          45.0965
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-08",
+        "area": 0.11973000000000047,
+        "bounding_box": [
+          14.425,
+          44.943,
+          14.815,
+          45.25
+        ],
+        "point": [
+          14.620000000000001,
+          45.0965
+        ],
+        "labels": {
+          "alt": "Primorje-Gorski Kotar",
+          "local": null,
+          "len": 18,
+          "ar": "مقاطعة بريموريه-غورسكي كوتار",
+          "bn": "প্রিমোজে-গোরস্কি কোটার কাউন্টি",
+          "de": "Gespanschaft Primorje-Gorski kotar",
+          "en": "Primorje-Gorski Kotar County",
+          "es": "Primorje-Gorski Kotar",
+          "fr": "Comitat de Primorje-Gorski Kotar",
+          "el": "Πριμόρτζε-Γκόρσκι Κοτάρ",
+          "hi": "प्रिमोर्ये-गर्स्की कोटार काउंटी",
+          "hu": "Tengermellék-Hegyvidék megye",
+          "id": "Kabupaten Primorje-Gorski Kotar",
+          "it": "regione litoraneo-montana",
+          "ja": "プリモリェ＝ゴルスキ・コタル郡",
+          "ko": "프리모레고르스키코타르 주",
+          "nl": "Primorje-Gorski Kotar",
+          "pl": "Primorsko-goranska županija",
+          "pt": "Condado Litoral-Serrano",
+          "ru": "Приморско-Горанская жупания",
+          "sv": "Primorje-Gorski kotars län",
+          "tr": "Primorje-Gorski Kotar",
+          "vi": "Hạt Primorje-Gorski Kotar",
+          "zh": "濱海和山區縣"
+        },
+        "population": 265453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.437999999999999,
+          44.584
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-08",
+        "area": 0.036311999999999914,
+        "bounding_box": [
+          14.349,
+          44.482,
+          14.527,
+          44.686
+        ],
+        "point": [
+          14.437999999999999,
+          44.584
+        ],
+        "labels": {
+          "alt": "Primorje-Gorski Kotar",
+          "local": null,
+          "len": 18,
+          "ar": "مقاطعة بريموريه-غورسكي كوتار",
+          "bn": "প্রিমোজে-গোরস্কি কোটার কাউন্টি",
+          "de": "Gespanschaft Primorje-Gorski kotar",
+          "en": "Primorje-Gorski Kotar County",
+          "es": "Primorje-Gorski Kotar",
+          "fr": "Comitat de Primorje-Gorski Kotar",
+          "el": "Πριμόρτζε-Γκόρσκι Κοτάρ",
+          "hi": "प्रिमोर्ये-गर्स्की कोटार काउंटी",
+          "hu": "Tengermellék-Hegyvidék megye",
+          "id": "Kabupaten Primorje-Gorski Kotar",
+          "it": "regione litoraneo-montana",
+          "ja": "プリモリェ＝ゴルスキ・コタル郡",
+          "ko": "프리모레고르스키코타르 주",
+          "nl": "Primorje-Gorski Kotar",
+          "pl": "Primorsko-goranska županija",
+          "pt": "Condado Litoral-Serrano",
+          "ru": "Приморско-Горанская жупания",
+          "sv": "Primorje-Gorski kotars län",
+          "tr": "Primorje-Gorski Kotar",
+          "vi": "Hạt Primorje-Gorski Kotar",
+          "zh": "濱海和山區縣"
+        },
+        "population": 265453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.870999999999999,
+          45.169
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-18",
+        "area": 0.4994079999999998,
+        "bounding_box": [
+          13.507,
+          44.826,
+          14.235,
+          45.512
+        ],
+        "point": [
+          13.870999999999999,
+          45.169
+        ],
+        "labels": {
+          "alt": "Istra",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة إستريا",
+          "bn": "ইস্ত্রিয়া কাউন্টি",
+          "de": "Gespanschaft Istrien",
+          "en": "Istria County",
+          "es": "Istria",
+          "fr": "Comitat d'Istrie",
+          "el": "Ίστρια",
+          "hi": "इस्ट्रिया काउंटी",
+          "hu": "Isztria megye",
+          "id": "Kabupaten Istria",
+          "it": "regione istriana",
+          "ja": "イストラ郡",
+          "ko": "이스트라 주",
+          "nl": "Istrië",
+          "pl": "Istarska županija",
+          "pt": "Condado de Ístria",
+          "ru": "Истрийская жупания",
+          "sv": "Istriens län",
+          "tr": "İstriya",
+          "vi": "Hạt Istria",
+          "zh": "伊斯特拉縣"
+        },
+        "population": 189122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7845,
+          42.72
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-19",
+        "area": 0.8651840000000047,
+        "bounding_box": [
+          17.073,
+          42.416,
+          18.496,
+          43.024
+        ],
+        "point": [
+          17.7845,
+          42.72
+        ],
+        "labels": {
+          "alt": "Dubrovnik-Neretva",
+          "local": null,
+          "len": 22,
+          "ar": "مقاطعة دوبروفنيك-نيريتفا",
+          "bn": "দুব্রভনিক-নেরেতভা কাউন্টি",
+          "de": "Gespanschaft Dubrovnik-Neretva",
+          "en": "Dubrovnik-Neretva County",
+          "es": "Dubrovnik-Neretva",
+          "fr": "Comitat de Dubrovnik-Neretva",
+          "el": "Ντουμπρόβνικ-Νερέτβα",
+          "hi": "डूब्रोव्निक-नेरेट्वा काउंटी",
+          "hu": "Dubrovnik-Neretva megye",
+          "id": "Kabupaten Dubrovnik-Neretva",
+          "it": "regione raguseo-narentana",
+          "ja": "ドゥブロヴニク＝ネレトヴァ郡",
+          "ko": "두브로브니크네레트바 주",
+          "nl": "Dubrovnik-Neretva",
+          "pl": "Dubrovačko-neretvanska županija",
+          "pt": "Dubrovnik-Neretva",
+          "ru": "Дубровницко-Неретванская жупания",
+          "sv": "Dubrovnik-Neretvas län",
+          "tr": "Dubrovnik-Neretva",
+          "vi": "Hạt Dubrovnik-Neretva",
+          "zh": "杜布羅夫斯克-內雷特瓦縣"
+        },
+        "population": 74750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.514,
+          43.045
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-19",
+        "area": 0.06138800000000129,
+        "bounding_box": [
+          17.365,
+          42.942,
+          17.663,
+          43.148
+        ],
+        "point": [
+          17.514,
+          43.045
+        ],
+        "labels": {
+          "alt": "Dubrovnik-Neretva",
+          "local": null,
+          "len": 22,
+          "ar": "مقاطعة دوبروفنيك-نيريتفا",
+          "bn": "দুব্রভনিক-নেরেতভা কাউন্টি",
+          "de": "Gespanschaft Dubrovnik-Neretva",
+          "en": "Dubrovnik-Neretva County",
+          "es": "Dubrovnik-Neretva",
+          "fr": "Comitat de Dubrovnik-Neretva",
+          "el": "Ντουμπρόβνικ-Νερέτβα",
+          "hi": "डूब्रोव्निक-नेरेट्वा काउंटी",
+          "hu": "Dubrovnik-Neretva megye",
+          "id": "Kabupaten Dubrovnik-Neretva",
+          "it": "regione raguseo-narentana",
+          "ja": "ドゥブロヴニク＝ネレトヴァ郡",
+          "ko": "두브로브니크네레트바 주",
+          "nl": "Dubrovnik-Neretva",
+          "pl": "Dubrovačko-neretvanska županija",
+          "pt": "Dubrovnik-Neretva",
+          "ru": "Дубровницко-Неретванская жупания",
+          "sv": "Dubrovnik-Neretvas län",
+          "tr": "Dubrovnik-Neretva",
+          "vi": "Hạt Dubrovnik-Neretva",
+          "zh": "杜布羅夫斯克-內雷特瓦縣"
+        },
+        "population": 74750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.906,
+          42.9455
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-19",
+        "area": 0.047703999999999074,
+        "bounding_box": [
+          16.638,
+          42.901,
+          17.174,
+          42.99
+        ],
+        "point": [
+          16.906,
+          42.9455
+        ],
+        "labels": {
+          "alt": "Dubrovnik-Neretva",
+          "local": null,
+          "len": 22,
+          "ar": "مقاطعة دوبروفنيك-نيريتفا",
+          "bn": "দুব্রভনিক-নেরেতভা কাউন্টি",
+          "de": "Gespanschaft Dubrovnik-Neretva",
+          "en": "Dubrovnik-Neretva County",
+          "es": "Dubrovnik-Neretva",
+          "fr": "Comitat de Dubrovnik-Neretva",
+          "el": "Ντουμπρόβνικ-Νερέτβα",
+          "hi": "डूब्रोव्निक-नेरेट्वा काउंटी",
+          "hu": "Dubrovnik-Neretva megye",
+          "id": "Kabupaten Dubrovnik-Neretva",
+          "it": "regione raguseo-narentana",
+          "ja": "ドゥブロヴニク＝ネレトヴァ郡",
+          "ko": "두브로브니크네레트바 주",
+          "nl": "Dubrovnik-Neretva",
+          "pl": "Dubrovačko-neretvanska županija",
+          "pt": "Dubrovnik-Neretva",
+          "ru": "Дубровницко-Неретванская жупания",
+          "sv": "Dubrovnik-Neretvas län",
+          "tr": "Dubrovnik-Neretva",
+          "vi": "Hạt Dubrovnik-Neretva",
+          "zh": "杜布羅夫斯克-內雷特瓦縣"
+        },
+        "population": 74750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5675,
+          42.7385
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-19",
+        "area": 0.031580999999998575,
+        "bounding_box": [
+          17.386,
+          42.695,
+          17.749,
+          42.782
+        ],
+        "point": [
+          17.5675,
+          42.7385
+        ],
+        "labels": {
+          "alt": "Dubrovnik-Neretva",
+          "local": null,
+          "len": 22,
+          "ar": "مقاطعة دوبروفنيك-نيريتفا",
+          "bn": "দুব্রভনিক-নেরেতভা কাউন্টি",
+          "de": "Gespanschaft Dubrovnik-Neretva",
+          "en": "Dubrovnik-Neretva County",
+          "es": "Dubrovnik-Neretva",
+          "fr": "Comitat de Dubrovnik-Neretva",
+          "el": "Ντουμπρόβνικ-Νερέτβα",
+          "hi": "डूब्रोव्निक-नेरेट्वा काउंटी",
+          "hu": "Dubrovnik-Neretva megye",
+          "id": "Kabupaten Dubrovnik-Neretva",
+          "it": "regione raguseo-narentana",
+          "ja": "ドゥブロヴニク＝ネレトヴァ郡",
+          "ko": "두브로브니크네레트바 주",
+          "nl": "Dubrovnik-Neretva",
+          "pl": "Dubrovačko-neretvanska županija",
+          "pt": "Dubrovnik-Neretva",
+          "ru": "Дубровницко-Неретванская жупания",
+          "sv": "Dubrovnik-Neretvas län",
+          "tr": "Dubrovnik-Neretva",
+          "vi": "Hạt Dubrovnik-Neretva",
+          "zh": "杜布羅夫斯克-內雷特瓦縣"
+        },
+        "population": 74750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865499999999997,
+          42.757999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-19",
+        "area": 0.00577199999999999,
+        "bounding_box": [
+          16.81,
+          42.732,
+          16.921,
+          42.784
+        ],
+        "point": [
+          16.865499999999997,
+          42.757999999999996
+        ],
+        "labels": {
+          "alt": "Dubrovnik-Neretva",
+          "local": null,
+          "len": 22,
+          "ar": "مقاطعة دوبروفنيك-نيريتفا",
+          "bn": "দুব্রভনিক-নেরেতভা কাউন্টি",
+          "de": "Gespanschaft Dubrovnik-Neretva",
+          "en": "Dubrovnik-Neretva County",
+          "es": "Dubrovnik-Neretva",
+          "fr": "Comitat de Dubrovnik-Neretva",
+          "el": "Ντουμπρόβνικ-Νερέτβα",
+          "hi": "डूब्रोव्निक-नेरेट्वा काउंटी",
+          "hu": "Dubrovnik-Neretva megye",
+          "id": "Kabupaten Dubrovnik-Neretva",
+          "it": "regione raguseo-narentana",
+          "ja": "ドゥブロヴニク＝ネレトヴァ郡",
+          "ko": "두브로브니크네레트바 주",
+          "nl": "Dubrovnik-Neretva",
+          "pl": "Dubrovačko-neretvanska županija",
+          "pt": "Dubrovnik-Neretva",
+          "ru": "Дубровницко-Неретванская жупания",
+          "sv": "Dubrovnik-Neretvas län",
+          "tr": "Dubrovnik-Neretva",
+          "vi": "Hạt Dubrovnik-Neretva",
+          "zh": "杜布羅夫斯克-內雷特瓦縣"
+        },
+        "population": 74750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4155,
+          45.406499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-03",
+        "area": 1.2594830000000006,
+        "bounding_box": [
+          15.639,
+          45.001,
+          17.192,
+          45.812
+        ],
+        "point": [
+          16.4155,
+          45.406499999999994
+        ],
+        "labels": {
+          "alt": "Sisak-Moslavina",
+          "local": null,
+          "len": 18,
+          "ar": "مقاطعة سيساك-موسلافينا",
+          "bn": "সিসাক-মস্লাভিনা কাউন্টি",
+          "de": "Gespanschaft Sisak-Moslavina",
+          "en": "Sisak-Moslavina County",
+          "es": "Sisak-Moslavina",
+          "fr": "Comitat de Sisak-Moslavina",
+          "el": "Σισάκ-Μοσλαβίνα",
+          "hi": "सिसाक-मोस्लाविना काउंटी",
+          "hu": "Sziszek-Moslavina megye",
+          "id": "Kabupaten Sisak-Moslavina",
+          "it": "regione di Sisak e della Moslavina",
+          "ja": "シサク＝モスラヴィナ郡",
+          "ko": "시사크모슬라비나 주",
+          "nl": "Sisak-Moslavina",
+          "pl": "Sisačko-moslavačka županija",
+          "pt": "Condado de Sisak-Moslavina",
+          "ru": "Сисацко-Мославинская жупания",
+          "sv": "Sisak-Moslavinas län",
+          "tr": "Sisak-Moslavina",
+          "vi": "Hạt Sisak-Moslavina",
+          "zh": "錫薩克-莫斯拉維納縣"
+        },
+        "population": 195601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685,
+          45.408
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-12",
+        "area": 0.6713280000000041,
+        "bounding_box": [
+          16.929,
+          45.186,
+          18.441,
+          45.63
+        ],
+        "point": [
+          17.685,
+          45.408
+        ],
+        "labels": {
+          "alt": "Slavonski Brod-Posavina",
+          "local": null,
+          "len": 16,
+          "ar": "مقاطعة برود-بوسافينا",
+          "bn": "ব্রড-পোসাভিনা কাউন্টি",
+          "de": "Gespanschaft Brod-Posavina",
+          "en": "Brod-Posavina County",
+          "es": "Brod-Posavina",
+          "fr": "Brod-Posavina",
+          "el": "Μπρόντ-Ποσαβίνα",
+          "hi": "ब्रोड-पोसाविना काउंटी",
+          "hu": "Bród-Szávamente megye",
+          "id": "Kabupaten Brod-Posavina",
+          "it": "regione di Brod e della Posavina",
+          "ja": "ブロド＝ポサヴィナ郡",
+          "ko": "브로드포사비나 주",
+          "nl": "Brod-Posavina",
+          "pl": "Brodsko-posavska županija",
+          "pt": "Condado de Brod-Posavina",
+          "ru": "Бродско-Посавская жупания",
+          "sv": "Brod-Posavinas län",
+          "tr": "Brod-Posavina",
+          "vi": "Hạt Brod-Posavina",
+          "zh": "布羅德-波薩維納縣"
+        },
+        "population": 241673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8095,
+          45.2255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-12",
+        "area": 0.469965,
+        "bounding_box": [
+          17.082,
+          45.064,
+          18.537,
+          45.387
+        ],
+        "point": [
+          17.8095,
+          45.2255
+        ],
+        "labels": {
+          "alt": "Slavonski Brod-Posavina",
+          "local": null,
+          "len": 16,
+          "ar": "مقاطعة برود-بوسافينا",
+          "bn": "ব্রড-পোসাভিনা কাউন্টি",
+          "de": "Gespanschaft Brod-Posavina",
+          "en": "Brod-Posavina County",
+          "es": "Brod-Posavina",
+          "fr": "Brod-Posavina",
+          "el": "Μπρόντ-Ποσαβίνα",
+          "hi": "ब्रोड-पोसाविना काउंटी",
+          "hu": "Bród-Szávamente megye",
+          "id": "Kabupaten Brod-Posavina",
+          "it": "regione di Brod e della Posavina",
+          "ja": "ブロド＝ポサヴィナ郡",
+          "ko": "브로드포사비나 주",
+          "nl": "Brod-Posavina",
+          "pl": "Brodsko-posavska županija",
+          "pt": "Condado de Brod-Posavina",
+          "ru": "Бродско-Посавская жупания",
+          "sv": "Brod-Posavinas län",
+          "tr": "Brod-Posavina",
+          "vi": "Hạt Brod-Posavina",
+          "zh": "布羅德-波薩維納縣"
+        },
+        "population": 241673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.836,
+          44.407
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-13",
+        "area": 1.4953240000000025,
+        "bounding_box": [
+          15.145,
+          43.866,
+          16.527,
+          44.948
+        ],
+        "point": [
+          15.836,
+          44.407
+        ],
+        "labels": {
+          "alt": "Zadar-Knin",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة زادار",
+          "bn": "জারদার কাউন্টি",
+          "de": "Gespanschaft Zadar",
+          "en": "Zadar County",
+          "es": "Zadar",
+          "fr": "Comitat de Zadar",
+          "el": "Ζαντάρ",
+          "hi": "ज़दार काउंटी",
+          "hu": "Zára megye",
+          "id": "Kabupaten Zadar",
+          "it": "regione zaratina",
+          "ja": "ザダル郡",
+          "ko": "자다르 주",
+          "nl": "Zadar",
+          "pl": "Zadarska županija",
+          "pt": "Condado de Zadar",
+          "ru": "Задарская жупания",
+          "sv": "Zadars län",
+          "tr": "Zadar Bölgesi",
+          "vi": "Hạt Zadar",
+          "zh": "扎達爾縣"
+        },
+        "population": 167933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.361,
+          43.933
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-13",
+        "area": 0.00858399999999975,
+        "bounding_box": [
+          15.303,
+          43.896,
+          15.419,
+          43.97
+        ],
+        "point": [
+          15.361,
+          43.933
+        ],
+        "labels": {
+          "alt": "Zadar-Knin",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة زادار",
+          "bn": "জারদার কাউন্টি",
+          "de": "Gespanschaft Zadar",
+          "en": "Zadar County",
+          "es": "Zadar",
+          "fr": "Comitat de Zadar",
+          "el": "Ζαντάρ",
+          "hi": "ज़दार काउंटी",
+          "hu": "Zára megye",
+          "id": "Kabupaten Zadar",
+          "it": "regione zaratina",
+          "ja": "ザダル郡",
+          "ko": "자다르 주",
+          "nl": "Zadar",
+          "pl": "Zadarska županija",
+          "pt": "Condado de Zadar",
+          "ru": "Задарская жупания",
+          "sv": "Zadars län",
+          "tr": "Zadar Bölgesi",
+          "vi": "Hạt Zadar",
+          "zh": "扎達爾縣"
+        },
+        "population": 167933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9555,
+          45.170500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-16",
+        "area": 0.5565750000000025,
+        "bounding_box": [
+          18.503,
+          44.863,
+          19.408,
+          45.478
+        ],
+        "point": [
+          18.9555,
+          45.170500000000004
+        ],
+        "labels": {
+          "alt": "Vukovar-Srijem",
+          "local": null,
+          "len": 20,
+          "ar": "مقاطعة فوكوفار-سيرميا",
+          "bn": "ভুকোভার-সিরমিয়া",
+          "de": "Gespanschaft Vukovar-Srijem",
+          "en": "Vukovar-Syrmia County",
+          "es": "Vukovar-Srijem",
+          "fr": "Comitat de Vukovar-Syrmie",
+          "el": "Βούκοβαρ-Σρίτζεμ",
+          "hi": "वोकोवर-सीरमिया काउंटी",
+          "hu": "Vukovár-Szerém megye",
+          "id": "Kabupaten Vukovar-Syrmia",
+          "it": "regione di Vukovar e della Sirmia",
+          "ja": "ヴコヴァル＝スリイェム郡",
+          "ko": "부코바르스리옘 주",
+          "nl": "Vukovar-Srijem",
+          "pl": "Vukovarsko-srijemska županija",
+          "pt": "Condado de Vukovar-Sírmia",
+          "ru": "Вуковарско-Сремская жупания",
+          "sv": "Vukovar-Srijems län",
+          "tr": "Vukovar-Syrmia",
+          "vi": "Vukovar-Syrmia Hạt",
+          "zh": "武科瓦爾-斯里耶姆縣"
+        },
+        "population": 153985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.732,
+          43.5235
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-17",
+        "area": 1.2783820000000032,
+        "bounding_box": [
+          16.013,
+          43.079,
+          17.451,
+          43.968
+        ],
+        "point": [
+          16.732,
+          43.5235
+        ],
+        "labels": {
+          "alt": "Split-Dalmacia",
+          "local": null,
+          "len": 20,
+          "ar": "مقاطعة سبليت-دالماسيا",
+          "bn": "স্প্লিত-দাল্মেশিয়া কাউন্টি",
+          "de": "Gespanschaft Split-Dalmatien",
+          "en": "Split-Dalmatia County",
+          "es": "Split-Dalmacia",
+          "fr": "Comitat de Split-Dalmatie",
+          "el": "Σπλιτ-Νταλματία",
+          "hi": "स्प्लिट-डालमेशिया काउंटी",
+          "hu": "Split-Dalmácia megye",
+          "id": "Kabupaten Split-Dalmatia",
+          "it": "regione spalatino-dalmata",
+          "ja": "スプリト＝ダルマチア郡",
+          "ko": "스플리트달마티아 주",
+          "nl": "Split-Dalmatië",
+          "pl": "Splitsko-dalmatinska županija",
+          "pt": "Condado de Split-Dalmácia",
+          "ru": "Сплитско-Далматинская жупания",
+          "sv": "Split-Dalmatiens län",
+          "tr": "Split-Dalmaçya",
+          "vi": "Hạt Split-Dalmatia",
+          "zh": "斯普利特-達爾馬提亞縣"
+        },
+        "population": 331859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.804000000000002,
+          43.1775
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-17",
+        "area": 0.07857799999999952,
+        "bounding_box": [
+          16.415,
+          43.127,
+          17.193,
+          43.228
+        ],
+        "point": [
+          16.804000000000002,
+          43.1775
+        ],
+        "labels": {
+          "alt": "Split-Dalmacia",
+          "local": null,
+          "len": 20,
+          "ar": "مقاطعة سبليت-دالماسيا",
+          "bn": "স্প্লিত-দাল্মেশিয়া কাউন্টি",
+          "de": "Gespanschaft Split-Dalmatien",
+          "en": "Split-Dalmatia County",
+          "es": "Split-Dalmacia",
+          "fr": "Comitat de Split-Dalmatie",
+          "el": "Σπλιτ-Νταλματία",
+          "hi": "स्प्लिट-डालमेशिया काउंटी",
+          "hu": "Split-Dalmácia megye",
+          "id": "Kabupaten Split-Dalmatia",
+          "it": "regione spalatino-dalmata",
+          "ja": "スプリト＝ダルマチア郡",
+          "ko": "스플리트달마티아 주",
+          "nl": "Split-Dalmatië",
+          "pl": "Splitsko-dalmatinska županija",
+          "pt": "Condado de Split-Dalmácia",
+          "ru": "Сплитско-Далматинская жупания",
+          "sv": "Split-Dalmatiens län",
+          "tr": "Split-Dalmaçya",
+          "vi": "Hạt Split-Dalmatia",
+          "zh": "斯普利特-達爾馬提亞縣"
+        },
+        "population": 331859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.657,
+          43.323
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-17",
+        "area": 0.05545999999999752,
+        "bounding_box": [
+          16.422,
+          43.264,
+          16.892,
+          43.382
+        ],
+        "point": [
+          16.657,
+          43.323
+        ],
+        "labels": {
+          "alt": "Split-Dalmacia",
+          "local": null,
+          "len": 20,
+          "ar": "مقاطعة سبليت-دالماسيا",
+          "bn": "স্প্লিত-দাল্মেশিয়া কাউন্টি",
+          "de": "Gespanschaft Split-Dalmatien",
+          "en": "Split-Dalmatia County",
+          "es": "Split-Dalmacia",
+          "fr": "Comitat de Split-Dalmatie",
+          "el": "Σπλιτ-Νταλματία",
+          "hi": "स्प्लिट-डालमेशिया काउंटी",
+          "hu": "Split-Dalmácia megye",
+          "id": "Kabupaten Split-Dalmatia",
+          "it": "regione spalatino-dalmata",
+          "ja": "スプリト＝ダルマチア郡",
+          "ko": "스플리트달마티아 주",
+          "nl": "Split-Dalmatië",
+          "pl": "Splitsko-dalmatinska županija",
+          "pt": "Condado de Split-Dalmácia",
+          "ru": "Сплитско-Далматинская жупания",
+          "sv": "Split-Dalmatiens län",
+          "tr": "Split-Dalmaçya",
+          "vi": "Hạt Split-Dalmatia",
+          "zh": "斯普利特-達爾馬提亞縣"
+        },
+        "population": 331859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.164,
+          43.0495
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-17",
+        "area": 0.011857999999999713,
+        "bounding_box": [
+          16.087,
+          43.011,
+          16.241,
+          43.088
+        ],
+        "point": [
+          16.164,
+          43.0495
+        ],
+        "labels": {
+          "alt": "Split-Dalmacia",
+          "local": null,
+          "len": 20,
+          "ar": "مقاطعة سبليت-دالماسيا",
+          "bn": "স্প্লিত-দাল্মেশিয়া কাউন্টি",
+          "de": "Gespanschaft Split-Dalmatien",
+          "en": "Split-Dalmatia County",
+          "es": "Split-Dalmacia",
+          "fr": "Comitat de Split-Dalmatie",
+          "el": "Σπλιτ-Νταλματία",
+          "hi": "स्प्लिट-डालमेशिया काउंटी",
+          "hu": "Split-Dalmácia megye",
+          "id": "Kabupaten Split-Dalmatia",
+          "it": "regione spalatino-dalmata",
+          "ja": "スプリト＝ダルマチア郡",
+          "ko": "스플리트달마티아 주",
+          "nl": "Split-Dalmatië",
+          "pl": "Splitsko-dalmatinska županija",
+          "pt": "Condado de Split-Dalmácia",
+          "ru": "Сплитско-Далматинская жупания",
+          "sv": "Split-Dalmatiens län",
+          "tr": "Split-Dalmaçya",
+          "vi": "Hạt Split-Dalmatia",
+          "zh": "斯普利特-達爾馬提亞縣"
+        },
+        "population": 331859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.334,
+          43.3755
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-17",
+        "area": 0.008321999999999842,
+        "bounding_box": [
+          16.277,
+          43.339,
+          16.391,
+          43.412
+        ],
+        "point": [
+          16.334,
+          43.3755
+        ],
+        "labels": {
+          "alt": "Split-Dalmacia",
+          "local": null,
+          "len": 20,
+          "ar": "مقاطعة سبليت-دالماسيا",
+          "bn": "স্প্লিত-দাল্মেশিয়া কাউন্টি",
+          "de": "Gespanschaft Split-Dalmatien",
+          "en": "Split-Dalmatia County",
+          "es": "Split-Dalmacia",
+          "fr": "Comitat de Split-Dalmatie",
+          "el": "Σπλιτ-Νταλματία",
+          "hi": "स्प्लिट-डालमेशिया काउंटी",
+          "hu": "Split-Dalmácia megye",
+          "id": "Kabupaten Split-Dalmatia",
+          "it": "regione spalatino-dalmata",
+          "ja": "スプリト＝ダルマチア郡",
+          "ko": "스플리트달마티아 주",
+          "nl": "Split-Dalmatië",
+          "pl": "Splitsko-dalmatinska županija",
+          "pt": "Condado de Split-Dalmácia",
+          "ru": "Сплитско-Далматинская жупания",
+          "sv": "Split-Dalmatiens län",
+          "tr": "Split-Dalmaçya",
+          "vi": "Hạt Split-Dalmatia",
+          "zh": "斯普利特-達爾馬提亞縣"
+        },
+        "population": 331859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.987,
+          43.765
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-15",
+        "area": 0.4593600000000044,
+        "bounding_box": [
+          15.547,
+          43.504,
+          16.427,
+          44.026
+        ],
+        "point": [
+          15.987,
+          43.765
+        ],
+        "labels": {
+          "alt": "Šibenik",
+          "local": null,
+          "len": 16,
+          "ar": "مقاطعة شيبينيك-كنين",
+          "bn": "সিবেনিক-নিন কাউন্টি",
+          "de": "Gespanschaft Šibenik-Knin",
+          "en": "Šibenik-Knin County",
+          "es": "Šibenik-Knin",
+          "fr": "Comitat de Šibenik-Knin",
+          "el": "Σιμπένικ-Κνιν",
+          "hi": "सिबिनिक-निन काउंटी",
+          "hu": "Šibenik-Knin megye",
+          "id": "Kabupaten Šibenik-Knin",
+          "it": "regione di Sebenico e Tenin",
+          "ja": "シベニク＝クニン郡",
+          "ko": "시베니크크닌 주",
+          "nl": "Šibenik-Knin",
+          "pl": "Šibensko-kninska županija",
+          "pt": "Condado de Šibenik-Knin",
+          "ru": "Шибенско-Книнская жупания",
+          "sv": "Šibenik-Knins län",
+          "tr": "Šibenik-Knin",
+          "vi": "Hạt Sibenik-Knin",
+          "zh": "希貝尼克-克寧縣"
+        },
+        "population": 68574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.267,
+          44.727999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-09",
+        "area": 0.6145119999999997,
+        "bounding_box": [
+          14.881,
+          44.33,
+          15.653,
+          45.126
+        ],
+        "point": [
+          15.267,
+          44.727999999999994
+        ],
+        "labels": {
+          "alt": "Lika-Senj",
+          "local": null,
+          "len": 13,
+          "ar": "مقاطعة ليكا سني",
+          "bn": "লিকা-সেঞ্জ কাউন্টি",
+          "de": "Gespanschaft Lika-Senj",
+          "en": "Lika-Senj County",
+          "es": "Lika-Senj",
+          "fr": "Comitat de Lika-Senj",
+          "el": "Λίκα-Σεντζ",
+          "hi": "लिका-सेंज काउंटी",
+          "hu": "Lika-Zengg megye",
+          "id": "Kabupaten Lika-Senj",
+          "it": "regione della Lika e di Segna",
+          "ja": "リカ＝セニ郡",
+          "ko": "리카센 주",
+          "nl": "Lika-Senj",
+          "pl": "Ličko-senjska županija",
+          "pt": "Condado de Lika-Senj",
+          "ru": "Лицко-Сеньская жупания",
+          "sv": "Lika-Senjs län",
+          "tr": "Lika-Senj",
+          "vi": "Hạt Lika-Senj",
+          "zh": "利卡-塞尼縣"
+        },
+        "population": 40692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0655,
+          44.463499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-09",
+        "area": 0.11046099999999939,
+        "bounding_box": [
+          14.877,
+          44.317,
+          15.254,
+          44.61
+        ],
+        "point": [
+          15.0655,
+          44.463499999999996
+        ],
+        "labels": {
+          "alt": "Lika-Senj",
+          "local": null,
+          "len": 13,
+          "ar": "مقاطعة ليكا سني",
+          "bn": "লিকা-সেঞ্জ কাউন্টি",
+          "de": "Gespanschaft Lika-Senj",
+          "en": "Lika-Senj County",
+          "es": "Lika-Senj",
+          "fr": "Comitat de Lika-Senj",
+          "el": "Λίκα-Σεντζ",
+          "hi": "लिका-सेंज काउंटी",
+          "hu": "Lika-Zengg megye",
+          "id": "Kabupaten Lika-Senj",
+          "it": "regione della Lika e di Segna",
+          "ja": "リカ＝セニ郡",
+          "ko": "리카센 주",
+          "nl": "Lika-Senj",
+          "pl": "Ličko-senjska županija",
+          "pt": "Condado de Lika-Senj",
+          "ru": "Лицко-Сеньская жупания",
+          "sv": "Lika-Senjs län",
+          "tr": "Lika-Senj",
+          "vi": "Hạt Lika-Senj",
+          "zh": "利卡-塞尼縣"
+        },
+        "population": 40692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.994500000000002,
+          45.7765
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-07",
+        "area": 0.5979949999999997,
+        "bounding_box": [
+          16.497,
+          45.476,
+          17.492,
+          46.077
+        ],
+        "point": [
+          16.994500000000002,
+          45.7765
+        ],
+        "labels": {
+          "alt": "Bjelovar-Bilogora",
+          "local": null,
+          "len": 22,
+          "ar": "مقاطعة بيلوفار-بيلوغورا",
+          "bn": "বিলোভার-বিলোগোরা কাউন্টি",
+          "de": "Gespanschaft Bjelovar-Bilogora",
+          "en": "Bjelovar-Bilogora County",
+          "es": "Bjelovar-Bilogora",
+          "fr": "Comitat de Bjelovar-Bilogora",
+          "el": "κομητεία Μπιέλοβαρ-Μπιλόγκονα",
+          "hi": "बिएलोवर-बिलोगोरा काउंटी",
+          "hu": "Belovár-Bilogora megye",
+          "id": "Kabupaten Bjelovar-Bilogora",
+          "it": "regione di Bjelovar e della Bilogora",
+          "ja": "ビェロヴァル＝ビロゴラ郡",
+          "ko": "벨로바르빌로고라 주",
+          "nl": "Bjelovar-Bilogora",
+          "pl": "Bjelovarsko-bilogorska županija",
+          "pt": "Condado de Bjelovar-Bilogora",
+          "ru": "Беловарско-Билогорская жупания",
+          "sv": "Bjelovar-Bilogoras län",
+          "tr": "Bjelovar-Bilogora",
+          "vi": "Bjelovar-Bilogora Hạt",
+          "zh": "別洛瓦爾-比洛戈拉縣"
+        },
+        "population": 109238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.999,
+          45.796
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "hr",
+        "region_child": "hr-21",
+        "area": 0.15868799999999936,
+        "bounding_box": [
+          15.771,
+          45.622,
+          16.227,
+          45.97
+        ],
+        "point": [
+          15.999,
+          45.796
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "زغرب",
+          "bn": "জাগরেব",
+          "de": "Zagreb",
+          "en": "Zagreb",
+          "es": "Zagreb",
+          "fr": "Zagreb",
+          "el": "Ζάγκρεμπ",
+          "hi": "ज़ग्रेब",
+          "hu": "Zágráb",
+          "id": "Zagreb",
+          "it": "Zagabria",
+          "ja": "ザグレブ",
+          "ko": "자그레브",
+          "nl": "Zagreb",
+          "pl": "Zagrzeb",
+          "pt": "Zagreb",
+          "ru": "Загреб",
+          "sv": "Zagreb",
+          "tr": "Zagreb",
+          "vi": "Zagreb",
+          "zh": "萨格勒布"
+        },
+        "population": 806006
+      }
+    }
+  ]
+}

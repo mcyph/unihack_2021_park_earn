@@ -1,0 +1,1542 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7435,
+          30.4015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-sin",
+        "area": 4.1737749999999965,
+        "bounding_box": [
+          32.6,
+          29.489,
+          34.887,
+          31.314
+        ],
+        "point": [
+          33.7435,
+          30.4015
+        ],
+        "labels": {
+          "alt": "Shamal Sina|Nord Sinaï|North Sinai|Sina ash-Shamālīyah|Sinai ash Shamālīya",
+          "local": null,
+          "len": 12,
+          "ar": "شمال سيناء",
+          "bn": "নর্থ সিনাই গভর্নোরেট",
+          "de": "Schimal Sina",
+          "en": "North Sinai Governorate",
+          "es": "Sinaí del Norte",
+          "fr": "Gouvernorat du Sinaï Nord",
+          "el": "Κυβερνείο Βορείου Σινά",
+          "hi": "उत्तर सीनाई मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Syamal Sina'",
+          "it": "Governatorato del Sinai del Nord",
+          "ja": "北シナイ県",
+          "ko": "샤말시나 주",
+          "nl": "Noord-Sinaï",
+          "pl": "Synaj Północny",
+          "pt": "Sinai do Norte",
+          "ru": "Северный Синай",
+          "sv": "Guvernementet Sina ash-Shamaliyya",
+          "tr": "Kuzey Sina",
+          "vi": "Tỉnh Bắc Sinai",
+          "zh": "北西奈省"
+        },
+        "population": 430093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2785,
+          23.6325
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-asn",
+        "area": 6.900424999999995,
+        "bounding_box": [
+          31.225,
+          21.995,
+          33.332,
+          25.27
+        ],
+        "point": [
+          32.2785,
+          23.6325
+        ],
+        "labels": {
+          "alt": "Assouan|Assuã|Assuán|Syene",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة أسوان",
+          "bn": null,
+          "de": "Aswan",
+          "en": "Aswan Governorate",
+          "es": "Asuán",
+          "fr": "Gouvernorat d'Assouan",
+          "el": "Κυβερνείο Ασουάν",
+          "hi": "असवान मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Aswan",
+          "it": "Governatorato di Assuan",
+          "ja": "アスワン県",
+          "ko": "아스완 주",
+          "nl": "Aswan",
+          "pl": "Asuan",
+          "pt": "Assuão",
+          "ru": "Асуан",
+          "sv": "Guvernementet Assuan",
+          "tr": "Asvan",
+          "vi": "Aswan",
+          "zh": "阿斯旺省"
+        },
+        "population": 1329833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9555,
+          24.831
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-wad",
+        "area": 45.10262599999999,
+        "bounding_box": [
+          24.981,
+          21.994,
+          32.93,
+          27.668
+        ],
+        "point": [
+          28.9555,
+          24.831
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "محافظة الوادي الجديد",
+          "bn": "নিউ ভ্যালি গভর্নোরেট",
+          "de": "al-Wadi al-dschadid",
+          "en": "New Valley Governorate",
+          "es": "Nuevo Valle",
+          "fr": "Gouvernorat de la Nouvelle-Vallée",
+          "el": "Νιου Βάλεϊ",
+          "hi": "वादी अल-जदीद मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Al Wadi al Jadid",
+          "it": "Governatorato di Wadi al-Jadid",
+          "ja": "ニューバレー県",
+          "ko": "알와디알자디드 주",
+          "nl": "Nieuwe Vallei",
+          "pl": "Nowa Dolina",
+          "pt": "Vale Novo",
+          "ru": "Новая Долина",
+          "sv": "Guvernementet Al-Wadi al-Jadid",
+          "tr": "Yeni Vadi",
+          "vi": "Tỉnh New Valley",
+          "zh": "新河谷省"
+        },
+        "population": 425524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.855000000000004,
+          25.647
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-ba",
+        "area": 44.40832,
+        "bounding_box": [
+          30.815,
+          21.995,
+          36.895,
+          29.299
+        ],
+        "point": [
+          33.855000000000004,
+          25.647
+        ],
+        "labels": {
+          "alt": "Mar Rojo|Mar Vermelho|Mer Rouge|Red Sea",
+          "local": null,
+          "len": 16,
+          "ar": "البحر الأحمر",
+          "bn": "লোহিত সাগর গভর্নোরেট",
+          "de": "al-Bahr al-ahmar",
+          "en": "Red Sea Governorate",
+          "es": "Mar Rojo",
+          "fr": "Gouvernorat de la Mer-Rouge",
+          "el": "Κυβερνείο Ερυθράς Θάλασσας",
+          "hi": "लाल सागर मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Al-Bahr al-Ahmar",
+          "it": "Governatorato del Mar Rosso",
+          "ja": "紅海県",
+          "ko": "홍해 주",
+          "nl": "Rode Zee",
+          "pl": "Prowincja Morza Czerwonego",
+          "pt": "Mar Vermelho",
+          "ru": "Красное Море",
+          "sv": "Guvernementet Al-Bahr al-Ahmar",
+          "tr": "Kızıldeniz",
+          "vi": "Biển Đỏ",
+          "zh": "红海省"
+        },
+        "population": 371718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.508499999999998,
+          29.6615
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-mt",
+        "area": 22.501948999999993,
+        "bounding_box": [
+          24.688,
+          27.667,
+          30.329,
+          31.656
+        ],
+        "point": [
+          27.508499999999998,
+          29.6615
+        ],
+        "labels": {
+          "alt": "Marsā Matrūh|Mersa Matruh|Western Desert|Matrouh",
+          "local": null,
+          "len": 6,
+          "ar": "محافظة مطروح",
+          "bn": "মাত্রুহ গভর্নোরেট",
+          "de": "Matruh",
+          "en": "Matrouh Governorate",
+          "es": "Matrú",
+          "fr": "Gouvernorat de Marsa-Matruh",
+          "el": "Κυβερνείο Ματρούχ",
+          "hi": "मत्रूह मुहाफ़ज़ाह",
+          "hu": "Matrúh",
+          "id": "Kegubernuran Matruh",
+          "it": "Governatorato di Matruh",
+          "ja": "マトルーフ県",
+          "ko": "마트루 주",
+          "nl": "Matruh",
+          "pl": "Matruh",
+          "pt": "Matruh",
+          "ru": "Матрух",
+          "sv": "Guvernementet Matruh",
+          "tr": "Matruh",
+          "vi": "Tỉnh Matrouh",
+          "zh": "馬特魯省"
+        },
+        "population": 575655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.361999999999995,
+          29.6085
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-suz",
+        "area": 1.296589999999994,
+        "bounding_box": [
+          31.869,
+          28.951,
+          32.855,
+          30.266
+        ],
+        "point": [
+          32.361999999999995,
+          29.6085
+        ],
+        "labels": {
+          "alt": "El Suweiz|Es Suweis|Suez",
+          "local": null,
+          "len": 9,
+          "ar": "السويس",
+          "bn": "সুয়েজ গভর্নোরেট",
+          "de": "as-Suwais",
+          "en": "Suez Governorate",
+          "es": "Gobernación de Suez",
+          "fr": "Gouvernorat de Suez",
+          "el": "Κυβερνείο Σουέζ",
+          "hi": "सुएज़ मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran As Suways",
+          "it": "Governatorato di Suez",
+          "ja": "スエズ県",
+          "ko": "수에즈 주",
+          "nl": "Suez",
+          "pl": "Suez",
+          "pt": "Suez",
+          "ru": "Суэц",
+          "sv": "Suez",
+          "tr": "Süveyş",
+          "vi": "Tỉnh Suez",
+          "zh": "蘇伊士省"
+        },
+        "population": 595153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.769000000000005,
+          28.8595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-js",
+        "area": 4.760654000000004,
+        "bounding_box": [
+          32.652,
+          27.794,
+          34.886,
+          29.925
+        ],
+        "point": [
+          33.769000000000005,
+          28.8595
+        ],
+        "labels": {
+          "alt": "Janub Sina|Sina al-Janubiyah|Sina' al-Janūbīyah|Sinai al Janūbīa|South Sinai|Sud Sinaī",
+          "local": null,
+          "len": 11,
+          "ar": "جنوب سيناء",
+          "bn": "দক্ষিন সিনাই গভর্নোরেট",
+          "de": "Dschanub Sina",
+          "en": "South Sinai Governorate",
+          "es": "Sinaí del Sur",
+          "fr": "Gouvernorat du Sinaï Sud",
+          "el": "Κυβερνείο Νοτίου Σινά",
+          "hi": "दक्षिण सीनाई मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Janub Sina'",
+          "it": "Governatorato del Sinai del Sud",
+          "ja": "南シナイ県",
+          "ko": "자누브시나 주",
+          "nl": "Zuid-Sinaï",
+          "pl": "Synaj Południowy",
+          "pt": "Sinai do Sul",
+          "ru": "Южный Синай",
+          "sv": "Guvernementet Sina al-Janubiyya",
+          "tr": "Güney Sina",
+          "vi": "Tỉnh Nam Sinai",
+          "zh": "南西奈省"
+        },
+        "population": 155988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.548500000000004,
+          27.9485
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-js",
+        "area": 0.0027009999999999443,
+        "bounding_box": [
+          34.512,
+          27.93,
+          34.585,
+          27.967
+        ],
+        "point": [
+          34.548500000000004,
+          27.9485
+        ],
+        "labels": {
+          "alt": "Janub Sina|Sina al-Janubiyah|Sina' al-Janūbīyah|Sinai al Janūbīa|South Sinai|Sud Sinaī",
+          "local": null,
+          "len": 11,
+          "ar": "جنوب سيناء",
+          "bn": "দক্ষিন সিনাই গভর্নোরেট",
+          "de": "Dschanub Sina",
+          "en": "South Sinai Governorate",
+          "es": "Sinaí del Sur",
+          "fr": "Gouvernorat du Sinaï Sud",
+          "el": "Κυβερνείο Νοτίου Σινά",
+          "hi": "दक्षिण सीनाई मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Janub Sina'",
+          "it": "Governatorato del Sinai del Sud",
+          "ja": "南シナイ県",
+          "ko": "자누브시나 주",
+          "nl": "Zuid-Sinaï",
+          "pl": "Synaj Południowy",
+          "pt": "Sinai do Sul",
+          "ru": "Южный Синай",
+          "sv": "Guvernementet Sina al-Janubiyya",
+          "tr": "Güney Sina",
+          "vi": "Tỉnh Nam Sinai",
+          "zh": "南西奈省"
+        },
+        "population": 155988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.429,
+          31.131500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-pts",
+        "area": 0.10898999999999935,
+        "bounding_box": [
+          32.256,
+          30.974,
+          32.602,
+          31.289
+        ],
+        "point": [
+          32.429,
+          31.131500000000003
+        ],
+        "labels": {
+          "alt": "Bur Said|Canal|Port Said|Port-Saïd",
+          "local": null,
+          "len": 9,
+          "ar": "بورسعيد",
+          "bn": "পোর্ট সঈদ গভর্নোরেট",
+          "de": "Bur Saʿid",
+          "en": "Port Said Governorate",
+          "es": "Puerto Saíd",
+          "fr": "Gouvernorat de Port-Saïd",
+          "el": "Κυβερνείο Πορτ Σάιντ",
+          "hi": "पोर्ट सईद मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Bur Sa'id",
+          "it": "Governatorato di Porto Said",
+          "ja": "ポートサイド県",
+          "ko": "포트사이드 주",
+          "nl": "Port Said",
+          "pl": "Port Said",
+          "pt": "Governamento de Porto Said",
+          "ru": "Порт-Саид",
+          "sv": "Port Said",
+          "tr": "Port Said",
+          "vi": "Tỉnh Port Said",
+          "zh": "塞得港省"
+        },
+        "population": 545210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.637999999999998,
+          31.052
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-dk",
+        "area": 0.791567999999999,
+        "bounding_box": [
+          31.224,
+          30.574,
+          32.052,
+          31.53
+        ],
+        "point": [
+          31.637999999999998,
+          31.052
+        ],
+        "labels": {
+          "alt": "Al Daqahliyah|Dacahlia|Dagahlia|Dakahlieh|Dakahliya|Dakalieh|Daqalīya|Dakahlia|Dekahlia",
+          "local": null,
+          "len": 13,
+          "ar": "الدقهلية",
+          "bn": "ডাকাহ্লিয়া গভর্নোরেট",
+          "de": "ad-Daqahliyya",
+          "en": "Dakahlia Governorate",
+          "es": "Dacalia",
+          "fr": "Gouvernorat de Dakahleya",
+          "el": "Κυβερνείο Ντακάχλια",
+          "hi": "दक़ैहलेया मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Ad Daqahliyah",
+          "it": "Governatorato di Daqahliyya",
+          "ja": "ダカリーヤ県",
+          "ko": "다칼리야 주",
+          "nl": "Ad Daqahliyah",
+          "pl": "Ad-Dakahlijja",
+          "pt": "Dakahlia",
+          "ru": "Дакахлия",
+          "sv": "Ad-Daqahliyya",
+          "tr": "Dekahliye",
+          "vi": "Tỉnh Dakahlia",
+          "zh": "代蓋赫利耶省"
+        },
+        "population": 6565967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7335,
+          30.6595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-shr",
+        "area": 0.8648190000000028,
+        "bounding_box": [
+          31.273,
+          30.19,
+          32.194,
+          31.129
+        ],
+        "point": [
+          31.7335,
+          30.6595
+        ],
+        "labels": {
+          "alt": "Charkieh|Sharqia|Sharqīya|Sharquia|Sharkia",
+          "local": null,
+          "len": 13,
+          "ar": "الشرقية",
+          "bn": "আল শারকিয়া গভর্নোরেট",
+          "de": "asch-Scharqiyya",
+          "en": "Al Sharqia Governorate",
+          "es": "Oriental",
+          "fr": "Gouvernorat d'Ach-Charqiya",
+          "el": "Ας Σαρκίγια",
+          "hi": "अल-शरक़िया मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Asy Syarqiyah",
+          "it": "Governatorato di Sharqiyya",
+          "ja": "シャルキーヤ県",
+          "ko": "샤르키야 주",
+          "nl": "Ash Sharqiyah",
+          "pl": "Prowincja Wschodnia",
+          "pt": "Xarqia",
+          "ru": "Шаркия",
+          "sv": "Ash-Sharqiyya",
+          "tr": "Şarkiye",
+          "vi": "Tỉnh Al Sharqia",
+          "zh": "東部省"
+        },
+        "population": 6783355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.216,
+          31.128500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-shr",
+        "area": 0.012283999999999969,
+        "bounding_box": [
+          32.142,
+          31.087,
+          32.29,
+          31.17
+        ],
+        "point": [
+          32.216,
+          31.128500000000003
+        ],
+        "labels": {
+          "alt": "Charkieh|Sharqia|Sharqīya|Sharquia|Sharkia",
+          "local": null,
+          "len": 13,
+          "ar": "الشرقية",
+          "bn": "আল শারকিয়া গভর্নোরেট",
+          "de": "asch-Scharqiyya",
+          "en": "Al Sharqia Governorate",
+          "es": "Oriental",
+          "fr": "Gouvernorat d'Ach-Charqiya",
+          "el": "Ας Σαρκίγια",
+          "hi": "अल-शरक़िया मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Asy Syarqiyah",
+          "it": "Governatorato di Sharqiyya",
+          "ja": "シャルキーヤ県",
+          "ko": "샤르키야 주",
+          "nl": "Ash Sharqiyah",
+          "pl": "Prowincja Wschodnia",
+          "pt": "Xarqia",
+          "ru": "Шаркия",
+          "sv": "Ash-Sharqiyya",
+          "tr": "Şarkiye",
+          "vi": "Tỉnh Al Sharqia",
+          "zh": "東部省"
+        },
+        "population": 6783355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2995,
+          30.662
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-is",
+        "area": 0.9130860000000004,
+        "bounding_box": [
+          31.8,
+          30.205,
+          32.799,
+          31.119
+        ],
+        "point": [
+          32.2995,
+          30.662
+        ],
+        "labels": {
+          "alt": "As Ismailiyah|Ismailia|Ismaïlia|Isma'iliya",
+          "local": null,
+          "len": 14,
+          "ar": "الإسماعيلية",
+          "bn": "ইস্মাইলিয়া গভর্নোরেট",
+          "de": "al-Ismaʿiliyya",
+          "en": "Ismailia Governorate",
+          "es": "Ismailia",
+          "fr": "Gouvernorat d'Ismaïlia",
+          "el": "Κυβερνείο Ισμαηλίας",
+          "hi": "इस्माईलिया मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Al Isma'iliyah",
+          "it": "Governatorato di Ismailia",
+          "ja": "イスマイリア県",
+          "ko": "이스마일리아 주",
+          "nl": "Ismaïlia",
+          "pl": "Ismailia",
+          "pt": "Ismaília",
+          "ru": "Исмаилия",
+          "sv": "Guvernementet Ismailia",
+          "tr": "İsmailiye",
+          "vi": "Tỉnh Ismailia",
+          "zh": "伊斯梅利亚省"
+        },
+        "population": 1287928
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.798000000000002,
+          31.3505
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-dt",
+        "area": 0.21844800000000072,
+        "bounding_box": [
+          31.502,
+          31.166,
+          32.094,
+          31.535
+        ],
+        "point": [
+          31.798000000000002,
+          31.3505
+        ],
+        "labels": {
+          "alt": "Damietta|Damiette|Dumiāt",
+          "local": null,
+          "len": 6,
+          "ar": "محافظة دمياط",
+          "bn": "দামিয়েট্টা গভর্নোরেট",
+          "de": "Dumyat",
+          "en": "Damietta Governorate",
+          "es": "Damieta",
+          "fr": "Gouvernorat de Damiette",
+          "el": "Κυβερνείο Δαμιέτης",
+          "hi": "दुमयात मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Dumyat",
+          "it": "Governatorato di Damietta",
+          "ja": "ディムヤート県",
+          "ko": "다미에타 주",
+          "nl": "Damietta",
+          "pl": "Damietta",
+          "pt": "Damieta",
+          "ru": "Думьят",
+          "sv": "Guvernementet Damietta",
+          "tr": "Dimyat",
+          "vi": "Tỉnh Damietta",
+          "zh": "杜姆亞特省"
+        },
+        "population": 1396703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.874000000000002,
+          31.2955
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-kfs",
+        "area": 0.5950000000000011,
+        "bounding_box": [
+          30.398,
+          30.983,
+          31.35,
+          31.608
+        ],
+        "point": [
+          30.874000000000002,
+          31.2955
+        ],
+        "labels": {
+          "alt": "Kafr-El-Sheikh|Kafr ash Shaikh|Kafr ash-Shayk|Kafr el Sheik|Kafr el Sheikh",
+          "local": null,
+          "len": 15,
+          "ar": "محافظة كفر الشيخ",
+          "bn": "কাফ্র এল-শেইখ গভর্নোরেট",
+          "de": "Kafr asch-Schaich",
+          "en": "Kafr el-Sheikh Governorate",
+          "es": "Kafr el Sheij",
+          "fr": "Gouvernorat de Kafr el-Cheik",
+          "el": "Κυβερνείο Καφρ ελ Σεΐχ",
+          "hi": "कफ़्र अल-शेख़ मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Kafr asy Syaykh",
+          "it": "Governatorato di Kafr el-Sheikh",
+          "ja": "カフル・アッシャイフ県",
+          "ko": "카프르엘셰이크 주",
+          "nl": "Kafr el Sheikh",
+          "pl": "Kafr asz-Szajch",
+          "pt": "Kafr el-Sheikh",
+          "ru": "Кафр-эш-Шейх",
+          "sv": "Kafr el-Sheikh",
+          "tr": "Kafrü'ş-Şeyh",
+          "vi": "Tỉnh Kafr el-Sheikh",
+          "zh": "謝赫村省"
+        },
+        "population": 3568699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.238,
+          30.680500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-bh",
+        "area": 1.9186900000000002,
+        "bounding_box": [
+          29.625,
+          29.898,
+          30.851,
+          31.463
+        ],
+        "point": [
+          30.238,
+          30.680500000000002
+        ],
+        "labels": {
+          "alt": "Beheira|Behera|El Buhayra|Béhéra",
+          "local": null,
+          "len": 11,
+          "ar": "محافظة البحيرة",
+          "bn": "বেহিরা গভর্নোরেট",
+          "de": "al-Buhaira",
+          "en": "Beheira Governorate",
+          "es": "Behera",
+          "fr": "Gouvernorat de Beheira",
+          "el": "Κυβερνείο Μπεχέιρα",
+          "hi": "बेहेइरा मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Al Buhayrah",
+          "it": "Governatorato di Buhayra",
+          "ja": "ブハイラ県",
+          "ko": "베헤이라 주",
+          "nl": "Al Buhayrah",
+          "pl": "Al-Buhajra",
+          "pt": "Al-Buhaira",
+          "ru": "Бухейра",
+          "sv": "Guvernementet Beheira",
+          "tr": "Buheyre",
+          "vi": "Tỉnh Beheira",
+          "zh": "布海拉省"
+        },
+        "population": 6339432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.848,
+          30.829
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-alx",
+        "area": 0.4920000000000009,
+        "bounding_box": [
+          29.598,
+          30.337,
+          30.098,
+          31.321
+        ],
+        "point": [
+          29.848,
+          30.829
+        ],
+        "labels": {
+          "alt": "Alejandr¡a|Alexandria|Alexandrie|El Iskandariya",
+          "local": null,
+          "len": 15,
+          "ar": "الإسكندرية",
+          "bn": "আলেক্সান্দ্রিয়া গভর্নোরেট",
+          "de": "al-Iskandariyya",
+          "en": "Alexandria Governorate",
+          "es": "Alejandría",
+          "fr": "Gouvernorat d'Alexandrie",
+          "el": "Κυβερνείο Αλεξάνδρειας",
+          "hi": "सिकन्दरिया मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Al Iskandariyah",
+          "it": "Governatorato di Alessandria",
+          "ja": "アレクサンドリア県",
+          "ko": "알렉산드리아 주",
+          "nl": "Alexandrië",
+          "pl": "Aleksandria",
+          "pt": "Alexandria",
+          "ru": "Александрия",
+          "sv": "Guvernementet Alexandria",
+          "tr": "İskenderiye",
+          "vi": "Alexandria",
+          "zh": "亞歷山大省"
+        },
+        "population": 4945330
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5785,
+          30.049500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-c",
+        "area": 0.4139849999999978,
+        "bounding_box": [
+          31.221,
+          29.76,
+          31.936,
+          30.339
+        ],
+        "point": [
+          31.5785,
+          30.049500000000002
+        ],
+        "labels": {
+          "alt": "Cairo|El Cairo|El Qahira|Le Caire",
+          "local": null,
+          "len": 10,
+          "ar": "محافظة القاهرة",
+          "bn": "কায়রো গভর্নোরেট",
+          "de": "al-Qahira",
+          "en": "Cairo Governorate",
+          "es": "El Cairo",
+          "fr": "Gouvernorat du Caire",
+          "el": "Κυβερνείο του Καΐρου",
+          "hi": "क़ाहिरा मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Al Qahirah",
+          "it": "Governatorato del Cairo",
+          "ja": "カイロ県",
+          "ko": "카이로 주",
+          "nl": "Caïro",
+          "pl": "Kair",
+          "pt": "Cairo",
+          "ru": "Каир",
+          "sv": "Guvernementet Kairo",
+          "tr": "Kahire",
+          "vi": "Cairo",
+          "zh": "开罗省"
+        },
+        "population": 9022518
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.628999999999998,
+          29.002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-gz",
+        "area": 12.294143999999998,
+        "bounding_box": [
+          27.325,
+          27.668,
+          31.933,
+          30.336
+        ],
+        "point": [
+          29.628999999999998,
+          29.002
+        ],
+        "labels": {
+          "alt": "El Giza|El Gīzah|Gizeh|Giza|Guizèh",
+          "local": null,
+          "len": 8,
+          "ar": "محافظة الجيزة",
+          "bn": "গিজা গভর্নোরেট",
+          "de": "al-Dschiza",
+          "en": "Giza Governorate",
+          "es": "Guiza",
+          "fr": "Gouvernorat de Gizeh",
+          "el": "Κυβερνείο Γκίζας",
+          "hi": "गीज़ा मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Al Jizah",
+          "it": "Governatorato di Giza",
+          "ja": "ギーザ県",
+          "ko": "기자 주",
+          "nl": "Gizeh",
+          "pl": "Giza",
+          "pt": "Guizé",
+          "ru": "Эль-Гиза",
+          "sv": "Guvernementet Giza",
+          "tr": "Gize",
+          "vi": "Giza",
+          "zh": "吉薩省"
+        },
+        "population": 9810292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.805999999999997,
+          28.195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-mn",
+        "area": 2.702631999999994,
+        "bounding_box": [
+          28.653,
+          27.609,
+          30.959,
+          28.781
+        ],
+        "point": [
+          29.805999999999997,
+          28.195
+        ],
+        "labels": {
+          "alt": "Minia|Minieh|Menia|Minya",
+          "local": null,
+          "len": 8,
+          "ar": "المنيا",
+          "bn": "মিন্যা গভর্নোরেট",
+          "de": "al-Minya",
+          "en": "Minya Governorate",
+          "es": "Menia",
+          "fr": "Gouvernorat de Minya",
+          "el": "Κυβερνείο Μίνια",
+          "hi": "मिन्या मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Al Minya",
+          "it": "Governatorato di Minya",
+          "ja": "ミニヤー県",
+          "ko": "미니아 주",
+          "nl": "Minya",
+          "pl": "Al-Minja",
+          "pt": "Minya",
+          "ru": "Эль-Минья",
+          "sv": "Guvernementet Al-Minya",
+          "tr": "Minye",
+          "vi": "Tỉnh Minya",
+          "zh": "明亞省"
+        },
+        "population": 5480495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4585,
+          29.356499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-fym",
+        "area": 0.9794069999999983,
+        "bounding_box": [
+          29.815,
+          28.976,
+          31.102,
+          29.737
+        ],
+        "point": [
+          30.4585,
+          29.356499999999997
+        ],
+        "labels": {
+          "alt": "El Faiyum|el Fayoum|Faium|Faiyūm|Fayum|Fayoum|Fayyum",
+          "local": null,
+          "len": 9,
+          "ar": "محافظة الفيوم",
+          "bn": null,
+          "de": "al-Fayyum",
+          "en": "Faiyum Governorate",
+          "es": "Fayún",
+          "fr": "Gouvernorat du Fayoum",
+          "el": "Κυβερνείο Φαγιούμ",
+          "hi": "फ़य्यूम मुहाफ़ज़ाह",
+          "hu": null,
+          "id": null,
+          "it": "Governatorato di Faiyum",
+          "ja": "ファイユーム県",
+          "ko": "파이윰 주",
+          "nl": "Fajoem",
+          "pl": "Fajum",
+          "pt": "Faium",
+          "ru": "Эль-Файюм",
+          "sv": "Guvernementet Faijum",
+          "tr": "Feyyum",
+          "vi": null,
+          "zh": "法尤姆省"
+        },
+        "population": 3443451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.502,
+          29.058
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-bns",
+        "area": 1.0301039999999964,
+        "bounding_box": [
+          29.749,
+          28.716,
+          31.255,
+          29.4
+        ],
+        "point": [
+          30.502,
+          29.058
+        ],
+        "labels": {
+          "alt": "Beni Suwayf|Beni Souef|Beni Suef",
+          "local": null,
+          "len": 11,
+          "ar": "بني سويف",
+          "bn": "বানি সুয়েফ গভর্নোরেট",
+          "de": "Bani Suwaif",
+          "en": "Beni Suef Governorate",
+          "es": "Beni Suef",
+          "fr": "Gouvernorat de Beni Souef",
+          "el": "Κυβερνείο Μπένι Σουέφ",
+          "hi": "बनी सुएफ़ मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Bani Suwayf",
+          "it": "Governatorato di Beni Suef",
+          "ja": "ベニ・スエフ県",
+          "ko": "베니수에프 주",
+          "nl": "Beni Suef",
+          "pl": "Bani Suwajf",
+          "pt": "Beni Suef",
+          "ru": "Бени-Суэйф",
+          "sv": "Guvernementet Beni Suef",
+          "tr": "Beni Suveyf",
+          "vi": "Tỉnh Beni Suef",
+          "zh": "贝尼苏韦夫省"
+        },
+        "population": 3063232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0235,
+          30.445999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-mnf",
+        "area": 0.2466100000000001,
+        "bounding_box": [
+          30.796,
+          30.175,
+          31.251,
+          30.717
+        ],
+        "point": [
+          31.0235,
+          30.445999999999998
+        ],
+        "labels": {
+          "alt": "Menoufieh|Menufia|Menūfīya|Minūfīya|Munufia|Menoufia|Minufia",
+          "local": null,
+          "len": 12,
+          "ar": "محافظة المنوفية",
+          "bn": "মনুফিয়া গভর্নোরেট",
+          "de": "al-Minufiyya",
+          "en": "Monufia Governorate",
+          "es": "Menufia",
+          "fr": "Gouvernorat de Menufeya",
+          "el": "Κυβερνείο Μενούφια",
+          "hi": "मोनूफ़िया मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Al Minufiyah",
+          "it": "Governatorato di al-Manufiyya",
+          "ja": "ミヌーフィーヤ県",
+          "ko": "무누피아 주",
+          "nl": "Al Minufiyah",
+          "pl": "Al-Minufijja",
+          "pt": "Monufia",
+          "ru": "Минуфия",
+          "sv": "Guvernementet Al-Minufiyya",
+          "tr": "Minufiye",
+          "vi": "Tỉnh Monufia",
+          "zh": "米努夫省"
+        },
+        "population": 3927248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3305,
+          30.3515
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-kb",
+        "area": 0.24927100000000182,
+        "bounding_box": [
+          31.067,
+          30.115,
+          31.594,
+          30.588
+        ],
+        "point": [
+          31.3305,
+          30.3515
+        ],
+        "labels": {
+          "alt": "Caliubia|Kalioubieh|Kalioubiya|Qaliyubia|Qalyubiya|Kalyoubia|Kalyubia",
+          "local": null,
+          "len": 13,
+          "ar": "محافظة القليوبية",
+          "bn": "কালুবিয়া গভর্নোরেট",
+          "de": "al-Qalyubiyya",
+          "en": "Qalyubia Governorate",
+          "es": "Caliubia",
+          "fr": "Gouvernorat de Qalyubiya",
+          "el": "Κυβερνείο Καλγιούμπια",
+          "hi": "क़ल्यूबीया मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Al Qalyubiyah",
+          "it": "Governatorato di al-Qalyūbiyya",
+          "ja": "カリュービーヤ県",
+          "ko": "칼리우비야 주",
+          "nl": "Al Qalyubiyah",
+          "pl": "Al-Kaljubijja",
+          "pt": "Qaliubia",
+          "ru": "Кальюбия",
+          "sv": "Al-Qalyubiyya",
+          "tr": "Kalyubiye",
+          "vi": "Tỉnh Qalyubia",
+          "zh": "蓋盧比尤省"
+        },
+        "population": 4903563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.026,
+          30.8485
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-gh",
+        "area": 0.30958199999999975,
+        "bounding_box": [
+          30.753,
+          30.565,
+          31.299,
+          31.132
+        ],
+        "point": [
+          31.026,
+          30.8485
+        ],
+        "labels": {
+          "alt": "al-Garbīyah|El Gharbiya|Garbia|Gharbieh|Gharbīya|Gharbia",
+          "local": null,
+          "len": 12,
+          "ar": "الغربية",
+          "bn": "ঘারবিয়া গভর্নোরেট",
+          "de": "al-Gharbiyya",
+          "en": "Gharbia Governorate",
+          "es": "Occidental",
+          "fr": "Gouvernorat de Gharbeya",
+          "el": "Κυβερνείο Γαρμπία",
+          "hi": "ग़रबीया मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Al Gharbiyah",
+          "it": "Governatorato di Gharbiyya",
+          "ja": "ガルビーヤ県",
+          "ko": "가르비야 주",
+          "nl": "Al Gharbiyah",
+          "pl": "Prowincja Zachodnia",
+          "pt": "Garbia",
+          "ru": "Гарбия",
+          "sv": "Guvernementet Al-Gharbiyya",
+          "tr": "Garbiya",
+          "vi": "Tỉnh Gharbia",
+          "zh": "西部省"
+        },
+        "population": 5137927
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.804000000000002,
+          26.536
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-shg",
+        "area": 0.8144639999999991,
+        "bounding_box": [
+          31.3,
+          26.132,
+          32.308,
+          26.94
+        ],
+        "point": [
+          31.804000000000002,
+          26.536
+        ],
+        "labels": {
+          "alt": "Girga|Girgeh|Sawhāj|Sohag|Suhag",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة سوهاج",
+          "bn": "সোহাগ গভর্নোরেট",
+          "de": "Sauhadsch",
+          "en": "Sohag Governorate",
+          "es": "Suhag",
+          "fr": "Gouvernorat de Sohag",
+          "el": "Κυβερνείο Σοχάγκ",
+          "hi": "सोहाग मुहाफ़ज़ाह",
+          "hu": "Szohág kormányzóság",
+          "id": "Kegubernuran Suhaj",
+          "it": "Governatorato di Sohag",
+          "ja": "ソハーグ県",
+          "ko": "소하그 주",
+          "nl": "Suhaj",
+          "pl": "Sauhadż",
+          "pt": "Sohag",
+          "ru": "Сохаг",
+          "sv": "Guvernementet Sohag",
+          "tr": "Sevhac",
+          "vi": "Tỉnh Sohag",
+          "zh": "索哈傑省"
+        },
+        "population": 4839310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4415,
+          25.7025
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-kn",
+        "area": 1.0896269999999948,
+        "bounding_box": [
+          31.952,
+          25.146,
+          32.931,
+          26.259
+        ],
+        "point": [
+          32.4415,
+          25.7025
+        ],
+        "labels": {
+          "alt": "Kena|Qena|Quena",
+          "local": null,
+          "len": 4,
+          "ar": "محافظة قنا",
+          "bn": "কেনা গভর্নোরেট",
+          "de": "Qina",
+          "en": "Qena Governorate",
+          "es": "Quena",
+          "fr": "Gouvernorat de Qena",
+          "el": "Κυβερνείο Κένα",
+          "hi": "क़ेना मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Kegubernuran Qina",
+          "it": "Governatorato di Qena",
+          "ja": "ケナ県",
+          "ko": "케나 주",
+          "nl": "Qina",
+          "pl": "Kina",
+          "pt": "Qina",
+          "ru": "Кена",
+          "sv": "Guvernementet Qena",
+          "tr": "Kina",
+          "vi": "Tỉnh Qena",
+          "zh": "基納省"
+        },
+        "population": 5390520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.145,
+          27.2335
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-ast",
+        "area": 0.7593480000000021,
+        "bounding_box": [
+          30.671,
+          26.833,
+          31.619,
+          27.634
+        ],
+        "point": [
+          31.145,
+          27.2335
+        ],
+        "labels": {
+          "alt": "Asyiut|Assiout|Assiut|Assyut|Asyout",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة أسيوط",
+          "bn": "আসুত গভর্নোরেট",
+          "de": "Asyut",
+          "en": "Asyut Governorate",
+          "es": "Asiut",
+          "fr": "Gouvernorat d'Assiout",
+          "el": "Κυβερνείο Ασιούτ",
+          "hi": "असयूत मुहाफ़ज़ाह",
+          "hu": null,
+          "id": "Asyut Governorate",
+          "it": "Governatorato di Asyut",
+          "ja": "アシュート県",
+          "ko": "아시우트 주",
+          "nl": "Assioet",
+          "pl": "Asjut",
+          "pt": "Assiut",
+          "ru": "Асьют",
+          "sv": "Guvernementet Asyut",
+          "tr": "Asyut",
+          "vi": "Tỉnh Asyut",
+          "zh": "艾斯尤特省"
+        },
+        "population": 4642519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.647,
+          25.7065
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eg",
+        "region_child": "eg-lx",
+        "area": 0.002067999999999882,
+        "bounding_box": [
+          32.625,
+          25.683,
+          32.669,
+          25.73
+        ],
+        "point": [
+          32.647,
+          25.7065
+        ],
+        "labels": {
+          "alt": "al-Aqṣur|Aqsur|Uqsur",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة الأقصر",
+          "bn": null,
+          "de": "al-Uqsur",
+          "en": "Luxor Governorate",
+          "es": "Lúxor",
+          "fr": "Gouvernorat de Louxor",
+          "el": "Κυβερνείο Λούξορ",
+          "hi": "लक्सर मुहाफ़ज़ाह",
+          "hu": null,
+          "id": null,
+          "it": "Governatorato di Luxor",
+          "ja": "ルクソール県",
+          "ko": "룩소르 주",
+          "nl": "Luxor",
+          "pl": "Luksor",
+          "pt": "Luxor",
+          "ru": "Луксор",
+          "sv": "Guvernementet Luxor",
+          "tr": "Luksor",
+          "vi": null,
+          "zh": "盧克索省"
+        },
+        "population": 501559
+      }
+    }
+  ]
+}

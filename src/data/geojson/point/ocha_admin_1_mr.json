@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.311,
+          21.445999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr01",
+        "area": 45.65775600000002,
+        "bounding_box": [
+          -14.262,
+          18.557,
+          -6.36,
+          24.335
+        ],
+        "point": [
+          -10.311,
+          21.445999999999998
+        ],
+        "labels": {
+          "en": "Adrar"
+        },
+        "population": 59915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.713000000000001,
+          16.708
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr02",
+        "area": 7.237247999999999,
+        "bounding_box": [
+          -12.841,
+          15.104,
+          -10.585,
+          18.312
+        ],
+        "point": [
+          -11.713000000000001,
+          16.708
+        ],
+        "labels": {
+          "en": "Assaba"
+        },
+        "population": 387146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.648,
+          17.334
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr03",
+        "area": 6.369383999999993,
+        "bounding_box": [
+          -14.95,
+          16.111,
+          -12.346,
+          18.557
+        ],
+        "point": [
+          -13.648,
+          17.334
+        ],
+        "labels": {
+          "en": "Brakna"
+        },
+        "population": 361363
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.371,
+          20.1685
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr04",
+        "area": 7.959822000000004,
+        "bounding_box": [
+          -17.074,
+          19.0,
+          -13.668,
+          21.337
+        ],
+        "point": [
+          -15.371,
+          20.1685
+        ],
+        "labels": {
+          "en": "Dakhlet-Nouadhibou"
+        },
+        "population": 96366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4,
+          19.741
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr04",
+        "area": 0.03379199999999995,
+        "bounding_box": [
+          -16.464,
+          19.609,
+          -16.336,
+          19.873
+        ],
+        "point": [
+          -16.4,
+          19.741
+        ],
+        "labels": {
+          "en": "Dakhlet-Nouadhibou"
+        },
+        "population": 96366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.8565,
+          15.993
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr05",
+        "area": 2.9394200000000006,
+        "bounding_box": [
+          -13.709,
+          15.131,
+          -12.004,
+          16.855
+        ],
+        "point": [
+          -12.8565,
+          15.993
+        ],
+        "labels": {
+          "en": "Gorgol"
+        },
+        "population": 410238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.164,
+          15.386
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr06",
+        "area": 1.586867999999999,
+        "bounding_box": [
+          -12.757,
+          14.717,
+          -11.571,
+          16.055
+        ],
+        "point": [
+          -12.164,
+          15.386
+        ],
+        "labels": {
+          "en": "Guidimakha"
+        },
+        "population": 341764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2225,
+          19.347
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr07",
+        "area": 29.198282000000003,
+        "bounding_box": [
+          -9.118,
+          15.496,
+          -5.327,
+          23.198
+        ],
+        "point": [
+          -7.2225,
+          19.347
+        ],
+        "labels": {
+          "en": "Hodh Ech Chargi"
+        },
+        "population": 606591
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6915,
+          16.572499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr08",
+        "area": 6.459915000000001,
+        "bounding_box": [
+          -11.094,
+          15.421,
+          -8.289,
+          17.724
+        ],
+        "point": [
+          -9.6915,
+          16.572499999999998
+        ],
+        "labels": {
+          "en": "Hodh El Gharbi"
+        },
+        "population": 349257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.1095,
+          19.689999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr09",
+        "area": 5.6184540000000025,
+        "bounding_box": [
+          -16.245,
+          18.453,
+          -13.974,
+          20.927
+        ],
+        "point": [
+          -15.1095,
+          19.689999999999998
+        ],
+        "labels": {
+          "en": "Inchiri"
+        },
+        "population": 26156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.942,
+          18.139499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr10",
+        "area": 0.14731999999999992,
+        "bounding_box": [
+          -16.058,
+          17.822,
+          -15.826,
+          18.457
+        ],
+        "point": [
+          -15.942,
+          18.139499999999998
+        ],
+        "labels": {
+          "en": "Nouakchott"
+        },
+        "population": 1353063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2745,
+          18.4185
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr11",
+        "area": 12.791419000000015,
+        "bounding_box": [
+          -12.669,
+          17.083,
+          -7.88,
+          19.754
+        ],
+        "point": [
+          -10.2745,
+          18.4185
+        ],
+        "labels": {
+          "en": "Tagant"
+        },
+        "population": 84449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.987,
+          24.323
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr12",
+        "area": 49.42555600000001,
+        "bounding_box": [
+          -13.146,
+          21.352,
+          -4.828,
+          27.294
+        ],
+        "point": [
+          -8.987,
+          24.323
+        ],
+        "labels": {
+          "en": "Tiris-Zemmour"
+        },
+        "population": 61288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.589500000000001,
+          17.5315
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "mr",
+        "region_child": "mr13",
+        "area": 11.288699000000003,
+        "bounding_box": [
+          -16.51,
+          16.062,
+          -12.669,
+          19.001
+        ],
+        "point": [
+          -14.589500000000001,
+          17.5315
+        ],
+        "labels": {
+          "en": "Trarza"
+        },
+        "population": 267312
+      }
+    }
+  ]
+}

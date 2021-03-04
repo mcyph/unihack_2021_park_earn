@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9075,
+          19.506
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-ne",
+        "area": 0.1839640000000041,
+        "bounding_box": [
+          -72.111,
+          19.28,
+          -71.704,
+          19.732
+        ],
+        "point": [
+          -71.9075,
+          19.506
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "الإدارة الشمال شرقية",
+          "bn": "নর্ড-এস্ট",
+          "de": "Département Nord-Est",
+          "en": "Nord-Est",
+          "es": "Noreste",
+          "fr": "Nord-Est",
+          "el": "Βορειοανατολικό Διαμέρισμα",
+          "hi": "नोर्ड-एस्ट",
+          "hu": null,
+          "id": "Nord-Est",
+          "it": "dipartimento del Nordest",
+          "ja": "北東県",
+          "ko": "북동부 주",
+          "nl": "Nord-Est",
+          "pl": "Departament Północno-Wschodni",
+          "pt": "Nordeste",
+          "ru": "Северо-Восточный департамент",
+          "sv": "Nord-Est",
+          "tr": "Nord-Est",
+          "vi": "Nord-Est",
+          "zh": "东北省"
+        },
+        "population": 410394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.00450000000001,
+          19.008499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-ce",
+        "area": 0.4722549999999913,
+        "bounding_box": [
+          -72.365,
+          18.681,
+          -71.644,
+          19.336
+        ],
+        "point": [
+          -72.00450000000001,
+          19.008499999999998
+        ],
+        "labels": {
+          "alt": "Plateau Central",
+          "local": null,
+          "len": 6,
+          "ar": "الإدارة الوسطى",
+          "bn": "সেন্টার",
+          "de": "Département Centre",
+          "en": "Centre",
+          "es": "Centro",
+          "fr": "centre",
+          "el": "Κεντρικό Διαμέρισμα",
+          "hi": "सेंटर",
+          "hu": null,
+          "id": "Departemen Centre",
+          "it": "dipartimento del Centro",
+          "ja": "中央県",
+          "ko": "중앙 주",
+          "nl": "Centre",
+          "pl": "Departament Centralny",
+          "pt": "Centro",
+          "ru": "Центральный департамент",
+          "sv": "Centre",
+          "tr": "Centre",
+          "vi": "Centre",
+          "zh": "中央省"
+        },
+        "population": 941876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.392,
+          18.619
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-ou",
+        "area": 0.950135999999997,
+        "bounding_box": [
+          -73.063,
+          18.265,
+          -71.721,
+          18.973
+        ],
+        "point": [
+          -72.392,
+          18.619
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "الإدارة الغربية",
+          "bn": "আউয়েস্ট",
+          "de": "Département Ouest",
+          "en": "Ouest",
+          "es": "Oeste",
+          "fr": "Ouest",
+          "el": "Δυτικό Διαμέρισμα",
+          "hi": "ऊएस्ट",
+          "hu": null,
+          "id": "Ouest",
+          "it": "dipartimento dell'Ovest",
+          "ja": "西県",
+          "ko": "서부 주",
+          "nl": "Ouest",
+          "pl": "Departament Zachodni",
+          "pt": "Departamento do Oeste",
+          "ru": "Западный департамент Гаити",
+          "sv": "Ouest",
+          "tr": "Ouest",
+          "vi": "Ouest",
+          "zh": "西部省"
+        },
+        "population": 5657500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05449999999999,
+          18.8445
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-ou",
+        "area": 0.12225900000000106,
+        "bounding_box": [
+          -73.3,
+          18.72,
+          -72.809,
+          18.969
+        ],
+        "point": [
+          -73.05449999999999,
+          18.8445
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "الإدارة الغربية",
+          "bn": "আউয়েস্ট",
+          "de": "Département Ouest",
+          "en": "Ouest",
+          "es": "Oeste",
+          "fr": "Ouest",
+          "el": "Δυτικό Διαμέρισμα",
+          "hi": "ऊएस्ट",
+          "hu": null,
+          "id": "Ouest",
+          "it": "dipartimento dell'Ovest",
+          "ja": "西県",
+          "ko": "서부 주",
+          "nl": "Ouest",
+          "pl": "Departament Zachodni",
+          "pt": "Departamento do Oeste",
+          "ru": "Западный департамент Гаити",
+          "sv": "Ouest",
+          "tr": "Ouest",
+          "vi": "Ouest",
+          "zh": "西部省"
+        },
+        "population": 5657500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3665,
+          18.2205
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-se",
+        "area": 0.46863299999999825,
+        "bounding_box": [
+          -73.012,
+          18.039,
+          -71.721,
+          18.402
+        ],
+        "point": [
+          -72.3665,
+          18.2205
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "الإدارة الجنوب شرقية",
+          "bn": "সাদ- ইস্ট",
+          "de": "Département Sud-Est",
+          "en": "Sud-Est",
+          "es": "Sureste",
+          "fr": "Sud-Est",
+          "el": "Νοτιοανατολικό Διαμέρισμα",
+          "hi": "सड-एस्ट",
+          "hu": null,
+          "id": "Sud-Est",
+          "it": "dipartimento del Sudest",
+          "ja": "南東県",
+          "ko": "남동부 주",
+          "nl": "Sud-Est",
+          "pl": "Departament Południowo-Wschodni",
+          "pt": "Sudeste",
+          "ru": "Юго-Восточный департамент Гаити",
+          "sv": "Sud-Est",
+          "tr": "Sud-Est",
+          "vi": "Sud-Est",
+          "zh": "東南省"
+        },
+        "population": 740391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7305,
+          18.2265
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-sd",
+        "area": 0.5794450000000027,
+        "bounding_box": [
+          -74.453,
+          18.026,
+          -73.008,
+          18.427
+        ],
+        "point": [
+          -73.7305,
+          18.2265
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "الإدارة الجنوبية",
+          "bn": "সুদ",
+          "de": "Département Sud",
+          "en": "Sud",
+          "es": "Sur",
+          "fr": "Sud",
+          "el": "Σουντ",
+          "hi": "सुड",
+          "hu": null,
+          "id": "Sud",
+          "it": "dipartimento del Sud",
+          "ja": "南県",
+          "ko": "남부 주",
+          "nl": "Sud",
+          "pl": "Departament Południowy",
+          "pt": "Departamento do Sul",
+          "ru": "Южный департамент",
+          "sv": "Sud",
+          "tr": "Sud",
+          "vi": "Sud",
+          "zh": "南部省"
+        },
+        "population": 866448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.114,
+          18.515500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-ga",
+        "area": 0.2317500000000008,
+        "bounding_box": [
+          -74.489,
+          18.361,
+          -73.739,
+          18.67
+        ],
+        "point": [
+          -74.114,
+          18.515500000000003
+        ],
+        "labels": {
+          "alt": "Grande-Asne|Grande Anse",
+          "local": null,
+          "len": 10,
+          "ar": "إدارة آنس الكبرى",
+          "bn": "গ্রান্ড'আন্সে",
+          "de": "Département Grand’Anse",
+          "en": "Grand'Anse",
+          "es": "Grand’Anse",
+          "fr": "Grand'Anse",
+          "el": "Γκραντ Ανς",
+          "hi": "ग्रैंड'एन्से",
+          "hu": null,
+          "id": "Departemen Grand'Anse",
+          "it": "dipartimento di Grand'Anse",
+          "ja": "グランダンス県",
+          "ko": "그랑당스 주",
+          "nl": "Grand'Anse",
+          "pl": "Departament Grand'Anse",
+          "pt": "Grande Enseada",
+          "ru": "Гранд-Анс",
+          "sv": "Grand'Anse",
+          "tr": "Grand'Anse",
+          "vi": "Grand'Anse",
+          "zh": "大灣省"
+        },
+        "population": 591121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.01650000000001,
+          19.7795
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-no",
+        "area": 0.2970870000000025,
+        "bounding_box": [
+          -73.468,
+          19.615,
+          -72.565,
+          19.944
+        ],
+        "point": [
+          -73.01650000000001,
+          19.7795
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "الإدارة الشمال غربية",
+          "bn": "নর্ড-কুয়েস্ট",
+          "de": "Département Nord-Ouest",
+          "en": "Nord-Ouest",
+          "es": "Noroeste",
+          "fr": "Nord-Ouest",
+          "el": "Βορειοδυτικό Διαμέρισμα",
+          "hi": "नोर्ड-ऑस्ट",
+          "hu": null,
+          "id": "Nord-Ouest",
+          "it": "dipartimento del Nordovest",
+          "ja": "北西県",
+          "ko": "북서부 주",
+          "nl": "Nord-Ouest",
+          "pl": "Departament Północno-Zachodni",
+          "pt": "Noroeste",
+          "ru": "Северо-Западный департамент",
+          "sv": "Nord-Ouest",
+          "tr": "Nord-Ouest",
+          "vi": "Nord-Ouest",
+          "zh": "西北省"
+        },
+        "population": 919602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8075,
+          20.04
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-no",
+        "area": 0.029889999999998963,
+        "bounding_box": [
+          -72.96,
+          19.991,
+          -72.655,
+          20.089
+        ],
+        "point": [
+          -72.8075,
+          20.04
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "الإدارة الشمال غربية",
+          "bn": "নর্ড-কুয়েস্ট",
+          "de": "Département Nord-Ouest",
+          "en": "Nord-Ouest",
+          "es": "Noroeste",
+          "fr": "Nord-Ouest",
+          "el": "Βορειοδυτικό Διαμέρισμα",
+          "hi": "नोर्ड-ऑस्ट",
+          "hu": null,
+          "id": "Nord-Ouest",
+          "it": "dipartimento del Nordovest",
+          "ja": "北西県",
+          "ko": "북서부 주",
+          "nl": "Nord-Ouest",
+          "pl": "Departament Północno-Zachodni",
+          "pt": "Noroeste",
+          "ru": "Северо-Западный департамент",
+          "sv": "Nord-Ouest",
+          "tr": "Nord-Ouest",
+          "vi": "Nord-Ouest",
+          "zh": "西北省"
+        },
+        "population": 919602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3275,
+          19.568
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-nd",
+        "area": 0.42935200000000145,
+        "bounding_box": [
+          -72.676,
+          19.26,
+          -71.979,
+          19.876
+        ],
+        "point": [
+          -72.3275,
+          19.568
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "الإدارة الشمالية",
+          "bn": "নর্ড",
+          "de": "Département Nord",
+          "en": "Nord",
+          "es": "Norte",
+          "fr": "Nord",
+          "el": "Βόρειο Διαμέρισμα",
+          "hi": "नोर्ड",
+          "hu": null,
+          "id": "Nord",
+          "it": "dipartimento del Nord",
+          "ja": "北県",
+          "ko": "북부 주",
+          "nl": "Nord",
+          "pl": "Departament Północny",
+          "pt": "Departamento do Norte",
+          "ru": "Северный департамент Гаити",
+          "sv": "Nord",
+          "tr": "Nord",
+          "vi": "Nord",
+          "zh": "北部省"
+        },
+        "population": 1260897
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6605,
+          19.3375
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-ar",
+        "area": 0.8721869999999919,
+        "bounding_box": [
+          -73.121,
+          18.864,
+          -72.2,
+          19.811
+        ],
+        "point": [
+          -72.6605,
+          19.3375
+        ],
+        "labels": {
+          "alt": "Artibonite",
+          "local": null,
+          "len": 12,
+          "ar": "إدارة أرتيبونيت",
+          "bn": "আর্টিবোনাইট",
+          "de": "Département Artibonite",
+          "en": "Artibonite",
+          "es": "Artibonito",
+          "fr": "Artibonite",
+          "el": "Αρτιμπονίτ",
+          "hi": "आर्टिबोनिट",
+          "hu": null,
+          "id": "Departemen Artibonite",
+          "it": "dipartimento dell'Artibonite",
+          "ja": "アルティボニット県",
+          "ko": "아르티보니트 주",
+          "nl": "Artibonite",
+          "pl": "Artibonite",
+          "pt": "Artibonite",
+          "ru": "Артибонит",
+          "sv": "Artibonite",
+          "tr": "Artibonite",
+          "vi": "Artibonite",
+          "zh": "阿蒂博尼特省"
+        },
+        "population": 2336823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.391,
+          18.397
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ht",
+        "region_child": "ht-ni",
+        "area": 0.27667200000000075,
+        "bounding_box": [
+          -73.784,
+          18.221,
+          -72.998,
+          18.573
+        ],
+        "point": [
+          -73.391,
+          18.397
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إدارة نيبيس",
+          "bn": "নিপেস",
+          "de": "Département Nippes",
+          "en": "Nippes",
+          "es": "Nippes",
+          "fr": "Nippes",
+          "el": "Νιπς",
+          "hi": "निपेस",
+          "hu": null,
+          "id": "Nippes",
+          "it": "dipartimento di Nippes",
+          "ja": "ニップ県",
+          "ko": "니프 주",
+          "nl": "Nippes",
+          "pl": "Departament Nippes",
+          "pt": "Nippes",
+          "ru": "Нип",
+          "sv": "Nippes",
+          "tr": "Nippes",
+          "vi": "Nippes",
+          "zh": "尼普斯省"
+        },
+        "population": 425693
+      }
+    }
+  ]
+}

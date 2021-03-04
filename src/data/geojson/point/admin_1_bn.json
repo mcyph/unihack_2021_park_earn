@@ -1,0 +1,217 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.19200000000001,
+          4.612
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bn",
+        "region_child": "bn-te",
+        "area": 0.20077200000000459,
+        "bounding_box": [
+          115.023,
+          4.315,
+          115.361,
+          4.909
+        ],
+        "point": [
+          115.19200000000001,
+          4.612
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة تيمبورونغ",
+          "bn": "টেম্বুরাং জেলা",
+          "de": "Temburong",
+          "en": "Temburong District",
+          "es": "Temburong",
+          "fr": "Temburong",
+          "el": "Τεμπουρόνγκ",
+          "hi": "टेम्ब्युरोंग जिला",
+          "hu": null,
+          "id": "Distrik Temburong",
+          "it": "distretto di Temburong",
+          "ja": "テンブロン地区",
+          "ko": "템부롱 구",
+          "nl": "Temburong",
+          "pl": "Dystrykt Temburong",
+          "pt": "Temburong",
+          "ru": "Тембуронг",
+          "sv": "Temburong District",
+          "tr": "Temburong District",
+          "vi": "Quận Temburong",
+          "zh": "淡布隆县"
+        },
+        "population": 16402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9005,
+          4.8925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bn",
+        "region_child": "bn-bm",
+        "area": 0.10174500000000399,
+        "bounding_box": [
+          114.743,
+          4.731,
+          115.058,
+          5.054
+        ],
+        "point": [
+          114.9005,
+          4.8925
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "مقاطعة بروناي - موارا",
+          "bn": "ব্রুনেই মোয়ারা জেলা",
+          "de": "Brunei-Muara",
+          "en": "Brunei-Muara District",
+          "es": "Brunei y Muara",
+          "fr": "Brunei-Muara",
+          "el": "Μπρουνέι-Μουάρα",
+          "hi": "ब्रुनेई-मुरा जिला",
+          "hu": null,
+          "id": "Distrik Brunei-Muara",
+          "it": "distretto di Brunei-Muara",
+          "ja": "ブルネイ・ムアラ地区",
+          "ko": "브루네이무아라 구",
+          "nl": "Brunei en Muara",
+          "pl": "Dystrykt Brunei i Muara",
+          "pt": "Brunei e Muara",
+          "ru": "Бруней-Муара",
+          "sv": "Brunei and Muara District",
+          "tr": "Brunedi-Muara District",
+          "vi": "Quận Brunei-Muara",
+          "zh": "汶莱摩拉县"
+        },
+        "population": 321743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.67099999999999,
+          4.5995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bn",
+        "region_child": "bn-tu",
+        "area": 0.2120459999999996,
+        "bounding_box": [
+          114.494,
+          4.3,
+          114.848,
+          4.899
+        ],
+        "point": [
+          114.67099999999999,
+          4.5995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة توتونغ",
+          "bn": "তুতং জেলা",
+          "de": "Tutong",
+          "en": "Tutong District",
+          "es": "Distrito de Tutong",
+          "fr": "Tutong",
+          "el": "Τουτόνγκ",
+          "hi": "टूटोंग जिला",
+          "hu": null,
+          "id": "Distrik Tutong",
+          "it": "distretto di Tutong",
+          "ja": "ツトン地区",
+          "ko": "투통 구",
+          "nl": "Tutong",
+          "pl": "Dystrykt Tutong",
+          "pt": "Tutong",
+          "ru": "Тутонг",
+          "sv": "Tutong District",
+          "tr": "Tutong District",
+          "vi": "Quận Tutong",
+          "zh": "都东县"
+        },
+        "population": 37635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.40799999999999,
+          4.349
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bn",
+        "region_child": "bn-be",
+        "area": 0.5431519999999983,
+        "bounding_box": [
+          113.999,
+          4.017,
+          114.817,
+          4.681
+        ],
+        "point": [
+          114.40799999999999,
+          4.349
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة بيلايت",
+          "bn": "বেলাতি জেলা",
+          "de": "Belait",
+          "en": "Belait District",
+          "es": "Distrito de Belait",
+          "fr": "Belait",
+          "el": "Μπελάιτ",
+          "hi": "बेलैत जिला",
+          "hu": null,
+          "id": "Distrik Belait",
+          "it": "distretto di Belait",
+          "ja": "ブライト地区",
+          "ko": "블라잇 구",
+          "nl": "Belait",
+          "pl": "Dystrykt Belait",
+          "pt": "Belait",
+          "ru": "Белайт",
+          "sv": "Belait District",
+          "tr": "Belait District",
+          "vi": "Quận Belait",
+          "zh": "马来奕县"
+        },
+        "population": 61609
+      }
+    }
+  ]
+}

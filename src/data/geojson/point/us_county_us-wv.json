@@ -1,0 +1,1655 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.991,
+          38.388000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "075",
+        "area": 0.5237760000000004,
+        "bounding_box": [
+          -80.363,
+          38.036,
+          -79.619,
+          38.74
+        ],
+        "point": [
+          -79.991,
+          38.388000000000005
+        ],
+        "labels": {
+          "en": "Pocahontas"
+        },
+        "population": 8332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8805,
+          38.4765
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "079",
+        "area": 0.1531349999999996,
+        "bounding_box": [
+          -82.065,
+          38.269,
+          -81.696,
+          38.684
+        ],
+        "point": [
+          -81.8805,
+          38.4765
+        ],
+        "labels": {
+          "en": "Putnam"
+        },
+        "population": 59408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.667,
+          39.575500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "103",
+        "area": 0.1623220000000002,
+        "bounding_box": [
+          -80.944,
+          39.429,
+          -80.39,
+          39.722
+        ],
+        "point": [
+          -80.667,
+          39.575500000000005
+        ],
+        "labels": {
+          "en": "Wetzel"
+        },
+        "population": 16115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.717,
+          37.9975
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "005",
+        "area": 0.24564200000000422,
+        "bounding_box": [
+          -81.98,
+          37.764,
+          -81.454,
+          38.231
+        ],
+        "point": [
+          -81.717,
+          37.9975
+        ],
+        "labels": {
+          "en": "Boone"
+        },
+        "population": 23473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2775,
+          38.4135
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "011",
+        "area": 0.17103099999999719,
+        "bounding_box": [
+          -82.508,
+          38.228,
+          -82.047,
+          38.599
+        ],
+        "point": [
+          -82.2775,
+          38.4135
+        ],
+        "labels": {
+          "en": "Cabell"
+        },
+        "population": 96660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6945,
+          39.876999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "051",
+        "area": 0.10951200000000137,
+        "bounding_box": [
+          -80.87,
+          39.721,
+          -80.519,
+          40.033
+        ],
+        "point": [
+          -80.6945,
+          39.876999999999995
+        ],
+        "labels": {
+          "en": "Marshall"
+        },
+        "population": 31149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.706,
+          38.8245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "035",
+        "area": 0.2196460000000019,
+        "bounding_box": [
+          -81.909,
+          38.554,
+          -81.503,
+          39.095
+        ],
+        "point": [
+          -81.706,
+          38.8245
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 30452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0925,
+          39.5785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "061",
+        "area": 0.1872450000000008,
+        "bounding_box": [
+          -80.421,
+          39.436,
+          -79.764,
+          39.721
+        ],
+        "point": [
+          -80.0925,
+          39.5785
+        ],
+        "labels": {
+          "en": "Monongalia"
+        },
+        "population": 113489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9645,
+          39.438
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "057",
+        "area": 0.24600000000000277,
+        "bounding_box": [
+          -79.272,
+          39.238,
+          -78.657,
+          39.638
+        ],
+        "point": [
+          -78.9645,
+          39.438
+        ],
+        "labels": {
+          "en": "Mineral"
+        },
+        "population": 28327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.593,
+          40.517
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "029",
+        "area": 0.036600000000001354,
+        "bounding_box": [
+          -80.668,
+          40.395,
+          -80.518,
+          40.639
+        ],
+        "point": [
+          -80.593,
+          40.517
+        ],
+        "labels": {
+          "en": "Hancock"
+        },
+        "population": 28687
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6885,
+          39.458
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "077",
+        "area": 0.22249799999999936,
+        "bounding_box": [
+          -79.9,
+          39.195,
+          -79.477,
+          39.721
+        ],
+        "point": [
+          -79.6885,
+          39.458
+        ],
+        "labels": {
+          "en": "Preston"
+        },
+        "population": 38426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.821,
+          38.9995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "031",
+        "area": 0.29860200000000026,
+        "bounding_box": [
+          -79.134,
+          38.761,
+          -78.508,
+          39.238
+        ],
+        "point": [
+          -78.821,
+          38.9995
+        ],
+        "labels": {
+          "en": "Hardy"
+        },
+        "population": 15601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4975,
+          39.218
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "107",
+        "area": 0.19852799999999493,
+        "bounding_box": [
+          -81.756,
+          39.026,
+          -81.239,
+          39.41
+        ],
+        "point": [
+          -81.4975,
+          39.218
+        ],
+        "labels": {
+          "en": "Wood"
+        },
+        "population": 86587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.431,
+          38.4825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "101",
+        "area": 0.253421999999999,
+        "bounding_box": [
+          -80.678,
+          38.226,
+          -80.184,
+          38.739
+        ],
+        "point": [
+          -80.431,
+          38.4825
+        ],
+        "labels": {
+          "en": "Webster"
+        },
+        "population": 8628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66,
+          39.314
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "027",
+        "area": 0.2880000000000021,
+        "bounding_box": [
+          -78.98,
+          39.089,
+          -78.34,
+          39.539
+        ],
+        "point": [
+          -78.66,
+          39.314
+        ],
+        "labels": {
+          "en": "Hampshire"
+        },
+        "population": 28308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.654,
+          37.3755
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "047",
+        "area": 0.23804199999999842,
+        "bounding_box": [
+          -81.997,
+          37.202,
+          -81.311,
+          37.549
+        ],
+        "point": [
+          -81.654,
+          37.3755
+        ],
+        "labels": {
+          "en": "McDowell"
+        },
+        "population": 17841
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38499999999999,
+          39.2855
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "033",
+        "area": 0.1616220000000008,
+        "bounding_box": [
+          -80.604,
+          39.101,
+          -80.166,
+          39.47
+        ],
+        "point": [
+          -80.38499999999999,
+          39.2855
+        ],
+        "labels": {
+          "en": "Harrison"
+        },
+        "population": 69788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0185,
+          39.1235
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "001",
+        "area": 0.14720099999999825,
+        "bounding_box": [
+          -80.227,
+          38.947,
+          -79.81,
+          39.3
+        ],
+        "point": [
+          -80.0185,
+          39.1235
+        ],
+        "labels": {
+          "en": "Barbour"
+        },
+        "population": 17732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.56700000000001,
+          39.118
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "093",
+        "area": 0.1652400000000005,
+        "bounding_box": [
+          -79.837,
+          38.965,
+          -79.297,
+          39.271
+        ],
+        "point": [
+          -79.56700000000001,
+          39.118
+        ],
+        "labels": {
+          "en": "Tucker"
+        },
+        "population": 6990
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0505,
+          38.466
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "015",
+        "area": 0.18866800000000353,
+        "bounding_box": [
+          -81.284,
+          38.264,
+          -80.817,
+          38.668
+        ],
+        "point": [
+          -81.0505,
+          38.466
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 8518
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9025,
+          37.8345
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "045",
+        "area": 0.2244089999999996,
+        "bounding_box": [
+          -82.197,
+          37.644,
+          -81.608,
+          38.025
+        ],
+        "point": [
+          -81.9025,
+          37.8345
+        ],
+        "labels": {
+          "en": "Logan"
+        },
+        "population": 36000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1895,
+          39.372
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "073",
+        "area": 0.07550399999999932,
+        "bounding_box": [
+          -81.371,
+          39.268,
+          -81.008,
+          39.476
+        ],
+        "point": [
+          -81.1895,
+          39.372
+        ],
+        "labels": {
+          "en": "Pleasants"
+        },
+        "population": 8067
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.065,
+          38.0415
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "019",
+        "area": 0.28124000000000243,
+        "bounding_box": [
+          -81.381,
+          37.819,
+          -80.749,
+          38.264
+        ],
+        "point": [
+          -81.065,
+          38.0415
+        ],
+        "labels": {
+          "en": "Fayette"
+        },
+        "population": 43869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8765,
+          39.3155
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "037",
+        "area": 0.11487100000000226,
+        "bounding_box": [
+          -78.033,
+          39.132,
+          -77.72,
+          39.499
+        ],
+        "point": [
+          -77.8765,
+          39.3155
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 67326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1055,
+          37.4165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "055",
+        "area": 0.1862189999999965,
+        "bounding_box": [
+          -81.362,
+          37.235,
+          -80.849,
+          37.598
+        ],
+        "point": [
+          -81.1055,
+          37.4165
+        ],
+        "labels": {
+          "en": "Mercer"
+        },
+        "population": 61768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53899999999999,
+          37.6025
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "109",
+        "area": 0.24028600000000322,
+        "bounding_box": [
+          -81.856,
+          37.413,
+          -81.222,
+          37.792
+        ],
+        "point": [
+          -81.53899999999999,
+          37.6025
+        ],
+        "labels": {
+          "en": "Wyoming"
+        },
+        "population": 22038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.739,
+          38.7055
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "007",
+        "area": 0.23264200000000268,
+        "bounding_box": [
+          -81.032,
+          38.507,
+          -80.446,
+          38.904
+        ],
+        "point": [
+          -80.739,
+          38.7055
+        ],
+        "labels": {
+          "en": "Braxton"
+        },
+        "population": 14367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.315,
+          38.732
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "087",
+        "area": 0.19488000000000022,
+        "bounding_box": [
+          -81.547,
+          38.522,
+          -81.083,
+          38.942
+        ],
+        "point": [
+          -81.315,
+          38.732
+        ],
+        "labels": {
+          "en": "Roane"
+        },
+        "population": 14487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.23349999999999,
+          39.0705
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "023",
+        "area": 0.26110499999999554,
+        "bounding_box": [
+          -79.487,
+          38.813,
+          -78.98,
+          39.328
+        ],
+        "point": [
+          -79.23349999999999,
+          39.0705
+        ],
+        "labels": {
+          "en": "Grant"
+        },
+        "population": 12602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5395,
+          37.552
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "063",
+        "area": 0.2293199999999998,
+        "bounding_box": [
+          -80.858,
+          37.372,
+          -80.221,
+          37.732
+        ],
+        "point": [
+          -80.5395,
+          37.552
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 13410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.72,
+          39.2705
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "017",
+        "area": 0.14006800000000078,
+        "bounding_box": [
+          -80.914,
+          39.09,
+          -80.526,
+          39.451
+        ],
+        "point": [
+          -80.72,
+          39.2705
+        ],
+        "labels": {
+          "en": "Doddridge"
+        },
+        "population": 9132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3715,
+          39.041
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "105",
+        "area": 0.12150999999999876,
+        "bounding_box": [
+          -81.581,
+          38.896,
+          -81.162,
+          39.186
+        ],
+        "point": [
+          -81.3715,
+          39.041
+        ],
+        "labels": {
+          "en": "Wirt"
+        },
+        "population": 5596
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.87049999999999,
+          39.4505
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "095",
+        "area": 0.15743900000000124,
+        "bounding_box": [
+          -81.122,
+          39.294,
+          -80.619,
+          39.607
+        ],
+        "point": [
+          -80.87049999999999,
+          39.4505
+        ],
+        "labels": {
+          "en": "Tyler"
+        },
+        "population": 8508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.42699999999999,
+          37.9765
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "025",
+        "area": 0.5426540000000096,
+        "bounding_box": [
+          -80.894,
+          37.686,
+          -79.96,
+          38.267
+        ],
+        "point": [
+          -80.42699999999999,
+          37.9765
+        ],
+        "labels": {
+          "en": "Greenbrier"
+        },
+        "population": 36583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0675,
+          39.198499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "085",
+        "area": 0.19340099999999788,
+        "bounding_box": [
+          -81.324,
+          39.01,
+          -80.811,
+          39.387
+        ],
+        "point": [
+          -81.0675,
+          39.198499999999996
+        ],
+        "labels": {
+          "en": "Ritchie"
+        },
+        "population": 10553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.815,
+          38.751999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "083",
+        "area": 0.6770400000000064,
+        "bounding_box": [
+          -80.28,
+          38.388,
+          -79.35,
+          39.116
+        ],
+        "point": [
+          -79.815,
+          38.751999999999995
+        ],
+        "labels": {
+          "en": "Randolph"
+        },
+        "population": 30547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2185,
+          39.514
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "049",
+        "area": 0.14310400000000312,
+        "bounding_box": [
+          -80.498,
+          39.386,
+          -79.939,
+          39.642
+        ],
+        "point": [
+          -80.2185,
+          39.514
+        ],
+        "labels": {
+          "en": "Marion"
+        },
+        "population": 56099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35300000000001,
+          38.685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "071",
+        "area": 0.32323199999999896,
+        "bounding_box": [
+          -79.649,
+          38.412,
+          -79.057,
+          38.958
+        ],
+        "point": [
+          -79.35300000000001,
+          38.685
+        ],
+        "labels": {
+          "en": "Pendleton"
+        },
+        "population": 7242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8775,
+          37.6485
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "089",
+        "area": 0.1918350000000021,
+        "bounding_box": [
+          -81.095,
+          37.428,
+          -80.66,
+          37.869
+        ],
+        "point": [
+          -80.8775,
+          37.6485
+        ],
+        "labels": {
+          "en": "Summers"
+        },
+        "population": 13524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.027,
+          39.443
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "003",
+        "area": 0.14382399999999937,
+        "bounding_box": [
+          -78.229,
+          39.265,
+          -77.825,
+          39.621
+        ],
+        "point": [
+          -78.027,
+          39.443
+        ],
+        "labels": {
+          "en": "Berkeley"
+        },
+        "population": 142365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22749999999999,
+          38.8985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "097",
+        "area": 0.15658499999999856,
+        "bounding_box": [
+          -80.41,
+          38.684,
+          -80.045,
+          39.113
+        ],
+        "point": [
+          -80.22749999999999,
+          38.8985
+        ],
+        "labels": {
+          "en": "Upshur"
+        },
+        "population": 25147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05,
+          39.345
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "091",
+        "area": 0.06634000000000007,
+        "bounding_box": [
+          -80.205,
+          39.238,
+          -79.895,
+          39.452
+        ],
+        "point": [
+          -80.05,
+          39.345
+        ],
+        "labels": {
+          "en": "Taylor"
+        },
+        "population": 17437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2255,
+          37.75
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "081",
+        "area": 0.33168000000000397,
+        "bounding_box": [
+          -81.571,
+          37.51,
+          -80.88,
+          37.99
+        ],
+        "point": [
+          -81.2255,
+          37.75
+        ],
+        "labels": {
+          "en": "Raleigh"
+        },
+        "population": 78542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.83449999999999,
+          38.3185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "067",
+        "area": 0.38080500000000017,
+        "bounding_box": [
+          -81.232,
+          38.079,
+          -80.437,
+          38.558
+        ],
+        "point": [
+          -80.83449999999999,
+          38.3185
+        ],
+        "labels": {
+          "en": "Nicholas"
+        },
+        "population": 25813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9975,
+          38.752
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "053",
+        "area": 0.24874599999999986,
+        "bounding_box": [
+          -82.222,
+          38.475,
+          -81.773,
+          39.029
+        ],
+        "point": [
+          -81.9975,
+          38.752
+        ],
+        "labels": {
+          "en": "Mason"
+        },
+        "population": 30478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.82900000000001,
+          38.9135
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "021",
+        "area": 0.17438600000000398,
+        "bounding_box": [
+          -81.052,
+          38.718,
+          -80.606,
+          39.109
+        ],
+        "point": [
+          -80.82900000000001,
+          38.9135
+        ],
+        "labels": {
+          "en": "Gilmer"
+        },
+        "population": 10540
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6,
+          40.28
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "009",
+        "area": 0.03936000000000068,
+        "bounding_box": [
+          -80.682,
+          40.16,
+          -80.518,
+          40.4
+        ],
+        "point": [
+          -80.6,
+          40.28
+        ],
+        "labels": {
+          "en": "Brooke"
+        },
+        "population": 24024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1315,
+          38.828500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "013",
+        "area": 0.1268690000000027,
+        "bounding_box": [
+          -81.278,
+          38.612,
+          -80.985,
+          39.045
+        ],
+        "point": [
+          -81.1315,
+          38.828500000000005
+        ],
+        "labels": {
+          "en": "Calhoun"
+        },
+        "population": 7637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.05449999999999,
+          38.1605
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "043",
+        "area": 0.21779899999999996,
+        "bounding_box": [
+          -82.306,
+          37.944,
+          -81.803,
+          38.377
+        ],
+        "point": [
+          -82.05449999999999,
+          38.1605
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 21266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.629,
+          40.101
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "069",
+        "area": 0.03740000000000018,
+        "bounding_box": [
+          -80.739,
+          40.016,
+          -80.519,
+          40.186
+        ],
+        "point": [
+          -80.629,
+          40.101
+        ],
+        "labels": {
+          "en": "Ohio"
+        },
+        "population": 41224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.24549999999999,
+          39.543499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "065",
+        "area": 0.13633499999999638,
+        "bounding_box": [
+          -78.469,
+          39.391,
+          -78.022,
+          39.696
+        ],
+        "point": [
+          -78.24549999999999,
+          39.543499999999995
+        ],
+        "labels": {
+          "en": "Morgan"
+        },
+        "population": 20497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5545,
+          38.297
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "039",
+        "area": 0.4744179999999982,
+        "bounding_box": [
+          -81.915,
+          37.968,
+          -81.194,
+          38.626
+        ],
+        "point": [
+          -81.5545,
+          38.297
+        ],
+        "labels": {
+          "en": "Kanawha"
+        },
+        "population": 187387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5145,
+          38.947
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "041",
+        "area": 0.19047599999999898,
+        "bounding_box": [
+          -80.729,
+          38.725,
+          -80.3,
+          39.169
+        ],
+        "point": [
+          -80.5145,
+          38.947
+        ],
+        "labels": {
+          "en": "Lewis"
+        },
+        "population": 15932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1085,
+          37.7435
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "059",
+        "area": 0.2893750000000006,
+        "bounding_box": [
+          -82.421,
+          37.512,
+          -81.796,
+          37.975
+        ],
+        "point": [
+          -82.1085,
+          37.7435
+        ],
+        "labels": {
+          "en": "Mingo"
+        },
+        "population": 25326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.418,
+          38.1325
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wv",
+        "region_child": "099",
+        "area": 0.26170800000000427,
+        "bounding_box": [
+          -82.644,
+          37.843,
+          -82.192,
+          38.422
+        ],
+        "point": [
+          -82.418,
+          38.1325
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 44267
+      }
+    }
+  ]
+}

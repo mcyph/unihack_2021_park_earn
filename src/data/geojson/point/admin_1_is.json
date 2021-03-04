@@ -1,0 +1,482 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.453,
+          64.87950000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "is",
+        "region_child": "is-7",
+        "area": 8.555458000000003,
+        "bounding_box": [
+          -17.386,
+          63.773,
+          -13.52,
+          65.986
+        ],
+        "point": [
+          -15.453,
+          64.87950000000001
+        ],
+        "labels": {
+          "alt": "East",
+          "local": null,
+          "len": 10,
+          "ar": "الإقليم الشرقي",
+          "bn": "ইস্টার্ন অঞ্চল",
+          "de": "Austurland",
+          "en": "Eastern Region",
+          "es": "Austurland",
+          "fr": "Austurland",
+          "el": "Ανατολική Ισλανδία",
+          "hi": "पूर्वी क्षेत्र",
+          "hu": null,
+          "id": "Austurland",
+          "it": "Austurland",
+          "ja": "東アイスランド",
+          "ko": "외이스튀를란드",
+          "nl": "Austurland",
+          "pl": "Okręg Wschodni",
+          "pt": "Austurland",
+          "ru": "Эйстюрланд",
+          "sv": "Austurland",
+          "tr": "Doğu Bölgesi",
+          "vi": "Khu vực Eastern",
+          "zh": "東部區"
+        },
+        "population": 12571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.4045,
+          64.139
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "is",
+        "region_child": "is-8",
+        "area": 7.501620000000009,
+        "bounding_box": [
+          -21.932,
+          63.397,
+          -16.877,
+          64.881
+        ],
+        "point": [
+          -19.4045,
+          64.139
+        ],
+        "labels": {
+          "alt": "South",
+          "local": null,
+          "len": 9,
+          "ar": "الإقليم الجنوبي",
+          "bn": "সাউদার্ন অঞ্চল",
+          "de": "Suðurland",
+          "en": "Southern Region",
+          "es": "Suðurland",
+          "fr": "Suðurland",
+          "el": "Νότια Ισλανδία",
+          "hi": "दक्षिणी क्षेत्र",
+          "hu": null,
+          "id": "Suðurland",
+          "it": "Suðurland",
+          "ja": "南アイスランド",
+          "ko": "쉬뒤를란드",
+          "nl": "Suðurland",
+          "pl": "Okręg Południowy",
+          "pt": "Suðurland",
+          "ru": "Сюдюрланд",
+          "sv": "Suðurland",
+          "tr": "Southern Bölgesi",
+          "vi": "Khu vực Southern",
+          "zh": "南部區"
+        },
+        "population": 22519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.194499999999998,
+          63.946
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "is",
+        "region_child": "is-2",
+        "area": 0.2712499999999993,
+        "bounding_box": [
+          -22.737,
+          63.821,
+          -21.652,
+          64.071
+        ],
+        "point": [
+          -22.194499999999998,
+          63.946
+        ],
+        "labels": {
+          "alt": "Southern Peninsula",
+          "local": null,
+          "len": 8,
+          "ar": "شبه الجزيرة الجنوبية",
+          "bn": "সাউদার্ন পেনিনসোলা অঞ্চল",
+          "de": "Suðurnes",
+          "en": "Southern Peninsula Region",
+          "es": "Suðurnes",
+          "fr": "Suðurnes",
+          "el": "Νότια Χερσόνησος",
+          "hi": "दक्षिणी प्रायद्वीप क्षेत्र",
+          "hu": null,
+          "id": "Suðurnes",
+          "it": "Suðurnes",
+          "ja": "南西アイスランド",
+          "ko": "쉬뒤르네스",
+          "nl": "Suðurnes",
+          "pl": "Półwysep Reykjanes",
+          "pt": "Suðurnes",
+          "ru": "Сюдюрнес",
+          "sv": "Suðurnes",
+          "tr": "Güney Yarımadası",
+          "vi": "Khu vực Phía Nam Peninsula",
+          "zh": "西南區"
+        },
+        "population": 25423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.865000000000002,
+          64.1385
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "is",
+        "region_child": "is-0",
+        "area": 0.1424499999999948,
+        "bounding_box": [
+          -22.124,
+          64.001,
+          -21.606,
+          64.276
+        ],
+        "point": [
+          -21.865000000000002,
+          64.1385
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "ريكيافيك",
+          "bn": "রেইকিয়াভিক",
+          "de": "Reykjavík",
+          "en": "Reykjavík",
+          "es": "Reikiavik",
+          "fr": "Reykjavik",
+          "el": "Ρέυκιαβικ",
+          "hi": "रेक्जाविक",
+          "hu": "Reykjavík",
+          "id": "Reykjavík",
+          "it": "Reykjavík",
+          "ja": "レイキャヴィーク",
+          "ko": "레이캬비크",
+          "nl": "Reykjavik",
+          "pl": "Reykjavík",
+          "pt": "Reykjavík",
+          "ru": "Рейкьявик",
+          "sv": "Reykjavik",
+          "tr": "Reykjavík",
+          "vi": "Reykjavík",
+          "zh": "雷克雅未克"
+        },
+        "population": 187290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5395,
+          64.19800000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "is",
+        "region_child": "is-1",
+        "area": 0.30927600000000016,
+        "bounding_box": [
+          -21.93,
+          64.0,
+          -21.149,
+          64.396
+        ],
+        "point": [
+          -21.5395,
+          64.19800000000001
+        ],
+        "labels": {
+          "alt": "Capital Region",
+          "local": null,
+          "len": 16,
+          "ar": "إقليم العاصمة",
+          "bn": "কােপিটাল অঞ্চল",
+          "de": "Höfuðborgarsvæðið",
+          "en": "Capital Region",
+          "es": "Höfuðborgarsvæði",
+          "fr": "Höfuðborgarsvæðið",
+          "el": "Περιφέρεια Πρωτεύουσας της Ισλανδίας",
+          "hi": "राजधानी क्षेत्र",
+          "hu": "Nagy-Reykjavík",
+          "id": "Wilayah Reykjavík Raya",
+          "it": "Höfuðborgarsvæðið",
+          "ja": "大レイキャヴィーク",
+          "ko": "회뷔드보르가르스바이디",
+          "nl": "Höfuðborgarsvæðið",
+          "pl": "Höfuðborgarsvæðið",
+          "pt": "Höfuðborgarsvæði",
+          "ru": "Хёвюдборгарсвайдид",
+          "sv": "Höfuðborgarsvæðið",
+          "tr": "Başkent Bölgesi",
+          "vi": "Khu vực Thủ đô",
+          "zh": "大雷克雅未克区"
+        },
+        "population": 6702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9345,
+          64.875
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "is",
+        "region_child": "is-3",
+        "area": 4.914156000000022,
+        "bounding_box": [
+          -24.06,
+          64.297,
+          -19.809,
+          65.453
+        ],
+        "point": [
+          -21.9345,
+          64.875
+        ],
+        "labels": {
+          "alt": "West",
+          "local": null,
+          "len": 10,
+          "ar": "الإقليم الغربي",
+          "bn": "ওয়স্টার্ন অঞ্চল",
+          "de": "Vesturland",
+          "en": "Western Region",
+          "es": "Vesturland",
+          "fr": "Vesturland",
+          "el": "Δυτική Ισλανδία",
+          "hi": "पश्चिमी क्षेत्र",
+          "hu": null,
+          "id": "Vesturland",
+          "it": "Vesturland",
+          "ja": "西アイスランド",
+          "ko": "베스튀를란드",
+          "nl": "Vesturland",
+          "pl": "Okręg Wschodni",
+          "pt": "Vesturland",
+          "ru": "Вестюрланд",
+          "sv": "Vesturland",
+          "tr": "Western Region",
+          "vi": "Khu vực Phía Tây",
+          "zh": "西部區"
+        },
+        "population": 13975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.762,
+          65.7195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "is",
+        "region_child": "is-4",
+        "area": 5.316220000000012,
+        "bounding_box": [
+          -24.54,
+          64.972,
+          -20.984,
+          66.467
+        ],
+        "point": [
+          -22.762,
+          65.7195
+        ],
+        "labels": {
+          "alt": "Westfjords",
+          "local": null,
+          "len": 10,
+          "ar": "إقليم المضايق",
+          "bn": "ওয়েস্টফোর্ডস অঞ্চল",
+          "de": "Vestfirðir",
+          "en": "Westfjords",
+          "es": "Vestfirðir",
+          "fr": "Vestfirðir",
+          "el": "Δυτικά Φιόρδ",
+          "hi": "वेस्ट फ्योर्ड प्रदेश",
+          "hu": "Vestfirðir",
+          "id": "Vestfirðir",
+          "it": "Vestfirðir",
+          "ja": "西部フィヨルド",
+          "ko": "베스트피르디르",
+          "nl": "Vestfirðir",
+          "pl": "Vestfirðir",
+          "pt": "Vestfirðir",
+          "ru": "Вестфирдир",
+          "sv": "Västfjordarna",
+          "tr": "Wesfjırds Bölgesi",
+          "vi": "Khu vực Westfjords",
+          "zh": "西峽灣區"
+        },
+        "population": 6324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.736,
+          65.455
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "is",
+        "region_child": "is-5",
+        "area": 3.8918080000000175,
+        "bounding_box": [
+          -21.12,
+          64.752,
+          -18.352,
+          66.158
+        ],
+        "point": [
+          -19.736,
+          65.455
+        ],
+        "labels": {
+          "alt": "Northwest",
+          "local": null,
+          "len": 17,
+          "ar": "الإقليم الشمالي الغربي",
+          "bn": "নর্থ ওয়েস্টার্ন অঞ্চল",
+          "de": "Norðurland vestra",
+          "en": "Northwestern Region",
+          "es": "Norðurland Vestra",
+          "fr": "Norðurland vestra",
+          "el": "Βορειοδυτική Ισλανδία",
+          "hi": "उत्तर पश्चिमी क्षेत्र",
+          "hu": null,
+          "id": "Norðurland vestra",
+          "it": "Norðurland vestra",
+          "ja": "北アイスランド西部",
+          "ko": "노르뒤를란드 베스트라",
+          "nl": "Norðurland vestra",
+          "pl": "Okręg Północno-Zachodni",
+          "pt": "Norðurland Vestra",
+          "ru": "Нордурланд Вестра",
+          "sv": "Norðurland vestra",
+          "tr": "Kuzey Batı Bölgesi",
+          "vi": "Khu vực Tây Bắc",
+          "zh": "西北區"
+        },
+        "population": 6905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.845,
+          65.50450000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "is",
+        "region_child": "is-6",
+        "area": 9.226420000000052,
+        "bounding_box": [
+          -19.079,
+          64.472,
+          -14.611,
+          66.537
+        ],
+        "point": [
+          -16.845,
+          65.50450000000001
+        ],
+        "labels": {
+          "alt": "Northeast",
+          "local": null,
+          "len": 17,
+          "ar": "الإقليم الشمالي الشرقي",
+          "bn": "নর্থ ইস্টার্ন অঞ্চল",
+          "de": "Norðurland eystra",
+          "en": "Northeastern Region",
+          "es": "Norðurland Eystra",
+          "fr": "Norðurland eystra",
+          "el": "Βορειοανατολική Ισλανδία",
+          "hi": "पूर्वोत्तर क्षेत्र",
+          "hu": null,
+          "id": "Norðurland eystra",
+          "it": "Norðurland eystra",
+          "ja": "北アイスランド東部",
+          "ko": "노르뒤를란드 에이스트라",
+          "nl": "Norðurland eystra",
+          "pl": "Okręg Północno-Wschodni",
+          "pt": "Norðurland Eystra",
+          "ru": "Нордюрланд-Эйстра",
+          "sv": "Norðurland eystra",
+          "tr": "Kuzeydoğu Bölgesi",
+          "vi": "Khu vực Đông Bắc",
+          "zh": "東北區"
+        },
+        "population": 29822
+      }
+    }
+  ]
+}

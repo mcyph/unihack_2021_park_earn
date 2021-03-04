@@ -1,0 +1,747 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.665499999999994,
+          6.444000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-sn",
+        "area": 19.884414000000003,
+        "bounding_box": [
+          34.196,
+          4.431,
+          39.135,
+          8.457
+        ],
+        "point": [
+          36.665499999999994,
+          6.444000000000001
+        ],
+        "labels": {
+          "alt": "Southern Nations, Nationalities, and People's Region",
+          "local": null,
+          "len": 43,
+          "ar": "الأمم الجنوبية",
+          "bn": "সাউদার্ন নেশন ন্যাশনালিটিস অ্যান্ড পিপলস অঞ্চল",
+          "de": "Region der südlichen Nationen",
+          "en": "Southern Nations",
+          "es": "Naciones",
+          "fr": "région des nations",
+          "el": "Περιφέρεια των λαών του νότου",
+          "hi": "दक्षिणी राष्ट्र",
+          "hu": "Déli nemzetek",
+          "id": "Region Southern Nations",
+          "it": "regione delle Nazioni",
+          "ja": "南部諸民族州",
+          "ko": "남부 국가 민족 주",
+          "nl": "Yedebub Biheroch Bihereseboch na Hizboch",
+          "pl": "Region Narodów",
+          "pt": "Região das Nações",
+          "ru": "Регион Народов и народностей юга",
+          "sv": "Ye Debub Biheroch Bihereseboch na Hizboch",
+          "tr": "Güney Ulusları ve Halkları Bölgesi",
+          "vi": "Vùng Các dân tộc Phương Nam",
+          "zh": "南方各族州"
+        },
+        "population": 21546488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5345,
+          7.247
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-so",
+        "area": 68.30307599999998,
+        "bounding_box": [
+          39.09,
+          3.405,
+          47.979,
+          11.089
+        ],
+        "point": [
+          43.5345,
+          7.247
+        ],
+        "labels": {
+          "alt": "Sumale",
+          "local": null,
+          "len": 6,
+          "ar": "المنطقة الصومالية",
+          "bn": "সোমালি অঞ্চল",
+          "de": "Somali",
+          "en": "Somali Region",
+          "es": "Región Somali",
+          "fr": "Région Somali",
+          "el": "Σομαλία",
+          "hi": "सोमाली प्रदेश",
+          "hu": "Szomália",
+          "id": "Region Somali",
+          "it": "regione dei Somali",
+          "ja": "ソマリ州",
+          "ko": "소말리 주",
+          "nl": "Somali",
+          "pl": "Somali",
+          "pt": "Região Somali",
+          "ru": "Сомали",
+          "sv": "Somali",
+          "tr": "Somali Bölgesi",
+          "vi": "Vùng Somali",
+          "zh": "索馬里州"
+        },
+        "population": 6306398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.0275,
+          11.654499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-af",
+        "area": 15.198968999999975,
+        "bounding_box": [
+          39.676,
+          8.843,
+          42.379,
+          14.466
+        ],
+        "point": [
+          41.0275,
+          11.654499999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "إقليم عفر",
+          "bn": "আফার অঞ্চল",
+          "de": "Afar",
+          "en": "Afar Region",
+          "es": "Afar",
+          "fr": "Afar",
+          "el": "Αφάρ",
+          "hi": "अफ़ार प्रदेश",
+          "hu": "Afar",
+          "id": "Region Afar",
+          "it": "regione degli Afar",
+          "ja": "アファール州",
+          "ko": "아파르 주",
+          "nl": "Afar",
+          "pl": "Afar",
+          "pt": "Afar",
+          "ru": "Афар",
+          "sv": "Afar",
+          "tr": "Afar Bölgesi",
+          "vi": "Afar",
+          "zh": "阿法尔州"
+        },
+        "population": 1867395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.721999999999994,
+          11.2685
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-am",
+        "area": 24.814220000000006,
+        "bounding_box": [
+          35.248,
+          8.761,
+          40.196,
+          13.776
+        ],
+        "point": [
+          37.721999999999994,
+          11.2685
+        ],
+        "labels": {
+          "alt": "Amara",
+          "local": null,
+          "len": 6,
+          "ar": "أمهرة",
+          "bn": "আমহারা অঞ্চল",
+          "de": "Amhara",
+          "en": "Amhara Region",
+          "es": "Región de Amhara",
+          "fr": "Amhara",
+          "el": "Αμχάρα",
+          "hi": "अम्हारा प्रदेश",
+          "hu": "Amhara",
+          "id": "Region Amhara",
+          "it": "regione degli Amara",
+          "ja": "アムハラ州",
+          "ko": "암하라 주",
+          "nl": "Amhara",
+          "pl": "Amhara",
+          "pt": "Amhara",
+          "ru": "Амхара",
+          "sv": "Amhara",
+          "tr": "Amhara Bölgesi",
+          "vi": "Amhara",
+          "zh": "阿姆哈拉州"
+        },
+        "population": 22393967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.216499999999996,
+          13.5655
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-ti",
+        "area": 9.377643000000004,
+        "bounding_box": [
+          36.433,
+          12.251,
+          40.0,
+          14.88
+        ],
+        "point": [
+          38.216499999999996,
+          13.5655
+        ],
+        "labels": {
+          "alt": "Tegr?|Tigrai|Tigre|Tigr?|Tigré",
+          "local": null,
+          "len": 6,
+          "ar": "تيغراي",
+          "bn": "তিগ্রে অঞ্চল",
+          "de": "Tigray",
+          "en": "Tigray Region",
+          "es": "Tigray",
+          "fr": "Tigray",
+          "el": "Τιγκράι",
+          "hi": "तिग्राय प्रदेश",
+          "hu": "Tigré",
+          "id": "Region Tigray",
+          "it": "regione dei Tigrè",
+          "ja": "ティグレ州",
+          "ko": "티그레 주",
+          "nl": "Tigray",
+          "pl": "Tigraj",
+          "pt": "Região Tigré",
+          "ru": "Тыграй",
+          "sv": "Tigray",
+          "tr": "Tigray Bölgesi",
+          "vi": "Tigray",
+          "zh": "提格里州"
+        },
+        "population": 5832419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5565,
+          10.5885
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-be",
+        "area": 8.636121000000001,
+        "bounding_box": [
+          34.067,
+          9.139,
+          37.046,
+          12.038
+        ],
+        "point": [
+          35.5565,
+          10.5885
+        ],
+        "labels": {
+          "alt": "Benishangul|Beni Shangul|Bénishangul|Benishangul-Gumuz|Binshangul Gumuz",
+          "local": null,
+          "len": 16,
+          "ar": "بنيشنقول-قماز",
+          "bn": "বেনসিংগল-গামুজ অঞ্চল",
+          "de": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz Region",
+          "es": "Benishangul-Gumaz",
+          "fr": "Benishangul-Gumaz",
+          "el": "Μπενισανγούλ Γκουμούζ",
+          "hi": "बेनिशंगुल-गुमुज़ प्रदेश",
+          "hu": "Benishangul-Gumuz",
+          "id": "Region Benishangul-Gumaz",
+          "it": "regione Benisciangul-Gumus",
+          "ja": "ベニシャングル・グムズ州",
+          "ko": "베니샹굴구무즈 주",
+          "nl": "Benishangul-Gumuz",
+          "pl": "Bienszangul-Gumuz",
+          "pt": "Benishangul-Gumaz",
+          "ru": "Бенишангул-Гумуз",
+          "sv": "Benishangul-Gumuz",
+          "tr": "Benishangul-Gumuz Bölgesi",
+          "vi": "Benishangul-Gumuz",
+          "zh": "本尚古勒-古馬茲州"
+        },
+        "population": 1187141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.119,
+          8.9335
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-be",
+        "area": 0.0418180000000005,
+        "bounding_box": [
+          36.016,
+          8.832,
+          36.222,
+          9.035
+        ],
+        "point": [
+          36.119,
+          8.9335
+        ],
+        "labels": {
+          "alt": "Benishangul|Beni Shangul|Bénishangul|Benishangul-Gumuz|Binshangul Gumuz",
+          "local": null,
+          "len": 16,
+          "ar": "بنيشنقول-قماز",
+          "bn": "বেনসিংগল-গামুজ অঞ্চল",
+          "de": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz Region",
+          "es": "Benishangul-Gumaz",
+          "fr": "Benishangul-Gumaz",
+          "el": "Μπενισανγούλ Γκουμούζ",
+          "hi": "बेनिशंगुल-गुमुज़ प्रदेश",
+          "hu": "Benishangul-Gumuz",
+          "id": "Region Benishangul-Gumaz",
+          "it": "regione Benisciangul-Gumus",
+          "ja": "ベニシャングル・グムズ州",
+          "ko": "베니샹굴구무즈 주",
+          "nl": "Benishangul-Gumuz",
+          "pl": "Bienszangul-Gumuz",
+          "pt": "Benishangul-Gumaz",
+          "ru": "Бенишангул-Гумуз",
+          "sv": "Benishangul-Gumuz",
+          "tr": "Benishangul-Gumuz Bölgesi",
+          "vi": "Benishangul-Gumuz",
+          "zh": "本尚古勒-古馬茲州"
+        },
+        "population": 1187141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4345,
+          9.4405
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-be",
+        "area": 0.019071000000000754,
+        "bounding_box": [
+          36.376,
+          9.359,
+          36.493,
+          9.522
+        ],
+        "point": [
+          36.4345,
+          9.4405
+        ],
+        "labels": {
+          "alt": "Benishangul|Beni Shangul|Bénishangul|Benishangul-Gumuz|Binshangul Gumuz",
+          "local": null,
+          "len": 16,
+          "ar": "بنيشنقول-قماز",
+          "bn": "বেনসিংগল-গামুজ অঞ্চল",
+          "de": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz Region",
+          "es": "Benishangul-Gumaz",
+          "fr": "Benishangul-Gumaz",
+          "el": "Μπενισανγούλ Γκουμούζ",
+          "hi": "बेनिशंगुल-गुमुज़ प्रदेश",
+          "hu": "Benishangul-Gumuz",
+          "id": "Region Benishangul-Gumaz",
+          "it": "regione Benisciangul-Gumus",
+          "ja": "ベニシャングル・グムズ州",
+          "ko": "베니샹굴구무즈 주",
+          "nl": "Benishangul-Gumuz",
+          "pl": "Bienszangul-Gumuz",
+          "pt": "Benishangul-Gumaz",
+          "ru": "Бенишангул-Гумуз",
+          "sv": "Benishangul-Gumuz",
+          "tr": "Benishangul-Gumuz Bölgesi",
+          "vi": "Benishangul-Gumuz",
+          "zh": "本尚古勒-古馬茲州"
+        },
+        "population": 1187141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2825,
+          8.964500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-be",
+        "area": 0.00474499999999999,
+        "bounding_box": [
+          36.246,
+          8.932,
+          36.319,
+          8.997
+        ],
+        "point": [
+          36.2825,
+          8.964500000000001
+        ],
+        "labels": {
+          "alt": "Benishangul|Beni Shangul|Bénishangul|Benishangul-Gumuz|Binshangul Gumuz",
+          "local": null,
+          "len": 16,
+          "ar": "بنيشنقول-قماز",
+          "bn": "বেনসিংগল-গামুজ অঞ্চল",
+          "de": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz Region",
+          "es": "Benishangul-Gumaz",
+          "fr": "Benishangul-Gumaz",
+          "el": "Μπενισανγούλ Γκουμούζ",
+          "hi": "बेनिशंगुल-गुमुज़ प्रदेश",
+          "hu": "Benishangul-Gumuz",
+          "id": "Region Benishangul-Gumaz",
+          "it": "regione Benisciangul-Gumus",
+          "ja": "ベニシャングル・グムズ州",
+          "ko": "베니샹굴구무즈 주",
+          "nl": "Benishangul-Gumuz",
+          "pl": "Bienszangul-Gumuz",
+          "pt": "Benishangul-Gumaz",
+          "ru": "Бенишангул-Гумуз",
+          "sv": "Benishangul-Gumuz",
+          "tr": "Benishangul-Gumuz Bölgesi",
+          "vi": "Benishangul-Gumuz",
+          "zh": "本尚古勒-古馬茲州"
+        },
+        "population": 1187141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.176500000000004,
+          7.8100000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-ga",
+        "area": 3.7873079999999986,
+        "bounding_box": [
+          32.99,
+          7.012,
+          35.363,
+          8.608
+        ],
+        "point": [
+          34.176500000000004,
+          7.8100000000000005
+        ],
+        "labels": {
+          "alt": "Gambella|Gambela Hizboch",
+          "local": null,
+          "len": 15,
+          "ar": "جامبيلا",
+          "bn": "গাম্বেলা প্রদেশ",
+          "de": "Gambela",
+          "en": "Gambela Region",
+          "es": "Gambela",
+          "fr": "Gambela",
+          "el": "Γκαμπέλα",
+          "hi": "गाम्बेला प्रदेश",
+          "hu": "Gambela",
+          "id": "Region Gambela",
+          "it": "regione di Gambella",
+          "ja": "ガンベラ州",
+          "ko": "감벨라 주",
+          "nl": "Gambela",
+          "pl": "Region Ludów Gambeli",
+          "pt": "Gambela",
+          "ru": "Гамбела",
+          "sv": "Gambela Hizboch",
+          "tr": "Gambela Bölgesi",
+          "vi": "Gambela",
+          "zh": "甘貝拉州"
+        },
+        "population": 528425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.498,
+          6.948
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-or",
+        "area": 60.64443999999999,
+        "bounding_box": [
+          34.083,
+          3.514,
+          42.913,
+          10.382
+        ],
+        "point": [
+          38.498,
+          6.948
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "أوروميا",
+          "bn": "ওরোমিয়া অঞ্চল",
+          "de": "Oromia",
+          "en": "Oromia Region",
+          "es": "Oromía",
+          "fr": "Oromia",
+          "el": "Ορόμια",
+          "hi": "ओरोमिआ प्रदेश",
+          "hu": "Oromia",
+          "id": "Region Oromia",
+          "it": "Oromia",
+          "ja": "オロミア州",
+          "ko": "오로미아 주",
+          "nl": "Oromiya",
+          "pl": "Oromia",
+          "pt": "Oromia",
+          "ru": "Оромия",
+          "sv": "Oromia",
+          "tr": "Oromia Bölgesi",
+          "vi": "Oromia",
+          "zh": "奧羅米亞州"
+        },
+        "population": 39886452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.039,
+          9.627500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-dd",
+        "area": 0.18542799999999998,
+        "bounding_box": [
+          41.737,
+          9.474,
+          42.341,
+          9.781
+        ],
+        "point": [
+          42.039,
+          9.627500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "ديرة داوا",
+          "bn": "ডাইরে ডাওয়",
+          "de": "Dire Dawa",
+          "en": "Dire Dawa",
+          "es": "Dire Dawa",
+          "fr": "Dire Dawa",
+          "el": "Ντίρε Ντάουα",
+          "hi": "डिरे डावा",
+          "hu": "Dire Dawa",
+          "id": "Dire Dawa",
+          "it": "Dire Daua",
+          "ja": "ディレ・ダワ",
+          "ko": "디레다와",
+          "nl": "Dire Dawa",
+          "pl": "Dire Daua",
+          "pt": "Dire Dawa",
+          "ru": "Дыре-Дауа",
+          "sv": "Dire Dawa",
+          "tr": "Dire Dawa",
+          "vi": "Dire Dawa",
+          "zh": "德雷达瓦"
+        },
+        "population": 468495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7815,
+          8.964500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-aa",
+        "area": 0.066539,
+        "bounding_box": [
+          38.655,
+          8.833,
+          38.908,
+          9.096
+        ],
+        "point": [
+          38.7815,
+          8.964500000000001
+        ],
+        "labels": {
+          "alt": "Āddīs Ābaba|Addis Abeba|Adis-Abeba|Ādīs Ābeba",
+          "local": null,
+          "len": 11,
+          "ar": "أديس أبابا",
+          "bn": "আদ্দিস আবাবা",
+          "de": "Addis Abeba",
+          "en": "Addis Ababa",
+          "es": "Adís Abeba",
+          "fr": "Addis-Abeba",
+          "el": "Αντίς Αμπέμπα",
+          "hi": "अदीस अबाबा",
+          "hu": "Addisz-Abeba",
+          "id": "Addis Ababa",
+          "it": "Addis Abeba",
+          "ja": "アディスアベバ",
+          "ko": "아디스아바바",
+          "nl": "Addis Abeba",
+          "pl": "Addis Abeba",
+          "pt": "Adis Abeba",
+          "ru": "Аддис-Абеба",
+          "sv": "Addis Abeba",
+          "tr": "Addis Ababa",
+          "vi": "Addis Ababa",
+          "zh": "亚的斯亚贝巴"
+        },
+        "population": 3485178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.169,
+          9.286999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "et",
+        "region_child": "et-ha",
+        "area": 0.04116000000000011,
+        "bounding_box": [
+          42.064,
+          9.189,
+          42.274,
+          9.385
+        ],
+        "point": [
+          42.169,
+          9.286999999999999
+        ],
+        "labels": {
+          "alt": "Harari|Harer|Hareri Hizb",
+          "local": null,
+          "len": 13,
+          "ar": "إقليم هراري",
+          "bn": "হারারি অঞ্চল",
+          "de": "Harar",
+          "en": "Harari Region",
+          "es": "Región Harar",
+          "fr": "Région Harar",
+          "el": "Χαράρι",
+          "hi": "हरारी प्रदेश",
+          "hu": "Harar",
+          "id": "Region Harari",
+          "it": "regione di Harar",
+          "ja": "ハラリ州",
+          "ko": "하라리 주",
+          "nl": "Harari",
+          "pl": "Region Ludu Hareri",
+          "pt": "Harari",
+          "ru": "Харари",
+          "sv": "Harari",
+          "tr": "Harari Bölgesi",
+          "vi": "Harari",
+          "zh": "哈勒爾州"
+        },
+        "population": 244091
+      }
+    }
+  ]
+}

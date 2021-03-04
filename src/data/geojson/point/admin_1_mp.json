@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2065,
+          14.157
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mp",
+        "region_child": "mp-x01~",
+        "area": 0.013892000000000774,
+        "bounding_box": [
+          145.131,
+          14.111,
+          145.282,
+          14.203
+        ],
+        "point": [
+          145.2065,
+          14.157
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 1486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.623,
+          15.0
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mp",
+        "region_child": "mp-x02~",
+        "area": 0.012960000000000343,
+        "bounding_box": [
+          145.578,
+          14.928,
+          145.668,
+          15.072
+        ],
+        "point": [
+          145.623,
+          15.0
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 2734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.73950000000002,
+          15.1815
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mp",
+        "region_child": "mp-x03~",
+        "area": 0.018296999999999817,
+        "bounding_box": [
+          145.686,
+          15.096,
+          145.793,
+          15.267
+        ],
+        "point": [
+          145.73950000000002,
+          15.1815
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 33560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.788,
+          18.118000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mp",
+        "region_child": "mp-x04~",
+        "area": 0.010944000000000488,
+        "bounding_box": [
+          145.74,
+          18.061,
+          145.836,
+          18.175
+        ],
+        "point": [
+          145.788,
+          18.118000000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "جزر ماريانا الشمالية",
+          "bn": "উত্তর মারিয়ানা দ্বীপপুঞ্জ",
+          "de": "Nördliche Marianen",
+          "en": "Northern Mariana Islands",
+          "es": "Islas Marianas del Norte",
+          "fr": "îles Mariannes du Nord",
+          "el": "Βόρειες Μαριάνες Νήσοι",
+          "hi": "उत्तरी मारियाना द्वीप",
+          "hu": "Északi-Mariana-szigetek",
+          "id": "Kepulauan Mariana Utara",
+          "it": "Isole Marianne Settentrionali",
+          "ja": "北マリアナ諸島",
+          "ko": "북마리아나 제도",
+          "nl": "Noordelijke Marianen",
+          "pl": "Mariany Północne",
+          "pt": "Marianas Setentrionais",
+          "ru": "Северные Марианские острова",
+          "sv": "Nordmarianerna",
+          "tr": "Kuzey Mariana Adaları",
+          "vi": "Quần đảo Bắc Mariana",
+          "zh": "北马里亚纳群岛"
+        },
+        "population": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6705,
+          18.7665
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mp",
+        "region_child": "mp-x04~",
+        "area": 0.005865000000001489,
+        "bounding_box": [
+          145.636,
+          18.724,
+          145.705,
+          18.809
+        ],
+        "point": [
+          145.6705,
+          18.7665
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "جزر ماريانا الشمالية",
+          "bn": "উত্তর মারিয়ানা দ্বীপপুঞ্জ",
+          "de": "Nördliche Marianen",
+          "en": "Northern Mariana Islands",
+          "es": "Islas Marianas del Norte",
+          "fr": "îles Mariannes du Nord",
+          "el": "Βόρειες Μαριάνες Νήσοι",
+          "hi": "उत्तरी मारियाना द्वीप",
+          "hu": "Északi-Mariana-szigetek",
+          "id": "Kepulauan Mariana Utara",
+          "it": "Isole Marianne Settentrionali",
+          "ja": "北マリアナ諸島",
+          "ko": "북마리아나 제도",
+          "nl": "Noordelijke Marianen",
+          "pl": "Mariany Północne",
+          "pt": "Marianas Setentrionais",
+          "ru": "Северные Марианские острова",
+          "sv": "Nordmarianerna",
+          "tr": "Kuzey Mariana Adaları",
+          "vi": "Quần đảo Bắc Mariana",
+          "zh": "北马里亚纳群岛"
+        },
+        "population": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6735,
+          16.362499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mp",
+        "region_child": "mp-x04~",
+        "area": 0.0024849999999999386,
+        "bounding_box": [
+          145.638,
+          16.345,
+          145.709,
+          16.38
+        ],
+        "point": [
+          145.6735,
+          16.362499999999997
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 16,
+          "ar": "جزر ماريانا الشمالية",
+          "bn": "উত্তর মারিয়ানা দ্বীপপুঞ্জ",
+          "de": "Nördliche Marianen",
+          "en": "Northern Mariana Islands",
+          "es": "Islas Marianas del Norte",
+          "fr": "îles Mariannes du Nord",
+          "el": "Βόρειες Μαριάνες Νήσοι",
+          "hi": "उत्तरी मारियाना द्वीप",
+          "hu": "Északi-Mariana-szigetek",
+          "id": "Kepulauan Mariana Utara",
+          "it": "Isole Marianne Settentrionali",
+          "ja": "北マリアナ諸島",
+          "ko": "북마리아나 제도",
+          "nl": "Noordelijke Marianen",
+          "pl": "Mariany Północne",
+          "pt": "Marianas Setentrionais",
+          "ru": "Северные Марианские острова",
+          "sv": "Nordmarianerna",
+          "tr": "Kuzey Mariana Adaları",
+          "vi": "Quần đảo Bắc Mariana",
+          "zh": "北马里亚纳群岛"
+        },
+        "population": 0
+      }
+    }
+  ]
+}

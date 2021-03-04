@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.957,
+          35.0155
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cy",
+        "region_child": "cy-04",
+        "area": 0.02739199999999985,
+        "bounding_box": [
+          33.829,
+          34.962,
+          34.085,
+          35.069
+        ],
+        "point": [
+          33.957,
+          35.0155
+        ],
+        "labels": {
+          "alt": "Famgusta|Ammochostos|Famagosta|Famagouste|Gazimagosa|Gazimagusa|Magusa",
+          "local": null,
+          "len": 9,
+          "ar": "منطقة فاماغوستا",
+          "bn": null,
+          "de": "Bezirk Famagusta",
+          "en": "Famagusta District",
+          "es": "Famagusta",
+          "fr": "district de Famagouste",
+          "el": "Επαρχία Αμμοχώστου",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "distretto di Famagosta",
+          "ja": "ファマグスタ地区",
+          "ko": "파마구스타 구",
+          "nl": "Famagusta",
+          "pl": "Dystrykt Famagusta",
+          "pt": "Famagusta",
+          "ru": "Фамагуста",
+          "sv": "Famagusta",
+          "tr": "Mağusa kazası",
+          "vi": null,
+          "zh": "法马古斯塔区"
+        },
+        "population": 47697
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1345,
+          35.039
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cy",
+        "region_child": "cy-01",
+        "area": 0.36156599999999767,
+        "bounding_box": [
+          32.566,
+          34.88,
+          33.703,
+          35.198
+        ],
+        "point": [
+          33.1345,
+          35.039
+        ],
+        "labels": {
+          "alt": "Lefkosía|Levkosía|Lefkosa|Nicosie|Nikosia",
+          "local": null,
+          "len": 7,
+          "ar": "منطقة نيقوسيا",
+          "bn": null,
+          "de": "Bezirk Nikosia",
+          "en": "Nicosia District",
+          "es": "Nicosia",
+          "fr": "district de Nicosie",
+          "el": "Επαρχία Λευκωσίας",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "distretto di Nicosia",
+          "ja": "ニコシア地区",
+          "ko": "니코시아 구",
+          "nl": "Nicosia",
+          "pl": "Dystrykt Nikozja",
+          "pt": "Nicósia",
+          "ru": "Никосия",
+          "sv": "Eparchía Lefkosías",
+          "tr": "Lefkoşa ili",
+          "vi": "Nicosia",
+          "zh": "尼科西亚区"
+        },
+        "population": 365973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.417,
+          34.8635
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cy",
+        "region_child": "cy-03",
+        "area": 0.17903600000000222,
+        "bounding_box": [
+          33.131,
+          34.707,
+          33.703,
+          35.02
+        ],
+        "point": [
+          33.417,
+          34.8635
+        ],
+        "labels": {
+          "alt": "Larnaka|L rnax",
+          "local": null,
+          "len": 7,
+          "ar": "منطقة لارنكا",
+          "bn": "লার্নাকা জেলা",
+          "de": "Bezirk Larnaka",
+          "en": "Larnaca District",
+          "es": "Lárnaca",
+          "fr": "district de Larnaca",
+          "el": "Επαρχία Λάρνακας",
+          "hi": "लार्नाका जिला",
+          "hu": null,
+          "id": "Distrik Larnaca",
+          "it": "distretto di Larnaca",
+          "ja": "ラルナカ地区",
+          "ko": "라르나카 구",
+          "nl": "Larnaca",
+          "pl": "Dystrykt Larnaka",
+          "pt": "Larnaca",
+          "ru": "Ларнака",
+          "sv": "Eparchía Lárnakas",
+          "tr": "Larnaka kazası",
+          "vi": "Quận Larnaca",
+          "zh": "拉纳卡区"
+        },
+        "population": 152054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8625,
+          34.9795
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cy",
+        "region_child": "cy-03",
+        "area": 0.002880999999999958,
+        "bounding_box": [
+          33.829,
+          34.958,
+          33.896,
+          35.001
+        ],
+        "point": [
+          33.8625,
+          34.9795
+        ],
+        "labels": {
+          "alt": "Larnaka|L rnax",
+          "local": null,
+          "len": 7,
+          "ar": "منطقة لارنكا",
+          "bn": "লার্নাকা জেলা",
+          "de": "Bezirk Larnaka",
+          "en": "Larnaca District",
+          "es": "Lárnaca",
+          "fr": "district de Larnaca",
+          "el": "Επαρχία Λάρνακας",
+          "hi": "लार्नाका जिला",
+          "hu": null,
+          "id": "Distrik Larnaca",
+          "it": "distretto di Larnaca",
+          "ja": "ラルナカ地区",
+          "ko": "라르나카 구",
+          "nl": "Larnaca",
+          "pl": "Dystrykt Larnaka",
+          "pt": "Larnaca",
+          "ru": "Ларнака",
+          "sv": "Eparchía Lárnakas",
+          "tr": "Larnaka kazası",
+          "vi": "Quận Larnaca",
+          "zh": "拉纳卡区"
+        },
+        "population": 152054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.955,
+          34.795
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cy",
+        "region_child": "cy-02",
+        "area": 0.20479200000000264,
+        "bounding_box": [
+          32.637,
+          34.634,
+          33.273,
+          34.956
+        ],
+        "point": [
+          32.955,
+          34.795
+        ],
+        "labels": {
+          "alt": "Limasol",
+          "local": null,
+          "len": 8,
+          "ar": "منطقة ليماسول",
+          "bn": "লিমাসোল জেলা",
+          "de": "Bezirk Limassol",
+          "en": "Limassol District",
+          "es": "Limasol",
+          "fr": "district de Limassol",
+          "el": "Επαρχία Λεμεσού",
+          "hi": "लिमासोल जिला",
+          "hu": null,
+          "id": "Distrik Limassol",
+          "it": "distretto di Limassol",
+          "ja": "リマソール地区",
+          "ko": "리마솔 구",
+          "nl": "Limasol",
+          "pl": "Dystrykt Limassol",
+          "pt": "Limassol",
+          "ru": "Лимасол",
+          "sv": "Eparchía Lemesoú",
+          "tr": "Limasol Bölgesi",
+          "vi": "Quận Limassol",
+          "zh": "利马索尔区"
+        },
+        "population": 274646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5295,
+          34.917
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cy",
+        "region_child": "cy-05",
+        "area": 0.25958399999999915,
+        "bounding_box": [
+          32.276,
+          34.661,
+          32.783,
+          35.173
+        ],
+        "point": [
+          32.5295,
+          34.917
+        ],
+        "labels": {
+          "alt": "Baf|Pafos",
+          "local": null,
+          "len": 6,
+          "ar": "منطقة بافوس",
+          "bn": null,
+          "de": "Bezirk Paphos",
+          "en": "Paphos District",
+          "es": "Pafos",
+          "fr": "district de Paphos",
+          "el": "Επαρχία Πάφου",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "distretto di Pafo",
+          "ja": "パフォス地区",
+          "ko": "파포스 구",
+          "nl": "Paphos",
+          "pl": "Dystrykt Pafos",
+          "pt": "Pafos",
+          "ru": "Пафос",
+          "sv": "Eparchía Páfou",
+          "tr": "Baf kazası",
+          "vi": null,
+          "zh": "帕福斯区"
+        },
+        "population": 116287
+      }
+    }
+  ]
+}

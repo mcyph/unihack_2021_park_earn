@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0145,
+          38.894000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-dc",
+        "region_child": "001",
+        "area": 0.04304399999999983,
+        "bounding_box": [
+          -77.12,
+          38.792,
+          -76.909,
+          38.996
+        ],
+        "point": [
+          -77.0145,
+          38.894000000000005
+        ],
+        "labels": {
+          "en": "District of Columbia"
+        },
+        "population": 636620
+      }
+    }
+  ]
+}

@@ -1,0 +1,1025 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57300000000001,
+          19.545499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "adilabad",
+        "area": 0.5926780000000056,
+        "bounding_box": [
+          78.172,
+          19.176,
+          78.974,
+          19.915
+        ],
+        "point": [
+          78.57300000000001,
+          19.545499999999997
+        ],
+        "labels": {
+          "en": "Adilabad"
+        },
+        "population": 802151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.459,
+          17.3925
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "hyderabad",
+        "area": 0.032580000000001406,
+        "bounding_box": [
+          78.369,
+          17.302,
+          78.549,
+          17.483
+        ],
+        "point": [
+          78.459,
+          17.3925
+        ],
+        "labels": {
+          "en": "Hyderabad"
+        },
+        "population": 3316924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.908,
+          18.813000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "jagtial",
+        "area": 0.4144880000000056,
+        "bounding_box": [
+          78.514,
+          18.55,
+          79.302,
+          19.076
+        ],
+        "point": [
+          78.908,
+          18.813000000000002
+        ],
+        "labels": {
+          "en": "Jagtial"
+        },
+        "population": 1063267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2195,
+          17.724
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "jangaon",
+        "area": 0.3860219999999961,
+        "bounding_box": [
+          78.866,
+          17.451,
+          79.573,
+          17.997
+        ],
+        "point": [
+          79.2195,
+          17.724
+        ],
+        "labels": {
+          "en": "Jangaon"
+        },
+        "population": 604894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.30449999999999,
+          18.2875
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "mulugu",
+        "area": 0.6745309999999995,
+        "bounding_box": [
+          79.815,
+          17.943,
+          80.794,
+          18.632
+        ],
+        "point": [
+          80.30449999999999,
+          18.2875
+        ],
+        "labels": {
+          "en": "Mulugu"
+        },
+        "population": 309127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.869,
+          16.0995
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "jogulamba gadwal",
+        "area": 0.40368199999999477,
+        "bounding_box": [
+          77.486,
+          15.836,
+          78.252,
+          16.363
+        ],
+        "point": [
+          77.869,
+          16.0995
+        ],
+        "labels": {
+          "en": "Jogulamba Gadwal"
+        },
+        "population": 678227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0445,
+          18.3085
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "kamareddy",
+        "area": 0.5213530000000032,
+        "bounding_box": [
+          77.52,
+          18.06,
+          78.569,
+          18.557
+        ],
+        "point": [
+          78.0445,
+          18.3085
+        ],
+        "labels": {
+          "en": "Kamareddy"
+        },
+        "population": 1052400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.25200000000001,
+          18.4025
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "karimnagar",
+        "area": 0.3586100000000018,
+        "bounding_box": [
+          78.923,
+          18.13,
+          79.581,
+          18.675
+        ],
+        "point": [
+          79.25200000000001,
+          18.4025
+        ],
+        "labels": {
+          "en": "Karimnagar"
+        },
+        "population": 1113264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.363,
+          17.17
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "khammam",
+        "area": 0.9020879999999982,
+        "bounding_box": [
+          79.802,
+          16.768,
+          80.924,
+          17.572
+        ],
+        "point": [
+          80.363,
+          17.17
+        ],
+        "labels": {
+          "en": "Khammam"
+        },
+        "population": 1517067
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.39500000000001,
+          19.323500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "komaram bheem",
+        "area": 0.6867900000000007,
+        "bounding_box": [
+          78.81,
+          19.03,
+          79.98,
+          19.617
+        ],
+        "point": [
+          79.39500000000001,
+          19.323500000000003
+        ],
+        "labels": {
+          "en": "Komaram Bheem"
+        },
+        "population": 562704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.894,
+          17.72
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "mahabubabad",
+        "area": 0.6066720000000028,
+        "bounding_box": [
+          79.511,
+          17.324,
+          80.277,
+          18.116
+        ],
+        "point": [
+          79.894,
+          17.72
+        ],
+        "labels": {
+          "en": "Mahabubabad"
+        },
+        "population": 805083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.022,
+          16.7005
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "mahabubnagar",
+        "area": 0.4349999999999987,
+        "bounding_box": [
+          77.674,
+          16.388,
+          78.37,
+          17.013
+        ],
+        "point": [
+          78.022,
+          16.7005
+        ],
+        "labels": {
+          "en": "Mahabubnagar"
+        },
+        "population": 1070759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.419,
+          18.9825
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "mancherial",
+        "area": 0.6709960000000056,
+        "bounding_box": [
+          78.877,
+          18.673,
+          79.961,
+          19.292
+        ],
+        "point": [
+          79.419,
+          18.9825
+        ],
+        "labels": {
+          "en": "Mancherial"
+        },
+        "population": 750516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1925,
+          17.9485
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "medak",
+        "area": 0.42691500000000016,
+        "bounding_box": [
+          77.795,
+          17.68,
+          78.59,
+          18.217
+        ],
+        "point": [
+          78.1925,
+          17.9485
+        ],
+        "labels": {
+          "en": "Medak"
+        },
+        "population": 856033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.55449999999999,
+          17.5345
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "medchal malkajgiri",
+        "area": 0.14331099999999794,
+        "bounding_box": [
+          78.348,
+          17.361,
+          78.761,
+          17.708
+        ],
+        "point": [
+          78.55449999999999,
+          17.5345
+        ],
+        "labels": {
+          "en": "Medchal Malkajgiri"
+        },
+        "population": 3951711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.667,
+          16.4165
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "nagarkurnool",
+        "area": 0.9423539999999997,
+        "bounding_box": [
+          78.1,
+          16.001,
+          79.234,
+          16.832
+        ],
+        "point": [
+          78.667,
+          16.4165
+        ],
+        "labels": {
+          "en": "Nagarkurnool"
+        },
+        "population": 980144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18100000000001,
+          16.858
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "nalgonda",
+        "area": 1.0421519999999944,
+        "bounding_box": [
+          78.662,
+          16.356,
+          79.7,
+          17.36
+        ],
+        "point": [
+          79.18100000000001,
+          16.858
+        ],
+        "labels": {
+          "en": "Nalgonda"
+        },
+        "population": 1791749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3575,
+          19.093
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "nirmal",
+        "area": 0.5955000000000013,
+        "bounding_box": [
+          77.762,
+          18.843,
+          78.953,
+          19.343
+        ],
+        "point": [
+          78.3575,
+          19.093
+        ],
+        "labels": {
+          "en": "Nirmal"
+        },
+        "population": 747228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2,
+          18.726
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "nizamabad",
+        "area": 0.5451999999999971,
+        "bounding_box": [
+          77.73,
+          18.436,
+          78.67,
+          19.016
+        ],
+        "point": [
+          78.2,
+          18.726
+        ],
+        "labels": {
+          "en": "Nizamabad"
+        },
+        "population": 1718105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4705,
+          18.619999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "peddapalli",
+        "area": 0.33742800000000167,
+        "bounding_box": [
+          79.11,
+          18.386,
+          79.831,
+          18.854
+        ],
+        "point": [
+          79.4705,
+          18.619999999999997
+        ],
+        "labels": {
+          "en": "Peddapalli"
+        },
+        "population": 919590
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.773,
+          18.427999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "rajanna sircilla",
+        "area": 0.21470400000000125,
+        "bounding_box": [
+          78.521,
+          18.215,
+          79.025,
+          18.641
+        ],
+        "point": [
+          78.773,
+          18.427999999999997
+        ],
+        "labels": {
+          "en": "Rajanna Sircilla"
+        },
+        "population": 585829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.382,
+          17.1345
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "ranga reddy",
+        "area": 0.7132859999999949,
+        "bounding_box": [
+          77.923,
+          16.746,
+          78.841,
+          17.523
+        ],
+        "point": [
+          78.382,
+          17.1345
+        ],
+        "labels": {
+          "en": "Ranga Reddy"
+        },
+        "population": 3659257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9465,
+          17.857
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "sangareddy",
+        "area": 0.8640060000000048,
+        "bounding_box": [
+          77.443,
+          17.428,
+          78.45,
+          18.286
+        ],
+        "point": [
+          77.9465,
+          17.857
+        ],
+        "labels": {
+          "en": "Sangareddy"
+        },
+        "population": 1732723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9,
+          18.006
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "siddipet",
+        "area": 0.5421520000000061,
+        "bounding_box": [
+          78.499,
+          17.668,
+          79.301,
+          18.344
+        ],
+        "point": [
+          78.9,
+          18.006
+        ],
+        "labels": {
+          "en": "Siddipet"
+        },
+        "population": 1105565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.71799999999999,
+          17.082
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "suryapet",
+        "area": 0.6347399999999932,
+        "bounding_box": [
+          79.363,
+          16.635,
+          80.073,
+          17.529
+        ],
+        "point": [
+          79.71799999999999,
+          17.082
+        ],
+        "labels": {
+          "en": "Suryapet"
+        },
+        "population": 1152195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.718,
+          17.2705
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "vikarabad",
+        "area": 0.5217959999999976,
+        "bounding_box": [
+          77.364,
+          16.902,
+          78.072,
+          17.639
+        ],
+        "point": [
+          77.718,
+          17.2705
+        ],
+        "labels": {
+          "en": "Vikarabad"
+        },
+        "population": 1306701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.489,
+          17.560000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "vikarabad",
+        "area": 0.0003520000000001285,
+        "bounding_box": [
+          77.478,
+          17.552,
+          77.5,
+          17.568
+        ],
+        "point": [
+          77.489,
+          17.560000000000002
+        ],
+        "labels": {
+          "en": "Vikarabad"
+        },
+        "population": 1306701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9875,
+          16.2835
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "wanaparthy",
+        "area": 0.4433869999999945,
+        "bounding_box": [
+          77.661,
+          15.944,
+          78.314,
+          16.623
+        ],
+        "point": [
+          77.9875,
+          16.2835
+        ],
+        "labels": {
+          "en": "Wanaparthy"
+        },
+        "population": 676379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7375,
+          17.9515
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "warangal",
+        "area": 0.3421710000000043,
+        "bounding_box": [
+          79.481,
+          17.618,
+          79.994,
+          18.285
+        ],
+        "point": [
+          79.7375,
+          17.9515
+        ],
+        "labels": {
+          "en": "Warangal Rural"
+        },
+        "population": 799822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4505,
+          18.027
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "warangal urban",
+        "area": 0.21263999999999916,
+        "bounding_box": [
+          79.229,
+          17.787,
+          79.672,
+          18.267
+        ],
+        "point": [
+          79.4505,
+          18.027
+        ],
+        "labels": {
+          "en": "Warangal Urban"
+        },
+        "population": 1163541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0655,
+          17.4345
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "yadadri bhuvanagiri",
+        "area": 0.6068369999999887,
+        "bounding_box": [
+          78.677,
+          17.044,
+          79.454,
+          17.825
+        ],
+        "point": [
+          79.0655,
+          17.4345
+        ],
+        "labels": {
+          "en": "Yadadri Bhuvanagiri"
+        },
+        "population": 770270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7615,
+          17.715
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "bhadradri kothagudem",
+        "area": 1.1749499999999966,
+        "bounding_box": [
+          80.202,
+          17.19,
+          81.321,
+          18.24
+        ],
+        "point": [
+          80.7615,
+          17.715
+        ],
+        "labels": {
+          "en": "Bhadradri Kothagudem"
+        },
+        "population": 1150035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.95150000000001,
+          18.5005
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "jayashankar bhupalapally",
+        "area": 0.5755050000000005,
+        "bounding_box": [
+          79.56,
+          18.133,
+          80.343,
+          18.868
+        ],
+        "point": [
+          79.95150000000001,
+          18.5005
+        ],
+        "labels": {
+          "en": "Jayashankar Bhupalapally"
+        },
+        "population": 422501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.51750000000001,
+          16.6905
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tg",
+        "region_child": "narayanpet",
+        "area": 0.3935370000000006,
+        "bounding_box": [
+          77.236,
+          16.341,
+          77.799,
+          17.04
+        ],
+        "point": [
+          77.51750000000001,
+          16.6905
+        ],
+        "labels": {
+          "en": "Narayanpet"
+        },
+        "population": 669005
+      }
+    }
+  ]
+}

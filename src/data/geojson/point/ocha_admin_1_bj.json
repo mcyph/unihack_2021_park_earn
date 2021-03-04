@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.934,
+          11.4725
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj01",
+        "area": 3.456869999999999,
+        "bounding_box": [
+          2.019,
+          10.528,
+          3.849,
+          12.417
+        ],
+        "point": [
+          2.934,
+          11.4725
+        ],
+        "labels": {
+          "en": "Alibori"
+        },
+        "population": 1219594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5554999999999999,
+          10.706
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj02",
+        "area": 2.391452,
+        "bounding_box": [
+          0.775,
+          9.94,
+          2.336,
+          11.472
+        ],
+        "point": [
+          1.5554999999999999,
+          10.706
+        ],
+        "labels": {
+          "en": "Atacora"
+        },
+        "population": 1042525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2215,
+          6.624499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj03",
+        "area": 0.37844300000000025,
+        "bounding_box": [
+          1.942,
+          6.286,
+          2.501,
+          6.963
+        ],
+        "point": [
+          2.2215,
+          6.624499999999999
+        ],
+        "labels": {
+          "en": "Atlantique"
+        },
+        "population": 1875858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.906,
+          9.706
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj04",
+        "area": 3.553224000000001,
+        "bounding_box": [
+          1.963,
+          8.764,
+          3.849,
+          10.648
+        ],
+        "point": [
+          2.906,
+          9.706
+        ],
+        "labels": {
+          "en": "Borgou"
+        },
+        "population": 1688641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1895,
+          8.108
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj05",
+        "area": 1.51221,
+        "bounding_box": [
+          1.621,
+          7.443,
+          2.758,
+          8.773
+        ],
+        "point": [
+          2.1895,
+          8.108
+        ],
+        "labels": {
+          "en": "Collines"
+        },
+        "population": 864086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8210000000000002,
+          7.104
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj06",
+        "area": 0.41133200000000003,
+        "bounding_box": [
+          1.558,
+          6.713,
+          2.084,
+          7.495
+        ],
+        "point": [
+          1.8210000000000002,
+          7.104
+        ],
+        "labels": {
+          "en": "Couffo"
+        },
+        "population": 908090
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7845,
+          9.271
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj07",
+        "area": 1.3593599999999992,
+        "bounding_box": [
+          1.342,
+          8.503,
+          2.227,
+          10.039
+        ],
+        "point": [
+          1.7845,
+          9.271
+        ],
+        "labels": {
+          "en": "Donga"
+        },
+        "population": 709494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.428,
+          6.371
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj08",
+        "area": 0.008959999999999892,
+        "bounding_box": [
+          2.358,
+          6.339,
+          2.498,
+          6.403
+        ],
+        "point": [
+          2.428,
+          6.371
+        ],
+        "labels": {
+          "en": "Littoral"
+        },
+        "population": 739849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8125,
+          6.5024999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj09",
+        "area": 0.24387299999999987,
+        "bounding_box": [
+          1.592,
+          6.226,
+          2.033,
+          6.779
+        ],
+        "point": [
+          1.8125,
+          6.5024999999999995
+        ],
+        "labels": {
+          "en": "Mono"
+        },
+        "population": 612895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5635000000000003,
+          6.654
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj10",
+        "area": 0.19218200000000007,
+        "bounding_box": [
+          2.407,
+          6.347,
+          2.72,
+          6.961
+        ],
+        "point": [
+          2.5635000000000003,
+          6.654
+        ],
+        "labels": {
+          "en": "Oueme"
+        },
+        "population": 1460410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6005000000000003,
+          7.099
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj11",
+        "area": 0.45979799999999993,
+        "bounding_box": [
+          2.406,
+          6.508,
+          2.795,
+          7.69
+        ],
+        "point": [
+          2.6005000000000003,
+          7.099
+        ],
+        "labels": {
+          "en": "Plateau"
+        },
+        "population": 811891
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0925,
+          7.2925
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "bj",
+        "region_child": "bj12",
+        "area": 0.6802509999999992,
+        "bounding_box": [
+          1.631,
+          6.924,
+          2.554,
+          7.661
+        ],
+        "point": [
+          2.0925,
+          7.2925
+        ],
+        "labels": {
+          "en": "Zou"
+        },
+        "population": 1089453
+      }
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5255,
+          32.504
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "lahaul and spiti",
+        "area": 3.4592820000000093,
+        "bounding_box": [
+          76.377,
+          31.751,
+          78.674,
+          33.257
+        ],
+        "point": [
+          77.5255,
+          32.504
+        ],
+        "labels": {
+          "en": "Lahaul and Spiti"
+        },
+        "population": 31003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.34049999999999,
+          32.693
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "chamba",
+        "area": 1.1156859999999922,
+        "bounding_box": [
+          75.801,
+          32.176,
+          76.88,
+          33.21
+        ],
+        "point": [
+          76.34049999999999,
+          32.693
+        ],
+        "labels": {
+          "en": "Chamba"
+        },
+        "population": 587449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3365,
+          32.075500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "kangra",
+        "area": 1.1552570000000084,
+        "bounding_box": [
+          75.595,
+          31.686,
+          77.078,
+          32.465
+        ],
+        "point": [
+          76.3365,
+          32.075500000000005
+        ],
+        "labels": {
+          "en": "Kangra"
+        },
+        "population": 1702615
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.402,
+          31.877499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "kullu",
+        "area": 1.0040499999999966,
+        "bounding_box": [
+          76.935,
+          31.34,
+          77.869,
+          32.415
+        ],
+        "point": [
+          77.402,
+          31.877499999999998
+        ],
+        "labels": {
+          "en": "Kullu"
+        },
+        "population": 459741
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0035,
+          31.65
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "mandi",
+        "area": 0.6426000000000004,
+        "bounding_box": [
+          76.621,
+          31.23,
+          77.386,
+          32.07
+        ],
+        "point": [
+          77.0035,
+          31.65
+        ],
+        "labels": {
+          "en": "Mandi"
+        },
+        "population": 1132122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3785,
+          31.593
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "kinnaur",
+        "area": 1.2483899999999983,
+        "bounding_box": [
+          77.748,
+          31.098,
+          79.009,
+          32.088
+        ],
+        "point": [
+          78.3785,
+          31.593
+        ],
+        "labels": {
+          "en": "Kinnaur"
+        },
+        "population": 87767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.208,
+          31.5835
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "una",
+        "area": 0.3062300000000016,
+        "bounding_box": [
+          75.937,
+          31.301,
+          76.479,
+          31.866
+        ],
+        "point": [
+          76.208,
+          31.5835
+        ],
+        "labels": {
+          "en": "Una"
+        },
+        "population": 576216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65,
+          31.238999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "shimla",
+        "area": 1.2559000000000016,
+        "bounding_box": [
+          76.989,
+          30.764,
+          78.311,
+          31.714
+        ],
+        "point": [
+          77.65,
+          31.238999999999997
+        ],
+        "labels": {
+          "en": "Shimla"
+        },
+        "population": 904887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.925,
+          31.0565
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "solan",
+        "area": 0.4010500000000018,
+        "bounding_box": [
+          76.6,
+          30.748,
+          77.25,
+          31.365
+        ],
+        "point": [
+          76.925,
+          31.0565
+        ],
+        "labels": {
+          "en": "Solan"
+        },
+        "population": 678554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.425,
+          30.6995
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "sirmaur",
+        "area": 0.5169720000000019,
+        "bounding_box": [
+          77.023,
+          30.378,
+          77.827,
+          31.021
+        ],
+        "point": [
+          77.425,
+          30.6995
+        ],
+        "labels": {
+          "en": "Sirmaur"
+        },
+        "population": 565316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5155,
+          31.6545
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "hamirpur",
+        "area": 0.20472499999999783,
+        "bounding_box": [
+          76.3,
+          31.417,
+          76.731,
+          31.892
+        ],
+        "point": [
+          76.5155,
+          31.6545
+        ],
+        "labels": {
+          "en": "Hamirpur"
+        },
+        "population": 502072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.66,
+          31.402
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-hp",
+        "region_child": "bilaspur",
+        "area": 0.2068960000000001,
+        "bounding_box": [
+          76.392,
+          31.209,
+          76.928,
+          31.595
+        ],
+        "point": [
+          76.66,
+          31.402
+        ],
+        "labels": {
+          "en": "Bilaspur"
+        },
+        "population": 514057
+      }
+    }
+  ]
+}

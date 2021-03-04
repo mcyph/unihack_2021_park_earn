@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -169.851,
+              -18.965
+            ],
+            [
+              -169.896,
+              -18.965
+            ],
+            [
+              -169.95,
+              -19.087
+            ],
+            [
+              -169.899,
+              -19.143
+            ],
+            [
+              -169.824,
+              -19.102
+            ],
+            [
+              -169.794,
+              -19.047
+            ],
+            [
+              -169.825,
+              -18.968
+            ],
+            [
+              -169.851,
+              -18.965
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "nu",
+        "region_child": "nu-x01~",
+        "area": 0.027767999999996122,
+        "bounding_box": [
+          -169.95,
+          -19.143,
+          -169.794,
+          -18.965
+        ],
+        "point": [
+          -169.872,
+          -19.054000000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 1133
+      }
+    }
+  ]
+}

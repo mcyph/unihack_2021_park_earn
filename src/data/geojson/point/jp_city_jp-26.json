@@ -1,0 +1,191 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8655,
+          34.831500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-26",
+        "region_child": "26204",
+        "area": 0.09312099999999435,
+        "bounding_box": [
+          135.68,
+          34.706,
+          136.051,
+          34.957
+        ],
+        "point": [
+          135.8655,
+          34.831500000000005
+        ],
+        "labels": {
+          "ja": "山城管",
+          "en": "yamashiro-kan"
+        },
+        "population": 545077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6805,
+          34.9285
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-26",
+        "region_child": "26208",
+        "area": 0.006074999999999309,
+        "bounding_box": [
+          135.643,
+          34.888,
+          135.718,
+          34.969
+        ],
+        "point": [
+          135.6805,
+          34.9285
+        ],
+        "labels": {
+          "ja": "乙訓管内",
+          "en": "otokuni-kan"
+        },
+        "population": 152365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7185,
+          35.098
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-26",
+        "region_child": "26104",
+        "area": 0.14227399999999418,
+        "bounding_box": [
+          135.559,
+          34.875,
+          135.878,
+          35.321
+        ],
+        "point": [
+          135.7185,
+          35.098
+        ],
+        "labels": {
+          "ja": "京都市",
+          "en": "kyoto-shi"
+        },
+        "population": 1448753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2255,
+          35.3825
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-26",
+        "region_child": "26203",
+        "area": 0.27333099999999433,
+        "bounding_box": [
+          134.917,
+          35.161,
+          135.534,
+          35.604
+        ],
+        "point": [
+          135.2255,
+          35.3825
+        ],
+        "labels": {
+          "ja": "中丹管",
+          "en": "nakatan-kan"
+        },
+        "population": 195602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.53699999999998,
+          35.146
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-26",
+        "region_child": "26206",
+        "area": 0.2383919999999976,
+        "bounding_box": [
+          135.279,
+          34.915,
+          135.795,
+          35.377
+        ],
+        "point": [
+          135.53699999999998,
+          35.146
+        ],
+        "labels": {
+          "ja": "南丹管",
+          "en": "nantan-kan"
+        },
+        "population": 143487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0815,
+          35.61150000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-26",
+        "region_child": "26212",
+        "area": 0.15242499999999506,
+        "bounding_box": [
+          134.854,
+          35.444,
+          135.309,
+          35.779
+        ],
+        "point": [
+          135.0815,
+          35.61150000000001
+        ],
+        "labels": {
+          "ja": "丹後管",
+          "en": "tango-kan"
+        },
+        "population": 101777
+      }
+    }
+  ]
+}

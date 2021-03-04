@@ -1,0 +1,2585 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.47749999999999,
+          28.0565
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-ar",
+        "area": 16.40218499999998,
+        "bounding_box": [
+          91.56,
+          26.651,
+          97.395,
+          29.462
+        ],
+        "point": [
+          94.47749999999999,
+          28.0565
+        ],
+        "labels": {
+          "en": "Arunachal Pradesh"
+        },
+        "population": 1778369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8675,
+          26.054000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-as",
+        "area": 24.17063600000002,
+        "bounding_box": [
+          89.717,
+          24.136,
+          96.018,
+          27.972
+        ],
+        "point": [
+          92.8675,
+          26.054000000000002
+        ],
+        "labels": {
+          "en": "Assam"
+        },
+        "population": 35798936
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7805,
+          30.731
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-ch",
+        "area": 0.017536000000000072,
+        "bounding_box": [
+          76.712,
+          30.667,
+          76.849,
+          30.795
+        ],
+        "point": [
+          76.7805,
+          30.731
+        ],
+        "labels": {
+          "en": "Chandigarh"
+        },
+        "population": 872123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3315,
+          15.021
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-ka",
+        "area": 30.736404000000004,
+        "bounding_box": [
+          74.086,
+          11.599,
+          78.577,
+          18.443
+        ],
+        "point": [
+          76.3315,
+          15.021
+        ],
+        "labels": {
+          "en": "Karnataka"
+        },
+        "population": 70196038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.866,
+          24.756999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-mn",
+        "area": 3.2130000000000036,
+        "bounding_box": [
+          92.991,
+          23.839,
+          94.741,
+          25.675
+        ],
+        "point": [
+          93.866,
+          24.756999999999998
+        ],
+        "labels": {
+          "en": "Manipur"
+        },
+        "population": 3557257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.303,
+          25.573999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-ml",
+        "area": 3.2400640000000016,
+        "bounding_box": [
+          89.814,
+          25.03,
+          92.792,
+          26.118
+        ],
+        "point": [
+          91.303,
+          25.573999999999998
+        ],
+        "labels": {
+          "en": "Meghalaya"
+        },
+        "population": 3901839
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8425,
+          23.250500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-mz",
+        "area": 2.975510999999981,
+        "bounding_box": [
+          92.257,
+          21.98,
+          93.428,
+          24.521
+        ],
+        "point": [
+          92.8425,
+          23.250500000000002
+        ],
+        "labels": {
+          "en": "Mizoram"
+        },
+        "population": 1357258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2935,
+          26.115000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-nl",
+        "area": 3.445991999999995,
+        "bounding_box": [
+          93.353,
+          25.199,
+          95.234,
+          27.031
+        ],
+        "point": [
+          94.2935,
+          26.115000000000002
+        ],
+        "labels": {
+          "en": "Nagaland"
+        },
+        "population": 2068042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4095,
+          31.029
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-pb",
+        "area": 9.072993999999996,
+        "bounding_box": [
+          73.88,
+          29.546,
+          76.939,
+          32.512
+        ],
+        "point": [
+          75.4095,
+          31.029
+        ],
+        "labels": {
+          "en": "Punjab"
+        },
+        "population": 31625824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.878,
+          26.6295
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-rj",
+        "area": 62.71995600000008,
+        "bounding_box": [
+          69.484,
+          23.061,
+          78.272,
+          30.198
+        ],
+        "point": [
+          73.878,
+          26.6295
+        ],
+        "labels": {
+          "en": "Rajasthan"
+        },
+        "population": 81992734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.464,
+          27.5885
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-sk",
+        "area": 0.9150619999999946,
+        "bounding_box": [
+          88.015,
+          27.079,
+          88.913,
+          28.098
+        ],
+        "point": [
+          88.464,
+          27.5885
+        ],
+        "labels": {
+          "en": "Sikkim"
+        },
+        "population": 685818
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.73949999999999,
+          23.741500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-tr",
+        "area": 1.8427829999999823,
+        "bounding_box": [
+          91.153,
+          22.956,
+          92.326,
+          24.527
+        ],
+        "point": [
+          91.73949999999999,
+          23.741500000000002
+        ],
+        "labels": {
+          "en": "Tripura"
+        },
+        "population": 4337110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3055,
+          30.0875
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-ut",
+        "area": 9.439611000000019,
+        "bounding_box": [
+          77.576,
+          28.723,
+          81.035,
+          31.452
+        ],
+        "point": [
+          79.3055,
+          30.0875
+        ],
+        "labels": {
+          "en": "Uttarakhand"
+        },
+        "population": 12002744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2935,
+          17.875500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-tg",
+        "area": 16.548542999999995,
+        "bounding_box": [
+          77.264,
+          15.837,
+          81.323,
+          19.914
+        ],
+        "point": [
+          79.2935,
+          17.875500000000002
+        ],
+        "labels": {
+          "en": "Telangana"
+        },
+        "population": 39815579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8125,
+          25.9045
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-br",
+        "area": 15.96778699999998,
+        "bounding_box": [
+          83.343,
+          24.288,
+          88.282,
+          27.521
+        ],
+        "point": [
+          85.8125,
+          25.9045
+        ],
+        "labels": {
+          "en": "Bihar"
+        },
+        "population": 128158938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1345,
+          10.535499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-kl",
+        "area": 11.347622999999984,
+        "bounding_box": [
+          74.87,
+          8.292,
+          77.399,
+          12.779
+        ],
+        "point": [
+          76.1345,
+          10.535499999999999
+        ],
+        "labels": {
+          "en": "Kerala"
+        },
+        "population": 34595827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4365,
+          23.9695
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-mp",
+        "area": 50.723853,
+        "bounding_box": [
+          74.063,
+          21.07,
+          82.81,
+          26.869
+        ],
+        "point": [
+          78.4365,
+          23.9695
+        ],
+        "labels": {
+          "en": "Madhya Pradesh"
+        },
+        "population": 85827041
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.652,
+          11.8635
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.2072760000000082,
+        "bounding_box": [
+          92.514,
+          11.488,
+          92.79,
+          12.239
+        ],
+        "point": [
+          92.652,
+          11.8635
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9245,
+          13.2255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.18152500000000052,
+        "bounding_box": [
+          92.792,
+          12.883,
+          93.057,
+          13.568
+        ],
+        "point": [
+          92.9245,
+          13.2255
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.835,
+          12.6055
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.16741400000000026,
+        "bounding_box": [
+          92.698,
+          12.3,
+          92.972,
+          12.911
+        ],
+        "point": [
+          92.835,
+          12.6055
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.795,
+          7.008
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.12806400000000498,
+        "bounding_box": [
+          93.657,
+          6.776,
+          93.933,
+          7.24
+        ],
+        "point": [
+          93.795,
+          7.008
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4875,
+          10.706
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.08409599999999781,
+        "bounding_box": [
+          92.378,
+          10.514,
+          92.597,
+          10.898
+        ],
+        "point": [
+          92.4875,
+          10.706
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.806,
+          12.188500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.033863999999999,
+        "bounding_box": [
+          92.738,
+          12.064,
+          92.874,
+          12.313
+        ],
+        "point": [
+          92.806,
+          12.188500000000001
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.68,
+          7.345
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.025451999999998087,
+        "bounding_box": [
+          93.617,
+          7.244,
+          93.743,
+          7.446
+        ],
+        "point": [
+          93.68,
+          7.345
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.376,
+          7.953
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.02069999999999881,
+        "bounding_box": [
+          93.301,
+          7.884,
+          93.451,
+          8.022
+        ],
+        "point": [
+          93.376,
+          7.953
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.99549999999999,
+          11.961500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.018284999999999267,
+        "bounding_box": [
+          92.938,
+          11.882,
+          93.053,
+          12.041
+        ],
+        "point": [
+          92.99549999999999,
+          11.961500000000001
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.638,
+          11.4285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.016829999999998208,
+        "bounding_box": [
+          92.587,
+          11.346,
+          92.689,
+          11.511
+        ],
+        "point": [
+          92.638,
+          11.4285
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4935,
+          8.1525
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.01567499999999973,
+        "bounding_box": [
+          93.446,
+          8.07,
+          93.541,
+          8.235
+        ],
+        "point": [
+          93.4935,
+          8.1525
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.685,
+          12.901499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.013245999999999675,
+        "bounding_box": [
+          92.648,
+          12.812,
+          92.722,
+          12.991
+        ],
+        "point": [
+          92.685,
+          12.901499999999999
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.77199999999999,
+          9.181000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.012760000000000092,
+        "bounding_box": [
+          92.717,
+          9.123,
+          92.827,
+          9.239
+        ],
+        "point": [
+          92.77199999999999,
+          9.181000000000001
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.111,
+          8.291
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.009504000000000337,
+        "bounding_box": [
+          93.075,
+          8.225,
+          93.147,
+          8.357
+        ],
+        "point": [
+          93.111,
+          8.291
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.065,
+          12.1475
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.0072499999999990905,
+        "bounding_box": [
+          93.036,
+          12.085,
+          93.094,
+          12.21
+        ],
+        "point": [
+          93.065,
+          12.1475
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5345,
+          7.9815000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.006602999999999871,
+        "bounding_box": [
+          93.499,
+          7.935,
+          93.57,
+          8.028
+        ],
+        "point": [
+          93.5345,
+          7.9815000000000005
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2425,
+          11.563
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.0037760000000007527,
+        "bounding_box": [
+          92.213,
+          11.531,
+          92.272,
+          11.595
+        ],
+        "point": [
+          92.2425,
+          11.563
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.98,
+          12.077
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.002784000000000097,
+        "bounding_box": [
+          92.956,
+          12.048,
+          93.004,
+          12.106
+        ],
+        "point": [
+          92.98,
+          12.077
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.97749999999999,
+          12.136
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.002448000000000095,
+        "bounding_box": [
+          92.952,
+          12.112,
+          93.003,
+          12.16
+        ],
+        "point": [
+          92.97749999999999,
+          12.136
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.742,
+          12.211500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-an",
+        "area": 0.002394000000000107,
+        "bounding_box": [
+          92.721,
+          12.183,
+          92.763,
+          12.24
+        ],
+        "point": [
+          92.742,
+          12.211500000000001
+        ],
+        "labels": {
+          "en": "Andaman & Nicobar"
+        },
+        "population": 359511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.2855,
+          22.416
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-gj",
+        "area": 29.310736000000038,
+        "bounding_box": [
+          68.094,
+          20.12,
+          74.477,
+          24.712
+        ],
+        "point": [
+          71.2855,
+          22.416
+        ],
+        "labels": {
+          "en": "Gujarat"
+        },
+        "population": 70433950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.366,
+          21.913
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-gj",
+        "area": 0.03387199999999679,
+        "bounding_box": [
+          72.293,
+          21.797,
+          72.439,
+          22.029
+        ],
+        "point": [
+          72.366,
+          21.913
+        ],
+        "labels": {
+          "en": "Gujarat"
+        },
+        "population": 70433950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6235,
+          22.432499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-gj",
+        "area": 0.0035509999999996877,
+        "bounding_box": [
+          69.59,
+          22.406,
+          69.657,
+          22.459
+        ],
+        "point": [
+          69.6235,
+          22.432499999999997
+        ],
+        "labels": {
+          "en": "Gujarat"
+        },
+        "population": 70433950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04650000000001,
+          8.2685
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-ld",
+        "area": 0.00013500000000001022,
+        "bounding_box": [
+          73.039,
+          8.264,
+          73.054,
+          8.273
+        ],
+        "point": [
+          73.04650000000001,
+          8.2685
+        ],
+        "labels": {
+          "en": "Lakshadweep"
+        },
+        "population": 953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.441,
+          20.185000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-or",
+        "area": 28.87878000000002,
+        "bounding_box": [
+          81.396,
+          17.814,
+          87.486,
+          22.556
+        ],
+        "point": [
+          84.441,
+          20.185000000000002
+        ],
+        "labels": {
+          "en": "Odisha"
+        },
+        "population": 47428391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0625,
+          20.201
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-dn",
+        "area": 0.08969799999999689,
+        "bounding_box": [
+          72.912,
+          20.052,
+          73.213,
+          20.35
+        ],
+        "point": [
+          73.0625,
+          20.201
+        ],
+        "labels": {
+          "en": "Dadra and Nagar Haveli and Daman and Diu"
+        },
+        "population": 725109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.856,
+          20.417499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-dn",
+        "area": 0.0069300000000007455,
+        "bounding_box": [
+          72.821,
+          20.368,
+          72.891,
+          20.467
+        ],
+        "point": [
+          72.856,
+          20.417499999999997
+        ],
+        "labels": {
+          "en": "Dadra and Nagar Haveli and Daman and Diu"
+        },
+        "population": 725109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.96350000000001,
+          20.723999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-dn",
+        "area": 0.0033060000000001474,
+        "bounding_box": [
+          70.92,
+          20.705,
+          71.007,
+          20.743
+        ],
+        "point": [
+          70.96350000000001,
+          20.723999999999997
+        ],
+        "labels": {
+          "en": "Dadra and Nagar Haveli and Daman and Diu"
+        },
+        "population": 725109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.429,
+          34.721999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-la",
+        "area": 36.71915999999997,
+        "bounding_box": [
+          72.531,
+          32.367,
+          80.327,
+          37.077
+        ],
+        "point": [
+          76.429,
+          34.721999999999994
+        ],
+        "labels": {
+          "en": "Ladakh"
+        },
+        "population": 1450449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.088,
+          33.713
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-jk",
+        "area": 9.486559999999981,
+        "bounding_box": [
+          73.4,
+          32.308,
+          76.776,
+          35.118
+        ],
+        "point": [
+          75.088,
+          33.713
+        ],
+        "labels": {
+          "en": "Jammu & Kashmir"
+        },
+        "population": 18595620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.32,
+          20.942
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-ct",
+        "area": 26.240640000000006,
+        "bounding_box": [
+          80.244,
+          17.782,
+          84.396,
+          24.102
+        ],
+        "point": [
+          82.32,
+          20.942
+        ],
+        "labels": {
+          "en": "Chhattisgarh"
+        },
+        "population": 30122189
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0935,
+          28.637999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-dl",
+        "area": 0.2343979999999988,
+        "bounding_box": [
+          76.842,
+          28.405,
+          77.345,
+          28.871
+        ],
+        "point": [
+          77.0935,
+          28.637999999999998
+        ],
+        "labels": {
+          "en": "Delhi"
+        },
+        "population": 19720332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0055,
+          15.350999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-ga",
+        "area": 0.5949000000000014,
+        "bounding_box": [
+          73.675,
+          14.901,
+          74.336,
+          15.801
+        ],
+        "point": [
+          74.0055,
+          15.350999999999999
+        ],
+        "labels": {
+          "en": "Goa"
+        },
+        "population": 1534187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.03200000000001,
+          29.2905
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-hr",
+        "area": 10.179029999999997,
+        "bounding_box": [
+          74.477,
+          27.654,
+          77.587,
+          30.927
+        ],
+        "point": [
+          76.03200000000001,
+          29.2905
+        ],
+        "labels": {
+          "en": "Haryana"
+        },
+        "population": 30221639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3035,
+          31.814999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-hp",
+        "area": 9.772350000000007,
+        "bounding_box": [
+          75.601,
+          30.38,
+          79.006,
+          33.25
+        ],
+        "point": [
+          77.3035,
+          31.814999999999998
+        ],
+        "labels": {
+          "en": "Himachal Pradesh"
+        },
+        "population": 7710570
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6455,
+          23.654
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-jh",
+        "area": 15.550897999999988,
+        "bounding_box": [
+          83.33,
+          21.975,
+          87.961,
+          25.333
+        ],
+        "point": [
+          85.6455,
+          23.654
+        ],
+        "labels": {
+          "en": "Jharkhand"
+        },
+        "population": 40074925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2895,
+          10.8205
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-tn",
+        "area": 22.568030999999998,
+        "bounding_box": [
+          76.233,
+          8.077,
+          80.346,
+          13.564
+        ],
+        "point": [
+          78.2895,
+          10.8205
+        ],
+        "labels": {
+          "en": "Tamil Nadu"
+        },
+        "population": 82760845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8605,
+          27.133499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-up",
+        "area": 49.141782999999954,
+        "bounding_box": [
+          77.096,
+          23.87,
+          84.625,
+          30.397
+        ],
+        "point": [
+          80.8605,
+          27.133499999999998
+        ],
+        "labels": {
+          "en": "Uttar Pradesh"
+        },
+        "population": 236109571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.399,
+          25.061999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-up",
+        "area": 0.003000000000000618,
+        "bounding_box": [
+          79.374,
+          25.032,
+          79.424,
+          25.092
+        ],
+        "point": [
+          79.399,
+          25.061999999999998
+        ],
+        "labels": {
+          "en": "Uttar Pradesh"
+        },
+        "population": 236109571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8455,
+          24.3845
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 22.897095000000043,
+        "bounding_box": [
+          85.821,
+          21.557,
+          89.87,
+          27.212
+        ],
+        "point": [
+          87.8455,
+          24.3845
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.757,
+          21.7785
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.03161600000000001,
+        "bounding_box": [
+          88.693,
+          21.655,
+          88.821,
+          21.902
+        ],
+        "point": [
+          88.757,
+          21.7785
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.025,
+          21.694
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.02284800000000156,
+        "bounding_box": [
+          88.957,
+          21.61,
+          89.093,
+          21.778
+        ],
+        "point": [
+          89.025,
+          21.694
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.09,
+          21.7045
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.018354000000000852,
+        "bounding_box": [
+          88.033,
+          21.624,
+          88.147,
+          21.785
+        ],
+        "point": [
+          88.09,
+          21.7045
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.90899999999999,
+          21.8385
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.017747999999999795,
+        "bounding_box": [
+          88.851,
+          21.762,
+          88.967,
+          21.915
+        ],
+        "point": [
+          88.90899999999999,
+          21.8385
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.822,
+          21.6925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.009995999999999578,
+        "bounding_box": [
+          88.788,
+          21.619,
+          88.856,
+          21.766
+        ],
+        "point": [
+          88.822,
+          21.6925
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5635,
+          21.734
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.009918000000000442,
+        "bounding_box": [
+          88.52,
+          21.677,
+          88.607,
+          21.791
+        ],
+        "point": [
+          88.5635,
+          21.734
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.44149999999999,
+          21.8575
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.009602999999999445,
+        "bounding_box": [
+          88.393,
+          21.808,
+          88.49,
+          21.907
+        ],
+        "point": [
+          88.44149999999999,
+          21.8575
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4445,
+          21.701
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.009539999999999493,
+        "bounding_box": [
+          88.418,
+          21.611,
+          88.471,
+          21.791
+        ],
+        "point": [
+          88.4445,
+          21.701
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1385,
+          21.805500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.008775000000001714,
+        "bounding_box": [
+          88.106,
+          21.738,
+          88.171,
+          21.873
+        ],
+        "point": [
+          88.1385,
+          21.805500000000002
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.902,
+          21.685499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.007629999999999131,
+        "bounding_box": [
+          88.867,
+          21.631,
+          88.937,
+          21.74
+        ],
+        "point": [
+          88.902,
+          21.685499999999998
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.314,
+          21.8185
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.006389999999999049,
+        "bounding_box": [
+          88.269,
+          21.783,
+          88.359,
+          21.854
+        ],
+        "point": [
+          88.314,
+          21.8185
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.751,
+          21.5995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.0060300000000002435,
+        "bounding_box": [
+          88.706,
+          21.566,
+          88.796,
+          21.633
+        ],
+        "point": [
+          88.751,
+          21.5995
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.992,
+          21.856
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.005760000000000352,
+        "bounding_box": [
+          88.956,
+          21.816,
+          89.028,
+          21.896
+        ],
+        "point": [
+          88.992,
+          21.856
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8675,
+          21.569000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.005544000000000829,
+        "bounding_box": [
+          88.829,
+          21.533,
+          88.906,
+          21.605
+        ],
+        "point": [
+          88.8675,
+          21.569000000000003
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5495,
+          21.609
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.005537999999999798,
+        "bounding_box": [
+          88.514,
+          21.57,
+          88.585,
+          21.648
+        ],
+        "point": [
+          88.5495,
+          21.609
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.95949999999999,
+          21.7015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.004894999999999267,
+        "bounding_box": [
+          88.932,
+          21.657,
+          88.987,
+          21.746
+        ],
+        "point": [
+          88.95949999999999,
+          21.7015
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8655,
+          21.8215
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.0043069999999998405,
+        "bounding_box": [
+          88.836,
+          21.785,
+          88.895,
+          21.858
+        ],
+        "point": [
+          88.8655,
+          21.8215
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.32900000000001,
+          21.6565
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.003761999999999681,
+        "bounding_box": [
+          88.31,
+          21.607,
+          88.348,
+          21.706
+        ],
+        "point": [
+          88.32900000000001,
+          21.6565
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3275,
+          21.762
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.0036039999999997,
+        "bounding_box": [
+          88.301,
+          21.728,
+          88.354,
+          21.796
+        ],
+        "point": [
+          88.3275,
+          21.762
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.63300000000001,
+          21.829500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.0030779999999997146,
+        "bounding_box": [
+          88.614,
+          21.789,
+          88.652,
+          21.87
+        ],
+        "point": [
+          88.63300000000001,
+          21.829500000000003
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7735,
+          21.902
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.003066000000000172,
+        "bounding_box": [
+          88.737,
+          21.881,
+          88.81,
+          21.923
+        ],
+        "point": [
+          88.7735,
+          21.902
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.51750000000001,
+          21.561999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.002736000000000005,
+        "bounding_box": [
+          88.489,
+          21.538,
+          88.546,
+          21.586
+        ],
+        "point": [
+          88.51750000000001,
+          21.561999999999998
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.9705,
+          21.618
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-wb",
+        "area": 0.002131999999999818,
+        "bounding_box": [
+          87.95,
+          21.592,
+          87.991,
+          21.644
+        ],
+        "point": [
+          87.9705,
+          21.618
+        ],
+        "labels": {
+          "en": "West Bengal"
+        },
+        "population": 101763542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.765,
+          15.896
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-ap",
+        "area": 52.33600000000001,
+        "bounding_box": [
+          76.765,
+          12.625,
+          84.765,
+          19.167
+        ],
+        "point": [
+          80.765,
+          15.896
+        ],
+        "labels": {
+          "en": "Andhra Pradesh"
+        },
+        "population": 53853605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7665,
+          11.9145
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-py",
+        "area": 0.023393000000000146,
+        "bounding_box": [
+          79.692,
+          11.836,
+          79.841,
+          11.993
+        ],
+        "point": [
+          79.7665,
+          11.9145
+        ],
+        "labels": {
+          "en": "Puducherry"
+        },
+        "population": 1185223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7875,
+          10.9155
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-py",
+        "area": 0.023274999999999317,
+        "bounding_box": [
+          79.721,
+          10.828,
+          79.854,
+          11.003
+        ],
+        "point": [
+          79.7875,
+          10.9155
+        ],
+        "labels": {
+          "en": "Puducherry"
+        },
+        "population": 1185223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7635,
+          11.8085
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-py",
+        "area": 0.005829000000000236,
+        "bounding_box": [
+          79.72,
+          11.775,
+          79.807,
+          11.842
+        ],
+        "point": [
+          79.7635,
+          11.8085
+        ],
+        "labels": {
+          "en": "Puducherry"
+        },
+        "population": 1185223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.64349999999999,
+          11.947
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-py",
+        "area": 0.0039780000000002105,
+        "bounding_box": [
+          79.618,
+          11.908,
+          79.669,
+          11.986
+        ],
+        "point": [
+          79.64349999999999,
+          11.947
+        ],
+        "labels": {
+          "en": "Puducherry"
+        },
+        "population": 1185223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7755,
+          18.820500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "in",
+        "region_child": "in-mh",
+        "area": 52.898979000000004,
+        "bounding_box": [
+          72.655,
+          15.611,
+          80.896,
+          22.03
+        ],
+        "point": [
+          76.7755,
+          18.820500000000003
+        ],
+        "labels": {
+          "en": "Maharashtra"
+        },
+        "population": 128615451
+      }
+    }
+  ]
+}

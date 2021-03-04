@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59700000000001,
+          39.565
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-de",
+        "region_child": "003",
+        "area": 0.2104320000000009,
+        "bounding_box": [
+          -75.789,
+          39.291,
+          -75.405,
+          39.839
+        ],
+        "point": [
+          -75.59700000000001,
+          39.565
+        ],
+        "labels": {
+          "en": "New Castle"
+        },
+        "population": 581124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3535,
+          38.727000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-de",
+        "region_child": "005",
+        "area": 0.40792800000000207,
+        "bounding_box": [
+          -75.723,
+          38.451,
+          -74.984,
+          39.003
+        ],
+        "point": [
+          -75.3535,
+          38.727000000000004
+        ],
+        "labels": {
+          "en": "Sussex"
+        },
+        "population": 248803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.44900000000001,
+          39.108999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-de",
+        "region_child": "001",
+        "area": 0.34707599999999983,
+        "bounding_box": [
+          -75.76,
+          38.83,
+          -75.138,
+          39.388
+        ],
+        "point": [
+          -75.44900000000001,
+          39.108999999999995
+        ],
+        "labels": {
+          "en": "Kent"
+        },
+        "population": 206708
+      }
+    }
+  ]
+}

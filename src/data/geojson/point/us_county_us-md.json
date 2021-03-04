@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32400000000001,
+          38.223
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "047",
+        "area": 0.30960799999999983,
+        "bounding_box": [
+          -75.662,
+          37.994,
+          -74.986,
+          38.452
+        ],
+        "point": [
+          -75.32400000000001,
+          38.223
+        ],
+        "labels": {
+          "en": "Worcester"
+        },
+        "population": 56278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6925,
+          39.581
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "001",
+        "area": 0.21328400000000056,
+        "bounding_box": [
+          -79.068,
+          39.439,
+          -78.317,
+          39.723
+        ],
+        "point": [
+          -78.6925,
+          39.581
+        ],
+        "labels": {
+          "en": "Allegany"
+        },
+        "population": 76389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.62,
+          39.2845
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "510",
+        "area": 0.03184999999999986,
+        "bounding_box": [
+          -76.711,
+          39.197,
+          -76.529,
+          39.372
+        ],
+        "point": [
+          -76.62,
+          39.2845
+        ],
+        "labels": {
+          "en": "Baltimore"
+        },
+        "population": 611611
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0,
+          39.543
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "015",
+        "area": 0.16682800000000483,
+        "bounding_box": [
+          -76.233,
+          39.364,
+          -75.767,
+          39.722
+        ],
+        "point": [
+          -76.0,
+          39.543
+        ],
+        "labels": {
+          "en": "Cecil"
+        },
+        "population": 116898
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5915,
+          39.43899999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "005",
+        "area": 0.34234799999999965,
+        "bounding_box": [
+          -76.895,
+          39.157,
+          -76.288,
+          39.721
+        ],
+        "point": [
+          -76.5915,
+          39.43899999999999
+        ],
+        "labels": {
+          "en": "Baltimore"
+        },
+        "population": 843738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0485,
+          39.535
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "013",
+        "area": 0.1945559999999985,
+        "bounding_box": [
+          -77.31,
+          39.349,
+          -76.787,
+          39.721
+        ],
+        "point": [
+          -77.0485,
+          39.535
+        ],
+        "labels": {
+          "en": "Carroll"
+        },
+        "population": 184361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.512,
+          38.537
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "009",
+        "area": 0.17631999999999737,
+        "bounding_box": [
+          -76.702,
+          38.305,
+          -76.322,
+          38.769
+        ],
+        "point": [
+          -76.512,
+          38.537
+        ],
+        "labels": {
+          "en": "Calvert"
+        },
+        "population": 105772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0705,
+          38.381
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "019",
+        "area": 0.4761019999999972,
+        "bounding_box": [
+          -76.439,
+          38.058,
+          -75.702,
+          38.704
+        ],
+        "point": [
+          -76.0705,
+          38.381
+        ],
+        "labels": {
+          "en": "Dorchester"
+        },
+        "population": 34573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59450000000001,
+          38.974000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "003",
+        "area": 0.2582660000000015,
+        "bounding_box": [
+          -76.84,
+          38.711,
+          -76.349,
+          39.237
+        ],
+        "point": [
+          -76.59450000000001,
+          38.974000000000004
+        ],
+        "labels": {
+          "en": "Anne Arundel"
+        },
+        "population": 587804
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.392,
+          39.47
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "021",
+        "area": 0.2850000000000037,
+        "bounding_box": [
+          -77.677,
+          39.22,
+          -77.107,
+          39.72
+        ],
+        "point": [
+          -77.392,
+          39.47
+        ],
+        "labels": {
+          "en": "Frederick"
+        },
+        "population": 278605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.878,
+          38.8335
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "033",
+        "area": 0.24751999999999763,
+        "bounding_box": [
+          -77.086,
+          38.536,
+          -76.67,
+          39.131
+        ],
+        "point": [
+          -76.878,
+          38.8335
+        ],
+        "labels": {
+          "en": "Prince George's"
+        },
+        "population": 925963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94200000000001,
+          39.236000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "027",
+        "area": 0.13033999999999776,
+        "bounding_box": [
+          -77.187,
+          39.103,
+          -76.697,
+          39.369
+        ],
+        "point": [
+          -76.94200000000001,
+          39.236000000000004
+        ],
+        "labels": {
+          "en": "Howard"
+        },
+        "population": 333520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.208,
+          39.463499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "023",
+        "area": 0.29064000000000023,
+        "bounding_box": [
+          -79.488,
+          39.204,
+          -78.928,
+          39.723
+        ],
+        "point": [
+          -79.208,
+          39.463499999999996
+        ],
+        "labels": {
+          "en": "Garrett"
+        },
+        "population": 30558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.208,
+          39.144
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "031",
+        "area": 0.2679600000000033,
+        "bounding_box": [
+          -77.527,
+          38.934,
+          -76.889,
+          39.354
+        ],
+        "point": [
+          -77.208,
+          39.144
+        ],
+        "labels": {
+          "en": "Montgomery"
+        },
+        "population": 1084944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.09200000000001,
+          39.034000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "035",
+        "area": 0.3123520000000015,
+        "bounding_box": [
+          -76.436,
+          38.807,
+          -75.748,
+          39.261
+        ],
+        "point": [
+          -76.09200000000001,
+          39.034000000000006
+        ],
+        "labels": {
+          "en": "Queen Anne's"
+        },
+        "population": 56211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1805,
+          38.7585
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "041",
+        "area": 0.21035699999999868,
+        "bounding_box": [
+          -76.464,
+          38.573,
+          -75.897,
+          38.944
+        ],
+        "point": [
+          -76.1805,
+          38.7585
+        ],
+        "labels": {
+          "en": "Talbot"
+        },
+        "population": 42147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6275,
+          38.3885
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "045",
+        "area": 0.2211449999999962,
+        "bounding_box": [
+          -75.948,
+          38.216,
+          -75.307,
+          38.561
+        ],
+        "point": [
+          -75.6275,
+          38.3885
+        ],
+        "labels": {
+          "en": "Wicomico"
+        },
+        "population": 115722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.88900000000001,
+          38.093
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "039",
+        "area": 0.2859280000000004,
+        "bounding_box": [
+          -76.236,
+          37.887,
+          -75.542,
+          38.299
+        ],
+        "point": [
+          -75.88900000000001,
+          38.093
+        ],
+        "labels": {
+          "en": "Somerset"
+        },
+        "population": 28451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.303,
+          39.4875
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "025",
+        "area": 0.2484439999999977,
+        "bounding_box": [
+          -76.569,
+          39.254,
+          -76.037,
+          39.721
+        ],
+        "point": [
+          -76.303,
+          39.4875
+        ],
+        "labels": {
+          "en": "Harford"
+        },
+        "population": 274366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.536,
+          38.2005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "037",
+        "area": 0.41875000000000107,
+        "bounding_box": [
+          -76.871,
+          37.888,
+          -76.201,
+          38.513
+        ],
+        "point": [
+          -76.536,
+          38.2005
+        ],
+        "labels": {
+          "en": "St. Mary's"
+        },
+        "population": 128536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0555,
+          39.1995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "029",
+        "area": 0.24738699999999958,
+        "bounding_box": [
+          -76.355,
+          38.993,
+          -75.756,
+          39.406
+        ],
+        "point": [
+          -76.0555,
+          39.1995
+        ],
+        "labels": {
+          "en": "Kent"
+        },
+        "population": 21377
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.993,
+          38.438500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "017",
+        "area": 0.35310000000000064,
+        "bounding_box": [
+          -77.323,
+          38.171,
+          -76.663,
+          38.706
+        ],
+        "point": [
+          -76.993,
+          38.438500000000005
+        ],
+        "labels": {
+          "en": "Charles"
+        },
+        "population": 177158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.90899999999999,
+          39.5205
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "043",
+        "area": 0.35464000000000273,
+        "bounding_box": [
+          -78.349,
+          39.319,
+          -77.469,
+          39.722
+        ],
+        "point": [
+          -77.90899999999999,
+          39.5205
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 166428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.86099999999999,
+          38.888999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-md",
+        "region_child": "011",
+        "area": 0.15646400000000435,
+        "bounding_box": [
+          -76.015,
+          38.635,
+          -75.707,
+          39.143
+        ],
+        "point": [
+          -75.86099999999999,
+          38.888999999999996
+        ],
+        "labels": {
+          "en": "Caroline"
+        },
+        "population": 37232
+      }
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -169.532,
+              16.733
+            ],
+            [
+              -169.548,
+              16.727
+            ],
+            [
+              -169.542,
+              16.722
+            ],
+            [
+              -169.532,
+              16.733
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "um",
+        "region_child": "um-67",
+        "area": 0.00017599999999989017,
+        "bounding_box": [
+          -169.548,
+          16.722,
+          -169.532,
+          16.733
+        ],
+        "point": [
+          -169.54000000000002,
+          16.7275
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": "جزيرة جونستون المرجانية",
+          "bn": "জন্সটন আতোল",
+          "de": "Johnston-Atoll",
+          "en": "Johnston Atoll",
+          "es": "Atolón Johnston",
+          "fr": "Atoll Johnston",
+          "el": "Ατόλλη Τζόνστον",
+          "hi": "जॉनस्टन एटोल",
+          "hu": "Johnston-atoll",
+          "id": "Atol Johnston",
+          "it": "Atollo Johnston",
+          "ja": "ジョンストン島",
+          "ko": "존스턴 환초",
+          "nl": "Johnston",
+          "pl": "Johnston",
+          "pt": "Atol Johnston",
+          "ru": "Джонстон",
+          "sv": "Johnstonatollen",
+          "tr": "Johnston Atolü",
+          "vi": "Đảo Johnston",
+          "zh": "约翰斯顿环礁"
+        },
+        "population": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -160.03,
+              -0.376
+            ],
+            [
+              -160.025,
+              -0.389
+            ],
+            [
+              -160.012,
+              -0.382
+            ],
+            [
+              -160.009,
+              -0.372
+            ],
+            [
+              -160.03,
+              -0.376
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "um",
+        "region_child": "um-86",
+        "area": 0.00035700000000025544,
+        "bounding_box": [
+          -160.03,
+          -0.389,
+          -160.009,
+          -0.372
+        ],
+        "point": [
+          -160.0195,
+          -0.3805
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "جزيرة جارفيس",
+          "bn": "জারভিস দ্বীপ",
+          "de": "Jarvisinsel",
+          "en": "Jarvis Island",
+          "es": "Isla Jarvis",
+          "fr": "Île Jarvis",
+          "el": "Τζάρβις",
+          "hi": "जार्विस द्वीप",
+          "hu": "Jarvis-sziget",
+          "id": "Pulau Jarvis",
+          "it": "Isola Jarvis",
+          "ja": "ジャーヴィス島",
+          "ko": "자르비스 섬",
+          "nl": "Jarvis",
+          "pl": "Jarvis",
+          "pt": "Ilha Jarvis",
+          "ru": "Остров Джарвис",
+          "sv": "Jarvisön",
+          "tr": "Jarvis Adası",
+          "vi": "Đảo Jarvis",
+          "zh": "賈維斯島"
+        },
+        "population": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -176.486,
+              0.197
+            ],
+            [
+              -176.479,
+              0.19
+            ],
+            [
+              -176.477,
+              0.197
+            ],
+            [
+              -176.486,
+              0.197
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "um",
+        "region_child": "um-81",
+        "area": 6.299999999990296e-05,
+        "bounding_box": [
+          -176.486,
+          0.19,
+          -176.477,
+          0.197
+        ],
+        "point": [
+          -176.48149999999998,
+          0.1935
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "جزيرة بيكر",
+          "bn": "বাকের দ্বীপপুঞ্জ",
+          "de": "Bakerinsel",
+          "en": "Baker Island",
+          "es": "Isla Baker",
+          "fr": "île Baker",
+          "el": "Μπαίηκερ",
+          "hi": "बेकर द्वीप",
+          "hu": "Baker-sziget",
+          "id": "Pulau Baker",
+          "it": "Isola Baker",
+          "ja": "ベーカー島",
+          "ko": "베이커 섬",
+          "nl": "Baker",
+          "pl": "Baker",
+          "pt": "Ilha Baker",
+          "ru": "Бейкер",
+          "sv": "Bakerön",
+          "tr": "Baker Adası",
+          "vi": "Đảo Baker",
+          "zh": "貝克島"
+        },
+        "population": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -176.636,
+              0.79
+            ],
+            [
+              -176.636,
+              0.803
+            ],
+            [
+              -176.64,
+              0.802
+            ],
+            [
+              -176.636,
+              0.79
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "um",
+        "region_child": "um-84",
+        "area": 5.199999999987886e-05,
+        "bounding_box": [
+          -176.64,
+          0.79,
+          -176.636,
+          0.803
+        ],
+        "point": [
+          -176.63799999999998,
+          0.7965
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": "جزيرة هاولاند",
+          "bn": "হল্যান্ড দ্বীপ",
+          "de": "Howlandinsel",
+          "en": "Howland Island",
+          "es": "Isla Howland",
+          "fr": "île Howland",
+          "el": "Χάουλαντ",
+          "hi": "हॉउलैंड द्वीप",
+          "hu": "Howland-sziget",
+          "id": "Pulau Howland",
+          "it": "Isola Howland",
+          "ja": "ハウランド島",
+          "ko": "하울랜드 섬",
+          "nl": "Howland",
+          "pl": "Howland",
+          "pt": "Ilha Howland",
+          "ru": "Хауленд",
+          "sv": "Howlandön",
+          "tr": "Howland Adası",
+          "vi": "Đảo Howland",
+          "zh": "豪蘭島"
+        },
+        "population": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.619,
+              19.282
+            ],
+            [
+              166.644,
+              19.276
+            ],
+            [
+              166.638,
+              19.286
+            ],
+            [
+              166.619,
+              19.282
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "um",
+        "region_child": "um-79",
+        "area": 0.0002500000000000959,
+        "bounding_box": [
+          166.619,
+          19.276,
+          166.644,
+          19.286
+        ],
+        "point": [
+          166.63150000000002,
+          19.281
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "جزيرة ويك",
+          "bn": "ওয়েক দ্বীপপুঞ্জ",
+          "de": "Wake",
+          "en": "Wake Island",
+          "es": "Isla Wake",
+          "fr": "Wake",
+          "el": "Νήσος Ουέηκ",
+          "hi": "वेक द्वीप",
+          "hu": "Wake-sziget",
+          "id": "Pulau Wake",
+          "it": "Isola di Wake",
+          "ja": "ウェーク島",
+          "ko": "웨이크 섬",
+          "nl": "Wake",
+          "pl": "Wake",
+          "pt": "Ilha Wake",
+          "ru": "Уэйк",
+          "sv": "Wake",
+          "tr": "Wake Adası",
+          "vi": "Đảo Wake",
+          "zh": "威克島"
+        },
+        "population": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -177.358,
+              28.214
+            ],
+            [
+              -177.378,
+              28.213
+            ],
+            [
+              -177.372,
+              28.202
+            ],
+            [
+              -177.358,
+              28.214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "um",
+        "region_child": "um-71",
+        "area": 0.00023999999999971977,
+        "bounding_box": [
+          -177.378,
+          28.202,
+          -177.358,
+          28.214
+        ],
+        "point": [
+          -177.368,
+          28.208
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": "جزر الميدواي",
+          "bn": "মিডওয়ে",
+          "de": "Midwayinseln",
+          "en": "Midway Atoll",
+          "es": "Islas Midway",
+          "fr": "îles Midway",
+          "el": "Ατόλλη Μίντγουαιη",
+          "hi": "मिडवे",
+          "hu": "Midway-atoll",
+          "id": "Atol Midway",
+          "it": "Atollo di Midway",
+          "ja": "ミッドウェー島",
+          "ko": "미드웨이 환초",
+          "nl": "Midway",
+          "pl": "Midway",
+          "pt": "Atol Midway",
+          "ru": "Мидуэй",
+          "sv": "Midwayöarna",
+          "tr": "Midway Adası",
+          "vi": "Đảo san hô vòng Midway",
+          "zh": "中途島"
+        },
+        "population": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.024,
+              18.417
+            ],
+            [
+              -75.018,
+              18.397
+            ],
+            [
+              -75.003,
+              18.398
+            ],
+            [
+              -75.007,
+              18.415
+            ],
+            [
+              -75.024,
+              18.417
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "um",
+        "region_child": "um-76",
+        "area": 0.00042000000000008155,
+        "bounding_box": [
+          -75.024,
+          18.397,
+          -75.003,
+          18.417
+        ],
+        "point": [
+          -75.0135,
+          18.407
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": "جزيرة نافاسا",
+          "bn": "নাউসা দ্বীপ",
+          "de": "Navassa",
+          "en": "Navassa Island",
+          "es": "Isla de Navaza",
+          "fr": "île de la Navasse",
+          "el": "Νήσος Ναβάσσα",
+          "hi": "नावासा द्वीप",
+          "hu": "Navassa-sziget",
+          "id": "Pulau Navassa",
+          "it": "Isola Navassa",
+          "ja": "ナヴァッサ島",
+          "ko": "나배사 섬",
+          "nl": "Navassa",
+          "pl": "Navassa",
+          "pt": "Ilha de Navassa",
+          "ru": "Навасса",
+          "sv": "Navassaön",
+          "tr": "Navassa Adası",
+          "vi": "Đảo Navassa",
+          "zh": "納弗沙島"
+        },
+        "population": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -162.061,
+              5.887
+            ],
+            [
+              -162.087,
+              5.884
+            ],
+            [
+              -162.091,
+              5.872
+            ],
+            [
+              -162.061,
+              5.873
+            ],
+            [
+              -162.061,
+              5.887
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "um",
+        "region_child": "um-95",
+        "area": 0.00045000000000000747,
+        "bounding_box": [
+          -162.091,
+          5.872,
+          -162.061,
+          5.887
+        ],
+        "point": [
+          -162.07600000000002,
+          5.8795
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "جزر بالميرا المرجانية",
+          "bn": "পলাইরা এটল",
+          "de": "Palmyra",
+          "en": "Palmyra Atoll",
+          "es": "Atolón Palmyra",
+          "fr": "atoll Palmyra",
+          "el": "Ατόλλη Παλμύρα",
+          "hi": "पाल्मीरा एटोल",
+          "hu": "Palmyra-atoll",
+          "id": "Atol Palmyra",
+          "it": "Palmyra",
+          "ja": "パルミラ環礁",
+          "ko": "팔미라 환초",
+          "nl": "Palmyra",
+          "pl": "Palmyra",
+          "pt": "Atol Palmyra",
+          "ru": "Пальмира",
+          "sv": "Palmyraatollen",
+          "tr": "Palmyra Atolü",
+          "vi": "Đảo san hô Palmyra",
+          "zh": "帕邁拉環礁"
+        },
+        "population": 0
+      }
+    }
+  ]
+}

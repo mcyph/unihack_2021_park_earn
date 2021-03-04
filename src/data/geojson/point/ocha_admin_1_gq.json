@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.616,
+          -1.4195
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gq",
+        "region_child": "gq98",
+        "area": 0.0009799999999999893,
+        "bounding_box": [
+          5.602,
+          -1.437,
+          5.63,
+          -1.402
+        ],
+        "point": [
+          5.616,
+          -1.4195
+        ],
+        "labels": {
+          "en": "Annobon"
+        },
+        "population": 1017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772,
+          3.649
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gq",
+        "region_child": "gq99",
+        "area": 0.07360000000000005,
+        "bounding_box": [
+          8.612,
+          3.534,
+          8.932,
+          3.764
+        ],
+        "point": [
+          8.772,
+          3.649
+        ],
+        "labels": {
+          "en": "Bioko Norte"
+        },
+        "population": 304023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.641,
+          3.427
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gq",
+        "region_child": "gq00",
+        "area": 0.18748799999999946,
+        "bounding_box": [
+          8.425,
+          3.21,
+          8.857,
+          3.644
+        ],
+        "point": [
+          8.641,
+          3.427
+        ],
+        "labels": {
+          "en": "Bioko Sur"
+        },
+        "population": 34923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.432500000000001,
+          1.5855000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gq",
+        "region_child": "gq01",
+        "area": 1.2114250000000006,
+        "bounding_box": [
+          9.917,
+          0.998,
+          10.948,
+          2.173
+        ],
+        "point": [
+          10.432500000000001,
+          1.5855000000000001
+        ],
+        "labels": {
+          "en": "Centro Sur"
+        },
+        "population": 148887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8695,
+          1.9595
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gq",
+        "region_child": "gq02",
+        "area": 0.3993990000000002,
+        "bounding_box": [
+          10.404,
+          1.745,
+          11.335,
+          2.174
+        ],
+        "point": [
+          10.8695,
+          1.9595
+        ],
+        "labels": {
+          "en": "Kientem"
+        },
+        "population": 177914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.817,
+          1.6360000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gq",
+        "region_child": "gq03",
+        "area": 1.2570480000000004,
+        "bounding_box": [
+          9.375,
+          0.925,
+          10.259,
+          2.347
+        ],
+        "point": [
+          9.817,
+          1.6360000000000001
+        ],
+        "labels": {
+          "en": "Littoral"
+        },
+        "population": 381199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.924,
+          1.4985
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "gq",
+        "region_child": "gq04",
+        "area": 0.822822000000001,
+        "bounding_box": [
+          10.513,
+          0.998,
+          11.335,
+          1.999
+        ],
+        "point": [
+          10.924,
+          1.4985
+        ],
+        "labels": {
+          "en": "Welenzas"
+        },
+        "population": 213460
+      }
+    }
+  ]
+}

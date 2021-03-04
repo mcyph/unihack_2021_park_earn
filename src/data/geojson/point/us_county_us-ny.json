@@ -1,0 +1,1865 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3575,
+          42.289500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "101",
+        "area": 0.45608499999999486,
+        "bounding_box": [
+          -77.75,
+          41.999,
+          -76.965,
+          42.58
+        ],
+        "point": [
+          -77.3575,
+          42.289500000000004
+        ],
+        "labels": {
+          "en": "Steuben"
+        },
+        "population": 98799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8665,
+          43.0865
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "091",
+        "area": 0.3657010000000048,
+        "bounding_box": [
+          -74.16,
+          42.775,
+          -73.573,
+          43.398
+        ],
+        "point": [
+          -73.8665,
+          43.0865
+        ],
+        "labels": {
+          "en": "Saratoga"
+        },
+        "population": 240074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.01599999999999,
+          42.26
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "003",
+        "area": 0.3070639999999998,
+        "bounding_box": [
+          -78.309,
+          41.998,
+          -77.723,
+          42.522
+        ],
+        "point": [
+          -78.01599999999999,
+          42.26
+        ],
+        "labels": {
+          "en": "Allegany"
+        },
+        "population": 48059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2005,
+          43.4315
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "075",
+        "area": 0.4898389999999994,
+        "bounding_box": [
+          -76.645,
+          43.156,
+          -75.756,
+          43.707
+        ],
+        "point": [
+          -76.2005,
+          43.4315
+        ],
+        "labels": {
+          "en": "Oswego"
+        },
+        "population": 122884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.346,
+          41.879000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "111",
+        "area": 0.5185199999999996,
+        "bounding_box": [
+          -74.781,
+          41.581,
+          -73.911,
+          42.177
+        ],
+        "point": [
+          -74.346,
+          41.879000000000005
+        ],
+        "labels": {
+          "en": "Ulster"
+        },
+        "population": 187758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.193,
+          44.533
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "089",
+        "area": 1.2886440000000046,
+        "bounding_box": [
+          -75.86,
+          44.05,
+          -74.526,
+          45.016
+        ],
+        "point": [
+          -75.193,
+          44.533
+        ],
+        "labels": {
+          "en": "St. Lawrence"
+        },
+        "population": 112041
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.863,
+          42.3905
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "097",
+        "area": 0.15274399999999755,
+        "bounding_box": [
+          -77.107,
+          42.234,
+          -76.619,
+          42.547
+        ],
+        "point": [
+          -76.863,
+          42.3905
+        ],
+        "labels": {
+          "en": "Schuyler"
+        },
+        "population": 17677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8155,
+          44.146
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "031",
+        "area": 0.8364860000000047,
+        "bounding_box": [
+          -74.337,
+          43.745,
+          -73.294,
+          44.547
+        ],
+        "point": [
+          -73.8155,
+          44.146
+        ],
+        "labels": {
+          "en": "Essex"
+        },
+        "population": 39961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.637,
+          40.922
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "103",
+        "area": 1.3347200000000048,
+        "bounding_box": [
+          -73.497,
+          40.534,
+          -71.777,
+          41.31
+        ],
+        "point": [
+          -72.637,
+          40.922
+        ],
+        "labels": {
+          "en": "Suffolk"
+        },
+        "population": 1571340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.457,
+          43.668000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "041",
+        "area": 0.7447319999999886,
+        "bounding_box": [
+          -74.868,
+          43.215,
+          -74.046,
+          44.121
+        ],
+        "point": [
+          -74.457,
+          43.668000000000006
+        ],
+        "labels": {
+          "en": "Hamilton"
+        },
+        "population": 4429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7435,
+          41.7595
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "027",
+        "area": 0.32883300000000243,
+        "bounding_box": [
+          -74.0,
+          41.439,
+          -73.487,
+          42.08
+        ],
+        "point": [
+          -73.7435,
+          41.7595
+        ],
+        "labels": {
+          "en": "Dutchess"
+        },
+        "population": 315950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.023,
+          42.611000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "077",
+        "area": 0.4656960000000045,
+        "bounding_box": [
+          -75.415,
+          42.314,
+          -74.631,
+          42.908
+        ],
+        "point": [
+          -75.023,
+          42.611000000000004
+        ],
+        "labels": {
+          "en": "Otsego"
+        },
+        "population": 62999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4675,
+          42.445
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "109",
+        "area": 0.16707600000000314,
+        "bounding_box": [
+          -76.697,
+          42.263,
+          -76.238,
+          42.627
+        ],
+        "point": [
+          -76.4675,
+          42.445
+        ],
+        "labels": {
+          "en": "Tompkins"
+        },
+        "population": 106924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971,
+          42.614999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "001",
+        "area": 0.24460799999999974,
+        "bounding_box": [
+          -74.265,
+          42.407,
+          -73.677,
+          42.823
+        ],
+        "point": [
+          -73.971,
+          42.614999999999995
+        ],
+        "labels": {
+          "en": "Albany"
+        },
+        "population": 313670
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51,
+          43.1635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "011",
+        "area": 0.5314319999999988,
+        "bounding_box": [
+          -76.754,
+          42.619,
+          -76.266,
+          43.708
+        ],
+        "point": [
+          -76.51,
+          43.1635
+        ],
+        "labels": {
+          "en": "Cayuga"
+        },
+        "population": 78399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1555,
+          42.2805
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "039",
+        "area": 0.28002099999999985,
+        "bounding_box": [
+          -74.537,
+          42.097,
+          -73.774,
+          42.464
+        ],
+        "point": [
+          -74.1555,
+          42.2805
+        ],
+        "labels": {
+          "en": "Greene"
+        },
+        "population": 50416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9575,
+          43.461
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "043",
+        "area": 0.6652559999999943,
+        "bounding_box": [
+          -75.219,
+          42.825,
+          -74.696,
+          44.097
+        ],
+        "point": [
+          -74.9575,
+          43.461
+        ],
+        "labels": {
+          "en": "Herkimer"
+        },
+        "population": 64090
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.82650000000001,
+          43.513000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "113",
+        "area": 0.45221400000000117,
+        "bounding_box": [
+          -74.215,
+          43.222,
+          -73.438,
+          43.804
+        ],
+        "point": [
+          -73.82650000000001,
+          43.513000000000005
+        ],
+        "labels": {
+          "en": "Warren"
+        },
+        "population": 68464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.09049999999999,
+          44.0355
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "045",
+        "area": 0.9474150000000003,
+        "bounding_box": [
+          -76.735,
+          43.668,
+          -75.446,
+          44.403
+        ],
+        "point": [
+          -76.09049999999999,
+          44.0355
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 120956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68,
+          44.7205
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "019",
+        "area": 0.4032140000000036,
+        "bounding_box": [
+          -74.027,
+          44.43,
+          -73.333,
+          45.011
+        ],
+        "point": [
+          -73.68,
+          44.7205
+        ],
+        "labels": {
+          "en": "Clinton"
+        },
+        "population": 84135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6015,
+          40.754999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "059",
+        "area": 0.1670759999999984,
+        "bounding_box": [
+          -73.78,
+          40.521,
+          -73.423,
+          40.989
+        ],
+        "point": [
+          -73.6015,
+          40.754999999999995
+        ],
+        "labels": {
+          "en": "Nassau"
+        },
+        "population": 1352464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6165,
+          42.9535
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "053",
+        "area": 0.34562700000000246,
+        "bounding_box": [
+          -75.993,
+          42.724,
+          -75.24,
+          43.183
+        ],
+        "point": [
+          -75.6165,
+          42.9535
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 75968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4385,
+          43.3745
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "115",
+        "area": 0.34246499999999547,
+        "bounding_box": [
+          -73.636,
+          42.941,
+          -73.241,
+          43.808
+        ],
+        "point": [
+          -73.4385,
+          43.3745
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 65370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.733,
+          41.119
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "119",
+        "area": 0.2469999999999999,
+        "bounding_box": [
+          -73.983,
+          40.872,
+          -73.483,
+          41.366
+        ],
+        "point": [
+          -73.733,
+          41.119
+        ],
+        "labels": {
+          "en": "Westchester"
+        },
+        "population": 978030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4805,
+          43.819
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "049",
+        "area": 0.5913180000000011,
+        "bounding_box": [
+          -75.851,
+          43.42,
+          -75.11,
+          44.218
+        ],
+        "point": [
+          -75.4805,
+          43.819
+        ],
+        "labels": {
+          "en": "Lewis"
+        },
+        "population": 27172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2875,
+          42.808
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "069",
+        "area": 0.3011359999999995,
+        "bounding_box": [
+          -77.612,
+          42.576,
+          -76.963,
+          43.04
+        ],
+        "point": [
+          -77.2875,
+          42.808
+        ],
+        "labels": {
+          "en": "Ontario"
+        },
+        "population": 116524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0695,
+          42.5995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "023",
+        "area": 0.1574129999999987,
+        "bounding_box": [
+          -76.275,
+          42.408,
+          -75.864,
+          42.791
+        ],
+        "point": [
+          -76.0695,
+          42.5995
+        ],
+        "labels": {
+          "en": "Cortland"
+        },
+        "population": 49774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14699999999999,
+          40.564499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "085",
+        "area": 0.03920000000000161,
+        "bounding_box": [
+          -74.259,
+          40.477,
+          -74.035,
+          40.652
+        ],
+        "point": [
+          -74.14699999999999,
+          40.564499999999995
+        ],
+        "labels": {
+          "en": "Richmond"
+        },
+        "population": 495718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.887,
+          42.769999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "029",
+        "area": 0.5592999999999912,
+        "bounding_box": [
+          -79.312,
+          42.441,
+          -78.462,
+          43.099
+        ],
+        "point": [
+          -78.887,
+          42.769999999999996
+        ],
+        "labels": {
+          "en": "Erie"
+        },
+        "population": 889271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7565,
+          41.4245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "079",
+        "area": 0.09286499999999984,
+        "bounding_box": [
+          -73.983,
+          41.322,
+          -73.53,
+          41.527
+        ],
+        "point": [
+          -73.7565,
+          41.4245
+        ],
+        "labels": {
+          "en": "Putnam"
+        },
+        "population": 103858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4235,
+          42.91
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "057",
+        "area": 0.18604599999999635,
+        "bounding_box": [
+          -74.763,
+          42.773,
+          -74.084,
+          43.047
+        ],
+        "point": [
+          -74.4235,
+          42.91
+        ],
+        "labels": {
+          "en": "Montgomery"
+        },
+        "population": 50697
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7565,
+          41.7195
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "105",
+        "area": 0.46194699999999506,
+        "bounding_box": [
+          -75.146,
+          41.423,
+          -74.367,
+          42.016
+        ],
+        "point": [
+          -74.7565,
+          41.7195
+        ],
+        "labels": {
+          "en": "Sullivan"
+        },
+        "population": 80862
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2315,
+          43.381
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "073",
+        "area": 0.23939999999999945,
+        "bounding_box": [
+          -78.469,
+          43.129,
+          -77.994,
+          43.633
+        ],
+        "point": [
+          -78.2315,
+          43.381
+        ],
+        "labels": {
+          "en": "Orleans"
+        },
+        "population": 41964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.47800000000001,
+          43.239000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "065",
+        "area": 0.6151360000000003,
+        "bounding_box": [
+          -75.887,
+          42.863,
+          -75.069,
+          43.615
+        ],
+        "point": [
+          -75.47800000000001,
+          43.239000000000004
+        ],
+        "labels": {
+          "en": "Oneida"
+        },
+        "population": 235639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.68450000000001,
+          42.269499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "009",
+        "area": 0.4088789999999995,
+        "bounding_box": [
+          -79.061,
+          41.998,
+          -78.308,
+          42.541
+        ],
+        "point": [
+          -78.68450000000001,
+          42.269499999999994
+        ],
+        "labels": {
+          "en": "Cattaraugus"
+        },
+        "population": 76330
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1285,
+          42.61150000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "123",
+        "area": 0.14548500000000103,
+        "bounding_box": [
+          -77.367,
+          42.459,
+          -76.89,
+          42.764
+        ],
+        "point": [
+          -77.1285,
+          42.61150000000001
+        ],
+        "labels": {
+          "en": "Yates"
+        },
+        "population": 25918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.322,
+          42.20399999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "107",
+        "area": 0.19858399999999926,
+        "bounding_box": [
+          -76.563,
+          41.998,
+          -76.081,
+          42.41
+        ],
+        "point": [
+          -76.322,
+          42.20399999999999
+        ],
+        "labels": {
+          "en": "Tioga"
+        },
+        "population": 50086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.684,
+          43.286
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "055",
+        "area": 0.4331920000000034,
+        "bounding_box": [
+          -77.997,
+          42.94,
+          -77.371,
+          43.632
+        ],
+        "point": [
+          -77.684,
+          43.286
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 753059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4385,
+          42.5925
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "095",
+        "area": 0.25982499999999936,
+        "bounding_box": [
+          -74.712,
+          42.355,
+          -74.165,
+          42.83
+        ],
+        "point": [
+          -74.4385,
+          42.5925
+        ],
+        "labels": {
+          "en": "Schoharie"
+        },
+        "population": 33972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.745,
+          42.206999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "007",
+        "area": 0.32185999999999776,
+        "bounding_box": [
+          -76.13,
+          41.998,
+          -75.36,
+          42.416
+        ],
+        "point": [
+          -75.745,
+          42.206999999999994
+        ],
+        "labels": {
+          "en": "Broome"
+        },
+        "population": 201554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.525,
+          42.711
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "083",
+        "area": 0.25687999999999794,
+        "bounding_box": [
+          -73.785,
+          42.464,
+          -73.265,
+          42.958
+        ],
+        "point": [
+          -73.525,
+          42.711
+        ],
+        "labels": {
+          "en": "Rensselaer"
+        },
+        "population": 167940
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7835,
+          42.783
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "099",
+        "area": 0.1903899999999978,
+        "bounding_box": [
+          -76.981,
+          42.542,
+          -76.586,
+          43.024
+        ],
+        "point": [
+          -76.7835,
+          42.783
+        ],
+        "labels": {
+          "en": "Seneca"
+        },
+        "population": 37256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87100000000001,
+          40.650999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "081",
+        "area": 0.1101239999999981,
+        "bounding_box": [
+          -74.042,
+          40.49,
+          -73.7,
+          40.812
+        ],
+        "point": [
+          -73.87100000000001,
+          40.650999999999996
+        ],
+        "labels": {
+          "en": "Queens"
+        },
+        "population": 2240659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.185,
+          42.9985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "037",
+        "area": 0.1523019999999998,
+        "bounding_box": [
+          -78.466,
+          42.863,
+          -77.904,
+          43.134
+        ],
+        "point": [
+          -78.185,
+          42.9985
+        ],
+        "labels": {
+          "en": "Genesee"
+        },
+        "population": 60530
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.045,
+          43.348
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "117",
+        "area": 0.46099200000000273,
+        "bounding_box": [
+          -77.388,
+          43.012,
+          -76.702,
+          43.684
+        ],
+        "point": [
+          -77.045,
+          43.348
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 93819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8305,
+          43.327
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "063",
+        "area": 0.45645599999999953,
+        "bounding_box": [
+          -79.201,
+          43.019,
+          -78.46,
+          43.635
+        ],
+        "point": [
+          -78.8305,
+          43.327
+        ],
+        "labels": {
+          "en": "Niagara"
+        },
+        "population": 213068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.945,
+          40.644999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "047",
+        "area": 0.04211199999999965,
+        "bounding_box": [
+          -74.057,
+          40.551,
+          -73.833,
+          40.739
+        ],
+        "point": [
+          -73.945,
+          40.644999999999996
+        ],
+        "labels": {
+          "en": "Kings"
+        },
+        "population": 2522536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.751,
+          42.147
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "015",
+        "area": 0.1264199999999965,
+        "bounding_box": [
+          -76.966,
+          42.0,
+          -76.536,
+          42.294
+        ],
+        "point": [
+          -76.751,
+          42.147
+        ],
+        "labels": {
+          "en": "Chemung"
+        },
+        "population": 87143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.22149999999999,
+          42.6945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "121",
+        "area": 0.18708299999999994,
+        "bounding_box": [
+          -78.488,
+          42.519,
+          -77.955,
+          42.87
+        ],
+        "point": [
+          -78.22149999999999,
+          42.6945
+        ],
+        "labels": {
+          "en": "Wyoming"
+        },
+        "population": 39961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971,
+          40.781
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "061",
+        "area": 0.02585599999999979,
+        "bounding_box": [
+          -74.035,
+          40.68,
+          -73.907,
+          40.882
+        ],
+        "point": [
+          -73.971,
+          40.781
+        ],
+        "labels": {
+          "en": "New York"
+        },
+        "population": 1641507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.641,
+          42.244
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "021",
+        "area": 0.30749599999999955,
+        "bounding_box": [
+          -73.93,
+          41.978,
+          -73.352,
+          42.51
+        ],
+        "point": [
+          -73.641,
+          42.244
+        ],
+        "labels": {
+          "en": "Columbia"
+        },
+        "population": 62981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.411,
+          42.3425
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "013",
+        "area": 0.48505600000000537,
+        "bounding_box": [
+          -79.763,
+          41.998,
+          -79.059,
+          42.687
+        ],
+        "point": [
+          -79.411,
+          42.3425
+        ],
+        "labels": {
+          "en": "Chautauqua"
+        },
+        "population": 130116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.318,
+          44.551
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "033",
+        "area": 0.7376640000000051,
+        "bounding_box": [
+          -74.726,
+          44.099,
+          -73.91,
+          45.003
+        ],
+        "point": [
+          -74.318,
+          44.551
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 52243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.19749999999999,
+          43.0215
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "067",
+        "area": 0.3021029999999958,
+        "bounding_box": [
+          -76.499,
+          42.771,
+          -75.896,
+          43.272
+        ],
+        "point": [
+          -76.19749999999999,
+          43.0215
+        ],
+        "labels": {
+          "en": "Onondaga"
+        },
+        "population": 475250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5915,
+          42.47
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "017",
+        "area": 0.3283499999999951,
+        "bounding_box": [
+          -75.89,
+          42.195,
+          -75.293,
+          42.745
+        ],
+        "point": [
+          -75.5915,
+          42.47
+        ],
+        "labels": {
+          "en": "Chenango"
+        },
+        "population": 49590
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.43549999999999,
+          43.135999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "035",
+        "area": 0.2071620000000051,
+        "bounding_box": [
+          -74.774,
+          42.983,
+          -74.097,
+          43.289
+        ],
+        "point": [
+          -74.43549999999999,
+          43.135999999999996
+        ],
+        "labels": {
+          "en": "Fulton"
+        },
+        "population": 56008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.061,
+          41.161
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "087",
+        "area": 0.11348799999999755,
+        "bounding_box": [
+          -74.234,
+          40.997,
+          -73.888,
+          41.325
+        ],
+        "point": [
+          -74.061,
+          41.161
+        ],
+        "labels": {
+          "en": "Rockland"
+        },
+        "population": 338991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.76849999999999,
+          42.7295
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "051",
+        "area": 0.2910710000000029,
+        "bounding_box": [
+          -78.05,
+          42.471,
+          -77.487,
+          42.988
+        ],
+        "point": [
+          -77.76849999999999,
+          42.7295
+        ],
+        "labels": {
+          "en": "Livingston"
+        },
+        "population": 66650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.925,
+          42.183
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "025",
+        "area": 0.6659800000000016,
+        "bounding_box": [
+          -75.422,
+          41.848,
+          -74.428,
+          42.518
+        ],
+        "point": [
+          -74.925,
+          42.183
+        ],
+        "labels": {
+          "en": "Delaware"
+        },
+        "population": 47450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.35499999999999,
+          41.388000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "071",
+        "area": 0.39886000000000515,
+        "bounding_box": [
+          -74.762,
+          41.143,
+          -73.948,
+          41.633
+        ],
+        "point": [
+          -74.35499999999999,
+          41.388000000000005
+        ],
+        "labels": {
+          "en": "Orange"
+        },
+        "population": 406775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.057,
+          42.8335
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "093",
+        "area": 0.12152000000000454,
+        "bounding_box": [
+          -74.305,
+          42.711,
+          -73.809,
+          42.956
+        ],
+        "point": [
+          -74.057,
+          42.8335
+        ],
+        "labels": {
+          "en": "Schenectady"
+        },
+        "population": 162937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84100000000001,
+          40.8515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ny",
+        "region_child": "005",
+        "area": 0.024737999999999545,
+        "bounding_box": [
+          -73.934,
+          40.785,
+          -73.748,
+          40.918
+        ],
+        "point": [
+          -73.84100000000001,
+          40.8515
+        ],
+        "labels": {
+          "en": "Bronx"
+        },
+        "population": 1437875
+      }
+    }
+  ]
+}

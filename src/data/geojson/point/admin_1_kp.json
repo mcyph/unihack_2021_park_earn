@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5215,
+          38.794
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-07",
+        "area": 2.091880000000018,
+        "bounding_box": [
+          126.678,
+          38.174,
+          128.365,
+          39.414
+        ],
+        "point": [
+          127.5215,
+          38.794
+        ],
+        "labels": {
+          "alt": "Kangwon|Kogen-do|North Kangwon",
+          "local": "\t강원도",
+          "len": 10,
+          "ar": "مقاطعة كانغوون",
+          "bn": "কাংওন প্রদেশ",
+          "de": "Kangwŏn-do",
+          "en": "Kangwon Province",
+          "es": "Kangwon-do",
+          "fr": "Kangwon",
+          "el": "Κάνγκγουον",
+          "hi": "कांगवॉन प्रांत",
+          "hu": "Kangvon",
+          "id": "Kangwon-do",
+          "it": "Kangwon",
+          "ja": "江原道",
+          "ko": "강원도",
+          "nl": "Kangwŏn-do",
+          "pl": "Kangwŏn",
+          "pt": "Kangwon",
+          "ru": "Канвондо",
+          "sv": "Kangwon",
+          "tr": "Kangvon",
+          "vi": "Kangwon",
+          "zh": "江原道"
+        },
+        "population": 1456567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.297,
+          38.471999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-06",
+        "area": 2.0042720000000007,
+        "bounding_box": [
+          125.575,
+          37.778,
+          127.019,
+          39.166
+        ],
+        "point": [
+          126.297,
+          38.471999999999994
+        ],
+        "labels": {
+          "alt": "North Hwanghae|North Hwanghai",
+          "local": "황해북도",
+          "len": 14,
+          "ar": "هوانغهاي الشمالية",
+          "bn": "নর্থ হোয়াংঘে প্রদেশ",
+          "de": "Hwanghae-pukto",
+          "en": "North Hwanghae Province",
+          "es": "Hwanghae del Norte",
+          "fr": "Hwanghae du Nord",
+          "el": "Βόρειο Χουανγκέ",
+          "hi": "उत्तरी ह्वांगहे प्रांत",
+          "hu": "Észak-Hvanghe",
+          "id": "Hwanghae Utara",
+          "it": "Nord Hwanghae",
+          "ja": "黄海北道",
+          "ko": "황해북도",
+          "nl": "Hwanghae-pukto",
+          "pl": "Hwanghae Północne",
+          "pt": "Hwanghae Norte",
+          "ru": "Хванхэ-Пукто",
+          "sv": "Norra Hwanghae",
+          "tr": "Kuzey Hwanghae",
+          "vi": "Hwanghae Bắc",
+          "zh": "黄海北道"
+        },
+        "population": 2177264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.57850000000002,
+          41.786500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-09",
+        "area": 4.267920999999974,
+        "bounding_box": [
+          128.705,
+          40.565,
+          130.452,
+          43.008
+        ],
+        "point": [
+          129.57850000000002,
+          41.786500000000004
+        ],
+        "labels": {
+          "alt": "North Hamgyong|Kankyo Hoku-do",
+          "local": "함경북도",
+          "len": 14,
+          "ar": "منطقة شمال هامغيونغ",
+          "bn": null,
+          "de": "Hamgyŏng-pukto",
+          "en": "North Hamgyong Province",
+          "es": "Hamgyŏng del Norte",
+          "fr": "Hamgyong du Nord",
+          "el": null,
+          "hi": null,
+          "hu": "Észak-Hamgjong",
+          "id": "Hamgyong Utara",
+          "it": "Nord Hamgyong",
+          "ja": "咸鏡北道",
+          "ko": "함경북도",
+          "nl": "Hamgyŏng-pukto",
+          "pl": "Hamgyŏng Północny",
+          "pt": "Hamgyong Norte",
+          "ru": "Хамгён-Пукто",
+          "sv": "Norra Hamgyong",
+          "tr": "Kuzey Hamgyong",
+          "vi": "Hamgyong Bắc",
+          "zh": "咸镜北道"
+        },
+        "population": 2182108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.446,
+          42.3865
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-13",
+        "area": 0.21589999999999063,
+        "bounding_box": [
+          130.192,
+          42.174,
+          130.7,
+          42.599
+        ],
+        "point": [
+          130.446,
+          42.3865
+        ],
+        "labels": {
+          "alt": "Najin Sŏnbong-si",
+          "local": "함경북도",
+          "len": 5,
+          "ar": "راسون",
+          "bn": "রাসোন",
+          "de": "Rasŏn",
+          "en": "Rason",
+          "es": "Rasŏn",
+          "fr": "Rasŏn",
+          "el": "Ράσον",
+          "hi": "रासों",
+          "hu": "Raszon",
+          "id": "Rason",
+          "it": "Rasŏn",
+          "ja": "羅先特別市",
+          "ko": "라선특별시",
+          "nl": "Rasŏn",
+          "pl": "Rasŏn",
+          "pt": "Rason",
+          "ru": "Насон",
+          "sv": "Rason",
+          "tr": "Rason",
+          "vi": "Rason",
+          "zh": "羅先特別市"
+        },
+        "population": 177837
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.876,
+          41.227000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-10",
+        "area": 3.4843240000000297,
+        "bounding_box": [
+          126.815,
+          40.406,
+          128.937,
+          42.048
+        ],
+        "point": [
+          127.876,
+          41.227000000000004
+        ],
+        "labels": {
+          "alt": "Yanggang|Ryanggang-do",
+          "local": "\t량강도",
+          "len": 9,
+          "ar": "مقاطعة ريانغانغ",
+          "bn": "রিয়াংগাং",
+          "de": "Ryanggang-do",
+          "en": "Ryanggang Province",
+          "es": "Ryanggang",
+          "fr": "Ryanggang",
+          "el": "Ριανγκάνγκ",
+          "hi": "रेयांगगैंग प्रांत",
+          "hu": "Rjanggang",
+          "id": "Ryanggang",
+          "it": "Ryanggang",
+          "ja": "両江道",
+          "ko": "량강도",
+          "nl": "Ryanggang-do",
+          "pl": "Ryanggang",
+          "pt": "Ryanggang",
+          "ru": "Янгандо",
+          "sv": "Ryanggang",
+          "tr": "Ryanggang",
+          "vi": "Ryanggang",
+          "zh": "两江道"
+        },
+        "population": 751231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.40350000000001,
+          40.89
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-04",
+        "area": 3.53882999999998,
+        "bounding_box": [
+          125.415,
+          39.995,
+          127.392,
+          41.785
+        ],
+        "point": [
+          126.40350000000001,
+          40.89
+        ],
+        "labels": {
+          "alt": "Changang|Jagang",
+          "local": "\t자강도",
+          "len": 10,
+          "ar": "تشاغانغ",
+          "bn": "চ্যাগাং প্রদেশ",
+          "de": "Chagang-do",
+          "en": "Chagang Province",
+          "es": "Chagang",
+          "fr": "Jagang",
+          "el": "Τσαγκάνγκ",
+          "hi": "चगांग प्रांत",
+          "hu": "Csagang tartomány",
+          "id": "Chagang",
+          "it": "Chagang",
+          "ja": "慈江道",
+          "ko": "자강도",
+          "nl": "Chagang-do",
+          "pl": "Chagang",
+          "pt": "Chagang",
+          "ru": "Чагандо",
+          "sv": "Chagang",
+          "tr": "Chagang",
+          "vi": "Chagang",
+          "zh": "慈江道"
+        },
+        "population": 1388095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3455,
+          40.087
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-03",
+        "area": 2.3172039999999923,
+        "bounding_box": [
+          124.322,
+          39.521,
+          126.369,
+          40.653
+        ],
+        "point": [
+          125.3455,
+          40.087
+        ],
+        "labels": {
+          "alt": "North Pyongan|Heian Hoku-do",
+          "local": "\t평안북도",
+          "len": 14,
+          "ar": "بيونغان الشمالية",
+          "bn": "নর্থ  পিয়ংগান প্রদেশ",
+          "de": "P’yŏngan-pukto",
+          "en": "North Pyongan Province",
+          "es": "P'yŏngan del Norte",
+          "fr": "Pyongan du Nord",
+          "el": "Βόρειο Πιονγκάν",
+          "hi": "उत्तरी प्योंगन प्रांत",
+          "hu": "Észak-Phjongan",
+          "id": "P'yŏngan Utara",
+          "it": "Nord Pyongan",
+          "ja": "平安北道",
+          "ko": "평안북도",
+          "nl": "P'yŏngan-pukto",
+          "pl": "P'yŏngan Północny",
+          "pt": "Pyongan Norte",
+          "ru": "Пхёнан-Пукто",
+          "sv": "Norra P'yŏngan",
+          "tr": "Kuzey Pyongan",
+          "vi": "Pyongan Bắc",
+          "zh": "平安北道"
+        },
+        "population": 2779634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.894,
+          39.569500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-03",
+        "area": 0.006799999999999923,
+        "bounding_box": [
+          124.854,
+          39.527,
+          124.934,
+          39.612
+        ],
+        "point": [
+          124.894,
+          39.569500000000005
+        ],
+        "labels": {
+          "alt": "North Pyongan|Heian Hoku-do",
+          "local": "\t평안북도",
+          "len": 14,
+          "ar": "بيونغان الشمالية",
+          "bn": "নর্থ  পিয়ংগান প্রদেশ",
+          "de": "P’yŏngan-pukto",
+          "en": "North Pyongan Province",
+          "es": "P'yŏngan del Norte",
+          "fr": "Pyongan du Nord",
+          "el": "Βόρειο Πιονγκάν",
+          "hi": "उत्तरी प्योंगन प्रांत",
+          "hu": "Észak-Phjongan",
+          "id": "P'yŏngan Utara",
+          "it": "Nord Pyongan",
+          "ja": "平安北道",
+          "ko": "평안북도",
+          "nl": "P'yŏngan-pukto",
+          "pl": "P'yŏngan Północny",
+          "pt": "Pyongan Norte",
+          "ru": "Пхёнан-Пукто",
+          "sv": "Norra P'yŏngan",
+          "tr": "Kuzey Pyongan",
+          "vi": "Pyongan Bắc",
+          "zh": "平安北道"
+        },
+        "population": 2779634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.15,
+          39.498000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-02",
+        "area": 3.3996280000000025,
+        "bounding_box": [
+          125.137,
+          38.659,
+          127.163,
+          40.337
+        ],
+        "point": [
+          126.15,
+          39.498000000000005
+        ],
+        "labels": {
+          "alt": "South Pyongan|Heian Nan-do",
+          "local": "평안남도",
+          "len": 14,
+          "ar": "مقاطعة بيونغان الجنوبية",
+          "bn": "দক্ষিণ পঙ্গান প্রদেশ",
+          "de": "P’yŏngan-namdo",
+          "en": "South Pyongan Province",
+          "es": "P'yŏngan del Sur",
+          "fr": "Pyongan du Sud",
+          "el": "Νότιο Πγιονγκάν",
+          "hi": "दक्षिण प्योंगान प्रांत",
+          "hu": "Dél-Phjongan",
+          "id": "P'yŏngan Selatan",
+          "it": "Sud Pyongan",
+          "ja": "平安南道",
+          "ko": "평안남도",
+          "nl": "P'yŏngan-namdo",
+          "pl": "P'yŏngan Południowy",
+          "pt": "Pyongan Sul",
+          "ru": "Пхёнан-Намдо",
+          "sv": "Södra P'yŏngan",
+          "tr": "Güney Pyongan",
+          "vi": "Pyongan Nam",
+          "zh": "平安南道"
+        },
+        "population": 3901962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5495,
+          38.2115
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-05",
+        "area": 1.7292949999999898,
+        "bounding_box": [
+          124.677,
+          37.716,
+          126.422,
+          38.707
+        ],
+        "point": [
+          125.5495,
+          38.2115
+        ],
+        "labels": {
+          "alt": "South Hwanghae|South Hwanghai",
+          "local": "\t황해남도",
+          "len": 14,
+          "ar": "جنوب مقاطعة هوانغاي",
+          "bn": "দক্ষিন হয়াংহে প্রদেশ",
+          "de": "Hwanghae-namdo",
+          "en": "South Hwanghae Province",
+          "es": "Hwanghae del Sur",
+          "fr": "Hwanghae du Sud",
+          "el": "Νότιο Χουάνγκχε",
+          "hi": "दक्षिण ह्वांगे प्रांत",
+          "hu": "Dél-Hvanghe",
+          "id": "Hwanghae Selatan",
+          "it": "Sud Hwanghae",
+          "ja": "黄海南道",
+          "ko": "황해남도",
+          "nl": "Hwanghae-namdo",
+          "pl": "Hwanghae Południowe",
+          "pt": "Hwanghae Sul",
+          "ru": "Хванхэ-Намдо",
+          "sv": "Södra Hwanghae",
+          "tr": "Güney Hwanghae",
+          "vi": "Hwanghae Nam",
+          "zh": "黄海南道"
+        },
+        "population": 2285650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.917,
+          40.188
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-08",
+        "area": 4.8963839999999905,
+        "bounding_box": [
+          126.673,
+          39.204,
+          129.161,
+          41.172
+        ],
+        "point": [
+          127.917,
+          40.188
+        ],
+        "labels": {
+          "alt": "South Hamgyong|Kankyo Nan-do",
+          "local": "함경남도",
+          "len": 14,
+          "ar": "محافظة هامغيونغ الجنوبية",
+          "bn": "দক্ষিন হ্যামইয়ং প্রদেশ",
+          "de": "Hamgyŏng-namdo",
+          "en": "South Hamgyong Province",
+          "es": "Hamgyŏng del Sur",
+          "fr": "Hamgyong du Sud",
+          "el": "Σάουθ Χάμγκιονγκ",
+          "hi": "दक्षिण हमग्योंग प्रांत",
+          "hu": "Dél-Hamgjong",
+          "id": "Hamgyong Selatan",
+          "it": "Sud Hamgyong",
+          "ja": "咸鏡南道",
+          "ko": "함경남도",
+          "nl": "Hamgyŏng-namdo",
+          "pl": "Hamgyŏng Południowy",
+          "pt": "Hamgyong Sul",
+          "ru": "Хамгён-Намдо",
+          "sv": "Södra Hamgyong",
+          "tr": "Güney Hamgyong",
+          "vi": "Hamgyong Nam",
+          "zh": "咸镜南道"
+        },
+        "population": 2910652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.957,
+          38.996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kp",
+        "region_child": "kp-01",
+        "area": 0.493639999999998,
+        "bounding_box": [
+          125.527,
+          38.709,
+          126.387,
+          39.283
+        ],
+        "point": [
+          125.957,
+          38.996
+        ],
+        "labels": {
+          "alt": "Pyongyang|Pjöngjang|P'yŏngyang-tŭkpyŏlsi",
+          "local": "\t평양직할시",
+          "len": 10,
+          "ar": "بيونغيانغ",
+          "bn": "পিয়ং ইয়াং",
+          "de": "Pjöngjang",
+          "en": "Pyongyang",
+          "es": "Pionyang",
+          "fr": "Pyongyang",
+          "el": "Πιονγιάνγκ",
+          "hi": "प्योंगयांग",
+          "hu": "Phenjan",
+          "id": "Pyongyang",
+          "it": "Pyongyang",
+          "ja": "平壌",
+          "ko": "평양직할시",
+          "nl": "Pyongyang",
+          "pl": "Pjongjang",
+          "pt": "Pyongyang",
+          "ru": "Пхеньян",
+          "sv": "Pyongyang",
+          "tr": "Pyongyang",
+          "vi": "Bình Nhưỡng",
+          "zh": "平壤"
+        },
+        "population": 2972873
+      }
+    }
+  ]
+}

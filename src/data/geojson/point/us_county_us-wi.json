@@ -1,0 +1,2165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9555,
+          43.394000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "111",
+        "area": 0.3536479999999985,
+        "bounding_box": [
+          -90.312,
+          43.146,
+          -89.599,
+          43.642
+        ],
+        "point": [
+          -89.9555,
+          43.394000000000005
+        ],
+        "labels": {
+          "en": "Sauk"
+        },
+        "population": 69402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4715,
+          44.701499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "093",
+        "area": 0.21737900000000085,
+        "bounding_box": [
+          -92.808,
+          44.54,
+          -92.135,
+          44.863
+        ],
+        "point": [
+          -92.4715,
+          44.701499999999996
+        ],
+        "labels": {
+          "en": "Pierce"
+        },
+        "population": 47904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.16749999999999,
+          43.906000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "063",
+        "area": 0.18643000000000118,
+        "bounding_box": [
+          -91.425,
+          43.725,
+          -90.91,
+          44.087
+        ],
+        "point": [
+          -91.16749999999999,
+          43.906000000000006
+        ],
+        "labels": {
+          "en": "La Crosse"
+        },
+        "population": 122790
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.90350000000001,
+          44.947
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "033",
+        "area": 0.26668199999999687,
+        "bounding_box": [
+          -92.157,
+          44.684,
+          -91.65,
+          45.21
+        ],
+        "point": [
+          -91.90350000000001,
+          44.947
+        ],
+        "labels": {
+          "en": "Dunn"
+        },
+        "population": 48063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.73949999999999,
+          44.334
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "053",
+        "area": 0.4486779999999999,
+        "bounding_box": [
+          -91.166,
+          44.071,
+          -90.313,
+          44.597
+        ],
+        "point": [
+          -90.73949999999999,
+          44.334
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 22200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.065,
+          43.8075
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "047",
+        "area": 0.12635999999999947,
+        "bounding_box": [
+          -89.245,
+          43.632,
+          -88.885,
+          43.983
+        ],
+        "point": [
+          -89.065,
+          43.8075
+        ],
+        "labels": {
+          "en": "Green Lake"
+        },
+        "population": 19013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.542,
+          42.667500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "127",
+        "area": 0.16637399999999927,
+        "bounding_box": [
+          -88.779,
+          42.492,
+          -88.305,
+          42.843
+        ],
+        "point": [
+          -88.542,
+          42.667500000000004
+        ],
+        "labels": {
+          "en": "Walworth"
+        },
+        "population": 112452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.792,
+          43.576499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "123",
+        "area": 0.2972580000000011,
+        "bounding_box": [
+          -91.273,
+          43.422,
+          -90.311,
+          43.731
+        ],
+        "point": [
+          -90.792,
+          43.576499999999996
+        ],
+        "labels": {
+          "en": "Vernon"
+        },
+        "population": 31211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.663,
+          42.581500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "059",
+        "area": 0.22762199999999974,
+        "bounding_box": [
+          -88.306,
+          42.493,
+          -87.02,
+          42.67
+        ],
+        "point": [
+          -87.663,
+          42.581500000000005
+        ],
+        "labels": {
+          "en": "Kenosha"
+        },
+        "population": 183756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5695,
+          43.0175
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "079",
+        "area": 0.35135099999999575,
+        "bounding_box": [
+          -88.07,
+          42.842,
+          -87.069,
+          43.193
+        ],
+        "point": [
+          -87.5695,
+          43.0175
+        ],
+        "labels": {
+          "en": "Milwaukee"
+        },
+        "population": 954879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4425,
+          46.6455
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "003",
+        "area": 1.2904590000000054,
+        "bounding_box": [
+          -90.928,
+          45.981,
+          -89.957,
+          47.31
+        ],
+        "point": [
+          -90.4425,
+          46.6455
+        ],
+        "labels": {
+          "en": "Ashland"
+        },
+        "population": 15436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5455,
+          45.682500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "085",
+        "area": 0.43656300000000264,
+        "bounding_box": [
+          -90.045,
+          45.464,
+          -89.046,
+          45.901
+        ],
+        "point": [
+          -89.5455,
+          45.682500000000005
+        ],
+        "labels": {
+          "en": "Oneida"
+        },
+        "population": 35324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24199999999999,
+          44.114000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "137",
+        "area": 0.18796800000000294,
+        "bounding_box": [
+          -89.598,
+          43.982,
+          -88.886,
+          44.246
+        ],
+        "point": [
+          -89.24199999999999,
+          44.114000000000004
+        ],
+        "labels": {
+          "en": "Waushara"
+        },
+        "population": 26134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7955,
+          45.897999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "129",
+        "area": 0.26571999999999935,
+        "bounding_box": [
+          -92.051,
+          45.638,
+          -91.54,
+          46.158
+        ],
+        "point": [
+          -91.7955,
+          45.897999999999996
+        ],
+        "labels": {
+          "en": "Washburn"
+        },
+        "population": 15717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1325,
+          42.6605
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "065",
+        "area": 0.1820010000000025,
+        "bounding_box": [
+          -90.427,
+          42.506,
+          -89.838,
+          42.815
+        ],
+        "point": [
+          -90.1325,
+          42.6605
+        ],
+        "labels": {
+          "en": "Lafayette"
+        },
+        "population": 17812
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.91499999999999,
+          44.462
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "135",
+        "area": 0.27155999999999286,
+        "bounding_box": [
+          -89.225,
+          44.243,
+          -88.605,
+          44.681
+        ],
+        "point": [
+          -88.91499999999999,
+          44.462
+        ],
+        "labels": {
+          "en": "Waupaca"
+        },
+        "population": 53673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4885,
+          46.0785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "125",
+        "area": 0.49217299999999314,
+        "bounding_box": [
+          -90.044,
+          45.857,
+          -88.933,
+          46.3
+        ],
+        "point": [
+          -89.4885,
+          46.0785
+        ],
+        "labels": {
+          "en": "Vilas"
+        },
+        "population": 21652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5915,
+          43.367000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "089",
+        "area": 0.33263999999999455,
+        "bounding_box": [
+          -88.064,
+          43.191,
+          -87.119,
+          43.543
+        ],
+        "point": [
+          -87.5915,
+          43.367000000000004
+        ],
+        "labels": {
+          "en": "Ozaukee"
+        },
+        "population": 91551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61850000000001,
+          43.718
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "117",
+        "area": 0.384798000000008,
+        "bounding_box": [
+          -88.162,
+          43.541,
+          -87.075,
+          43.895
+        ],
+        "point": [
+          -87.61850000000001,
+          43.718
+        ],
+        "labels": {
+          "en": "Sheboygan"
+        },
+        "population": 118092
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2295,
+          43.367999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "131",
+        "area": 0.1334079999999955,
+        "bounding_box": [
+          -88.419,
+          43.192,
+          -88.04,
+          43.544
+        ],
+        "point": [
+          -88.2295,
+          43.367999999999995
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 148519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.144,
+          46.683
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "007",
+        "area": 0.8659200000000057,
+        "bounding_box": [
+          -91.554,
+          46.155,
+          -90.734,
+          47.211
+        ],
+        "point": [
+          -91.144,
+          46.683
+        ],
+        "labels": {
+          "en": "Bayfield"
+        },
+        "population": 14982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.53399999999999,
+          44.4645
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "097",
+        "area": 0.2755459999999986,
+        "bounding_box": [
+          -89.845,
+          44.243,
+          -89.223,
+          44.686
+        ],
+        "point": [
+          -89.53399999999999,
+          44.4645
+        ],
+        "labels": {
+          "en": "Portage"
+        },
+        "population": 72992
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.523,
+          43.7405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "039",
+        "area": 0.2867700000000019,
+        "bounding_box": [
+          -88.886,
+          43.543,
+          -88.16,
+          43.938
+        ],
+        "point": [
+          -88.523,
+          43.7405
+        ],
+        "labels": {
+          "en": "Fond du Lac"
+        },
+        "population": 106513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.272,
+          44.501999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "061",
+        "area": 0.3458000000000012,
+        "bounding_box": [
+          -87.766,
+          44.327,
+          -86.778,
+          44.677
+        ],
+        "point": [
+          -87.272,
+          44.501999999999995
+        ],
+        "labels": {
+          "en": "Kewaunee"
+        },
+        "population": 21058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.03200000000001,
+          45.2495
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "067",
+        "area": 0.34750799999999493,
+        "bounding_box": [
+          -89.426,
+          45.029,
+          -88.638,
+          45.47
+        ],
+        "point": [
+          -89.03200000000001,
+          45.2495
+        ],
+        "labels": {
+          "en": "Langlade"
+        },
+        "population": 19220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.07249999999999,
+          42.67
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "105",
+        "area": 0.21110800000000224,
+        "bounding_box": [
+          -89.369,
+          42.492,
+          -88.776,
+          42.848
+        ],
+        "point": [
+          -89.07249999999999,
+          42.67
+        ],
+        "labels": {
+          "en": "Rock"
+        },
+        "population": 166930
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9405,
+          43.2065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "023",
+        "area": 0.23991300000000157,
+        "bounding_box": [
+          -91.215,
+          42.988,
+          -90.666,
+          43.425
+        ],
+        "point": [
+          -90.9405,
+          43.2065
+        ],
+        "labels": {
+          "en": "Crawford"
+        },
+        "population": 16158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.28550000000001,
+          44.7265
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "035",
+        "area": 0.19026900000000183,
+        "bounding_box": [
+          -91.65,
+          44.596,
+          -90.921,
+          44.857
+        ],
+        "point": [
+          -91.28550000000001,
+          44.7265
+        ],
+        "labels": {
+          "en": "Eau Claire"
+        },
+        "population": 104775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22,
+          45.025499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "083",
+        "area": 0.6504400000000019,
+        "bounding_box": [
+          -88.68,
+          44.672,
+          -87.76,
+          45.379
+        ],
+        "point": [
+          -88.22,
+          45.025499999999994
+        ],
+        "labels": {
+          "en": "Oconto"
+        },
+        "population": 39796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7365,
+          45.7255
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "041",
+        "area": 0.43423100000000053,
+        "bounding_box": [
+          -89.048,
+          45.377,
+          -88.425,
+          46.074
+        ],
+        "point": [
+          -88.7365,
+          45.7255
+        ],
+        "labels": {
+          "en": "Forest"
+        },
+        "population": 8616
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1145,
+          45.897999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "113",
+        "area": 0.45500000000000274,
+        "bounding_box": [
+          -91.552,
+          45.638,
+          -90.677,
+          46.158
+        ],
+        "point": [
+          -91.1145,
+          45.897999999999996
+        ],
+        "labels": {
+          "en": "Sawyer"
+        },
+        "population": 16946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.382,
+          44.2905
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "121",
+        "area": 0.28197999999999596,
+        "bounding_box": [
+          -91.612,
+          43.984,
+          -91.152,
+          44.597
+        ],
+        "point": [
+          -91.382,
+          44.2905
+        ],
+        "labels": {
+          "en": "Trempealeau"
+        },
+        "population": 30602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.521,
+          45.469
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "095",
+        "area": 0.3816800000000017,
+        "bounding_box": [
+          -92.888,
+          45.209,
+          -92.154,
+          45.729
+        ],
+        "point": [
+          -92.521,
+          45.469
+        ],
+        "labels": {
+          "en": "Polk"
+        },
+        "population": 47391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.60249999999999,
+          42.679
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "045",
+        "area": 0.1693339999999982,
+        "bounding_box": [
+          -89.839,
+          42.5,
+          -89.366,
+          42.858
+        ],
+        "point": [
+          -89.60249999999999,
+          42.679
+        ],
+        "labels": {
+          "en": "Green"
+        },
+        "population": 40486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.465,
+          44.4165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "087",
+        "area": 0.19195000000000106,
+        "bounding_box": [
+          -88.74,
+          44.242,
+          -88.19,
+          44.591
+        ],
+        "point": [
+          -88.465,
+          44.4165
+        ],
+        "labels": {
+          "en": "Outagamie"
+        },
+        "population": 198988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8115,
+          43.945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "001",
+        "area": 0.260832000000003,
+        "bounding_box": [
+          -90.026,
+          43.641,
+          -89.597,
+          44.249
+        ],
+        "point": [
+          -89.8115,
+          43.945
+        ],
+        "labels": {
+          "en": "Adams"
+        },
+        "population": 21880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.48400000000001,
+          45.207
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "119",
+        "area": 0.31116800000000355,
+        "bounding_box": [
+          -90.926,
+          45.031,
+          -90.042,
+          45.383
+        ],
+        "point": [
+          -90.48400000000001,
+          45.207
+        ],
+        "labels": {
+          "en": "Taylor"
+        },
+        "population": 21693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.77,
+          44.900999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "073",
+        "area": 0.4813600000000027,
+        "bounding_box": [
+          -90.317,
+          44.681,
+          -89.223,
+          45.121
+        ],
+        "point": [
+          -89.77,
+          44.900999999999996
+        ],
+        "labels": {
+          "en": "Marathon"
+        },
+        "population": 144131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37100000000001,
+          45.8665
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "037",
+        "area": 0.19218199999999847,
+        "bounding_box": [
+          -88.684,
+          45.713,
+          -88.058,
+          46.02
+        ],
+        "point": [
+          -88.37100000000001,
+          45.8665
+        ],
+        "labels": {
+          "en": "Florence"
+        },
+        "population": 3896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8485,
+          45.423500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "005",
+        "area": 0.26716099999999565,
+        "bounding_box": [
+          -92.157,
+          45.207,
+          -91.54,
+          45.64
+        ],
+        "point": [
+          -91.8485,
+          45.423500000000004
+        ],
+        "labels": {
+          "en": "Barron"
+        },
+        "population": 46993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24000000000001,
+          46.3895
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "051",
+        "area": 0.5098080000000078,
+        "bounding_box": [
+          -90.552,
+          45.981,
+          -89.928,
+          46.798
+        ],
+        "point": [
+          -90.24000000000001,
+          46.3895
+        ],
+        "labels": {
+          "en": "Iron"
+        },
+        "population": 5265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.643,
+          43.943
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "081",
+        "area": 0.28863200000000266,
+        "bounding_box": [
+          -90.974,
+          43.725,
+          -90.312,
+          44.161
+        ],
+        "point": [
+          -90.643,
+          43.943
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 49213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.676,
+          42.7275
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "101",
+        "area": 0.2945120000000075,
+        "bounding_box": [
+          -88.308,
+          42.611,
+          -87.044,
+          42.844
+        ],
+        "point": [
+          -87.676,
+          42.7275
+        ],
+        "labels": {
+          "en": "Racine"
+        },
+        "population": 202768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73349999999999,
+          44.807500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "115",
+        "area": 0.4365450000000042,
+        "bounding_box": [
+          -89.224,
+          44.585,
+          -88.243,
+          45.03
+        ],
+        "point": [
+          -88.73349999999999,
+          44.807500000000005
+        ],
+        "labels": {
+          "en": "Shawano"
+        },
+        "population": 43460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7045,
+          43.414500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "027",
+        "area": 0.2673509999999977,
+        "bounding_box": [
+          -89.009,
+          43.195,
+          -88.4,
+          43.634
+        ],
+        "point": [
+          -88.7045,
+          43.414500000000004
+        ],
+        "labels": {
+          "en": "Dodge"
+        },
+        "population": 89967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.424,
+          43.0695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "025",
+        "area": 0.3726699999999976,
+        "bounding_box": [
+          -89.839,
+          42.845,
+          -89.009,
+          43.294
+        ],
+        "point": [
+          -89.424,
+          43.0695
+        ],
+        "labels": {
+          "en": "Dane"
+        },
+        "population": 557854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2235,
+          44.068
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "015",
+        "area": 0.12777599999999867,
+        "bounding_box": [
+          -88.405,
+          43.892,
+          -88.042,
+          44.244
+        ],
+        "point": [
+          -88.2235,
+          44.068
+        ],
+        "labels": {
+          "en": "Calumet"
+        },
+        "population": 54137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.775,
+          43.019999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "055",
+        "area": 0.1701679999999988,
+        "bounding_box": [
+          -89.014,
+          42.842,
+          -88.536,
+          43.198
+        ],
+        "point": [
+          -88.775,
+          43.019999999999996
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 94923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.459,
+          45.899
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "013",
+        "area": 0.44340799999999775,
+        "bounding_box": [
+          -92.887,
+          45.64,
+          -92.031,
+          46.158
+        ],
+        "point": [
+          -92.459,
+          45.899
+        ],
+        "labels": {
+          "en": "Burnett"
+        },
+        "population": 15308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.294,
+          45.074
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "017",
+        "area": 0.32438399999999984,
+        "bounding_box": [
+          -91.666,
+          44.856,
+          -90.922,
+          45.292
+        ],
+        "point": [
+          -91.294,
+          45.074
+        ],
+        "labels": {
+          "en": "Chippewa"
+        },
+        "population": 70066
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.92150000000001,
+          46.525
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "031",
+        "area": 0.548319999999996,
+        "bounding_box": [
+          -92.294,
+          46.157,
+          -91.549,
+          46.893
+        ],
+        "point": [
+          -91.92150000000001,
+          46.525
+        ],
+        "labels": {
+          "en": "Douglas"
+        },
+        "population": 45057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.384,
+          43.813
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "077",
+        "area": 0.1468799999999943,
+        "bounding_box": [
+          -89.6,
+          43.643,
+          -89.168,
+          43.983
+        ],
+        "point": [
+          -89.384,
+          43.813
+        ],
+        "labels": {
+          "en": "Marquette"
+        },
+        "population": 16421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0055,
+          44.46
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "009",
+        "area": 0.21780000000000088,
+        "bounding_box": [
+          -88.253,
+          44.24,
+          -87.758,
+          44.68
+        ],
+        "point": [
+          -88.0055,
+          44.46
+        ],
+        "labels": {
+          "en": "Brown"
+        },
+        "population": 271644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4315,
+          43.3595
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "103",
+        "area": 0.18807099999999702,
+        "bounding_box": [
+          -90.672,
+          43.164,
+          -90.191,
+          43.555
+        ],
+        "point": [
+          -90.4315,
+          43.3595
+        ],
+        "labels": {
+          "en": "Richland"
+        },
+        "population": 17899
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0215,
+          44.466499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "141",
+        "area": 0.25914100000000434,
+        "bounding_box": [
+          -90.318,
+          44.248,
+          -89.725,
+          44.685
+        ],
+        "point": [
+          -90.0215,
+          44.466499999999996
+        ],
+        "labels": {
+          "en": "Wood"
+        },
+        "population": 73037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64500000000001,
+          44.0685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "139",
+        "area": 0.16988399999999768,
+        "bounding_box": [
+          -88.887,
+          43.893,
+          -88.403,
+          44.244
+        ],
+        "point": [
+          -88.64500000000001,
+          44.0685
+        ],
+        "labels": {
+          "en": "Winnebago"
+        },
+        "population": 176590
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.73500000000001,
+          45.3375
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "069",
+        "area": 0.27181399999999845,
+        "bounding_box": [
+          -90.046,
+          45.119,
+          -89.424,
+          45.556
+        ],
+        "point": [
+          -89.73500000000001,
+          45.3375
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 28223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.983,
+          44.5455
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "091",
+        "area": 0.1844819999999998,
+        "bounding_box": [
+          -92.316,
+          44.407,
+          -91.65,
+          44.684
+        ],
+        "point": [
+          -91.983,
+          44.5455
+        ],
+        "labels": {
+          "en": "Pepin"
+        },
+        "population": 7499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.134,
+          43.0115
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "049",
+        "area": 0.23502400000000423,
+        "bounding_box": [
+          -90.43,
+          42.813,
+          -89.838,
+          43.21
+        ],
+        "point": [
+          -90.134,
+          43.0115
+        ],
+        "labels": {
+          "en": "Iowa"
+        },
+        "population": 24533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93549999999999,
+          45.28
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "075",
+        "area": 1.0165199999999959,
+        "bounding_box": [
+          -88.428,
+          44.764,
+          -87.443,
+          45.796
+        ],
+        "point": [
+          -87.93549999999999,
+          45.28
+        ],
+        "labels": {
+          "en": "Marinette"
+        },
+        "population": 40164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.361,
+          45.679500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "099",
+        "area": 0.38599000000000117,
+        "bounding_box": [
+          -90.68,
+          45.377,
+          -90.042,
+          45.982
+        ],
+        "point": [
+          -90.361,
+          45.679500000000004
+        ],
+        "labels": {
+          "en": "Price"
+        },
+        "population": 12683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7915,
+          42.858999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "043",
+        "area": 0.5146239999999966,
+        "bounding_box": [
+          -91.157,
+          42.507,
+          -90.426,
+          43.211
+        ],
+        "point": [
+          -90.7915,
+          42.858999999999995
+        ],
+        "labels": {
+          "en": "Grant"
+        },
+        "population": 53010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3955,
+          43.4625
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "021",
+        "area": 0.2835030000000018,
+        "bounding_box": [
+          -89.786,
+          43.281,
+          -89.005,
+          43.644
+        ],
+        "point": [
+          -89.3955,
+          43.4625
+        ],
+        "labels": {
+          "en": "Columbia"
+        },
+        "population": 61200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.619,
+          44.727999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "019",
+        "area": 0.37209600000000365,
+        "bounding_box": [
+          -90.923,
+          44.422,
+          -90.315,
+          45.034
+        ],
+        "point": [
+          -90.619,
+          44.727999999999994
+        ],
+        "labels": {
+          "en": "Clark"
+        },
+        "population": 35301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.469,
+          45.034
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "109",
+        "area": 0.23513599999999982,
+        "bounding_box": [
+          -92.803,
+          44.858,
+          -92.135,
+          45.21
+        ],
+        "point": [
+          -92.469,
+          45.034
+        ],
+        "labels": {
+          "en": "St. Croix"
+        },
+        "population": 110370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.049,
+          43.945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "057",
+        "area": 0.3210240000000057,
+        "bounding_box": [
+          -90.313,
+          43.641,
+          -89.785,
+          44.249
+        ],
+        "point": [
+          -90.049,
+          43.945
+        ],
+        "labels": {
+          "en": "Juneau"
+        },
+        "population": 29183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1095,
+          45.465
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "107",
+        "area": 0.3003240000000051,
+        "bounding_box": [
+          -91.541,
+          45.291,
+          -90.678,
+          45.639
+        ],
+        "point": [
+          -91.1095,
+          45.465
+        ],
+        "labels": {
+          "en": "Rusk"
+        },
+        "population": 14281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30250000000001,
+          43.019
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "133",
+        "area": 0.16956599999999933,
+        "bounding_box": [
+          -88.542,
+          42.842,
+          -88.063,
+          43.196
+        ],
+        "point": [
+          -88.30250000000001,
+          43.019
+        ],
+        "labels": {
+          "en": "Waukesha"
+        },
+        "population": 421502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8065,
+          44.311
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "011",
+        "area": 0.3174600000000054,
+        "bounding_box": [
+          -92.084,
+          44.025,
+          -91.529,
+          44.597
+        ],
+        "point": [
+          -91.8065,
+          44.311
+        ],
+        "labels": {
+          "en": "Buffalo"
+        },
+        "population": 13730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.733,
+          44.9865
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "078",
+        "area": 0.13097400000000384,
+        "bounding_box": [
+          -88.982,
+          44.855,
+          -88.484,
+          45.118
+        ],
+        "point": [
+          -88.733,
+          44.9865
+        ],
+        "labels": {
+          "en": "Menominee"
+        },
+        "population": 3942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.48349999999999,
+          44.1105
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "071",
+        "area": 0.4898769999999952,
+        "bounding_box": [
+          -88.044,
+          43.892,
+          -86.923,
+          44.329
+        ],
+        "point": [
+          -87.48349999999999,
+          44.1105
+        ],
+        "labels": {
+          "en": "Manitowoc"
+        },
+        "population": 79966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.006,
+          45.0595
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-wi",
+        "region_child": "029",
+        "area": 1.1627280000000086,
+        "bounding_box": [
+          -87.762,
+          44.675,
+          -86.25,
+          45.444
+        ],
+        "point": [
+          -87.006,
+          45.0595
+        ],
+        "labels": {
+          "en": "Door"
+        },
+        "population": 27682
+      }
+    }
+  ]
+}

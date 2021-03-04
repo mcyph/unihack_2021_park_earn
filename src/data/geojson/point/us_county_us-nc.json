@@ -1,0 +1,3005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.231,
+          35.696
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "037",
+        "area": 0.23529999999999812,
+        "bounding_box": [
+          -79.556,
+          35.515,
+          -78.906,
+          35.877
+        ],
+        "point": [
+          -79.231,
+          35.696
+        ],
+        "labels": {
+          "en": "Chatham"
+        },
+        "population": 80773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3895,
+          36.0465
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "001",
+        "area": 0.1241350000000017,
+        "bounding_box": [
+          -79.542,
+          35.843,
+          -79.237,
+          36.25
+        ],
+        "point": [
+          -79.3895,
+          36.0465
+        ],
+        "labels": {
+          "en": "Alamance"
+        },
+        "population": 175096
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.265,
+          35.7655
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "057",
+        "area": 0.23221199999999537,
+        "bounding_box": [
+          -80.487,
+          35.504,
+          -80.043,
+          36.027
+        ],
+        "point": [
+          -80.265,
+          35.7655
+        ],
+        "labels": {
+          "en": "Davidson"
+        },
+        "population": 182010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2765,
+          36.042
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "069",
+        "area": 0.24147200000000088,
+        "bounding_box": [
+          -78.546,
+          35.818,
+          -78.007,
+          36.266
+        ],
+        "point": [
+          -78.2765,
+          36.042
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 77221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.134,
+          34.626000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "155",
+        "area": 0.4290240000000061,
+        "bounding_box": [
+          -79.462,
+          34.299,
+          -78.806,
+          34.953
+        ],
+        "point": [
+          -79.134,
+          34.626000000000005
+        ],
+        "labels": {
+          "en": "Robeson"
+        },
+        "population": 146335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24,
+          35.483999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "109",
+        "area": 0.10012800000000018,
+        "bounding_box": [
+          -81.538,
+          35.4,
+          -80.942,
+          35.568
+        ],
+        "point": [
+          -81.24,
+          35.483999999999995
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 95912
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5695,
+          35.9405
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "027",
+        "area": 0.17629499999999904,
+        "bounding_box": [
+          -81.811,
+          35.758,
+          -81.328,
+          36.123
+        ],
+        "point": [
+          -81.5695,
+          35.9405
+        ],
+        "labels": {
+          "en": "Caldwell"
+        },
+        "population": 89534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8575,
+          36.051
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "063",
+        "area": 0.11919200000000199,
+        "bounding_box": [
+          -79.016,
+          35.863,
+          -78.699,
+          36.239
+        ],
+        "point": [
+          -78.8575,
+          36.051
+        ],
+        "labels": {
+          "en": "Durham"
+        },
+        "population": 320899
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9745,
+          36.388999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "145",
+        "area": 0.10985399999999998,
+        "bounding_box": [
+          -79.154,
+          36.236,
+          -78.795,
+          36.542
+        ],
+        "point": [
+          -78.9745,
+          36.388999999999996
+        ],
+        "labels": {
+          "en": "Person"
+        },
+        "population": 43645
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.686,
+          35.872
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "115",
+        "area": 0.21495199999999817,
+        "bounding_box": [
+          -82.963,
+          35.678,
+          -82.409,
+          36.066
+        ],
+        "point": [
+          -82.686,
+          35.872
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 22182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.80449999999999,
+          35.713499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "151",
+        "area": 0.21787499999999602,
+        "bounding_box": [
+          -80.067,
+          35.506,
+          -79.542,
+          35.921
+        ],
+        "point": [
+          -79.80449999999999,
+          35.713499999999996
+        ],
+        "labels": {
+          "en": "Randolph"
+        },
+        "population": 154173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48349999999999,
+          36.3555
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "131",
+        "area": 0.317373000000005,
+        "bounding_box": [
+          -77.9,
+          36.165,
+          -77.067,
+          36.546
+        ],
+        "point": [
+          -77.48349999999999,
+          36.3555
+        ],
+        "labels": {
+          "en": "Northampton"
+        },
+        "population": 21950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.831,
+          35.4775
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "013",
+        "area": 0.3796979999999967,
+        "bounding_box": [
+          -77.194,
+          35.216,
+          -76.468,
+          35.739
+        ],
+        "point": [
+          -76.831,
+          35.4775
+        ],
+        "labels": {
+          "en": "Beaufort"
+        },
+        "population": 50918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4775,
+          35.682
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "159",
+        "area": 0.21203999999999917,
+        "bounding_box": [
+          -80.772,
+          35.502,
+          -80.183,
+          35.862
+        ],
+        "point": [
+          -80.4775,
+          35.682
+        ],
+        "labels": {
+          "en": "Rowan"
+        },
+        "population": 145441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.804,
+          35.051
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "051",
+        "area": 0.26697599999999916,
+        "bounding_box": [
+          -79.113,
+          34.835,
+          -78.495,
+          35.267
+        ],
+        "point": [
+          -78.804,
+          35.051
+        ],
+        "labels": {
+          "en": "Cumberland"
+        },
+        "population": 337491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.767,
+          34.9945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "153",
+        "area": 0.2334639999999985,
+        "bounding_box": [
+          -80.075,
+          34.805,
+          -79.459,
+          35.184
+        ],
+        "point": [
+          -79.767,
+          34.9945
+        ],
+        "labels": {
+          "en": "Richmond"
+        },
+        "population": 46609
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.247,
+          35.023
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "093",
+        "area": 0.16027200000000255,
+        "bounding_box": [
+          -79.459,
+          34.834,
+          -79.035,
+          35.212
+        ],
+        "point": [
+          -79.247,
+          35.023
+        ],
+        "labels": {
+          "en": "Hoke"
+        },
+        "population": 65174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.541,
+          35.346000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "025",
+        "area": 0.1584239999999993,
+        "bounding_box": [
+          -80.787,
+          35.185,
+          -80.295,
+          35.507
+        ],
+        "point": [
+          -80.541,
+          35.346000000000004
+        ],
+        "labels": {
+          "en": "Cabarrus"
+        },
+        "population": 241897
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.215,
+          36.3185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "029",
+        "area": 0.30411000000000055,
+        "bounding_box": [
+          -76.542,
+          36.086,
+          -75.888,
+          36.551
+        ],
+        "point": [
+          -76.215,
+          36.3185
+        ],
+        "labels": {
+          "en": "Camden"
+        },
+        "population": 14390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23949999999999,
+          36.403999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "169",
+        "area": 0.12495000000000088,
+        "bounding_box": [
+          -80.452,
+          36.257,
+          -80.027,
+          36.551
+        ],
+        "point": [
+          -80.23949999999999,
+          36.403999999999996
+        ],
+        "labels": {
+          "en": "Stokes"
+        },
+        "population": 51157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5865,
+          34.8665
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "031",
+        "area": 0.7753709999999993,
+        "bounding_box": [
+          -77.166,
+          34.532,
+          -76.007,
+          35.201
+        ],
+        "point": [
+          -76.5865,
+          34.8665
+        ],
+        "labels": {
+          "en": "Carteret"
+        },
+        "population": 74445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1275,
+          36.4705
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "005",
+        "area": 0.09425900000000005,
+        "bounding_box": [
+          -81.353,
+          36.366,
+          -80.902,
+          36.575
+        ],
+        "point": [
+          -81.1275,
+          36.4705
+        ],
+        "labels": {
+          "en": "Alleghany"
+        },
+        "population": 11735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.257,
+          36.2855
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "139",
+        "area": 0.21106800000000184,
+        "bounding_box": [
+          -76.491,
+          36.06,
+          -76.023,
+          36.511
+        ],
+        "point": [
+          -76.257,
+          36.2855
+        ],
+        "labels": {
+          "en": "Pasquotank"
+        },
+        "population": 47411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.207,
+          36.219
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "193",
+        "area": 0.30014400000000263,
+        "bounding_box": [
+          -81.545,
+          35.997,
+          -80.869,
+          36.441
+        ],
+        "point": [
+          -81.207,
+          36.219
+        ],
+        "labels": {
+          "en": "Wilkes"
+        },
+        "population": 73219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.17349999999999,
+          35.911500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "003",
+        "area": 0.09172899999999781,
+        "bounding_box": [
+          -81.344,
+          35.777,
+          -81.003,
+          36.046
+        ],
+        "point": [
+          -81.17349999999999,
+          35.911500000000004
+        ],
+        "labels": {
+          "en": "Alexander"
+        },
+        "population": 40923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.619,
+          36.2585
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "083",
+        "area": 0.39343200000000367,
+        "bounding_box": [
+          -78.007,
+          36.005,
+          -77.231,
+          36.512
+        ],
+        "point": [
+          -77.619,
+          36.2585
+        ],
+        "labels": {
+          "en": "Halifax"
+        },
+        "population": 51851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.392,
+          34.935
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "163",
+        "area": 0.4251960000000055,
+        "bounding_box": [
+          -78.671,
+          34.554,
+          -78.113,
+          35.316
+        ],
+        "point": [
+          -78.392,
+          34.935
+        ],
+        "labels": {
+          "en": "Sampson"
+        },
+        "population": 66898
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68700000000001,
+          36.2515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "189",
+        "area": 0.12889799999999924,
+        "bounding_box": [
+          -81.918,
+          36.112,
+          -81.456,
+          36.391
+        ],
+        "point": [
+          -81.68700000000001,
+          36.2515
+        ],
+        "labels": {
+          "en": "Watauga"
+        },
+        "population": 60982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5545,
+          35.4875
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "173",
+        "area": 0.3323489999999944,
+        "bounding_box": [
+          -83.953,
+          35.279,
+          -83.156,
+          35.696
+        ],
+        "point": [
+          -83.5545,
+          35.4875
+        ],
+        "labels": {
+          "en": "Swain"
+        },
+        "population": 15099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9085,
+          36.099000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "011",
+        "area": 0.12971999999999878,
+        "bounding_box": [
+          -82.081,
+          35.911,
+          -81.736,
+          36.287
+        ],
+        "point": [
+          -81.9085,
+          36.099000000000004
+        ],
+        "labels": {
+          "en": "Avery"
+        },
+        "population": 18432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.545,
+          35.3715
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "045",
+        "area": 0.18598199999999987,
+        "bounding_box": [
+          -81.768,
+          35.163,
+          -81.322,
+          35.58
+        ],
+        "point": [
+          -81.545,
+          35.3715
+        ],
+        "labels": {
+          "en": "Cleveland"
+        },
+        "population": 99649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.432,
+          35.281
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "125",
+        "area": 0.31852800000000114,
+        "bounding_box": [
+          -79.768,
+          35.044,
+          -79.096,
+          35.518
+        ],
+        "point": [
+          -79.432,
+          35.281
+        ],
+        "labels": {
+          "en": "Moore"
+        },
+        "population": 104082
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.276,
+          36.1175
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "067",
+        "area": 0.1392980000000005,
+        "bounding_box": [
+          -80.517,
+          35.973,
+          -80.035,
+          36.262
+        ],
+        "point": [
+          -80.276,
+          36.1175
+        ],
+        "labels": {
+          "en": "Forsyth"
+        },
+        "population": 399636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63,
+          36.2825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "077",
+        "area": 0.18235000000000473,
+        "bounding_box": [
+          -78.805,
+          36.022,
+          -78.455,
+          36.543
+        ],
+        "point": [
+          -78.63,
+          36.2825
+        ],
+        "labels": {
+          "en": "Granville"
+        },
+        "population": 73434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.112,
+          36.374
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "185",
+        "area": 0.14500799999999686,
+        "bounding_box": [
+          -78.324,
+          36.203,
+          -77.9,
+          36.545
+        ],
+        "point": [
+          -78.112,
+          36.374
+        ],
+        "labels": {
+          "en": "Warren"
+        },
+        "population": 21965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6455,
+          35.156000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "137",
+        "area": 0.2813959999999963,
+        "bounding_box": [
+          -76.987,
+          34.95,
+          -76.304,
+          35.362
+        ],
+        "point": [
+          -76.6455,
+          35.156000000000006
+        ],
+        "labels": {
+          "en": "Pamlico"
+        },
+        "population": 13355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.33500000000001,
+          36.391999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "033",
+        "area": 0.11819999999999906,
+        "bounding_box": [
+          -79.532,
+          36.242,
+          -79.138,
+          36.542
+        ],
+        "point": [
+          -79.33500000000001,
+          36.391999999999996
+        ],
+        "labels": {
+          "en": "Caswell"
+        },
+        "population": 24167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.61250000000001,
+          35.2175
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "107",
+        "area": 0.18561699999999773,
+        "bounding_box": [
+          -77.834,
+          35.008,
+          -77.391,
+          35.427
+        ],
+        "point": [
+          -77.61250000000001,
+          35.2175
+        ],
+        "labels": {
+          "en": "Lenoir"
+        },
+        "population": 59340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.81049999999999,
+          35.341
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "075",
+        "area": 0.1128400000000017,
+        "bounding_box": [
+          -84.038,
+          35.217,
+          -83.583,
+          35.465
+        ],
+        "point": [
+          -83.81049999999999,
+          35.341
+        ],
+        "labels": {
+          "en": "Graham"
+        },
+        "population": 9826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7015,
+          36.424
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "073",
+        "area": 0.12672000000000128,
+        "bounding_box": [
+          -76.949,
+          36.296,
+          -76.454,
+          36.552
+        ],
+        "point": [
+          -76.7015,
+          36.424
+        ],
+        "labels": {
+          "en": "Gates"
+        },
+        "population": 14015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9865,
+          35.394999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "161",
+        "area": 0.2520920000000081,
+        "bounding_box": [
+          -82.281,
+          35.181,
+          -81.692,
+          35.609
+        ],
+        "point": [
+          -81.9865,
+          35.394999999999996
+        ],
+        "labels": {
+          "en": "Rutherford"
+        },
+        "population": 73281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6005,
+          35.862
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "187",
+        "area": 0.16170399999999982,
+        "bounding_box": [
+          -76.847,
+          35.698,
+          -76.354,
+          36.026
+        ],
+        "point": [
+          -76.6005,
+          35.862
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 12548
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0855,
+          35.009
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "007",
+        "area": 0.19028399999999976,
+        "bounding_box": [
+          -80.321,
+          34.807,
+          -79.85,
+          35.211
+        ],
+        "point": [
+          -80.0855,
+          35.009
+        ],
+        "labels": {
+          "en": "Anson"
+        },
+        "population": 28818
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1095,
+          36.052
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "135",
+        "area": 0.12109400000000436,
+        "bounding_box": [
+          -79.268,
+          35.861,
+          -78.951,
+          36.243
+        ],
+        "point": [
+          -79.1095,
+          36.052
+        ],
+        "labels": {
+          "en": "Orange"
+        },
+        "population": 155772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0635,
+          35.1135
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "049",
+        "area": 0.4999890000000002,
+        "bounding_box": [
+          -77.474,
+          34.809,
+          -76.653,
+          35.418
+        ],
+        "point": [
+          -77.0635,
+          35.1135
+        ],
+        "labels": {
+          "en": "Craven"
+        },
+        "population": 117030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9285,
+          35.724999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "195",
+        "area": 0.1496679999999957,
+        "bounding_box": [
+          -78.192,
+          35.583,
+          -77.665,
+          35.867
+        ],
+        "point": [
+          -77.9285,
+          35.724999999999994
+        ],
+        "labels": {
+          "en": "Wilson"
+        },
+        "population": 89471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.925,
+          34.952
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "061",
+        "area": 0.26523200000000186,
+        "bounding_box": [
+          -78.199,
+          34.71,
+          -77.651,
+          35.194
+        ],
+        "point": [
+          -77.925,
+          34.952
+        ],
+        "labels": {
+          "en": "Duplin"
+        },
+        "population": 69617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0,
+          35.5415
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "087",
+        "area": 0.254489999999993,
+        "bounding_box": [
+          -83.255,
+          35.292,
+          -82.745,
+          35.791
+        ],
+        "point": [
+          -83.0,
+          35.5415
+        ],
+        "labels": {
+          "en": "Haywood"
+        },
+        "population": 64446
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7895,
+          36.0785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "081",
+        "area": 0.18385499999999985,
+        "bounding_box": [
+          -80.047,
+          35.9,
+          -79.532,
+          36.257
+        ],
+        "point": [
+          -79.7895,
+          36.0785
+        ],
+        "labels": {
+          "en": "Guilford"
+        },
+        "population": 566500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.14150000000001,
+          35.2635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "099",
+        "area": 0.2336250000000064,
+        "bounding_box": [
+          -83.364,
+          35.001,
+          -82.919,
+          35.526
+        ],
+        "point": [
+          -83.14150000000001,
+          35.2635
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 49037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9015,
+          35.7745
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "097",
+        "area": 0.23727299999999904,
+        "bounding_box": [
+          -81.11,
+          35.49,
+          -80.693,
+          36.059
+        ],
+        "point": [
+          -80.9015,
+          35.7745
+        ],
+        "labels": {
+          "en": "Iredell"
+        },
+        "population": 207296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9495,
+          36.391999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "091",
+        "area": 0.15923599999999866,
+        "bounding_box": [
+          -77.208,
+          36.238,
+          -76.691,
+          36.546
+        ],
+        "point": [
+          -76.9495,
+          36.391999999999996
+        ],
+        "labels": {
+          "en": "Hertford"
+        },
+        "population": 26890
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.161,
+          35.297
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "149",
+        "area": 0.08870399999999885,
+        "bounding_box": [
+          -82.359,
+          35.185,
+          -81.963,
+          35.409
+        ],
+        "point": [
+          -82.161,
+          35.297
+        ],
+        "labels": {
+          "en": "Polk"
+        },
+        "population": 22748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.512,
+          34.837
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "165",
+        "area": 0.1498679999999958,
+        "bounding_box": [
+          -79.693,
+          34.63,
+          -79.331,
+          35.044
+        ],
+        "point": [
+          -79.512,
+          34.837
+        ],
+        "labels": {
+          "en": "Scotland"
+        },
+        "population": 36245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8765,
+          35.388000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "085",
+        "area": 0.27165600000000123,
+        "bounding_box": [
+          -79.223,
+          35.192,
+          -78.53,
+          35.584
+        ],
+        "point": [
+          -78.8765,
+          35.388000000000005
+        ],
+        "labels": {
+          "en": "Harnett"
+        },
+        "population": 144283
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1645,
+          35.4675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "105",
+        "area": 0.12486899999999786,
+        "bounding_box": [
+          -79.359,
+          35.307,
+          -78.97,
+          35.628
+        ],
+        "point": [
+          -79.1645,
+          35.4675
+        ],
+        "labels": {
+          "en": "Lee"
+        },
+        "population": 68317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5395,
+          34.612
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "017",
+        "area": 0.3537999999999969,
+        "bounding_box": [
+          -78.902,
+          34.368,
+          -78.177,
+          34.856
+        ],
+        "point": [
+          -78.5395,
+          34.612
+        ],
+        "labels": {
+          "en": "Bladen"
+        },
+        "population": 38402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.006,
+          35.1395
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "039",
+        "area": 0.19276000000000135,
+        "bounding_box": [
+          -84.322,
+          34.987,
+          -83.69,
+          35.292
+        ],
+        "point": [
+          -84.006,
+          35.1395
+        ],
+        "labels": {
+          "en": "Cherokee"
+        },
+        "population": 30743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.22999999999999,
+          35.687
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "035",
+        "area": 0.17080000000000053,
+        "bounding_box": [
+          -81.535,
+          35.547,
+          -80.925,
+          35.827
+        ],
+        "point": [
+          -81.22999999999999,
+          35.687
+        ],
+        "labels": {
+          "en": "Catawba"
+        },
+        "population": 168639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.123,
+          35.8475
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "177",
+        "area": 0.28243400000000257,
+        "bounding_box": [
+          -76.406,
+          35.598,
+          -75.84,
+          36.097
+        ],
+        "point": [
+          -76.123,
+          35.8475
+        ],
+        "labels": {
+          "en": "Tyrrell"
+        },
+        "population": 4701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.42349999999999,
+          35.162000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "113",
+        "area": 0.21260200000000226,
+        "bounding_box": [
+          -83.738,
+          34.993,
+          -83.109,
+          35.331
+        ],
+        "point": [
+          -83.42349999999999,
+          35.162000000000006
+        ],
+        "labels": {
+          "en": "Macon"
+        },
+        "population": 38691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.374,
+          36.198499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "143",
+        "area": 0.15508800000000153,
+        "bounding_box": [
+          -76.59,
+          36.019,
+          -76.158,
+          36.378
+        ],
+        "point": [
+          -76.374,
+          36.198499999999996
+        ],
+        "labels": {
+          "en": "Perquimans"
+        },
+        "population": 15898
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1875,
+          35.3555
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "095",
+        "area": 0.6297990000000055,
+        "bounding_box": [
+          -76.638,
+          35.006,
+          -75.737,
+          35.705
+        ],
+        "point": [
+          -76.1875,
+          35.3555
+        ],
+        "labels": {
+          "en": "Hyde"
+        },
+        "population": 5809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.196,
+          35.2845
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "071",
+        "area": 0.14091999999999932,
+        "bounding_box": [
+          -81.456,
+          35.149,
+          -80.936,
+          35.42
+        ],
+        "point": [
+          -81.196,
+          35.2845
+        ],
+        "labels": {
+          "en": "Gaston"
+        },
+        "population": 223793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3865,
+          35.536500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "101",
+        "area": 0.36200899999999736,
+        "bounding_box": [
+          -78.708,
+          35.255,
+          -78.065,
+          35.818
+        ],
+        "point": [
+          -78.3865,
+          35.536500000000004
+        ],
+        "labels": {
+          "en": "Johnston"
+        },
+        "population": 233813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.967,
+          36.0305
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "015",
+        "area": 0.3126260000000035,
+        "bounding_box": [
+          -77.328,
+          35.814,
+          -76.606,
+          36.247
+        ],
+        "point": [
+          -76.967,
+          36.0305
+        ],
+        "labels": {
+          "en": "Bertie"
+        },
+        "population": 23022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.279,
+          35.323499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "167",
+        "area": 0.16389399999999635,
+        "bounding_box": [
+          -80.506,
+          35.143,
+          -80.052,
+          35.504
+        ],
+        "point": [
+          -80.279,
+          35.323499999999996
+        ],
+        "labels": {
+          "en": "Stanly"
+        },
+        "population": 63224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6515,
+          35.4995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "079",
+        "area": 0.10705499999999962,
+        "bounding_box": [
+          -77.827,
+          35.347,
+          -77.476,
+          35.652
+        ],
+        "point": [
+          -77.6515,
+          35.4995
+        ],
+        "labels": {
+          "en": "Greene"
+        },
+        "population": 24148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85249999999999,
+          34.088
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "129",
+        "area": 0.21371000000000376,
+        "bounding_box": [
+          -78.03,
+          33.787,
+          -77.675,
+          34.389
+        ],
+        "point": [
+          -77.85249999999999,
+          34.088
+        ],
+        "labels": {
+          "en": "New Hanover"
+        },
+        "population": 256262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.394,
+          35.5805
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "147",
+        "area": 0.31006999999999224,
+        "bounding_box": [
+          -77.701,
+          35.328,
+          -77.087,
+          35.833
+        ],
+        "point": [
+          -77.394,
+          35.5805
+        ],
+        "labels": {
+          "en": "Pitt"
+        },
+        "population": 211220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8785,
+          34.4925
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "141",
+        "area": 0.37697300000000233,
+        "bounding_box": [
+          -78.272,
+          34.253,
+          -77.485,
+          34.732
+        ],
+        "point": [
+          -77.8785,
+          34.4925
+        ],
+        "labels": {
+          "en": "Pender"
+        },
+        "population": 66265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55850000000001,
+          35.010999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "179",
+        "area": 0.22182200000000002,
+        "bounding_box": [
+          -80.84,
+          34.814,
+          -80.277,
+          35.208
+        ],
+        "point": [
+          -80.55850000000001,
+          35.010999999999996
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 327432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.19800000000001,
+          35.989999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "121",
+        "area": 0.1462919999999991,
+        "bounding_box": [
+          -82.417,
+          35.823,
+          -81.979,
+          36.157
+        ],
+        "point": [
+          -82.19800000000001,
+          35.989999999999995
+        ],
+        "labels": {
+          "en": "Mitchell"
+        },
+        "population": 15579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3885,
+          34.692
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "133",
+        "area": 0.3404720000000092,
+        "bounding_box": [
+          -77.68,
+          34.4,
+          -77.097,
+          34.984
+        ],
+        "point": [
+          -77.3885,
+          34.692
+        ],
+        "labels": {
+          "en": "Onslow"
+        },
+        "population": 210195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.58500000000001,
+          35.914500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "065",
+        "area": 0.23279400000000508,
+        "bounding_box": [
+          -77.828,
+          35.675,
+          -77.342,
+          36.154
+        ],
+        "point": [
+          -77.58500000000001,
+          35.914500000000004
+        ],
+        "labels": {
+          "en": "Edgecombe"
+        },
+        "population": 57923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.804,
+          35.2585
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "119",
+        "area": 0.26060400000000405,
+        "bounding_box": [
+          -81.058,
+          35.002,
+          -80.55,
+          35.515
+        ],
+        "point": [
+          -80.804,
+          35.2585
+        ],
+        "labels": {
+          "en": "Mecklenburg"
+        },
+        "population": 1216571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31899999999999,
+          35.8915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "199",
+        "area": 0.14322000000000185,
+        "bounding_box": [
+          -82.505,
+          35.699,
+          -82.133,
+          36.084
+        ],
+        "point": [
+          -82.31899999999999,
+          35.8915
+        ],
+        "labels": {
+          "en": "Yancey"
+        },
+        "population": 17822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65700000000001,
+          36.167
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "197",
+        "area": 0.10800000000000158,
+        "bounding_box": [
+          -80.882,
+          36.047,
+          -80.432,
+          36.287
+        ],
+        "point": [
+          -80.65700000000001,
+          36.167
+        ],
+        "labels": {
+          "en": "Yadkin"
+        },
+        "population": 40404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6755,
+          35.7795
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "023",
+        "area": 0.27474299999999735,
+        "bounding_box": [
+          -81.987,
+          35.559,
+          -81.364,
+          36.0
+        ],
+        "point": [
+          -81.6755,
+          35.7795
+        ],
+        "labels": {
+          "en": "Burke"
+        },
+        "population": 92527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0535,
+          35.373000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "191",
+        "area": 0.2281500000000001,
+        "bounding_box": [
+          -78.307,
+          35.148,
+          -77.8,
+          35.598
+        ],
+        "point": [
+          -78.0535,
+          35.373000000000005
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 132524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53649999999999,
+          35.9015
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "059",
+        "area": 0.10873100000000117,
+        "bounding_box": [
+          -80.708,
+          35.743,
+          -80.365,
+          36.06
+        ],
+        "point": [
+          -80.53649999999999,
+          35.9015
+        ],
+        "labels": {
+          "en": "Davie"
+        },
+        "population": 48813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0595,
+          35.739000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "111",
+        "area": 0.2081820000000017,
+        "bounding_box": [
+          -82.295,
+          35.518,
+          -81.824,
+          35.96
+        ],
+        "point": [
+          -82.0595,
+          35.739000000000004
+        ],
+        "labels": {
+          "en": "McDowell"
+        },
+        "population": 48096
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.62450000000001,
+          35.7975
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "183",
+        "area": 0.4127370000000014,
+        "bounding_box": [
+          -78.995,
+          35.519,
+          -78.254,
+          36.076
+        ],
+        "point": [
+          -78.62450000000001,
+          35.7975
+        ],
+        "labels": {
+          "en": "Wake"
+        },
+        "population": 1292296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.011,
+          36.290000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "053",
+        "area": 0.3152879999999987,
+        "bounding_box": [
+          -76.313,
+          36.029,
+          -75.709,
+          36.551
+        ],
+        "point": [
+          -76.011,
+          36.290000000000006
+        ],
+        "labels": {
+          "en": "Currituck"
+        },
+        "population": 30388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.389,
+          35.0125
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "103",
+        "area": 0.3153240000000027,
+        "bounding_box": [
+          -77.731,
+          34.782,
+          -77.047,
+          35.243
+        ],
+        "point": [
+          -77.389,
+          35.0125
+        ],
+        "labels": {
+          "en": "Jones"
+        },
+        "population": 10133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56700000000001,
+          36.163
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "041",
+        "area": 0.12783999999999515,
+        "bounding_box": [
+          -76.737,
+          35.975,
+          -76.397,
+          36.351
+        ],
+        "point": [
+          -76.56700000000001,
+          36.163
+        ],
+        "labels": {
+          "en": "Chowan"
+        },
+        "population": 15151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52850000000001,
+          35.6235
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "021",
+        "area": 0.28831900000000066,
+        "bounding_box": [
+          -82.888,
+          35.423,
+          -82.169,
+          35.824
+        ],
+        "point": [
+          -82.52850000000001,
+          35.6235
+        ],
+        "labels": {
+          "en": "Buncombe"
+        },
+        "population": 276039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.77449999999999,
+          36.391999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "157",
+        "area": 0.15734200000000004,
+        "bounding_box": [
+          -80.035,
+          36.241,
+          -79.514,
+          36.543
+        ],
+        "point": [
+          -79.77449999999999,
+          36.391999999999996
+        ],
+        "labels": {
+          "en": "Rockingham"
+        },
+        "population": 94858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08500000000001,
+          35.864999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "117",
+        "area": 0.26697600000000365,
+        "bounding_box": [
+          -77.409,
+          35.659,
+          -76.761,
+          36.071
+        ],
+        "point": [
+          -77.08500000000001,
+          35.864999999999995
+        ],
+        "labels": {
+          "en": "Martin"
+        },
+        "population": 23542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.503,
+          35.322500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "089",
+        "area": 0.17182000000000164,
+        "bounding_box": [
+          -82.745,
+          35.145,
+          -82.261,
+          35.5
+        ],
+        "point": [
+          -82.503,
+          35.322500000000005
+        ],
+        "labels": {
+          "en": "Henderson"
+        },
+        "population": 126633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.977,
+          35.965500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "127",
+        "area": 0.26505000000000406,
+        "bounding_box": [
+          -78.256,
+          35.728,
+          -77.698,
+          36.203
+        ],
+        "point": [
+          -77.977,
+          35.965500000000006
+        ],
+        "labels": {
+          "en": "Nash"
+        },
+        "population": 104996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.493,
+          36.414
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "009",
+        "area": 0.17330400000000112,
+        "bounding_box": [
+          -81.742,
+          36.24,
+          -81.244,
+          36.588
+        ],
+        "point": [
+          -81.493,
+          36.414
+        ],
+        "labels": {
+          "en": "Ashe"
+        },
+        "population": 30424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.27350000000001,
+          34.060500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "019",
+        "area": 0.4630950000000016,
+        "bounding_box": [
+          -78.65,
+          33.753,
+          -77.897,
+          34.368
+        ],
+        "point": [
+          -78.27350000000001,
+          34.060500000000005
+        ],
+        "labels": {
+          "en": "Brunswick"
+        },
+        "population": 157666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89850000000001,
+          35.324
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "123",
+        "area": 0.2128060000000023,
+        "bounding_box": [
+          -80.183,
+          35.137,
+          -79.614,
+          35.511
+        ],
+        "point": [
+          -79.89850000000001,
+          35.324
+        ],
+        "labels": {
+          "en": "Montgomery"
+        },
+        "population": 28778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.394,
+          36.354
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "181",
+        "area": 0.0889199999999969,
+        "bounding_box": [
+          -78.511,
+          36.164,
+          -78.277,
+          36.544
+        ],
+        "point": [
+          -78.394,
+          36.354
+        ],
+        "labels": {
+          "en": "Vance"
+        },
+        "population": 47935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.815,
+          35.2255
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "175",
+        "area": 0.18960000000000307,
+        "bounding_box": [
+          -83.055,
+          35.028,
+          -82.575,
+          35.423
+        ],
+        "point": [
+          -82.815,
+          35.2255
+        ],
+        "labels": {
+          "en": "Transylvania"
+        },
+        "population": 37221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.707,
+          36.399
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "171",
+        "area": 0.17408400000000224,
+        "bounding_box": [
+          -80.974,
+          36.236,
+          -80.44,
+          36.562
+        ],
+        "point": [
+          -80.707,
+          36.399
+        ],
+        "labels": {
+          "en": "Surry"
+        },
+        "population": 76276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.744,
+          35.074
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "043",
+        "area": 0.09082799999999823,
+        "bounding_box": [
+          -84.005,
+          34.987,
+          -83.483,
+          35.161
+        ],
+        "point": [
+          -83.744,
+          35.074
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 12372
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71350000000001,
+          35.693
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "055",
+        "area": 0.6922079999999944,
+        "bounding_box": [
+          -76.027,
+          35.141,
+          -75.4,
+          36.245
+        ],
+        "point": [
+          -75.71350000000001,
+          35.693
+        ],
+        "labels": {
+          "en": "Dare"
+        },
+        "population": 38408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6165,
+          34.2145
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nc",
+        "region_child": "047",
+        "area": 0.4917689999999927,
+        "bounding_box": [
+          -79.071,
+          33.944,
+          -78.162,
+          34.485
+        ],
+        "point": [
+          -78.6165,
+          34.2145
+        ],
+        "labels": {
+          "en": "Columbus"
+        },
+        "population": 61562
+      }
+    }
+  ]
+}

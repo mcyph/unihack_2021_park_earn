@@ -1,0 +1,1235 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.2955,
+          27.052500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "west champaran",
+        "area": 0.870473000000003,
+        "bounding_box": [
+          83.831,
+          26.584,
+          84.76,
+          27.521
+        ],
+        "point": [
+          84.2955,
+          27.052500000000002
+        ],
+        "labels": {
+          "en": "West Champaran"
+        },
+        "population": 4949437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.892,
+          26.639000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "east champaran",
+        "area": 0.6173120000000047,
+        "bounding_box": [
+          84.488,
+          26.257,
+          85.296,
+          27.021
+        ],
+        "point": [
+          84.892,
+          26.639000000000003
+        ],
+        "labels": {
+          "en": "East Champaran"
+        },
+        "population": 6321699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.53200000000001,
+          26.5715
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "sitamarhi",
+        "area": 0.35218599999999856,
+        "bounding_box": [
+          85.239,
+          26.271,
+          85.825,
+          26.872
+        ],
+        "point": [
+          85.53200000000001,
+          26.5715
+        ],
+        "labels": {
+          "en": "Sitamarhi"
+        },
+        "population": 4193922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.29050000000001,
+          26.494
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "sheohar",
+        "area": 0.07515000000000277,
+        "bounding_box": [
+          85.178,
+          26.327,
+          85.403,
+          26.661
+        ],
+        "point": [
+          85.29050000000001,
+          26.494
+        ],
+        "labels": {
+          "en": "Sheohar"
+        },
+        "population": 851119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.28450000000001,
+          26.3485
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "sheohar",
+        "area": 6.299999999991951e-05,
+        "bounding_box": [
+          85.281,
+          26.344,
+          85.288,
+          26.353
+        ],
+        "point": [
+          85.28450000000001,
+          26.3485
+        ],
+        "labels": {
+          "en": "Sheohar"
+        },
+        "population": 851119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4075,
+          26.4215
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "gopalganj",
+        "area": 0.43456499999999665,
+        "bounding_box": [
+          83.908,
+          26.204,
+          84.907,
+          26.639
+        ],
+        "point": [
+          84.4075,
+          26.4215
+        ],
+        "labels": {
+          "en": "Gopalganj"
+        },
+        "population": 2893530
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.959,
+          25.7755
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "samastipur",
+        "area": 0.5417280000000018,
+        "bounding_box": [
+          85.527,
+          25.462,
+          86.391,
+          26.089
+        ],
+        "point": [
+          85.959,
+          25.7755
+        ],
+        "labels": {
+          "en": "Samastipur"
+        },
+        "population": 5419650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.637,
+          25.566499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "katihar",
+        "area": 0.5672259999999946,
+        "bounding_box": [
+          87.2,
+          25.242,
+          88.074,
+          25.891
+        ],
+        "point": [
+          87.637,
+          25.566499999999998
+        ],
+        "labels": {
+          "en": "Katihar"
+        },
+        "population": 3730779
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.568,
+          25.492
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "khagaria",
+        "area": 0.27512800000000087,
+        "bounding_box": [
+          86.279,
+          25.254,
+          86.857,
+          25.73
+        ],
+        "point": [
+          86.568,
+          25.492
+        ],
+        "labels": {
+          "en": "Khagaria"
+        },
+        "population": 2062547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.561,
+          25.453000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "bhojpur",
+        "area": 0.33638400000000424,
+        "bounding_box": [
+          84.273,
+          25.161,
+          84.849,
+          25.745
+        ],
+        "point": [
+          84.561,
+          25.453000000000003
+        ],
+        "labels": {
+          "en": "Bhojpur"
+        },
+        "population": 3346335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.06800000000001,
+          25.4985
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "buxar",
+        "area": 0.27646399999999866,
+        "bounding_box": [
+          83.772,
+          25.265,
+          84.364,
+          25.732
+        ],
+        "point": [
+          84.06800000000001,
+          25.4985
+        ],
+        "labels": {
+          "en": "Buxar"
+        },
+        "population": 2014291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0455,
+          26.082500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "darbhanga",
+        "area": 0.5357989999999965,
+        "bounding_box": [
+          85.677,
+          25.719,
+          86.414,
+          26.446
+        ],
+        "point": [
+          86.0455,
+          26.082500000000003
+        ],
+        "labels": {
+          "en": "Darbhanga"
+        },
+        "population": 4568168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.59549999999999,
+          25.8315
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "saharsa",
+        "area": 0.26791699999999996,
+        "bounding_box": [
+          86.317,
+          25.591,
+          86.874,
+          26.072
+        ],
+        "point": [
+          86.59549999999999,
+          25.8315
+        ],
+        "labels": {
+          "en": "Saharsa"
+        },
+        "population": 2402639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.609,
+          24.9755
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "kaimur",
+        "area": 0.5022820000000024,
+        "bounding_box": [
+          83.32,
+          24.541,
+          83.898,
+          25.41
+        ],
+        "point": [
+          83.609,
+          24.9755
+        ],
+        "labels": {
+          "en": "Kaimur"
+        },
+        "population": 1960559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.97999999999999,
+          24.939
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "rohtas",
+        "area": 0.8423519999999947,
+        "bounding_box": [
+          83.497,
+          24.503,
+          84.463,
+          25.375
+        ],
+        "point": [
+          83.97999999999999,
+          24.939
+        ],
+        "labels": {
+          "en": "Rohtas"
+        },
+        "population": 3603902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2205,
+          24.758499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "jamui",
+        "area": 0.6144869999999956,
+        "bounding_box": [
+          85.822,
+          24.373,
+          86.619,
+          25.144
+        ],
+        "point": [
+          86.2205,
+          24.758499999999998
+        ],
+        "labels": {
+          "en": "Jamui"
+        },
+        "population": 2202097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.832,
+          24.835
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "banka",
+        "area": 0.39606000000000796,
+        "bounding_box": [
+          86.487,
+          24.548,
+          87.177,
+          25.122
+        ],
+        "point": [
+          86.832,
+          24.835
+        ],
+        "labels": {
+          "en": "Banka"
+        },
+        "population": 2813738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.661,
+          24.817
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "nawada",
+        "area": 0.46649600000000546,
+        "bounding_box": [
+          85.267,
+          24.521,
+          86.055,
+          25.113
+        ],
+        "point": [
+          85.661,
+          24.817
+        ],
+        "labels": {
+          "en": "Nawada"
+        },
+        "population": 2774007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8445,
+          24.6795
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "gaya",
+        "area": 0.8712089999999983,
+        "bounding_box": [
+          84.291,
+          24.286,
+          85.398,
+          25.073
+        ],
+        "point": [
+          84.8445,
+          24.6795
+        ],
+        "labels": {
+          "en": "Gaya"
+        },
+        "population": 5443693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4995,
+          25.22
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "munger",
+        "area": 0.26044200000000184,
+        "bounding_box": [
+          86.261,
+          24.947,
+          86.738,
+          25.493
+        ],
+        "point": [
+          86.4995,
+          25.22
+        ],
+        "labels": {
+          "en": "Munger"
+        },
+        "population": 1681135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.357,
+          25.7545
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "vaishali",
+        "area": 0.29779199999999834,
+        "bounding_box": [
+          85.069,
+          25.496,
+          85.645,
+          26.013
+        ],
+        "point": [
+          85.357,
+          25.7545
+        ],
+        "labels": {
+          "en": "Vaishali"
+        },
+        "population": 4604907
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.1245,
+          25.5125
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "begusarai",
+        "area": 0.408974999999997,
+        "bounding_box": [
+          85.735,
+          25.25,
+          86.514,
+          25.775
+        ],
+        "point": [
+          86.1245,
+          25.5125
+        ],
+        "labels": {
+          "en": "Begusarai"
+        },
+        "population": 3849402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.095,
+          25.2885
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "bhagalpur",
+        "area": 0.42135399999999934,
+        "bounding_box": [
+          86.638,
+          25.058,
+          87.552,
+          25.519
+        ],
+        "point": [
+          87.095,
+          25.2885
+        ],
+        "labels": {
+          "en": "Bhagalpur"
+        },
+        "population": 3500257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.146,
+          25.155
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "lakhisarai",
+        "area": 0.176655999999999,
+        "bounding_box": [
+          85.902,
+          24.974,
+          86.39,
+          25.336
+        ],
+        "point": [
+          86.146,
+          25.155
+        ],
+        "labels": {
+          "en": "Lakhisarai"
+        },
+        "population": 1181515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81299999999999,
+          25.125500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "sheikhpura",
+        "area": 0.11939400000000054,
+        "bounding_box": [
+          85.612,
+          24.977,
+          86.014,
+          25.274
+        ],
+        "point": [
+          85.81299999999999,
+          25.125500000000002
+        ],
+        "labels": {
+          "en": "Sheikhpura"
+        },
+        "population": 808263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.6555,
+          25.179
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "arwal",
+        "area": 0.1092540000000006,
+        "bounding_box": [
+          84.447,
+          25.048,
+          84.864,
+          25.31
+        ],
+        "point": [
+          84.6555,
+          25.179
+        ],
+        "labels": {
+          "en": "Arwal"
+        },
+        "population": 589296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0175,
+          25.1525
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "jehanabad",
+        "area": 0.12809700000000135,
+        "bounding_box": [
+          84.824,
+          24.987,
+          85.211,
+          25.318
+        ],
+        "point": [
+          85.0175,
+          25.1525
+        ],
+        "labels": {
+          "en": "Jehanabad"
+        },
+        "population": 1397315
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.53,
+          25.2115
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "nalanda",
+        "area": 0.37775399999999626,
+        "bounding_box": [
+          85.153,
+          24.961,
+          85.907,
+          25.462
+        ],
+        "point": [
+          85.53,
+          25.2115
+        ],
+        "labels": {
+          "en": "Nalanda"
+        },
+        "population": 3652540
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.378,
+          25.4675
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "patna",
+        "area": 0.7255500000000056,
+        "bounding_box": [
+          84.687,
+          25.205,
+          86.069,
+          25.73
+        ],
+        "point": [
+          85.378,
+          25.4675
+        ],
+        "labels": {
+          "en": "Patna"
+        },
+        "population": 6858200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.82300000000001,
+          25.911
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "saran",
+        "area": 0.5183199999999999,
+        "bounding_box": [
+          84.405,
+          25.601,
+          85.241,
+          26.221
+        ],
+        "point": [
+          84.82300000000001,
+          25.911
+        ],
+        "labels": {
+          "en": "Saran"
+        },
+        "population": 4703036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3925,
+          26.129
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "siwan",
+        "area": 0.3788979999999978,
+        "bounding_box": [
+          84.009,
+          25.882,
+          84.776,
+          26.376
+        ],
+        "point": [
+          84.3925,
+          26.129
+        ],
+        "labels": {
+          "en": "Siwan"
+        },
+        "population": 3874497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3145,
+          26.1485
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "muzaffarpur",
+        "area": 0.43961100000000114,
+        "bounding_box": [
+          84.865,
+          25.904,
+          85.764,
+          26.393
+        ],
+        "point": [
+          85.3145,
+          26.1485
+        ],
+        "labels": {
+          "en": "Muzaffarpur"
+        },
+        "population": 6145298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.87100000000001,
+          25.779
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "madhepura",
+        "area": 0.3427200000000019,
+        "bounding_box": [
+          86.616,
+          25.443,
+          87.126,
+          26.115
+        ],
+        "point": [
+          86.87100000000001,
+          25.779
+        ],
+        "labels": {
+          "en": "Madhepura"
+        },
+        "population": 2494745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3715,
+          26.265500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "araria",
+        "area": 0.43150499999999775,
+        "bounding_box": [
+          87.037,
+          25.943,
+          87.706,
+          26.588
+        ],
+        "point": [
+          87.3715,
+          26.265500000000003
+        ],
+        "labels": {
+          "en": "Araria"
+        },
+        "population": 3661176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.762,
+          26.2755
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "supaul",
+        "area": 0.4062659999999986,
+        "bounding_box": [
+          86.405,
+          25.991,
+          87.119,
+          26.56
+        ],
+        "point": [
+          86.762,
+          26.2755
+        ],
+        "labels": {
+          "en": "Supaul"
+        },
+        "population": 2918937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.238,
+          26.35
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "madhubani",
+        "area": 0.6143040000000067,
+        "bounding_box": [
+          85.752,
+          26.034,
+          86.724,
+          26.666
+        ],
+        "point": [
+          86.238,
+          26.35
+        ],
+        "labels": {
+          "en": "Madhubani"
+        },
+        "population": 5182466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.4315,
+          25.7755
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "purnia",
+        "area": 0.6048550000000056,
+        "bounding_box": [
+          86.99,
+          25.433,
+          87.873,
+          26.118
+        ],
+        "point": [
+          87.4315,
+          25.7755
+        ],
+        "labels": {
+          "en": "Purnia"
+        },
+        "population": 4152064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.9555,
+          26.3045
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "kishanganj",
+        "area": 0.3699929999999956,
+        "bounding_box": [
+          87.611,
+          26.036,
+          88.3,
+          26.573
+        ],
+        "point": [
+          87.9555,
+          26.3045
+        ],
+        "labels": {
+          "en": "Kishanganj"
+        },
+        "population": 2204419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8305,
+          25.9625
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "kishanganj",
+        "area": 0.002013000000000074,
+        "bounding_box": [
+          87.814,
+          25.932,
+          87.847,
+          25.993
+        ],
+        "point": [
+          87.8305,
+          25.9625
+        ],
+        "labels": {
+          "en": "Kishanganj"
+        },
+        "population": 2204419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.84649999999999,
+          26.0135
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "kishanganj",
+        "area": 0.0004950000000000375,
+        "bounding_box": [
+          87.839,
+          25.997,
+          87.854,
+          26.03
+        ],
+        "point": [
+          87.84649999999999,
+          26.0135
+        ],
+        "labels": {
+          "en": "Kishanganj"
+        },
+        "population": 2204419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.377,
+          24.803
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-br",
+        "region_child": "aurangabad",
+        "area": 0.4796999999999987,
+        "bounding_box": [
+          84.008,
+          24.478,
+          84.746,
+          25.128
+        ],
+        "point": [
+          84.377,
+          24.803
+        ],
+        "labels": {
+          "en": "Aurangabad"
+        },
+        "population": 3156687
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0305,
+          53.576499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-hh",
+        "region_child": "hamburg städte",
+        "area": 0.21025899999999764,
+        "bounding_box": [
+          9.724,
+          53.405,
+          10.337,
+          53.748
+        ],
+        "point": [
+          10.0305,
+          53.576499999999996
+        ],
+        "labels": {
+          "en": "Hamburg Städte"
+        },
+        "population": 1728833
+      }
+    }
+  ]
+}

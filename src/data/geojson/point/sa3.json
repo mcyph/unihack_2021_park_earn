@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.043,
+          -35.224999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "sa3",
+        "region_parent": "au-act",
+        "region_child": "belconnen",
+        "area": 0.018367999999998882,
+        "bounding_box": [
+          148.961,
+          -35.281,
+          149.125,
+          -35.169
+        ],
+        "point": [
+          149.043,
+          -35.224999999999994
+        ],
+        "labels": {
+          "en": "Belconnen"
+        },
+        "population": 92065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.25900000000001,
+          -35.3085
+        ]
+      },
+      "properties": {
+        "region_schema": "sa3",
+        "region_parent": "au-act",
+        "region_child": "canberra east",
+        "area": 0.05739999999999976,
+        "bounding_box": [
+          149.119,
+          -35.411,
+          149.399,
+          -35.206
+        ],
+        "point": [
+          149.25900000000001,
+          -35.3085
+        ],
+        "labels": {
+          "en": "Canberra East"
+        },
+        "population": 3486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.12349999999998,
+          -35.1775
+        ]
+      },
+      "properties": {
+        "region_schema": "sa3",
+        "region_parent": "au-act",
+        "region_child": "gungahlin",
+        "area": 0.016585000000000016,
+        "bounding_box": [
+          149.046,
+          -35.231,
+          149.201,
+          -35.124
+        ],
+        "point": [
+          149.12349999999998,
+          -35.1775
+        ],
+        "labels": {
+          "en": "Gungahlin"
+        },
+        "population": 47228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.124,
+          -35.263999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "sa3",
+        "region_parent": "au-act",
+        "region_child": "north canberra",
+        "area": 0.00907199999999992,
+        "bounding_box": [
+          149.07,
+          -35.306,
+          149.178,
+          -35.222
+        ],
+        "point": [
+          149.124,
+          -35.263999999999996
+        ],
+        "labels": {
+          "en": "North Canberra"
+        },
+        "population": 46386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.132,
+          -35.316
+        ]
+      },
+      "properties": {
+        "region_schema": "sa3",
+        "region_parent": "au-act",
+        "region_child": "south canberra",
+        "area": 0.007808000000000909,
+        "bounding_box": [
+          149.071,
+          -35.348,
+          149.193,
+          -35.284
+        ],
+        "point": [
+          149.132,
+          -35.316
+        ],
+        "labels": {
+          "en": "South Canberra"
+        },
+        "population": 24893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0815,
+          -35.476
+        ]
+      },
+      "properties": {
+        "region_schema": "sa3",
+        "region_parent": "au-act",
+        "region_child": "tuggeranong",
+        "area": 0.034397999999998236,
+        "bounding_box": [
+          149.008,
+          -35.593,
+          149.155,
+          -35.359
+        ],
+        "point": [
+          149.0815,
+          -35.476
+        ],
+        "labels": {
+          "en": "Tuggeranong"
+        },
+        "population": 88191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0525,
+          -35.3335
+        ]
+      },
+      "properties": {
+        "region_schema": "sa3",
+        "region_parent": "au-act",
+        "region_child": "weston creek",
+        "area": 0.004087000000000483,
+        "bounding_box": [
+          149.022,
+          -35.367,
+          149.083,
+          -35.3
+        ],
+        "point": [
+          149.0525,
+          -35.3335
+        ],
+        "labels": {
+          "en": "Weston Creek"
+        },
+        "population": 22199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.095,
+          -35.348
+        ]
+      },
+      "properties": {
+        "region_schema": "sa3",
+        "region_parent": "au-act",
+        "region_child": "woden valley",
+        "area": 0.004608000000001713,
+        "bounding_box": [
+          149.063,
+          -35.384,
+          149.127,
+          -35.312
+        ],
+        "point": [
+          149.095,
+          -35.348
+        ],
+        "labels": {
+          "en": "Woden Valley"
+        },
+        "population": 31676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0485,
+          -35.296499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "sa3",
+        "region_parent": "au-act",
+        "region_child": "molonglo",
+        "area": 0.004819000000000467,
+        "bounding_box": [
+          149.009,
+          -35.327,
+          149.088,
+          -35.266
+        ],
+        "point": [
+          149.0485,
+          -35.296499999999995
+        ],
+        "labels": {
+          "en": "Molonglo"
+        },
+        "population": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.937,
+          -35.569500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "sa3",
+        "region_parent": "au-act",
+        "region_child": "urriarra-namadgi",
+        "area": 0.24464399999998784,
+        "bounding_box": [
+          148.763,
+          -35.921,
+          149.111,
+          -35.218
+        ],
+        "point": [
+          148.937,
+          -35.569500000000005
+        ],
+        "labels": {
+          "en": "Urriarra - Namadgi"
+        },
+        "population": 674
+      }
+    }
+  ]
+}

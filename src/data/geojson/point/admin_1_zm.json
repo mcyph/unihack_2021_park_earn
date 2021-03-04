@@ -1,0 +1,535 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7235,
+          -11.285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zm",
+        "region_child": "zm-10",
+        "area": 16.782102,
+        "bounding_box": [
+          29.773,
+          -13.436,
+          33.674,
+          -9.134
+        ],
+        "point": [
+          31.7235,
+          -11.285
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "محافظة موتشينغا",
+          "bn": "মোসিঙ্গা প্রদেশ",
+          "de": "Provinz Muchinga",
+          "en": "Muchinga Province",
+          "es": "Provincia de Muchinga",
+          "fr": "Province de Muchinga",
+          "el": "Μουτσίνγκα",
+          "hi": "मुशिंगा प्रांत",
+          "hu": null,
+          "id": "Provinsi Muchinga",
+          "it": "Provincia di Muchinga",
+          "ja": "ムチンガ州",
+          "ko": "무칭가 주",
+          "nl": "Muchinga Province",
+          "pl": "Prowincja Muchinga",
+          "pt": "Província de Muchinga",
+          "ru": "Мучинга",
+          "sv": "Muchinga",
+          "tr": "Muchinga Bölgesi",
+          "vi": "Tỉnh Muchinga",
+          "zh": null
+        },
+        "population": 1169073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.76,
+          -13.312999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zm",
+        "region_child": "zm-03",
+        "area": 11.789816000000009,
+        "bounding_box": [
+          29.994,
+          -14.982,
+          33.526,
+          -11.644
+        ],
+        "point": [
+          31.76,
+          -13.312999999999999
+        ],
+        "labels": {
+          "alt": "Fort Jameson",
+          "local": null,
+          "len": 7,
+          "ar": "المحافظة الشرقية، زامبيا",
+          "bn": "ইস্টার্ন প্রদেশ",
+          "de": "Ostprovinz",
+          "en": "Eastern Province",
+          "es": "Provincia del Este",
+          "fr": "Province orientale",
+          "el": "Ανατολική Επαρχία",
+          "hi": "पूर्वी प्रांत",
+          "hu": null,
+          "id": "Provinsi Timur",
+          "it": "Zambia orientale",
+          "ja": "東部州",
+          "ko": "동부 주",
+          "nl": "Eastern",
+          "pl": "Prowincja Wschodnia",
+          "pt": "Província Oriental",
+          "ru": "Восточная Замбия",
+          "sv": "Eastern",
+          "tr": "Doğu Bölgesi",
+          "vi": "Tỉnh Phía Đông",
+          "zh": "东方省"
+        },
+        "population": 2135012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7075,
+          -9.848
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zm",
+        "region_child": "zm-05",
+        "area": 10.727844000000006,
+        "bounding_box": [
+          29.086,
+          -11.502,
+          32.329,
+          -8.194
+        ],
+        "point": [
+          30.7075,
+          -9.848
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "المحافظة الشمالية، زامبيا",
+          "bn": "নর্দান প্রদেশ",
+          "de": "Nordprovinz",
+          "en": "Northern Province",
+          "es": "Provincia del Norte",
+          "fr": "Province Septentrionale",
+          "el": "Βόρεια Επαρχία",
+          "hi": "उत्तरी प्रांत",
+          "hu": null,
+          "id": "Provinsi Utara",
+          "it": "provincia Settentrionale",
+          "ja": "北部州",
+          "ko": "북부 주",
+          "nl": "Northern",
+          "pl": "Prowincja Północna",
+          "pt": "Província do Norte",
+          "ru": "Северная провинция",
+          "sv": "Northern",
+          "tr": "Kuzey Bölgesi",
+          "vi": "Tỉnh Phía Bắc",
+          "zh": "北方省"
+        },
+        "population": 1396753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.076500000000003,
+          -15.303
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zm",
+        "region_child": "zm-09",
+        "area": 3.4518120000000034,
+        "bounding_box": [
+          27.757,
+          -15.957,
+          30.396,
+          -14.649
+        ],
+        "point": [
+          29.076500000000003,
+          -15.303
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "لوساكا",
+          "bn": "লুকাকা প্রদেশ",
+          "de": "Lusaka",
+          "en": "Lusaka Province",
+          "es": "Provincia de Lusaka",
+          "fr": "Province de Lusaka",
+          "el": "Λουσάκα",
+          "hi": "लुसाका प्रांत",
+          "hu": null,
+          "id": "Provinsi Lusaka",
+          "it": "provincia di Lusaka",
+          "ja": "ルサカ州",
+          "ko": "루사카 주",
+          "nl": "Lusaka",
+          "pl": "Prowincja Lusaka",
+          "pt": "Lusaca",
+          "ru": "Лусака",
+          "sv": "Lusaka",
+          "tr": "Lusaka Bölgesi",
+          "vi": "Tỉnh Lusaka",
+          "zh": "卢萨卡省"
+        },
+        "population": 3458558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9585,
+          -16.682499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zm",
+        "region_child": "zm-07",
+        "area": 11.004359,
+        "bounding_box": [
+          24.97,
+          -18.066,
+          28.947,
+          -15.299
+        ],
+        "point": [
+          26.9585,
+          -16.682499999999997
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "المحافظة الجنوبية، زامبيا",
+          "bn": "সাউদার্ন প্রদেশ",
+          "de": "Südprovinz",
+          "en": "Southern Province",
+          "es": "Provincia del Sur",
+          "fr": "Province Méridionale",
+          "el": "Νότια Επαρχία",
+          "hi": "दक्षिणी प्रांत",
+          "hu": null,
+          "id": "Provinsi Selatan",
+          "it": "provincia Meridionale",
+          "ja": "南部州",
+          "ko": "남부 주",
+          "nl": "Southern",
+          "pl": "Prowincja Południowa",
+          "pt": "Província do Sul",
+          "ru": "Южная провинция",
+          "sv": "Southern",
+          "tr": "Güney Bölgesi",
+          "vi": "Tỉnh Phía Nam",
+          "zh": "南部省"
+        },
+        "population": 2169605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.764,
+          -15.660999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zm",
+        "region_child": "zm-01",
+        "area": 14.129279999999989,
+        "bounding_box": [
+          21.98,
+          -17.641,
+          25.548,
+          -13.681
+        ],
+        "point": [
+          23.764,
+          -15.660999999999998
+        ],
+        "labels": {
+          "alt": "Barotseland",
+          "local": null,
+          "len": 7,
+          "ar": "المحافظة الغربية، زامبيا",
+          "bn": "ওয়েস্টার্ন প্রদেশ",
+          "de": "Westprovinz",
+          "en": "Western Province",
+          "es": "Provincia del Oeste",
+          "fr": "Province Occidentale",
+          "el": "Δυτική Επαρχία",
+          "hi": "पश्चिमी प्रांत",
+          "hu": null,
+          "id": "Provinsi Barat",
+          "it": "provincia Occidentale",
+          "ja": "西部州",
+          "ko": "서부 주",
+          "nl": "Western",
+          "pl": "Prowincja Zachodnia",
+          "pt": "Província Ocidental",
+          "ru": "Западная провинция",
+          "sv": "Western",
+          "tr": "Batı Bölgesi",
+          "vi": "Tỉnh Phía Tây",
+          "zh": "西方省"
+        },
+        "population": 1098888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.785,
+          -12.7925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zm",
+        "region_child": "zm-06",
+        "area": 21.548009999999994,
+        "bounding_box": [
+          21.98,
+          -14.713,
+          27.59,
+          -10.872
+        ],
+        "point": [
+          24.785,
+          -12.7925
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "المحافظة الشمالية الغربية، زامبيا",
+          "bn": "নর্থ-ওয়েস্টার্ন প্রদেশ",
+          "de": "Nordwestprovinz",
+          "en": "Northwestern Province",
+          "es": "Provincia del Noroeste",
+          "fr": "Province Nord-Occidentale",
+          "el": "Βορειοδυτική Επαρχία",
+          "hi": "उत्तर पश्चिमी प्रांत",
+          "hu": null,
+          "id": "Provinsi Barat Laut",
+          "it": "provincia Nord-Occidentale",
+          "ja": "北西州",
+          "ko": "북서부 주",
+          "nl": "North-Western",
+          "pl": "Prowincja Północno-Zachodnia",
+          "pt": "Noroeste",
+          "ru": "Северо-Западная провинция",
+          "sv": "North-Western",
+          "tr": "Kuzeybatı Bölgesi",
+          "vi": "Tỉnh Tây Bắc",
+          "zh": "西北省"
+        },
+        "population": 1066690
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.404,
+          -10.413
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zm",
+        "region_child": "zm-04",
+        "area": 8.584319999999996,
+        "bounding_box": [
+          28.352,
+          -12.453,
+          30.456,
+          -8.373
+        ],
+        "point": [
+          29.404,
+          -10.413
+        ],
+        "labels": {
+          "alt": "Fort Rosebery",
+          "local": null,
+          "len": 7,
+          "ar": "لوابولا",
+          "bn": "লুয়াপুলা প্রদেশ",
+          "de": "Luapula",
+          "en": "Luapula Province",
+          "es": "Provincia de Luapula",
+          "fr": "Province de Luapula",
+          "el": "Λουαπούλα",
+          "hi": "लुआपला प्रांत",
+          "hu": null,
+          "id": "Provinsi Luapula",
+          "it": "provincia di Luapula",
+          "ja": "ルアプラ州",
+          "ko": "루아풀라 주",
+          "nl": "Luapula",
+          "pl": "Prowincja Luapula",
+          "pt": "Luapula",
+          "ru": "Луапула",
+          "sv": "Luapula",
+          "tr": "Luapula Bölgesi",
+          "vi": "Tỉnh Luapula",
+          "zh": "卢阿普拉省"
+        },
+        "population": 1696140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.927,
+          -13.082
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zm",
+        "region_child": "zm-08",
+        "area": 3.8191279999999974,
+        "bounding_box": [
+          26.789,
+          -13.921,
+          29.065,
+          -12.243
+        ],
+        "point": [
+          27.927,
+          -13.082
+        ],
+        "labels": {
+          "alt": "Western",
+          "local": null,
+          "len": 10,
+          "ar": "كوبربيلت",
+          "bn": "কপারবেলাট প্রদেশ",
+          "de": "Copperbelt",
+          "en": "Copperbelt Province",
+          "es": "Provincia de Copperbelt",
+          "fr": "Copperbelt",
+          "el": "Κόππερμπελτ",
+          "hi": "कॉपरबेल्ट प्रांत",
+          "hu": null,
+          "id": "Provinsi Copperbelt",
+          "it": "provincia di Copperbelt",
+          "ja": "カッパーベルト州",
+          "ko": "코퍼벨트 주",
+          "nl": "Copperbelt",
+          "pl": "Prowincja Pasa Miedzionośnego",
+          "pt": "Copperbelt",
+          "ru": "Коппербелт",
+          "sv": "Copperbelt",
+          "tr": "Copperbelt Bölgesi",
+          "vi": "Tỉnh Copperbelt",
+          "zh": "铜带省"
+        },
+        "population": 2556171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.377,
+          -13.8635
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "zm",
+        "region_child": "zm-02",
+        "area": 22.737400000000004,
+        "bounding_box": [
+          25.325,
+          -15.726,
+          31.429,
+          -12.001
+        ],
+        "point": [
+          28.377,
+          -13.8635
+        ],
+        "labels": {
+          "alt": "Broken Hill",
+          "local": null,
+          "len": 7,
+          "ar": "المحافظة الوسطى، زامبيا",
+          "bn": "সেন্ট্রাল প্রদেশ",
+          "de": "Zentralprovinz",
+          "en": "Central Province",
+          "es": "Provincia Central",
+          "fr": "Province Centrale",
+          "el": "Κεντρική Επαρχία",
+          "hi": "केंद्रीय प्रांत",
+          "hu": null,
+          "id": "Provinsi Central",
+          "it": "provincia Centrale",
+          "ja": "中央州",
+          "ko": "중부 주",
+          "nl": "Central",
+          "pl": "Prowincja Centralna",
+          "pt": "Província Central",
+          "ru": "Центральная провинция",
+          "sv": "Central",
+          "tr": "Merkez Bölgesi",
+          "vi": "Tỉnh Miền Trung",
+          "zh": "中央省"
+        },
+        "population": 1839397
+      }
+    }
+  ]
+}

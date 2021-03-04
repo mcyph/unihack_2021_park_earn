@@ -1,0 +1,906 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.56,
+          58.32
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-84",
+        "area": 0.8953999999999944,
+        "bounding_box": [
+          24.955,
+          57.95,
+          26.165,
+          58.69
+        ],
+        "point": [
+          25.56,
+          58.32
+        ],
+        "labels": {
+          "alt": "Viljandimaa|Viljandi maakond|Vilyandi",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة فيلياندي",
+          "bn": "ভিলজান্ডি কাউন্টি",
+          "de": "Kreis Viljandi",
+          "en": "Viljandi County",
+          "es": "Condado de Viljandi",
+          "fr": "Comté de Viljandi",
+          "el": "Επαρχία Βιλγιάντι",
+          "hi": "वियांदी काउंटी",
+          "hu": "Viljandimaa",
+          "id": "County Viljandi",
+          "it": "Viljandimaa",
+          "ja": "ヴィリャンディ県",
+          "ko": "빌리안디 주",
+          "nl": "Viljandimaa",
+          "pl": "Viljandimaa",
+          "pt": "Viljandimaa",
+          "ru": "Вильяндимаа",
+          "sv": "Viljandi län",
+          "tr": "Viljandi ili",
+          "vi": "Hạt Viljandi",
+          "zh": "維爾揚迪縣"
+        },
+        "population": 42385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4345,
+          58.308499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-67",
+        "area": 1.501844999999999,
+        "bounding_box": [
+          23.586,
+          57.866,
+          25.283,
+          58.751
+        ],
+        "point": [
+          24.4345,
+          58.308499999999995
+        ],
+        "labels": {
+          "alt": "Paernu|Pärnumaa|Pärnu maakond",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة بارنو",
+          "bn": "পারনু কাউন্টি",
+          "de": "Kreis Pärnu",
+          "en": "Pärnu County",
+          "es": "Condado de Pärnu",
+          "fr": "comté de Pärnu",
+          "el": "Επαρχία Πάρνου",
+          "hi": "पार्नू काउंटी",
+          "hu": "Pärnumaa",
+          "id": "County Pärnu",
+          "it": "Pärnumaa",
+          "ja": "ペルヌ県",
+          "ko": "패르누 주",
+          "nl": "Pärnumaa",
+          "pl": "Pärnumaa",
+          "pt": "Pärnumaa",
+          "ru": "Пярнумаа",
+          "sv": "Pärnu län",
+          "tr": "Pärnu ili",
+          "vi": "Pärnu",
+          "zh": "派爾努縣"
+        },
+        "population": 79911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0735,
+          57.8685
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-82",
+        "area": 0.6393589999999991,
+        "bounding_box": [
+          25.552,
+          57.562,
+          26.595,
+          58.175
+        ],
+        "point": [
+          26.0735,
+          57.8685
+        ],
+        "labels": {
+          "alt": "Valgamaa|Valga maakond",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة فالغا",
+          "bn": "ওয়াগা কাউন্টি",
+          "de": "Kreis Valga",
+          "en": "Valga County",
+          "es": "Condado de Valga",
+          "fr": "Comté de Valga",
+          "el": "Επαρχία Βάλγκα",
+          "hi": "वल्गा काउंटी",
+          "hu": "Valgamaa",
+          "id": "County Valga",
+          "it": "Valgamaa",
+          "ja": "ヴァルガ県",
+          "ko": "발가 주",
+          "nl": "Valgamaa",
+          "pl": "Valgamaa",
+          "pt": "Valgamaa",
+          "ru": "Валгамаа",
+          "sv": "Valga län",
+          "tr": "Valga ili",
+          "vi": "Hạt Valga",
+          "zh": "瓦爾加縣"
+        },
+        "population": 27488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9605,
+          57.7365
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-86",
+        "area": 0.5252310000000041,
+        "bounding_box": [
+          26.365,
+          57.516,
+          27.556,
+          57.957
+        ],
+        "point": [
+          26.9605,
+          57.7365
+        ],
+        "labels": {
+          "alt": "Voru|Võrumaa|Võru maakond",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة فورو",
+          "bn": "ভোঁরু কাউন্টি",
+          "de": "Kreis Võru",
+          "en": "Võru County",
+          "es": "Condado de Võru",
+          "fr": "Comté de Võru",
+          "el": "Επαρχία Βόρου",
+          "hi": "वोरू काउंटी",
+          "hu": "Võrumaa",
+          "id": "County Võru",
+          "it": "Võrumaa",
+          "ja": "ヴォル県",
+          "ko": "버루 주",
+          "nl": "Võrumaa",
+          "pl": "Võrumaa",
+          "pt": "Võrumaa",
+          "ru": "Вырумаа",
+          "sv": "Võru län",
+          "tr": "Võru ili",
+          "vi": "Hạt Voru",
+          "zh": "沃魯縣"
+        },
+        "population": 30223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.444499999999998,
+          59.161
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-44",
+        "area": 1.0143719999999967,
+        "bounding_box": [
+          26.703,
+          58.819,
+          28.186,
+          59.503
+        ],
+        "point": [
+          27.444499999999998,
+          59.161
+        ],
+        "labels": {
+          "alt": "Ida-Virumaa|Ida-Viru maakond",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة إيدا فيرو",
+          "bn": "ইদা-ভিরু কাউন্টি",
+          "de": "Kreis Ida-Viru",
+          "en": "Ida-Viru County",
+          "es": "Condado de Ida-Viru",
+          "fr": "Comté de Viru-Est",
+          "el": "Επαρχία Ίντα-Βίρου",
+          "hi": "आइडा-विरु काउंटी",
+          "hu": "Ida-Virumaa",
+          "id": "County Ida-Viru",
+          "it": "Ida-Virumaa",
+          "ja": "イダ＝ヴィル県",
+          "ko": "이다비루 주",
+          "nl": "Ida-Virumaa",
+          "pl": "Ida-Virumaa",
+          "pt": "Ida-Virumaa",
+          "ru": "Восточная Эстония",
+          "sv": "Ida-Virumaa",
+          "tr": "Ida-Viru ili",
+          "vi": "Hạt Ida-Viru",
+          "zh": "東維魯縣"
+        },
+        "population": 144107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1695,
+          58.036
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-65",
+        "area": 0.5615139999999976,
+        "bounding_box": [
+          26.54,
+          57.813,
+          27.799,
+          58.259
+        ],
+        "point": [
+          27.1695,
+          58.036
+        ],
+        "labels": {
+          "alt": "Polva|Põlvamaa|Põlva maakond",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة بولفا",
+          "bn": "পোল্ভা কাউন্টি",
+          "de": "Kreis Põlva",
+          "en": "Põlva County",
+          "es": "Condado de Põlva",
+          "fr": "Comté de Põlva",
+          "el": "Επαρχία Πόλβα",
+          "hi": "पोलावा काउंटी",
+          "hu": "Põlvamaa",
+          "id": "County Põlva",
+          "it": "Põlvamaa",
+          "ja": "ポルヴァ県",
+          "ko": "펄바 주",
+          "nl": "Põlvamaa",
+          "pl": "Põlvamaa",
+          "pt": "Põlvamaa",
+          "ru": "Пылвамаа",
+          "sv": "Põlva län",
+          "tr": "Põlva ili",
+          "vi": "Hạt Polva",
+          "zh": "珀爾瓦縣"
+        },
+        "population": 32616
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.797,
+          58.415000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-78",
+        "area": 0.8914080000000004,
+        "bounding_box": [
+          26.039,
+          58.121,
+          27.555,
+          58.709
+        ],
+        "point": [
+          26.797,
+          58.415000000000006
+        ],
+        "labels": {
+          "alt": "Tartumaa|Tartu maakond|Dorpat",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة تارتو",
+          "bn": "তার্তু কাউন্টি",
+          "de": "Kreis Tartu",
+          "en": "Tartu County",
+          "es": "Condado de Tartu",
+          "fr": "Comté de Tartu",
+          "el": "Επαρχία Τάρτου",
+          "hi": "टर्टू काउंटी",
+          "hu": null,
+          "id": "County Tartu",
+          "it": "Tartumaa",
+          "ja": "タルトゥ県",
+          "ko": "타르투 주",
+          "nl": "Tartumaa",
+          "pl": "Tartumaa",
+          "pt": "Tartumaa",
+          "ru": "Тартумаа",
+          "sv": "Tartumaa",
+          "tr": "Tartu ili",
+          "vi": "Hạt Tartu",
+          "zh": "塔爾圖縣"
+        },
+        "population": 154974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.603,
+          58.7205
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-49",
+        "area": 0.7941060000000061,
+        "bounding_box": [
+          25.76,
+          58.485,
+          27.446,
+          58.956
+        ],
+        "point": [
+          26.603,
+          58.7205
+        ],
+        "labels": {
+          "alt": "Jogeva|Jõgevamaa|Jõgeva maakond",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة يوجيفا",
+          "bn": "জোগেভা",
+          "de": "Kreis Jõgeva",
+          "en": "Jõgeva County",
+          "es": "Condado de Jõgeva",
+          "fr": "Comté de Jõgeva",
+          "el": "Επαρχία Γιογκέβα",
+          "hi": "जोगेवा काउंटी",
+          "hu": "Jõgevamaa",
+          "id": "County Jõgeva",
+          "it": "Jõgevamaa",
+          "ja": "ヨゲヴァ県",
+          "ko": "여게바 주",
+          "nl": "Jõgevamaa",
+          "pl": "Jõgevamaa",
+          "pt": "Jõgevamaa",
+          "ru": "Йыгевамаа",
+          "sv": "Jõgevamaa",
+          "tr": "Jõgeva ili",
+          "vi": "Hạt Jogeva",
+          "zh": "約格瓦縣"
+        },
+        "population": 26619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8045,
+          58.900499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-57",
+        "area": 0.5454450000000012,
+        "bounding_box": [
+          23.422,
+          58.544,
+          24.187,
+          59.257
+        ],
+        "point": [
+          23.8045,
+          58.900499999999994
+        ],
+        "labels": {
+          "alt": "Laeaene|Läänemaa|Lääne maakond",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة لانا",
+          "bn": "লাআন কাউন্টি",
+          "de": "Kreis Lääne",
+          "en": "Lääne County",
+          "es": "Condado de Lääne",
+          "fr": "comté de Lääne",
+          "el": "Επαρχία Λέενε",
+          "hi": "लाने काउंटी",
+          "hu": "Läänemaa",
+          "id": "County Lääne",
+          "it": "Läänemaa",
+          "ja": "レーネ県",
+          "ko": "래네 주",
+          "nl": "Läänemaa",
+          "pl": "Läänemaa",
+          "pt": "Läänemaa",
+          "ru": "Ляэнемаа",
+          "sv": "Läänemaa",
+          "tr": "Lääne ili",
+          "vi": "Hạt Laane",
+          "zh": "萊內縣"
+        },
+        "population": 17685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.253999999999998,
+          59.00749999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-57",
+        "area": 0.020439999999999934,
+        "bounding_box": [
+          23.114,
+          58.971,
+          23.394,
+          59.044
+        ],
+        "point": [
+          23.253999999999998,
+          59.00749999999999
+        ],
+        "labels": {
+          "alt": "Laeaene|Läänemaa|Lääne maakond",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة لانا",
+          "bn": "লাআন কাউন্টি",
+          "de": "Kreis Lääne",
+          "en": "Lääne County",
+          "es": "Condado de Lääne",
+          "fr": "comté de Lääne",
+          "el": "Επαρχία Λέενε",
+          "hi": "लाने काउंटी",
+          "hu": "Läänemaa",
+          "id": "County Lääne",
+          "it": "Läänemaa",
+          "ja": "レーネ県",
+          "ko": "래네 주",
+          "nl": "Läänemaa",
+          "pl": "Läänemaa",
+          "pt": "Läänemaa",
+          "ru": "Ляэнемаа",
+          "sv": "Läänemaa",
+          "tr": "Lääne ili",
+          "vi": "Hạt Laane",
+          "zh": "萊內縣"
+        },
+        "population": 17685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8315,
+          59.3185
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-37",
+        "area": 1.4854090000000038,
+        "bounding_box": [
+          23.718,
+          58.985,
+          25.945,
+          59.652
+        ],
+        "point": [
+          24.8315,
+          59.3185
+        ],
+        "labels": {
+          "alt": "Harjumaa|Harju maakond",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة هاريو",
+          "bn": "হার্জু কাউন্টি",
+          "de": "Kreis Harju",
+          "en": "Harju County",
+          "es": "Condado de Harju",
+          "fr": "comté de Harju",
+          "el": "Επαρχία Χάργιου",
+          "hi": "हरजू काउंटी",
+          "hu": "Harjumaa",
+          "id": "County Harju",
+          "it": "Harjumaa",
+          "ja": "ハリュ県",
+          "ko": "하리우 주",
+          "nl": "Harjumaa",
+          "pl": "Harjumaa",
+          "pt": "Harjumaa",
+          "ru": "Харьюмаа",
+          "sv": "Harjumaa",
+          "tr": "Harju ili",
+          "vi": "Harju",
+          "zh": "哈留縣"
+        },
+        "population": 624895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.377000000000002,
+          59.2595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-59",
+        "area": 0.8396279999999989,
+        "bounding_box": [
+          25.815,
+          58.886,
+          26.939,
+          59.633
+        ],
+        "point": [
+          26.377000000000002,
+          59.2595
+        ],
+        "labels": {
+          "alt": "Laeaene-Viru|Lääne-Virumaa|Lääne-Viru maakond",
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة لين-فيرو",
+          "bn": "লাআনে-ভিরু কাউন্টি",
+          "de": "Kreis Lääne-Viru",
+          "en": "Lääne-Viru County",
+          "es": "Condado de Lääne-Viru",
+          "fr": "Comté de Viru-Ouest",
+          "el": "Επαρχία Λέενε-Βίρου",
+          "hi": "लाएन-विरु काउंटी",
+          "hu": "Lääne-Virumaa",
+          "id": "County Lääne-Viru",
+          "it": "Lääne-Virumaa",
+          "ja": "レーネ＝ヴィル県",
+          "ko": "래네비루 주",
+          "nl": "Lääne-Virumaa",
+          "pl": "Lääne-Virumaa",
+          "pt": "Lääne-Virumaa",
+          "ru": "Ляэне-Вирумаа",
+          "sv": "Lääne-Virumaa",
+          "tr": "Lääne-Viru ili",
+          "vi": "Hạt Laane-Viru",
+          "zh": "西維魯縣"
+        },
+        "population": 53144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.600499999999997,
+          58.275
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-74",
+        "area": 1.0547999999999982,
+        "bounding_box": [
+          21.868,
+          57.915,
+          23.333,
+          58.635
+        ],
+        "point": [
+          22.600499999999997,
+          58.275
+        ],
+        "labels": {
+          "alt": "Saaremaa|Saare maakond|Ösel",
+          "local": null,
+          "len": 5,
+          "ar": null,
+          "bn": null,
+          "de": "Kreis Saare",
+          "en": "Saare County",
+          "es": "Condado de Saare",
+          "fr": "comté de Saare",
+          "el": "Επαρχία Σάαρε",
+          "hi": null,
+          "hu": "Saaremaa",
+          "id": "County Saare",
+          "it": "Saaremaa",
+          "ja": "サーレ県",
+          "ko": "사레 주",
+          "nl": "Saaremaa",
+          "pl": "Saaremaa",
+          "pt": null,
+          "ru": "Сааремаа",
+          "sv": "Saare län",
+          "tr": "Saare ili",
+          "vi": null,
+          "zh": "薩雷縣"
+        },
+        "population": 45657
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2205,
+          58.604
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-74",
+        "area": 0.04651200000000182,
+        "bounding_box": [
+          23.059,
+          58.532,
+          23.382,
+          58.676
+        ],
+        "point": [
+          23.2205,
+          58.604
+        ],
+        "labels": {
+          "alt": "Saaremaa|Saare maakond|Ösel",
+          "local": null,
+          "len": 5,
+          "ar": null,
+          "bn": null,
+          "de": "Kreis Saare",
+          "en": "Saare County",
+          "es": "Condado de Saare",
+          "fr": "comté de Saare",
+          "el": "Επαρχία Σάαρε",
+          "hi": null,
+          "hu": "Saaremaa",
+          "id": "County Saare",
+          "it": "Saaremaa",
+          "ja": "サーレ県",
+          "ko": "사레 주",
+          "nl": "Saaremaa",
+          "pl": "Saaremaa",
+          "pt": null,
+          "ru": "Сааремаа",
+          "sv": "Saare län",
+          "tr": "Saare ili",
+          "vi": null,
+          "zh": "薩雷縣"
+        },
+        "population": 45657
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.552,
+          58.8885
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-39",
+        "area": 0.3941340000000063,
+        "bounding_box": [
+          22.063,
+          58.687,
+          23.041,
+          59.09
+        ],
+        "point": [
+          22.552,
+          58.8885
+        ],
+        "labels": {
+          "alt": "Hiiumaa|Hiiu maakond|Dagö",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة هيو",
+          "bn": "হিউ কাউন্টি",
+          "de": "Kreis Hiiu",
+          "en": "Hiiu County",
+          "es": "Condado de Hiiu",
+          "fr": "comté de Hiiu",
+          "el": "Επαρχία Χιίου",
+          "hi": "हायुउ काउंटी",
+          "hu": "Hiiumaa",
+          "id": "County Hiiu",
+          "it": "Hiiumaa",
+          "ja": "ヒーウ県",
+          "ko": "히우 주",
+          "nl": "Hiiumaa",
+          "pl": "Hiiumaa",
+          "pt": "Hiiumaa",
+          "ru": "Хийумаа",
+          "sv": "Hiiu län",
+          "tr": "Hiiu ili",
+          "vi": "Hiiu",
+          "zh": "希尤縣"
+        },
+        "population": 6200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.697499999999998,
+          58.948
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-70",
+        "area": 0.6922199999999973,
+        "bounding_box": [
+          24.075,
+          58.67,
+          25.32,
+          59.226
+        ],
+        "point": [
+          24.697499999999998,
+          58.948
+        ],
+        "labels": {
+          "alt": "Raplamaa|Rapla maakond",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة رابلا",
+          "bn": "রাপ্লা কাউন্টি",
+          "de": "Kreis Rapla",
+          "en": "Rapla County",
+          "es": "Condado de Rapla",
+          "fr": "comté de Rapla",
+          "el": "Επαρχία Ράπλα",
+          "hi": "रापला काउंटी",
+          "hu": "Raplamaa",
+          "id": "County Rapla",
+          "it": "Raplamaa",
+          "ja": "ラプラ県",
+          "ko": "라플라 주",
+          "nl": "Raplamaa",
+          "pl": "Raplamaa",
+          "pt": "Raplamaa",
+          "ru": "Рапламаа",
+          "sv": "Rapla län",
+          "tr": "Rapla ili",
+          "vi": "Hạt Rapla",
+          "zh": "拉普拉縣"
+        },
+        "population": 48919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.677,
+          58.953
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ee",
+        "region_child": "ee-51",
+        "area": 0.6468120000000046,
+        "bounding_box": [
+          25.2,
+          58.614,
+          26.154,
+          59.292
+        ],
+        "point": [
+          25.677,
+          58.953
+        ],
+        "labels": {
+          "alt": "Jaerva|Järvamaa|Järva maakond",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة يارفا",
+          "bn": "জাভা কাউন্টি",
+          "de": "Kreis Järva",
+          "en": "Järva County",
+          "es": "Condado de Järva",
+          "fr": "Comté de Järva",
+          "el": "Επαρχία Γιέρβα",
+          "hi": "जार्वा काउंटी",
+          "hu": "Järvamaa",
+          "id": "County Järva",
+          "it": "Järvamaa",
+          "ja": "イェルヴァ県",
+          "ko": "얘르바 주",
+          "nl": "Järvamaa",
+          "pl": "Järvamaa",
+          "pt": "Järvamaa",
+          "ru": "Ярвамаа",
+          "sv": "Järvamaa",
+          "tr": "Järva ili",
+          "vi": "Hạt Jarva",
+          "zh": "耶爾瓦縣"
+        },
+        "population": 27309
+      }
+    }
+  ]
+}

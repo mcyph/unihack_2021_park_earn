@@ -1,0 +1,482 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2125,
+          -14.974
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bo",
+        "region_child": "bo-l",
+        "area": 17.795390000000037,
+        "bounding_box": [
+          -69.664,
+          -18.039,
+          -66.761,
+          -11.909
+        ],
+        "point": [
+          -68.2125,
+          -14.974
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إدارة لا باز",
+          "bn": "লা পাজ বিভাগ",
+          "de": "La Paz",
+          "en": "La Paz Department",
+          "es": "La Paz",
+          "fr": "département de La Paz",
+          "el": "Λα Παζ",
+          "hi": "ला पास विभाग",
+          "hu": null,
+          "id": "Departemen La Paz",
+          "it": "La Paz",
+          "ja": "ラパス県",
+          "ko": "라파스 주",
+          "nl": "La Paz",
+          "pl": "La Paz",
+          "pt": "La Paz",
+          "ru": "Ла-Пас",
+          "sv": "La Paz",
+          "tr": "La Paz Departmanı",
+          "vi": "Khu vực hành chính La Paz",
+          "zh": "拉巴斯省"
+        },
+        "population": 3121906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.60050000000001,
+          -18.613500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bo",
+        "region_child": "bo-o",
+        "area": 7.539324999999989,
+        "bounding_box": [
+          -69.155,
+          -19.826,
+          -66.046,
+          -17.401
+        ],
+        "point": [
+          -67.60050000000001,
+          -18.613500000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إدارة أورورو",
+          "bn": "ওরুরু বিভাগ",
+          "de": "Departamento Oruro",
+          "en": "Oruro Department",
+          "es": "Departamento de Oruro",
+          "fr": "département d'Oruro",
+          "el": "Ορούρο",
+          "hi": "ओरूरो विभाग",
+          "hu": null,
+          "id": "Departemen Oruro",
+          "it": "dipartimento di Oruro",
+          "ja": "オルロ県",
+          "ko": "오루로 주",
+          "nl": "Oruro",
+          "pl": "Oruro",
+          "pt": "Oruro",
+          "ru": "Оруро",
+          "sv": "Oruro",
+          "tr": "Oruro Departmanı",
+          "vi": "Khu vực hành chính Oruro",
+          "zh": "奥鲁罗省"
+        },
+        "population": 620242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.768,
+          -20.375999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bo",
+        "region_child": "bo-p",
+        "area": 20.379764,
+        "bounding_box": [
+          -68.789,
+          -22.897,
+          -64.747,
+          -17.855
+        ],
+        "point": [
+          -66.768,
+          -20.375999999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إدارة بوتوسي",
+          "bn": "পুটুসি বিভাগ",
+          "de": "Potosí",
+          "en": "Potosí Department",
+          "es": "Departamento de Potosí",
+          "fr": "département de Potosí",
+          "el": "Ποτοσί",
+          "hi": "पोतोसी विभाग",
+          "hu": null,
+          "id": "Departemen Potosí",
+          "it": "dipartimento di Potosí",
+          "ja": "ポトシ県",
+          "ko": "포토시 주",
+          "nl": "Potosí",
+          "pl": "Potosí",
+          "pt": "Potosí",
+          "ru": "Потоси",
+          "sv": "Potosí",
+          "tr": "Potosi Departmanı",
+          "vi": "Khu vực hành chính Potosi",
+          "zh": "波托西省"
+        },
+        "population": 924880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8005,
+          -21.8865
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bo",
+        "region_child": "bo-t",
+        "area": 5.9458649999999915,
+        "bounding_box": [
+          -65.329,
+          -22.859,
+          -62.272,
+          -20.914
+        ],
+        "point": [
+          -63.8005,
+          -21.8865
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إدارة تاريا",
+          "bn": "তারিজা বিভাগ",
+          "de": "Departamento Tarija",
+          "en": "Tarija Department",
+          "es": "Departamento de Tarija",
+          "fr": "département de Tarija",
+          "el": "Ταρίτζα",
+          "hi": "तारिहा विभाग",
+          "hu": null,
+          "id": "Departemen Tarija",
+          "it": "dipartimento di Tarija",
+          "ja": "タリハ県",
+          "ko": "타리하 주",
+          "nl": "Tarija",
+          "pl": "Tarija",
+          "pt": "Tarija",
+          "ru": "Тариха",
+          "sv": "Tarija",
+          "tr": "Tarija Departmanı",
+          "vi": "Khu vực hành chính Tarija",
+          "zh": "塔里哈省"
+        },
+        "population": 567774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.137,
+          -16.975
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bo",
+        "region_child": "bo-s",
+        "area": 51.38000000000004,
+        "bounding_box": [
+          -64.807,
+          -20.475,
+          -57.467,
+          -13.475
+        ],
+        "point": [
+          -61.137,
+          -16.975
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "إدارة سانتا كروز",
+          "bn": "সান্তা ক্রুজ বিভাগ",
+          "de": "Santa Cruz",
+          "en": "Santa Cruz Department",
+          "es": "Departamento de Santa Cruz",
+          "fr": "département de Santa Cruz",
+          "el": "Σάντα Κρούζ",
+          "hi": "सान्ता क्रूस विभाग",
+          "hu": null,
+          "id": "Departemen Santa Cruz",
+          "it": "dipartimento di Santa Cruz",
+          "ja": "サンタクルス県",
+          "ko": "산타크루스 주",
+          "nl": "Santa Cruz",
+          "pl": "Santa Cruz",
+          "pt": "Santa Cruz",
+          "ru": "Санта-Крус",
+          "sv": "Santa Cruz",
+          "tr": "Santa Cruz Departmanı",
+          "vi": "Vùng Santa Cruz",
+          "zh": "聖克魯斯省"
+        },
+        "population": 3270903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9525,
+          -19.9495
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bo",
+        "region_child": "bo-h",
+        "area": 11.044593000000011,
+        "bounding_box": [
+          -65.694,
+          -21.535,
+          -62.211,
+          -18.364
+        ],
+        "point": [
+          -63.9525,
+          -19.9495
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "إدارة شوكيساكا",
+          "bn": "চুকুইসাকা বিভাগ",
+          "de": "Chuquisaca",
+          "en": "Chuquisaca Department",
+          "es": "Departamento de Chuquisaca",
+          "fr": "département de Chuquisaca",
+          "el": "Γεωγραφικό Διαμέρισμα Τσουκισάκα",
+          "hi": "चुकिसाका विभाग",
+          "hu": null,
+          "id": "Departemen Chuquisaca",
+          "it": "dipartimento di Chuquisaca",
+          "ja": "チュキサカ県",
+          "ko": "추키사카 주",
+          "nl": "Chuquisaca",
+          "pl": "Chuquisaca",
+          "pt": "Chuquisaca",
+          "ru": "Чукисака",
+          "sv": "Chuquisaca",
+          "tr": "Chuquisaca Departmanı",
+          "vi": "Khu vực hành chính Chuquisaca",
+          "zh": "丘基萨卡省"
+        },
+        "population": 635015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.43299999999999,
+          -11.087499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bo",
+        "region_child": "bo-n",
+        "area": 12.076350000000016,
+        "bounding_box": [
+          -69.578,
+          -12.495,
+          -65.288,
+          -9.68
+        ],
+        "point": [
+          -67.43299999999999,
+          -11.087499999999999
+        ],
+        "labels": {
+          "alt": "colonial territories|madre de dios|territorio nacional de colonias",
+          "local": null,
+          "len": 5,
+          "ar": "إدارة باندو",
+          "bn": "পান্ডো বিভাগ",
+          "de": "Pando",
+          "en": "Pando Department",
+          "es": "Departamento de Pando",
+          "fr": "département de Pando",
+          "el": "Πάντο",
+          "hi": "पान्दो विभाग",
+          "hu": null,
+          "id": "Departemen Pando",
+          "it": "dipartimento di Pando",
+          "ja": "パンド県",
+          "ko": "판도 주",
+          "nl": "Pando",
+          "pl": "Pando",
+          "pt": "Pando",
+          "ru": "Пандо",
+          "sv": "Pando",
+          "tr": "Pando Departmanı",
+          "vi": "Pando",
+          "zh": "潘多省"
+        },
+        "population": 178754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.57849999999999,
+          -13.429
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bo",
+        "region_child": "bo-b",
+        "area": 36.26785399999994,
+        "bounding_box": [
+          -67.564,
+          -16.466,
+          -61.593,
+          -10.392
+        ],
+        "point": [
+          -64.57849999999999,
+          -13.429
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة بني",
+          "bn": "বেনি বিভাগ",
+          "de": "Departamento Beni",
+          "en": "Beni Department",
+          "es": "Departamento del Beni",
+          "fr": "département de Beni",
+          "el": "Μπένι",
+          "hi": "बेनी विभाग",
+          "hu": null,
+          "id": "Departemen Beni",
+          "it": "dipartimento di Beni",
+          "ja": "ベニ県",
+          "ko": "베니 주",
+          "nl": "Beni",
+          "pl": "Beni",
+          "pt": "Beni",
+          "ru": "Бени",
+          "sv": "Beni",
+          "tr": "Beni Departmanı",
+          "vi": "Khu vực hành chính Beni",
+          "zh": "贝尼省"
+        },
+        "population": 475395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.6135,
+          -17.1805
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bo",
+        "region_child": "bo-c",
+        "area": 8.30528899999999,
+        "bounding_box": [
+          -67.015,
+          -18.662,
+          -64.212,
+          -15.699
+        ],
+        "point": [
+          -65.6135,
+          -17.1805
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "إدارة كوتشابامبا",
+          "bn": "কোচাবম্বা  বিভাগ",
+          "de": "Cochabamba",
+          "en": "Cochabamba Department",
+          "es": "Departamento de Cochabamba",
+          "fr": "département de Cochabamba",
+          "el": "Κοτσαμπάμπα",
+          "hi": "कोचाबाम्बा विभाग",
+          "hu": null,
+          "id": "Departemen Cochabamba",
+          "it": "dipartimento di Cochabamba",
+          "ja": "コチャバンバ県",
+          "ko": "코차밤바 주",
+          "nl": "Cochabamba",
+          "pl": "Cochabamba",
+          "pt": "Cochabamba",
+          "ru": "Кочабамба",
+          "sv": "Cochabamba",
+          "tr": "Cochabamba Departmanı",
+          "vi": "Khu vực hành chính Cochabamba",
+          "zh": "科恰班巴省"
+        },
+        "population": 2065763
+      }
+    }
+  ]
+}

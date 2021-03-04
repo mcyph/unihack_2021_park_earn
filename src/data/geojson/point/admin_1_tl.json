@@ -1,0 +1,747 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2405,
+          -9.339500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-oe",
+        "area": 0.1342989999999979,
+        "bounding_box": [
+          124.03,
+          -9.499,
+          124.451,
+          -9.18
+        ],
+        "point": [
+          124.2405,
+          -9.339500000000001
+        ],
+        "labels": {
+          "alt": "Ambino|Oecussi",
+          "local": null,
+          "len": 6,
+          "ar": "بلدية أويكيوس",
+          "bn": "ওয়েকুস্যে পৌরসভা",
+          "de": "Oecusse",
+          "en": "Oecusse Municipality",
+          "es": "Oecussi-Ambeno",
+          "fr": "Oecusse",
+          "el": "Οεκούσσε",
+          "hi": "ओक्सेस नगर पालिका",
+          "hu": null,
+          "id": "Oecussi-Ambeno",
+          "it": "Okussi-Ambeno",
+          "ja": "オエクシ＝アンベノ",
+          "ko": "오에쿠시 현",
+          "nl": "Oecusse",
+          "pl": "Dystrykt Oecusse",
+          "pt": "Oecusse",
+          "ru": "Окуси-Амбено",
+          "sv": "Oecusse",
+          "tr": "Oecusse Belediyesi",
+          "vi": "Oecusse",
+          "zh": "歐庫西-安貝諾縣"
+        },
+        "population": 65263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1605,
+          -8.977
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-bo",
+        "area": 0.23936999999999795,
+        "bounding_box": [
+          124.908,
+          -9.214,
+          125.413,
+          -8.74
+        ],
+        "point": [
+          125.1605,
+          -8.977
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "بلدية بوبونارو",
+          "bn": "বোবোনারো পৌরসভা",
+          "de": "Bobonaro",
+          "en": "Bobonaro Municipality",
+          "es": "Bobonaro",
+          "fr": "Bobonaro",
+          "el": "Μπομπονάρο",
+          "hi": "बोबोनारो नगर पालिका",
+          "hu": null,
+          "id": "Bobonaro",
+          "it": "distretto di Bobonaro",
+          "ja": "ボボナロ県",
+          "ko": "보보나루 현",
+          "nl": "Bobonaro",
+          "pl": "Dystrykt Bobonaro",
+          "pt": "Bobonaro",
+          "ru": "Бобонару",
+          "sv": "Bobonaro",
+          "tr": "Bobonaro Belediyesi",
+          "vi": "Bobonaro",
+          "zh": "博博納羅縣"
+        },
+        "population": 130133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23249999999999,
+          -9.260000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-co",
+        "area": 0.25176400000000093,
+        "bounding_box": [
+          124.954,
+          -9.486,
+          125.511,
+          -9.034
+        ],
+        "point": [
+          125.23249999999999,
+          -9.260000000000002
+        ],
+        "labels": {
+          "alt": "Covalima|Kova-Lima",
+          "local": null,
+          "len": 9,
+          "ar": "بلدية كوفا ليما",
+          "bn": "কোভা লিমা পৌরসভা",
+          "de": "Cova Lima",
+          "en": "Cova Lima Municipality",
+          "es": "Cova-Lima",
+          "fr": "Cova Lima",
+          "el": "Κόβα Λίμα",
+          "hi": "कोवा लीमा नगर पालिका",
+          "hu": null,
+          "id": "Cova-Lima",
+          "it": "Cova Lima",
+          "ja": "コヴァ・リマ県",
+          "ko": "코바리마 현",
+          "nl": "Cova Lima",
+          "pl": "Dystrykt Cova-Lima",
+          "pt": "Cova Lima",
+          "ru": "Кова-Лима",
+          "sv": "Cova Lima",
+          "tr": "Cova Lima Belediyesi",
+          "vi": "Cova Lima",
+          "zh": "科瓦利馬縣"
+        },
+        "population": 83846
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5495,
+          -9.007
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-an",
+        "area": 0.12963600000000047,
+        "bounding_box": [
+          125.411,
+          -9.241,
+          125.688,
+          -8.773
+        ],
+        "point": [
+          125.5495,
+          -9.007
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "بلدية إينارو",
+          "bn": "আইনারো পৌরসভা",
+          "de": "Ainaro",
+          "en": "Ainaro Municipality",
+          "es": "Ainaro",
+          "fr": "Ainaro",
+          "el": "Αϊνάρο",
+          "hi": "ऐनारो नगरपालिका",
+          "hu": null,
+          "id": "Ainaro",
+          "it": "distretto di Ainaro",
+          "ja": "アイナロ県",
+          "ko": "아이나루 현",
+          "nl": "Ainaro",
+          "pl": "Dystrykt Ainaro",
+          "pt": "Ainaro",
+          "ru": "Айнару",
+          "sv": "Ainaro",
+          "tr": "Ainora Belediyesi",
+          "vi": "Ainaro",
+          "zh": "阿伊納羅縣"
+        },
+        "population": 69151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.81450000000001,
+          -8.972999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-mf",
+        "area": 0.20547999999999922,
+        "bounding_box": [
+          125.581,
+          -9.193,
+          126.048,
+          -8.753
+        ],
+        "point": [
+          125.81450000000001,
+          -8.972999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "بلدية مانوفاهي",
+          "bn": "মানুফাহি পৌরসভা",
+          "de": "Manufahi",
+          "en": "Manufahi Municipality",
+          "es": "Manufahi",
+          "fr": "Manufahi",
+          "el": "Μαναφουάι",
+          "hi": "मैनुफाही नगरपालिका",
+          "hu": null,
+          "id": "Manufahi",
+          "it": "Manufahi",
+          "ja": "マヌファヒ県",
+          "ko": "마누파이 현",
+          "nl": "Manufahi",
+          "pl": "Dystrykt Manufahi",
+          "pt": "Manufahi",
+          "ru": "Мануфахи",
+          "sv": "Manufahi",
+          "tr": "Manufahi Belediyesi",
+          "vi": "Manufahi",
+          "zh": "馬努法伊縣"
+        },
+        "population": 55792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9685,
+          -8.769
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-mt",
+        "area": 0.24249600000000396,
+        "bounding_box": [
+          125.758,
+          -9.057,
+          126.179,
+          -8.481
+        ],
+        "point": [
+          125.9685,
+          -8.769
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة ماناتوتو",
+          "bn": "মানাতুতু জেলা",
+          "de": "Manatuto",
+          "en": "Manatuto District",
+          "es": "Manatuto",
+          "fr": "Manatuto",
+          "el": "Μανατούτο",
+          "hi": "मनातुतो  जिला",
+          "hu": null,
+          "id": "Manatuto",
+          "it": "distretto di Manatuto",
+          "ja": "マナトゥト県",
+          "ko": "마나투투 현",
+          "nl": "Manatuto",
+          "pl": "Dystrykt Manatuto",
+          "pt": "Manatuto",
+          "ru": "Манатуту",
+          "sv": "Manatutodistriktet",
+          "tr": "Manatuto District",
+          "vi": "Manatuto",
+          "zh": "馬納圖托縣"
+        },
+        "population": 57178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.38650000000001,
+          -8.8035
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-vi",
+        "area": 0.2770649999999998,
+        "bounding_box": [
+          126.034,
+          -9.0,
+          126.739,
+          -8.607
+        ],
+        "point": [
+          126.38650000000001,
+          -8.8035
+        ],
+        "labels": {
+          "alt": "Vikeke",
+          "local": null,
+          "len": 8,
+          "ar": "بلدية فيكيك",
+          "bn": "ভিকুয়েকুয়ে পৌরসভা",
+          "de": "Viqueque",
+          "en": "Viqueque Municipality",
+          "es": "Viqueque",
+          "fr": "Viqueque",
+          "el": "Βικέκε",
+          "hi": "विक्वेक्वे नगरपालिका",
+          "hu": null,
+          "id": "Viqueque",
+          "it": "distretto di Viqueque",
+          "ja": "ヴィケケ県",
+          "ko": "비케크 현",
+          "nl": "Viqueque",
+          "pl": "Dystrykt Viqueque",
+          "pt": "Viqueque",
+          "ru": "Викеке",
+          "sv": "Viqueque",
+          "tr": "Viqueque Belediyesi",
+          "vi": "Viqueque",
+          "zh": "維克克縣"
+        },
+        "population": 81271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99549999999999,
+          -8.535
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-la",
+        "area": 0.2779799999999977,
+        "bounding_box": [
+          126.688,
+          -8.761,
+          127.303,
+          -8.309
+        ],
+        "point": [
+          126.99549999999999,
+          -8.535
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "بلدية لوتيم",
+          "bn": "লাটিম পৌরসভা",
+          "de": "Lautém",
+          "en": "Lautém Municipality",
+          "es": "Lautem",
+          "fr": "Lautém",
+          "el": "Λαουτέμ",
+          "hi": "लौटेम नगरपालिका",
+          "hu": null,
+          "id": "Lautém",
+          "it": "distretto di Lautém",
+          "ja": "ラウテン県",
+          "ko": "라우텡 현",
+          "nl": "Lautém",
+          "pl": "Dystrykt Lautém",
+          "pt": "Lautém",
+          "ru": "Лаутен",
+          "sv": "Lautém",
+          "tr": "Lautém Belediyesi",
+          "vi": "Lautém",
+          "zh": "勞滕縣"
+        },
+        "population": 66981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47200000000001,
+          -8.5625
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-ba",
+        "area": 0.1905679999999998,
+        "bounding_box": [
+          126.14,
+          -8.706,
+          126.804,
+          -8.419
+        ],
+        "point": [
+          126.47200000000001,
+          -8.5625
+        ],
+        "labels": {
+          "alt": "Baukau",
+          "local": null,
+          "len": 6,
+          "ar": "بلدية بوكاو",
+          "bn": "বাউকাউ পৌরসভা",
+          "de": "Baucau",
+          "en": "Baucau Municipality",
+          "es": "Baucau",
+          "fr": "Baucau",
+          "el": "Μποκό",
+          "hi": "बौकाऊ नगरपालिका",
+          "hu": null,
+          "id": "Baucau",
+          "it": "distretto di Baucau",
+          "ja": "バウカウ県",
+          "ko": "바우카우 현",
+          "nl": "Baucau",
+          "pl": "Dystrykt Baucau",
+          "pt": "Baucau",
+          "ru": "Баукау",
+          "sv": "Baucau",
+          "tr": "Baucau Belediyesi",
+          "vi": "Baucau",
+          "zh": "包考縣"
+        },
+        "population": 134950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.668,
+          -8.555499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-di",
+        "area": 0.04592400000000097,
+        "bounding_box": [
+          125.49,
+          -8.62,
+          125.846,
+          -8.491
+        ],
+        "point": [
+          125.668,
+          -8.555499999999999
+        ],
+        "labels": {
+          "alt": "Dilli",
+          "local": null,
+          "len": 4,
+          "ar": "بلدية ديلي",
+          "bn": "দিলি পৌরসভা",
+          "de": "Gemeinde Dili",
+          "en": "Dili municipality",
+          "es": "Dili",
+          "fr": "Dili",
+          "el": "Ντίλι",
+          "hi": "डिली नगरपालिका",
+          "hu": null,
+          "id": "Díli",
+          "it": "distretto di Dili",
+          "ja": "ディリ県",
+          "ko": "딜리 현",
+          "nl": "Dili",
+          "pl": "Dystrykt Dili",
+          "pt": "Díli",
+          "ru": "Дили",
+          "sv": "Dili",
+          "tr": "Dili",
+          "vi": "Dili",
+          "zh": "帝力縣"
+        },
+        "population": 355263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.578,
+          -8.221
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-di",
+        "area": 0.022016000000000095,
+        "bounding_box": [
+          125.514,
+          -8.307,
+          125.642,
+          -8.135
+        ],
+        "point": [
+          125.578,
+          -8.221
+        ],
+        "labels": {
+          "alt": "Dilli",
+          "local": null,
+          "len": 4,
+          "ar": "بلدية ديلي",
+          "bn": "দিলি পৌরসভা",
+          "de": "Gemeinde Dili",
+          "en": "Dili municipality",
+          "es": "Dili",
+          "fr": "Dili",
+          "el": "Ντίλι",
+          "hi": "डिली नगरपालिका",
+          "hu": null,
+          "id": "Díli",
+          "it": "distretto di Dili",
+          "ja": "ディリ県",
+          "ko": "딜리 현",
+          "nl": "Dili",
+          "pl": "Dystrykt Dili",
+          "pt": "Díli",
+          "ru": "Дили",
+          "sv": "Dili",
+          "tr": "Dili",
+          "vi": "Dili",
+          "zh": "帝力縣"
+        },
+        "population": 355263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3075,
+          -8.661
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-li",
+        "area": 0.0760740000000011,
+        "bounding_box": [
+          125.103,
+          -8.754,
+          125.512,
+          -8.568
+        ],
+        "point": [
+          125.3075,
+          -8.661
+        ],
+        "labels": {
+          "alt": "Likisia",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة ليكويتشيا",
+          "bn": "লিকুইকা পৌরসভা",
+          "de": "Liquiçá",
+          "en": "Liquiçá Municipality",
+          "es": "Liquiçá",
+          "fr": "Liquiçá",
+          "el": "Λικουικά",
+          "hi": "लिकीसा नगरपालिका",
+          "hu": null,
+          "id": "Liquiçá",
+          "it": "distretto di Liquiçá",
+          "ja": "リキシャ県",
+          "ko": "리키사 현",
+          "nl": "Liquiçá",
+          "pl": "Dystrykt Liquiçá",
+          "pt": "Liquiçá",
+          "ru": "Ликиса",
+          "sv": "Liquiçá",
+          "tr": "Liquaca Belediyesi",
+          "vi": "Liquiçá",
+          "zh": "利逵薩縣"
+        },
+        "population": 71736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33850000000001,
+          -8.8205
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-er",
+        "area": 0.10877900000000067,
+        "bounding_box": [
+          125.179,
+          -8.991,
+          125.498,
+          -8.65
+        ],
+        "point": [
+          125.33850000000001,
+          -8.8205
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة إرميرا",
+          "bn": "এরমেরা জেলা",
+          "de": "Ermera",
+          "en": "Ermera District",
+          "es": "Ermera",
+          "fr": "Ermera",
+          "el": "Ερμέρα",
+          "hi": "एरमेरा जिला",
+          "hu": null,
+          "id": "Ermera",
+          "it": "Ermera",
+          "ja": "エルメラ県",
+          "ko": "에르메라 현",
+          "nl": "Ermera",
+          "pl": "Dystrykt Ermera",
+          "pt": "Ermera",
+          "ru": "Эрмера",
+          "sv": "Ermera",
+          "tr": "Ermera District",
+          "vi": "Ermera",
+          "zh": "埃爾梅拉縣"
+        },
+        "population": 138019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6195,
+          -8.7105
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tl",
+        "region_child": "tl-al",
+        "area": 0.10796100000000285,
+        "bounding_box": [
+          125.434,
+          -8.856,
+          125.805,
+          -8.565
+        ],
+        "point": [
+          125.6195,
+          -8.7105
+        ],
+        "labels": {
+          "alt": "Alieau",
+          "local": null,
+          "len": 5,
+          "ar": "بلدية ايلو",
+          "bn": "আইলিউ পৌরসভা",
+          "de": "Gemeinde Aileu",
+          "en": "Aileu municipality",
+          "es": "Aileu",
+          "fr": "Aileu",
+          "el": "Αϊλέου",
+          "hi": "एइलू नगरपालिका",
+          "hu": null,
+          "id": "Aileu",
+          "it": "distretto di Aileu",
+          "ja": "アイレウ県",
+          "ko": "아일레우 현",
+          "nl": "Aileu",
+          "pl": "Dystrykt Aileu",
+          "pt": "Aileu",
+          "ru": "Айлеу",
+          "sv": "Aileu",
+          "tr": "Aileu Belediyesi",
+          "vi": "Aileu",
+          "zh": "阿伊萊烏縣"
+        },
+        "population": 79012
+      }
+    }
+  ]
+}

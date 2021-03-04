@@ -1,0 +1,694 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.021,
+          51.0375
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-vwv",
+        "area": 0.6736499999999973,
+        "bounding_box": [
+          2.522,
+          50.7,
+          3.52,
+          51.375
+        ],
+        "point": [
+          3.021,
+          51.0375
+        ],
+        "labels": {
+          "alt": "West-Vlaanderen",
+          "local": null,
+          "len": 13,
+          "ar": "فلاندرز الغربية",
+          "bn": "ওয়েস্ট ফ্লান্ডারস",
+          "de": "Provinz Westflandern",
+          "en": "West Flanders",
+          "es": "Provincia de Flandes Occidental",
+          "fr": "Flandre-Occidentale",
+          "el": "Δυτική Φλάνδρα",
+          "hi": "वेस्ट फ्लैंडर्स",
+          "hu": "Nyugat-Flandria",
+          "id": "Flandria Barat",
+          "it": "provincia delle Fiandre Occidentali",
+          "ja": "ウェスト＝フランデレン州",
+          "ko": "베스트플란데런 주",
+          "nl": "West-Vlaanderen",
+          "pl": "Prowincja Flandria Zachodnia",
+          "pt": "Flandres Ocidental",
+          "ru": "Западная Фландрия",
+          "sv": "Västflandern",
+          "tr": "Batı Flandre",
+          "vi": "West-Vlaanderen",
+          "zh": "西弗兰德省"
+        },
+        "population": 1219696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8895,
+          50.357
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-wht",
+        "area": 1.2292380000000052,
+        "bounding_box": [
+          3.163,
+          49.934,
+          4.616,
+          50.78
+        ],
+        "point": [
+          3.8895,
+          50.357
+        ],
+        "labels": {
+          "alt": "Henegouwen",
+          "local": null,
+          "len": 7,
+          "ar": "هينو",
+          "bn": "হাইনট",
+          "de": "Provinz Hennegau",
+          "en": "Hainaut",
+          "es": "Provincia de Henao",
+          "fr": "Hainaut",
+          "el": "Αινώ",
+          "hi": "हैनौत",
+          "hu": "Hainaut",
+          "id": "Hainaut",
+          "it": "provincia dell'Hainaut",
+          "ja": "エノー州",
+          "ko": "에노 주",
+          "nl": "Henegouwen",
+          "pl": "Prowincja Hainaut",
+          "pt": "Hainaut",
+          "ru": "Эно",
+          "sv": "Hainaut",
+          "tr": "Hainaut",
+          "vi": "Hainaut",
+          "zh": "埃諾省"
+        },
+        "population": 1409481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.933,
+          50.7385
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-wht",
+        "area": 0.014013999999999664,
+        "bounding_box": [
+          2.842,
+          50.7,
+          3.024,
+          50.777
+        ],
+        "point": [
+          2.933,
+          50.7385
+        ],
+        "labels": {
+          "alt": "Henegouwen",
+          "local": null,
+          "len": 7,
+          "ar": "هينو",
+          "bn": "হাইনট",
+          "de": "Provinz Hennegau",
+          "en": "Hainaut",
+          "es": "Provincia de Henao",
+          "fr": "Hainaut",
+          "el": "Αινώ",
+          "hi": "हैनौत",
+          "hu": "Hainaut",
+          "id": "Hainaut",
+          "it": "provincia dell'Hainaut",
+          "ja": "エノー州",
+          "ko": "에노 주",
+          "nl": "Henegouwen",
+          "pl": "Prowincja Hainaut",
+          "pt": "Hainaut",
+          "ru": "Эно",
+          "sv": "Hainaut",
+          "tr": "Hainaut",
+          "vi": "Hainaut",
+          "zh": "埃諾省"
+        },
+        "population": 1409481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.839499999999999,
+          50.2185
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-wna",
+        "area": 0.9398430000000043,
+        "bounding_box": [
+          4.286,
+          49.794,
+          5.393,
+          50.643
+        ],
+        "point": [
+          4.839499999999999,
+          50.2185
+        ],
+        "labels": {
+          "alt": "Namen",
+          "local": null,
+          "len": 5,
+          "ar": "نامور",
+          "bn": "নামুর",
+          "de": "Provinz Namur",
+          "en": "Namur",
+          "es": "Provincia de Namur",
+          "fr": "province de Namur",
+          "el": "Ναμύρ",
+          "hi": "नामुर",
+          "hu": "Namur",
+          "id": "Namur",
+          "it": "provincia di Namur",
+          "ja": "ナミュール州",
+          "ko": "나무르 주",
+          "nl": "Namen",
+          "pl": "Prowincja Namur",
+          "pt": "Namur",
+          "ru": "Намюр",
+          "sv": "Namur",
+          "tr": "Namur",
+          "vi": "Namur",
+          "zh": "那慕爾省"
+        },
+        "population": 515935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4955,
+          49.960499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-wlx",
+        "area": 0.9822050000000044,
+        "bounding_box": [
+          4.968,
+          49.495,
+          6.023,
+          50.426
+        ],
+        "point": [
+          5.4955,
+          49.960499999999996
+        ],
+        "labels": {
+          "alt": "Luxemburg",
+          "local": null,
+          "len": 10,
+          "ar": null,
+          "bn": null,
+          "de": "Distrikt Luxemburg",
+          "en": "Luxembourg District",
+          "es": "distrito de Luxemburgo",
+          "fr": "district de Luxembourg",
+          "el": "Διαμέρισμα του Λουξεμβούργου",
+          "hi": null,
+          "hu": null,
+          "id": "Distrik Luksemburg",
+          "it": "distretto di Lussemburgo",
+          "ja": "ルクセンブルク広域行政区",
+          "ko": "룩셈부르크 구",
+          "nl": "District Luxemburg",
+          "pl": "Dystrykt Luksemburg",
+          "pt": "Luxemburgo",
+          "ru": "Люксембург",
+          "sv": "Luxembourg",
+          "tr": "Lüksemburg ili",
+          "vi": null,
+          "zh": "盧森堡區"
+        },
+        "population": 289533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.678,
+          50.464
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-wlg",
+        "area": 0.9563200000000037,
+        "bounding_box": [
+          4.983,
+          50.12,
+          6.373,
+          50.808
+        ],
+        "point": [
+          5.678,
+          50.464
+        ],
+        "labels": {
+          "alt": "Luik",
+          "local": null,
+          "len": 5,
+          "ar": "لياج",
+          "bn": "লিয়েজ",
+          "de": "Provinz Lüttich",
+          "en": "Liège",
+          "es": "Provincia de Lieja",
+          "fr": "province de Liège",
+          "el": "Λιέγη",
+          "hi": "लीज",
+          "hu": "Liège",
+          "id": "Liège",
+          "it": "provincia di Liegi",
+          "ja": "リエージュ州",
+          "ko": "리에주 주",
+          "nl": "Luik",
+          "pl": "Prowincja Liège",
+          "pt": "Liège",
+          "ru": "Льеж",
+          "sv": "Liège",
+          "tr": "Liège",
+          "vi": "Liège",
+          "zh": "列日省"
+        },
+        "population": 1127252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.832,
+          51.045
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-vov",
+        "area": 0.647292000000001,
+        "bounding_box": [
+          3.331,
+          50.722,
+          4.333,
+          51.368
+        ],
+        "point": [
+          3.832,
+          51.045
+        ],
+        "labels": {
+          "alt": "Oost-Vlaanderen|Ostflandern|Falndre orientale",
+          "local": null,
+          "len": 13,
+          "ar": "فلاندر الشرقية",
+          "bn": "ইস্ট ফ্লান্ডার্স",
+          "de": "Provinz Ostflandern",
+          "en": "East Flanders",
+          "es": "Provincia de Flandes Oriental",
+          "fr": "Flandre-Orientale",
+          "el": "Ανατολική Φλάνδρα",
+          "hi": "पूर्वी फ्लैंडर्स",
+          "hu": "Kelet-Flandria",
+          "id": "Flandria Timur",
+          "it": "provincia delle Fiandre Orientali",
+          "ja": "オースト＝フランデレン州",
+          "ko": "오스트플란데런 주",
+          "nl": "Oost-Vlaanderen",
+          "pl": "Prowincja Flandria Wschodnia",
+          "pt": "Flandres Oriental",
+          "ru": "Восточная Фландрия",
+          "sv": "Östflandern",
+          "tr": "Doğu Flandre",
+          "vi": "Oost-Vlaanderen",
+          "zh": "东弗兰德省"
+        },
+        "population": 1511554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.721,
+          51.2485
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-van",
+        "area": 0.5120499999999936,
+        "bounding_box": [
+          4.182,
+          51.011,
+          5.26,
+          51.486
+        ],
+        "point": [
+          4.721,
+          51.2485
+        ],
+        "labels": {
+          "alt": "Antwerpen",
+          "local": null,
+          "len": 7,
+          "ar": "أنتفيرب",
+          "bn": "এন্টওয়ার্প",
+          "de": "Provinz Antwerpen",
+          "en": "Antwerp",
+          "es": "Provincia de Amberes",
+          "fr": "province d'Anvers",
+          "el": "Αμβέρσα",
+          "hi": "एंटवर्प",
+          "hu": "Antwerpen",
+          "id": "Antwerpen",
+          "it": "provincia d'Anversa",
+          "ja": "アントウェルペン州",
+          "ko": "안트베르펜 주",
+          "nl": "Antwerpen",
+          "pl": "Prowincja Antwerpia",
+          "pt": "Antuérpia",
+          "ru": "Антверпен",
+          "sv": "Antwerpen",
+          "tr": "Anvers",
+          "vi": "Antwerp",
+          "zh": "安特衛普省"
+        },
+        "population": 1823133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.411,
+          50.998999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-vli",
+        "area": 0.49707999999999664,
+        "bounding_box": [
+          4.981,
+          50.71,
+          5.841,
+          51.288
+        ],
+        "point": [
+          5.411,
+          50.998999999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "ليمبورغ",
+          "bn": "লিমবার্গ",
+          "de": "Limburg",
+          "en": "Limburg",
+          "es": "Limburgo",
+          "fr": "Limbourg",
+          "el": "Λιμβουργία",
+          "hi": "लिम्बर्ग",
+          "hu": "Limburg",
+          "id": "Limburg",
+          "it": "Limburgo",
+          "ja": "リンブルフ州",
+          "ko": "림뷔르흐 주",
+          "nl": "Limburg",
+          "pl": "Prowincja Limburgia",
+          "pt": "Limburgo",
+          "ru": "Лимбург",
+          "sv": "Limburg",
+          "tr": "Limburg",
+          "vi": "Limburg",
+          "zh": "林堡省"
+        },
+        "population": 892089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.811999999999999,
+          50.736000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-vli",
+        "area": 0.007267999999999918,
+        "bounding_box": [
+          5.733,
+          50.713,
+          5.891,
+          50.759
+        ],
+        "point": [
+          5.811999999999999,
+          50.736000000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "ليمبورغ",
+          "bn": "লিমবার্গ",
+          "de": "Limburg",
+          "en": "Limburg",
+          "es": "Limburgo",
+          "fr": "Limbourg",
+          "el": "Λιμβουργία",
+          "hi": "लिम्बर्ग",
+          "hu": "Limburg",
+          "id": "Limburg",
+          "it": "Limburgo",
+          "ja": "リンブルフ州",
+          "ko": "림뷔르흐 주",
+          "nl": "Limburg",
+          "pl": "Prowincja Limburgia",
+          "pt": "Limburgo",
+          "ru": "Лимбург",
+          "sv": "Limburg",
+          "tr": "Limburg",
+          "vi": "Limburg",
+          "zh": "林堡省"
+        },
+        "population": 892089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.381500000000001,
+          50.8335
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-bru",
+        "area": 0.025807000000000052,
+        "bounding_box": [
+          4.283,
+          50.768,
+          4.48,
+          50.899
+        ],
+        "point": [
+          4.381500000000001,
+          50.8335
+        ],
+        "labels": {
+          "alt": "Bruselas|Brussel Hoofstadt|Brusselse Hoofdstedelijke Gewest|Brüssel|Bruxelas|Région de Bruxelles-Capitale",
+          "local": null,
+          "len": 8,
+          "ar": "إقليم بروكسل العاصمة",
+          "bn": "ব্রাসেল্‌স",
+          "de": "Region Brüssel-Hauptstadt",
+          "en": "Brussels-Capital Region",
+          "es": "Región de Bruselas-Capital",
+          "fr": "région de Bruxelles-Capitale",
+          "el": "Περιοχή των Βρυξελλών",
+          "hi": "ब्रुसेल्स",
+          "hu": "Brüsszel fővárosi régió",
+          "id": "Daerah Ibu Kota Brussel",
+          "it": "Regione di Bruxelles-Capitale",
+          "ja": "ブリュッセル首都圏地域",
+          "ko": "브뤼셀",
+          "nl": "Brussels Hoofdstedelijk Gewest",
+          "pl": "Region Stołeczny Brukseli",
+          "pt": "Região de Bruxelas-Capital",
+          "ru": "Брюссельский столичный регион",
+          "sv": "Bryssel",
+          "tr": "Brüksel Başkent Bölgesi",
+          "vi": "Bruxelles",
+          "zh": "布鲁塞尔-首都大区"
+        },
+        "population": 1200091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5335,
+          50.8665
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-vbr",
+        "area": 0.4533349999999959,
+        "bounding_box": [
+          3.895,
+          50.689,
+          5.172,
+          51.044
+        ],
+        "point": [
+          4.5335,
+          50.8665
+        ],
+        "labels": {
+          "alt": "Vlaams Brabant|Flamish-Brabant|Brabant flamand",
+          "local": null,
+          "len": 15,
+          "ar": "برابانت فلاماند",
+          "bn": "ফ্লেমিশ ব্র্যাবেন্ট",
+          "de": "Flämisch-Brabant",
+          "en": "Flemish Brabant",
+          "es": "Brabante Flamenco",
+          "fr": "Brabant flamand",
+          "el": "Φλαμανδική Μπραμπάντ",
+          "hi": "फ्लेमिश ब्रबेंट",
+          "hu": "Flamand-Brabant",
+          "id": "Flemish Brabant",
+          "it": "provincia del Brabante Fiammingo",
+          "ja": "フラームス＝ブラバント州",
+          "ko": "플람스브라반트 주",
+          "nl": "Vlaams-Brabant",
+          "pl": "Prowincja Brabancja Flamandzka",
+          "pt": "Brabante Flamengo",
+          "ru": "Фламандский Брабант",
+          "sv": "Flamländska Brabant",
+          "tr": "Flaman Brabant",
+          "vi": "Vlaams-Brabant",
+          "zh": "弗拉芒-布拉班特省"
+        },
+        "population": 1226749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5595,
+          50.6695
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "be",
+        "region_child": "be-wbr",
+        "area": 0.25640099999999677,
+        "bounding_box": [
+          4.1,
+          50.53,
+          5.019,
+          50.809
+        ],
+        "point": [
+          4.5595,
+          50.6695
+        ],
+        "labels": {
+          "alt": "Waals-Brabant|Brabant Wallon",
+          "local": null,
+          "len": 15,
+          "ar": "برابانت والون",
+          "bn": "ওয়াল্লুন ব্রাবান্ট",
+          "de": "Provinz Wallonisch-Brabant",
+          "en": "Walloon Brabant",
+          "es": "Provincia del Brabante Valón",
+          "fr": "Brabant wallon",
+          "el": "Βαλλωνική Βραβάντη",
+          "hi": "वालून ब्रबैंट",
+          "hu": "Vallon-Brabant",
+          "id": "Brabant Walonia",
+          "it": "provincia del Brabante Vallone",
+          "ja": "ブラバン・ワロン州",
+          "ko": "브라방왈롱 주",
+          "nl": "Waals-Brabant",
+          "pl": "Prowincja Brabancja Walońska",
+          "pt": "Brabante Valão",
+          "ru": "Валлонский Брабант",
+          "sv": "Vallonska Brabant",
+          "tr": "Valon Brabant",
+          "vi": "Walloon Brabant",
+          "zh": "瓦隆-布拉班特省"
+        },
+        "population": 416588
+      }
+    }
+  ]
+}

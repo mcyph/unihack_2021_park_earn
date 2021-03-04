@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.015,
+          50.5715
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "annaberg",
+        "area": 0.12041400000000012,
+        "bounding_box": [
+          12.832,
+          50.407,
+          13.198,
+          50.736
+        ],
+        "point": [
+          13.015,
+          50.5715
+        ],
+        "labels": {
+          "en": "Annaberg"
+        },
+        "population": 67566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.689,
+          50.5315
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "aue-schwarzenberg",
+        "area": 0.11854799999999793,
+        "bounding_box": [
+          12.467,
+          50.398,
+          12.911,
+          50.665
+        ],
+        "point": [
+          12.689,
+          50.5315
+        ],
+        "labels": {
+          "en": "Aue-Schwarzenberg"
+        },
+        "population": 105417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.940999999999999,
+          50.831500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "chemnitz städte",
+        "area": 0.0297659999999993,
+        "bounding_box": [
+          12.82,
+          50.77,
+          13.062,
+          50.893
+        ],
+        "point": [
+          12.940999999999999,
+          50.831500000000005
+        ],
+        "labels": {
+          "en": "Chemnitz Städte"
+        },
+        "population": 178944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.655000000000001,
+          50.8275
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "chemnitzer land",
+        "area": 0.09273399999999896,
+        "bounding_box": [
+          12.422,
+          50.728,
+          12.888,
+          50.927
+        ],
+        "point": [
+          12.655000000000001,
+          50.8275
+        ],
+        "labels": {
+          "en": "Chemnitzer Land"
+        },
+        "population": 135725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.323,
+          50.839
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "freiberg",
+        "area": 0.28333599999999776,
+        "bounding_box": [
+          12.992,
+          50.625,
+          13.654,
+          51.053
+        ],
+        "point": [
+          13.323,
+          50.839
+        ],
+        "labels": {
+          "en": "Freiberg"
+        },
+        "population": 117717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2345,
+          50.662
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "mittlerer erzgebirgskreis",
+        "area": 0.16840600000000133,
+        "bounding_box": [
+          12.973,
+          50.501,
+          13.496,
+          50.823
+        ],
+        "point": [
+          13.2345,
+          50.662
+        ],
+        "labels": {
+          "en": "Mittlerer Erzgebirgskreis"
+        },
+        "population": 72316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.956499999999998,
+          50.9895
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "mittweida",
+        "area": 0.15592699999999984,
+        "bounding_box": [
+          12.633,
+          50.869,
+          13.28,
+          51.11
+        ],
+        "point": [
+          12.956499999999998,
+          50.9895
+        ],
+        "labels": {
+          "en": "Mittweida"
+        },
+        "population": 110092
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.151,
+          50.4945
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "plauen städte",
+        "area": 0.012431999999999686,
+        "bounding_box": [
+          12.095,
+          50.439,
+          12.207,
+          50.55
+        ],
+        "point": [
+          12.151,
+          50.4945
+        ],
+        "labels": {
+          "en": "Plauen Städte"
+        },
+        "population": 45242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8285,
+          50.701
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "stollberg",
+        "area": 0.07342399999999975,
+        "bounding_box": [
+          12.652,
+          50.597,
+          13.005,
+          50.805
+        ],
+        "point": [
+          12.8285,
+          50.701
+        ],
+        "labels": {
+          "en": "Stollberg"
+        },
+        "population": 86316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.233,
+          50.4335
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "vogtlandkreis",
+        "area": 0.36037200000000036,
+        "bounding_box": [
+          11.879,
+          50.179,
+          12.587,
+          50.688
+        ],
+        "point": [
+          12.233,
+          50.4335
+        ],
+        "labels": {
+          "en": "Vogtlandkreis"
+        },
+        "population": 170420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.498000000000001,
+          50.725
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "zwickau städte",
+        "area": 0.016223999999999936,
+        "bounding_box": [
+          12.42,
+          50.673,
+          12.576,
+          50.777
+        ],
+        "point": [
+          12.498000000000001,
+          50.725
+        ],
+        "labels": {
+          "en": "Zwickau Städte"
+        },
+        "population": 58445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.487,
+          50.707
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "zwickauer land",
+        "area": 0.15128000000000097,
+        "bounding_box": [
+          12.243,
+          50.552,
+          12.731,
+          50.862
+        ],
+        "point": [
+          12.487,
+          50.707
+        ],
+        "labels": {
+          "en": "Zwickauer Land"
+        },
+        "population": 135360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3445,
+          51.180499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "bautzen",
+        "area": 0.2349549999999971,
+        "bounding_box": [
+          14.002,
+          51.009,
+          14.687,
+          51.352
+        ],
+        "point": [
+          14.3445,
+          51.180499999999995
+        ],
+        "labels": {
+          "en": "Bautzen"
+        },
+        "population": 122680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.818000000000001,
+          51.1005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "dresden städte",
+        "area": 0.11887599999999914,
+        "bounding_box": [
+          13.592,
+          50.969,
+          14.044,
+          51.232
+        ],
+        "point": [
+          13.818000000000001,
+          51.1005
+        ],
+        "labels": {
+          "en": "Dresden Städte"
+        },
+        "population": 599149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9515,
+          51.1345
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "görlitz städte",
+        "area": 0.014522999999999784,
+        "bounding_box": [
+          14.9,
+          51.064,
+          15.003,
+          51.205
+        ],
+        "point": [
+          14.9515,
+          51.1345
+        ],
+        "labels": {
+          "en": "Görlitz Städte"
+        },
+        "population": 38255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1745,
+          51.328
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "kamenz",
+        "area": 0.3432940000000038,
+        "bounding_box": [
+          13.779,
+          51.111,
+          14.57,
+          51.545
+        ],
+        "point": [
+          14.1745,
+          51.328
+        ],
+        "labels": {
+          "en": "Kamenz"
+        },
+        "population": 124326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.719,
+          51.0055
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "löbau-zittau",
+        "area": 0.1761679999999984,
+        "bounding_box": [
+          14.475,
+          50.825,
+          14.963,
+          51.186
+        ],
+        "point": [
+          14.719,
+          51.0055
+        ],
+        "labels": {
+          "en": "Löbau-Zittau"
+        },
+        "population": 112309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.447,
+          51.1325
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "meißen",
+        "area": 0.10391800000000176,
+        "bounding_box": [
+          13.224,
+          51.016,
+          13.67,
+          51.249
+        ],
+        "point": [
+          13.447,
+          51.1325
+        ],
+        "labels": {
+          "en": "Meißen"
+        },
+        "population": 98914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.743,
+          51.341499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "niederschlesischer oberlausitzkreis",
+        "area": 0.30384999999999607,
+        "bounding_box": [
+          14.448,
+          51.084,
+          15.038,
+          51.599
+        ],
+        "point": [
+          14.743,
+          51.341499999999996
+        ],
+        "labels": {
+          "en": "Niederschlesischer Oberlausitzkreis"
+        },
+        "population": 78479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5345,
+          51.325
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "riesa-großenhain",
+        "area": 0.174150000000002,
+        "bounding_box": [
+          13.197,
+          51.196,
+          13.872,
+          51.454
+        ],
+        "point": [
+          13.5345,
+          51.325
+        ],
+        "labels": {
+          "en": "Riesa-Großenhain"
+        },
+        "population": 92436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088000000000001,
+          50.929500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "sächsische schweiz",
+        "area": 0.1871739999999995,
+        "bounding_box": [
+          13.775,
+          50.78,
+          14.401,
+          51.079
+        ],
+        "point": [
+          14.088000000000001,
+          50.929500000000004
+        ],
+        "labels": {
+          "en": "Sächsische Schweiz"
+        },
+        "population": 114494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.67,
+          50.879999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "weißeritzkreis",
+        "area": 0.14930799999999972,
+        "bounding_box": [
+          13.441,
+          50.717,
+          13.899,
+          51.043
+        ],
+        "point": [
+          13.67,
+          50.879999999999995
+        ],
+        "labels": {
+          "en": "Weißeritzkreis"
+        },
+        "population": 103115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.472999999999999,
+          51.516999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "delitzsch",
+        "area": 0.18132399999999596,
+        "bounding_box": [
+          12.156,
+          51.374,
+          12.79,
+          51.66
+        ],
+        "point": [
+          12.472999999999999,
+          51.516999999999996
+        ],
+        "labels": {
+          "en": "Delitzsch"
+        },
+        "population": 84291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0705,
+          51.143
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "döbeln",
+        "area": 0.0756239999999989,
+        "bounding_box": [
+          12.865,
+          51.051,
+          13.276,
+          51.235
+        ],
+        "point": [
+          13.0705,
+          51.143
+        ],
+        "labels": {
+          "en": "Döbeln"
+        },
+        "population": 57943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.369,
+          51.333
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "leipzig städte",
+        "area": 0.03678400000000038,
+        "bounding_box": [
+          12.248,
+          51.257,
+          12.49,
+          51.409
+        ],
+        "point": [
+          12.369,
+          51.333
+        ],
+        "labels": {
+          "en": "Leipzig Städte"
+        },
+        "population": 350728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4585,
+          51.213499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "leipziger land",
+        "area": 0.27853499999999703,
+        "bounding_box": [
+          12.159,
+          50.981,
+          12.758,
+          51.446
+        ],
+        "point": [
+          12.4585,
+          51.213499999999996
+        ],
+        "labels": {
+          "en": "Leipziger Land"
+        },
+        "population": 314725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7405,
+          51.2775
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "muldentalkreis",
+        "area": 0.16138500000000114,
+        "bounding_box": [
+          12.523,
+          51.092,
+          12.958,
+          51.463
+        ],
+        "point": [
+          12.7405,
+          51.2775
+        ],
+        "labels": {
+          "en": "Muldentalkreis"
+        },
+        "population": 111691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.976500000000001,
+          51.441
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sn",
+        "region_child": "torgau-oschatz",
+        "area": 0.24623999999999835,
+        "bounding_box": [
+          12.72,
+          51.201,
+          13.233,
+          51.681
+        ],
+        "point": [
+          12.976500000000001,
+          51.441
+        ],
+        "labels": {
+          "en": "Torgau-Oschatz"
+        },
+        "population": 78701
+      }
+    }
+  ]
+}

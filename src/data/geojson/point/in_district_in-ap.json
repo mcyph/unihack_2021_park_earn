@@ -1,0 +1,935 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.145,
+          18.622500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "srikakulam",
+        "area": 1.3506579999999964,
+        "bounding_box": [
+          83.526,
+          18.077,
+          84.764,
+          19.168
+        ],
+        "point": [
+          84.145,
+          18.622500000000002
+        ],
+        "labels": {
+          "en": "Srikakulam"
+        },
+        "population": 2719921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.406,
+          18.503999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "vizianagaram",
+        "area": 1.0728520000000106,
+        "bounding_box": [
+          82.999,
+          17.845,
+          83.813,
+          19.163
+        ],
+        "point": [
+          83.406,
+          18.503999999999998
+        ],
+        "labels": {
+          "en": "Vizianagaram"
+        },
+        "population": 2437544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.69200000000001,
+          17.8995
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "visakhapatnam",
+        "area": 2.1674660000000174,
+        "bounding_box": [
+          81.859,
+          17.249,
+          83.525,
+          18.55
+        ],
+        "point": [
+          82.69200000000001,
+          17.8995
+        ],
+        "labels": {
+          "en": "Visakhapatnam"
+        },
+        "population": 4869975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.776,
+          16.43
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 2.2470839999999996,
+        "bounding_box": [
+          79.999,
+          15.707,
+          81.553,
+          17.153
+        ],
+        "point": [
+          80.776,
+          16.43
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.012,
+          15.8045
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 0.0003220000000002506,
+        "bounding_box": [
+          81.005,
+          15.793,
+          81.019,
+          15.816
+        ],
+        "point": [
+          81.012,
+          15.8045
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.77950000000001,
+          15.861
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 5.400000000000409e-05,
+        "bounding_box": [
+          80.775,
+          15.858,
+          80.784,
+          15.864
+        ],
+        "point": [
+          80.77950000000001,
+          15.861
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7855,
+          15.850000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 4.9999999999953456e-05,
+        "bounding_box": [
+          80.783,
+          15.845,
+          80.788,
+          15.855
+        ],
+        "point": [
+          80.7855,
+          15.850000000000001
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.791,
+          15.83
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 1.60000000000249e-05,
+        "bounding_box": [
+          80.789,
+          15.828,
+          80.793,
+          15.832
+        ],
+        "point": [
+          80.791,
+          15.83
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.007,
+          15.7935
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 9.999999999974705e-06,
+        "bounding_box": [
+          81.006,
+          15.791,
+          81.008,
+          15.796
+        ],
+        "point": [
+          81.007,
+          15.7935
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7885,
+          15.84
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 6.000000000028876e-06,
+        "bounding_box": [
+          80.788,
+          15.837,
+          80.789,
+          15.843
+        ],
+        "point": [
+          80.7885,
+          15.84
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.93,
+          15.7165
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 5.9999999999862435e-06,
+        "bounding_box": [
+          80.929,
+          15.715,
+          80.931,
+          15.718
+        ],
+        "point": [
+          80.93,
+          15.7165
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.81200000000001,
+          15.7315
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 5.9999999999862435e-06,
+        "bounding_box": [
+          80.811,
+          15.73,
+          80.813,
+          15.733
+        ],
+        "point": [
+          80.81200000000001,
+          15.7315
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.795,
+          15.7545
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 2.000000000011994e-06,
+        "bounding_box": [
+          80.794,
+          15.754,
+          80.796,
+          15.755
+        ],
+        "point": [
+          80.795,
+          15.7545
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7935,
+          15.757
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 1.9999999999800197e-06,
+        "bounding_box": [
+          80.793,
+          15.756,
+          80.794,
+          15.758
+        ],
+        "point": [
+          80.7935,
+          15.757
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7935,
+          15.7695
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "krishna",
+        "area": 9.999999999900098e-07,
+        "bounding_box": [
+          80.793,
+          15.769,
+          80.794,
+          15.77
+        ],
+        "point": [
+          80.7935,
+          15.7695
+        ],
+        "labels": {
+          "en": "Krishna"
+        },
+        "population": 4757328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0555,
+          16.264499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "guntur",
+        "area": 1.8899250000000056,
+        "bounding_box": [
+          79.208,
+          15.707,
+          80.903,
+          16.822
+        ],
+        "point": [
+          80.0555,
+          16.264499999999998
+        ],
+        "labels": {
+          "en": "Guntur"
+        },
+        "population": 5365429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.745,
+          17.161
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "east godavari",
+        "area": 2.934344000000009,
+        "bounding_box": [
+          80.886,
+          16.307,
+          82.604,
+          18.015
+        ],
+        "point": [
+          81.745,
+          17.161
+        ],
+        "labels": {
+          "en": "East Godavari"
+        },
+        "population": 5569749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.3375,
+          16.598
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "east godavari",
+        "area": 0.0002339999999998472,
+        "bounding_box": [
+          82.331,
+          16.589,
+          82.344,
+          16.607
+        ],
+        "point": [
+          82.3375,
+          16.598
+        ],
+        "labels": {
+          "en": "East Godavari"
+        },
+        "population": 5569749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.33449999999999,
+          16.6115
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "east godavari",
+        "area": 9.099999999986716e-05,
+        "bounding_box": [
+          82.331,
+          16.605,
+          82.338,
+          16.618
+        ],
+        "point": [
+          82.33449999999999,
+          16.6115
+        ],
+        "labels": {
+          "en": "East Godavari"
+        },
+        "population": 5569749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31700000000001,
+          16.570500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "east godavari",
+        "area": 2.0000000000020463e-05,
+        "bounding_box": [
+          82.315,
+          16.568,
+          82.319,
+          16.573
+        ],
+        "point": [
+          82.31700000000001,
+          16.570500000000003
+        ],
+        "labels": {
+          "en": "East Godavari"
+        },
+        "population": 5569749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.3185,
+          16.566499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "east godavari",
+        "area": 1.000000000005997e-06,
+        "bounding_box": [
+          82.318,
+          16.566,
+          82.319,
+          16.567
+        ],
+        "point": [
+          82.3185,
+          16.566499999999998
+        ],
+        "labels": {
+          "en": "East Godavari"
+        },
+        "population": 5569749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.3205,
+          16.5685
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "east godavari",
+        "area": 1.0000000000024443e-06,
+        "bounding_box": [
+          82.32,
+          16.568,
+          82.321,
+          16.569
+        ],
+        "point": [
+          82.3205,
+          16.5685
+        ],
+        "labels": {
+          "en": "East Godavari"
+        },
+        "population": 5569749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.3195,
+          16.566499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "east godavari",
+        "area": 9.99999999991786e-07,
+        "bounding_box": [
+          82.319,
+          16.566,
+          82.32,
+          16.567
+        ],
+        "point": [
+          82.3195,
+          16.566499999999998
+        ],
+        "labels": {
+          "en": "East Godavari"
+        },
+        "population": 5569749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.606,
+          15.633500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "prakasam",
+        "area": 2.327182,
+        "bounding_box": [
+          78.737,
+          14.964,
+          80.475,
+          16.303
+        ],
+        "point": [
+          79.606,
+          15.633500000000002
+        ],
+        "labels": {
+          "en": "Prakasam"
+        },
+        "population": 3729425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9515,
+          15.5245
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "kurnool",
+        "area": 2.4392970000000047,
+        "bounding_box": [
+          76.975,
+          14.9,
+          78.928,
+          16.149
+        ],
+        "point": [
+          77.9515,
+          15.5245
+        ],
+        "labels": {
+          "en": "Kurnool"
+        },
+        "population": 4623587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.615,
+          14.458
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "anantapur",
+        "area": 2.6508159999999967,
+        "bounding_box": [
+          76.761,
+          13.682,
+          78.469,
+          15.234
+        ],
+        "point": [
+          77.615,
+          14.458
+        ],
+        "labels": {
+          "en": "Anantapur"
+        },
+        "population": 4538877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6745,
+          14.294
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "s.p.s. nellore",
+        "area": 1.953801999999997,
+        "bounding_box": [
+          79.081,
+          13.471,
+          80.268,
+          15.117
+        ],
+        "point": [
+          79.6745,
+          14.294
+        ],
+        "labels": {
+          "en": "S.P.S. Nellore"
+        },
+        "population": 3281217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.354,
+          16.9815
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "west godavari",
+        "area": 1.355760000000012,
+        "bounding_box": [
+          80.85,
+          16.309,
+          81.858,
+          17.654
+        ],
+        "point": [
+          81.354,
+          16.9815
+        ],
+        "labels": {
+          "en": "West Godavari"
+        },
+        "population": 4159885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7065,
+          14.4765
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "y.s.r. kadapa",
+        "area": 2.295124999999986,
+        "bounding_box": [
+          77.944,
+          13.724,
+          79.469,
+          15.229
+        ],
+        "point": [
+          78.7065,
+          14.4765
+        ],
+        "labels": {
+          "en": "Y.S.R. Kadapa"
+        },
+        "population": 3162277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.05850000000001,
+          13.309000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "chittoor",
+        "area": 2.7194499999999975,
+        "bounding_box": [
+          78.066,
+          12.624,
+          80.051,
+          13.994
+        ],
+        "point": [
+          79.05850000000001,
+          13.309000000000001
+        ],
+        "labels": {
+          "en": "Chittoor"
+        },
+        "population": 4589016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6575,
+          13.907
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ap",
+        "region_child": "chittoor",
+        "area": 5.999999999996902e-06,
+        "bounding_box": [
+          78.656,
+          13.906,
+          78.659,
+          13.908
+        ],
+        "point": [
+          78.6575,
+          13.907
+        ],
+        "labels": {
+          "en": "Chittoor"
+        },
+        "population": 4589016
+      }
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.066,
+          20.205
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dn",
+        "region_child": "dadra and nagar haveli",
+        "area": 0.09424000000000024,
+        "bounding_box": [
+          72.914,
+          20.05,
+          73.218,
+          20.36
+        ],
+        "point": [
+          73.066,
+          20.205
+        ],
+        "labels": {
+          "en": "Dadra and Nagar Haveli"
+        },
+        "population": 613198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9675,
+          20.314999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dn",
+        "region_child": "dadra and nagar haveli",
+        "area": 0.000985999999999948,
+        "bounding_box": [
+          72.953,
+          20.298,
+          72.982,
+          20.332
+        ],
+        "point": [
+          72.9675,
+          20.314999999999998
+        ],
+        "labels": {
+          "en": "Dadra and Nagar Haveli"
+        },
+        "population": 613198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.735,
+          19.463
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dn",
+        "region_child": "dadra and nagar haveli",
+        "area": 3.1999999999921895e-05,
+        "bounding_box": [
+          72.733,
+          19.459,
+          72.737,
+          19.467
+        ],
+        "point": [
+          72.735,
+          19.463
+        ],
+        "labels": {
+          "en": "Dadra and Nagar Haveli"
+        },
+        "population": 613198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8605,
+          20.417499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dn",
+        "region_child": "daman",
+        "area": 0.00782100000000078,
+        "bounding_box": [
+          72.821,
+          20.368,
+          72.9,
+          20.467
+        ],
+        "point": [
+          72.8605,
+          20.417499999999997
+        ],
+        "labels": {
+          "en": "Daman"
+        },
+        "population": 172483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9415,
+          20.7215
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dn",
+        "region_child": "diu",
+        "area": 0.005632999999999913,
+        "bounding_box": [
+          70.876,
+          20.7,
+          71.007,
+          20.743
+        ],
+        "point": [
+          70.9415,
+          20.7215
+        ],
+        "labels": {
+          "en": "Diu"
+        },
+        "population": 62907
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.1525,
+          20.761000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-dn",
+        "region_child": "diu",
+        "area": 1.2000000000004462e-05,
+        "bounding_box": [
+          71.151,
+          20.759,
+          71.154,
+          20.763
+        ],
+        "point": [
+          71.1525,
+          20.761000000000003
+        ],
+        "labels": {
+          "en": "Diu"
+        },
+        "population": 62907
+      }
+    }
+  ]
+}

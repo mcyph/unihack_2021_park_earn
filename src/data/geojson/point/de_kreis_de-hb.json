@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.74,
+          53.1225
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-hb",
+        "region_child": "bremen städte",
+        "area": 0.10878999999999818,
+        "bounding_box": [
+          8.487,
+          53.015,
+          8.993,
+          53.23
+        ],
+        "point": [
+          8.74,
+          53.1225
+        ],
+        "labels": {
+          "en": "Bremen Städte"
+        },
+        "population": 517032
+      }
+    }
+  ]
+}

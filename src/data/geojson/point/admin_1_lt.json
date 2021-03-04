@@ -1,0 +1,588 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7,
+          55.4925
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lt",
+        "region_child": "lt-ut",
+        "area": 1.9904779999999926,
+        "bounding_box": [
+          24.631,
+          55.027,
+          26.769,
+          55.958
+        ],
+        "point": [
+          25.7,
+          55.4925
+        ],
+        "labels": {
+          "alt": "Utena",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة أوتينا",
+          "bn": "উটেনা কাউন্টি",
+          "de": "Bezirk Utena",
+          "en": "Utena County",
+          "es": "Provincia de Utena",
+          "fr": "Apskritis d'Utena",
+          "el": "Επαρχία Ουτενά",
+          "hi": "उटेना काउंटी",
+          "hu": null,
+          "id": "County Utena",
+          "it": "contea di Utena",
+          "ja": "ウテナ県",
+          "ko": "우테나 주",
+          "nl": "Utena",
+          "pl": "Okręg uciański",
+          "pt": "Utena",
+          "ru": "Утенский уезд",
+          "sv": "Utena",
+          "tr": "Utena",
+          "vi": "Hạt Utena",
+          "zh": "烏田納縣"
+        },
+        "population": 127303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5645,
+          54.825500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lt",
+        "region_child": "lt-vl",
+        "area": 3.279645000000006,
+        "bounding_box": [
+          24.389,
+          54.128,
+          26.74,
+          55.523
+        ],
+        "point": [
+          25.5645,
+          54.825500000000005
+        ],
+        "labels": {
+          "alt": "Vilnius|Wilna|Vilna|Vilnious",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة فيلنيوس",
+          "bn": "ভিনিয়াস কাউন্টি",
+          "de": "Bezirk Vilnius",
+          "en": "Vilnius County",
+          "es": "Provincia de Vilna",
+          "fr": "apskritis de Vilnius",
+          "el": "Επαρχία Βίλνιους",
+          "hi": "विलनियस काउंटी",
+          "hu": null,
+          "id": "County Vilnius",
+          "it": "contea di Vilnius",
+          "ja": "ヴィリニュス県",
+          "ko": "빌뉴스 주",
+          "nl": "Vilnius",
+          "pl": "Okręg wileński",
+          "pt": "Vilnius",
+          "ru": "Вильнюсский уезд",
+          "sv": "Vilnius",
+          "tr": "Vilnius County",
+          "vi": "Hạt Vilnius",
+          "zh": "維爾紐斯縣"
+        },
+        "population": 809029
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.165999999999997,
+          54.223
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lt",
+        "region_child": "lt-al",
+        "area": 1.1155199999999952,
+        "bounding_box": [
+          23.336,
+          53.887,
+          24.996,
+          54.559
+        ],
+        "point": [
+          24.165999999999997,
+          54.223
+        ],
+        "labels": {
+          "alt": "Alytus|Olita|Alitus",
+          "local": null,
+          "len": 7,
+          "ar": null,
+          "bn": null,
+          "de": "Rajongemeinde Alytus",
+          "en": "Alytus",
+          "es": "Alytus",
+          "fr": "Alytus",
+          "el": "Δήμος διαμερίσματος Αλύτους",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "comune distrettuale di Alytus",
+          "ja": null,
+          "ko": null,
+          "nl": "Alytus",
+          "pl": "Rejon olicki",
+          "pt": null,
+          "ru": "Алитусский район",
+          "sv": "Alytaus rajono savivaldybė",
+          "tr": null,
+          "vi": null,
+          "zh": "阿利圖斯地區"
+        },
+        "population": 134693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.914,
+          55.918
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lt",
+        "region_child": "lt-pn",
+        "area": 2.1986999999999917,
+        "bounding_box": [
+          23.867,
+          55.393,
+          25.961,
+          56.443
+        ],
+        "point": [
+          24.914,
+          55.918
+        ],
+        "labels": {
+          "alt": "Panevėžys|Ponewiesch|Ponewjesh|Poneviezli",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة بانيفيزيس",
+          "bn": "প্যানেভেজিস কাউন্টি",
+          "de": "Bezirk Panevėžys",
+          "en": "Panevėžys County",
+          "es": "Provincia de Panevėžys",
+          "fr": "Apskritis de Panevėžys",
+          "el": "Επαρχία Πανεβεζίς",
+          "hi": "पेनेवेज़िस काउंटी",
+          "hu": null,
+          "id": "County Panevėžys",
+          "it": "contea di Panevėžys",
+          "ja": "パネヴェジース県",
+          "ko": "파네베지스 주",
+          "nl": "Panevėžys",
+          "pl": "Okręg poniewieski",
+          "pt": "Panevėžys",
+          "ru": "Паневежский уезд",
+          "sv": "Panevėžys",
+          "tr": "Panevezys County",
+          "vi": "Hạt Panevezys",
+          "zh": "帕涅韋日斯縣"
+        },
+        "population": 210666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1205,
+          56.0095
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lt",
+        "region_child": "lt-te",
+        "area": 0.9478450000000058,
+        "bounding_box": [
+          21.539,
+          55.602,
+          22.702,
+          56.417
+        ],
+        "point": [
+          22.1205,
+          56.0095
+        ],
+        "labels": {
+          "alt": "Telšiai|Telsche|Telschi|Telshe",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة تيلسياي",
+          "bn": "তেলসিয়াই কাউন্টি",
+          "de": "Bezirk Telšiai",
+          "en": "Telšiai County",
+          "es": "Provincia de Telšiai",
+          "fr": "Apskritis de Telšiai",
+          "el": "Επαρχία Τελσιάι",
+          "hi": "तेल्सिई काउंटी",
+          "hu": null,
+          "id": "County Telšiai",
+          "it": "contea di Telšiai",
+          "ja": "テルシェイ県",
+          "ko": "텔샤이 주",
+          "nl": "Telšiai",
+          "pl": "Okręg telszański",
+          "pt": "Telšiai",
+          "ru": "Тельшяйский уезд",
+          "sv": "Telšiai",
+          "tr": "Teislai County",
+          "vi": "Hạt Telsiai",
+          "zh": "特爾希艾縣"
+        },
+        "population": 124359
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.672,
+          55.707
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lt",
+        "region_child": "lt-kl",
+        "area": 1.697915999999996,
+        "bounding_box": [
+          21.045,
+          55.03,
+          22.299,
+          56.384
+        ],
+        "point": [
+          21.672,
+          55.707
+        ],
+        "labels": {
+          "alt": "Klaipėda|Memel",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة كلايبيدا",
+          "bn": null,
+          "de": "Bezirk Klaipėda",
+          "en": "Klaipėda County",
+          "es": "Provincia de Klaipėda",
+          "fr": "apskritis de Klaipėda",
+          "el": "Επαρχία Κλαϊπέντα",
+          "hi": null,
+          "hu": null,
+          "id": "County Klaipėda",
+          "it": "contea di Klaipėda",
+          "ja": "クライペダ県",
+          "ko": "클라이페다 주",
+          "nl": "Klaipėda",
+          "pl": "Okręg kłajpedzki",
+          "pt": "Klaipėda",
+          "ru": "Клайпедский уезд",
+          "sv": "Klaipėda",
+          "tr": null,
+          "vi": null,
+          "zh": "克萊佩達縣"
+        },
+        "population": 309663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.006,
+          55.357
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lt",
+        "region_child": "lt-kl",
+        "area": 0.02721599999999972,
+        "bounding_box": [
+          20.925,
+          55.273,
+          21.087,
+          55.441
+        ],
+        "point": [
+          21.006,
+          55.357
+        ],
+        "labels": {
+          "alt": "Klaipėda|Memel",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة كلايبيدا",
+          "bn": null,
+          "de": "Bezirk Klaipėda",
+          "en": "Klaipėda County",
+          "es": "Provincia de Klaipėda",
+          "fr": "apskritis de Klaipėda",
+          "el": "Επαρχία Κλαϊπέντα",
+          "hi": null,
+          "hu": null,
+          "id": "County Klaipėda",
+          "it": "contea di Klaipėda",
+          "ja": "クライペダ県",
+          "ko": "클라이페다 주",
+          "nl": "Klaipėda",
+          "pl": "Okręg kłajpedzki",
+          "pt": "Klaipėda",
+          "ru": "Клайпедский уезд",
+          "sv": "Klaipėda",
+          "tr": null,
+          "vi": null,
+          "zh": "克萊佩達縣"
+        },
+        "population": 309663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2575,
+          55.938
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lt",
+        "region_child": "lt-sa",
+        "area": 1.6379200000000083,
+        "bounding_box": [
+          22.375,
+          55.474,
+          24.14,
+          56.402
+        ],
+        "point": [
+          23.2575,
+          55.938
+        ],
+        "labels": {
+          "alt": "Šiauliai|Schaulen|Shavli",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة شياولياي",
+          "bn": "সিয়াউলিয়াই কাউন্টি",
+          "de": "Bezirk Šiauliai",
+          "en": "Šiauliai County",
+          "es": "Provincia de Šiauliai",
+          "fr": "Apskritis de Šiauliai",
+          "el": "Επαρχία Σιαουλιάι",
+          "hi": "सिऔलिआई काउंटी",
+          "hu": null,
+          "id": "County Šiauliai",
+          "it": "contea di Šiauliai",
+          "ja": "シャウレイ県",
+          "ko": "샤울랴이 주",
+          "nl": "Šiauliai",
+          "pl": "Okręg szawelski",
+          "pt": "Šiauliai",
+          "ru": "Шяуляйский уезд",
+          "sv": "Šiauliai",
+          "tr": "Siauliai County",
+          "vi": "Hạt siauliai",
+          "zh": "希奧利艾縣"
+        },
+        "population": 258536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1655,
+          54.665499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lt",
+        "region_child": "lt-mr",
+        "area": 1.0451309999999974,
+        "bounding_box": [
+          22.571,
+          54.226,
+          23.76,
+          55.105
+        ],
+        "point": [
+          23.1655,
+          54.665499999999994
+        ],
+        "labels": {
+          "alt": "Marijampolė|Mariampol",
+          "local": null,
+          "len": 12,
+          "ar": "مقاطعة ميرايامبوله",
+          "bn": "মারিজাম্পোল কাউন্টি",
+          "de": "Bezirk Marijampolė",
+          "en": "Marijampolė County",
+          "es": "Marijampolė",
+          "fr": "apskritis de Marijampolė",
+          "el": "Επαρχία Μαριγιαμπολέ",
+          "hi": "मारियेम्पोल काउंटी",
+          "hu": null,
+          "id": "County Marijampolė",
+          "it": "contea di Marijampolė",
+          "ja": "マリヤーンポレ県",
+          "ko": "마리얌폴레 주",
+          "nl": "Marijampolė",
+          "pl": "Okręg mariampolski",
+          "pt": "Marijampolė",
+          "ru": "Мариямпольский уезд",
+          "sv": "Marijampolė",
+          "tr": "Marijampolė County",
+          "vi": "Marijampolė",
+          "zh": "馬里揚泊列縣"
+        },
+        "population": 148214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6455,
+          55.372
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lt",
+        "region_child": "lt-ta",
+        "area": 1.0476899999999927,
+        "bounding_box": [
+          21.814,
+          55.057,
+          23.477,
+          55.687
+        ],
+        "point": [
+          22.6455,
+          55.372
+        ],
+        "labels": {
+          "alt": "Tauragė|Tauroggen",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة تاوراغه",
+          "bn": "তাউরাগি কাউন্টি",
+          "de": "Bezirk Tauragė",
+          "en": "Tauragė County",
+          "es": "Provincia de Tauragė",
+          "fr": "Apskritis de Tauragė",
+          "el": "Επαρχία Ταουραγκέ",
+          "hi": "टॉरेज काउंटी",
+          "hu": null,
+          "id": "County Tauragė",
+          "it": "contea di Tauragė",
+          "ja": "タウラゲ県",
+          "ko": "타우라게 주",
+          "nl": "Tauragė",
+          "pl": "Okręg tauroski",
+          "pt": "Tauragė",
+          "ru": "Таурагский уезд",
+          "sv": "Tauragė",
+          "tr": "Taurage County",
+          "vi": "Hạt Taurage",
+          "zh": "陶拉格縣"
+        },
+        "population": 84086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.723,
+          55.022999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "lt",
+        "region_child": "lt-ku",
+        "area": 2.3823240000000037,
+        "bounding_box": [
+          22.646,
+          54.47,
+          24.8,
+          55.576
+        ],
+        "point": [
+          23.723,
+          55.022999999999996
+        ],
+        "labels": {
+          "alt": "Kaunas|Kowno|Kovno",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة كاوناس",
+          "bn": "কুনাস কাউন্টি",
+          "de": "Bezirk Kaunas",
+          "en": "Kaunas County",
+          "es": "Provincia de Kaunas",
+          "fr": "apskritis de Kaunas",
+          "el": "Επαρχία Κάουνας",
+          "hi": "कौनास काउंटी",
+          "hu": null,
+          "id": "County Kaunas",
+          "it": "contea di Kaunas",
+          "ja": "カウナス県",
+          "ko": "카우나스 주",
+          "nl": "Kaunas",
+          "pl": "Okręg kowieński",
+          "pt": "Kaunas",
+          "ru": "Каунасский уезд",
+          "sv": "Kaunas",
+          "tr": "Kaunas County",
+          "vi": "Hạt Kaunas",
+          "zh": "考那斯縣"
+        },
+        "population": 537513
+      }
+    }
+  ]
+}

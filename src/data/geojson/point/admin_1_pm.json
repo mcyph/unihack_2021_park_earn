@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1955,
+          46.782
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pm",
+        "region_child": "pm-x01~",
+        "area": 0.004450000000000311,
+        "bounding_box": [
+          -56.24,
+          46.757,
+          -56.151,
+          46.807
+        ],
+        "point": [
+          -56.1955,
+          46.782
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "سان بيير وميكلون",
+          "bn": "সাঁ পিয়ের ও মিক‌লোঁ",
+          "de": "Saint-Pierre und Miquelon",
+          "en": "Saint Pierre and Miquelon",
+          "es": "San Pedro y Miquelón",
+          "fr": "Saint-Pierre-et-Miquelon",
+          "el": "Σαιν Πιερ και Μικελόν",
+          "hi": "साँ-प्येर और मीकेलों",
+          "hu": "Saint-Pierre és Miquelon",
+          "id": "Saint Pierre dan Miquelon",
+          "it": "Saint-Pierre e Miquelon",
+          "ja": "サンピエール島・ミクロン島",
+          "ko": "생피에르 미클롱",
+          "nl": "Saint-Pierre en Miquelon",
+          "pl": "Saint-Pierre i Miquelon",
+          "pt": "Saint-Pierre e Miquelon",
+          "ru": "Сен-Пьер и Микелон",
+          "sv": "Saint-Pierre och Miquelon",
+          "tr": "Saint Pierre ve Miquelon",
+          "vi": "Saint-Pierre và Miquelon",
+          "zh": "圣皮埃尔和密克隆群岛"
+        },
+        "population": 4643
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.322500000000005,
+          46.949
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "pm",
+        "region_child": "pm-x02~",
+        "area": 0.04850999999999924,
+        "bounding_box": [
+          -56.396,
+          46.784,
+          -56.249,
+          47.114
+        ],
+        "point": [
+          -56.322500000000005,
+          46.949
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 17,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 418
+      }
+    }
+  ]
+}

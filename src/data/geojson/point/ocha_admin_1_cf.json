@@ -1,0 +1,515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6295,
+          8.3935
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf51",
+        "area": 9.691773,
+        "bounding_box": [
+          18.868,
+          7.018,
+          22.391,
+          9.769
+        ],
+        "point": [
+          20.6295,
+          8.3935
+        ],
+        "labels": {
+          "en": "Bamingui-Bangoran"
+        },
+        "population": 60911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.567,
+          4.3765
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf71",
+        "area": 0.008879999999999864,
+        "bounding_box": [
+          18.527,
+          4.321,
+          18.607,
+          4.432
+        ],
+        "point": [
+          18.567,
+          4.3765
+        ],
+        "labels": {
+          "en": "Bangui"
+        },
+        "population": 653141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.302999999999997,
+          4.9765
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf61",
+        "area": 2.5592640000000015,
+        "bounding_box": [
+          20.455,
+          4.222,
+          22.151,
+          5.731
+        ],
+        "point": [
+          21.302999999999997,
+          4.9765
+        ],
+        "labels": {
+          "en": "Basse-Kotto"
+        },
+        "population": 343618
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8565,
+          6.596
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf63",
+        "area": 10.785580000000008,
+        "bounding_box": [
+          24.261,
+          4.906,
+          27.452,
+          8.286
+        ],
+        "point": [
+          25.8565,
+          6.596
+        ],
+        "labels": {
+          "en": "Haut-Mbomou"
+        },
+        "population": 81544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8435,
+          7.359500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf52",
+        "area": 13.113495000000004,
+        "bounding_box": [
+          21.102,
+          5.477,
+          24.585,
+          9.242
+        ],
+        "point": [
+          22.8435,
+          7.359500000000001
+        ],
+        "labels": {
+          "en": "Haute-Kotto"
+        },
+        "population": 124612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.312,
+          5.747
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf41",
+        "area": 2.266471999999998,
+        "bounding_box": [
+          18.609,
+          4.941,
+          20.015,
+          6.553
+        ],
+        "point": [
+          19.312,
+          5.747
+        ],
+        "labels": {
+          "en": "K├®mo"
+        },
+        "population": 162722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685000000000002,
+          4.247
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf12",
+        "area": 2.9488000000000025,
+        "bounding_box": [
+          16.735,
+          3.471,
+          18.635,
+          5.023
+        ],
+        "point": [
+          17.685000000000002,
+          4.247
+        ],
+        "labels": {
+          "en": "Lobaye"
+        },
+        "population": 341936
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.902999999999999,
+          4.5335
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf21",
+        "area": 4.176294,
+        "bounding_box": [
+          14.684,
+          3.677,
+          17.122,
+          5.39
+        ],
+        "point": [
+          15.902999999999999,
+          4.5335
+        ],
+        "labels": {
+          "en": "Mamb├®r├®-Kad├®├»"
+        },
+        "population": 503000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4665,
+          5.4325
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf62",
+        "area": 9.103527000000007,
+        "bounding_box": [
+          21.743,
+          4.112,
+          25.19,
+          6.753
+        ],
+        "point": [
+          23.4665,
+          5.4325
+        ],
+        "labels": {
+          "en": "Mbomou"
+        },
+        "population": 225585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4075,
+          7.501
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf42",
+        "area": 3.210408000000002,
+        "bounding_box": [
+          18.656,
+          6.433,
+          20.159,
+          8.569
+        ],
+        "point": [
+          19.4075,
+          7.501
+        ],
+        "labels": {
+          "en": "Nana-Grebizi"
+        },
+        "population": 161197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4725,
+          5.848
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf22",
+        "area": 3.797419999999998,
+        "bounding_box": [
+          14.42,
+          4.946,
+          16.525,
+          6.75
+        ],
+        "point": [
+          15.4725,
+          5.848
+        ],
+        "labels": {
+          "en": "Nana-Mambere"
+        },
+        "population": 321603
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.816,
+          4.888
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf11",
+        "area": 5.404776000000002,
+        "bounding_box": [
+          16.49,
+          3.869,
+          19.142,
+          5.907
+        ],
+        "point": [
+          17.816,
+          4.888
+        ],
+        "labels": {
+          "en": "Ombella M'Poko"
+        },
+        "population": 691743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.705,
+          6.1105
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf43",
+        "area": 7.898800000000002,
+        "bounding_box": [
+          19.465,
+          4.518,
+          21.945,
+          7.703
+        ],
+        "point": [
+          20.705,
+          6.1105
+        ],
+        "labels": {
+          "en": "Ouaka"
+        },
+        "population": 379785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8785,
+          7.067499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf32",
+        "area": 7.214895000000001,
+        "bounding_box": [
+          16.682,
+          5.56,
+          19.075,
+          8.575
+        ],
+        "point": [
+          17.8785,
+          7.067499999999999
+        ],
+        "labels": {
+          "en": "Ouham"
+        },
+        "population": 507914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.037,
+          6.7055
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf31",
+        "area": 4.9595,
+        "bounding_box": [
+          14.947,
+          5.568,
+          17.127,
+          7.843
+        ],
+        "point": [
+          16.037,
+          6.7055
+        ],
+        "labels": {
+          "en": "Ouham Pende"
+        },
+        "population": 590634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3275,
+          3.24
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf23",
+        "area": 4.265640000000001,
+        "bounding_box": [
+          15.282,
+          2.22,
+          17.373,
+          4.26
+        ],
+        "point": [
+          16.3275,
+          3.24
+        ],
+        "labels": {
+          "en": "Sangha-Mbaere"
+        },
+        "population": 139085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.258000000000003,
+          9.799499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cf",
+        "region_child": "cf53",
+        "area": 6.951292000000002,
+        "bounding_box": [
+          20.82,
+          8.591,
+          23.696,
+          11.008
+        ],
+        "point": [
+          22.258000000000003,
+          9.799499999999998
+        ],
+        "labels": {
+          "en": "Vakaga"
+        },
+        "population": 73828
+      }
+    }
+  ]
+}

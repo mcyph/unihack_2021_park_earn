@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.896,
+          44.825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "011",
+        "area": 0.2787839999999999,
+        "bounding_box": [
+          -73.259,
+          44.633,
+          -72.533,
+          45.017
+        ],
+        "point": [
+          -72.896,
+          44.825
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 50164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.41149999999999,
+          43.995999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "017",
+        "area": 0.3415499999999969,
+        "bounding_box": [
+          -72.791,
+          43.771,
+          -72.032,
+          44.221
+        ],
+        "point": [
+          -72.41149999999999,
+          43.995999999999995
+        ],
+        "labels": {
+          "en": "Orange"
+        },
+        "population": 29723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.725,
+          44.680499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "009",
+        "area": 0.3311700000000027,
+        "bounding_box": [
+          -71.974,
+          44.348,
+          -71.476,
+          45.013
+        ],
+        "point": [
+          -71.725,
+          44.680499999999995
+        ],
+        "labels": {
+          "en": "Essex"
+        },
+        "population": 6226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0655,
+          43.575
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "021",
+        "area": 0.41261400000000426,
+        "bounding_box": [
+          -73.43,
+          43.292,
+          -72.701,
+          43.858
+        ],
+        "point": [
+          -73.0655,
+          43.575
+        ],
+        "labels": {
+          "en": "Rutland"
+        },
+        "population": 59817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.64750000000001,
+          44.6
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "015",
+        "area": 0.2258360000000027,
+        "bounding_box": [
+          -72.927,
+          44.398,
+          -72.368,
+          44.802
+        ],
+        "point": [
+          -72.64750000000001,
+          44.6
+        ],
+        "labels": {
+          "en": "Lamoille"
+        },
+        "population": 25755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.13550000000001,
+          44.4625
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "005",
+        "area": 0.36596099999999615,
+        "bounding_box": [
+          -72.434,
+          44.156,
+          -71.837,
+          44.769
+        ],
+        "point": [
+          -72.13550000000001,
+          44.4625
+        ],
+        "labels": {
+          "en": "Caledonia"
+        },
+        "population": 32953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.055,
+          43.027
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "003",
+        "area": 0.2718719999999969,
+        "bounding_box": [
+          -73.291,
+          42.739,
+          -72.819,
+          43.315
+        ],
+        "point": [
+          -73.055,
+          43.027
+        ],
+        "labels": {
+          "en": "Bennington"
+        },
+        "population": 37335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.291,
+          44.789
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "013",
+        "area": 0.08910000000000394,
+        "bounding_box": [
+          -73.39,
+          44.564,
+          -73.192,
+          45.014
+        ],
+        "point": [
+          -73.291,
+          44.789
+        ],
+        "labels": {
+          "en": "Grand Isle"
+        },
+        "population": 7074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08250000000001,
+          44.442
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "007",
+        "area": 0.31303399999999987,
+        "bounding_box": [
+          -73.361,
+          44.161,
+          -72.804,
+          44.723
+        ],
+        "point": [
+          -73.08250000000001,
+          44.442
+        ],
+        "labels": {
+          "en": "Chittenden"
+        },
+        "population": 167314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5925,
+          43.592
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "027",
+        "area": 0.5735000000000058,
+        "bounding_box": [
+          -72.98,
+          43.222,
+          -72.205,
+          43.962
+        ],
+        "point": [
+          -72.5925,
+          43.592
+        ],
+        "labels": {
+          "en": "Windsor"
+        },
+        "population": 55904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58449999999999,
+          44.2595
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "023",
+        "area": 0.36235500000000126,
+        "bounding_box": [
+          -72.952,
+          44.013,
+          -72.217,
+          44.506
+        ],
+        "point": [
+          -72.58449999999999,
+          44.2595
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 60957
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.09,
+          44.0285
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "001",
+        "area": 0.3834960000000002,
+        "bounding_box": [
+          -73.438,
+          43.753,
+          -72.742,
+          44.304
+        ],
+        "point": [
+          -73.09,
+          44.0285
+        ],
+        "labels": {
+          "en": "Addison"
+        },
+        "population": 37625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7205,
+          42.9945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "025",
+        "area": 0.30762499999999604,
+        "bounding_box": [
+          -73.008,
+          42.727,
+          -72.433,
+          43.262
+        ],
+        "point": [
+          -72.7205,
+          42.9945
+        ],
+        "labels": {
+          "en": "Windham"
+        },
+        "population": 44068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.226,
+          44.7755
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-vt",
+        "region_child": "019",
+        "area": 0.3287680000000027,
+        "bounding_box": [
+          -72.578,
+          44.542,
+          -71.874,
+          45.009
+        ],
+        "point": [
+          -72.226,
+          44.7755
+        ],
+        "labels": {
+          "en": "Orleans"
+        },
+        "population": 29032
+      }
+    }
+  ]
+}

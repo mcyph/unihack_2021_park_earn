@@ -1,0 +1,2465 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1165,
+          32.013
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "061",
+        "area": 0.1742859999999974,
+        "bounding_box": [
+          -89.323,
+          31.802,
+          -88.91,
+          32.224
+        ],
+        "point": [
+          -89.1165,
+          32.013
+        ],
+        "labels": {
+          "en": "Jasper"
+        },
+        "population": 16219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9555,
+          33.907
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "017",
+        "area": 0.15892800000000232,
+        "bounding_box": [
+          -89.192,
+          33.739,
+          -88.719,
+          34.075
+        ],
+        "point": [
+          -88.9555,
+          33.907
+        ],
+        "labels": {
+          "en": "Chickasaw"
+        },
+        "population": 15674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9905,
+          34.482
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "145",
+        "area": 0.11957399999999625,
+        "bounding_box": [
+          -89.246,
+          34.365,
+          -88.735,
+          34.599
+        ],
+        "point": [
+          -88.9905,
+          34.482
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 28780
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6315,
+          32.753
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "069",
+        "area": 0.19958400000000476,
+        "bounding_box": [
+          -88.915,
+          32.577,
+          -88.348,
+          32.929
+        ],
+        "point": [
+          -88.6315,
+          32.753
+        ],
+        "labels": {
+          "en": "Kemper"
+        },
+        "population": 10708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.957,
+          33.269000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "151",
+        "area": 0.29023199999999777,
+        "bounding_box": [
+          -91.235,
+          33.008,
+          -90.679,
+          33.53
+        ],
+        "point": [
+          -90.957,
+          33.269000000000005
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 41542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.953,
+          32.711
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "055",
+        "area": 0.31199999999999833,
+        "bounding_box": [
+          -91.213,
+          32.411,
+          -90.693,
+          33.011
+        ],
+        "point": [
+          -90.953,
+          32.711
+        ],
+        "labels": {
+          "en": "Issaquena"
+        },
+        "population": 848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.185,
+          34.789
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "009",
+        "area": 0.13843199999999906,
+        "bounding_box": [
+          -89.353,
+          34.583,
+          -89.017,
+          34.995
+        ],
+        "point": [
+          -89.185,
+          34.789
+        ],
+        "labels": {
+          "en": "Benton"
+        },
+        "population": 9552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46000000000001,
+          33.516
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "087",
+        "area": 0.19327600000000447,
+        "bounding_box": [
+          -88.671,
+          33.287,
+          -88.249,
+          33.745
+        ],
+        "point": [
+          -88.46000000000001,
+          33.516
+        ],
+        "labels": {
+          "en": "Lowndes"
+        },
+        "population": 57870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.501,
+          31.208
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "073",
+        "area": 0.13831199999999935,
+        "bounding_box": [
+          -89.654,
+          30.982,
+          -89.348,
+          31.434
+        ],
+        "point": [
+          -89.501,
+          31.208
+        ],
+        "labels": {
+          "en": "Lamar"
+        },
+        "population": 74133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5935,
+          34.876000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "003",
+        "area": 0.11015999999999827,
+        "bounding_box": [
+          -88.823,
+          34.756,
+          -88.364,
+          34.996
+        ],
+        "point": [
+          -88.5935,
+          34.876000000000005
+        ],
+        "labels": {
+          "en": "Alcorn"
+        },
+        "population": 39697
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48349999999999,
+          34.358000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "071",
+        "area": 0.18793799999999514,
+        "bounding_box": [
+          -89.722,
+          34.161,
+          -89.245,
+          34.555
+        ],
+        "point": [
+          -89.48349999999999,
+          34.358000000000004
+        ],
+        "labels": {
+          "en": "Lafayette"
+        },
+        "population": 57970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.91,
+          33.445499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "015",
+        "area": 0.24539000000000105,
+        "bounding_box": [
+          -90.175,
+          33.214,
+          -89.645,
+          33.677
+        ],
+        "point": [
+          -89.91,
+          33.445499999999996
+        ],
+        "labels": {
+          "en": "Carroll"
+        },
+        "population": 10379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4905,
+          31.5335
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "085",
+        "area": 0.18191699999999805,
+        "bounding_box": [
+          -90.737,
+          31.349,
+          -90.244,
+          31.718
+        ],
+        "point": [
+          -90.4905,
+          31.5335
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 36665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.39349999999999,
+          34.6575
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "143",
+        "area": 0.18166299999999755,
+        "bounding_box": [
+          -90.588,
+          34.424,
+          -90.199,
+          34.891
+        ],
+        "point": [
+          -90.39349999999999,
+          34.6575
+        ],
+        "labels": {
+          "en": "Tunica"
+        },
+        "population": 12158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.584,
+          33.482
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "097",
+        "area": 0.15915200000000065,
+        "bounding_box": [
+          -89.787,
+          33.286,
+          -89.381,
+          33.678
+        ],
+        "point": [
+          -89.584,
+          33.482
+        ],
+        "labels": {
+          "en": "Montgomery"
+        },
+        "population": 9817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.27099999999999,
+          33.321
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "019",
+        "area": 0.15518399999999966,
+        "bounding_box": [
+          -89.454,
+          33.109,
+          -89.088,
+          33.533
+        ],
+        "point": [
+          -89.27099999999999,
+          33.321
+        ],
+        "labels": {
+          "en": "Choctaw"
+        },
+        "population": 7557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.90350000000001,
+          34.796
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "139",
+        "area": 0.14840000000000014,
+        "bounding_box": [
+          -89.089,
+          34.596,
+          -88.718,
+          34.996
+        ],
+        "point": [
+          -88.90350000000001,
+          34.796
+        ],
+        "labels": {
+          "en": "Tippah"
+        },
+        "population": 23514
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5925,
+          30.7365
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "109",
+        "area": 0.27916499999999994,
+        "bounding_box": [
+          -89.844,
+          30.459,
+          -89.341,
+          31.014
+        ],
+        "point": [
+          -89.5925,
+          30.7365
+        ],
+        "labels": {
+          "en": "Pearl River"
+        },
+        "population": 64329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99000000000001,
+          31.172
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "111",
+        "area": 0.16348799999999902,
+        "bounding_box": [
+          -89.146,
+          30.91,
+          -88.834,
+          31.434
+        ],
+        "point": [
+          -88.99000000000001,
+          31.172
+        ],
+        "labels": {
+          "en": "Perry"
+        },
+        "population": 12090
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9445,
+          33.825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "011",
+        "area": 0.340400000000001,
+        "bounding_box": [
+          -91.232,
+          33.529,
+          -90.657,
+          34.121
+        ],
+        "point": [
+          -90.9445,
+          33.825
+        ],
+        "labels": {
+          "en": "Bolivar"
+        },
+        "population": 28620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.86449999999999,
+          32.3495
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "149",
+        "area": 0.33471899999999827,
+        "bounding_box": [
+          -91.175,
+          32.08,
+          -90.554,
+          32.619
+        ],
+        "point": [
+          -90.86449999999999,
+          32.3495
+        ],
+        "labels": {
+          "en": "Warren"
+        },
+        "population": 47842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1185,
+          32.4
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "101",
+        "area": 0.14478599999999678,
+        "bounding_box": [
+          -89.323,
+          32.223,
+          -88.914,
+          32.577
+        ],
+        "point": [
+          -89.1185,
+          32.4
+        ],
+        "labels": {
+          "en": "Newton"
+        },
+        "population": 21439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1885,
+          33.929
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "135",
+        "area": 0.24768999999999988,
+        "bounding_box": [
+          -90.452,
+          33.694,
+          -89.925,
+          34.164
+        ],
+        "point": [
+          -90.1885,
+          33.929
+        ],
+        "labels": {
+          "en": "Tallahatchie"
+        },
+        "population": 15788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.811,
+          32.879999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "125",
+        "area": 0.13428800000000302,
+        "bounding_box": [
+          -90.965,
+          32.662,
+          -90.657,
+          33.098
+        ],
+        "point": [
+          -90.811,
+          32.879999999999995
+        ],
+        "labels": {
+          "en": "Sharkey"
+        },
+        "population": 3695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.295,
+          31.172
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "035",
+        "area": 0.1645359999999966,
+        "bounding_box": [
+          -89.452,
+          30.91,
+          -89.138,
+          31.434
+        ],
+        "point": [
+          -89.295,
+          31.172
+        ],
+        "labels": {
+          "en": "Forrest"
+        },
+        "population": 81514
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71950000000001,
+          34.03
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "161",
+        "area": 0.13854999999999928,
+        "bounding_box": [
+          -89.932,
+          33.867,
+          -89.507,
+          34.193
+        ],
+        "point": [
+          -89.71950000000001,
+          34.03
+        ],
+        "labels": {
+          "en": "Yalobusha"
+        },
+        "population": 12400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6725,
+          32.0275
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "023",
+        "area": 0.19368300000000155,
+        "bounding_box": [
+          -88.914,
+          31.827,
+          -88.431,
+          32.228
+        ],
+        "point": [
+          -88.6725,
+          32.0275
+        ],
+        "labels": {
+          "en": "Clarke"
+        },
+        "population": 15561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9505,
+          31.9015
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "127",
+        "area": 0.1767149999999979,
+        "bounding_box": [
+          -90.248,
+          31.753,
+          -89.653,
+          32.05
+        ],
+        "point": [
+          -89.9505,
+          31.9015
+        ],
+        "labels": {
+          "en": "Simpson"
+        },
+        "population": 27614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.113,
+          30.7795
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "131",
+        "area": 0.11992799999999783,
+        "bounding_box": [
+          -89.341,
+          30.648,
+          -88.885,
+          30.911
+        ],
+        "point": [
+          -89.113,
+          30.7795
+        ],
+        "labels": {
+          "en": "Stone"
+        },
+        "population": 23269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9905,
+          32.3185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "121",
+        "area": 0.28290300000000373,
+        "bounding_box": [
+          -90.251,
+          32.047,
+          -89.73,
+          32.59
+        ],
+        "point": [
+          -89.9905,
+          32.3185
+        ],
+        "labels": {
+          "en": "Rankin"
+        },
+        "population": 173751
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.84700000000001,
+          31.218
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "091",
+        "area": 0.16675200000000512,
+        "bounding_box": [
+          -90.04,
+          31.002,
+          -89.654,
+          31.434
+        ],
+        "point": [
+          -89.84700000000001,
+          31.218
+        ],
+        "labels": {
+          "en": "Marion"
+        },
+        "population": 28940
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.649,
+          30.866500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "039",
+        "area": 0.12508000000000083,
+        "bounding_box": [
+          -88.885,
+          30.734,
+          -88.413,
+          30.999
+        ],
+        "point": [
+          -88.649,
+          30.866500000000002
+        ],
+        "labels": {
+          "en": "George"
+        },
+        "population": 26653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46199999999999,
+          33.8695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "095",
+        "area": 0.22652400000000236,
+        "bounding_box": [
+          -88.72,
+          33.65,
+          -88.204,
+          34.089
+        ],
+        "point": [
+          -88.46199999999999,
+          33.8695
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 36356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5535,
+          32.428
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "123",
+        "area": 0.1899320000000048,
+        "bounding_box": [
+          -89.784,
+          32.222,
+          -89.323,
+          32.634
+        ],
+        "point": [
+          -89.5535,
+          32.428
+        ],
+        "labels": {
+          "en": "Scott"
+        },
+        "population": 27629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.09049999999999,
+          33.1275
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "051",
+        "area": 0.3380850000000017,
+        "bounding_box": [
+          -90.432,
+          32.88,
+          -89.749,
+          33.375
+        ],
+        "point": [
+          -90.09049999999999,
+          33.1275
+        ],
+        "labels": {
+          "en": "Holmes"
+        },
+        "population": 16995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8785,
+          33.4255
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "105",
+        "area": 0.11690099999999762,
+        "bounding_box": [
+          -89.088,
+          33.286,
+          -88.669,
+          33.565
+        ],
+        "point": [
+          -88.8785,
+          33.4255
+        ],
+        "labels": {
+          "en": "Oktibbeha"
+        },
+        "population": 52392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5775,
+          31.6155
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "031",
+        "area": 0.1295909999999996,
+        "bounding_box": [
+          -89.756,
+          31.434,
+          -89.399,
+          31.797
+        ],
+        "point": [
+          -89.5775,
+          31.6155
+        ],
+        "labels": {
+          "en": "Covington"
+        },
+        "population": 19649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.035,
+          34.227000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "115",
+        "area": 0.129132000000001,
+        "bounding_box": [
+          -89.246,
+          34.074,
+          -88.824,
+          34.38
+        ],
+        "point": [
+          -89.035,
+          34.227000000000004
+        ],
+        "labels": {
+          "en": "Pontotoc"
+        },
+        "population": 33521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.363,
+          32.763000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "163",
+        "area": 0.40970400000000434,
+        "bounding_box": [
+          -90.76,
+          32.505,
+          -89.966,
+          33.021
+        ],
+        "point": [
+          -90.363,
+          32.763000000000005
+        ],
+        "labels": {
+          "en": "Yazoo"
+        },
+        "population": 28036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.956,
+          34.6635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "137",
+        "area": 0.12614399999999926,
+        "bounding_box": [
+          -90.244,
+          34.554,
+          -89.668,
+          34.773
+        ],
+        "point": [
+          -89.956,
+          34.6635
+        ],
+        "labels": {
+          "en": "Tate"
+        },
+        "population": 32713
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.102,
+          31.5455
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "077",
+        "area": 0.12383800000000054,
+        "bounding_box": [
+          -90.245,
+          31.329,
+          -89.959,
+          31.762
+        ],
+        "point": [
+          -90.102,
+          31.5455
+        ],
+        "labels": {
+          "en": "Lawrence"
+        },
+        "population": 12554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64099999999999,
+          33.083
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "007",
+        "area": 0.26389999999999575,
+        "bounding_box": [
+          -89.966,
+          32.88,
+          -89.316,
+          33.286
+        ],
+        "point": [
+          -89.64099999999999,
+          33.083
+        ],
+        "labels": {
+          "en": "Attala"
+        },
+        "population": 19360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5325,
+          34.6105
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "117",
+        "area": 0.11925100000000283,
+        "bounding_box": [
+          -88.736,
+          34.464,
+          -88.329,
+          34.757
+        ],
+        "point": [
+          -88.5325,
+          34.6105
+        ],
+        "labels": {
+          "en": "Prentiss"
+        },
+        "population": 25250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.404,
+          31.175
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "113",
+        "area": 0.10079999999999925,
+        "bounding_box": [
+          -90.548,
+          31.0,
+          -90.26,
+          31.35
+        ],
+        "point": [
+          -90.404,
+          31.175
+        ],
+        "labels": {
+          "en": "Pike"
+        },
+        "population": 42127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.422,
+          31.8675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "029",
+        "area": 0.22994999999999735,
+        "bounding_box": [
+          -90.737,
+          31.685,
+          -90.107,
+          32.05
+        ],
+        "point": [
+          -90.422,
+          31.8675
+        ],
+        "labels": {
+          "en": "Copiah"
+        },
+        "population": 30217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.32400000000001,
+          33.942
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "013",
+        "area": 0.1636799999999991,
+        "bounding_box": [
+          -89.51,
+          33.722,
+          -89.138,
+          34.162
+        ],
+        "point": [
+          -89.32400000000001,
+          33.942
+        ],
+        "labels": {
+          "en": "Calhoun"
+        },
+        "population": 14843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6335,
+          31.2165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "041",
+        "area": 0.18306300000000073,
+        "bounding_box": [
+          -88.842,
+          30.997,
+          -88.425,
+          31.436
+        ],
+        "point": [
+          -88.6335,
+          31.2165
+        ],
+        "labels": {
+          "en": "Greene"
+        },
+        "population": 15405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8215,
+          31.174500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "005",
+        "area": 0.19199700000000042,
+        "bounding_box": [
+          -91.095,
+          30.999,
+          -90.548,
+          31.35
+        ],
+        "point": [
+          -90.8215,
+          31.174500000000002
+        ],
+        "labels": {
+          "en": "Amite"
+        },
+        "population": 12592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.49799999999999,
+          30.4045
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "045",
+        "area": 0.18700799999999954,
+        "bounding_box": [
+          -89.69,
+          30.161,
+          -89.306,
+          30.648
+        ],
+        "point": [
+          -89.49799999999999,
+          30.4045
+        ],
+        "labels": {
+          "en": "Hancock"
+        },
+        "population": 44521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.524,
+          32.0025
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "129",
+        "area": 0.18340199999999976,
+        "bounding_box": [
+          -89.731,
+          31.781,
+          -89.317,
+          32.224
+        ],
+        "point": [
+          -89.524,
+          32.0025
+        ],
+        "labels": {
+          "en": "Smith"
+        },
+        "population": 16651
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.981,
+          32.005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "021",
+        "area": 0.23496000000000333,
+        "bounding_box": [
+          -91.248,
+          31.785,
+          -90.714,
+          32.225
+        ],
+        "point": [
+          -90.981,
+          32.005
+        ],
+        "labels": {
+          "en": "Claiborne"
+        },
+        "population": 7773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.696,
+          31.6635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "153",
+        "area": 0.22773399999999916,
+        "bounding_box": [
+          -88.943,
+          31.433,
+          -88.449,
+          31.894
+        ],
+        "point": [
+          -88.696,
+          31.6635
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 20292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.066,
+          33.1025
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "159",
+        "area": 0.18570200000000234,
+        "bounding_box": [
+          -89.319,
+          32.919,
+          -88.813,
+          33.286
+        ],
+        "point": [
+          -89.066,
+          33.1025
+        ],
+        "labels": {
+          "en": "Winston"
+        },
+        "population": 18263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5315,
+          33.126000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "053",
+        "area": 0.16361800000000187,
+        "bounding_box": [
+          -90.733,
+          32.923,
+          -90.33,
+          33.329
+        ],
+        "point": [
+          -90.5315,
+          33.126000000000005
+        ],
+        "labels": {
+          "en": "Humphreys"
+        },
+        "population": 7869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.559,
+          33.107
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "103",
+        "area": 0.18461999999999404,
+        "bounding_box": [
+          -88.814,
+          32.926,
+          -88.304,
+          33.288
+        ],
+        "point": [
+          -88.559,
+          33.107
+        ],
+        "labels": {
+          "en": "Noxubee"
+        },
+        "population": 10640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2775,
+          33.522999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "083",
+        "area": 0.20332799999999698,
+        "bounding_box": [
+          -90.454,
+          33.235,
+          -90.101,
+          33.811
+        ],
+        "point": [
+          -90.2775,
+          33.522999999999996
+        ],
+        "labels": {
+          "en": "Leflore"
+        },
+        "population": 27583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.679,
+          34.2555
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "027",
+        "area": 0.30184000000000205,
+        "bounding_box": [
+          -90.959,
+          33.986,
+          -90.399,
+          34.525
+        ],
+        "point": [
+          -90.679,
+          34.2555
+        ],
+        "labels": {
+          "en": "Coahoma"
+        },
+        "population": 22322
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0685,
+          30.4085
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "047",
+        "area": 0.29373899999999786,
+        "bounding_box": [
+          -89.342,
+          30.14,
+          -88.795,
+          30.677
+        ],
+        "point": [
+          -89.0685,
+          30.4085
+        ],
+        "labels": {
+          "en": "Harrison"
+        },
+        "population": 184523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6345,
+          30.441499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "059",
+        "area": 0.29508900000000393,
+        "bounding_box": [
+          -88.885,
+          30.147,
+          -88.384,
+          30.736
+        ],
+        "point": [
+          -88.6345,
+          30.441499999999998
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 148819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.959,
+          34.3565
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "107",
+        "area": 0.18960000000000307,
+        "bounding_box": [
+          -90.199,
+          34.159,
+          -89.719,
+          34.554
+        ],
+        "point": [
+          -89.959,
+          34.3565
+        ],
+        "labels": {
+          "en": "Panola"
+        },
+        "population": 35603
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.485,
+          34.7455
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "093",
+        "area": 0.23852200000000204,
+        "bounding_box": [
+          -89.724,
+          34.496,
+          -89.246,
+          34.995
+        ],
+        "point": [
+          -89.485,
+          34.7455
+        ],
+        "labels": {
+          "en": "Marshall"
+        },
+        "population": 39477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.822,
+          33.787000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "043",
+        "area": 0.13985999999999982,
+        "bounding_box": [
+          -90.137,
+          33.676,
+          -89.507,
+          33.898
+        ],
+        "point": [
+          -89.822,
+          33.787000000000006
+        ],
+        "labels": {
+          "en": "Grenada"
+        },
+        "population": 20678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2315,
+          34.7295
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "141",
+        "area": 0.14231099999999816,
+        "bounding_box": [
+          -88.365,
+          34.463,
+          -88.098,
+          34.996
+        ],
+        "point": [
+          -88.2315,
+          34.7295
+        ],
+        "labels": {
+          "en": "Tishomingo"
+        },
+        "population": 20120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29249999999999,
+          34.2915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "119",
+        "area": 0.13916299999999698,
+        "bounding_box": [
+          -90.451,
+          34.072,
+          -90.134,
+          34.511
+        ],
+        "point": [
+          -90.29249999999999,
+          34.2915
+        ],
+        "labels": {
+          "en": "Quitman"
+        },
+        "population": 6420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.348,
+          31.185499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "157",
+        "area": 0.21559400000000176,
+        "bounding_box": [
+          -91.637,
+          30.999,
+          -91.059,
+          31.372
+        ],
+        "point": [
+          -91.348,
+          31.185499999999998
+        ],
+        "labels": {
+          "en": "Wilkinson"
+        },
+        "population": 9399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.524,
+          32.754000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "079",
+        "area": 0.14667200000000286,
+        "bounding_box": [
+          -89.73,
+          32.576,
+          -89.318,
+          32.932
+        ],
+        "point": [
+          -89.524,
+          32.754000000000005
+        ],
+        "labels": {
+          "en": "Leake"
+        },
+        "population": 27250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7535,
+          33.659
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "025",
+        "area": 0.17227799999999927,
+        "bounding_box": [
+          -89.035,
+          33.506,
+          -88.472,
+          33.812
+        ],
+        "point": [
+          -88.7535,
+          33.659
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 19339
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8955,
+          31.4655
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "037",
+        "area": 0.15277500000000185,
+        "bounding_box": [
+          -91.158,
+          31.32,
+          -90.633,
+          31.611
+        ],
+        "point": [
+          -90.8955,
+          31.4655
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 7782
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1165,
+          32.754000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "099",
+        "area": 0.14418000000000109,
+        "bounding_box": [
+          -89.319,
+          32.576,
+          -88.914,
+          32.932
+        ],
+        "point": [
+          -89.1165,
+          32.754000000000005
+        ],
+        "labels": {
+          "en": "Neshoba"
+        },
+        "population": 30903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.68350000000001,
+          34.292
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "081",
+        "area": 0.12282199999999983,
+        "bounding_box": [
+          -88.825,
+          34.075,
+          -88.542,
+          34.509
+        ],
+        "point": [
+          -88.68350000000001,
+          34.292
+        ],
+        "labels": {
+          "en": "Lee"
+        },
+        "population": 90556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.607,
+          33.629000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "133",
+        "area": 0.22545199999999382,
+        "bounding_box": [
+          -90.764,
+          33.27,
+          -90.45,
+          33.988
+        ],
+        "point": [
+          -90.607,
+          33.629000000000005
+        ],
+        "labels": {
+          "en": "Sunflower"
+        },
+        "population": 25218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.051,
+          31.740000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "063",
+        "area": 0.1637999999999998,
+        "bounding_box": [
+          -91.366,
+          31.61,
+          -90.736,
+          31.87
+        ],
+        "point": [
+          -91.051,
+          31.740000000000002
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 6147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.404,
+          31.4705
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "001",
+        "area": 0.2795000000000005,
+        "bounding_box": [
+          -91.654,
+          31.191,
+          -91.154,
+          31.75
+        ],
+        "point": [
+          -91.404,
+          31.4705
+        ],
+        "labels": {
+          "en": "Adams"
+        },
+        "population": 30414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35050000000001,
+          34.276
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "057",
+        "area": 0.14704199999999845,
+        "bounding_box": [
+          -88.545,
+          34.087,
+          -88.156,
+          34.465
+        ],
+        "point": [
+          -88.35050000000001,
+          34.276
+        ],
+        "labels": {
+          "en": "Itawamba"
+        },
+        "population": 23929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.39750000000001,
+          32.311
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "049",
+        "area": 0.3487379999999958,
+        "bounding_box": [
+          -90.729,
+          32.048,
+          -90.066,
+          32.574
+        ],
+        "point": [
+          -90.39750000000001,
+          32.311
+        ],
+        "labels": {
+          "en": "Hinds"
+        },
+        "population": 239945
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.018,
+          34.852000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "033",
+        "area": 0.16992000000000324,
+        "bounding_box": [
+          -90.313,
+          34.708,
+          -89.723,
+          34.996
+        ],
+        "point": [
+          -90.018,
+          34.852000000000004
+        ],
+        "labels": {
+          "en": "DeSoto"
+        },
+        "population": 237687
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.172,
+          31.628999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "067",
+        "area": 0.17953599999999914,
+        "bounding_box": [
+          -89.401,
+          31.433,
+          -88.943,
+          31.825
+        ],
+        "point": [
+          -89.172,
+          31.628999999999998
+        ],
+        "labels": {
+          "en": "Jones"
+        },
+        "population": 70894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6525,
+          32.400999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "075",
+        "area": 0.1865580000000037,
+        "bounding_box": [
+          -88.916,
+          32.224,
+          -88.389,
+          32.578
+        ],
+        "point": [
+          -88.6525,
+          32.400999999999996
+        ],
+        "labels": {
+          "en": "Lauderdale"
+        },
+        "population": 82348
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.04849999999999,
+          31.176000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "147",
+        "area": 0.1487499999999981,
+        "bounding_box": [
+          -90.261,
+          31.001,
+          -89.836,
+          31.351
+        ],
+        "point": [
+          -90.04849999999999,
+          31.176000000000002
+        ],
+        "labels": {
+          "en": "Walthall"
+        },
+        "population": 15730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7815,
+          31.5825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "065",
+        "area": 0.1497649999999976,
+        "bounding_box": [
+          -89.976,
+          31.39,
+          -89.587,
+          31.775
+        ],
+        "point": [
+          -89.7815,
+          31.5825
+        ],
+        "labels": {
+          "en": "Jefferson Davis"
+        },
+        "population": 11269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.263,
+          33.5995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "155",
+        "area": 0.1361519999999981,
+        "bounding_box": [
+          -89.507,
+          33.46,
+          -89.019,
+          33.739
+        ],
+        "point": [
+          -89.263,
+          33.5995
+        ],
+        "labels": {
+          "en": "Webster"
+        },
+        "population": 10808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.09,
+          32.641999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ms",
+        "region_child": "089",
+        "area": 0.34991999999999734,
+        "bounding_box": [
+          -90.45,
+          32.399,
+          -89.73,
+          32.885
+        ],
+        "point": [
+          -90.09,
+          32.641999999999996
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 121446
+      }
+    }
+  ]
+}

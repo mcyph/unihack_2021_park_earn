@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.136,
+              19.355
+            ],
+            [
+              -81.212,
+              19.348
+            ],
+            [
+              -81.286,
+              19.368
+            ],
+            [
+              -81.303,
+              19.309
+            ],
+            [
+              -81.35,
+              19.302
+            ],
+            [
+              -81.379,
+              19.376
+            ],
+            [
+              -81.398,
+              19.274
+            ],
+            [
+              -81.266,
+              19.266
+            ],
+            [
+              -81.233,
+              19.289
+            ],
+            [
+              -81.135,
+              19.291
+            ],
+            [
+              -81.087,
+              19.31
+            ],
+            [
+              -81.136,
+              19.355
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ky",
+        "region_child": "ky-x01~",
+        "area": 0.03421000000000014,
+        "bounding_box": [
+          -81.398,
+          19.266,
+          -81.087,
+          19.376
+        ],
+        "point": [
+          -81.2425,
+          19.320999999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 58884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.872,
+              19.705
+            ],
+            [
+              -79.774,
+              19.713
+            ],
+            [
+              -79.746,
+              19.758
+            ],
+            [
+              -79.872,
+              19.705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ky",
+        "region_child": "ky-x01~",
+        "area": 0.006678000000000357,
+        "bounding_box": [
+          -79.872,
+          19.705,
+          -79.746,
+          19.758
+        ],
+        "point": [
+          -79.809,
+          19.731499999999997
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 58884
+      }
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.798,
+          10.4475
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cr",
+        "region_child": "cr-a",
+        "area": 1.5936000000000028,
+        "bounding_box": [
+          -85.438,
+          9.825,
+          -84.158,
+          11.07
+        ],
+        "point": [
+          -84.798,
+          10.4475
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "الأخويلا",
+          "bn": "আলাজুয়েলা প্রদেশ",
+          "de": "Provinz Alajuela",
+          "en": "Alajuela Province",
+          "es": "Provincia de Alajuela",
+          "fr": "Alajuela",
+          "el": "Επαρχία Αλαχουέλα",
+          "hi": "अलाउएला प्रांत",
+          "hu": null,
+          "id": "Provinsi Alajuela",
+          "it": "provincia di Alajuela",
+          "ja": "アラフエラ州",
+          "ko": "알라후엘라 주",
+          "nl": "Alajuela",
+          "pl": "Alajuela",
+          "pt": "Alajuela",
+          "ru": "Алахуэла",
+          "sv": "Alajuela",
+          "tr": "Alajuela Province",
+          "vi": "Alajuela",
+          "zh": "阿拉胡埃拉省"
+        },
+        "population": 989269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2585,
+          9.9985
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cr",
+        "region_child": "cr-l",
+        "area": 2.539495,
+        "bounding_box": [
+          -83.943,
+          9.071,
+          -82.574,
+          10.926
+        ],
+        "point": [
+          -83.2585,
+          9.9985
+        ],
+        "labels": {
+          "alt": "Puerto Lim¢n",
+          "local": null,
+          "len": 5,
+          "ar": "ليمون",
+          "bn": null,
+          "de": "Provinz Limón",
+          "en": "Limón Province",
+          "es": "Limón",
+          "fr": "Limón",
+          "el": "Επαρχία Λιμόν",
+          "hi": null,
+          "hu": null,
+          "id": "Provinsi Limón",
+          "it": "provincia di Limón",
+          "ja": "リモン州",
+          "ko": "리몬 주",
+          "nl": "Limón",
+          "pl": "Limón",
+          "pt": "Limón",
+          "ru": "Лимон",
+          "sv": "Limón",
+          "tr": null,
+          "vi": "Limón",
+          "zh": "利蒙省"
+        },
+        "population": 431158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.952,
+          10.367
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cr",
+        "region_child": "cr-h",
+        "area": 0.4176320000000081,
+        "bounding_box": [
+          -84.2,
+          9.946,
+          -83.704,
+          10.788
+        ],
+        "point": [
+          -83.952,
+          10.367
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إيريذيا",
+          "bn": null,
+          "de": "Provinz Heredia",
+          "en": "Heredia Province",
+          "es": "Heredia",
+          "fr": "Heredia",
+          "el": "Επαρχία Ερέδια",
+          "hi": null,
+          "hu": null,
+          "id": "Provinsi Heredia",
+          "it": "provincia di Heredia",
+          "ja": "エレディア州",
+          "ko": "에레디아 주",
+          "nl": "Heredia",
+          "pl": "Heredia",
+          "pt": "Heredia",
+          "ru": "Эредия",
+          "sv": "Heredia",
+          "tr": null,
+          "vi": "Heredia",
+          "zh": "埃雷迪亚省"
+        },
+        "population": 590656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3365,
+          10.467500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cr",
+        "region_child": "cr-g",
+        "area": 1.7003250000000165,
+        "bounding_box": [
+          -85.909,
+          9.725,
+          -84.764,
+          11.21
+        ],
+        "point": [
+          -85.3365,
+          10.467500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "غواناكاسته",
+          "bn": "গুনাস্যাচ প্রদেশ",
+          "de": "Provinz Guanacaste",
+          "en": "Guanacaste Province",
+          "es": "Provincia de Guanacaste",
+          "fr": "Guanacaste",
+          "el": "Επαρχία Γκουανακάστε",
+          "hi": "गुनाकास्ट प्रांत",
+          "hu": null,
+          "id": "Provinsi Guanacaste",
+          "it": "provincia di Guanacaste",
+          "ja": "グアナカステ州",
+          "ko": "과나카스테 주",
+          "nl": "Guanacaste",
+          "pl": "Guanacaste",
+          "pt": "Guanacaste",
+          "ru": "Гуанакасте",
+          "sv": "Guanacaste",
+          "tr": "Guanacaste Province",
+          "vi": "Guanacaste",
+          "zh": "瓜纳卡斯特省"
+        },
+        "population": 392344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8945,
+          9.1835
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cr",
+        "region_child": "cr-p",
+        "area": 5.39565300000001,
+        "bounding_box": [
+          -85.069,
+          8.035,
+          -82.72,
+          10.332
+        ],
+        "point": [
+          -83.8945,
+          9.1835
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "بونتاريناس",
+          "bn": "পুন্টারেনাস প্রদেশ",
+          "de": "Provinz Puntarenas",
+          "en": "Puntarenas Province",
+          "es": "Puntarenas",
+          "fr": "Puntarenas",
+          "el": "Επαρχία Πουνταρένας",
+          "hi": "पंटारेनस प्रांत",
+          "hu": null,
+          "id": "Provinsi Puntarenas",
+          "it": "provincia di Puntarenas",
+          "ja": "プンタレナス州",
+          "ko": "푼타레나스 주",
+          "nl": "Puntarenas",
+          "pl": "Puntarenas",
+          "pt": "Puntarenas",
+          "ru": "Пунтаренас",
+          "sv": "Puntarenas",
+          "tr": "Puntaneras Province",
+          "vi": "Puntarenas",
+          "zh": "蓬塔雷纳斯省"
+        },
+        "population": 461078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0795,
+          9.786999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cr",
+        "region_child": "cr-p",
+        "area": 0.19905600000000112,
+        "bounding_box": [
+          -85.294,
+          9.555,
+          -84.865,
+          10.019
+        ],
+        "point": [
+          -85.0795,
+          9.786999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "بونتاريناس",
+          "bn": "পুন্টারেনাস প্রদেশ",
+          "de": "Provinz Puntarenas",
+          "en": "Puntarenas Province",
+          "es": "Puntarenas",
+          "fr": "Puntarenas",
+          "el": "Επαρχία Πουνταρένας",
+          "hi": "पंटारेनस प्रांत",
+          "hu": null,
+          "id": "Provinsi Puntarenas",
+          "it": "provincia di Puntarenas",
+          "ja": "プンタレナス州",
+          "ko": "푼타레나스 주",
+          "nl": "Puntarenas",
+          "pl": "Puntarenas",
+          "pt": "Puntarenas",
+          "ru": "Пунтаренас",
+          "sv": "Puntarenas",
+          "tr": "Puntaneras Province",
+          "vi": "Puntarenas",
+          "zh": "蓬塔雷纳斯省"
+        },
+        "population": 461078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.00999999999999,
+          9.6325
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cr",
+        "region_child": "cr-sj",
+        "area": 1.3165459999999898,
+        "bounding_box": [
+          -84.591,
+          9.066,
+          -83.429,
+          10.199
+        ],
+        "point": [
+          -84.00999999999999,
+          9.6325
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "محافظة سان خوسيه",
+          "bn": "স্যাান জোসে প্রদেশ",
+          "de": "Provinz San José",
+          "en": "San José Province",
+          "es": "Provincia de San José",
+          "fr": "San José",
+          "el": "Επαρχία Σαν Χοσέ",
+          "hi": "सैन जोस प्रांत",
+          "hu": null,
+          "id": "Provinsi San José",
+          "it": "provincia di San José",
+          "ja": "サンホセ州",
+          "ko": "산호세 주",
+          "nl": "San José",
+          "pl": "San José",
+          "pt": "San José",
+          "ru": "Сан-Хосе",
+          "sv": "San José",
+          "tr": "San soze Province",
+          "vi": "San José",
+          "zh": "圣何塞省"
+        },
+        "population": 1448608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7025,
+          9.802
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cr",
+        "region_child": "cr-c",
+        "area": 0.4896440000000022,
+        "bounding_box": [
+          -84.069,
+          9.468,
+          -83.336,
+          10.136
+        ],
+        "point": [
+          -83.7025,
+          9.802
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "كارتاغو",
+          "bn": null,
+          "de": "Provinz Cartago",
+          "en": "Provincia de Cartago",
+          "es": "Provincia de Cartago",
+          "fr": "Cartago",
+          "el": "Επαρχία Καρτάγο",
+          "hi": null,
+          "hu": null,
+          "id": "Provinsi Cartago",
+          "it": "provincia di Cartago",
+          "ja": "カルタゴ州",
+          "ko": "카르타고 주",
+          "nl": "Cartago",
+          "pl": "Cartago",
+          "pt": "Cartago",
+          "ru": "Картаго",
+          "sv": "Cartago",
+          "tr": null,
+          "vi": "Cartago",
+          "zh": "卡塔戈省"
+        },
+        "population": 499885
+      }
+    }
+  ]
+}

@@ -1,0 +1,1401 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.58,
+              -20.0
+            ],
+            [
+              57.631,
+              -20.156
+            ],
+            [
+              57.734,
+              -20.096
+            ],
+            [
+              57.714,
+              -20.096
+            ],
+            [
+              57.668,
+              -19.994
+            ],
+            [
+              57.597,
+              -19.983
+            ],
+            [
+              57.58,
+              -20.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-rr",
+        "area": 0.026642000000000332,
+        "bounding_box": [
+          57.58,
+          -20.156,
+          57.734,
+          -19.983
+        ],
+        "point": [
+          57.657,
+          -20.069499999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 18,
+          "ar": "مقاطعة ريفير دو ريمبارت",
+          "bn": "রিভেরি ডো রেম্প জেলা",
+          "de": "Rivière du Rempart",
+          "en": "Rivière du Rempart District",
+          "es": "Distrito de Rivière du Rempart",
+          "fr": "Rivière du Rempart",
+          "el": "Ριβιέρ ντου Ρεμπάρτ",
+          "hi": "रिवेयर डू रेम्पार्ट जिला",
+          "hu": null,
+          "id": "Distrik Rivière du Rempart",
+          "it": "Rivière du Rempart",
+          "ja": "リヴィエール・デュ・ランパール県",
+          "ko": "리비에르뒤랑파르 구",
+          "nl": "Rivière du Rempart",
+          "pl": "Rivière du Rempart",
+          "pt": "Rivière du Rempart",
+          "ru": "Ривьер-дю-Рампар",
+          "sv": "Rivière du Rempart",
+          "tr": "Riviere du Rempart Bölgesi",
+          "vi": "Quận Rivière du Rempart",
+          "zh": "朗帕河區"
+        },
+        "population": 105373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.494,
+              -20.122
+            ],
+            [
+              57.499,
+              -20.123
+            ],
+            [
+              57.547,
+              -20.135
+            ],
+            [
+              57.546,
+              -20.202
+            ],
+            [
+              57.608,
+              -20.185
+            ],
+            [
+              57.631,
+              -20.156
+            ],
+            [
+              57.58,
+              -20.0
+            ],
+            [
+              57.532,
+              -20.025
+            ],
+            [
+              57.494,
+              -20.122
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-pa",
+        "area": 0.02767400000000033,
+        "bounding_box": [
+          57.494,
+          -20.202,
+          57.631,
+          -20.0
+        ],
+        "point": [
+          57.5625,
+          -20.101
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "منطقة بامبلموسز",
+          "bn": "পামপ্লেমোসেস জেলা",
+          "de": "Pamplemousses",
+          "en": "Pamplemousses District",
+          "es": "Distrito de Pamplemousses",
+          "fr": "Pamplemousses",
+          "el": "Παμπλεμούς",
+          "hi": "पैम्पलमूसेस जिला",
+          "hu": null,
+          "id": "Distrik Pamplemousses",
+          "it": "Pamplemousses",
+          "ja": "パンプルムース県",
+          "ko": "팜플레무스 구",
+          "nl": "Pamplemousses",
+          "pl": "Pamplemousses",
+          "pt": "Pamplemousses",
+          "ru": "Памплемус",
+          "sv": "Distrikt Pamplemousses",
+          "tr": "Pamplemousses Bölgesi",
+          "vi": "Quận Pamplemousses",
+          "zh": "龐波慕斯區"
+        },
+        "population": 126669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.471,
+              -20.189
+            ],
+            [
+              57.486,
+              -20.191
+            ],
+            [
+              57.546,
+              -20.202
+            ],
+            [
+              57.547,
+              -20.135
+            ],
+            [
+              57.499,
+              -20.123
+            ],
+            [
+              57.465,
+              -20.168
+            ],
+            [
+              57.471,
+              -20.189
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-pl",
+        "area": 0.006477999999999548,
+        "bounding_box": [
+          57.465,
+          -20.202,
+          57.547,
+          -20.123
+        ],
+        "point": [
+          57.506,
+          -20.1625
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "بورت لويس",
+          "bn": "পোর্ট লুইস",
+          "de": "Port Louis",
+          "en": "Port Louis",
+          "es": "Port Louis",
+          "fr": "Port-Louis",
+          "el": "Πορ-Λουί",
+          "hi": "पोर्ट लुई",
+          "hu": "Port Louis",
+          "id": "Port Louis",
+          "it": "Port Louis",
+          "ja": "ポートルイス",
+          "ko": "포트루이스",
+          "nl": "Port Louis",
+          "pl": "Port Louis",
+          "pt": "Port Louis",
+          "ru": "Порт-Луи",
+          "sv": "Port Louis",
+          "tr": "Port Louis",
+          "vi": "Port Louis",
+          "zh": "路易港"
+        },
+        "population": 142325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.464,
+              -20.162
+            ],
+            [
+              57.465,
+              -20.168
+            ],
+            [
+              57.499,
+              -20.123
+            ],
+            [
+              57.494,
+              -20.122
+            ],
+            [
+              57.464,
+              -20.162
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-pl",
+        "area": 0.001610000000000148,
+        "bounding_box": [
+          57.464,
+          -20.168,
+          57.499,
+          -20.122
+        ],
+        "point": [
+          57.4815,
+          -20.145
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "بورت لويس",
+          "bn": "পোর্ট লুইস",
+          "de": "Port Louis",
+          "en": "Port Louis",
+          "es": "Port Louis",
+          "fr": "Port-Louis",
+          "el": "Πορ-Λουί",
+          "hi": "पोर्ट लुई",
+          "hu": "Port Louis",
+          "id": "Port Louis",
+          "it": "Port Louis",
+          "ja": "ポートルイス",
+          "ko": "포트루이스",
+          "nl": "Port Louis",
+          "pl": "Port Louis",
+          "pt": "Port Louis",
+          "ru": "Порт-Луи",
+          "sv": "Port Louis",
+          "tr": "Port Louis",
+          "vi": "Port Louis",
+          "zh": "路易港"
+        },
+        "population": 142325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.399,
+              -20.498
+            ],
+            [
+              57.391,
+              -20.453
+            ],
+            [
+              57.487,
+              -20.423
+            ],
+            [
+              57.459,
+              -20.398
+            ],
+            [
+              57.448,
+              -20.343
+            ],
+            [
+              57.471,
+              -20.329
+            ],
+            [
+              57.459,
+              -20.291
+            ],
+            [
+              57.457,
+              -20.256
+            ],
+            [
+              57.46,
+              -20.219
+            ],
+            [
+              57.471,
+              -20.189
+            ],
+            [
+              57.465,
+              -20.168
+            ],
+            [
+              57.464,
+              -20.162
+            ],
+            [
+              57.4,
+              -20.201
+            ],
+            [
+              57.371,
+              -20.261
+            ],
+            [
+              57.358,
+              -20.427
+            ],
+            [
+              57.321,
+              -20.458
+            ],
+            [
+              57.378,
+              -20.507
+            ],
+            [
+              57.399,
+              -20.498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-bl",
+        "area": 0.05727000000000176,
+        "bounding_box": [
+          57.321,
+          -20.507,
+          57.487,
+          -20.162
+        ],
+        "point": [
+          57.403999999999996,
+          -20.3345
+        ],
+        "labels": {
+          "alt": "Black River",
+          "local": null,
+          "len": 13,
+          "ar": "النهر الأسود",
+          "bn": "রিভেরি নয়রে জেলা",
+          "de": "Black River",
+          "en": "Rivière Noire District",
+          "es": "Distrito de Black River",
+          "fr": "Rivière Noire",
+          "el": "Μπλακ Ρίβερ",
+          "hi": "रिवेयर नोयर जिला",
+          "hu": null,
+          "id": "Distrik Rivière Noire",
+          "it": "Distretto di Black River",
+          "ja": "ブラックリバー県",
+          "ko": "블랙리버 구",
+          "nl": "Black River",
+          "pl": "Black River",
+          "pt": "Black River",
+          "ru": "Ривьер-Нуар",
+          "sv": "Black River",
+          "tr": "Black River Bölgesi",
+          "vi": "Quận Rivière Noire",
+          "zh": "黑河區"
+        },
+        "population": 107495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.631,
+              -20.492
+            ],
+            [
+              57.613,
+              -20.425
+            ],
+            [
+              57.546,
+              -20.402
+            ],
+            [
+              57.487,
+              -20.423
+            ],
+            [
+              57.391,
+              -20.453
+            ],
+            [
+              57.399,
+              -20.498
+            ],
+            [
+              57.504,
+              -20.517
+            ],
+            [
+              57.631,
+              -20.492
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-sa",
+        "area": 0.027599999999999854,
+        "bounding_box": [
+          57.391,
+          -20.517,
+          57.631,
+          -20.402
+        ],
+        "point": [
+          57.510999999999996,
+          -20.4595
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة سافاني",
+          "bn": "সাবানে জেলা",
+          "de": "Savanne",
+          "en": "Savanne District",
+          "es": "Distrito de Savanne",
+          "fr": "Savanne",
+          "el": "Σαβάν",
+          "hi": "सवाने जिला",
+          "hu": null,
+          "id": "Distrik Savanne",
+          "it": "Savanne",
+          "ja": "サバンナ県",
+          "ko": "사반 구",
+          "nl": "Savanne",
+          "pl": "Savanne",
+          "pt": "Savanne",
+          "ru": "Саван",
+          "sv": "Savanne",
+          "tr": "Savanne Bölgesi",
+          "vi": "Quận Savanne",
+          "zh": "薩凡納區"
+        },
+        "population": 70308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.778,
+              -20.305
+            ],
+            [
+              57.668,
+              -20.328
+            ],
+            [
+              57.6,
+              -20.343
+            ],
+            [
+              57.546,
+              -20.402
+            ],
+            [
+              57.613,
+              -20.425
+            ],
+            [
+              57.631,
+              -20.492
+            ],
+            [
+              57.685,
+              -20.472
+            ],
+            [
+              57.727,
+              -20.425
+            ],
+            [
+              57.712,
+              -20.387
+            ],
+            [
+              57.782,
+              -20.336
+            ],
+            [
+              57.778,
+              -20.305
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-gp",
+        "area": 0.044131999999999734,
+        "bounding_box": [
+          57.546,
+          -20.492,
+          57.782,
+          -20.305
+        ],
+        "point": [
+          57.664,
+          -20.3985
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة غراند بورت",
+          "bn": "গ্র্যান্ড পোর্ট জেলা",
+          "de": "Grand Port",
+          "en": "Grand Port District",
+          "es": "Distrito de Grand Port",
+          "fr": "Grand Port",
+          "el": "Γκραντ Πορτ",
+          "hi": "ग्रैंड पोर्ट जिला",
+          "hu": null,
+          "id": "Distrik Grand Port",
+          "it": "Grand Port",
+          "ja": "グラン・ポール県",
+          "ko": "그랑포르 구",
+          "nl": "Grand Port",
+          "pl": "Grand Port",
+          "pt": "Grand Port",
+          "ru": "Гран-Порт",
+          "sv": "Grand Port",
+          "tr": "Grand Port Bölgesi",
+          "vi": "Quận Grand Port",
+          "zh": "大港區"
+        },
+        "population": 98672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.734,
+              -20.096
+            ],
+            [
+              57.631,
+              -20.156
+            ],
+            [
+              57.608,
+              -20.185
+            ],
+            [
+              57.662,
+              -20.222
+            ],
+            [
+              57.63,
+              -20.252
+            ],
+            [
+              57.679,
+              -20.291
+            ],
+            [
+              57.668,
+              -20.328
+            ],
+            [
+              57.778,
+              -20.305
+            ],
+            [
+              57.796,
+              -20.223
+            ],
+            [
+              57.744,
+              -20.144
+            ],
+            [
+              57.734,
+              -20.096
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-fl",
+        "area": 0.043616000000000425,
+        "bounding_box": [
+          57.608,
+          -20.328,
+          57.796,
+          -20.096
+        ],
+        "point": [
+          57.702,
+          -20.212
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة فلاسك",
+          "bn": "ফ্লাকা জেলা",
+          "de": "Flacq",
+          "en": "Flacq District",
+          "es": "Distrito de Flacq",
+          "fr": "Flacq",
+          "el": "Φλακ",
+          "hi": "फ्लैक जिला",
+          "hu": null,
+          "id": "Distrik Flacq",
+          "it": "Flacq",
+          "ja": "フラック県",
+          "ko": "플라크 구",
+          "nl": "Flacq",
+          "pl": "Flacq",
+          "pt": "Flacq",
+          "ru": "Флак",
+          "sv": "Flacq",
+          "tr": "Flacq Bölgesi",
+          "vi": "Quận Flacq",
+          "zh": "弗拉克區"
+        },
+        "population": 141760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.524,
+              -10.33
+            ],
+            [
+              56.53,
+              -10.353
+            ],
+            [
+              56.549,
+              -10.382
+            ],
+            [
+              56.569,
+              -10.386
+            ],
+            [
+              56.543,
+              -10.346
+            ],
+            [
+              56.524,
+              -10.33
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-ag",
+        "area": 0.002520000000000058,
+        "bounding_box": [
+          56.524,
+          -10.386,
+          56.569,
+          -10.33
+        ],
+        "point": [
+          56.5465,
+          -10.358
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "أغاليغا",
+          "bn": "আগালেগা",
+          "de": "Agalega-Inseln",
+          "en": "Agaléga",
+          "es": "Islas Agalega",
+          "fr": "Agaléga",
+          "el": "Αγκαλέγκα",
+          "hi": "अपालेगा",
+          "hu": null,
+          "id": "Agaléga",
+          "it": "Agalega",
+          "ja": "アガレガ諸島",
+          "ko": "아갈레가 제도",
+          "nl": "Agalega-eilanden",
+          "pl": "Wyspy Agalega",
+          "pt": "Agalega",
+          "ru": "Агалега",
+          "sv": "Agalega",
+          "tr": "Agaléga Adaları",
+          "vi": "Agaléga",
+          "zh": "阿加萊加群島"
+        },
+        "population": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              63.476,
+              -19.678
+            ],
+            [
+              63.389,
+              -19.685
+            ],
+            [
+              63.335,
+              -19.718
+            ],
+            [
+              63.366,
+              -19.767
+            ],
+            [
+              63.469,
+              -19.723
+            ],
+            [
+              63.476,
+              -19.678
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-ro",
+        "area": 0.01254899999999965,
+        "bounding_box": [
+          63.335,
+          -19.767,
+          63.476,
+          -19.678
+        ],
+        "point": [
+          63.4055,
+          -19.7225
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "رودريغوس",
+          "bn": "রডরিগুয়েজ",
+          "de": "Rodrigues",
+          "en": "Rodrigues",
+          "es": "Rodrigues",
+          "fr": "Rodrigues",
+          "el": "Ροντρίγκες",
+          "hi": "रोड्रिग्ज़",
+          "hu": null,
+          "id": "Rodrigues",
+          "it": "Rodrigues",
+          "ja": "ロドリゲス島",
+          "ko": "로드리게스 섬",
+          "nl": "Rodrigues",
+          "pl": "Rodrigues",
+          "pt": "Rodrigues",
+          "ru": "Родригес",
+          "sv": "Rodrigues",
+          "tr": "Rodrigues",
+          "vi": "Rodrigues",
+          "zh": "罗德里格斯岛"
+        },
+        "population": 35038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.608,
+              -20.185
+            ],
+            [
+              57.546,
+              -20.202
+            ],
+            [
+              57.486,
+              -20.191
+            ],
+            [
+              57.503,
+              -20.242
+            ],
+            [
+              57.546,
+              -20.265
+            ],
+            [
+              57.6,
+              -20.343
+            ],
+            [
+              57.668,
+              -20.328
+            ],
+            [
+              57.679,
+              -20.291
+            ],
+            [
+              57.63,
+              -20.252
+            ],
+            [
+              57.662,
+              -20.222
+            ],
+            [
+              57.608,
+              -20.185
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-mo",
+        "area": 0.030494000000001024,
+        "bounding_box": [
+          57.486,
+          -20.343,
+          57.679,
+          -20.185
+        ],
+        "point": [
+          57.582499999999996,
+          -20.264
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة موكا",
+          "bn": "মকা জেলা",
+          "de": "Moka",
+          "en": "Moka District",
+          "es": "Distrito de Moka",
+          "fr": "Moka",
+          "el": "Μόκα",
+          "hi": "मोका जिला",
+          "hu": null,
+          "id": "Distrik Moka",
+          "it": "Distretto di Moka",
+          "ja": "モカ県",
+          "ko": "모카 구",
+          "nl": "Moka",
+          "pl": "Moka",
+          "pt": "Moka",
+          "ru": "Мока",
+          "sv": "Moka",
+          "tr": "Moka Bölgesi",
+          "vi": "Quận Moka",
+          "zh": "莫卡區"
+        },
+        "population": 74706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.6,
+              -20.343
+            ],
+            [
+              57.546,
+              -20.265
+            ],
+            [
+              57.503,
+              -20.242
+            ],
+            [
+              57.486,
+              -20.191
+            ],
+            [
+              57.471,
+              -20.189
+            ],
+            [
+              57.46,
+              -20.219
+            ],
+            [
+              57.495,
+              -20.249
+            ],
+            [
+              57.511,
+              -20.277
+            ],
+            [
+              57.529,
+              -20.297
+            ],
+            [
+              57.555,
+              -20.326
+            ],
+            [
+              57.504,
+              -20.347
+            ],
+            [
+              57.483,
+              -20.322
+            ],
+            [
+              57.471,
+              -20.329
+            ],
+            [
+              57.448,
+              -20.343
+            ],
+            [
+              57.459,
+              -20.398
+            ],
+            [
+              57.487,
+              -20.423
+            ],
+            [
+              57.546,
+              -20.402
+            ],
+            [
+              57.6,
+              -20.343
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-pw",
+        "area": 0.03556799999999997,
+        "bounding_box": [
+          57.448,
+          -20.423,
+          57.6,
+          -20.189
+        ],
+        "point": [
+          57.524,
+          -20.305999999999997
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "مقاطعة بلينز ويلهمز",
+          "bn": "প্লেইন্স উইলহেম জেলা",
+          "de": "Plaines Wilhems",
+          "en": "Plaines Wilhems District",
+          "es": "Distrito de Plaines Wilhems",
+          "fr": "Plaines Wilhems",
+          "el": "Πλέινς Γουίλχεμς",
+          "hi": "प्लेन्स विल्हेम्स जिला",
+          "hu": null,
+          "id": "Distrik Plaines Wilhems",
+          "it": "Plaines Wilhems",
+          "ja": "プレーン・ウィルヘルム県",
+          "ko": "플랭윌렐름 구",
+          "nl": "Plaines Wilhems",
+          "pl": "Plaines Wilhems",
+          "pt": "Plaines Wilhems",
+          "ru": "Плен-Вилем",
+          "sv": "Plaines Wilhems",
+          "tr": "Plaines Wilhems Bölgesi",
+          "vi": "Quận Plaines Wilhems",
+          "zh": "威廉平原區"
+        },
+        "population": 66170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.457,
+              -20.256
+            ],
+            [
+              57.495,
+              -20.249
+            ],
+            [
+              57.46,
+              -20.219
+            ],
+            [
+              57.457,
+              -20.256
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-br",
+        "area": 0.0014059999999998412,
+        "bounding_box": [
+          57.457,
+          -20.256,
+          57.495,
+          -20.219
+        ],
+        "point": [
+          57.476,
+          -20.2375
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 21,
+          "ar": null,
+          "bn": null,
+          "de": "Beau Bassin-Rose Hill",
+          "en": "Beau Bassin-Rose Hill",
+          "es": "Beau Bassin-Rose Hill",
+          "fr": "Beau-Bassin Rose-Hill",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Beau Bassin-Rose Hill",
+          "ja": "ボーバッサン・ローズヒル",
+          "ko": "보베이신로즈힐",
+          "nl": "Beau Bassin",
+          "pl": "Beau Bassin",
+          "pt": null,
+          "ru": "Роз-Хилл",
+          "sv": "Beau Bassin",
+          "tr": "Beau Bassin-Rose Hill",
+          "vi": null,
+          "zh": "羅斯希爾"
+        },
+        "population": 62169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.459,
+              -20.291
+            ],
+            [
+              57.511,
+              -20.277
+            ],
+            [
+              57.495,
+              -20.249
+            ],
+            [
+              57.457,
+              -20.256
+            ],
+            [
+              57.459,
+              -20.291
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-qb",
+        "area": 0.002268000000000172,
+        "bounding_box": [
+          57.457,
+          -20.291,
+          57.511,
+          -20.249
+        ],
+        "point": [
+          57.484,
+          -20.27
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": null,
+          "bn": null,
+          "de": "Quatre Bornes",
+          "en": "Quatre Bornes",
+          "es": "Quatre Bornes",
+          "fr": "Quatre Bornes",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Quatre Bornes",
+          "ja": "カトル・ボルヌ",
+          "ko": "쿠아트레 보르네",
+          "nl": "Quatre Bornes",
+          "pl": "Quatre Bornes",
+          "pt": "Quatre Bornes",
+          "ru": "Катре-Борне",
+          "sv": "Quatre Bornes",
+          "tr": null,
+          "vi": null,
+          "zh": "卡特勒博爾納"
+        },
+        "population": 80534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.471,
+              -20.329
+            ],
+            [
+              57.483,
+              -20.322
+            ],
+            [
+              57.529,
+              -20.297
+            ],
+            [
+              57.511,
+              -20.277
+            ],
+            [
+              57.459,
+              -20.291
+            ],
+            [
+              57.471,
+              -20.329
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-vp",
+        "area": 0.003639999999999987,
+        "bounding_box": [
+          57.459,
+          -20.329,
+          57.529,
+          -20.277
+        ],
+        "point": [
+          57.494,
+          -20.303
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": "فاكوس-فينيكس",
+          "bn": "ভাকোয়াস-ফিনিক্স",
+          "de": "Vacoas-Phoenix",
+          "en": "Vacoas-Phoenix",
+          "es": "Vacoas-Phoenix",
+          "fr": "Vacoas-Phœnix",
+          "el": "Βακόας-Φοίνιξ",
+          "hi": "वकाऊ फीनिक्स",
+          "hu": null,
+          "id": "Vacoas-Phoenix",
+          "it": "Vacoas-Phoenix",
+          "ja": "ヴァコア・フェニックス",
+          "ko": "바코아스피닉스",
+          "nl": "Vacoas-Phoenix",
+          "pl": "Vacoas-Phoenix",
+          "pt": "Vacoas-Phoenix",
+          "ru": "Вакоа-Феникс",
+          "sv": "Vacoas-Phoenix",
+          "tr": "Vacaos-Phoneix",
+          "vi": "Vacoas-Phoenix",
+          "zh": null
+        },
+        "population": 79918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.483,
+              -20.322
+            ],
+            [
+              57.504,
+              -20.347
+            ],
+            [
+              57.555,
+              -20.326
+            ],
+            [
+              57.529,
+              -20.297
+            ],
+            [
+              57.483,
+              -20.322
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mu",
+        "region_child": "mu-cu",
+        "area": 0.0036000000000001877,
+        "bounding_box": [
+          57.483,
+          -20.347,
+          57.555,
+          -20.297
+        ],
+        "point": [
+          57.519,
+          -20.322000000000003
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "كوريبيب",
+          "bn": null,
+          "de": "Curepipe",
+          "en": "Curepipe",
+          "es": "Curepipe",
+          "fr": "Curepipe",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Curepipe",
+          "ja": "キュールピップ",
+          "ko": "쿠레피페",
+          "nl": "Curepipe",
+          "pl": "Curepipe",
+          "pt": "Curepipe",
+          "ru": "Кюрпип",
+          "sv": "Curepipe",
+          "tr": null,
+          "vi": null,
+          "zh": "居爾皮普"
+        },
+        "population": 65924
+      }
+    }
+  ]
+}

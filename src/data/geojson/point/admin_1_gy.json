@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.492000000000004,
+          3.896
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-ma",
+        "area": 9.865680000000015,
+        "bounding_box": [
+          -58.502,
+          1.454,
+          -56.482,
+          6.338
+        ],
+        "point": [
+          -57.492000000000004,
+          3.896
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": null,
+          "bn": null,
+          "de": "Mahaica-Berbice",
+          "en": "Mahaica-Berbice",
+          "es": "Mahaica-Berbice",
+          "fr": "Mahaica-Berbice",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": "Mahaica-Berbice",
+          "it": "Mahaica-Berbice",
+          "ja": "マハイカ＝ベルビセ州",
+          "ko": "마하이카버비스 주",
+          "nl": "Mahaica-Berbice",
+          "pl": "Mahaica-Berbice",
+          "pt": "Mahaica-Berbice",
+          "ru": "Махайка-Бербис",
+          "sv": "Mahaica-Berbice",
+          "tr": null,
+          "vi": null,
+          "zh": "馬海卡-伯比斯區"
+        },
+        "population": 96661
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.9835,
+          6.173500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-pm",
+        "area": 5.758598999999996,
+        "bounding_box": [
+          -61.397,
+          5.155,
+          -58.57,
+          7.192
+        ],
+        "point": [
+          -59.9835,
+          6.173500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 17,
+          "ar": "بوميرون-سوبنام",
+          "bn": "পোমেরুন-সুপেনাম",
+          "de": "Pomeroon-Supenaam",
+          "en": "Pomeroon-Supenaam",
+          "es": "Pomeroon-Supenaam",
+          "fr": "Pomeroon-Supenaam",
+          "el": "Πομερούν-Σουπεναάμ",
+          "hi": "पोमेरून-सुपनाम",
+          "hu": null,
+          "id": "Pomeroon-Supenaam",
+          "it": "Pomeroon-Supenaam",
+          "ja": "ポメローン＝スペナーム州",
+          "ko": "포메룬수페남 주",
+          "nl": "Pomeroon-Supenaam",
+          "pl": "Pomeroon-Supenaam",
+          "pt": "Pomeroon-Supenaam",
+          "ru": "Померун-Супенаам",
+          "sv": "Pomeroon-Supenaam",
+          "tr": "Pomeroon-Supenaam",
+          "vi": "Pomeroon-Supenaam",
+          "zh": "波默倫-蘇佩納姆區"
+        },
+        "population": 22328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.221999999999994,
+          4.853
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-pt",
+        "area": 3.2035200000000037,
+        "bounding_box": [
+          -60.162,
+          4.001,
+          -58.282,
+          5.705
+        ],
+        "point": [
+          -59.221999999999994,
+          4.853
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "بوتارو-سيباروني",
+          "bn": "পোতারো সিপারুনি",
+          "de": "Potaro-Siparuni",
+          "en": "Potaro-Siparuni",
+          "es": "Potaro-Siparuni",
+          "fr": "Potaro-Siparuni",
+          "el": "Ποτάρο-Σιπαρούνι",
+          "hi": "पोटारो-सिपारुनी",
+          "hu": null,
+          "id": "Potaro-Siparuni",
+          "it": "Potaro-Siparuni",
+          "ja": "ポタ＝シパルニ州",
+          "ko": "포타로시파루니 주",
+          "nl": "Potaro-Siparuni",
+          "pl": "Potaro-Siparuni",
+          "pt": "Potaro-Siparuni",
+          "ru": "Потаро-Сипаруни",
+          "sv": "Potaro-Siparuni",
+          "tr": "Potaro-Siparuni",
+          "vi": "Potaro-Siparuni",
+          "zh": "波塔羅-錫帕魯尼區"
+        },
+        "population": 11465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.966,
+          2.8435
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-ud",
+        "area": 6.855419999999993,
+        "bounding_box": [
+          -60.0,
+          1.186,
+          -57.932,
+          4.501
+        ],
+        "point": [
+          -58.966,
+          2.8435
+        ],
+        "labels": {
+          "alt": "Upper Demerara-Berbice",
+          "local": null,
+          "len": 22,
+          "ar": "أبر ديميرارا-بيربيس",
+          "bn": "আপার ডেমারারা-বারবিচ",
+          "de": "Upper Demerara-Berbice",
+          "en": "Upper Demerara-Berbice",
+          "es": "Alto Demerara-Berbice",
+          "fr": "Haut-Demerara-Berbice",
+          "el": "Άπερ Ντεμεράρα-Μπερμπίκε",
+          "hi": "ऊपरी डेमरारा-बर्बिस",
+          "hu": null,
+          "id": "Demerara Hulu-Berbice",
+          "it": "Alto Demerara-Berbice",
+          "ja": "アッパー・デメララ＝ベルビセ州",
+          "ko": "어퍼데메라라버비스 주",
+          "nl": "Upper Demerara-Berbice",
+          "pl": "Upper Demerara-Berbice",
+          "pt": "Alto Demerara-Berbice",
+          "ru": "Аппер-Демерара-Бербис",
+          "sv": "Upper Demerara-Berbice",
+          "tr": "Upper Demerara- Berbice",
+          "vi": "Thượng Demerara-Berbice",
+          "zh": "上德梅拉拉-伯比斯區"
+        },
+        "population": 31686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.756,
+          7.7545
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-ba",
+        "area": 3.133650000000005,
+        "bounding_box": [
+          -60.731,
+          6.951,
+          -58.781,
+          8.558
+        ],
+        "point": [
+          -59.756,
+          7.7545
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 12,
+          "ar": "باريما - ويني",
+          "bn": "বারিমা-ওয়াইনি",
+          "de": "Barima-Waini",
+          "en": "Barima-Waini",
+          "es": "Barima-Waini",
+          "fr": "Barima-Waini",
+          "el": "Μπαρίμα-Γουαΐνι",
+          "hi": "बरीमा-वैनी",
+          "hu": null,
+          "id": "Barima-Waini",
+          "it": "Barima-Waini",
+          "ja": "バリマ・ワイニ州",
+          "ko": "바리마와이니 주",
+          "nl": "Barima-Waini",
+          "pl": "Barima-Waini",
+          "pt": "Barima-Waini",
+          "ru": "Барима-Уайни",
+          "sv": "Barima-Waini",
+          "tr": "Barima-Waini",
+          "vi": "Barima-Waini",
+          "zh": "巴里马-瓦伊尼"
+        },
+        "population": 29873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3775,
+          6.5
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-de",
+        "area": 0.32071600000000294,
+        "bounding_box": [
+          -58.581,
+          6.106,
+          -58.174,
+          6.894
+        ],
+        "point": [
+          -58.3775,
+          6.5
+        ],
+        "labels": {
+          "alt": "Essequibo Islands-West Demerara",
+          "local": null,
+          "len": 16,
+          "ar": "ديميرارا-مهايكا",
+          "bn": "ডেমারারা-মাহিয়াকা",
+          "de": "Demerara-Mahaica",
+          "en": "Demerara-Mahaica",
+          "es": "Demerara-Mahaica",
+          "fr": "Demerara-Mahaica",
+          "el": "Ντεμεράρα-Μαχάικα",
+          "hi": "डेमरारा-महाइका",
+          "hu": null,
+          "id": "Demerara-Mahaica",
+          "it": "Demerara-Mahaica",
+          "ja": "デメララ・マハイカ州",
+          "ko": "데메라라마하이카 주",
+          "nl": "Demerara-Mahaica",
+          "pl": "Demerara-Mahaica",
+          "pt": "Demerara-Mahaica",
+          "ru": "Демерара-Махайка",
+          "sv": "Demerara-Mahaica",
+          "tr": "Demerara- Mahaica",
+          "vi": "Demerara-Mahaica",
+          "zh": "德梅拉拉-馬海卡區"
+        },
+        "population": 106641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.67700000000001,
+          6.7330000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-de",
+        "area": 0.1538599999999998,
+        "bounding_box": [
+          -58.834,
+          6.488,
+          -58.52,
+          6.978
+        ],
+        "point": [
+          -58.67700000000001,
+          6.7330000000000005
+        ],
+        "labels": {
+          "alt": "Essequibo Islands-West Demerara",
+          "local": null,
+          "len": 16,
+          "ar": "ديميرارا-مهايكا",
+          "bn": "ডেমারারা-মাহিয়াকা",
+          "de": "Demerara-Mahaica",
+          "en": "Demerara-Mahaica",
+          "es": "Demerara-Mahaica",
+          "fr": "Demerara-Mahaica",
+          "el": "Ντεμεράρα-Μαχάικα",
+          "hi": "डेमरारा-महाइका",
+          "hu": null,
+          "id": "Demerara-Mahaica",
+          "it": "Demerara-Mahaica",
+          "ja": "デメララ・マハイカ州",
+          "ko": "데메라라마하이카 주",
+          "nl": "Demerara-Mahaica",
+          "pl": "Demerara-Mahaica",
+          "pt": "Demerara-Mahaica",
+          "ru": "Демерара-Махайка",
+          "sv": "Demerara-Mahaica",
+          "tr": "Demerara- Mahaica",
+          "vi": "Demerara-Mahaica",
+          "zh": "德梅拉拉-馬海卡區"
+        },
+        "population": 106641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.421,
+          6.936
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-de",
+        "area": 0.006048000000000235,
+        "bounding_box": [
+          -58.463,
+          6.9,
+          -58.379,
+          6.972
+        ],
+        "point": [
+          -58.421,
+          6.936
+        ],
+        "labels": {
+          "alt": "Essequibo Islands-West Demerara",
+          "local": null,
+          "len": 16,
+          "ar": "ديميرارا-مهايكا",
+          "bn": "ডেমারারা-মাহিয়াকা",
+          "de": "Demerara-Mahaica",
+          "en": "Demerara-Mahaica",
+          "es": "Demerara-Mahaica",
+          "fr": "Demerara-Mahaica",
+          "el": "Ντεμεράρα-Μαχάικα",
+          "hi": "डेमरारा-महाइका",
+          "hu": null,
+          "id": "Demerara-Mahaica",
+          "it": "Demerara-Mahaica",
+          "ja": "デメララ・マハイカ州",
+          "ko": "데메라라마하이카 주",
+          "nl": "Demerara-Mahaica",
+          "pl": "Demerara-Mahaica",
+          "pt": "Demerara-Mahaica",
+          "ru": "Демерара-Махайка",
+          "sv": "Demerara-Mahaica",
+          "tr": "Demerara- Mahaica",
+          "vi": "Demerara-Mahaica",
+          "zh": "德梅拉拉-馬海卡區"
+        },
+        "population": 106641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.82,
+          7.189500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-cu",
+        "area": 0.6771120000000028,
+        "bounding_box": [
+          -59.176,
+          6.714,
+          -58.464,
+          7.665
+        ],
+        "point": [
+          -58.82,
+          7.189500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 15,
+          "ar": "كويوني مازاروني",
+          "bn": "কুয়ুনি-মাজারুনি",
+          "de": "Cuyuni-Mazaruni",
+          "en": "Cuyuni-Mazaruni",
+          "es": "Cuyuni-Mazaruni",
+          "fr": "Cuyuni-Mazaruni",
+          "el": "Κουγιούνι-Μαζαρούνι",
+          "hi": "कुयूनी-मज़ारूनी",
+          "hu": null,
+          "id": "Cuyuni-Mazaruni",
+          "it": "Cuyuni-Mazaruni",
+          "ja": "クユニ＝マザルニ州",
+          "ko": "쿠유니마자루니 주",
+          "nl": "Cuyuni-Mazaruni",
+          "pl": "Cuyuni-Mazaruni",
+          "pt": "Cuyuni-Mazaruni",
+          "ru": "Куюни-Мазаруни",
+          "sv": "Cuyuni-Mazaruni",
+          "tr": "Cuyuni-Maarauni",
+          "vi": "Cuyuni-Mazaruni",
+          "zh": "庫尤尼-馬扎魯尼區"
+        },
+        "population": 42229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2465,
+          5.5385
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-ut",
+        "area": 2.361173000000002,
+        "bounding_box": [
+          -58.885,
+          4.614,
+          -57.608,
+          6.463
+        ],
+        "point": [
+          -58.2465,
+          5.5385
+        ],
+        "labels": {
+          "alt": "Upper Takutu-Upper Essequibo",
+          "local": null,
+          "len": 28,
+          "ar": "أبر كاتوكو - أبر ايسيكوبيو",
+          "bn": "আপার টাকুটু-আপার এসেকুইবো",
+          "de": "Upper Takutu-Upper Essequibo",
+          "en": "Upper Takutu-Upper Essequibo",
+          "es": "Alto Tacutu-Alto Esequibo",
+          "fr": "Haut-Takutu-Haut-Essequibo",
+          "el": "Άπερ Τακούτου-Άπερ Εσεκουίμπο",
+          "hi": "ऊपरी टकूटू-ऊपरी एसेकिबो",
+          "hu": null,
+          "id": "Takutu Hulu-Essequibo Hulu",
+          "it": "Alto Takutu-Alto Essequibo",
+          "ja": "アッパー・タクトゥ＝アッパー・エセキボ州",
+          "ko": "어퍼타쿠투어퍼에세키보 주",
+          "nl": "Upper Takutu-Upper Essequibo",
+          "pl": "Upper Takutu-Upper Essequibo",
+          "pt": "Alto Takutu-Alto Essequibo",
+          "ru": "Аппер-Такуту-Аппер-Эссекибо",
+          "sv": "Upper Takatu-Upper Esseqiubo",
+          "tr": "Upper Takutu- Upper Essequibo",
+          "vi": "Thượng Takutu-Thượng Essequibo",
+          "zh": "上塔库图-上埃塞奎博"
+        },
+        "population": 37105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.093999999999994,
+          6.4559999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-eb",
+        "area": 0.3188479999999995,
+        "bounding_box": [
+          -58.306,
+          6.08,
+          -57.882,
+          6.832
+        ],
+        "point": [
+          -58.093999999999994,
+          6.4559999999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 22,
+          "ar": "شرق بيربيس-كورنتين",
+          "bn": "ইস্ট বারবিচ-করেনটাইন",
+          "de": "East Berbice-Corentyne",
+          "en": "East Berbice-Corentyne",
+          "es": "Berbice Oriental-Corentyne",
+          "fr": "Berbice oriental-Courantyne",
+          "el": "Ήστ Μπερμπίκε-Κορεντίνε",
+          "hi": "ईस्ट बेर्बिस-कोरेंटीन",
+          "hu": null,
+          "id": "Berbice-Corentyne Timur",
+          "it": "Berbice Orientale-Corentyne",
+          "ja": "東ベルビセ＝コレンティネ州",
+          "ko": "이스트버비스코렌타인 주",
+          "nl": "East Berbice-Corentyne",
+          "pl": "East Berbice-Corentyne",
+          "pt": "Berbice Oriental-Corentyne",
+          "ru": "Ист-Бербис-Корентайн",
+          "sv": "East Berbice-Corentyne",
+          "tr": "Doğu Berbice-County",
+          "vi": "Đông Berbice-Corentyne",
+          "zh": "东伯比斯-科兰太因"
+        },
+        "population": 298862
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.826,
+          6.277
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gy",
+        "region_child": "gy-es",
+        "area": 0.5336639999999954,
+        "bounding_box": [
+          -58.132,
+          5.841,
+          -57.52,
+          6.713
+        ],
+        "point": [
+          -57.826,
+          6.277
+        ],
+        "labels": {
+          "alt": "Mahaica-Berbice",
+          "local": null,
+          "len": 31,
+          "ar": null,
+          "bn": null,
+          "de": "Mahaica-Berbice",
+          "en": "Mahaica-Berbice",
+          "es": "Mahaica-Berbice",
+          "fr": "Mahaica-Berbice",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": "Mahaica-Berbice",
+          "it": "Mahaica-Berbice",
+          "ja": "マハイカ＝ベルビセ州",
+          "ko": "마하이카버비스 주",
+          "nl": "Mahaica-Berbice",
+          "pl": "Mahaica-Berbice",
+          "pt": "Mahaica-Berbice",
+          "ru": "Махайка-Бербис",
+          "sv": "Mahaica-Berbice",
+          "tr": null,
+          "vi": null,
+          "zh": "馬海卡-伯比斯區"
+        },
+        "population": 49456
+      }
+    }
+  ]
+}

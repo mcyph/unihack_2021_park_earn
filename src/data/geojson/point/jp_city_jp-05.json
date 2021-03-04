@@ -1,0 +1,1307 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.484,
+          39.5445
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05212",
+        "area": 0.18452600000000086,
+        "bounding_box": [
+          140.227,
+          39.365,
+          140.741,
+          39.724
+        ],
+        "point": [
+          140.484,
+          39.5445
+        ],
+        "labels": {
+          "ja": "大仙市",
+          "en": "daisen-shi"
+        },
+        "population": 79145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6745,
+          39.774
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05215",
+        "area": 0.18330599999999977,
+        "bounding_box": [
+          140.469,
+          39.551,
+          140.88,
+          39.997
+        ],
+        "point": [
+          140.6745,
+          39.774
+        ],
+        "labels": {
+          "ja": "仙北市",
+          "en": "senboku-shi"
+        },
+        "population": 26678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.228,
+          40.343
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05346",
+        "area": 0.05273599999999901,
+        "bounding_box": [
+          140.1,
+          40.24,
+          140.356,
+          40.446
+        ],
+        "point": [
+          140.228,
+          40.343
+        ],
+        "labels": {
+          "ja": "藤里町",
+          "en": "fujisato-machi"
+        },
+        "population": 3522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9965,
+          40.0065
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05368",
+        "area": 0.025777000000000428,
+        "bounding_box": [
+          139.922,
+          39.92,
+          140.071,
+          40.093
+        ],
+        "point": [
+          139.9965,
+          40.0065
+        ],
+        "labels": {
+          "ja": "大潟村",
+          "en": "ogata-mura"
+        },
+        "population": 2893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.715,
+          39.0835
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05464",
+        "area": 0.047690000000000336,
+        "bounding_box": [
+          140.62,
+          38.958,
+          140.81,
+          39.209
+        ],
+        "point": [
+          140.715,
+          39.0835
+        ],
+        "labels": {
+          "ja": "東成瀬村",
+          "en": "higashinaruse-mura"
+        },
+        "population": 2628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5255,
+          39.2505
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05203",
+        "area": 0.1670589999999959,
+        "bounding_box": [
+          140.262,
+          39.092,
+          140.789,
+          39.409
+        ],
+        "point": [
+          140.5255,
+          39.2505
+        ],
+        "labels": {
+          "ja": "横手市",
+          "en": "yokote-shi"
+        },
+        "population": 88683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.488,
+          40.075
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05213",
+        "area": 0.273420000000005,
+        "bounding_box": [
+          140.243,
+          39.796,
+          140.733,
+          40.354
+        ],
+        "point": [
+          140.488,
+          40.075
+        ],
+        "labels": {
+          "ja": "北秋田市",
+          "en": "kitaakita-shi"
+        },
+        "population": 32764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.05,
+          40.3575
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05349",
+        "area": 0.050387999999996456,
+        "bounding_box": [
+          139.936,
+          40.247,
+          140.164,
+          40.468
+        ],
+        "point": [
+          140.05,
+          40.3575
+        ],
+        "labels": {
+          "ja": "八峰町",
+          "en": "happo-cho"
+        },
+        "population": 6992
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.341,
+          39.173
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05463",
+        "area": 0.04236399999999927,
+        "bounding_box": [
+          140.222,
+          39.084,
+          140.46,
+          39.262
+        ],
+        "point": [
+          140.341,
+          39.173
+        ],
+        "labels": {
+          "ja": "羽後町",
+          "en": "ugo-machi"
+        },
+        "population": 14968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0765,
+          39.866
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05211",
+        "area": 0.030379999999999394,
+        "bounding_box": [
+          139.954,
+          39.804,
+          140.199,
+          39.928
+        ],
+        "point": [
+          140.0765,
+          39.866
+        ],
+        "labels": {
+          "ja": "潟上市",
+          "en": "katagami-shi"
+        },
+        "population": 31195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1825,
+          39.92
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05361",
+        "area": 0.045942000000002606,
+        "bounding_box": [
+          140.059,
+          39.827,
+          140.306,
+          40.013
+        ],
+        "point": [
+          140.1825,
+          39.92
+        ],
+        "labels": {
+          "ja": "五城目町",
+          "en": "gojome-machi"
+        },
+        "population": 9989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3175,
+          39.9435
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05327",
+        "area": 0.04926500000000075,
+        "bounding_box": [
+          140.234,
+          39.796,
+          140.401,
+          40.091
+        ],
+        "point": [
+          140.3175,
+          39.9435
+        ],
+        "labels": {
+          "ja": "上小阿仁村",
+          "en": "kamikoani-mura"
+        },
+        "population": 2450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.96800000000002,
+          39.209500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05214",
+        "area": 0.04057199999999972,
+        "bounding_box": [
+          139.87,
+          39.106,
+          140.066,
+          39.313
+        ],
+        "point": [
+          139.96800000000002,
+          39.209500000000006
+        ],
+        "labels": {
+          "ja": "にかほ市",
+          "en": "nikaho-shi"
+        },
+        "population": 23144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5435,
+          39.045500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05207",
+        "area": 0.14662500000000647,
+        "bounding_box": [
+          140.331,
+          38.873,
+          140.756,
+          39.218
+        ],
+        "point": [
+          140.5435,
+          39.045500000000004
+        ],
+        "labels": {
+          "ja": "湯沢市",
+          "en": "yuzawa-shi"
+        },
+        "population": 45318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0815,
+          39.9615
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05363",
+        "area": 0.0038249999999995653,
+        "bounding_box": [
+          140.044,
+          39.936,
+          140.119,
+          39.987
+        ],
+        "point": [
+          140.0815,
+          39.9615
+        ],
+        "labels": {
+          "ja": "八郎潟町",
+          "en": "hachirogata-machi"
+        },
+        "population": 5676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.13600000000002,
+          40.211
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05202",
+        "area": 0.10627599999999801,
+        "bounding_box": [
+          139.973,
+          40.048,
+          140.299,
+          40.374
+        ],
+        "point": [
+          140.13600000000002,
+          40.211
+        ],
+        "labels": {
+          "ja": "能代市",
+          "en": "noshiro-shi"
+        },
+        "population": 52203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.095,
+          40.066
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05348",
+        "area": 0.054600000000000586,
+        "bounding_box": [
+          139.945,
+          39.975,
+          140.245,
+          40.157
+        ],
+        "point": [
+          140.095,
+          40.066
+        ],
+        "labels": {
+          "ja": "三種町",
+          "en": "mitane-cho"
+        },
+        "population": 16872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1165,
+          39.893
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05366",
+        "area": 0.015678000000002298,
+        "bounding_box": [
+          140.016,
+          39.854,
+          140.217,
+          39.932
+        ],
+        "point": [
+          140.1165,
+          39.893
+        ],
+        "labels": {
+          "ja": "井川町",
+          "en": "ikawa-machi"
+        },
+        "population": 4600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.801,
+          40.396
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05303",
+        "area": 0.05745599999999609,
+        "bounding_box": [
+          140.675,
+          40.282,
+          140.927,
+          40.51
+        ],
+        "point": [
+          140.801,
+          40.396
+        ],
+        "labels": {
+          "ja": "小坂町",
+          "en": "kosaka-machi"
+        },
+        "population": 5605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8345,
+          39.965
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 0.061127999999997504,
+        "bounding_box": [
+          139.693,
+          39.857,
+          139.976,
+          40.073
+        ],
+        "point": [
+          139.8345,
+          39.965
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6985,
+          40.013999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 1.9999999999970725e-05,
+        "bounding_box": [
+          139.696,
+          40.012,
+          139.701,
+          40.016
+        ],
+        "point": [
+          139.6985,
+          40.013999999999996
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7,
+          39.947
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 3.999999999967144e-06,
+        "bounding_box": [
+          139.699,
+          39.946,
+          139.701,
+          39.948
+        ],
+        "point": [
+          139.7,
+          39.947
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69850000000002,
+          39.948
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 2.0000000000048886e-06,
+        "bounding_box": [
+          139.698,
+          39.947,
+          139.699,
+          39.949
+        ],
+        "point": [
+          139.69850000000002,
+          39.948
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697,
+          39.959500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 2.0000000000048886e-06,
+        "bounding_box": [
+          139.696,
+          39.959,
+          139.698,
+          39.96
+        ],
+        "point": [
+          139.697,
+          39.959500000000006
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7135,
+          39.9165
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 1.0000000000095496e-06,
+        "bounding_box": [
+          139.713,
+          39.916,
+          139.714,
+          39.917
+        ],
+        "point": [
+          139.7135,
+          39.9165
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73649999999998,
+          39.8805
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 1.0000000000024443e-06,
+        "bounding_box": [
+          139.736,
+          39.88,
+          139.737,
+          39.881
+        ],
+        "point": [
+          139.73649999999998,
+          39.8805
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6925,
+          39.9945
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 1.0000000000024443e-06,
+        "bounding_box": [
+          139.692,
+          39.994,
+          139.693,
+          39.995
+        ],
+        "point": [
+          139.6925,
+          39.9945
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6995,
+          39.9615
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 9.99999999981128e-07,
+        "bounding_box": [
+          139.699,
+          39.961,
+          139.7,
+          39.962
+        ],
+        "point": [
+          139.6995,
+          39.9615
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6935,
+          39.9965
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 9.999999999740225e-07,
+        "bounding_box": [
+          139.693,
+          39.996,
+          139.694,
+          39.997
+        ],
+        "point": [
+          139.6935,
+          39.9965
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711,
+          39.922
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 0.0,
+        "bounding_box": [
+          139.711,
+          39.922,
+          139.711,
+          39.922
+        ],
+        "point": [
+          139.711,
+          39.922
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71,
+          39.923
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 0.0,
+        "bounding_box": [
+          139.709,
+          39.923,
+          139.711,
+          39.923
+        ],
+        "point": [
+          139.71,
+          39.923
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70350000000002,
+          39.945
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 0.0,
+        "bounding_box": [
+          139.703,
+          39.945,
+          139.704,
+          39.945
+        ],
+        "point": [
+          139.70350000000002,
+          39.945
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7015,
+          39.947
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 0.0,
+        "bounding_box": [
+          139.701,
+          39.947,
+          139.702,
+          39.947
+        ],
+        "point": [
+          139.7015,
+          39.947
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73,
+          39.982
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 0.0,
+        "bounding_box": [
+          139.73,
+          39.982,
+          139.73,
+          39.982
+        ],
+        "point": [
+          139.73,
+          39.982
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695,
+          39.988
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 0.0,
+        "bounding_box": [
+          139.695,
+          39.988,
+          139.695,
+          39.988
+        ],
+        "point": [
+          139.695,
+          39.988
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694,
+          39.991
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 0.0,
+        "bounding_box": [
+          139.694,
+          39.991,
+          139.694,
+          39.991
+        ],
+        "point": [
+          139.694,
+          39.991
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693,
+          39.996
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05206",
+        "area": 0.0,
+        "bounding_box": [
+          139.693,
+          39.996,
+          139.693,
+          39.996
+        ],
+        "point": [
+          139.693,
+          39.996
+        ],
+        "labels": {
+          "ja": "男鹿市",
+          "en": "oga-shi"
+        },
+        "population": 26158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.168,
+          39.306
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05210",
+        "area": 0.2195840000000013,
+        "bounding_box": [
+          139.98,
+          39.014,
+          140.356,
+          39.598
+        ],
+        "point": [
+          140.168,
+          39.306
+        ],
+        "labels": {
+          "ja": "由利本荘市",
+          "en": "yurihonjo-shi"
+        },
+        "population": 75811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5385,
+          40.2665
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05204",
+        "area": 0.17960699999999963,
+        "bounding_box": [
+          140.333,
+          40.048,
+          140.744,
+          40.485
+        ],
+        "point": [
+          140.5385,
+          40.2665
+        ],
+        "labels": {
+          "ja": "大館市",
+          "en": "odate-shi"
+        },
+        "population": 70785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.846,
+          40.194500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05209",
+        "area": 0.14035799999999982,
+        "bounding_box": [
+          140.697,
+          39.959,
+          140.995,
+          40.43
+        ],
+        "point": [
+          140.846,
+          40.194500000000005
+        ],
+        "labels": {
+          "ja": "鹿角市",
+          "en": "kadhuno-shi"
+        },
+        "population": 30951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.59199999999998,
+          39.424499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05434",
+        "area": 0.03116400000000225,
+        "bounding_box": [
+          140.486,
+          39.351,
+          140.698,
+          39.498
+        ],
+        "point": [
+          140.59199999999998,
+          39.424499999999995
+        ],
+        "labels": {
+          "ja": "美郷町",
+          "en": "misato-cho"
+        },
+        "population": 19442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2745,
+          39.656499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "jp_city",
+        "region_parent": "jp-05",
+        "region_child": "05201",
+        "area": 0.2004450000000013,
+        "bounding_box": [
+          140.033,
+          39.449,
+          140.516,
+          39.864
+        ],
+        "point": [
+          140.2745,
+          39.656499999999994
+        ],
+        "labels": {
+          "ja": "秋田市",
+          "en": "akita-shi"
+        },
+        "population": 287610
+      }
+    }
+  ]
+}

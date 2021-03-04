@@ -1,0 +1,905 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.126000000000001,
+          54.1325
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "dithmarschen",
+        "area": 0.31453399999999676,
+        "bounding_box": [
+          8.807,
+          53.886,
+          9.445,
+          54.379
+        ],
+        "point": [
+          9.126000000000001,
+          54.1325
+        ],
+        "labels": {
+          "en": "Dithmarschen"
+        },
+        "population": 126938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.688500000000001,
+          54.057500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "dithmarschen",
+        "area": 0.0004749999999999655,
+        "bounding_box": [
+          8.676,
+          54.048,
+          8.701,
+          54.067
+        ],
+        "point": [
+          8.688500000000001,
+          54.057500000000005
+        ],
+        "labels": {
+          "en": "Dithmarschen"
+        },
+        "population": 126938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4275,
+          54.787499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "flensburg städte",
+        "area": 0.010877000000000126,
+        "bounding_box": [
+          9.353,
+          54.751,
+          9.502,
+          54.824
+        ],
+        "point": [
+          9.4275,
+          54.787499999999994
+        ],
+        "labels": {
+          "en": "Flensburg Städte"
+        },
+        "population": 80307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.123999999999999,
+          54.3575
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "kiel städte",
+        "area": 0.0366159999999995,
+        "bounding_box": [
+          10.032,
+          54.258,
+          10.216,
+          54.457
+        ],
+        "point": [
+          10.123999999999999,
+          54.3575
+        ],
+        "labels": {
+          "en": "Kiel Städte"
+        },
+        "population": 235647
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6005,
+          53.6015
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "lauenburg",
+        "area": 0.32734100000000105,
+        "bounding_box": [
+          10.247,
+          53.37,
+          10.954,
+          53.833
+        ],
+        "point": [
+          10.6005,
+          53.6015
+        ],
+        "labels": {
+          "en": "Lauenburg"
+        },
+        "population": 160903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7625,
+          53.8835
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "lübeck städte",
+        "area": 0.0874509999999996,
+        "bounding_box": [
+          10.561,
+          53.775,
+          10.964,
+          53.992
+        ],
+        "point": [
+          10.7625,
+          53.8835
+        ],
+        "labels": {
+          "en": "Lübeck Städte"
+        },
+        "population": 209363
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9925,
+          54.0905
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "neumünster städte",
+        "area": 0.017954999999999374,
+        "bounding_box": [
+          9.925,
+          54.024,
+          10.06,
+          54.157
+        ],
+        "point": [
+          9.9925,
+          54.0905
+        ],
+        "labels": {
+          "en": "Neumünster Städte"
+        },
+        "population": 71125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.805,
+          54.6545
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.8221500000000018,
+        "bounding_box": [
+          8.28,
+          54.263,
+          9.33,
+          55.046
+        ],
+        "point": [
+          8.805,
+          54.6545
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.496,
+          54.718
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.01504800000000013,
+        "bounding_box": [
+          8.397,
+          54.68,
+          8.595,
+          54.756
+        ],
+        "point": [
+          8.496,
+          54.718
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.347999999999999,
+          54.66
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.011648000000000717,
+        "bounding_box": [
+          8.292,
+          54.608,
+          8.404,
+          54.712
+        ],
+        "point": [
+          8.347999999999999,
+          54.66
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.648,
+          54.522999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.008024000000000605,
+        "bounding_box": [
+          8.589,
+          54.489,
+          8.707,
+          54.557
+        ],
+        "point": [
+          8.648,
+          54.522999999999996
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.596499999999999,
+          54.6395
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.006075000000000221,
+        "bounding_box": [
+          8.529,
+          54.617,
+          8.664,
+          54.662
+        ],
+        "point": [
+          8.596499999999999,
+          54.6395
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.488,
+          54.44499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.004864000000000037,
+        "bounding_box": [
+          8.45,
+          54.413,
+          8.526,
+          54.477
+        ],
+        "point": [
+          8.488,
+          54.44499999999999
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.485,
+          54.521
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.0019999999999999324,
+        "bounding_box": [
+          8.465,
+          54.496,
+          8.505,
+          54.546
+        ],
+        "point": [
+          8.485,
+          54.521
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.541,
+          54.5695
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.0013440000000000522,
+        "bounding_box": [
+          8.509,
+          54.559,
+          8.573,
+          54.58
+        ],
+        "point": [
+          8.541,
+          54.5695
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.478,
+          54.5715
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.0012420000000000302,
+        "bounding_box": [
+          8.455,
+          54.558,
+          8.501,
+          54.585
+        ],
+        "point": [
+          8.478,
+          54.5715
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7015,
+          54.682
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.0008200000000001356,
+        "bounding_box": [
+          8.681,
+          54.672,
+          8.722,
+          54.692
+        ],
+        "point": [
+          8.7015,
+          54.682
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.434,
+          55.051500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.0006380000000001597,
+        "bounding_box": [
+          8.405,
+          55.046,
+          8.463,
+          55.057
+        ],
+        "point": [
+          8.434,
+          55.051500000000004
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7215,
+          54.6365
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.0003450000000000084,
+        "bounding_box": [
+          8.71,
+          54.629,
+          8.733,
+          54.644
+        ],
+        "point": [
+          8.7215,
+          54.6365
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8135,
+          54.554
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "nordfriesland",
+        "area": 0.00018799999999989818,
+        "bounding_box": [
+          8.79,
+          54.552,
+          8.837,
+          54.556
+        ],
+        "point": [
+          8.8135,
+          54.554
+        ],
+        "labels": {
+          "en": "Nordfriesland"
+        },
+        "population": 156892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.775,
+          54.14
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "ostholstein",
+        "area": 0.3621000000000041,
+        "bounding_box": [
+          10.42,
+          53.885,
+          11.13,
+          54.395
+        ],
+        "point": [
+          10.775,
+          54.14
+        ],
+        "labels": {
+          "en": "Ostholstein"
+        },
+        "population": 175165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1615,
+          54.4685
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "ostholstein",
+        "area": 0.04056499999999861,
+        "bounding_box": [
+          11.009,
+          54.402,
+          11.314,
+          54.535
+        ],
+        "point": [
+          11.1615,
+          54.4685
+        ],
+        "labels": {
+          "en": "Ostholstein"
+        },
+        "population": 175165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7345,
+          53.7345
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "pinneberg",
+        "area": 0.16715499999999822,
+        "bounding_box": [
+          9.482,
+          53.569,
+          9.987,
+          53.9
+        ],
+        "point": [
+          9.7345,
+          53.7345
+        ],
+        "labels": {
+          "en": "Pinneberg"
+        },
+        "population": 280631
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3725,
+          54.2475
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "plön",
+        "area": 0.2652650000000015,
+        "bounding_box": [
+          10.015,
+          54.062,
+          10.73,
+          54.433
+        ],
+        "point": [
+          10.3725,
+          54.2475
+        ],
+        "labels": {
+          "en": "Plön"
+        },
+        "population": 117385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.748000000000001,
+          54.3335
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "rendsburg-eckernförde",
+        "area": 0.5638800000000045,
+        "bounding_box": [
+          9.304,
+          54.016,
+          10.192,
+          54.651
+        ],
+        "point": [
+          9.748000000000001,
+          54.3335
+        ],
+        "labels": {
+          "en": "Rendsburg-Eckernförde"
+        },
+        "population": 257936
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5525,
+          54.577
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "schleswig-flensburg",
+        "area": 0.5782659999999983,
+        "bounding_box": [
+          9.069,
+          54.278,
+          10.036,
+          54.876
+        ],
+        "point": [
+          9.5525,
+          54.577
+        ],
+        "labels": {
+          "en": "Schleswig-Flensburg"
+        },
+        "population": 188114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9855,
+          54.652
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "schleswig-flensburg",
+        "area": 0.004553999999999947,
+        "bounding_box": [
+          9.936,
+          54.629,
+          10.035,
+          54.675
+        ],
+        "point": [
+          9.9855,
+          54.652
+        ],
+        "labels": {
+          "en": "Schleswig-Flensburg"
+        },
+        "population": 188114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.157,
+          53.8865
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "segeberg",
+        "area": 0.3730999999999987,
+        "bounding_box": [
+          9.747,
+          53.659,
+          10.567,
+          54.114
+        ],
+        "point": [
+          10.157,
+          53.8865
+        ],
+        "labels": {
+          "en": "Segeberg"
+        },
+        "population": 255173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.531500000000001,
+          53.908500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "steinburg",
+        "area": 0.25735499999999595,
+        "bounding_box": [
+          9.199,
+          53.715,
+          9.864,
+          54.102
+        ],
+        "point": [
+          9.531500000000001,
+          53.908500000000004
+        ],
+        "labels": {
+          "en": "Steinburg"
+        },
+        "population": 122822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3235,
+          53.715500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-sh",
+        "region_child": "stormarn",
+        "area": 0.2513369999999994,
+        "bounding_box": [
+          10.025,
+          53.505,
+          10.622,
+          53.926
+        ],
+        "point": [
+          10.3235,
+          53.715500000000006
+        ],
+        "labels": {
+          "en": "Stormarn"
+        },
+        "population": 232003
+      }
+    }
+  ]
+}

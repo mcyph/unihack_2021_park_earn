@@ -1,0 +1,535 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7815,
+          10.731
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gh",
+        "region_child": "gh-ue",
+        "area": 1.3780800000000013,
+        "bounding_box": [
+          -1.579,
+          10.299,
+          0.016,
+          11.163
+        ],
+        "point": [
+          -0.7815,
+          10.731
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة الشرق األوسط",
+          "bn": "আপার ইস্ট অঞ্চল",
+          "de": "Upper East Region",
+          "en": "Upper East Region",
+          "es": "Región Alta Oriental",
+          "fr": "Région du Haut Ghana oriental",
+          "el": "Περιφέρεια Απώτερης Ανατολής",
+          "hi": "ऊपरी पूर्वी क्षेत्र",
+          "hu": null,
+          "id": "Region Timur Atas",
+          "it": "regione Nordorientale",
+          "ja": "アッパー・イースト州",
+          "ko": "어퍼이스트 주",
+          "nl": "Upper East",
+          "pl": "Górny Region Wschodni",
+          "pt": "Alto Oriental",
+          "ru": "Верхний Восточный регион",
+          "sv": "Övre östra regionen",
+          "tr": "Yukarı Doğu Bölgesi",
+          "vi": "Vùng Thượng Đông",
+          "zh": "東北地區"
+        },
+        "population": 1180344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1185,
+          9.333499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gh",
+        "region_child": "gh-np",
+        "area": 9.054428999999999,
+        "bounding_box": [
+          -2.775,
+          7.967,
+          0.538,
+          10.7
+        ],
+        "point": [
+          -1.1185,
+          9.333499999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "الإقليم الشمالي",
+          "bn": "নর্দান অঞ্চল",
+          "de": "Northern Region",
+          "en": "Northern Region",
+          "es": "Región Norte",
+          "fr": "Région du Nord",
+          "el": "Βόρεια Περιφέρεια",
+          "hi": "उत्तरी प्रांत",
+          "hu": null,
+          "id": "Region Utara",
+          "it": "regione Settentrionale",
+          "ja": "ノーザン州",
+          "ko": "북부 주",
+          "nl": "Northern",
+          "pl": "Region Północny",
+          "pt": "Região Norte",
+          "ru": "Северный регион",
+          "sv": "Norra regionen",
+          "tr": "Kuzey Bölgesi",
+          "vi": "Khu vực Miền Nam",
+          "zh": "北部地區"
+        },
+        "population": 3417536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.395,
+          7.2605
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gh",
+        "region_child": "gh-tv",
+        "area": 4.75738,
+        "bounding_box": [
+          -0.395,
+          5.755,
+          1.185,
+          8.766
+        ],
+        "point": [
+          0.395,
+          7.2605
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إقليم فولتا",
+          "bn": "ভুল্টা অঞ্চল",
+          "de": "Volta Region",
+          "en": "Volta Region",
+          "es": "Región Volta",
+          "fr": "Région Volta",
+          "el": "Βόλτα",
+          "hi": "वोल्टा क्षेत्र",
+          "hu": null,
+          "id": "Region Volta",
+          "it": "regione del Volta",
+          "ja": "ヴォルタ州",
+          "ko": "볼타 주",
+          "nl": "Volta",
+          "pl": "Region Wolta",
+          "pt": "Região do Volta",
+          "ru": "Вольта",
+          "sv": "Voltaregionen",
+          "tr": "Volta Bölgesi",
+          "vi": "Khu vực Volta",
+          "zh": "沃爾特地區"
+        },
+        "population": 2741163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.43,
+          7.586
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gh",
+        "region_child": "gh-ba",
+        "area": 7.994932000000002,
+        "bounding_box": [
+          -3.097,
+          6.387,
+          0.237,
+          8.785
+        ],
+        "point": [
+          -1.43,
+          7.586
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "إقليم برونغ - أهافو",
+          "bn": "ব্রুং আহফু অঞ্চল",
+          "de": "Brong-Ahafo Region",
+          "en": "Brong-Ahafo Region",
+          "es": "Región Brong-Ahafo",
+          "fr": "Région de Brong Ahafo",
+          "el": "Μπρόνγκ-Αχάφο",
+          "hi": "ब्रोंग-अहाफो क्षेत्र",
+          "hu": null,
+          "id": "Region Brong-Ahafo",
+          "it": "regione di Brong-Ahafo",
+          "ja": "ブロング＝アハフォ州",
+          "ko": "브롱아하포 주",
+          "nl": "Brong-Ahafo",
+          "pl": "Region Brong-Ahafo",
+          "pt": "Brong-Ahafo",
+          "ru": "Бронг-Ахафо",
+          "sv": "Brong-Ahaforegionen",
+          "tr": "Brong-Ahafo Bölgesi",
+          "vi": "Khu vực Brong-Ahafo",
+          "zh": "布朗阿哈福地區"
+        },
+        "population": 2909200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.344,
+          5.8955
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gh",
+        "region_child": "gh-wp",
+        "area": 4.258646,
+        "bounding_box": [
+          -3.263,
+          4.737,
+          -1.425,
+          7.054
+        ],
+        "point": [
+          -2.344,
+          5.8955
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "الإقليم الغربي",
+          "bn": "ওয়েস্টার্ন অঞ্চল",
+          "de": "Western Region",
+          "en": "Western Region",
+          "es": "Región Occidental",
+          "fr": "Région Occidentale",
+          "el": "Δυτική Περιοχή",
+          "hi": "पश्चिमी क्षेत्र",
+          "hu": null,
+          "id": "Region Barat",
+          "it": "regione Occidentale",
+          "ja": "ウェスタン州",
+          "ko": "서부 주",
+          "nl": "Western",
+          "pl": "Region Zachodni",
+          "pt": "Ocidental",
+          "ru": "Западный Регион",
+          "sv": "Västra regionen",
+          "tr": "Batı Bölgesi",
+          "vi": "Khu vực Phía Tây",
+          "zh": "西部地區"
+        },
+        "population": 3122039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1485,
+          10.34
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gh",
+        "region_child": "gh-uw",
+        "area": 2.155805999999998,
+        "bounding_box": [
+          -2.933,
+          9.653,
+          -1.364,
+          11.027
+        ],
+        "point": [
+          -2.1485,
+          10.34
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "الإقليم الغربي الأعلى",
+          "bn": "উপের ওয়েস্ট অঞ্চল",
+          "de": "Upper West Region",
+          "en": "Upper West Region",
+          "es": "Región Alta Occidental",
+          "fr": "Région du Haut Ghana occidental",
+          "el": "Άπερ Γουέστ",
+          "hi": "ऊपरी पश्चिम क्षेत्र",
+          "hu": null,
+          "id": "Region Barat Atas",
+          "it": "regione Nordoccidentale",
+          "ja": "アッパー・ウエスト州",
+          "ko": "어퍼웨스트 주",
+          "nl": "Upper West",
+          "pl": "Górny Region Zachodni",
+          "pt": "Alto Ocidental",
+          "ru": "Верхний Западный регион",
+          "sv": "Övre västra regionen",
+          "tr": "Yukarı Batı Bölgesi",
+          "vi": "Khu vực Thượng Tây",
+          "zh": "西北地區"
+        },
+        "population": 845965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2635,
+          5.6585
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gh",
+        "region_child": "gh-cp",
+        "area": 2.313711,
+        "bounding_box": [
+          -2.168,
+          5.019,
+          -0.359,
+          6.298
+        ],
+        "point": [
+          -1.2635,
+          5.6585
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "الإقليم الأوسط",
+          "bn": "সেন্ট্রাল অঞ্চল",
+          "de": "Central Region",
+          "en": "Central Region",
+          "es": "Región Central",
+          "fr": "Région du Centre",
+          "el": "Κεντρική Περιφέρεια",
+          "hi": "केन्द्रीय क्षेत्र",
+          "hu": null,
+          "id": "Region Tengah",
+          "it": "regione Centrale",
+          "ja": "セントラル州",
+          "ko": "중앙 주",
+          "nl": "Central",
+          "pl": "Region Centralny",
+          "pt": "Central",
+          "ru": "Центральный регион",
+          "sv": "Centralregionen",
+          "tr": "Merkez Bölgesi",
+          "vi": "Khu vực Miền Trung",
+          "zh": "中部地區"
+        },
+        "population": 3075231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.10699999999999998,
+          5.749499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gh",
+        "region_child": "gh-aa",
+        "area": 0.6152280000000004,
+        "bounding_box": [
+          -0.507,
+          5.499,
+          0.721,
+          6.0
+        ],
+        "point": [
+          0.10699999999999998,
+          5.749499999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 13,
+          "ar": "إقليم أكرا الكبرى",
+          "bn": "গ্রেটার আক্রা অঞ্চল",
+          "de": "Greater Accra Region",
+          "en": "Greater Accra Region",
+          "es": "Región Gran Acra",
+          "fr": "Région du Grand Accra",
+          "el": "Γκρέιτερ Άκρα",
+          "hi": "बृहत्तर एकरा प्रदेश",
+          "hu": null,
+          "id": "Region Greater Accra",
+          "it": "regione della Grande Accra",
+          "ja": "グレーター・アクラ州",
+          "ko": "그레이터아크라 주",
+          "nl": "Greater Accra",
+          "pl": "Region Wielka Akra",
+          "pt": "Grande Acra",
+          "ru": "Большая Аккра",
+          "sv": "Storaccra",
+          "tr": "Büyük Accra Bölgesi",
+          "vi": "Khu vực Greater Accra",
+          "zh": "大阿克拉地區"
+        },
+        "population": 5378902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3275,
+          6.7509999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gh",
+        "region_child": "gh-ah",
+        "area": 3.866071999999999,
+        "bounding_box": [
+          -2.441,
+          5.883,
+          -0.214,
+          7.619
+        ],
+        "point": [
+          -1.3275,
+          6.7509999999999994
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "منطقة أشانتي",
+          "bn": "আশান্তি অঞ্চল",
+          "de": "Ashanti Region",
+          "en": "Ashanti Region",
+          "es": "Región Ashanti",
+          "fr": "Région Ashanti",
+          "el": "περιοχή Ασάντι",
+          "hi": "अश्ंती क्षेत्र",
+          "hu": null,
+          "id": "Region Ashanti",
+          "it": "regione di Ashanti",
+          "ja": "アシャンティ州",
+          "ko": "아샨티 주",
+          "nl": "Ashanti",
+          "pl": "Region Aszanti",
+          "pt": "Ashanti",
+          "ru": "Ашанти",
+          "sv": "Ashantiregionen",
+          "tr": "Ashanti Bölgesi",
+          "vi": "Khu vực Ashanti",
+          "zh": "阿散蒂地區"
+        },
+        "population": 6813411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46199999999999997,
+          6.4595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gh",
+        "region_child": "gh-ep",
+        "area": 2.2943879999999996,
+        "bounding_box": [
+          -1.244,
+          5.726,
+          0.32,
+          7.193
+        ],
+        "point": [
+          -0.46199999999999997,
+          6.4595
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "الإقليم الشرقي",
+          "bn": "ইস্টার্ন অঞ্চল",
+          "de": "Eastern Region",
+          "en": "Eastern Region",
+          "es": "Región Oriental",
+          "fr": "Région Orientale",
+          "el": "Ίστερν Ρίτζιον",
+          "hi": "पूर्वी क्षेत्र",
+          "hu": null,
+          "id": "Region Timur",
+          "it": "regione Orientale",
+          "ja": "イースタン州",
+          "ko": "동부 주",
+          "nl": "Eastern",
+          "pl": "Region Wschodni",
+          "pt": "Região Oriental",
+          "ru": "Восточный регион",
+          "sv": "Östra regionen",
+          "tr": "Doğu Bölgesi",
+          "vi": "Khu vực Eastern",
+          "zh": "東部地區"
+        },
+        "population": 3366492
+      }
+    }
+  ]
+}

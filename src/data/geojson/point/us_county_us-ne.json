@@ -1,0 +1,2795 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7875,
+          41.9165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "039",
+        "area": 0.162284999999998,
+        "bounding_box": [
+          -97.02,
+          41.742,
+          -96.555,
+          42.091
+        ],
+        "point": [
+          -96.7875,
+          41.9165
+        ],
+        "labels": {
+          "en": "Cuming"
+        },
+        "population": 8215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.689,
+          40.7845
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "109",
+        "area": 0.23534999999999975,
+        "bounding_box": [
+          -96.914,
+          40.523,
+          -96.464,
+          41.046
+        ],
+        "point": [
+          -96.689,
+          40.7845
+        ],
+        "labels": {
+          "en": "Lancaster"
+        },
+        "population": 325222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0475,
+          40.176500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "129",
+        "area": 0.15809699999999952,
+        "bounding_box": [
+          -98.274,
+          40.002,
+          -97.821,
+          40.351
+        ],
+        "point": [
+          -98.0475,
+          40.176500000000004
+        ],
+        "labels": {
+          "en": "Nuckolls"
+        },
+        "population": 4034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.65299999999999,
+          41.199
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "101",
+        "area": 0.3159520000000014,
+        "bounding_box": [
+          -102.056,
+          41.003,
+          -101.25,
+          41.395
+        ],
+        "point": [
+          -101.65299999999999,
+          41.199
+        ],
+        "labels": {
+          "en": "Keith"
+        },
+        "population": 7912
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4115,
+          40.5185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "137",
+        "area": 0.15577500000000155,
+        "bounding_box": [
+          -99.644,
+          40.351,
+          -99.179,
+          40.686
+        ],
+        "point": [
+          -99.4115,
+          40.5185
+        ],
+        "labels": {
+          "en": "Phelps"
+        },
+        "population": 8686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5005,
+          40.176
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "181",
+        "area": 0.15764400000000056,
+        "bounding_box": [
+          -98.727,
+          40.002,
+          -98.274,
+          40.35
+        ],
+        "point": [
+          -98.5005,
+          40.176
+        ],
+        "labels": {
+          "en": "Webster"
+        },
+        "population": 3554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5415,
+          42.4005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "043",
+        "area": 0.09237900000000054,
+        "bounding_box": [
+          -96.727,
+          42.276,
+          -96.356,
+          42.525
+        ],
+        "point": [
+          -96.5415,
+          42.4005
+        ],
+        "labels": {
+          "en": "Dakota"
+        },
+        "population": 21785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7815,
+          42.88
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "015",
+        "area": 0.22681399999999688,
+        "bounding_box": [
+          -99.258,
+          42.761,
+          -98.305,
+          42.999
+        ],
+        "point": [
+          -98.7815,
+          42.88
+        ],
+        "labels": {
+          "en": "Boyd"
+        },
+        "population": 1814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5555,
+          41.9135
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "171",
+        "area": 0.20276900000000325,
+        "bounding_box": [
+          -100.846,
+          41.739,
+          -100.265,
+          42.088
+        ],
+        "point": [
+          -100.5555,
+          41.9135
+        ],
+        "labels": {
+          "en": "Thomas"
+        },
+        "population": 566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.77850000000001,
+          42.492000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "089",
+        "area": 0.7732560000000062,
+        "bounding_box": [
+          -99.257,
+          42.088,
+          -98.3,
+          42.896
+        ],
+        "point": [
+          -98.77850000000001,
+          42.492000000000004
+        ],
+        "labels": {
+          "en": "Holt"
+        },
+        "population": 9424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9305,
+          42.4655
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "017",
+        "area": 0.40865699999999155,
+        "bounding_box": [
+          -100.199,
+          42.085,
+          -99.662,
+          42.846
+        ],
+        "point": [
+          -99.9305,
+          42.4655
+        ],
+        "labels": {
+          "en": "Brown"
+        },
+        "population": 2809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.726,
+          42.85850000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "103",
+        "area": 0.2652639999999956,
+        "bounding_box": [
+          -100.198,
+          42.718,
+          -99.254,
+          42.999
+        ],
+        "point": [
+          -99.726,
+          42.85850000000001
+        ],
+        "labels": {
+          "en": "Keya Paha"
+        },
+        "population": 693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.71000000000001,
+          41.5465
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "007",
+        "area": 0.2106019999999993,
+        "bounding_box": [
+          -104.053,
+          41.393,
+          -103.367,
+          41.7
+        ],
+        "point": [
+          -103.71000000000001,
+          41.5465
+        ],
+        "labels": {
+          "en": "Banner"
+        },
+        "population": 587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5215,
+          41.567499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "077",
+        "area": 0.15996700000000008,
+        "bounding_box": [
+          -98.752,
+          41.394,
+          -98.291,
+          41.741
+        ],
+        "point": [
+          -98.5215,
+          41.567499999999995
+        ],
+        "labels": {
+          "en": "Greeley"
+        },
+        "population": 2404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1425,
+          40.1755
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "095",
+        "area": 0.15809700000000274,
+        "bounding_box": [
+          -97.369,
+          40.001,
+          -96.916,
+          40.35
+        ],
+        "point": [
+          -97.1425,
+          40.1755
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 6807
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1405,
+          40.5245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "151",
+        "area": 0.15949299999999625,
+        "bounding_box": [
+          -97.369,
+          40.35,
+          -96.912,
+          40.699
+        ],
+        "point": [
+          -97.1405,
+          40.5245
+        ],
+        "labels": {
+          "en": "Saline"
+        },
+        "population": 14611
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6875,
+          40.177
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "057",
+        "area": 0.2536920000000039,
+        "bounding_box": [
+          -102.052,
+          40.003,
+          -101.323,
+          40.351
+        ],
+        "point": [
+          -101.6875,
+          40.177
+        ],
+        "labels": {
+          "en": "Dundy"
+        },
+        "population": 1756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7075,
+          41.851
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "157",
+        "area": 0.21144599999999897,
+        "bounding_box": [
+          -104.053,
+          41.698,
+          -103.362,
+          42.004
+        ],
+        "point": [
+          -103.7075,
+          41.851
+        ],
+        "labels": {
+          "en": "Scotts Bluff"
+        },
+        "population": 36941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.501,
+          40.5245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "001",
+        "area": 0.1556539999999978,
+        "bounding_box": [
+          -98.724,
+          40.35,
+          -98.278,
+          40.699
+        ],
+        "point": [
+          -98.501,
+          40.5245
+        ],
+        "labels": {
+          "en": "Adams"
+        },
+        "population": 31662
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.08699999999999,
+          40.6535
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "131",
+        "area": 0.19679399999999803,
+        "bounding_box": [
+          -96.464,
+          40.523,
+          -95.71,
+          40.784
+        ],
+        "point": [
+          -96.08699999999999,
+          40.6535
+        ],
+        "labels": {
+          "en": "Otoe"
+        },
+        "population": 16094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.952,
+          40.519999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "099",
+        "area": 0.15503999999999935,
+        "bounding_box": [
+          -99.18,
+          40.35,
+          -98.724,
+          40.69
+        ],
+        "point": [
+          -98.952,
+          40.519999999999996
+        ],
+        "labels": {
+          "en": "Kearney"
+        },
+        "population": 6087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.042,
+          40.176500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "087",
+        "area": 0.19823199999999735,
+        "bounding_box": [
+          -101.326,
+          40.002,
+          -100.758,
+          40.351
+        ],
+        "point": [
+          -101.042,
+          40.176500000000004
+        ],
+        "labels": {
+          "en": "Hitchcock"
+        },
+        "population": 2648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.715,
+          41.198
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "105",
+        "area": 0.26713200000000265,
+        "bounding_box": [
+          -104.054,
+          41.001,
+          -103.376,
+          41.395
+        ],
+        "point": [
+          -103.715,
+          41.198
+        ],
+        "labels": {
+          "en": "Kimball"
+        },
+        "population": 3575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.809,
+          40.412000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "127",
+        "area": 0.1558319999999971,
+        "bounding_box": [
+          -96.067,
+          40.261,
+          -95.551,
+          40.563
+        ],
+        "point": [
+          -95.809,
+          40.412000000000006
+        ],
+        "labels": {
+          "en": "Nemaha"
+        },
+        "population": 6980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.72800000000001,
+          41.394
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "041",
+        "area": 0.7307999999999959,
+        "bounding_box": [
+          -100.253,
+          41.046,
+          -99.203,
+          41.742
+        ],
+        "point": [
+          -99.72800000000001,
+          41.394
+        ],
+        "labels": {
+          "en": "Custer"
+        },
+        "population": 10129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.138,
+          40.9245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "025",
+        "area": 0.1845160000000011,
+        "bounding_box": [
+          -96.464,
+          40.783,
+          -95.812,
+          41.066
+        ],
+        "point": [
+          -96.138,
+          40.9245
+        ],
+        "labels": {
+          "en": "Cass"
+        },
+        "population": 26075
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.598,
+          41.2215
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "143",
+        "area": 0.1605400000000045,
+        "bounding_box": [
+          -97.828,
+          41.047,
+          -97.368,
+          41.396
+        ],
+        "point": [
+          -97.598,
+          41.2215
+        ],
+        "labels": {
+          "en": "Polk"
+        },
+        "population": 5205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.139,
+          42.718999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "045",
+        "area": 0.41284799999999966,
+        "bounding_box": [
+          -103.505,
+          42.437,
+          -102.773,
+          43.001
+        ],
+        "point": [
+          -103.139,
+          42.718999999999994
+        ],
+        "labels": {
+          "en": "Dawes"
+        },
+        "population": 9300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.095,
+          42.221000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "179",
+        "area": 0.14305199999999435,
+        "bounding_box": [
+          -97.368,
+          42.09,
+          -96.822,
+          42.352
+        ],
+        "point": [
+          -97.095,
+          42.221000000000004
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 9587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.991,
+          41.914500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "071",
+        "area": 0.16193599999999797,
+        "bounding_box": [
+          -99.223,
+          41.74,
+          -98.759,
+          42.089
+        ],
+        "point": [
+          -98.991,
+          41.914500000000004
+        ],
+        "labels": {
+          "en": "Garfield"
+        },
+        "population": 2183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.17099999999999,
+          41.2915
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "055",
+        "area": 0.1218000000000035,
+        "bounding_box": [
+          -96.471,
+          41.19,
+          -95.871,
+          41.393
+        ],
+        "point": [
+          -96.17099999999999,
+          41.2915
+        ],
+        "labels": {
+          "en": "Douglas"
+        },
+        "population": 574967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.60149999999999,
+          42.2645
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "139",
+        "area": 0.162982999999998,
+        "bounding_box": [
+          -97.835,
+          42.09,
+          -97.368,
+          42.439
+        ],
+        "point": [
+          -97.60149999999999,
+          42.2645
+        ],
+        "labels": {
+          "en": "Pierce"
+        },
+        "population": 6736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5415,
+          41.538
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "141",
+        "area": 0.23739000000000532,
+        "bounding_box": [
+          -97.831,
+          41.333,
+          -97.252,
+          41.743
+        ],
+        "point": [
+          -97.5415,
+          41.538
+        ],
+        "labels": {
+          "en": "Platte"
+        },
+        "population": 32945
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07149999999999,
+          42.2205
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "013",
+        "area": 0.327933,
+        "bounding_box": [
+          -103.445,
+          42.001,
+          -102.698,
+          42.44
+        ],
+        "point": [
+          -103.07149999999999,
+          42.2205
+        ],
+        "labels": {
+          "en": "Box Butte"
+        },
+        "population": 10513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5455,
+          42.1465
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "173",
+        "area": 0.1464909999999995,
+        "bounding_box": [
+          -96.824,
+          42.015,
+          -96.267,
+          42.278
+        ],
+        "point": [
+          -96.5455,
+          42.1465
+        ],
+        "labels": {
+          "en": "Thurston"
+        },
+        "population": 6683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.063,
+          41.698499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "011",
+        "area": 0.2027100000000013,
+        "bounding_box": [
+          -98.296,
+          41.481,
+          -97.83,
+          41.916
+        ],
+        "point": [
+          -98.063,
+          41.698499999999996
+        ],
+        "labels": {
+          "en": "Boone"
+        },
+        "population": 4829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.60149999999999,
+          41.9165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "119",
+        "area": 0.16298300000000132,
+        "bounding_box": [
+          -97.835,
+          41.742,
+          -97.368,
+          42.091
+        ],
+        "point": [
+          -97.60149999999999,
+          41.9165
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 34613
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.0595,
+          41.569
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "117",
+        "area": 0.2432499999999986,
+        "bounding_box": [
+          -101.407,
+          41.394,
+          -100.712,
+          41.744
+        ],
+        "point": [
+          -101.0595,
+          41.569
+        ],
+        "labels": {
+          "en": "McPherson"
+        },
+        "population": 547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.477,
+          40.176500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "145",
+        "area": 0.19823199999999735,
+        "bounding_box": [
+          -100.761,
+          40.002,
+          -100.193,
+          40.351
+        ],
+        "point": [
+          -100.477,
+          40.176500000000004
+        ],
+        "labels": {
+          "en": "Red Willow"
+        },
+        "population": 10666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.45599999999999,
+          42.445
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "149",
+        "area": 0.31879200000000346,
+        "bounding_box": [
+          -99.678,
+          42.086,
+          -99.234,
+          42.804
+        ],
+        "point": [
+          -99.45599999999999,
+          42.445
+        ],
+        "labels": {
+          "en": "Rock"
+        },
+        "population": 1333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8685,
+          40.5255
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "073",
+        "area": 0.15809700000000274,
+        "bounding_box": [
+          -100.095,
+          40.351,
+          -99.642,
+          40.7
+        ],
+        "point": [
+          -99.8685,
+          40.5255
+        ],
+        "labels": {
+          "en": "Gosper"
+        },
+        "population": 1959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.69,
+          40.2625
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "067",
+        "area": 0.23639600000000052,
+        "bounding_box": [
+          -96.916,
+          40.001,
+          -96.464,
+          40.524
+        ],
+        "point": [
+          -96.69,
+          40.2625
+        ],
+        "labels": {
+          "en": "Gage"
+        },
+        "population": 21675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.82,
+          40.858999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "047",
+        "area": 0.30380800000000074,
+        "bounding_box": [
+          -100.224,
+          40.671,
+          -99.416,
+          41.047
+        ],
+        "point": [
+          -99.82,
+          40.858999999999995
+        ],
+        "labels": {
+          "en": "Dawson"
+        },
+        "population": 24312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.696,
+          41.569
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "005",
+        "area": 0.20183999999999883,
+        "bounding_box": [
+          -101.986,
+          41.395,
+          -101.406,
+          41.743
+        ],
+        "point": [
+          -101.696,
+          41.569
+        ],
+        "labels": {
+          "en": "Arthur"
+        },
+        "population": 472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.061,
+          40.5245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "085",
+        "area": 0.19936800000000277,
+        "bounding_box": [
+          -101.345,
+          40.349,
+          -100.777,
+          40.7
+        ],
+        "point": [
+          -101.061,
+          40.5245
+        ],
+        "labels": {
+          "en": "Hayes"
+        },
+        "population": 950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.265,
+          40.3925
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "097",
+        "area": 0.1038780000000001,
+        "bounding_box": [
+          -96.464,
+          40.262,
+          -96.066,
+          40.523
+        ],
+        "point": [
+          -96.265,
+          40.3925
+        ],
+        "labels": {
+          "en": "Johnson"
+        },
+        "population": 6081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.06700000000001,
+          42.176500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "003",
+        "area": 0.24476400000000337,
+        "bounding_box": [
+          -98.301,
+          41.915,
+          -97.833,
+          42.438
+        ],
+        "point": [
+          -98.06700000000001,
+          42.176500000000004
+        ],
+        "labels": {
+          "en": "Antelope"
+        },
+        "population": 5938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.727,
+          42.501000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "165",
+        "area": 0.6533040000000027,
+        "bounding_box": [
+          -104.053,
+          42.0,
+          -103.401,
+          43.002
+        ],
+        "point": [
+          -103.727,
+          42.501000000000005
+        ],
+        "labels": {
+          "en": "Sioux"
+        },
+        "population": 1200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.747,
+          41.0465
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "111",
+        "area": 0.7304560000000041,
+        "bounding_box": [
+          -101.271,
+          40.698,
+          -100.223,
+          41.395
+        ],
+        "point": [
+          -100.747,
+          41.0465
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 38027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.976,
+          41.2205
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "163",
+        "area": 0.16100800000000012,
+        "bounding_box": [
+          -99.208,
+          41.047,
+          -98.744,
+          41.394
+        ],
+        "point": [
+          -98.976,
+          41.2205
+        ],
+        "labels": {
+          "en": "Sherman"
+        },
+        "population": 2972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.483,
+          41.566500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "113",
+        "area": 0.16100800000000012,
+        "bounding_box": [
+          -100.715,
+          41.393,
+          -100.251,
+          41.74
+        ],
+        "point": [
+          -100.483,
+          41.566500000000005
+        ],
+        "labels": {
+          "en": "Logan"
+        },
+        "population": 752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9425,
+          41.132000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "121",
+        "area": 0.36241400000000606,
+        "bounding_box": [
+          -98.287,
+          40.869,
+          -97.598,
+          41.395
+        ],
+        "point": [
+          -97.9425,
+          41.132000000000005
+        ],
+        "labels": {
+          "en": "Merrick"
+        },
+        "population": 7759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3995,
+          42.5025
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "161",
+        "area": 0.7830650000000041,
+        "bounding_box": [
+          -102.793,
+          42.005,
+          -102.006,
+          43.0
+        ],
+        "point": [
+          -102.3995,
+          42.5025
+        ],
+        "labels": {
+          "en": "Sheridan"
+        },
+        "population": 4844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.237,
+          40.132
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "133",
+        "area": 0.11894799999999851,
+        "bounding_box": [
+          -96.464,
+          40.001,
+          -96.01,
+          40.263
+        ],
+        "point": [
+          -96.237,
+          40.132
+        ],
+        "labels": {
+          "en": "Pawnee"
+        },
+        "population": 2523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0915,
+          41.0925
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "153",
+        "area": 0.09790900000000133,
+        "bounding_box": [
+          -96.34,
+          40.994,
+          -95.843,
+          41.191
+        ],
+        "point": [
+          -96.0915,
+          41.0925
+        ],
+        "labels": {
+          "en": "Sarpy"
+        },
+        "population": 207858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.747,
+          41.919
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "075",
+        "area": 0.22726799999999803,
+        "bounding_box": [
+          -102.068,
+          41.742,
+          -101.426,
+          42.096
+        ],
+        "point": [
+          -101.747,
+          41.919
+        ],
+        "labels": {
+          "en": "Grant"
+        },
+        "population": 501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.31,
+          41.864999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "021",
+        "area": 0.17836000000000193,
+        "bounding_box": [
+          -96.555,
+          41.683,
+          -96.065,
+          42.047
+        ],
+        "point": [
+          -96.31,
+          41.864999999999995
+        ],
+        "labels": {
+          "en": "Burt"
+        },
+        "population": 6005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.61000000000001,
+          41.234
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "155",
+        "area": 0.261924000000001,
+        "bounding_box": [
+          -96.909,
+          41.015,
+          -96.311,
+          41.453
+        ],
+        "point": [
+          -96.61000000000001,
+          41.234
+        ],
+        "labels": {
+          "en": "Saunders"
+        },
+        "population": 21735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.977,
+          41.912499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "009",
+        "area": 0.20195399999999855,
+        "bounding_box": [
+          -100.268,
+          41.739,
+          -99.686,
+          42.086
+        ],
+        "point": [
+          -99.977,
+          41.912499999999994
+        ],
+        "labels": {
+          "en": "Blaine"
+        },
+        "population": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8245,
+          42.5125
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "051",
+        "area": 0.19233900000000018,
+        "bounding_box": [
+          -97.018,
+          42.264,
+          -96.631,
+          42.761
+        ],
+        "point": [
+          -96.8245,
+          42.5125
+        ],
+        "labels": {
+          "en": "Dixon"
+        },
+        "population": 5440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1935,
+          41.917
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "167",
+        "area": 0.12145199999999601,
+        "bounding_box": [
+          -97.368,
+          41.743,
+          -97.019,
+          42.091
+        ],
+        "point": [
+          -97.1935,
+          41.917
+        ],
+        "labels": {
+          "en": "Stanton"
+        },
+        "population": 5859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.52799999999999,
+          41.914500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "183",
+        "area": 0.16263399999999634,
+        "bounding_box": [
+          -98.761,
+          41.74,
+          -98.295,
+          42.089
+        ],
+        "point": [
+          -98.52799999999999,
+          41.914500000000004
+        ],
+        "labels": {
+          "en": "Wheeler"
+        },
+        "population": 759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9525,
+          40.176500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "061",
+        "area": 0.15809699999999952,
+        "bounding_box": [
+          -99.179,
+          40.002,
+          -98.726,
+          40.351
+        ],
+        "point": [
+          -98.9525,
+          40.176500000000004
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 2910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6175,
+          41.568
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "053",
+        "area": 0.20195000000000515,
+        "bounding_box": [
+          -96.906,
+          41.393,
+          -96.329,
+          41.743
+        ],
+        "point": [
+          -96.6175,
+          41.568
+        ],
+        "labels": {
+          "en": "Dodge"
+        },
+        "population": 37347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6975,
+          40.5245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "029",
+        "area": 0.24885900000000552,
+        "bounding_box": [
+          -102.052,
+          40.349,
+          -101.343,
+          40.7
+        ],
+        "point": [
+          -101.6975,
+          40.5245
+        ],
+        "labels": {
+          "en": "Chase"
+        },
+        "population": 3870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.07400000000001,
+          40.8495
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "019",
+        "area": 0.2788699999999984,
+        "bounding_box": [
+          -99.427,
+          40.652,
+          -98.721,
+          41.047
+        ],
+        "point": [
+          -99.07400000000001,
+          40.8495
+        ],
+        "labels": {
+          "en": "Buffalo"
+        },
+        "population": 50385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.59649999999999,
+          40.5245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "059",
+        "area": 0.15949300000000122,
+        "bounding_box": [
+          -97.825,
+          40.35,
+          -97.368,
+          40.699
+        ],
+        "point": [
+          -97.59649999999999,
+          40.5245
+        ],
+        "labels": {
+          "en": "Fillmore"
+        },
+        "population": 5253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.597,
+          40.873
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "185",
+        "area": 0.15938399999999897,
+        "bounding_box": [
+          -97.826,
+          40.699,
+          -97.368,
+          41.047
+        ],
+        "point": [
+          -97.597,
+          40.873
+        ],
+        "labels": {
+          "en": "York"
+        },
+        "population": 12803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.139,
+          40.8725
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "159",
+        "area": 0.1598419999999979,
+        "bounding_box": [
+          -97.368,
+          40.698,
+          -96.91,
+          41.047
+        ],
+        "point": [
+          -97.139,
+          40.8725
+        ],
+        "labels": {
+          "en": "Seward"
+        },
+        "population": 17059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.051,
+          40.5245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "035",
+        "area": 0.15844600000000117,
+        "bounding_box": [
+          -98.278,
+          40.35,
+          -97.824,
+          40.699
+        ],
+        "point": [
+          -98.051,
+          40.5245
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 6034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.99549999999999,
+          41.2205
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "033",
+        "area": 0.3378010000000027,
+        "bounding_box": [
+          -103.382,
+          41.002,
+          -102.609,
+          41.439
+        ],
+        "point": [
+          -102.99549999999999,
+          41.2205
+        ],
+        "labels": {
+          "en": "Cheyenne"
+        },
+        "population": 10181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3315,
+          41.614999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "069",
+        "area": 0.5476600000000085,
+        "bounding_box": [
+          -102.679,
+          41.221,
+          -101.984,
+          42.009
+        ],
+        "point": [
+          -102.3315,
+          41.614999999999995
+        ],
+        "labels": {
+          "en": "Garden"
+        },
+        "population": 1839
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.405,
+          40.176500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "083",
+        "area": 0.15774799999999786,
+        "bounding_box": [
+          -99.631,
+          40.002,
+          -99.179,
+          40.351
+        ],
+        "point": [
+          -99.405,
+          40.176500000000004
+        ],
+        "labels": {
+          "en": "Harlan"
+        },
+        "population": 3300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1825,
+          41.537499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "177",
+        "area": 0.1538249999999971,
+        "bounding_box": [
+          -96.445,
+          41.391,
+          -95.92,
+          41.684
+        ],
+        "point": [
+          -96.1825,
+          41.537499999999994
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 21921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1345,
+          41.916
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "091",
+        "area": 0.2059200000000009,
+        "bounding_box": [
+          -101.427,
+          41.74,
+          -100.842,
+          42.092
+        ],
+        "point": [
+          -101.1345,
+          41.916
+        ],
+        "labels": {
+          "en": "Hooker"
+        },
+        "population": 694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.65950000000001,
+          40.131
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "147",
+        "area": 0.18418599999999738,
+        "bounding_box": [
+          -96.011,
+          40.0,
+          -95.308,
+          40.262
+        ],
+        "point": [
+          -95.65950000000001,
+          40.131
+        ],
+        "labels": {
+          "en": "Richardson"
+        },
+        "population": 7315
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.913,
+          40.176
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "065",
+        "area": 0.19949999999999843,
+        "bounding_box": [
+          -100.198,
+          40.001,
+          -99.628,
+          40.351
+        ],
+        "point": [
+          -99.913,
+          40.176
+        ],
+        "labels": {
+          "en": "Furnas"
+        },
+        "population": 4415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.518,
+          41.22
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "093",
+        "area": 0.16077599999999573,
+        "bounding_box": [
+          -98.749,
+          41.046,
+          -98.287,
+          41.394
+        ],
+        "point": [
+          -98.518,
+          41.22
+        ],
+        "labels": {
+          "en": "Howard"
+        },
+        "population": 5961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.98150000000001,
+          41.567499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "175",
+        "area": 0.15996700000000008,
+        "bounding_box": [
+          -99.212,
+          41.394,
+          -98.751,
+          41.741
+        ],
+        "point": [
+          -98.98150000000001,
+          41.567499999999995
+        ],
+        "labels": {
+          "en": "Valley"
+        },
+        "population": 3913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2505,
+          42.6095
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "027",
+        "area": 0.2435070000000033,
+        "bounding_box": [
+          -97.486,
+          42.351,
+          -97.015,
+          42.868
+        ],
+        "point": [
+          -97.2505,
+          42.6095
+        ],
+        "labels": {
+          "en": "Cedar"
+        },
+        "population": 8254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.595,
+          40.176500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "169",
+        "area": 0.15774799999999786,
+        "bounding_box": [
+          -97.821,
+          40.002,
+          -97.369,
+          40.351
+        ],
+        "point": [
+          -97.595,
+          40.176500000000004
+        ],
+        "labels": {
+          "en": "Thayer"
+        },
+        "population": 4516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3365,
+          41.112
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "049",
+        "area": 0.1251799999999968,
+        "bounding_box": [
+          -102.621,
+          41.002,
+          -102.052,
+          41.222
+        ],
+        "point": [
+          -102.3365,
+          41.112
+        ],
+        "labels": {
+          "en": "Deuel"
+        },
+        "population": 1815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.003,
+          41.721500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "123",
+        "area": 0.41617800000000515,
+        "bounding_box": [
+          -103.37,
+          41.438,
+          -102.636,
+          42.005
+        ],
+        "point": [
+          -103.003,
+          41.721500000000006
+        ],
+        "labels": {
+          "en": "Morrill"
+        },
+        "population": 4646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.502,
+          40.8725
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "079",
+        "area": 0.15355999999999773,
+        "bounding_box": [
+          -98.722,
+          40.698,
+          -98.282,
+          41.047
+        ],
+        "point": [
+          -98.502,
+          40.8725
+        ],
+        "labels": {
+          "en": "Hall"
+        },
+        "population": 63846
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.05449999999999,
+          40.935500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "081",
+        "area": 0.21707500000000438,
+        "bounding_box": [
+          -98.283,
+          40.698,
+          -97.826,
+          41.173
+        ],
+        "point": [
+          -98.05449999999999,
+          40.935500000000005
+        ],
+        "labels": {
+          "en": "Hamilton"
+        },
+        "population": 8807
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4545,
+          41.914
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "115",
+        "area": 0.1618200000000007,
+        "bounding_box": [
+          -99.687,
+          41.74,
+          -99.222,
+          42.088
+        ],
+        "point": [
+          -99.4545,
+          41.914
+        ],
+        "labels": {
+          "en": "Loup"
+        },
+        "population": 581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.382,
+          40.5245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "063",
+        "area": 0.2815020000000073,
+        "bounding_box": [
+          -100.783,
+          40.349,
+          -99.981,
+          40.7
+        ],
+        "point": [
+          -100.382,
+          40.5245
+        ],
+        "labels": {
+          "en": "Frontier"
+        },
+        "population": 2455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9975,
+          41.3955
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "125",
+        "area": 0.15438099999999977,
+        "bounding_box": [
+          -98.291,
+          41.264,
+          -97.704,
+          41.527
+        ],
+        "point": [
+          -97.9975,
+          41.3955
+        ],
+        "labels": {
+          "en": "Nance"
+        },
+        "population": 3444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.89750000000001,
+          42.66
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "107",
+        "area": 0.36795000000000544,
+        "bounding_box": [
+          -98.31,
+          42.437,
+          -97.485,
+          42.883
+        ],
+        "point": [
+          -97.89750000000001,
+          42.66
+        ],
+        "labels": {
+          "en": "Knox"
+        },
+        "population": 8069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6495,
+          40.851
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "135",
+        "area": 0.24633,
+        "bounding_box": [
+          -102.052,
+          40.698,
+          -101.247,
+          41.004
+        ],
+        "point": [
+          -101.6495,
+          40.851
+        ],
+        "labels": {
+          "en": "Perkins"
+        },
+        "population": 2737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.08000000000001,
+          41.56
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "037",
+        "area": 0.1273679999999995,
+        "bounding_box": [
+          -97.254,
+          41.377,
+          -96.906,
+          41.743
+        ],
+        "point": [
+          -97.08000000000001,
+          41.56
+        ],
+        "labels": {
+          "en": "Colfax"
+        },
+        "population": 10535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.137,
+          41.251000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "023",
+        "area": 0.18941999999999723,
+        "bounding_box": [
+          -97.368,
+          41.046,
+          -96.906,
+          41.456
+        ],
+        "point": [
+          -97.137,
+          41.251000000000005
+        ],
+        "labels": {
+          "en": "Butler"
+        },
+        "population": 7885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.126,
+          42.542500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ne",
+        "region_child": "031",
+        "area": 1.7511340000000002,
+        "bounding_box": [
+          -102.085,
+          42.086,
+          -100.167,
+          42.999
+        ],
+        "point": [
+          -101.126,
+          42.542500000000004
+        ],
+        "labels": {
+          "en": "Cherry"
+        },
+        "population": 5333
+      }
+    }
+  ]
+}

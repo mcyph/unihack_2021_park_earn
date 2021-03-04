@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.91499999999999,
+          23.8415
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mz",
+        "region_child": "aizawl",
+        "area": 0.6640079999999877,
+        "bounding_box": [
+          92.623,
+          23.273,
+          93.207,
+          24.41
+        ],
+        "point": [
+          92.91499999999999,
+          23.8415
+        ],
+        "labels": {
+          "en": "Aizawl"
+        },
+        "population": 487455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.2435,
+          23.7655
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mz",
+        "region_child": "champhai",
+        "area": 0.2533649999999998,
+        "bounding_box": [
+          93.044,
+          23.448,
+          93.443,
+          24.083
+        ],
+        "point": [
+          93.2435,
+          23.7655
+        ],
+        "labels": {
+          "en": "Champhai"
+        },
+        "population": 83838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.2025,
+          23.1965
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mz",
+        "region_child": "champhai",
+        "area": 0.14818899999999569,
+        "bounding_box": [
+          93.013,
+          23.001,
+          93.392,
+          23.392
+        ],
+        "point": [
+          93.2025,
+          23.1965
+        ],
+        "labels": {
+          "en": "Champhai"
+        },
+        "population": 83838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.71600000000001,
+          24.236
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mz",
+        "region_child": "kolasib",
+        "area": 0.21093600000000534,
+        "bounding_box": [
+          92.529,
+          23.954,
+          92.903,
+          24.518
+        ],
+        "point": [
+          92.71600000000001,
+          24.236
+        ],
+        "labels": {
+          "en": "Kolasib"
+        },
+        "population": 117387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.738,
+          22.369999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mz",
+        "region_child": "lawngtlai",
+        "area": 0.35815599999999875,
+        "bounding_box": [
+          92.509,
+          21.979,
+          92.967,
+          22.761
+        ],
+        "point": [
+          92.738,
+          22.369999999999997
+        ],
+        "labels": {
+          "en": "Lawngtlai"
+        },
+        "population": 135876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6505,
+          22.951
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mz",
+        "region_child": "lunglei",
+        "area": 0.5529719999999959,
+        "bounding_box": [
+          92.346,
+          22.497,
+          92.955,
+          23.405
+        ],
+        "point": [
+          92.6505,
+          22.951
+        ],
+        "labels": {
+          "en": "Lunglei"
+        },
+        "population": 164117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.46600000000001,
+          23.756500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mz",
+        "region_child": "mamit",
+        "area": 0.41340199999999255,
+        "bounding_box": [
+          92.257,
+          23.262,
+          92.675,
+          24.251
+        ],
+        "point": [
+          92.46600000000001,
+          23.756500000000003
+        ],
+        "labels": {
+          "en": "Mamit"
+        },
+        "population": 139929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0155,
+          22.375
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mz",
+        "region_child": "saiha",
+        "area": 0.32842200000000094,
+        "bounding_box": [
+          92.825,
+          21.944,
+          93.206,
+          22.806
+        ],
+        "point": [
+          93.0155,
+          22.375
+        ],
+        "labels": {
+          "en": "Saiha"
+        },
+        "population": 84909
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9405,
+          23.262999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mz",
+        "region_child": "serchhip",
+        "area": 0.2667600000000025,
+        "bounding_box": [
+          92.684,
+          23.003,
+          93.197,
+          23.523
+        ],
+        "point": [
+          92.9405,
+          23.262999999999998
+        ],
+        "labels": {
+          "en": "Serchhip"
+        },
+        "population": 61871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.22149999999999,
+          23.5395
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mz",
+        "region_child": "khawzawl",
+        "area": 0.1671430000000023,
+        "bounding_box": [
+          93.041,
+          23.308,
+          93.402,
+          23.771
+        ],
+        "point": [
+          93.22149999999999,
+          23.5395
+        ],
+        "labels": {
+          "en": "Khawzawl"
+        },
+        "population": 54968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.009,
+          22.972
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mz",
+        "region_child": "hnahthial",
+        "area": 0.13603200000000515,
+        "bounding_box": [
+          92.853,
+          22.754,
+          93.165,
+          23.19
+        ],
+        "point": [
+          93.009,
+          22.972
+        ],
+        "labels": {
+          "en": "Hnahthial"
+        },
+        "population": 29299
+      }
+    }
+  ]
+}

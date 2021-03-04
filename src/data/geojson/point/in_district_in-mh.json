@@ -1,0 +1,1115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2385,
+          21.1455
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "gondia",
+        "area": 0.8681849999999894,
+        "bounding_box": [
+          79.796,
+          20.655,
+          80.681,
+          21.636
+        ],
+        "point": [
+          80.2385,
+          21.1455
+        ],
+        "labels": {
+          "en": "Gondia"
+        },
+        "population": 1577009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7755,
+          21.122999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "bhandara",
+        "area": 0.6281860000000055,
+        "bounding_box": [
+          79.449,
+          20.642,
+          80.102,
+          21.604
+        ],
+        "point": [
+          79.7755,
+          21.122999999999998
+        ],
+        "labels": {
+          "en": "Bhandara"
+        },
+        "population": 1132390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5805,
+          20.8425
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "jalgaon",
+        "area": 1.8720749999999888,
+        "bounding_box": [
+          74.763,
+          20.27,
+          76.398,
+          21.415
+        ],
+        "point": [
+          75.5805,
+          20.8425
+        ],
+        "labels": {
+          "en": "Jalgaon"
+        },
+        "population": 4760854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.637,
+          20.825000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "wardha",
+        "area": 1.2404160000000082,
+        "bounding_box": [
+          78.053,
+          20.294,
+          79.221,
+          21.356
+        ],
+        "point": [
+          78.637,
+          20.825000000000003
+        ],
+        "labels": {
+          "en": "Wardha"
+        },
+        "population": 1365742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.37299999999999,
+          20.5655
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "buldhana",
+        "area": 1.3040999999999858,
+        "bounding_box": [
+          75.923,
+          19.841,
+          76.823,
+          21.29
+        ],
+        "point": [
+          76.37299999999999,
+          20.5655
+        ],
+        "labels": {
+          "en": "Buldhana"
+        },
+        "population": 2938009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1555,
+          20.761
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "akola",
+        "area": 0.9029880000000032,
+        "bounding_box": [
+          76.691,
+          20.275,
+          77.62,
+          21.247
+        ],
+        "point": [
+          77.1555,
+          20.761
+        ],
+        "labels": {
+          "en": "Akola"
+        },
+        "population": 2027691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.092,
+          20.2235
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "nashik",
+        "area": 2.156394000000009,
+        "bounding_box": [
+          73.249,
+          19.584,
+          74.935,
+          20.863
+        ],
+        "point": [
+          74.092,
+          20.2235
+        ],
+        "labels": {
+          "en": "Nashik"
+        },
+        "population": 7301774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3175,
+          19.758000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "gadchiroli",
+        "area": 2.5007940000000026,
+        "bounding_box": [
+          79.737,
+          18.681,
+          80.898,
+          20.835
+        ],
+        "point": [
+          80.3175,
+          19.758000000000003
+        ],
+        "labels": {
+          "en": "Gadchiroli"
+        },
+        "population": 1184913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1485,
+          20.287
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "washim",
+        "area": 0.9530399999999976,
+        "bounding_box": [
+          76.607,
+          19.847,
+          77.69,
+          20.727
+        ],
+        "point": [
+          77.1485,
+          20.287
+        ],
+        "labels": {
+          "en": "Washim"
+        },
+        "population": 1362417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3945,
+          20.097
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "chandrapur",
+        "area": 1.5197159999999847,
+        "bounding_box": [
+          78.799,
+          19.459,
+          79.99,
+          20.735
+        ],
+        "point": [
+          79.3945,
+          20.097
+        ],
+        "labels": {
+          "en": "Chandrapur"
+        },
+        "population": 2347942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2165,
+          20.063499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "yavatmal",
+        "area": 2.3604209999999983,
+        "bounding_box": [
+          77.285,
+          19.43,
+          79.148,
+          20.697
+        ],
+        "point": [
+          78.2165,
+          20.063499999999998
+        ],
+        "labels": {
+          "en": "Yavatmal"
+        },
+        "population": 3119839
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.061,
+          19.9175
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "jalna",
+        "area": 1.225224000000015,
+        "bounding_box": [
+          75.585,
+          19.274,
+          76.537,
+          20.561
+        ],
+        "point": [
+          76.061,
+          19.9175
+        ],
+        "labels": {
+          "en": "Jalna"
+        },
+        "population": 2327884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6,
+          19.162
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "ahmednagar",
+        "area": 3.2786880000000065,
+        "bounding_box": [
+          73.616,
+          18.329,
+          75.584,
+          19.995
+        ],
+        "point": [
+          74.6,
+          19.162
+        ],
+        "labels": {
+          "en": "Ahmednagar"
+        },
+        "population": 5106989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0,
+          19.5435
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "hingoli",
+        "area": 0.9242719999999983,
+        "bounding_box": [
+          76.512,
+          19.07,
+          77.488,
+          20.017
+        ],
+        "point": [
+          77.0,
+          19.5435
+        ],
+        "labels": {
+          "en": "Hingoli"
+        },
+        "population": 1419105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.64750000000001,
+          19.094
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "nanded",
+        "area": 2.3849699999999787,
+        "bounding_box": [
+          76.93,
+          18.263,
+          78.365,
+          19.925
+        ],
+        "point": [
+          77.64750000000001,
+          19.094
+        ],
+        "labels": {
+          "en": "Nanded"
+        },
+        "population": 3861462
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6645,
+          19.2905
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "parbhani",
+        "area": 0.986952999999996,
+        "bounding_box": [
+          76.208,
+          18.75,
+          77.121,
+          19.831
+        ],
+        "point": [
+          76.6645,
+          19.2905
+        ],
+        "labels": {
+          "en": "Parbhani"
+        },
+        "population": 2070250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.244,
+          18.6445
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "pune",
+        "area": 2.7611580000000173,
+        "bounding_box": [
+          73.323,
+          17.895,
+          75.165,
+          19.394
+        ],
+        "point": [
+          74.244,
+          18.6445
+        ],
+        "labels": {
+          "en": "Pune"
+        },
+        "population": 11977145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.771,
+          18.992
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "beed",
+        "area": 1.737251999999991,
+        "bounding_box": [
+          74.808,
+          18.541,
+          76.734,
+          19.443
+        ],
+        "point": [
+          75.771,
+          18.992
+        ],
+        "labels": {
+          "en": "Beed"
+        },
+        "population": 3037118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.852,
+          18.956
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "mumbai",
+        "area": 0.022447999999999673,
+        "bounding_box": [
+          72.791,
+          18.864,
+          72.913,
+          19.048
+        ],
+        "point": [
+          72.852,
+          18.956
+        ],
+        "labels": {
+          "en": "Mumbai"
+        },
+        "population": 2741295
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7495,
+          18.354
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "latur",
+        "area": 1.05777,
+        "bounding_box": [
+          76.202,
+          17.871,
+          77.297,
+          18.837
+        ],
+        "point": [
+          76.7495,
+          18.354
+        ],
+        "labels": {
+          "en": "Latur"
+        },
+        "population": 2792004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0385,
+          18.168999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "osmanabad",
+        "area": 1.5892799999999967,
+        "bounding_box": [
+          75.286,
+          17.641,
+          76.791,
+          18.697
+        ],
+        "point": [
+          76.0385,
+          18.168999999999997
+        ],
+        "labels": {
+          "en": "Osmanabad"
+        },
+        "population": 1916293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.518,
+          17.8495
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "solapur",
+        "area": 2.563554000000004,
+        "bounding_box": [
+          74.607,
+          17.146,
+          76.429,
+          18.553
+        ],
+        "point": [
+          75.518,
+          17.8495
+        ],
+        "labels": {
+          "en": "Solapur"
+        },
+        "population": 4814417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.22,
+          17.636499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "satara",
+        "area": 1.4968519999999965,
+        "bounding_box": [
+          73.534,
+          17.091,
+          74.906,
+          18.182
+        ],
+        "point": [
+          74.22,
+          17.636499999999998
+        ],
+        "labels": {
+          "en": "Satara"
+        },
+        "population": 3144272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.446,
+          17.2825
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "ratnagiri",
+        "area": 1.3152180000000064,
+        "bounding_box": [
+          73.029,
+          16.494,
+          73.863,
+          18.071
+        ],
+        "point": [
+          73.446,
+          17.2825
+        ],
+        "labels": {
+          "en": "Ratnagiri"
+        },
+        "population": 1516752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.685,
+          17.171
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "sangli",
+        "area": 1.8094080000000061,
+        "bounding_box": [
+          73.693,
+          16.715,
+          75.677,
+          17.627
+        ],
+        "point": [
+          74.685,
+          17.171
+        ],
+        "labels": {
+          "en": "Sangli"
+        },
+        "population": 3248063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1925,
+          16.462
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "kolhapur",
+        "area": 1.4587199999999847,
+        "bounding_box": [
+          73.686,
+          15.742,
+          74.699,
+          17.182
+        ],
+        "point": [
+          74.1925,
+          16.462
+        ],
+        "labels": {
+          "en": "Kolhapur"
+        },
+        "population": 3958808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7595,
+          16.1355
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "sindhudurg",
+        "area": 0.9520410000000004,
+        "bounding_box": [
+          73.31,
+          15.606,
+          74.209,
+          16.665
+        ],
+        "point": [
+          73.7595,
+          16.1355
+        ],
+        "labels": {
+          "en": "Sindhudurg"
+        },
+        "population": 805451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2895,
+          19.359499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "thane",
+        "area": 0.7531949999999978,
+        "bounding_box": [
+          72.784,
+          18.987,
+          73.795,
+          19.732
+        ],
+        "point": [
+          73.2895,
+          19.359499999999997
+        ],
+        "labels": {
+          "en": "Thane"
+        },
+        "population": 9847896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07900000000001,
+          19.7575
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "palghar",
+        "area": 0.7962719999999991,
+        "bounding_box": [
+          72.655,
+          19.288,
+          73.503,
+          20.227
+        ],
+        "point": [
+          73.07900000000001,
+          19.7575
+        ],
+        "labels": {
+          "en": "Palghar"
+        },
+        "population": 3784167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9925,
+          20.225
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "palghar",
+        "area": 0.00048600000000003686,
+        "bounding_box": [
+          72.979,
+          20.216,
+          73.006,
+          20.234
+        ],
+        "point": [
+          72.9925,
+          20.225
+        ],
+        "labels": {
+          "en": "Palghar"
+        },
+        "population": 3784167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.176,
+          21.517
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "nandurbar",
+        "area": 1.2387320000000064,
+        "bounding_box": [
+          73.577,
+          21.0,
+          74.775,
+          22.034
+        ],
+        "point": [
+          74.176,
+          21.517
+        ],
+        "labels": {
+          "en": "Nandurbar"
+        },
+        "population": 2037992
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.53399999999999,
+          21.155
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "amravati",
+        "area": 2.24598000000001,
+        "bounding_box": [
+          76.621,
+          20.54,
+          78.447,
+          21.77
+        ],
+        "point": [
+          77.53399999999999,
+          21.155
+        ],
+        "labels": {
+          "en": "Amravati"
+        },
+        "population": 3200113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.52799999999999,
+          21.131
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "dhule",
+        "area": 1.3641360000000091,
+        "bounding_box": [
+          73.85,
+          20.628,
+          75.206,
+          21.634
+        ],
+        "point": [
+          74.52799999999999,
+          21.131
+        ],
+        "labels": {
+          "en": "Dhule"
+        },
+        "population": 2456215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.952,
+          21.1525
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "nagpur",
+        "area": 1.601434000000011,
+        "bounding_box": [
+          78.249,
+          20.583,
+          79.655,
+          21.722
+        ],
+        "point": [
+          78.952,
+          21.1525
+        ],
+        "labels": {
+          "en": "Nagpur"
+        },
+        "population": 5241866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.31700000000001,
+          20.0215
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "aurangabad",
+        "area": 1.8661500000000022,
+        "bounding_box": [
+          74.592,
+          19.378,
+          76.042,
+          20.665
+        ],
+        "point": [
+          75.31700000000001,
+          20.0215
+        ],
+        "labels": {
+          "en": "Aurangabad"
+        },
+        "population": 4528834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.249,
+          18.490499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "raigad",
+        "area": 1.066686000000004,
+        "bounding_box": [
+          72.832,
+          17.851,
+          73.666,
+          19.13
+        ],
+        "point": [
+          73.249,
+          18.490499999999997
+        ],
+        "labels": {
+          "en": "Raigad"
+        },
+        "population": 3075046
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.878,
+          19.124499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mh",
+        "region_child": "mumbai suburban",
+        "area": 0.05895600000000181,
+        "bounding_box": [
+          72.776,
+          18.98,
+          72.98,
+          19.269
+        ],
+        "point": [
+          72.878,
+          19.124499999999998
+        ],
+        "labels": {
+          "en": "Mumbai Suburban"
+        },
+        "population": 10805575
+      }
+    }
+  ]
+}

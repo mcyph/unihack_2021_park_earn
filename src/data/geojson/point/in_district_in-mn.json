@@ -1,0 +1,515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4385,
+          24.798499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "kamjong",
+        "area": 0.38676300000000213,
+        "bounding_box": [
+          94.133,
+          24.482,
+          94.744,
+          25.115
+        ],
+        "point": [
+          94.4385,
+          24.798499999999997
+        ],
+        "labels": {
+          "en": "Kamjong"
+        },
+        "population": 61396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1235,
+          25.3925
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "senapati",
+        "area": 0.3252950000000015,
+        "bounding_box": [
+          93.758,
+          25.17,
+          94.489,
+          25.615
+        ],
+        "point": [
+          94.1235,
+          25.3925
+        ],
+        "labels": {
+          "en": "Senapati"
+        },
+        "population": 460047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.566,
+          25.061
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "tamenglong",
+        "area": 0.6271200000000026,
+        "bounding_box": [
+          93.176,
+          24.659,
+          93.956,
+          25.463
+        ],
+        "point": [
+          93.566,
+          25.061
+        ],
+        "labels": {
+          "en": "Tamenglong"
+        },
+        "population": 139067
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.858,
+          24.7565
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "imphal west",
+        "area": 0.08113600000000062,
+        "bounding_box": [
+          93.77,
+          24.526,
+          93.946,
+          24.987
+        ],
+        "point": [
+          93.858,
+          24.7565
+        ],
+        "labels": {
+          "en": "Imphal West"
+        },
+        "population": 587219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.943,
+          24.3885
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "kakching",
+        "area": 0.07959000000000255,
+        "bounding_box": [
+          93.838,
+          24.199,
+          94.048,
+          24.578
+        ],
+        "point": [
+          93.943,
+          24.3885
+        ],
+        "labels": {
+          "en": "Kakching"
+        },
+        "population": 179541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.79249999999999,
+          24.5165
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "bishnupur",
+        "area": 0.08448300000000304,
+        "bounding_box": [
+          93.698,
+          24.293,
+          93.887,
+          24.74
+        ],
+        "point": [
+          93.79249999999999,
+          24.5165
+        ],
+        "labels": {
+          "en": "Bishnupur"
+        },
+        "population": 301267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8735,
+          24.281
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "bishnupur",
+        "area": 0.00017600000000017794,
+        "bounding_box": [
+          93.868,
+          24.273,
+          93.879,
+          24.289
+        ],
+        "point": [
+          93.8735,
+          24.281
+        ],
+        "labels": {
+          "en": "Bishnupur"
+        },
+        "population": 301267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.99799999999999,
+          24.167499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "chandel",
+        "area": 0.34386599999999745,
+        "bounding_box": [
+          93.741,
+          23.833,
+          94.255,
+          24.502
+        ],
+        "point": [
+          93.99799999999999,
+          24.167499999999997
+        ],
+        "labels": {
+          "en": "Chandel"
+        },
+        "population": 122890
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61449999999999,
+          24.2815
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "churachandpur",
+        "area": 0.35919100000000637,
+        "bounding_box": [
+          93.35,
+          23.942,
+          93.879,
+          24.621
+        ],
+        "point": [
+          93.61449999999999,
+          24.2815
+        ],
+        "labels": {
+          "en": "Churachandpur"
+        },
+        "population": 256869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0155,
+          24.852
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "imphal east",
+        "area": 0.09527399999999814,
+        "bounding_box": [
+          93.897,
+          24.651,
+          94.134,
+          25.053
+        ],
+        "point": [
+          94.0155,
+          24.852
+        ],
+        "labels": {
+          "en": "Imphal East"
+        },
+        "population": 441561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1515,
+          24.677500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "jiribam",
+        "area": 0.04556300000000001,
+        "bounding_box": [
+          93.071,
+          24.536,
+          93.232,
+          24.819
+        ],
+        "point": [
+          93.1515,
+          24.677500000000002
+        ],
+        "labels": {
+          "en": "Jiribam"
+        },
+        "population": 57980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.961,
+          25.005499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "kangpokpi",
+        "area": 0.39417400000000014,
+        "bounding_box": [
+          93.708,
+          24.616,
+          94.214,
+          25.395
+        ],
+        "point": [
+          93.961,
+          25.005499999999998
+        ],
+        "labels": {
+          "en": "Kangpokpi"
+        },
+        "population": 268118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0155,
+          24.622999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "thoubal",
+        "area": 0.05414200000000058,
+        "bounding_box": [
+          93.889,
+          24.516,
+          94.142,
+          24.73
+        ],
+        "point": [
+          94.0155,
+          24.622999999999998
+        ],
+        "labels": {
+          "en": "Thoubal"
+        },
+        "population": 321601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.21000000000001,
+          24.3735
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "tengnoupal",
+        "area": 0.2044859999999948,
+        "bounding_box": [
+          94.013,
+          24.114,
+          94.407,
+          24.633
+        ],
+        "point": [
+          94.21000000000001,
+          24.3735
+        ],
+        "labels": {
+          "en": "Tengnoupal"
+        },
+        "population": 79305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4285,
+          25.3095
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "ukhrul",
+        "area": 0.4750650000000075,
+        "bounding_box": [
+          94.118,
+          24.927,
+          94.739,
+          25.692
+        ],
+        "point": [
+          94.4285,
+          25.3095
+        ],
+        "labels": {
+          "en": "Ukhrul"
+        },
+        "population": 178823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.465,
+          24.6655
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "noney",
+        "area": 0.19982599999999806,
+        "bounding_box": [
+          93.172,
+          24.495,
+          93.758,
+          24.836
+        ],
+        "point": [
+          93.465,
+          24.6655
+        ],
+        "labels": {
+          "en": "Noney"
+        },
+        "population": 58416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.232,
+          24.299500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-mn",
+        "region_child": "pherzawl",
+        "area": 0.28852599999999967,
+        "bounding_box": [
+          92.973,
+          24.021,
+          93.491,
+          24.578
+        ],
+        "point": [
+          93.232,
+          24.299500000000002
+        ],
+        "labels": {
+          "en": "Pherzawl"
+        },
+        "population": 53904
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.54649999999998,
+          -14.211
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-as",
+        "region_child": "020",
+        "area": 0.07610800000000179,
+        "bounding_box": [
+          -169.726,
+          -14.317,
+          -169.367,
+          -14.105
+        ],
+        "point": [
+          -169.54649999999998,
+          -14.211
+        ],
+        "labels": {
+          "en": "Manu'a"
+        },
+        "population": 1104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.64350000000002,
+          -14.276
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-as",
+        "region_child": "010",
+        "area": 0.06139999999999737,
+        "bounding_box": [
+          -170.797,
+          -14.376,
+          -170.49,
+          -14.176
+        ],
+        "point": [
+          -170.64350000000002,
+          -14.276
+        ],
+        "labels": {
+          "en": "Eastern"
+        },
+        "population": 22064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.778,
+          -14.3335
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-as",
+        "region_child": "050",
+        "area": 0.0387519999999982,
+        "bounding_box": [
+          -170.89,
+          -14.42,
+          -170.666,
+          -14.247
+        ],
+        "point": [
+          -170.778,
+          -14.3335
+        ],
+        "labels": {
+          "en": "Western"
+        },
+        "population": 33262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.076,
+          -11.0535
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-as",
+        "region_child": "040",
+        "area": 0.014689999999999427,
+        "bounding_box": [
+          -171.141,
+          -11.11,
+          -171.011,
+          -10.997
+        ],
+        "point": [
+          -171.076,
+          -11.0535
+        ],
+        "labels": {
+          "en": "Swains Island"
+        },
+        "population": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.1635,
+          -14.54
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-as",
+        "region_child": "030",
+        "area": 0.015251999999998885,
+        "bounding_box": [
+          -168.225,
+          -14.602,
+          -168.102,
+          -14.478
+        ],
+        "point": [
+          -168.1635,
+          -14.54
+        ],
+        "labels": {
+          "en": "Rose Island"
+        },
+        "population": 0
+      }
+    }
+  ]
+}

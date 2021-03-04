@@ -1,0 +1,695 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.179,
+          34.513999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "kupwara",
+        "area": 0.46082399999999624,
+        "bounding_box": [
+          73.757,
+          34.241,
+          74.601,
+          34.787
+        ],
+        "point": [
+          74.179,
+          34.513999999999996
+        ],
+        "labels": {
+          "en": "Kupwara"
+        },
+        "population": 1057182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.90549999999999,
+          34.456999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "bandipora",
+        "area": 0.526212000000004,
+        "bounding_box": [
+          74.439,
+          34.175,
+          75.372,
+          34.739
+        ],
+        "point": [
+          74.90549999999999,
+          34.456999999999994
+        ],
+        "labels": {
+          "en": "Bandipora"
+        },
+        "population": 379467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.301,
+          34.176500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "baramulla",
+        "area": 0.4403739999999994,
+        "bounding_box": [
+          73.894,
+          33.906,
+          74.708,
+          34.447
+        ],
+        "point": [
+          74.301,
+          34.176500000000004
+        ],
+        "labels": {
+          "en": "Baramulla"
+        },
+        "population": 1235791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.071,
+          34.29
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "ganderbal",
+        "area": 0.2964960000000005,
+        "bounding_box": [
+          74.645,
+          34.116,
+          75.497,
+          34.464
+        ],
+        "point": [
+          75.071,
+          34.29
+        ],
+        "labels": {
+          "en": "Ganderbal"
+        },
+        "population": 575091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.312,
+          33.81
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "anantnag",
+        "area": 0.504872000000004,
+        "bounding_box": [
+          75.029,
+          33.364,
+          75.595,
+          34.256
+        ],
+        "point": [
+          75.312,
+          33.81
+        ],
+        "labels": {
+          "en": "Anantnag"
+        },
+        "population": 1294002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.08449999999999,
+          33.6295
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "kishtwar",
+        "area": 1.690412999999993,
+        "bounding_box": [
+          75.39,
+          33.021,
+          76.779,
+          34.238
+        ],
+        "point": [
+          76.08449999999999,
+          33.6295
+        ],
+        "labels": {
+          "en": "Kishtwar"
+        },
+        "population": 231439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9165,
+          34.1095
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "srinagar",
+        "area": 0.0880770000000029,
+        "bounding_box": [
+          74.681,
+          34.016,
+          75.152,
+          34.203
+        ],
+        "point": [
+          74.9165,
+          34.1095
+        ],
+        "labels": {
+          "en": "Srinagar"
+        },
+        "population": 889341
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.658,
+          33.91
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "budgam",
+        "area": 0.23449600000000304,
+        "bounding_box": [
+          74.402,
+          33.681,
+          74.914,
+          34.139
+        ],
+        "point": [
+          74.658,
+          33.91
+        ],
+        "labels": {
+          "en": "Budgam"
+        },
+        "population": 992466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9735,
+          33.95
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "pulwama",
+        "area": 0.17401399999999823,
+        "bounding_box": [
+          74.713,
+          33.783,
+          75.234,
+          34.117
+        ],
+        "point": [
+          74.9735,
+          33.95
+        ],
+        "labels": {
+          "en": "Pulwama"
+        },
+        "population": 1009161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.03049999999999,
+          33.783
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "punch",
+        "area": 0.8072399999999951,
+        "bounding_box": [
+          73.488,
+          33.411,
+          74.573,
+          34.155
+        ],
+        "point": [
+          74.03049999999999,
+          33.783
+        ],
+        "labels": {
+          "en": "Punch"
+        },
+        "population": 2047456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.80799999999999,
+          33.721500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "shopiyan",
+        "area": 0.09437999999999909,
+        "bounding_box": [
+          74.566,
+          33.624,
+          75.05,
+          33.819
+        ],
+        "point": [
+          74.80799999999999,
+          33.721500000000006
+        ],
+        "labels": {
+          "en": "Shopiyan"
+        },
+        "population": 389236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.845,
+          33.6245
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "kulgam",
+        "area": 0.20985400000000207,
+        "bounding_box": [
+          74.514,
+          33.466,
+          75.176,
+          33.783
+        ],
+        "point": [
+          74.845,
+          33.6245
+        ],
+        "labels": {
+          "en": "Kulgam"
+        },
+        "population": 574548
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3445,
+          33.265
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "rajouri",
+        "area": 0.4364599999999958,
+        "bounding_box": [
+          73.997,
+          32.951,
+          74.692,
+          33.579
+        ],
+        "point": [
+          74.3445,
+          33.265
+        ],
+        "labels": {
+          "en": "Rajouri"
+        },
+        "population": 679998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1935,
+          33.3305
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "ramban",
+        "area": 0.19372500000000198,
+        "bounding_box": [
+          75.009,
+          33.068,
+          75.378,
+          33.593
+        ],
+        "point": [
+          75.1935,
+          33.3305
+        ],
+        "labels": {
+          "en": "Ramban"
+        },
+        "population": 359238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8065,
+          33.206
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "reasi",
+        "area": 0.36442800000000636,
+        "bounding_box": [
+          74.52,
+          32.888,
+          75.093,
+          33.524
+        ],
+        "point": [
+          74.8065,
+          33.206
+        ],
+        "labels": {
+          "en": "Reasi"
+        },
+        "population": 395084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7785,
+          33.1325
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "doda",
+        "area": 0.47986699999999743,
+        "bounding_box": [
+          75.335,
+          32.862,
+          76.222,
+          33.403
+        ],
+        "point": [
+          75.7785,
+          33.1325
+        ],
+        "labels": {
+          "en": "Doda"
+        },
+        "population": 564272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7365,
+          32.7685
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "jammu",
+        "area": 0.5025149999999976,
+        "bounding_box": [
+          74.307,
+          32.476,
+          75.166,
+          33.061
+        ],
+        "point": [
+          74.7365,
+          32.7685
+        ],
+        "labels": {
+          "en": "Jammu"
+        },
+        "population": 1789628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5645,
+          32.583
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "kathua",
+        "area": 0.4574300000000007,
+        "bounding_box": [
+          75.192,
+          32.276,
+          75.937,
+          32.89
+        ],
+        "point": [
+          75.5645,
+          32.583
+        ],
+        "labels": {
+          "en": "Kathua"
+        },
+        "population": 639902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3355,
+          32.9135
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "udhampur",
+        "area": 0.4011150000000019,
+        "bounding_box": [
+          74.978,
+          32.633,
+          75.693,
+          33.194
+        ],
+        "point": [
+          75.3355,
+          32.9135
+        ],
+        "labels": {
+          "en": "Udhampur"
+        },
+        "population": 695457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1735,
+          32.677
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "udhampur",
+        "area": 0.0024699999999996994,
+        "bounding_box": [
+          75.141,
+          32.658,
+          75.206,
+          32.696
+        ],
+        "point": [
+          75.1735,
+          32.677
+        ],
+        "labels": {
+          "en": "Udhampur"
+        },
+        "population": 695457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1095,
+          32.576
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "samba",
+        "area": 0.1553100000000026,
+        "bounding_box": [
+          74.877,
+          32.409,
+          75.342,
+          32.743
+        ],
+        "point": [
+          75.1095,
+          32.576
+        ],
+        "labels": {
+          "en": "Samba"
+        },
+        "population": 435967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9885,
+          34.59
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "muzaffarabad",
+        "area": 1.2592440000000025,
+        "bounding_box": [
+          73.39,
+          34.064,
+          74.587,
+          35.116
+        ],
+        "point": [
+          73.9885,
+          34.59
+        ],
+        "labels": {
+          "en": "Muzaffarabad"
+        },
+        "population": 864124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.004,
+          33.2365
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-jk",
+        "region_child": "mirpur",
+        "area": 0.855427999999999,
+        "bounding_box": [
+          73.558,
+          32.757,
+          74.45,
+          33.716
+        ],
+        "point": [
+          74.004,
+          33.2365
+        ],
+        "labels": {
+          "en": "Mirpur"
+        },
+        "population": 1496923
+      }
+    }
+  ]
+}

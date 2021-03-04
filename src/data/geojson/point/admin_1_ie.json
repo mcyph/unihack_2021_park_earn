@@ -1,0 +1,1860 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.868,
+          54.918
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-dl",
+        "area": 1.6889599999999927,
+        "bounding_box": [
+          -8.796,
+          54.463,
+          -6.94,
+          55.373
+        ],
+        "point": [
+          -7.868,
+          54.918
+        ],
+        "labels": {
+          "alt": "Dún na nGall|Tyrconnel",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة دونيجال",
+          "bn": "কাউন্টি ডোনেগাল",
+          "de": "County Donegal",
+          "en": "County Donegal",
+          "es": "Condado de Donegal",
+          "fr": "Comté de Donegal",
+          "el": "Κομητεία Ντονεγκάλ",
+          "hi": "काउंटी डोनेगल",
+          "hu": "Donegal megye",
+          "id": "County Donegal",
+          "it": "Donegal",
+          "ja": "ドニゴール州",
+          "ko": "도니골 주",
+          "nl": "County Donegal",
+          "pl": "Donegal",
+          "pt": "Condado de Donegal",
+          "ru": "Донегол",
+          "sv": "Donegal",
+          "tr": "Donegal Kontluğu",
+          "vi": "Hạt Donegal",
+          "zh": "多尼戈爾郡"
+        },
+        "population": 180306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0,
+          54.144999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-lm",
+        "area": 0.5474520000000027,
+        "bounding_box": [
+          -8.411,
+          53.812,
+          -7.589,
+          54.478
+        ],
+        "point": [
+          -8.0,
+          54.144999999999996
+        ],
+        "labels": {
+          "alt": "Liatroim",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة ليتريم",
+          "bn": "কাউন্টি লিত্রম",
+          "de": "Leitrim",
+          "en": "County Leitrim",
+          "es": "Condado de Leitrim",
+          "fr": "Comté de Leitrim",
+          "el": "Κομητεία Λέιτριμ",
+          "hi": "काउंटी लीट्रिम",
+          "hu": null,
+          "id": "County Leitrim",
+          "it": "Leitrim",
+          "ja": "リートリム州",
+          "ko": "리트림 주",
+          "nl": "County Leitrim",
+          "pl": "Leitrim",
+          "pt": "Condado de Leitrim",
+          "ru": "Литрим",
+          "sv": "Leitrim",
+          "tr": "Leitrim County",
+          "vi": "Hạt Leitrim",
+          "zh": "利特里姆郡"
+        },
+        "population": 37908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.397500000000001,
+          54.036
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-cn",
+        "area": 0.6832739999999953,
+        "bounding_box": [
+          -8.047,
+          53.773,
+          -6.748,
+          54.299
+        ],
+        "point": [
+          -7.397500000000001,
+          54.036
+        ],
+        "labels": {
+          "alt": "An Cabhán",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة كافان",
+          "bn": "কাউন্টি কভেন",
+          "de": "County Cavan",
+          "en": "County Cavan",
+          "es": "Condado de Cavan",
+          "fr": "comté de Cavan",
+          "el": "Κομητεία Κάβαν",
+          "hi": "काउंटी कैवन",
+          "hu": "Cavan megye",
+          "id": "County Cavan",
+          "it": "Cavan",
+          "ja": "キャバン州",
+          "ko": "캐번 주",
+          "nl": "County Cavan",
+          "pl": "Cavan",
+          "pt": "Condado de Cavan",
+          "ru": "Каван",
+          "sv": "Cavan",
+          "tr": "Cavan County",
+          "vi": "Hạt Cavan",
+          "zh": "卡文郡"
+        },
+        "population": 96045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9335,
+          54.158500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-mn",
+        "area": 0.38785499999999823,
+        "bounding_box": [
+          -7.316,
+          53.905,
+          -6.551,
+          54.412
+        ],
+        "point": [
+          -6.9335,
+          54.158500000000004
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة موناغان",
+          "bn": "কাউন্টি মোনাঘান",
+          "de": "Monaghan",
+          "en": "County Monaghan",
+          "es": "Condado de Monaghan",
+          "fr": "Comté de Monaghan",
+          "el": "Κομητεία Μόναχαν",
+          "hi": "काउंटी मोनाघन",
+          "hu": "Monaghan megye",
+          "id": "County Monaghan",
+          "it": "Monaghan",
+          "ja": "モナハン州",
+          "ko": "모나한 주",
+          "nl": "County Monaghan",
+          "pl": "Monaghan",
+          "pt": "Condado de Monaghan",
+          "ru": "Монахан",
+          "sv": "Monaghan",
+          "tr": "Monaghan County",
+          "vi": "Hạt Monaghan",
+          "zh": "莫纳亨郡"
+        },
+        "population": 69015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3975,
+          53.907
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-lh",
+        "area": 0.21888599999999894,
+        "bounding_box": [
+          -6.684,
+          53.716,
+          -6.111,
+          54.098
+        ],
+        "point": [
+          -6.3975,
+          53.907
+        ],
+        "labels": {
+          "alt": "Lú",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة لاوث",
+          "bn": "কাউন্টি লৌথ",
+          "de": "County Louth",
+          "en": "County Louth",
+          "es": "Condado de Louth",
+          "fr": "comté de Louth",
+          "el": "Κομητεία Λάουθ",
+          "hi": "काउंटी लाउथ",
+          "hu": "Louth megye",
+          "id": "County Louth",
+          "it": "Louth",
+          "ja": "ラウス州",
+          "ko": "라우스 주",
+          "nl": "County Louth",
+          "pl": "Louth",
+          "pt": "Condado de Louth",
+          "ru": "Лаут",
+          "sv": "Louth",
+          "tr": "County Louth",
+          "vi": "Hạt Louth",
+          "zh": "劳斯郡"
+        },
+        "population": 129683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.273,
+          53.4965
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-d",
+        "area": 0.10889999999999941,
+        "bounding_box": [
+          -6.471,
+          53.359,
+          -6.075,
+          53.634
+        ],
+        "point": [
+          -6.273,
+          53.4965
+        ],
+        "labels": {
+          "alt": "Baile Átha Cliath",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة دبلن",
+          "bn": null,
+          "de": "County Dublin",
+          "en": "County Dublin",
+          "es": "Condado de Dublín",
+          "fr": "Comté de Dublin",
+          "el": "Κομητεία Δουβλίνου",
+          "hi": null,
+          "hu": null,
+          "id": "County Dublin",
+          "it": "Dublino",
+          "ja": "ダブリン州",
+          "ko": "더블린 주",
+          "nl": "County Dublin",
+          "pl": "Dublin",
+          "pt": "Condado de Dublin",
+          "ru": "Дублин",
+          "sv": "Dublin",
+          "tr": "Dublin ili",
+          "vi": null,
+          "zh": "都柏林地區"
+        },
+        "population": 1507565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.401,
+          53.2745
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-d",
+        "area": 0.048895999999998864,
+        "bounding_box": [
+          -6.529,
+          53.179,
+          -6.273,
+          53.37
+        ],
+        "point": [
+          -6.401,
+          53.2745
+        ],
+        "labels": {
+          "alt": "Baile Átha Cliath",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة دبلن",
+          "bn": null,
+          "de": "County Dublin",
+          "en": "County Dublin",
+          "es": "Condado de Dublín",
+          "fr": "Comté de Dublin",
+          "el": "Κομητεία Δουβλίνου",
+          "hi": null,
+          "hu": null,
+          "id": "County Dublin",
+          "it": "Dublino",
+          "ja": "ダブリン州",
+          "ko": "더블린 주",
+          "nl": "County Dublin",
+          "pl": "Dublin",
+          "pt": "Condado de Dublin",
+          "ru": "Дублин",
+          "sv": "Dublin",
+          "tr": "Dublin ili",
+          "vi": null,
+          "zh": "都柏林地區"
+        },
+        "population": 1507565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1875,
+          53.259
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-d",
+        "area": 0.022851999999999838,
+        "bounding_box": [
+          -6.286,
+          53.201,
+          -6.089,
+          53.317
+        ],
+        "point": [
+          -6.1875,
+          53.259
+        ],
+        "labels": {
+          "alt": "Baile Átha Cliath",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة دبلن",
+          "bn": null,
+          "de": "County Dublin",
+          "en": "County Dublin",
+          "es": "Condado de Dublín",
+          "fr": "Comté de Dublin",
+          "el": "Κομητεία Δουβλίνου",
+          "hi": null,
+          "hu": null,
+          "id": "County Dublin",
+          "it": "Dublino",
+          "ja": "ダブリン州",
+          "ko": "더블린 주",
+          "nl": "County Dublin",
+          "pl": "Dublin",
+          "pt": "Condado de Dublin",
+          "ru": "Дублин",
+          "sv": "Dublin",
+          "tr": "Dublin ili",
+          "vi": null,
+          "zh": "都柏林地區"
+        },
+        "population": 1507565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2485,
+          53.3645
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-d",
+        "area": 0.021472999999998955,
+        "bounding_box": [
+          -6.347,
+          53.31,
+          -6.15,
+          53.419
+        ],
+        "point": [
+          -6.2485,
+          53.3645
+        ],
+        "labels": {
+          "alt": "Baile Átha Cliath",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة دبلن",
+          "bn": null,
+          "de": "County Dublin",
+          "en": "County Dublin",
+          "es": "Condado de Dublín",
+          "fr": "Comté de Dublin",
+          "el": "Κομητεία Δουβλίνου",
+          "hi": null,
+          "hu": null,
+          "id": "County Dublin",
+          "it": "Dublino",
+          "ja": "ダブリン州",
+          "ko": "더블린 주",
+          "nl": "County Dublin",
+          "pl": "Dublin",
+          "pt": "Condado de Dublin",
+          "ru": "Дублин",
+          "sv": "Dublin",
+          "tr": "Dublin ili",
+          "vi": null,
+          "zh": "都柏林地區"
+        },
+        "population": 1507565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3885000000000005,
+          52.9535
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-ww",
+        "area": 0.4236029999999977,
+        "bounding_box": [
+          -6.78,
+          52.683,
+          -5.997,
+          53.224
+        ],
+        "point": [
+          -6.3885000000000005,
+          52.9535
+        ],
+        "labels": {
+          "alt": "Cill Mhantáin",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة ويكلاو",
+          "bn": "কাউন্টি উইকলো",
+          "de": "County Wicklow",
+          "en": "County Wicklow",
+          "es": "Condado de Wicklow",
+          "fr": "Comté de Wicklow",
+          "el": "Κομητεία Ουΐκλοου",
+          "hi": "काउंटी विकलो",
+          "hu": "Wicklow megye",
+          "id": "County Wicklow",
+          "it": "Wicklow",
+          "ja": "ウィックロー州",
+          "ko": "위클로 주",
+          "nl": "County Wicklow",
+          "pl": "Wicklow",
+          "pt": "Condado de Wicklow",
+          "ru": "Уиклоу",
+          "sv": "Wicklow",
+          "tr": "County Wicklow",
+          "vi": "Hạt Wicklow",
+          "zh": "威克洛郡"
+        },
+        "population": 147345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5725,
+          52.47
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-wx",
+        "area": 0.5361479999999963,
+        "bounding_box": [
+          -6.994,
+          52.152,
+          -6.151,
+          52.788
+        ],
+        "point": [
+          -6.5725,
+          52.47
+        ],
+        "labels": {
+          "alt": "Loch Garman",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة وكسفورد",
+          "bn": "কাউন্টি ওয়েক্সফোর্ড",
+          "de": "County Wexford",
+          "en": "County Wexford",
+          "es": "Condado de Wexford",
+          "fr": "Comté de Wexford",
+          "el": "Κομητεία Ουέξφορντ",
+          "hi": "वेक्सफोर्ड काउंटी",
+          "hu": "Wexford megye",
+          "id": "County Wexford",
+          "it": "Wexford",
+          "ja": "ウェックスフォード州",
+          "ko": "웩스퍼드 주",
+          "nl": "County Wexford",
+          "pl": "Wexford",
+          "pt": "Condado de Wexford",
+          "ru": "Уэксфорд",
+          "sv": "Wexford",
+          "tr": "Wexford Countt",
+          "vi": "Wexford",
+          "zh": "韦克斯福德郡"
+        },
+        "population": 174574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2955000000000005,
+          52.567
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-kk",
+        "area": 0.4768000000000005,
+        "bounding_box": [
+          -7.668,
+          52.247,
+          -6.923,
+          52.887
+        ],
+        "point": [
+          -7.2955000000000005,
+          52.567
+        ],
+        "labels": {
+          "alt": "Cill Chainnigh",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة كيكني",
+          "bn": "কাউন্টি কিলকেনি",
+          "de": "County Kilkenny",
+          "en": "County Kilkenny",
+          "es": "Condado de Kilkenny",
+          "fr": "comté de Kilkenny",
+          "el": "Κομητεία Κίλκενι",
+          "hi": "काउंटी किल्केनी",
+          "hu": "Kilkenny megye",
+          "id": "County Kilkenny",
+          "it": "Kilkenny",
+          "ja": "キルケニー州",
+          "ko": "킬케니 주",
+          "nl": "County Kilkenny",
+          "pl": "Kilkenny",
+          "pt": "Condado de Kilkenny",
+          "ru": "Килкенни",
+          "sv": "Kilkenny",
+          "tr": "Kilkenny County",
+          "vi": "Hạt Kilkenny",
+          "zh": "基爾肯尼郡"
+        },
+        "population": 112884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5515,
+          52.1525
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-wd",
+        "area": 0.49509499999999884,
+        "bounding_box": [
+          -8.148,
+          51.945,
+          -6.955,
+          52.36
+        ],
+        "point": [
+          -7.5515,
+          52.1525
+        ],
+        "labels": {
+          "alt": "Port Láirge",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة وترفورد",
+          "bn": "কাউন্টি ওয়াটারফোর্ড",
+          "de": "County Waterford",
+          "en": "County Waterford",
+          "es": "Waterford",
+          "fr": "comté de Waterford",
+          "el": "Κομητεία Ουότερφορντ",
+          "hi": "काउंटी वॉटरफोर्ड",
+          "hu": "Waterford megye",
+          "id": "County Waterford",
+          "it": "Waterford",
+          "ja": "ウォーターフォード州",
+          "ko": "워터퍼드 주",
+          "nl": "County Waterford",
+          "pl": "Waterford",
+          "pt": "Condado de Waterford",
+          "ru": "Уотерфорд",
+          "sv": "Waterford",
+          "tr": "Waterford County",
+          "vi": "Hạt Waterford",
+          "zh": "沃特福德郡"
+        },
+        "population": 129877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.077999999999999,
+          52.239000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-wd",
+        "area": 0.009599999999999975,
+        "bounding_box": [
+          -7.153,
+          52.207,
+          -7.003,
+          52.271
+        ],
+        "point": [
+          -7.077999999999999,
+          52.239000000000004
+        ],
+        "labels": {
+          "alt": "Port Láirge",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة وترفورد",
+          "bn": "কাউন্টি ওয়াটারফোর্ড",
+          "de": "County Waterford",
+          "en": "County Waterford",
+          "es": "Waterford",
+          "fr": "comté de Waterford",
+          "el": "Κομητεία Ουότερφορντ",
+          "hi": "काउंटी वॉटरफोर्ड",
+          "hu": "Waterford megye",
+          "id": "County Waterford",
+          "it": "Waterford",
+          "ja": "ウォーターフォード州",
+          "ko": "워터퍼드 주",
+          "nl": "County Waterford",
+          "pl": "Waterford",
+          "pt": "Condado de Waterford",
+          "ru": "Уотерфорд",
+          "sv": "Waterford",
+          "tr": "Waterford County",
+          "vi": "Hạt Waterford",
+          "zh": "沃特福德郡"
+        },
+        "population": 129877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.969999999999999,
+          51.912499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-co",
+        "area": 2.0861879999999986,
+        "bounding_box": [
+          -10.088,
+          51.446,
+          -7.852,
+          52.379
+        ],
+        "point": [
+          -8.969999999999999,
+          51.912499999999994
+        ],
+        "labels": {
+          "alt": "Corcaigh",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة كورك",
+          "bn": "কাউন্টি কর্ক",
+          "de": "County Cork",
+          "en": "County Cork",
+          "es": "Condado de Cork",
+          "fr": "comté de Cork",
+          "el": "Κομητεία Κορκ",
+          "hi": "काउंटी कॉर्क",
+          "hu": "Cork megye",
+          "id": "County Cork",
+          "it": "Cork",
+          "ja": "コーク州",
+          "ko": "코크 주",
+          "nl": "County Cork",
+          "pl": "Cork",
+          "pt": "Condado de Cork",
+          "ru": "Корк",
+          "sv": "Cork",
+          "tr": "Cork Kontluğu",
+          "vi": "Hạt Cork",
+          "zh": "科克郡"
+        },
+        "population": 568447
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.466000000000001,
+          51.888
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-co",
+        "area": 0.011232000000000467,
+        "bounding_box": [
+          -8.544,
+          51.852,
+          -8.388,
+          51.924
+        ],
+        "point": [
+          -8.466000000000001,
+          51.888
+        ],
+        "labels": {
+          "alt": "Corcaigh",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة كورك",
+          "bn": "কাউন্টি কর্ক",
+          "de": "County Cork",
+          "en": "County Cork",
+          "es": "Condado de Cork",
+          "fr": "comté de Cork",
+          "el": "Κομητεία Κορκ",
+          "hi": "काउंटी कॉर्क",
+          "hu": "Cork megye",
+          "id": "County Cork",
+          "it": "Cork",
+          "ja": "コーク州",
+          "ko": "코크 주",
+          "nl": "County Cork",
+          "pl": "Cork",
+          "pt": "Condado de Cork",
+          "ru": "Корк",
+          "sv": "Cork",
+          "tr": "Cork Kontluğu",
+          "vi": "Hạt Cork",
+          "zh": "科克郡"
+        },
+        "population": 568447
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.8045,
+          52.131
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-ky",
+        "area": 1.1961360000000065,
+        "bounding_box": [
+          -10.478,
+          51.687,
+          -9.131,
+          52.575
+        ],
+        "point": [
+          -9.8045,
+          52.131
+        ],
+        "labels": {
+          "alt": "Ciarraí",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة كري",
+          "bn": "কাউন্টি কেরি",
+          "de": "Kerry",
+          "en": "County Kerry",
+          "es": "Condado de Kerry",
+          "fr": "comté de Kerry",
+          "el": "Κομητεία Κέρι",
+          "hi": "काउंटी केरी",
+          "hu": "Kerry megye",
+          "id": "County Kerry",
+          "it": "Kerry",
+          "ja": "ケリー州",
+          "ko": "케리 주",
+          "nl": "County Kerry",
+          "pl": "Kerry",
+          "pt": "Condado de Kerry",
+          "ru": "Керри",
+          "sv": "Kerry",
+          "tr": "Kerry County",
+          "vi": "Hạt Kerry",
+          "zh": "凱里郡"
+        },
+        "population": 154326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7655,
+          52.516000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-lk",
+        "area": 0.571210000000002,
+        "bounding_box": [
+          -9.363,
+          52.277,
+          -8.168,
+          52.755
+        ],
+        "point": [
+          -8.7655,
+          52.516000000000005
+        ],
+        "labels": {
+          "alt": "Luimneach",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة لمريك",
+          "bn": "কাউন্টি লিমেরিক",
+          "de": "County Limerick",
+          "en": "County Limerick",
+          "es": "Condado de Limerick",
+          "fr": "comté de Limerick",
+          "el": "Κομητεία Λίμερικ",
+          "hi": "काउंटी लिमरिक",
+          "hu": "Limerick megye",
+          "id": "County Limerick",
+          "it": "Limerick",
+          "ja": "リムリック州",
+          "ko": "리머릭 주",
+          "nl": "County Limerick",
+          "pl": "Limerick",
+          "pt": "Condado de Limerick",
+          "ru": "Лимерик",
+          "sv": "Limerick",
+          "tr": "County Limerick",
+          "vi": "Hạt Limerick",
+          "zh": "利默里克郡"
+        },
+        "population": 185288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.617,
+          52.650000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-lk",
+        "area": 0.005096,
+        "bounding_box": [
+          -8.666,
+          52.624,
+          -8.568,
+          52.676
+        ],
+        "point": [
+          -8.617,
+          52.650000000000006
+        ],
+        "labels": {
+          "alt": "Luimneach",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة لمريك",
+          "bn": "কাউন্টি লিমেরিক",
+          "de": "County Limerick",
+          "en": "County Limerick",
+          "es": "Condado de Limerick",
+          "fr": "comté de Limerick",
+          "el": "Κομητεία Λίμερικ",
+          "hi": "काउंटी लिमरिक",
+          "hu": "Limerick megye",
+          "id": "County Limerick",
+          "it": "Limerick",
+          "ja": "リムリック州",
+          "ko": "리머릭 주",
+          "nl": "County Limerick",
+          "pl": "Limerick",
+          "pt": "Condado de Limerick",
+          "ru": "Лимерик",
+          "sv": "Limerick",
+          "tr": "County Limerick",
+          "vi": "Hạt Limerick",
+          "zh": "利默里克郡"
+        },
+        "population": 185288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.054,
+          52.8635
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-ce",
+        "area": 0.8731799999999997,
+        "bounding_box": [
+          -9.824,
+          52.58,
+          -8.284,
+          53.147
+        ],
+        "point": [
+          -9.054,
+          52.8635
+        ],
+        "labels": {
+          "alt": "An Clár",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة كلير",
+          "bn": "কাউন্টি ক্লেয়ার",
+          "de": "County Clare",
+          "en": "County Clare",
+          "es": "Condado de Clare",
+          "fr": "comté de Clare",
+          "el": "Κομητεία Κλέιρ",
+          "hi": "काउंटी क्लेयर",
+          "hu": "Clare megye",
+          "id": "County Clare",
+          "it": "Clare",
+          "ja": "クレア州",
+          "ko": "클래어 주",
+          "nl": "County Clare",
+          "pl": "Clare",
+          "pt": "Condado de Clare",
+          "ru": "Клэр",
+          "sv": "Clare",
+          "tr": "Clare County",
+          "vi": "Hạt Clare",
+          "zh": "克莱尔郡"
+        },
+        "population": 158869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.065000000000001,
+          53.344
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-g",
+        "area": 1.6189439999999997,
+        "bounding_box": [
+          -10.153,
+          52.972,
+          -7.977,
+          53.716
+        ],
+        "point": [
+          -9.065000000000001,
+          53.344
+        ],
+        "labels": {
+          "alt": "Gaillimh",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة غالواي",
+          "bn": "কাউন্টি গলওয়ে",
+          "de": "County Galway",
+          "en": "County Galway",
+          "es": "Condado de Galway",
+          "fr": "comté de Galway",
+          "el": "Κομητεία Γκόλγουεϊ",
+          "hi": "काउंटी गॉलवे",
+          "hu": "Galway megye",
+          "id": "County Galway",
+          "it": "Contea di Galway",
+          "ja": "ゴールウェイ州",
+          "ko": "골웨이 주",
+          "nl": "County Galway",
+          "pl": "Galway",
+          "pt": "Condado de Galway",
+          "ru": "Голуэй",
+          "sv": "Galway",
+          "tr": "Galway County",
+          "vi": "Hạt Galway",
+          "zh": "戈尔韦郡"
+        },
+        "population": 262674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.021,
+          53.297
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-g",
+        "area": 0.01385999999999996,
+        "bounding_box": [
+          -9.12,
+          53.262,
+          -8.922,
+          53.332
+        ],
+        "point": [
+          -9.021,
+          53.297
+        ],
+        "labels": {
+          "alt": "Gaillimh",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة غالواي",
+          "bn": "কাউন্টি গলওয়ে",
+          "de": "County Galway",
+          "en": "County Galway",
+          "es": "Condado de Galway",
+          "fr": "comté de Galway",
+          "el": "Κομητεία Γκόλγουεϊ",
+          "hi": "काउंटी गॉलवे",
+          "hu": "Galway megye",
+          "id": "County Galway",
+          "it": "Contea di Galway",
+          "ja": "ゴールウェイ州",
+          "ko": "골웨이 주",
+          "nl": "County Galway",
+          "pl": "Galway",
+          "pt": "Condado de Galway",
+          "ru": "Голуэй",
+          "sv": "Galway",
+          "tr": "Galway County",
+          "vi": "Hạt Galway",
+          "zh": "戈尔韦郡"
+        },
+        "population": 262674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.343499999999999,
+          53.9065
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-mo",
+        "area": 1.3126229999999985,
+        "bounding_box": [
+          -10.104,
+          53.475,
+          -8.583,
+          54.338
+        ],
+        "point": [
+          -9.343499999999999,
+          53.9065
+        ],
+        "labels": {
+          "alt": "Maigh Eo",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة مايو",
+          "bn": "কাউন্টি মায়ো",
+          "de": "County Mayo",
+          "en": "County Mayo",
+          "es": "Condado de Mayo",
+          "fr": "Comté de Mayo",
+          "el": "Κομητεία Μέιο",
+          "hi": "मेयो काउंटी",
+          "hu": "Mayo megye",
+          "id": "County Mayo",
+          "it": "Mayo",
+          "ja": "メイヨー州",
+          "ko": "메이요 주",
+          "nl": "County Mayo",
+          "pl": "Mayo",
+          "pt": "Condado de Mayo",
+          "ru": "Мейо",
+          "sv": "Mayo",
+          "tr": "Mayo COunty",
+          "vi": "Hạt Mayo",
+          "zh": "梅奧郡"
+        },
+        "population": 141892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.035,
+          53.9575
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-mo",
+        "area": 0.025938000000000096,
+        "bounding_box": [
+          -10.134,
+          53.892,
+          -9.936,
+          54.023
+        ],
+        "point": [
+          -10.035,
+          53.9575
+        ],
+        "labels": {
+          "alt": "Maigh Eo",
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة مايو",
+          "bn": "কাউন্টি মায়ো",
+          "de": "County Mayo",
+          "en": "County Mayo",
+          "es": "Condado de Mayo",
+          "fr": "Comté de Mayo",
+          "el": "Κομητεία Μέιο",
+          "hi": "मेयो काउंटी",
+          "hu": "Mayo megye",
+          "id": "County Mayo",
+          "it": "Mayo",
+          "ja": "メイヨー州",
+          "ko": "메이요 주",
+          "nl": "County Mayo",
+          "pl": "Mayo",
+          "pt": "Condado de Mayo",
+          "ru": "Мейо",
+          "sv": "Mayo",
+          "tr": "Mayo COunty",
+          "vi": "Hạt Mayo",
+          "zh": "梅奧郡"
+        },
+        "population": 141892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6455,
+          54.1905
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-so",
+        "area": 0.5441890000000023,
+        "bounding_box": [
+          -9.134,
+          53.912,
+          -8.157,
+          54.469
+        ],
+        "point": [
+          -8.6455,
+          54.1905
+        ],
+        "labels": {
+          "alt": "Sligeach",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة سليجو",
+          "bn": "কাউন্টি স্লিগো",
+          "de": "County Sligo",
+          "en": "County Sligo",
+          "es": "Condado de Sligo",
+          "fr": "Comté de Sligo",
+          "el": "Κομητεία Σλάιγκο",
+          "hi": "काउंटी स्लीगो",
+          "hu": "Sligo megye",
+          "id": "County Sligo",
+          "it": "Sligo",
+          "ja": "スライゴ州",
+          "ko": "슬라이고 주",
+          "nl": "County Sligo",
+          "pl": "Sligo",
+          "pt": "Condado de Sligo",
+          "ru": "Слайго",
+          "sv": "Sligo",
+          "tr": "County Sligo",
+          "vi": "Hạt Sligo",
+          "zh": "斯萊戈郡"
+        },
+        "population": 74708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7685,
+          53.644999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-mh",
+        "area": 0.6138580000000043,
+        "bounding_box": [
+          -7.339,
+          53.376,
+          -6.198,
+          53.914
+        ],
+        "point": [
+          -6.7685,
+          53.644999999999996
+        ],
+        "labels": {
+          "alt": "An Mhí",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة ميث",
+          "bn": "কাউন্টি মিথ",
+          "de": "County Meath",
+          "en": "County Meath",
+          "es": "Condado de Meath",
+          "fr": "comté de Meath",
+          "el": "Κομητεία Μιθ",
+          "hi": "काउंटी मीथ",
+          "hu": null,
+          "id": "County Meath",
+          "it": "Meath",
+          "ja": "ミース州",
+          "ko": "미스 주",
+          "nl": "County Meath",
+          "pl": "Meath",
+          "pt": "Condado de Meath",
+          "ru": "Мит",
+          "sv": "Meath",
+          "tr": "County Meath",
+          "vi": "Hạt Meath",
+          "zh": "米斯郡"
+        },
+        "population": 256113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.774,
+          53.155
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-ke",
+        "area": 0.3714240000000016,
+        "bounding_box": [
+          -7.092,
+          52.863,
+          -6.456,
+          53.447
+        ],
+        "point": [
+          -6.774,
+          53.155
+        ],
+        "labels": {
+          "alt": "Cill Dara",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة كيلدير",
+          "bn": "কাউন্টি কিল্ডার",
+          "de": "County Kildare",
+          "en": "County Kildare",
+          "es": "Condado de Kildare",
+          "fr": "comté de Kildare",
+          "el": "Κομητεία Κιλντέιρ",
+          "hi": "काउंटी किल्डेरे",
+          "hu": "Kildare megye",
+          "id": "County Kildare",
+          "it": "Kildare",
+          "ja": "キルデア州",
+          "ko": "킬데어 주",
+          "nl": "County Kildare",
+          "pl": "Kildare",
+          "pt": "Condado de Kildare",
+          "ru": "Килдэр",
+          "sv": "Kildare",
+          "tr": "County Kildare",
+          "vi": "Hạt Kildare",
+          "zh": "基尔代尔郡"
+        },
+        "population": 282020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.802,
+          52.691
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-cw",
+        "area": 0.26189999999999747,
+        "bounding_box": [
+          -7.093,
+          52.466,
+          -6.511,
+          52.916
+        ],
+        "point": [
+          -6.802,
+          52.691
+        ],
+        "labels": {
+          "alt": "Ceatharlach",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة كارلو",
+          "bn": "কাউন্টি কারলো",
+          "de": "County Carlow",
+          "en": "County Carlow",
+          "es": "Condado de Carlow",
+          "fr": "Comté de Carlow",
+          "el": "Κομητεία Κάρλοου",
+          "hi": "कार्लो काउंटी",
+          "hu": "Carlow megye",
+          "id": "County Carlow",
+          "it": "Carlow",
+          "ja": "カーロウ州",
+          "ko": "칼로 주",
+          "nl": "County Carlow",
+          "pl": "Carlow",
+          "pt": "Condado de Carlow",
+          "ru": "Карлоу",
+          "sv": "Carlow",
+          "tr": "Carlow County",
+          "vi": "Hạt Carlow",
+          "zh": "卡洛郡"
+        },
+        "population": 63933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3294999999999995,
+          52.993
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-ls",
+        "area": 0.33952200000000143,
+        "bounding_box": [
+          -7.728,
+          52.78,
+          -6.931,
+          53.206
+        ],
+        "point": [
+          -7.3294999999999995,
+          52.993
+        ],
+        "labels": {
+          "alt": "Laois|Leix|Queens",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة ليش",
+          "bn": "কাউন্টি লাওইস",
+          "de": "County Laois",
+          "en": "County Laois",
+          "es": "Condado de Laois",
+          "fr": "comté de Laois",
+          "el": "Κομητεία Λέιοαϊς",
+          "hi": "काउंटी लाओइस",
+          "hu": "Laois megye",
+          "id": "County Laois",
+          "it": "Laois",
+          "ja": "ラオース州",
+          "ko": "레이시 주",
+          "nl": "County Laois",
+          "pl": "Laois",
+          "pt": "Condado de Laois",
+          "ru": "Лиишь",
+          "sv": "Laois",
+          "tr": "County Laois",
+          "vi": "Hạt Laois",
+          "zh": "萊伊什郡"
+        },
+        "population": 115358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.532500000000001,
+          53.14149999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-oy",
+        "area": 0.6239970000000001,
+        "bounding_box": [
+          -8.077,
+          52.855,
+          -6.988,
+          53.428
+        ],
+        "point": [
+          -7.532500000000001,
+          53.14149999999999
+        ],
+        "labels": {
+          "alt": "Uíbh Fhailí|Kings",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة أوفالي",
+          "bn": "কাউন্টি ওফ্যালি",
+          "de": "County Offaly",
+          "en": "County Offaly",
+          "es": "Condado de Offaly",
+          "fr": "Comté d'Offaly",
+          "el": "Κομητεία Όφαλι",
+          "hi": "काउंटी ऑफेली",
+          "hu": null,
+          "id": "County Offaly",
+          "it": "Offaly",
+          "ja": "オファリー州",
+          "ko": "오펄리 주",
+          "nl": "County Offaly",
+          "pl": "Offaly",
+          "pt": "Condado de Offaly",
+          "ru": "Оффали",
+          "sv": "Offaly",
+          "tr": "Offaly County",
+          "vi": "Hạt Offaly",
+          "zh": "奧法利郡"
+        },
+        "population": 98920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.455500000000001,
+          53.561
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-wh",
+        "area": 0.47502000000000344,
+        "bounding_box": [
+          -7.963,
+          53.327,
+          -6.948,
+          53.795
+        ],
+        "point": [
+          -7.455500000000001,
+          53.561
+        ],
+        "labels": {
+          "alt": "An Iarmhí",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة وستميث",
+          "bn": "কাউন্টি ওয়েস্টমিদ",
+          "de": "County Westmeath",
+          "en": "County Westmeath",
+          "es": "Condado de Westmeath",
+          "fr": "Comté de Westmeath",
+          "el": "Κομητεία Ουέστμιθ",
+          "hi": "काउंटी वेस्टमेथ",
+          "hu": null,
+          "id": "County Westmeath",
+          "it": "Westmeath",
+          "ja": "ウェストミース州",
+          "ko": "웨스트미스 주",
+          "nl": "County Westmeath",
+          "pl": "Westmeath",
+          "pt": "Condado de Westmeath",
+          "ru": "Уэстмит",
+          "sv": "Westmeath",
+          "tr": "County Westmeath",
+          "vi": "Hạt Westmeath",
+          "zh": "韋斯特米斯郡"
+        },
+        "population": 99538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7035,
+          53.7285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-ld",
+        "area": 0.2687129999999993,
+        "bounding_box": [
+          -8.032,
+          53.524,
+          -7.375,
+          53.933
+        ],
+        "point": [
+          -7.7035,
+          53.7285
+        ],
+        "labels": {
+          "alt": "An Longfort",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة لونجفورد",
+          "bn": "কাউন্টি লংফোর্ড",
+          "de": "County Longford",
+          "en": "County Longford",
+          "es": "Condado de Longford",
+          "fr": "Comté de Longford",
+          "el": "Κομητεία Λόνγκφορντ",
+          "hi": "लोंग्फोर्ड काउंटी",
+          "hu": "Longford megye",
+          "id": "County Longford",
+          "it": "Longford",
+          "ja": "ロングフォード州",
+          "ko": "롱퍼드 주",
+          "nl": "County Longford",
+          "pl": "Longford",
+          "pt": "Condado de Longford",
+          "ru": "Лонгфорд",
+          "sv": "Longford",
+          "tr": "Longford County",
+          "vi": "Hạt Longford",
+          "zh": "朗福德郡"
+        },
+        "population": 53537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3695,
+          53.692
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-rn",
+        "area": 0.7446399999999946,
+        "bounding_box": [
+          -8.817,
+          53.276,
+          -7.922,
+          54.108
+        ],
+        "point": [
+          -8.3695,
+          53.692
+        ],
+        "labels": {
+          "alt": "Ros Comáin",
+          "local": null,
+          "len": 9,
+          "ar": "مقاطعة روسكومون",
+          "bn": "কাউন্টি রসকমন",
+          "de": "County Roscommon",
+          "en": "County Roscommon",
+          "es": "Condado de Roscommon",
+          "fr": "Comté de Roscommon",
+          "el": "Κομητεία Ροσκόμον",
+          "hi": "रौसकॉमन काउंटी",
+          "hu": null,
+          "id": "County Roscommon",
+          "it": "Roscommon",
+          "ja": "ロスコモン州",
+          "ko": "로스커먼 주",
+          "nl": "County Roscommon",
+          "pl": "Roscommon",
+          "pt": "Condado de Roscommon",
+          "ru": "Роскоммон",
+          "sv": "Roscommon",
+          "tr": "County Roscommon",
+          "vi": "Hạt Roscommon",
+          "zh": "羅斯康芒郡"
+        },
+        "population": 79227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8790000000000004,
+          52.469
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-ta",
+        "area": 0.5386720000000011,
+        "bounding_box": [
+          -8.393,
+          52.207,
+          -7.365,
+          52.731
+        ],
+        "point": [
+          -7.8790000000000004,
+          52.469
+        ],
+        "labels": {
+          "alt": "Tiobraid Árann",
+          "local": null,
+          "len": 15,
+          "ar": "مقاطعة تيبيراري",
+          "bn": "কাউন্টি টিপেরারি",
+          "de": "County Tipperary",
+          "en": "County Tipperary",
+          "es": "Condado de Tipperary",
+          "fr": "comté de Tipperary",
+          "el": "Κομητεία Τιπερέρι",
+          "hi": "टिपरेरी काउंटी",
+          "hu": null,
+          "id": "County Tipperary",
+          "it": "Tipperary",
+          "ja": "ティペラリー州",
+          "ko": "티퍼레리 주",
+          "nl": "County Tipperary",
+          "pl": "Tipperary",
+          "pt": "Condado de Tipperary",
+          "ru": "Типперэри",
+          "sv": "Tipperary",
+          "tr": "County Tipperary",
+          "vi": "Hạt Tipperary",
+          "zh": "蒂珀雷里郡"
+        },
+        "population": 181384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0535,
+          52.863
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ie",
+        "region_child": "ie-ta",
+        "area": 0.5200580000000039,
+        "bounding_box": [
+          -8.477,
+          52.556,
+          -7.63,
+          53.17
+        ],
+        "point": [
+          -8.0535,
+          52.863
+        ],
+        "labels": {
+          "alt": "Tiobraid Árann",
+          "local": null,
+          "len": 15,
+          "ar": "مقاطعة تيبيراري",
+          "bn": "কাউন্টি টিপেরারি",
+          "de": "County Tipperary",
+          "en": "County Tipperary",
+          "es": "Condado de Tipperary",
+          "fr": "comté de Tipperary",
+          "el": "Κομητεία Τιπερέρι",
+          "hi": "टिपरेरी काउंटी",
+          "hu": null,
+          "id": "County Tipperary",
+          "it": "Tipperary",
+          "ja": "ティペラリー州",
+          "ko": "티퍼레리 주",
+          "nl": "County Tipperary",
+          "pl": "Tipperary",
+          "pt": "Condado de Tipperary",
+          "ru": "Типперэри",
+          "sv": "Tipperary",
+          "tr": "County Tipperary",
+          "vi": "Hạt Tipperary",
+          "zh": "蒂珀雷里郡"
+        },
+        "population": 181384
+      }
+    }
+  ]
+}

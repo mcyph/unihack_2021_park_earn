@@ -1,0 +1,376 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.87049999999999,
+          16.9315
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bz",
+        "region_child": "bz-cy",
+        "area": 0.6946649999999945,
+        "bounding_box": [
+          -89.193,
+          16.393,
+          -88.548,
+          17.47
+        ],
+        "point": [
+          -88.87049999999999,
+          16.9315
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة كايو",
+          "bn": "কায়ো জেলা",
+          "de": "Cayo District",
+          "en": "Cayo District",
+          "es": "Distrito de Cayo",
+          "fr": "District de Cayo",
+          "el": "Κάγιο",
+          "hi": "कायो जिला",
+          "hu": null,
+          "id": "Distrik Cayo",
+          "it": "distretto di Cayo",
+          "ja": "カヨ州",
+          "ko": "카요 구",
+          "nl": "Cayo",
+          "pl": "Dystrykt Cayo",
+          "pt": "Cayo",
+          "ru": "Кайо",
+          "sv": "Cayo",
+          "tr": "Cayo District",
+          "vi": "Quận Cayo",
+          "zh": "卡約區"
+        },
+        "population": 99053
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7225,
+          17.784
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bz",
+        "region_child": "bz-ow",
+        "area": 0.8121019999999942,
+        "bounding_box": [
+          -89.161,
+          17.321,
+          -88.284,
+          18.247
+        ],
+        "point": [
+          -88.7225,
+          17.784
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة اورانج ووك",
+          "bn": "ওরেঞ্জ ওয়াক জেলা",
+          "de": "Orange Walk District",
+          "en": "Orange Walk District",
+          "es": "Distrito de Orange Walk",
+          "fr": "District d'Orange Walk",
+          "el": "Όραντζ Γουόλκ",
+          "hi": "ऑरेंज वाक जिला",
+          "hu": null,
+          "id": "Distrik Orange Walk",
+          "it": "distretto di Orange Walk",
+          "ja": "オレンジウォーク州",
+          "ko": "오렌지워크 구",
+          "nl": "Orange Walk",
+          "pl": "Dystrykt Orange Walk",
+          "pt": "Orange Walk",
+          "ru": "Ориндж-Уолк",
+          "sv": "Orange Walk",
+          "tr": "Orange Walk District",
+          "vi": "Quận Orange Walk",
+          "zh": "橘園區"
+        },
+        "population": 47083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.349,
+          18.2255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bz",
+        "region_child": "bz-czl",
+        "area": 0.28142999999999996,
+        "bounding_box": [
+          -88.614,
+          17.96,
+          -88.084,
+          18.491
+        ],
+        "point": [
+          -88.349,
+          18.2255
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة كوروزال",
+          "bn": "কোরুজাল জেলা",
+          "de": "Corozal District",
+          "en": "Corozal District",
+          "es": "Distrito de Corozal",
+          "fr": "District de Corozal",
+          "el": "Κορόζαλ",
+          "hi": "कोरोज़ल जिला",
+          "hu": null,
+          "id": "Distrik Corozal",
+          "it": "distretto di Corozal",
+          "ja": "コロザル州",
+          "ko": "코로살 구",
+          "nl": "Corozal",
+          "pl": "Dystrykt Corozal",
+          "pt": "Corozal",
+          "ru": "Коросаль",
+          "sv": "Corozal",
+          "tr": "Corozal District",
+          "vi": "Quận Corozal",
+          "zh": "科羅薩爾區"
+        },
+        "population": 53028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.813,
+          16.286
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bz",
+        "region_child": "bz-tol",
+        "area": 0.6869520000000024,
+        "bounding_box": [
+          -89.236,
+          15.88,
+          -88.39,
+          16.692
+        ],
+        "point": [
+          -88.813,
+          16.286
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة توليدو",
+          "bn": "তলেডু জেলা",
+          "de": "Toledo",
+          "en": "Toledo District",
+          "es": "Distrito de Toledo",
+          "fr": "District de Toledo",
+          "el": "Τολέδο",
+          "hi": "टोलिडो जिला",
+          "hu": null,
+          "id": "Distrik Toledo",
+          "it": "distretto di Toledo",
+          "ja": "トレド州",
+          "ko": "털리도 구",
+          "nl": "Toledo",
+          "pl": "Dystrykt Toledo",
+          "pt": "Toledo",
+          "ru": "Толедо",
+          "sv": "Toledo",
+          "tr": "Toledo District",
+          "vi": "Quận Toledo",
+          "zh": "托萊多區"
+        },
+        "population": 35933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4945,
+          16.817
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bz",
+        "region_child": "bz-sc",
+        "area": 0.35664199999999735,
+        "bounding_box": [
+          -88.774,
+          16.498,
+          -88.215,
+          17.136
+        ],
+        "point": [
+          -88.4945,
+          16.817
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "مقاطعة ستان كريك",
+          "bn": "স্টান জেলা",
+          "de": "Stann Creek District",
+          "en": "Stann Creek District",
+          "es": "Distrito de Stann Creek",
+          "fr": "District de Stann Creek",
+          "el": "Σταν Κρικ",
+          "hi": "स्टेन क्रीक जिला",
+          "hu": null,
+          "id": "Distrik Stann Creek",
+          "it": "distretto di Stann Creek",
+          "ja": "スタンクリーク州",
+          "ko": "스탠크리크 구",
+          "nl": "Stann Creek",
+          "pl": "Dystrykt Stann Creek",
+          "pt": "Stann Creek",
+          "ru": "Станн-Крик",
+          "sv": "Stann Creek",
+          "tr": "Stann Creek District",
+          "vi": "Quận Stann Creek",
+          "zh": "斯坦克里克區"
+        },
+        "population": 46823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.404,
+          17.538
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bz",
+        "region_child": "bz-bz",
+        "area": 0.41143200000000424,
+        "bounding_box": [
+          -88.641,
+          17.104,
+          -88.167,
+          17.972
+        ],
+        "point": [
+          -88.404,
+          17.538
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": null,
+          "bn": null,
+          "de": "Belize District",
+          "en": "Belize District",
+          "es": "Distrito de Belice",
+          "fr": "District de Belize",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "distretto di Belize",
+          "ja": "ベリーズ州",
+          "ko": "벨리즈 구",
+          "nl": "Belize",
+          "pl": "Dystrykt Belize",
+          "pt": "Belize",
+          "ru": "Белиз",
+          "sv": "Belize",
+          "tr": null,
+          "vi": null,
+          "zh": "伯利兹区"
+        },
+        "population": 123069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90299999999999,
+          18.064999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bz",
+        "region_child": "bz-bz",
+        "area": 0.019007999999998044,
+        "bounding_box": [
+          -87.957,
+          17.977,
+          -87.849,
+          18.153
+        ],
+        "point": [
+          -87.90299999999999,
+          18.064999999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": null,
+          "bn": null,
+          "de": "Belize District",
+          "en": "Belize District",
+          "es": "Distrito de Belice",
+          "fr": "District de Belize",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "distretto di Belize",
+          "ja": "ベリーズ州",
+          "ko": "벨리즈 구",
+          "nl": "Belize",
+          "pl": "Dystrykt Belize",
+          "pt": "Belize",
+          "ru": "Белиз",
+          "sv": "Belize",
+          "tr": null,
+          "vi": null,
+          "zh": "伯利兹区"
+        },
+        "population": 123069
+      }
+    }
+  ]
+}

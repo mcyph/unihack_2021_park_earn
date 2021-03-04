@@ -1,0 +1,588 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.731000000000002,
+          2.9085
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cm",
+        "region_child": "cm-su",
+        "area": 5.796862,
+        "bounding_box": [
+          9.8,
+          2.158,
+          13.662,
+          3.659
+        ],
+        "point": [
+          11.731000000000002,
+          2.9085
+        ],
+        "labels": {
+          "alt": "South",
+          "local": null,
+          "len": 3,
+          "ar": "جنوب",
+          "bn": "দক্ষিন/সাউথ",
+          "de": "Sud",
+          "en": "South",
+          "es": "Región del Sur",
+          "fr": "région du Sud",
+          "el": "Περιφέρεια του Νότου",
+          "hi": "दक्षिण",
+          "hu": null,
+          "id": "Region Selatan",
+          "it": "regione del Sud",
+          "ja": "南部州",
+          "ko": "남부 주",
+          "nl": "Sud",
+          "pl": "Region Południowy",
+          "pt": "Região Sul",
+          "ru": "Южный регион",
+          "sv": "Södra regionen",
+          "tr": "Güney Bölgesi",
+          "vi": "Khu vực Phía Nam",
+          "zh": "南部区"
+        },
+        "population": 997854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.536999999999999,
+          11.5015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cm",
+        "region_child": "cm-en",
+        "area": 7.227791999999993,
+        "bounding_box": [
+          13.393,
+          9.922,
+          15.681,
+          13.081
+        ],
+        "point": [
+          14.536999999999999,
+          11.5015
+        ],
+        "labels": {
+          "alt": "Extreme-North",
+          "local": null,
+          "len": 12,
+          "ar": "الشمال الأقصى",
+          "bn": "ফার নর্থ",
+          "de": "Extrême-Nord",
+          "en": "Far North",
+          "es": "Región del Extremo Norte",
+          "fr": "Région de l'Extrême-Nord",
+          "el": "Περιφέρεια Απώτερου Βορρά",
+          "hi": "सुदूर उत्तर",
+          "hu": null,
+          "id": "Region Ujung Utara",
+          "it": "regione dell'Estremo Nord",
+          "ja": "極北州",
+          "ko": "극북부 주",
+          "nl": "Extrême-Nord",
+          "pl": "Region Dalekiej Północy",
+          "pt": "Extremo Norte",
+          "ru": "Крайнесеверный регион",
+          "sv": "Nordligaste regionen",
+          "tr": "Far North Bölgesi",
+          "vi": "Far North",
+          "zh": "極北區"
+        },
+        "population": 4862211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8925,
+          8.6255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cm",
+        "region_child": "cm-no",
+        "area": 10.701223000000004,
+        "bounding_box": [
+          12.222,
+          7.024,
+          15.563,
+          10.227
+        ],
+        "point": [
+          13.8925,
+          8.6255
+        ],
+        "labels": {
+          "alt": "North",
+          "local": null,
+          "len": 4,
+          "ar": "المنطقة الشمالية، الكاميرون",
+          "bn": "নর্থ",
+          "de": "Nord",
+          "en": "North",
+          "es": "Región del Norte",
+          "fr": "région du Nord",
+          "el": "Περιφέρεια του Βορρά",
+          "hi": "उत्तर",
+          "hu": null,
+          "id": "Region Utara",
+          "it": "regione del Nord",
+          "ja": "北部州",
+          "ko": "북부 주",
+          "nl": "Nord",
+          "pl": "Region Północny",
+          "pt": "Região Norte",
+          "ru": "Северный регион",
+          "sv": "Norra regionen",
+          "tr": "Kuzey Bölgesi",
+          "vi": "Phía Bắc",
+          "zh": "北部區"
+        },
+        "population": 3197810
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.217500000000001,
+          7.0905000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cm",
+        "region_child": "cm-ad",
+        "area": 8.909505,
+        "bounding_box": [
+          11.188,
+          5.993,
+          15.247,
+          8.188
+        ],
+        "point": [
+          13.217500000000001,
+          7.0905000000000005
+        ],
+        "labels": {
+          "alt": "Adamoua|Adamaua|Adamawa",
+          "local": null,
+          "len": 8,
+          "ar": "محافظة آداماوا",
+          "bn": "আদামাওয়া",
+          "de": "Adamaoua",
+          "en": "Adamawa",
+          "es": "Región Adamawa",
+          "fr": "région de l'Adamaoua",
+          "el": "Ανταμάουα",
+          "hi": "अदामावा",
+          "hu": null,
+          "id": "Region Adamawa",
+          "it": "regione di Adamaoua",
+          "ja": "アダマワ州",
+          "ko": "아다마와 주",
+          "nl": "Adamaoua",
+          "pl": "Adamawa",
+          "pt": "Adamawa",
+          "ru": "Адамава",
+          "sv": "Adamaouaregionen",
+          "tr": "Adamawa Bölgesi",
+          "vi": "Adamawa",
+          "zh": "阿达马瓦区"
+        },
+        "population": 1400659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.406,
+          6.4145
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cm",
+        "region_child": "cm-nw",
+        "area": 2.205954,
+        "bounding_box": [
+          9.605,
+          5.726,
+          11.207,
+          7.103
+        ],
+        "point": [
+          10.406,
+          6.4145
+        ],
+        "labels": {
+          "alt": "North-West",
+          "local": null,
+          "len": 10,
+          "ar": "إقليم الشمال الغربي",
+          "bn": "নর্থওয়েস্ট",
+          "de": "Nord-Ouest",
+          "en": "Northwest",
+          "es": "Región del Noroeste",
+          "fr": "région du Nord-Ouest",
+          "el": "Βορειοδυτική Περιφέρεια",
+          "hi": "उत्तरपूर्व",
+          "hu": null,
+          "id": "Region Barat Laut",
+          "it": "regione del Nordovest",
+          "ja": "北西州",
+          "ko": "북서부 주",
+          "nl": "Nord-Ouest",
+          "pl": "Region Północno-Zachodni",
+          "pt": "Noroeste",
+          "ru": "Северо-Западный регион",
+          "sv": "Nordvästra regionen",
+          "tr": "Kuzeybatı Bölgesi",
+          "vi": "Vùng Tây Bắc",
+          "zh": "西北區"
+        },
+        "population": 2327878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3065,
+          5.228
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cm",
+        "region_child": "cm-sw",
+        "area": 4.187035999999999,
+        "bounding_box": [
+          8.505,
+          3.922,
+          10.108,
+          6.534
+        ],
+        "point": [
+          9.3065,
+          5.228
+        ],
+        "labels": {
+          "alt": "South-West",
+          "local": null,
+          "len": 9,
+          "ar": "جنوب غرب",
+          "bn": "সাউথওয়েস্ট",
+          "de": "Sud-Ouest",
+          "en": "Southwest",
+          "es": "Región del Sudoeste",
+          "fr": "région du Sud-Ouest",
+          "el": "Νοτιοδυτική Περιφέρεια",
+          "hi": "दक्षिण पश्चिम",
+          "hu": null,
+          "id": "Region Barat Daya",
+          "it": "regione del Sudovest",
+          "ja": "南西州",
+          "ko": "남서부 주",
+          "nl": "Sud-Ouest",
+          "pl": "Region Południowo-Zachodni",
+          "pt": "Sudoeste",
+          "ru": "Юго-Западный регион",
+          "sv": "Sydvästra regionen",
+          "tr": "Güneybatı Bölgesi",
+          "vi": "Vùng Tây Nam",
+          "zh": "西南区"
+        },
+        "population": 1970879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.350999999999999,
+          3.8834999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cm",
+        "region_child": "cm-es",
+        "area": 16.455243999999993,
+        "bounding_box": [
+          12.505,
+          1.655,
+          16.197,
+          6.112
+        ],
+        "point": [
+          14.350999999999999,
+          3.8834999999999997
+        ],
+        "labels": {
+          "alt": "East",
+          "local": null,
+          "len": 3,
+          "ar": "الشرق",
+          "bn": "ইস্ট",
+          "de": "Est",
+          "en": "East",
+          "es": "Región del Este",
+          "fr": "région de l'Est",
+          "el": "Περιφέρεια Ανατολής",
+          "hi": "पूर्व",
+          "hu": null,
+          "id": "Region Timur",
+          "it": "regione dell'Est",
+          "ja": "東部州",
+          "ko": "동부 주",
+          "nl": "Est",
+          "pl": "Region Wschodni",
+          "pt": "Região Leste",
+          "ru": "Восточный регион",
+          "sv": "Östra regionen",
+          "tr": "Doğu Bölgesi",
+          "vi": "East",
+          "zh": "东部区"
+        },
+        "population": 1071350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.280000000000001,
+          4.313000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cm",
+        "region_child": "cm-lt",
+        "area": 3.512016000000001,
+        "bounding_box": [
+          9.439,
+          3.269,
+          11.121,
+          5.357
+        ],
+        "point": [
+          10.280000000000001,
+          4.313000000000001
+        ],
+        "labels": {
+          "alt": "Litoral",
+          "local": null,
+          "len": 8,
+          "ar": "ليتورال",
+          "bn": "লিট্টোরাল",
+          "de": "Littoral",
+          "en": "Littoral",
+          "es": "Región del Litoral",
+          "fr": "région du Littoral",
+          "el": "Λιττοράλ",
+          "hi": "लिटोरल",
+          "hu": null,
+          "id": "Region Littoral",
+          "it": "regione del Litorale",
+          "ja": "リトラル州",
+          "ko": "리토랄 주",
+          "nl": "Littoral",
+          "pl": "Region Nadmorski",
+          "pt": "Litoral",
+          "ru": "Прибрежный регион",
+          "sv": "Kustregionen",
+          "tr": "Littoral Bölgesi",
+          "vi": "Littoral",
+          "zh": "濱海區"
+        },
+        "population": 4248968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.432,
+          3.9905
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cm",
+        "region_child": "cm-lt",
+        "area": 0.03459999999999989,
+        "bounding_box": [
+          9.332,
+          3.904,
+          9.532,
+          4.077
+        ],
+        "point": [
+          9.432,
+          3.9905
+        ],
+        "labels": {
+          "alt": "Litoral",
+          "local": null,
+          "len": 8,
+          "ar": "ليتورال",
+          "bn": "লিট্টোরাল",
+          "de": "Littoral",
+          "en": "Littoral",
+          "es": "Región del Litoral",
+          "fr": "région du Littoral",
+          "el": "Λιττοράλ",
+          "hi": "लिटोरल",
+          "hu": null,
+          "id": "Region Littoral",
+          "it": "regione del Litorale",
+          "ja": "リトラル州",
+          "ko": "리토랄 주",
+          "nl": "Littoral",
+          "pl": "Region Nadmorski",
+          "pt": "Litoral",
+          "ru": "Прибрежный регион",
+          "sv": "Kustregionen",
+          "tr": "Littoral Bölgesi",
+          "vi": "Littoral",
+          "zh": "濱海區"
+        },
+        "population": 4248968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.588000000000001,
+          5.595000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cm",
+        "region_child": "cm-ou",
+        "area": 2.018400000000002,
+        "bounding_box": [
+          9.863,
+          4.899,
+          11.313,
+          6.291
+        ],
+        "point": [
+          10.588000000000001,
+          5.595000000000001
+        ],
+        "labels": {
+          "alt": "West",
+          "local": null,
+          "len": 5,
+          "ar": "الغرب",
+          "bn": "ওয়েস্ট",
+          "de": "Ouest",
+          "en": "West",
+          "es": "Región del Oeste",
+          "fr": "région de l'Ouest",
+          "el": "Δυτική Περιφέρεια",
+          "hi": "पश्चिम",
+          "hu": null,
+          "id": "Region Barat",
+          "it": "regione dell'Ovest",
+          "ja": "西部州",
+          "ko": "서부 주",
+          "nl": "Ouest",
+          "pl": "Region Zachodni",
+          "pt": "Oeste",
+          "ru": "Западный регион",
+          "sv": "Västra regionen",
+          "tr": "Batı Bölgesi",
+          "vi": "Khu vực Phía Tây",
+          "zh": "西部区"
+        },
+        "population": 2172714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7385,
+          4.6965
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cm",
+        "region_child": "cm-ce",
+        "area": 9.371874999999998,
+        "bounding_box": [
+          10.239,
+          3.134,
+          13.238,
+          6.259
+        ],
+        "point": [
+          11.7385,
+          4.6965
+        ],
+        "labels": {
+          "alt": "Central",
+          "local": null,
+          "len": 6,
+          "ar": "سنتر",
+          "bn": "সেন্টার",
+          "de": "Centre",
+          "en": "Centre",
+          "es": "Región del Centro",
+          "fr": "région du Centre",
+          "el": "Κεντρική Περιφέρεια",
+          "hi": "सेंटर",
+          "hu": null,
+          "id": "Region Tengah",
+          "it": "regione Centrale",
+          "ja": "中央州",
+          "ko": "중앙 주",
+          "nl": "Centre",
+          "pl": "Region Centralny",
+          "pt": "Centro",
+          "ru": "Центральный регион",
+          "sv": "Centrumregionen",
+          "tr": "Merkez Bölgesi",
+          "vi": "Vùng Miền Trung",
+          "zh": "中部区"
+        },
+        "population": 5802425
+      }
+    }
+  ]
+}

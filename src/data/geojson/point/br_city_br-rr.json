@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.709500000000006,
+          3.7255
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "amajari",
+        "area": 5.081431,
+        "bounding_box": [
+          -64.825,
+          3.125,
+          -60.594,
+          4.326
+        ],
+        "point": [
+          -62.709500000000006,
+          3.7255
+        ],
+        "labels": {
+          "en": "Amajari"
+        },
+        "population": 16467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6275,
+          3.1035
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "alto alegre",
+        "area": 4.156634999999994,
+        "bounding_box": [
+          -64.255,
+          2.465,
+          -61.0,
+          3.742
+        ],
+        "point": [
+          -62.6275,
+          3.1035
+        ],
+        "labels": {
+          "en": "Alto Alegre"
+        },
+        "population": 14939
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.458,
+          2.18
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "iracema",
+        "area": 3.951999999999999,
+        "bounding_box": [
+          -63.978,
+          1.53,
+          -60.938,
+          2.83
+        ],
+        "point": [
+          -62.458,
+          2.18
+        ],
+        "labels": {
+          "en": "Iracema"
+        },
+        "population": 12805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.9655,
+          2.535
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "mucajaí",
+        "area": 1.8675859999999966,
+        "bounding_box": [
+          -63.096,
+          2.122,
+          -60.835,
+          2.948
+        ],
+        "point": [
+          -61.9655,
+          2.535
+        ],
+        "labels": {
+          "en": "Mucajaí"
+        },
+        "population": 22408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.074,
+          0.3124999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "caracaraí",
+        "area": 11.391347999999992,
+        "bounding_box": [
+          -62.736,
+          -1.401,
+          -59.412,
+          2.026
+        ],
+        "point": [
+          -61.074,
+          0.3124999999999998
+        ],
+        "labels": {
+          "en": "Caracaraí"
+        },
+        "population": 23823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.946,
+          -0.2160000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "rorainópolis",
+        "area": 5.145008000000007,
+        "bounding_box": [
+          -61.889,
+          -1.58,
+          -60.003,
+          1.148
+        ],
+        "point": [
+          -60.946,
+          -0.2160000000000002
+        ],
+        "labels": {
+          "en": "Rorainópolis"
+        },
+        "population": 35573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9685,
+          4.167
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "pacaraima",
+        "area": 1.6040120000000062,
+        "bounding_box": [
+          -61.527,
+          3.449,
+          -60.41,
+          4.885
+        ],
+        "point": [
+          -60.9685,
+          4.167
+        ],
+        "labels": {
+          "en": "Pacaraima"
+        },
+        "population": 16436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6005,
+          2.296
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "cantá",
+        "area": 1.0637339999999982,
+        "bounding_box": [
+          -61.052,
+          1.707,
+          -60.149,
+          2.885
+        ],
+        "point": [
+          -60.6005,
+          2.296
+        ],
+        "labels": {
+          "en": "Cantá"
+        },
+        "population": 22311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6425,
+          3.0175
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "boa vista",
+        "area": 0.841555000000004,
+        "bounding_box": [
+          -61.0,
+          2.429,
+          -60.285,
+          3.606
+        ],
+        "point": [
+          -60.6425,
+          3.0175
+        ],
+        "labels": {
+          "en": "Boa Vista"
+        },
+        "population": 403134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.20399999999999,
+          4.7165
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "uiramutã",
+        "area": 1.1821040000000007,
+        "bounding_box": [
+          -60.736,
+          4.161,
+          -59.672,
+          5.272
+        ],
+        "point": [
+          -60.20399999999999,
+          4.7165
+        ],
+        "labels": {
+          "en": "Uiramutã"
+        },
+        "population": 11671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.1435,
+          2.7935
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "bonfim",
+        "area": 1.3473629999999948,
+        "bounding_box": [
+          -60.568,
+          2.0,
+          -59.719,
+          3.587
+        ],
+        "point": [
+          -60.1435,
+          2.7935
+        ],
+        "labels": {
+          "en": "Bonfim"
+        },
+        "population": 12590
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.028999999999996,
+          3.8365
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "normandia",
+        "area": 0.9593100000000032,
+        "bounding_box": [
+          -60.542,
+          3.369,
+          -59.516,
+          4.304
+        ],
+        "point": [
+          -60.028999999999996,
+          3.8365
+        ],
+        "labels": {
+          "en": "Normandia"
+        },
+        "population": 13010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.188500000000005,
+          0.8485
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "são luiz",
+        "area": 0.24552499999999972,
+        "bounding_box": [
+          -60.402,
+          0.561,
+          -59.975,
+          1.136
+        ],
+        "point": [
+          -60.188500000000005,
+          0.8485
+        ],
+        "labels": {
+          "en": "São Luiz"
+        },
+        "population": 8592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.792500000000004,
+          0.7705
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "são joão da baliza",
+        "area": 0.7283470000000012,
+        "bounding_box": [
+          -60.152,
+          0.264,
+          -59.433,
+          1.277
+        ],
+        "point": [
+          -59.792500000000004,
+          0.7705
+        ],
+        "labels": {
+          "en": "São João da Baliza"
+        },
+        "population": 8994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.3535,
+          0.9455
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-rr",
+        "region_child": "caroebe",
+        "area": 1.2744049999999933,
+        "bounding_box": [
+          -59.821,
+          0.264,
+          -58.886,
+          1.627
+        ],
+        "point": [
+          -59.3535,
+          0.9455
+        ],
+        "labels": {
+          "en": "Caroebe"
+        },
+        "population": 11554
+      }
+    }
+  ]
+}

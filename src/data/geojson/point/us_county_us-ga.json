@@ -1,0 +1,4865 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47200000000001,
+          33.4855
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "189",
+        "area": 0.1235320000000035,
+        "bounding_box": [
+          -82.65,
+          33.312,
+          -82.294,
+          33.659
+        ],
+        "point": [
+          -82.47200000000001,
+          33.4855
+        ],
+        "labels": {
+          "en": "McDuffie"
+        },
+        "population": 22478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0085,
+          31.1925
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "025",
+        "area": 0.20073899999999875,
+        "bounding_box": [
+          -82.285,
+          31.011,
+          -81.732,
+          31.374
+        ],
+        "point": [
+          -82.0085,
+          31.1925
+        ],
+        "labels": {
+          "en": "Brantley"
+        },
+        "population": 22953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15549999999999,
+          33.067
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "171",
+        "area": 0.06228800000000106,
+        "bounding_box": [
+          -84.27,
+          32.931,
+          -84.041,
+          33.203
+        ],
+        "point": [
+          -84.15549999999999,
+          33.067
+        ],
+        "labels": {
+          "en": "Lamar"
+        },
+        "population": 21429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.23349999999999,
+          34.333
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "115",
+        "area": 0.23215600000000522,
+        "bounding_box": [
+          -85.462,
+          34.079,
+          -85.005,
+          34.587
+        ],
+        "point": [
+          -85.23349999999999,
+          34.333
+        ],
+        "labels": {
+          "en": "Floyd"
+        },
+        "population": 102078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4315,
+          31.793999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "273",
+        "area": 0.11867799999999633,
+        "bounding_box": [
+          -84.603,
+          31.621,
+          -84.26,
+          31.967
+        ],
+        "point": [
+          -84.4315,
+          31.793999999999997
+        ],
+        "labels": {
+          "en": "Terrell"
+        },
+        "population": 7861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3515,
+          33.5005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "063",
+        "area": 0.06385500000000191,
+        "bounding_box": [
+          -84.459,
+          33.352,
+          -84.244,
+          33.649
+        ],
+        "point": [
+          -84.3515,
+          33.5005
+        ],
+        "labels": {
+          "en": "Clayton"
+        },
+        "population": 286426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.235,
+          33.5265
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "073",
+        "area": 0.1420019999999971,
+        "bounding_box": [
+          -82.442,
+          33.355,
+          -82.028,
+          33.698
+        ],
+        "point": [
+          -82.235,
+          33.5265
+        ],
+        "labels": {
+          "en": "Columbia"
+        },
+        "population": 170170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04650000000001,
+          32.3465
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "193",
+        "area": 0.14706899999999853,
+        "bounding_box": [
+          -84.256,
+          32.171,
+          -83.837,
+          32.522
+        ],
+        "point": [
+          -84.04650000000001,
+          32.3465
+        ],
+        "labels": {
+          "en": "Macon"
+        },
+        "population": 15491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02799999999999,
+          32.5265
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "193",
+        "area": 0.0004499999999999915,
+        "bounding_box": [
+          -84.053,
+          32.522,
+          -84.003,
+          32.531
+        ],
+        "point": [
+          -84.02799999999999,
+          32.5265
+        ],
+        "labels": {
+          "en": "Macon"
+        },
+        "population": 15491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.156,
+          30.717
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "049",
+        "area": 0.37910400000000416,
+        "bounding_box": [
+          -82.42,
+          30.358,
+          -81.892,
+          31.076
+        ],
+        "point": [
+          -82.156,
+          30.717
+        ],
+        "labels": {
+          "en": "Charlton"
+        },
+        "population": 14503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1725,
+          34.0
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "233",
+        "area": 0.10079799999999813,
+        "bounding_box": [
+          -85.422,
+          33.899,
+          -84.923,
+          34.101
+        ],
+        "point": [
+          -85.1725,
+          34.0
+        ],
+        "labels": {
+          "en": "Polk"
+        },
+        "population": 45140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.187,
+          33.795
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "089",
+        "area": 0.11475199999999662,
+        "bounding_box": [
+          -84.35,
+          33.619,
+          -84.024,
+          33.971
+        ],
+        "point": [
+          -84.187,
+          33.795
+        ],
+        "labels": {
+          "en": "DeKalb"
+        },
+        "population": 727072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4555,
+          34.472
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "227",
+        "area": 0.07304799999999742,
+        "bounding_box": [
+          -84.654,
+          34.38,
+          -84.257,
+          34.564
+        ],
+        "point": [
+          -84.4555,
+          34.472
+        ],
+        "labels": {
+          "en": "Pickens"
+        },
+        "population": 36975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.225,
+          34.3805
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "119",
+        "area": 0.10829799999999752,
+        "bounding_box": [
+          -83.398,
+          34.224,
+          -83.052,
+          34.537
+        ],
+        "point": [
+          -83.225,
+          34.3805
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 24198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.84700000000001,
+          33.586
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "265",
+        "area": 0.09819599999999573,
+        "bounding_box": [
+          -83.014,
+          33.439,
+          -82.68,
+          33.733
+        ],
+        "point": [
+          -82.84700000000001,
+          33.586
+        ],
+        "labels": {
+          "en": "Taliaferro"
+        },
+        "population": 1437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0735,
+          33.619
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "045",
+        "area": 0.20419399999999632,
+        "bounding_box": [
+          -85.338,
+          33.426,
+          -84.809,
+          33.812
+        ],
+        "point": [
+          -85.0735,
+          33.619
+        ],
+        "labels": {
+          "en": "Carroll"
+        },
+        "population": 140182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.42750000000001,
+          31.1885
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "075",
+        "area": 0.09528500000000067,
+        "bounding_box": [
+          -83.575,
+          31.027,
+          -83.28,
+          31.35
+        ],
+        "point": [
+          -83.42750000000001,
+          31.1885
+        ],
+        "labels": {
+          "en": "Cook"
+        },
+        "population": 18759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.333,
+          32.1335
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "279",
+        "area": 0.13229999999999842,
+        "bounding_box": [
+          -82.483,
+          31.913,
+          -82.183,
+          32.354
+        ],
+        "point": [
+          -82.333,
+          32.1335
+        ],
+        "labels": {
+          "en": "Toombs"
+        },
+        "population": 28468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43199999999999,
+          33.812
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "181",
+        "area": 0.14654400000000117,
+        "bounding_box": [
+          -82.645,
+          33.64,
+          -82.219,
+          33.984
+        ],
+        "point": [
+          -82.43199999999999,
+          33.812
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 7674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93350000000001,
+          32.7275
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "145",
+        "area": 0.144788999999998,
+        "bounding_box": [
+          -85.184,
+          32.583,
+          -84.683,
+          32.872
+        ],
+        "point": [
+          -84.93350000000001,
+          32.7275
+        ],
+        "labels": {
+          "en": "Harris"
+        },
+        "population": 43595
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6285,
+          32.7675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "251",
+        "area": 0.26680300000000057,
+        "bounding_box": [
+          -81.868,
+          32.489,
+          -81.389,
+          33.046
+        ],
+        "point": [
+          -81.6285,
+          32.7675
+        ],
+        "labels": {
+          "en": "Screven"
+        },
+        "population": 13871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.744,
+          33.7635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "297",
+        "area": 0.15850799999999893,
+        "bounding_box": [
+          -83.982,
+          33.597,
+          -83.506,
+          33.93
+        ],
+        "point": [
+          -83.744,
+          33.7635
+        ],
+        "labels": {
+          "en": "Walton"
+        },
+        "population": 116717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.882,
+          34.509
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "129",
+        "area": 0.1144999999999996,
+        "bounding_box": [
+          -85.111,
+          34.384,
+          -84.653,
+          34.634
+        ],
+        "point": [
+          -84.882,
+          34.509
+        ],
+        "labels": {
+          "en": "Gordon"
+        },
+        "population": 68921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9445,
+          34.353
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "147",
+        "area": 0.09672599999999978,
+        "bounding_box": [
+          -83.116,
+          34.212,
+          -82.773,
+          34.494
+        ],
+        "point": [
+          -82.9445,
+          34.353
+        ],
+        "labels": {
+          "en": "Hart"
+        },
+        "population": 27577
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.327,
+          32.845
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "293",
+        "area": 0.12709999999999988,
+        "bounding_box": [
+          -84.532,
+          32.69,
+          -84.122,
+          33.0
+        ],
+        "point": [
+          -84.327,
+          32.845
+        ],
+        "labels": {
+          "en": "Upson"
+        },
+        "population": 26523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.703,
+          34.0115
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "013",
+        "area": 0.07669199999999908,
+        "bounding_box": [
+          -83.869,
+          33.896,
+          -83.537,
+          34.127
+        ],
+        "point": [
+          -83.703,
+          34.0115
+        ],
+        "labels": {
+          "en": "Barrow"
+        },
+        "population": 103262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7365,
+          31.777
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "183",
+        "area": 0.23276399999999484,
+        "bounding_box": [
+          -81.981,
+          31.539,
+          -81.492,
+          32.015
+        ],
+        "point": [
+          -81.7365,
+          31.777
+        ],
+        "labels": {
+          "en": "Long"
+        },
+        "population": 20229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8865,
+          33.9285
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "223",
+        "area": 0.10038900000000014,
+        "bounding_box": [
+          -85.05,
+          33.775,
+          -84.723,
+          34.082
+        ],
+        "point": [
+          -84.8865,
+          33.9285
+        ],
+        "labels": {
+          "en": "Paulding"
+        },
+        "population": 243594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.952,
+          32.69
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "079",
+        "area": 0.1606400000000032,
+        "bounding_box": [
+          -84.203,
+          32.53,
+          -83.701,
+          32.85
+        ],
+        "point": [
+          -83.952,
+          32.69
+        ],
+        "labels": {
+          "en": "Crawford"
+        },
+        "population": 12868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9795,
+          34.815
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "291",
+        "area": 0.13805399999999893,
+        "bounding_box": [
+          -84.179,
+          34.642,
+          -83.78,
+          34.988
+        ],
+        "point": [
+          -83.9795,
+          34.815
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 26680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50999999999999,
+          34.63
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "137",
+        "area": 0.13622400000000356,
+        "bounding_box": [
+          -83.682,
+          34.432,
+          -83.338,
+          34.828
+        ],
+        "point": [
+          -83.50999999999999,
+          34.63
+        ],
+        "labels": {
+          "en": "Habersham"
+        },
+        "population": 51147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1765,
+          32.7965
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "319",
+        "area": 0.19592499999999807,
+        "bounding_box": [
+          -83.407,
+          32.584,
+          -82.946,
+          33.009
+        ],
+        "point": [
+          -83.1765,
+          32.7965
+        ],
+        "labels": {
+          "en": "Wilkinson"
+        },
+        "population": 9069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.679,
+          33.038
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "199",
+        "area": 0.143592000000001,
+        "bounding_box": [
+          -84.865,
+          32.845,
+          -84.493,
+          33.231
+        ],
+        "point": [
+          -84.679,
+          33.038
+        ],
+        "labels": {
+          "en": "Meriwether"
+        },
+        "population": 22587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82249999999999,
+          32.378
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "053",
+        "area": 0.11649399999999849,
+        "bounding_box": [
+          -85.008,
+          32.221,
+          -84.637,
+          32.535
+        ],
+        "point": [
+          -84.82249999999999,
+          32.378
+        ],
+        "labels": {
+          "en": "Chattahoochee"
+        },
+        "population": 8537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2365,
+          31.2505
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "019",
+        "area": 0.18265499999999432,
+        "bounding_box": [
+          -83.439,
+          31.025,
+          -83.034,
+          31.476
+        ],
+        "point": [
+          -83.2365,
+          31.2505
+        ],
+        "labels": {
+          "en": "Berrien"
+        },
+        "population": 23022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50450000000001,
+          33.403999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "113",
+        "area": 0.07202999999999815,
+        "bounding_box": [
+          -84.627,
+          33.257,
+          -84.382,
+          33.551
+        ],
+        "point": [
+          -84.50450000000001,
+          33.403999999999996
+        ],
+        "labels": {
+          "en": "Fayette"
+        },
+        "population": 124792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.011,
+          33.2595
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "141",
+        "area": 0.22039400000000056,
+        "bounding_box": [
+          -83.274,
+          33.05,
+          -82.748,
+          33.469
+        ],
+        "point": [
+          -83.011,
+          33.2595
+        ],
+        "labels": {
+          "en": "Hancock"
+        },
+        "population": 8797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.503,
+          31.462
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "277",
+        "area": 0.0892160000000003,
+        "bounding_box": [
+          -83.667,
+          31.326,
+          -83.339,
+          31.598
+        ],
+        "point": [
+          -83.503,
+          31.462
+        ],
+        "labels": {
+          "en": "Tift"
+        },
+        "population": 41734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.212,
+          33.778999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "143",
+        "area": 0.08889999999999779,
+        "bounding_box": [
+          -85.387,
+          33.652,
+          -85.037,
+          33.906
+        ],
+        "point": [
+          -85.212,
+          33.778999999999996
+        ],
+        "labels": {
+          "en": "Haralson"
+        },
+        "population": 32481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.97,
+          31.633000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "061",
+        "area": 0.1005479999999998,
+        "bounding_box": [
+          -85.141,
+          31.486,
+          -84.799,
+          31.78
+        ],
+        "point": [
+          -84.97,
+          31.633000000000003
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 3054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85,
+          34.2455
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "015",
+        "area": 0.1319899999999946,
+        "bounding_box": [
+          -85.047,
+          34.078,
+          -84.653,
+          34.413
+        ],
+        "point": [
+          -84.85,
+          34.2455
+        ],
+        "labels": {
+          "en": "Bartow"
+        },
+        "population": 133121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.839,
+          34.306
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "139",
+        "area": 0.1863680000000049,
+        "bounding_box": [
+          -84.063,
+          34.098,
+          -83.615,
+          34.514
+        ],
+        "point": [
+          -83.839,
+          34.306
+        ],
+        "labels": {
+          "en": "Hall"
+        },
+        "population": 232684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.564,
+          32.403999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "283",
+        "area": 0.07760800000000063,
+        "bounding_box": [
+          -82.742,
+          32.295,
+          -82.386,
+          32.513
+        ],
+        "point": [
+          -82.564,
+          32.403999999999996
+        ],
+        "labels": {
+          "en": "Treutlen"
+        },
+        "population": 6934
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62049999999999,
+          31.536
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "037",
+        "area": 0.08964000000000033,
+        "bounding_box": [
+          -84.828,
+          31.428,
+          -84.413,
+          31.644
+        ],
+        "point": [
+          -84.62049999999999,
+          31.536
+        ],
+        "labels": {
+          "en": "Calhoun"
+        },
+        "population": 7292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87049999999999,
+          31.296
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "099",
+        "area": 0.21630999999999875,
+        "bounding_box": [
+          -85.113,
+          31.073,
+          -84.628,
+          31.519
+        ],
+        "point": [
+          -84.87049999999999,
+          31.296
+        ],
+        "labels": {
+          "en": "Early"
+        },
+        "population": 9690
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.086,
+          32.414500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "043",
+        "area": 0.09719400000000224,
+        "bounding_box": [
+          -82.253,
+          32.269,
+          -81.919,
+          32.56
+        ],
+        "point": [
+          -82.086,
+          32.414500000000004
+        ],
+        "labels": {
+          "en": "Candler"
+        },
+        "population": 12749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.874,
+          32.491
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "215",
+        "area": 0.09687599999999813,
+        "bounding_box": [
+          -85.081,
+          32.374,
+          -84.667,
+          32.608
+        ],
+        "point": [
+          -84.874,
+          32.491
+        ],
+        "labels": {
+          "en": "Muscogee"
+        },
+        "population": 193461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7855,
+          31.917499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "081",
+        "area": 0.0796769999999999,
+        "bounding_box": [
+          -83.961,
+          31.804,
+          -83.61,
+          32.031
+        ],
+        "point": [
+          -83.7855,
+          31.917499999999997
+        ],
+        "labels": {
+          "en": "Crisp"
+        },
+        "population": 24778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1815,
+          32.052
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "261",
+        "area": 0.18690000000000104,
+        "bounding_box": [
+          -84.444,
+          31.874,
+          -83.919,
+          32.23
+        ],
+        "point": [
+          -84.1815,
+          32.052
+        ],
+        "labels": {
+          "en": "Sumter"
+        },
+        "population": 32581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38900000000001,
+          33.9445
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "059",
+        "area": 0.05712800000000061,
+        "bounding_box": [
+          -83.537,
+          33.848,
+          -83.241,
+          34.041
+        ],
+        "point": [
+          -83.38900000000001,
+          33.9445
+        ],
+        "labels": {
+          "en": "Clarke"
+        },
+        "population": 133798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7565,
+          33.3515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "077",
+        "area": 0.16595699999999763,
+        "bounding_box": [
+          -85.015,
+          33.191,
+          -84.498,
+          33.512
+        ],
+        "point": [
+          -84.7565,
+          33.3515
+        ],
+        "labels": {
+          "en": "Coweta"
+        },
+        "population": 180481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3185,
+          32.428
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "023",
+        "area": 0.11200800000000447,
+        "bounding_box": [
+          -83.498,
+          32.272,
+          -83.139,
+          32.584
+        ],
+        "point": [
+          -83.3185,
+          32.428
+        ],
+        "labels": {
+          "en": "Bleckley"
+        },
+        "population": 14648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.92949999999999,
+          33.051
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "033",
+        "area": 0.38129999999999376,
+        "bounding_box": [
+          -82.317,
+          32.805,
+          -81.542,
+          33.297
+        ],
+        "point": [
+          -81.92949999999999,
+          33.051
+        ],
+        "labels": {
+          "en": "Burke"
+        },
+        "population": 24458
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5245,
+          32.348
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "197",
+        "area": 0.11513200000000161,
+        "bounding_box": [
+          -84.659,
+          32.134,
+          -84.39,
+          32.562
+        ],
+        "point": [
+          -84.5245,
+          32.348
+        ],
+        "labels": {
+          "en": "Marion"
+        },
+        "population": 10684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6985,
+          33.329
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "159",
+        "area": 0.12962599999999924,
+        "bounding_box": [
+          -83.863,
+          33.132,
+          -83.534,
+          33.526
+        ],
+        "point": [
+          -83.6985,
+          33.329
+        ],
+        "labels": {
+          "en": "Jasper"
+        },
+        "population": 16918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13900000000001,
+          33.4725
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "151",
+        "area": 0.15006999999999598,
+        "bounding_box": [
+          -84.354,
+          33.298,
+          -83.924,
+          33.647
+        ],
+        "point": [
+          -84.13900000000001,
+          33.4725
+        ],
+        "labels": {
+          "en": "Henry"
+        },
+        "population": 348965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8845,
+          31.3015
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "003",
+        "area": 0.12110699999999994,
+        "bounding_box": [
+          -83.14,
+          31.183,
+          -82.629,
+          31.42
+        ],
+        "point": [
+          -82.8845,
+          31.3015
+        ],
+        "labels": {
+          "en": "Atkinson"
+        },
+        "population": 9121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4945,
+          32.701499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "263",
+        "area": 0.15220500000000142,
+        "bounding_box": [
+          -84.703,
+          32.519,
+          -84.286,
+          32.884
+        ],
+        "point": [
+          -84.4945,
+          32.701499999999996
+        ],
+        "labels": {
+          "en": "Talbot"
+        },
+        "population": 6996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1515,
+          34.476
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "085",
+        "area": 0.11047600000000242,
+        "bounding_box": [
+          -84.346,
+          34.334,
+          -83.957,
+          34.618
+        ],
+        "point": [
+          -84.1515,
+          34.476
+        ],
+        "labels": {
+          "en": "Dawson"
+        },
+        "population": 32729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6955,
+          32.667500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "167",
+        "area": 0.16160700000000122,
+        "bounding_box": [
+          -82.957,
+          32.513,
+          -82.434,
+          32.822
+        ],
+        "point": [
+          -82.6955,
+          32.667500000000004
+        ],
+        "labels": {
+          "en": "Johnson"
+        },
+        "population": 11525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.79249999999999,
+          32.9985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "303",
+        "area": 0.2696770000000007,
+        "bounding_box": [
+          -83.074,
+          32.759,
+          -82.511,
+          33.238
+        ],
+        "point": [
+          -82.79249999999999,
+          32.9985
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 21192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12299999999999,
+          32.176500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "091",
+        "area": 0.27760599999999963,
+        "bounding_box": [
+          -83.374,
+          31.9,
+          -82.872,
+          32.453
+        ],
+        "point": [
+          -83.12299999999999,
+          32.176500000000004
+        ],
+        "labels": {
+          "en": "Dodge"
+        },
+        "population": 24907
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6205,
+          30.939500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "039",
+        "area": 0.2908910000000014,
+        "bounding_box": [
+          -81.936,
+          30.709,
+          -81.305,
+          31.17
+        ],
+        "point": [
+          -81.6205,
+          30.939500000000002
+        ],
+        "labels": {
+          "en": "Camden"
+        },
+        "population": 58279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8595,
+          32.5655
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "225",
+        "area": 0.08020100000000188,
+        "bounding_box": [
+          -84.018,
+          32.439,
+          -83.701,
+          32.692
+        ],
+        "point": [
+          -83.8595,
+          32.5655
+        ],
+        "labels": {
+          "en": "Peach"
+        },
+        "population": 33761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.748,
+          34.6525
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "311",
+        "area": 0.07603200000000113,
+        "bounding_box": [
+          -83.876,
+          34.504,
+          -83.62,
+          34.801
+        ],
+        "point": [
+          -83.748,
+          34.6525
+        ],
+        "labels": {
+          "en": "White"
+        },
+        "population": 36544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4475,
+          33.037
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "163",
+        "area": 0.2359499999999999,
+        "bounding_box": [
+          -82.662,
+          32.762,
+          -82.233,
+          33.312
+        ],
+        "point": [
+          -82.4475,
+          33.037
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 16608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.418,
+          32.675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "289",
+        "area": 0.17037199999999783,
+        "bounding_box": [
+          -83.609,
+          32.452,
+          -83.227,
+          32.898
+        ],
+        "point": [
+          -83.418,
+          32.675
+        ],
+        "labels": {
+          "en": "Twiggs"
+        },
+        "population": 7656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2195,
+          31.543
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "095",
+        "area": 0.10164999999999813,
+        "bounding_box": [
+          -84.457,
+          31.436,
+          -83.982,
+          31.65
+        ],
+        "point": [
+          -84.2195,
+          31.543
+        ],
+        "labels": {
+          "en": "Dougherty"
+        },
+        "population": 94853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1225,
+          34.878
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "047",
+        "area": 0.06269999999999892,
+        "bounding_box": [
+          -85.265,
+          34.768,
+          -84.98,
+          34.988
+        ],
+        "point": [
+          -85.1225,
+          34.878
+        ],
+        "labels": {
+          "en": "Catoosa"
+        },
+        "population": 75129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.742,
+          33.689499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "097",
+        "area": 0.0764239999999997,
+        "bounding_box": [
+          -84.906,
+          33.573,
+          -84.578,
+          33.806
+        ],
+        "point": [
+          -84.742,
+          33.689499999999995
+        ],
+        "labels": {
+          "en": "Douglas"
+        },
+        "population": 192139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47800000000001,
+          33.626
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "211",
+        "area": 0.16051199999999713,
+        "bounding_box": [
+          -83.687,
+          33.434,
+          -83.269,
+          33.818
+        ],
+        "point": [
+          -83.47800000000001,
+          33.626
+        ],
+        "labels": {
+          "en": "Morgan"
+        },
+        "population": 20580
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7325,
+          32.403
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "031",
+        "area": 0.29749999999999943,
+        "bounding_box": [
+          -82.03,
+          32.153,
+          -81.435,
+          32.653
+        ],
+        "point": [
+          -81.7325,
+          32.403
+        ],
+        "labels": {
+          "en": "Bulloch"
+        },
+        "population": 88031
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.73949999999999,
+          32.114
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "309",
+        "area": 0.15638999999999734,
+        "bounding_box": [
+          -82.94,
+          31.919,
+          -82.539,
+          32.309
+        ],
+        "point": [
+          -82.73949999999999,
+          32.114
+        ],
+        "labels": {
+          "en": "Wheeler"
+        },
+        "population": 9136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.872,
+          32.1635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "109",
+        "area": 0.07068600000000318,
+        "bounding_box": [
+          -82.025,
+          32.048,
+          -81.719,
+          32.279
+        ],
+        "point": [
+          -81.872,
+          32.1635
+        ],
+        "labels": {
+          "en": "Evans"
+        },
+        "population": 11503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5435,
+          32.076
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "307",
+        "area": 0.07065000000000189,
+        "bounding_box": [
+          -84.656,
+          31.919,
+          -84.431,
+          32.233
+        ],
+        "point": [
+          -84.5435,
+          32.076
+        ],
+        "labels": {
+          "en": "Webster"
+        },
+        "population": 3238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.587,
+          33.0135
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "169",
+        "area": 0.15800999999999893,
+        "bounding_box": [
+          -83.816,
+          32.841,
+          -83.358,
+          33.186
+        ],
+        "point": [
+          -83.587,
+          33.0135
+        ],
+        "labels": {
+          "en": "Jones"
+        },
+        "population": 34809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.03800000000001,
+          33.960499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "135",
+        "area": 0.19836999999999727,
+        "bounding_box": [
+          -84.277,
+          33.753,
+          -83.799,
+          34.168
+        ],
+        "point": [
+          -84.03800000000001,
+          33.960499999999996
+        ],
+        "labels": {
+          "en": "Gwinnett"
+        },
+        "population": 1102183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.84049999999999,
+          31.584000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "321",
+        "area": 0.20375599999999766,
+        "bounding_box": [
+          -84.032,
+          31.318,
+          -83.649,
+          31.85
+        ],
+        "point": [
+          -83.84049999999999,
+          31.584000000000003
+        ],
+        "labels": {
+          "en": "Worth"
+        },
+        "population": 21244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2045,
+          31.366999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "229",
+        "area": 0.1393999999999988,
+        "bounding_box": [
+          -82.417,
+          31.203,
+          -81.992,
+          31.531
+        ],
+        "point": [
+          -82.2045,
+          31.366999999999997
+        ],
+        "labels": {
+          "en": "Pierce"
+        },
+        "population": 22490
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39250000000001,
+          33.089
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "231",
+        "area": 0.06936000000000093,
+        "bounding_box": [
+          -84.537,
+          32.969,
+          -84.248,
+          33.209
+        ],
+        "point": [
+          -84.39250000000001,
+          33.089
+        ],
+        "labels": {
+          "en": "Pike"
+        },
+        "population": 23809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.854,
+          32.076499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "259",
+        "area": 0.1339639999999971,
+        "bounding_box": [
+          -85.068,
+          31.92,
+          -84.64,
+          32.233
+        ],
+        "point": [
+          -84.854,
+          32.076499999999996
+        ],
+        "labels": {
+          "en": "Stewart"
+        },
+        "population": 7042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0495,
+          33.047
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "285",
+        "area": 0.13350000000000062,
+        "bounding_box": [
+          -85.237,
+          32.869,
+          -84.862,
+          33.225
+        ],
+        "point": [
+          -85.0495,
+          33.047
+        ],
+        "labels": {
+          "en": "Troup"
+        },
+        "population": 75872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.282,
+          34.574
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "257",
+        "area": 0.08045599999999845,
+        "bounding_box": [
+          -83.46,
+          34.461,
+          -83.104,
+          34.687
+        ],
+        "point": [
+          -83.282,
+          34.574
+        ],
+        "labels": {
+          "en": "Stephens"
+        },
+        "population": 26845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3245,
+          32.564
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "107",
+        "area": 0.3519679999999933,
+        "bounding_box": [
+          -82.648,
+          32.292,
+          -82.001,
+          32.836
+        ],
+        "point": [
+          -82.3245,
+          32.564
+        ],
+        "labels": {
+          "en": "Emanuel"
+        },
+        "population": 23499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75999999999999,
+          31.180500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "071",
+        "area": 0.15697199999999917,
+        "bounding_box": [
+          -84.014,
+          31.026,
+          -83.506,
+          31.335
+        ],
+        "point": [
+          -83.75999999999999,
+          31.180500000000002
+        ],
+        "labels": {
+          "en": "Colquitt"
+        },
+        "population": 49387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0945,
+          33.385999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "245",
+        "area": 0.16440600000000125,
+        "bounding_box": [
+          -82.353,
+          33.227,
+          -81.836,
+          33.545
+        ],
+        "point": [
+          -82.0945,
+          33.385999999999996
+        ],
+        "labels": {
+          "en": "Richmond"
+        },
+        "population": 203666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5025,
+          34.3445
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "011",
+        "area": 0.0970550000000005,
+        "bounding_box": [
+          -83.667,
+          34.197,
+          -83.338,
+          34.492
+        ],
+        "point": [
+          -83.5025,
+          34.3445
+        ],
+        "labels": {
+          "en": "Banks"
+        },
+        "population": 23820
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.88,
+          31.578000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "305",
+        "area": 0.2690720000000001,
+        "bounding_box": [
+          -82.148,
+          31.327,
+          -81.612,
+          31.829
+        ],
+        "point": [
+          -81.88,
+          31.578000000000003
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 34046
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.858,
+          30.732
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "101",
+        "area": 0.15624000000000257,
+        "bounding_box": [
+          -83.137,
+          30.592,
+          -82.579,
+          30.872
+        ],
+        "point": [
+          -82.858,
+          30.732
+        ],
+        "labels": {
+          "en": "Echols"
+        },
+        "population": 4299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.437,
+          31.8065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "179",
+        "area": 0.44195399999999896,
+        "bounding_box": [
+          -81.824,
+          31.521,
+          -81.05,
+          32.092
+        ],
+        "point": [
+          -81.437,
+          31.8065
+        ],
+        "labels": {
+          "en": "Liberty"
+        },
+        "population": 65643
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04849999999999,
+          33.656000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "247",
+        "area": 0.07045999999999966,
+        "bounding_box": [
+          -84.184,
+          33.526,
+          -83.913,
+          33.786
+        ],
+        "point": [
+          -84.04849999999999,
+          33.656000000000006
+        ],
+        "labels": {
+          "en": "Rockdale"
+        },
+        "population": 104624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.833,
+          34.1225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "105",
+        "area": 0.17915400000000278,
+        "bounding_box": [
+          -83.102,
+          33.956,
+          -82.564,
+          34.289
+        ],
+        "point": [
+          -82.833,
+          34.1225
+        ],
+        "labels": {
+          "en": "Elbert"
+        },
+        "population": 19868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3945,
+          31.989
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "315",
+        "area": 0.12527999999999823,
+        "bounding_box": [
+          -83.612,
+          31.845,
+          -83.177,
+          32.133
+        ],
+        "point": [
+          -83.3945,
+          31.989
+        ],
+        "labels": {
+          "en": "Wilcox"
+        },
+        "population": 9865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7465,
+          34.89149999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "281",
+        "area": 0.08019900000000038,
+        "bounding_box": [
+          -83.946,
+          34.791,
+          -83.547,
+          34.992
+        ],
+        "point": [
+          -83.7465,
+          34.89149999999999
+        ],
+        "labels": {
+          "en": "Towns"
+        },
+        "population": 12023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8185,
+          32.16
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "093",
+        "area": 0.11220000000000423,
+        "bounding_box": [
+          -84.031,
+          32.028,
+          -83.606,
+          32.292
+        ],
+        "point": [
+          -83.8185,
+          32.16
+        ],
+        "labels": {
+          "en": "Dooly"
+        },
+        "population": 19348
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45349999999999,
+          32.254000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "235",
+        "area": 0.09620000000000063,
+        "bounding_box": [
+          -83.616,
+          32.106,
+          -83.291,
+          32.402
+        ],
+        "point": [
+          -83.45349999999999,
+          32.254000000000005
+        ],
+        "labels": {
+          "en": "Pulaski"
+        },
+        "population": 15049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8735,
+          31.59
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "069",
+        "area": 0.25085999999999564,
+        "bounding_box": [
+          -83.151,
+          31.364,
+          -82.596,
+          31.816
+        ],
+        "point": [
+          -82.8735,
+          31.59
+        ],
+        "labels": {
+          "en": "Coffee"
+        },
+        "population": 48073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4165,
+          31.019
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "299",
+        "area": 0.5120999999999908,
+        "bounding_box": [
+          -82.701,
+          30.569,
+          -82.132,
+          31.469
+        ],
+        "point": [
+          -82.4165,
+          31.019
+        ],
+        "labels": {
+          "en": "Ware"
+        },
+        "population": 37179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30000000000001,
+          31.7185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "001",
+        "area": 0.24848999999999818,
+        "bounding_box": [
+          -82.551,
+          31.471,
+          -82.049,
+          31.966
+        ],
+        "point": [
+          -82.30000000000001,
+          31.7185
+        ],
+        "labels": {
+          "en": "Appling"
+        },
+        "population": 19146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4745,
+          33.8445
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "121",
+        "area": 0.514299,
+        "bounding_box": [
+          -84.851,
+          33.503,
+          -84.098,
+          34.186
+        ],
+        "point": [
+          -84.4745,
+          33.8445
+        ],
+        "labels": {
+          "en": "Fulton"
+        },
+        "population": 1027794
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30600000000001,
+          32.293
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "249",
+        "area": 0.06696000000000027,
+        "bounding_box": [
+          -84.43,
+          32.158,
+          -84.182,
+          32.428
+        ],
+        "point": [
+          -84.30600000000001,
+          32.293
+        ],
+        "labels": {
+          "en": "Schley"
+        },
+        "population": 6595
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.46000000000001,
+          31.977
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "029",
+        "area": 0.3389760000000045,
+        "bounding_box": [
+          -81.781,
+          31.713,
+          -81.139,
+          32.241
+        ],
+        "point": [
+          -81.46000000000001,
+          31.977
+        ],
+        "labels": {
+          "en": "Bryan"
+        },
+        "population": 38870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.695,
+          30.883000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "065",
+        "area": 0.3323040000000042,
+        "bounding_box": [
+          -82.971,
+          30.582,
+          -82.419,
+          31.184
+        ],
+        "point": [
+          -82.695,
+          30.883000000000003
+        ],
+        "labels": {
+          "en": "Clinch"
+        },
+        "population": 6744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2505,
+          30.828
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "185",
+        "area": 0.18890399999999807,
+        "bounding_box": [
+          -83.482,
+          30.624,
+          -83.019,
+          31.032
+        ],
+        "point": [
+          -83.2505,
+          30.828
+        ],
+        "labels": {
+          "en": "Lowndes"
+        },
+        "population": 129422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6275,
+          31.71
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "287",
+        "area": 0.10108799999999983,
+        "bounding_box": [
+          -83.803,
+          31.566,
+          -83.452,
+          31.854
+        ],
+        "point": [
+          -83.6275,
+          31.71
+        ],
+        "labels": {
+          "en": "Turner"
+        },
+        "population": 8367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7475,
+          31.7755
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "243",
+        "area": 0.13239900000000007,
+        "bounding_box": [
+          -84.959,
+          31.619,
+          -84.536,
+          31.932
+        ],
+        "point": [
+          -84.7475,
+          31.7755
+        ],
+        "labels": {
+          "en": "Randolph"
+        },
+        "population": 7672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6335,
+          31.8215
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "161",
+        "area": 0.12250699999999973,
+        "bounding_box": [
+          -82.837,
+          31.671,
+          -82.43,
+          31.972
+        ],
+        "point": [
+          -82.6335,
+          31.8215
+        ],
+        "labels": {
+          "en": "Jeff Davis"
+        },
+        "population": 17862
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.758,
+          34.7855
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "213",
+        "area": 0.14256000000000196,
+        "bounding_box": [
+          -84.934,
+          34.583,
+          -84.582,
+          34.988
+        ],
+        "point": [
+          -84.758,
+          34.7855
+        ],
+        "labels": {
+          "en": "Murray"
+        },
+        "population": 43292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24,
+          31.751
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "017",
+        "area": 0.0966240000000001,
+        "bounding_box": [
+          -83.484,
+          31.652,
+          -82.996,
+          31.85
+        ],
+        "point": [
+          -83.24,
+          31.751
+        ],
+        "labels": {
+          "en": "Ben Hill"
+        },
+        "population": 17863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.084,
+          31.015500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "173",
+        "area": 0.07683599999999806,
+        "bounding_box": [
+          -83.198,
+          30.847,
+          -82.97,
+          31.184
+        ],
+        "point": [
+          -83.084,
+          31.015500000000003
+        ],
+        "labels": {
+          "en": "Lanier"
+        },
+        "population": 14045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.02449999999999,
+          31.881500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "239",
+        "area": 0.05193499999999989,
+        "bounding_box": [
+          -85.142,
+          31.771,
+          -84.907,
+          31.992
+        ],
+        "point": [
+          -85.02449999999999,
+          31.881500000000003
+        ],
+        "labels": {
+          "en": "Quitman"
+        },
+        "population": 2451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0435,
+          33.8685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "221",
+        "area": 0.18708499999999872,
+        "bounding_box": [
+          -83.307,
+          33.691,
+          -82.78,
+          34.046
+        ],
+        "point": [
+          -83.0435,
+          33.8685
+        ],
+        "labels": {
+          "en": "Oglethorpe"
+        },
+        "population": 17552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24950000000001,
+          31.621000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "155",
+        "area": 0.14989399999999917,
+        "bounding_box": [
+          -83.501,
+          31.472,
+          -82.998,
+          31.77
+        ],
+        "point": [
+          -83.24950000000001,
+          31.621000000000002
+        ],
+        "labels": {
+          "en": "Irwin"
+        },
+        "population": 9089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2235,
+          32.56
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "269",
+        "area": 0.1658159999999999,
+        "bounding_box": [
+          -84.444,
+          32.372,
+          -84.003,
+          32.748
+        ],
+        "point": [
+          -84.2235,
+          32.56
+        ],
+        "labels": {
+          "en": "Taylor"
+        },
+        "population": 8908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.031,
+          32.5095
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "269",
+        "area": 0.0011500000000000967,
+        "bounding_box": [
+          -84.054,
+          32.497,
+          -84.008,
+          32.522
+        ],
+        "point": [
+          -84.031,
+          32.5095
+        ],
+        "labels": {
+          "en": "Taylor"
+        },
+        "population": 8908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53200000000001,
+          32.1515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "209",
+        "area": 0.09962999999999743,
+        "bounding_box": [
+          -82.655,
+          31.949,
+          -82.409,
+          32.354
+        ],
+        "point": [
+          -82.53200000000001,
+          32.1515
+        ],
+        "labels": {
+          "en": "Montgomery"
+        },
+        "population": 9953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1785,
+          33.558499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "133",
+        "area": 0.1851850000000067,
+        "bounding_box": [
+          -83.406,
+          33.355,
+          -82.951,
+          33.762
+        ],
+        "point": [
+          -83.1785,
+          33.558499999999995
+        ],
+        "labels": {
+          "en": "Greene"
+        },
+        "population": 17917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6255,
+          33.431
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "301",
+        "area": 0.17194800000000227,
+        "bounding_box": [
+          -82.867,
+          33.253,
+          -82.384,
+          33.609
+        ],
+        "point": [
+          -82.6255,
+          33.431
+        ],
+        "labels": {
+          "en": "Warren"
+        },
+        "population": 5408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.958,
+          32.7805
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "165",
+        "area": 0.13185999999999892,
+        "bounding_box": [
+          -82.148,
+          32.607,
+          -81.768,
+          32.954
+        ],
+        "point": [
+          -81.958,
+          32.7805
+        ],
+        "labels": {
+          "en": "Jenkins"
+        },
+        "population": 8123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1165,
+          33.278999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "149",
+        "area": 0.10578999999999932,
+        "bounding_box": [
+          -85.294,
+          33.13,
+          -84.939,
+          33.428
+        ],
+        "point": [
+          -85.1165,
+          33.278999999999996
+        ],
+        "labels": {
+          "en": "Heard"
+        },
+        "population": 12564
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.292,
+          34.783500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "295",
+        "area": 0.19505200000000295,
+        "bounding_box": [
+          -85.534,
+          34.582,
+          -85.05,
+          34.985
+        ],
+        "point": [
+          -85.292,
+          34.783500000000004
+        ],
+        "labels": {
+          "en": "Walker"
+        },
+        "population": 75756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0715,
+          31.971
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "051",
+        "area": 0.3410119999999976,
+        "bounding_box": [
+          -81.392,
+          31.705,
+          -80.751,
+          32.237
+        ],
+        "point": [
+          -81.0715,
+          31.971
+        ],
+        "labels": {
+          "en": "Chatham"
+        },
+        "population": 302516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38050000000001,
+          34.8585
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "241",
+        "area": 0.16045499999999877,
+        "bounding_box": [
+          -83.662,
+          34.716,
+          -83.099,
+          35.001
+        ],
+        "point": [
+          -83.38050000000001,
+          34.8585
+        ],
+        "labels": {
+          "en": "Rabun"
+        },
+        "population": 17571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4615,
+          33.832
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "219",
+        "area": 0.09942800000000275,
+        "bounding_box": [
+          -83.647,
+          33.698,
+          -83.276,
+          33.966
+        ],
+        "point": [
+          -83.4615,
+          33.832
+        ],
+        "labels": {
+          "en": "Oconee"
+        },
+        "population": 41671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.545,
+          30.8575
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "027",
+        "area": 0.17551799999999787,
+        "bounding_box": [
+          -83.744,
+          30.637,
+          -83.346,
+          31.078
+        ],
+        "point": [
+          -83.545,
+          30.8575
+        ],
+        "labels": {
+          "en": "Brooks"
+        },
+        "population": 16110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32499999999999,
+          30.637999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "027",
+        "area": 0.0002559999999999436,
+        "bounding_box": [
+          -83.341,
+          30.634,
+          -83.309,
+          30.642
+        ],
+        "point": [
+          -83.32499999999999,
+          30.637999999999998
+        ],
+        "labels": {
+          "en": "Brooks"
+        },
+        "population": 16110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9265,
+          31.964
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "271",
+        "area": 0.21205799999999736,
+        "bounding_box": [
+          -83.207,
+          31.775,
+          -82.646,
+          32.153
+        ],
+        "point": [
+          -82.9265,
+          31.964
+        ],
+        "labels": {
+          "en": "Telfair"
+        },
+        "population": 22738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7295,
+          31.1635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "201",
+        "area": 0.07353499999999785,
+        "bounding_box": [
+          -84.922,
+          31.068,
+          -84.537,
+          31.259
+        ],
+        "point": [
+          -84.7295,
+          31.1635
+        ],
+        "labels": {
+          "en": "Miller"
+        },
+        "population": 5788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93,
+          32.4315
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "175",
+        "area": 0.3379860000000063,
+        "bounding_box": [
+          -83.227,
+          32.147,
+          -82.633,
+          32.716
+        ],
+        "point": [
+          -82.93,
+          32.4315
+        ],
+        "labels": {
+          "en": "Laurens"
+        },
+        "population": 52344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.334,
+          32.3455
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "103",
+        "area": 0.21357199999999962,
+        "bounding_box": [
+          -81.548,
+          32.096,
+          -81.12,
+          32.595
+        ],
+        "point": [
+          -81.334,
+          32.3455
+        ],
+        "labels": {
+          "en": "Effingham"
+        },
+        "population": 72694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.189,
+          34.1365
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "195",
+        "area": 0.11714999999999992,
+        "bounding_box": [
+          -83.402,
+          33.999,
+          -82.976,
+          34.274
+        ],
+        "point": [
+          -83.189,
+          34.1365
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 30676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5575,
+          33.911500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "067",
+        "area": 0.1222749999999986,
+        "bounding_box": [
+          -84.74,
+          33.744,
+          -84.375,
+          34.079
+        ],
+        "point": [
+          -84.5575,
+          33.911500000000004
+        ],
+        "labels": {
+          "en": "Cobb"
+        },
+        "population": 777003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88,
+          30.8935
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "253",
+        "area": 0.10877000000000125,
+        "bounding_box": [
+          -85.029,
+          30.711,
+          -84.731,
+          31.076
+        ],
+        "point": [
+          -84.88,
+          30.8935
+        ],
+        "labels": {
+          "en": "Seminole"
+        },
+        "population": 8094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.345,
+          33.3255
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "237",
+        "area": 0.1266299999999994,
+        "bounding_box": [
+          -83.546,
+          33.168,
+          -83.144,
+          33.483
+        ],
+        "point": [
+          -83.345,
+          33.3255
+        ],
+        "labels": {
+          "en": "Putnam"
+        },
+        "population": 23949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39150000000001,
+          31.2665
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "007",
+        "area": 0.18887699999999588,
+        "bounding_box": [
+          -84.642,
+          31.078,
+          -84.141,
+          31.455
+        ],
+        "point": [
+          -84.39150000000001,
+          31.2665
+        ],
+        "labels": {
+          "en": "Baker"
+        },
+        "population": 2962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92750000000001,
+          30.868000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "275",
+        "area": 0.16085999999999742,
+        "bounding_box": [
+          -84.119,
+          30.658,
+          -83.736,
+          31.078
+        ],
+        "point": [
+          -83.92750000000001,
+          30.868000000000002
+        ],
+        "labels": {
+          "en": "Thomas"
+        },
+        "population": 46447
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4585,
+          34.242999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "057",
+        "area": 0.13634000000000207,
+        "bounding_box": [
+          -84.659,
+          34.073,
+          -84.258,
+          34.413
+        ],
+        "point": [
+          -84.4585,
+          34.242999999999995
+        ],
+        "labels": {
+          "en": "Cherokee"
+        },
+        "population": 327786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3175,
+          34.438
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "055",
+        "area": 0.12737599999999993,
+        "bounding_box": [
+          -85.527,
+          34.286,
+          -85.108,
+          34.59
+        ],
+        "point": [
+          -85.3175,
+          34.438
+        ],
+        "labels": {
+          "en": "Chattooga"
+        },
+        "population": 26870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6235,
+          30.884500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "087",
+        "area": 0.19255499999999592,
+        "bounding_box": [
+          -84.871,
+          30.69,
+          -84.376,
+          31.079
+        ],
+        "point": [
+          -84.6235,
+          30.884500000000003
+        ],
+        "labels": {
+          "en": "Decatur"
+        },
+        "population": 27806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.253,
+          31.2605
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "205",
+        "area": 0.1871699999999953,
+        "bounding_box": [
+          -84.508,
+          31.077,
+          -83.998,
+          31.444
+        ],
+        "point": [
+          -84.253,
+          31.2605
+        ],
+        "labels": {
+          "en": "Mitchell"
+        },
+        "population": 23158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8595,
+          33.556
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "217",
+        "area": 0.13874399999999906,
+        "bounding_box": [
+          -84.044,
+          33.368,
+          -83.675,
+          33.744
+        ],
+        "point": [
+          -83.8595,
+          33.556
+        ],
+        "labels": {
+          "en": "Newton"
+        },
+        "population": 160864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.227,
+          30.877499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "131",
+        "area": 0.12412400000000348,
+        "bounding_box": [
+          -84.381,
+          30.676,
+          -84.073,
+          31.079
+        ],
+        "point": [
+          -84.227,
+          30.877499999999998
+        ],
+        "labels": {
+          "en": "Grady"
+        },
+        "population": 26534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6905,
+          32.807
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "021",
+        "area": 0.11767599999999818,
+        "bounding_box": [
+          -83.892,
+          32.661,
+          -83.489,
+          32.953
+        ],
+        "point": [
+          -83.6905,
+          32.807
+        ],
+        "labels": {
+          "en": "Bibb"
+        },
+        "population": 157186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42750000000001,
+          31.564
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "005",
+        "area": 0.11789399999999767,
+        "bounding_box": [
+          -82.628,
+          31.417,
+          -82.227,
+          31.711
+        ],
+        "point": [
+          -82.42750000000001,
+          31.564
+        ],
+        "labels": {
+          "en": "Bacon"
+        },
+        "population": 12192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5875,
+          34.1305
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "157",
+        "area": 0.1516689999999998,
+        "bounding_box": [
+          -83.818,
+          33.966,
+          -83.357,
+          34.295
+        ],
+        "point": [
+          -83.5875,
+          34.1305
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 87727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9975,
+          32.051500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "267",
+        "area": 0.2519850000000037,
+        "bounding_box": [
+          -82.233,
+          31.784,
+          -81.762,
+          32.319
+        ],
+        "point": [
+          -81.9975,
+          32.051500000000004
+        ],
+        "labels": {
+          "en": "Tattnall"
+        },
+        "population": 29183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.73349999999999,
+          33.795500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "317",
+        "area": 0.1982369999999955,
+        "bounding_box": [
+          -82.987,
+          33.6,
+          -82.48,
+          33.991
+        ],
+        "point": [
+          -82.73349999999999,
+          33.795500000000004
+        ],
+        "labels": {
+          "en": "Wilkes"
+        },
+        "population": 10471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.594,
+          33.2255
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "125",
+        "area": 0.06577199999999826,
+        "bounding_box": [
+          -82.756,
+          33.124,
+          -82.432,
+          33.327
+        ],
+        "point": [
+          -82.594,
+          33.2255
+        ],
+        "labels": {
+          "en": "Glascock"
+        },
+        "population": 3694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98949999999999,
+          34.802
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "313",
+        "area": 0.13354799999999797,
+        "bounding_box": [
+          -85.169,
+          34.616,
+          -84.81,
+          34.988
+        ],
+        "point": [
+          -84.98949999999999,
+          34.802
+        ],
+        "labels": {
+          "en": "Whitfield"
+        },
+        "population": 125989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.299,
+          33.266000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "255",
+        "area": 0.07308000000000008,
+        "bounding_box": [
+          -84.509,
+          33.179,
+          -84.089,
+          33.353
+        ],
+        "point": [
+          -84.299,
+          33.266000000000005
+        ],
+        "labels": {
+          "en": "Spalding"
+        },
+        "population": 68366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.96799999999999,
+          33.312
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "035",
+        "area": 0.08236800000000027,
+        "bounding_box": [
+          -84.124,
+          33.18,
+          -83.812,
+          33.444
+        ],
+        "point": [
+          -83.96799999999999,
+          33.312
+        ],
+        "labels": {
+          "en": "Butts"
+        },
+        "population": 29671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.012,
+          34.579499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "187",
+        "area": 0.11563400000000146,
+        "bounding_box": [
+          -84.191,
+          34.418,
+          -83.833,
+          34.741
+        ],
+        "point": [
+          -84.012,
+          34.579499999999996
+        ],
+        "labels": {
+          "en": "Lumpkin"
+        },
+        "population": 42153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4845,
+          34.804500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "083",
+        "area": 0.08700099999999918,
+        "bounding_box": [
+          -85.605,
+          34.624,
+          -85.364,
+          34.985
+        ],
+        "point": [
+          -85.4845,
+          34.804500000000004
+        ],
+        "labels": {
+          "en": "Dade"
+        },
+        "population": 18020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67,
+          32.4875
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "153",
+        "area": 0.15296599999999763,
+        "bounding_box": [
+          -83.857,
+          32.283,
+          -83.483,
+          32.692
+        ],
+        "point": [
+          -83.67,
+          32.4875
+        ],
+        "labels": {
+          "en": "Houston"
+        },
+        "population": 175238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3815,
+          31.496000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "191",
+        "area": 0.23378400000000174,
+        "bounding_box": [
+          -81.668,
+          31.292,
+          -81.095,
+          31.7
+        ],
+        "point": [
+          -81.3815,
+          31.496000000000002
+        ],
+        "labels": {
+          "en": "McIntosh"
+        },
+        "population": 18922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.916,
+          33.0255
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "207",
+        "area": 0.14768000000000053,
+        "bounding_box": [
+          -84.124,
+          32.848,
+          -83.708,
+          33.203
+        ],
+        "point": [
+          -83.916,
+          33.0255
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 31829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0925,
+          34.193
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "117",
+        "area": 0.09457199999999918,
+        "bounding_box": [
+          -84.259,
+          34.051,
+          -83.926,
+          34.335
+        ],
+        "point": [
+          -84.0925,
+          34.193
+        ],
+        "labels": {
+          "en": "Forsyth"
+        },
+        "population": 311759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4825,
+          31.222
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "127",
+        "area": 0.276737999999995,
+        "bounding_box": [
+          -81.782,
+          30.991,
+          -81.183,
+          31.453
+        ],
+        "point": [
+          -81.4825,
+          31.222
+        ],
+        "labels": {
+          "en": "Glynn"
+        },
+        "population": 94041
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.237,
+          33.058
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "009",
+        "area": 0.10137599999999848,
+        "bounding_box": [
+          -83.429,
+          32.926,
+          -83.045,
+          33.19
+        ],
+        "point": [
+          -83.237,
+          33.058
+        ],
+        "labels": {
+          "en": "Baldwin"
+        },
+        "population": 46629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.358,
+          34.795500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "111",
+        "area": 0.20404999999999937,
+        "bounding_box": [
+          -84.623,
+          34.603,
+          -84.093,
+          34.988
+        ],
+        "point": [
+          -84.358,
+          34.795500000000004
+        ],
+        "labels": {
+          "en": "Fannin"
+        },
+        "population": 28882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13,
+          31.769
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "177",
+        "area": 0.12230399999999926,
+        "bounding_box": [
+          -84.338,
+          31.622,
+          -83.922,
+          31.916
+        ],
+        "point": [
+          -84.13,
+          31.769
+        ],
+        "labels": {
+          "en": "Lee"
+        },
+        "population": 31012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4255,
+          34.701499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ga",
+        "region_child": "123",
+        "area": 0.14214099999999583,
+        "bounding_box": [
+          -84.657,
+          34.548,
+          -84.194,
+          34.855
+        ],
+        "point": [
+          -84.4255,
+          34.701499999999996
+        ],
+        "labels": {
+          "en": "Gilmer"
+        },
+        "population": 34173
+      }
+    }
+  ]
+}

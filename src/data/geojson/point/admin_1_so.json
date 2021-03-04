@@ -1,0 +1,694 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.849,
+          8.4895
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-nu",
+        "area": 5.692074000000002,
+        "bounding_box": [
+          47.532,
+          7.409,
+          50.166,
+          9.57
+        ],
+        "point": [
+          48.849,
+          8.4895
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "نوجال",
+          "bn": "নুগাল",
+          "de": "Nugaal",
+          "en": "Nugal",
+          "es": "Nugaal",
+          "fr": "Nugaal",
+          "el": "Νούγκαλ",
+          "hi": "नुगल",
+          "hu": null,
+          "id": "Nugal",
+          "it": "Nogal",
+          "ja": "ヌガール州",
+          "ko": "누갈 주",
+          "nl": "Nugaal",
+          "pl": "Nugal",
+          "pt": "Nugaal",
+          "ru": "Нугаль",
+          "sv": "Nugal",
+          "tr": "Nugal",
+          "vi": "Nugal",
+          "zh": "努加爾州"
+        },
+        "population": 191704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.054,
+          6.0255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-mu",
+        "area": 10.693205999999998,
+        "bounding_box": [
+          46.467,
+          4.341,
+          49.641,
+          7.71
+        ],
+        "point": [
+          48.054,
+          6.0255
+        ],
+        "labels": {
+          "alt": "Madugh| Mudugh",
+          "local": null,
+          "len": 5,
+          "ar": "مدج",
+          "bn": "মুদুগ",
+          "de": "Mudug",
+          "en": "Mudug",
+          "es": "Mudug",
+          "fr": "Mudug",
+          "el": "Μούντουγκ",
+          "hi": "मुदुग",
+          "hu": null,
+          "id": "Mudug",
+          "it": "Mudugh",
+          "ja": "ムドゥグ州",
+          "ko": "무두그 주",
+          "nl": "Mudug",
+          "pl": "Mudug",
+          "pt": "Mudug",
+          "ru": "Мудуг",
+          "sv": "Mudug",
+          "tr": "Mudug",
+          "vi": "Mudug",
+          "zh": "穆杜格州"
+        },
+        "population": 542080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.679500000000004,
+          5.0035
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-ga",
+        "area": 7.129287000000002,
+        "bounding_box": [
+          45.518,
+          3.469,
+          47.841,
+          6.538
+        ],
+        "point": [
+          46.679500000000004,
+          5.0035
+        ],
+        "labels": {
+          "alt": "Galgudug",
+          "local": null,
+          "len": 9,
+          "ar": "جلجدود",
+          "bn": "গেল্গুদুদ",
+          "de": "Galguduud",
+          "en": "Galguduud",
+          "es": "Galguduud",
+          "fr": "Galguduud",
+          "el": "Γκαλγκουντουούντ",
+          "hi": "गैलगुडूड",
+          "hu": null,
+          "id": "Galguduud",
+          "it": "Galgudud",
+          "ja": "ガルグドゥード州",
+          "ko": "갈구두드 주",
+          "nl": "Galguduud",
+          "pl": "Galguduud",
+          "pt": "Galguduud",
+          "ru": "Галгудуд",
+          "sv": "Galguduud",
+          "tr": "Galgudud",
+          "vi": "Galguduud",
+          "zh": "加勒古杜德州"
+        },
+        "population": 503190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4985,
+          4.3705
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-hi",
+        "area": 4.220822999999994,
+        "bounding_box": [
+          44.597,
+          3.2,
+          46.4,
+          5.541
+        ],
+        "point": [
+          45.4985,
+          4.3705
+        ],
+        "labels": {
+          "alt": "Hiiran",
+          "local": null,
+          "len": 7,
+          "ar": "هيران",
+          "bn": "হিরন",
+          "de": "Hiiraan",
+          "en": "Hiran",
+          "es": "Hiiraan",
+          "fr": "Hiiraan",
+          "el": "Χιράν",
+          "hi": "हिरान",
+          "hu": null,
+          "id": "Hiiraan",
+          "it": "Hiran",
+          "ja": "ヒーラーン州",
+          "ko": "히란 주",
+          "nl": "Hiiraan",
+          "pl": "Hiran",
+          "pt": "Hiiraan",
+          "ru": "Хиран",
+          "sv": "Hiiraan",
+          "tr": "Hiran",
+          "vi": "Hiran",
+          "zh": "希蘭州"
+        },
+        "population": 494633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.834999999999994,
+          4.102
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-bk",
+        "area": 3.288719999999999,
+        "bounding_box": [
+          42.87,
+          3.25,
+          44.8,
+          4.954
+        ],
+        "point": [
+          43.834999999999994,
+          4.102
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "باكول",
+          "bn": "বাকুল",
+          "de": "Bakool",
+          "en": "Bakool",
+          "es": "Bakool",
+          "fr": "Bakool",
+          "el": "Μπακούλ",
+          "hi": "बाकुल",
+          "hu": null,
+          "id": "Bakool",
+          "it": "Bakool",
+          "ja": "バコール州",
+          "ko": "바콜 주",
+          "nl": "Bakool",
+          "pl": "Bakool",
+          "pt": "Bakool",
+          "ru": "Баколь",
+          "sv": "Bakool",
+          "tr": "Bakul",
+          "vi": "Bakool",
+          "zh": "巴科勒州"
+        },
+        "population": 458940
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0525,
+          2.779
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-ge",
+        "area": 6.738149999999992,
+        "bounding_box": [
+          40.965,
+          1.23,
+          43.14,
+          4.328
+        ],
+        "point": [
+          42.0525,
+          2.779
+        ],
+        "labels": {
+          "alt": "Gado",
+          "local": null,
+          "len": 4,
+          "ar": "جدو",
+          "bn": "গেডো",
+          "de": "Gedo",
+          "en": "Gedo",
+          "es": "Gedo",
+          "fr": "Gedo",
+          "el": "Γκέντο",
+          "hi": "गेडो",
+          "hu": null,
+          "id": "Gedo",
+          "it": "Ghedo",
+          "ja": "ゲド州",
+          "ko": "게도 주",
+          "nl": "Gedo",
+          "pl": "Gedo",
+          "pt": "Gedo",
+          "ru": "Гедо",
+          "sv": "Gedo",
+          "tr": "Gedo",
+          "vi": "Gedo",
+          "zh": "蓋多州"
+        },
+        "population": 649922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.178,
+          10.159500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-br",
+        "area": 9.067002000000008,
+        "bounding_box": [
+          48.939,
+          8.33,
+          51.417,
+          11.989
+        ],
+        "point": [
+          50.178,
+          10.159500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "باري",
+          "bn": "বারি",
+          "de": "Bari",
+          "en": "Bari",
+          "es": "Bari",
+          "fr": "Bari",
+          "el": "Μπάρι",
+          "hi": "बारी",
+          "hu": null,
+          "id": "Bari",
+          "it": "Bari",
+          "ja": "バリ州",
+          "ko": "바리 주",
+          "nl": "Bari",
+          "pl": "Bari",
+          "pt": "Bari",
+          "ru": "Бари",
+          "sv": "Bari",
+          "tr": "Bari",
+          "vi": "Bari",
+          "zh": "巴里州"
+        },
+        "population": 580220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0765,
+          -0.18799999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-jh",
+        "area": 6.686471999999997,
+        "bounding_box": [
+          40.968,
+          -1.696,
+          43.185,
+          1.32
+        ],
+        "point": [
+          42.0765,
+          -0.18799999999999994
+        ],
+        "labels": {
+          "alt": "J. Hoose| Lower Juba",
+          "local": null,
+          "len": 13,
+          "ar": "جوبا السفلى",
+          "bn": "লোয়ার জুবা",
+          "de": "Jubbada Hoose",
+          "en": "Lower Juba",
+          "es": "Jubbada Hoose",
+          "fr": "Jubbada Hoose",
+          "el": "Λόουερ Τζούμπα",
+          "hi": "निचला जुबा",
+          "hu": null,
+          "id": "Lower Juba",
+          "it": "Basso Giuba",
+          "ja": "下部ジュバ州",
+          "ko": "주바다호세 주",
+          "nl": "Jubbada Hoose",
+          "pl": "Dżuba Dolna",
+          "pt": "Jubbada Hoose",
+          "ru": "Нижняя Джубба",
+          "sv": "Nedre Juba",
+          "tr": "Aşağı Cubba",
+          "vi": "Hạ Juba",
+          "zh": "下朱巴州"
+        },
+        "population": 574663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4705,
+          1.13
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-jd",
+        "area": 3.4456399999999983,
+        "bounding_box": [
+          41.42,
+          0.31,
+          43.521,
+          1.95
+        ],
+        "point": [
+          42.4705,
+          1.13
+        ],
+        "labels": {
+          "alt": "J. Dhexe| Central Juba| Middle Juba",
+          "local": null,
+          "len": 13,
+          "ar": "جوبا الوسطى",
+          "bn": "মধ্য যুবা",
+          "de": "Jubbada Dhexe",
+          "en": "Middle Juba",
+          "es": "Jubbada Dhexe",
+          "fr": "Jubbada Dhexe",
+          "el": "Μίντλ Τζούμπα",
+          "hi": "मध्य जूबा",
+          "hu": null,
+          "id": "Middle Juba",
+          "it": "Medio Giuba",
+          "ja": "中部ジュバ州",
+          "ko": "주바다데헤 주",
+          "nl": "Jubbada Dhexe",
+          "pl": "Dżuba Środkowa",
+          "pt": "Jubbada Dhexe",
+          "ru": "Средняя Джубба",
+          "sv": "Jubbada Dhexe",
+          "tr": "Orta Cuba",
+          "vi": "Middle Juba",
+          "zh": "中朱巴州"
+        },
+        "population": 352254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.185,
+          1.971
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-sh",
+        "area": 6.261180000000009,
+        "bounding_box": [
+          42.98,
+          0.672,
+          45.39,
+          3.27
+        ],
+        "point": [
+          44.185,
+          1.971
+        ],
+        "labels": {
+          "alt": "Sh. Hoose| Lower Shabele",
+          "local": null,
+          "len": 17,
+          "ar": "شبيلا السفلى",
+          "bn": "লোয়ার শেবারেল",
+          "de": "Shabeellaha Hoose",
+          "en": "Lower Shebelle",
+          "es": "Shabeellaha Hoose",
+          "fr": "Shabeellaha Hoose",
+          "el": "Λόουερ Σέμπελε",
+          "hi": "निचला शीबेल",
+          "hu": null,
+          "id": "Lower Shebelle",
+          "it": "Basso Scebeli",
+          "ja": "下部シャベレ州",
+          "ko": "샤벨라하호세 주",
+          "nl": "Shabeellaha Hoose",
+          "pl": "Shabeellaha Hoose",
+          "pt": "Shabeellaha Hoose",
+          "ru": "Нижняя Шабелле",
+          "sv": "Nedre Shebelle",
+          "tr": "Aşağı Şabel",
+          "vi": "Hạ Shebelle",
+          "zh": "下謝貝利州"
+        },
+        "population": 1262516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.436,
+          2.085
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-bn",
+        "area": 0.06664000000000057,
+        "bounding_box": [
+          45.266,
+          1.987,
+          45.606,
+          2.183
+        ],
+        "point": [
+          45.436,
+          2.085
+        ],
+        "labels": {
+          "alt": "Benadir",
+          "local": null,
+          "len": 8,
+          "ar": "بنادر",
+          "bn": "বানাদির",
+          "de": "Banaadir",
+          "en": "Banaadir",
+          "es": "Benadir",
+          "fr": "Banaadir",
+          "el": "Μπανααντίρ",
+          "hi": "बानादीर",
+          "hu": null,
+          "id": "Banaadir",
+          "it": "Benadir",
+          "ja": "バナディール州",
+          "ko": "바나디르 주",
+          "nl": "Banaadir",
+          "pl": "Banaadir",
+          "pt": "Banaadir",
+          "ru": "Банадир",
+          "sv": "Banaadir",
+          "tr": "Banaadir",
+          "vi": "Banaadir",
+          "zh": "巴納迪爾州"
+        },
+        "population": 1206410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.055,
+          3.02
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-sd",
+        "area": 3.4277999999999986,
+        "bounding_box": [
+          45.07,
+          2.15,
+          47.04,
+          3.89
+        ],
+        "point": [
+          46.055,
+          3.02
+        ],
+        "labels": {
+          "alt": "Sh. Dhexe| Central Shabele",
+          "local": null,
+          "len": 17,
+          "ar": "شبيلا الوسطى",
+          "bn": "মিডল শেবিলে",
+          "de": "Shabeellaha Dhexe",
+          "en": "Middle Shebelle",
+          "es": "Shabeellaha Dhexe",
+          "fr": "Shabeellaha Dhexe",
+          "el": "Μιντλ Σεμπέλε",
+          "hi": "मध्य शीबैल",
+          "hu": null,
+          "id": "Middle Shebelle",
+          "it": "Medio Scebeli",
+          "ja": "中部シェベリ州",
+          "ko": "샤벨라하데헤 주",
+          "nl": "Shabeellaha Dhexe",
+          "pl": "Shabeellaha Dhexe",
+          "pt": "Shabeellaha Dhexe",
+          "ru": "Средняя Шабелле",
+          "sv": "Shabeellaha Dhexe",
+          "tr": "Orta Şabel",
+          "vi": "Middle Shebelle",
+          "zh": "中謝貝利州"
+        },
+        "population": 766476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.545,
+          2.69
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "so",
+        "region_child": "so-by",
+        "area": 5.633399999999998,
+        "bounding_box": [
+          42.4,
+          1.46,
+          44.69,
+          3.92
+        ],
+        "point": [
+          43.545,
+          2.69
+        ],
+        "labels": {
+          "alt": "Baay",
+          "local": null,
+          "len": 3,
+          "ar": "باي",
+          "bn": "বে",
+          "de": "Bay",
+          "en": "Bay",
+          "es": "Bay",
+          "fr": "Bay",
+          "el": "Μπέι",
+          "hi": "बे",
+          "hu": null,
+          "id": "Bay",
+          "it": "Bai",
+          "ja": "ベイ州",
+          "ko": "바이 주",
+          "nl": "Bay",
+          "pl": "Bay",
+          "pt": "Bay",
+          "ru": "Бай",
+          "sv": "Bay",
+          "tr": "Bay",
+          "vi": "Bay",
+          "zh": "拜州"
+        },
+        "population": 914633
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.19,
+          27.2305
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "np",
+        "region_child": "np-p1",
+        "area": 3.568829999999986,
+        "bounding_box": [
+          86.179,
+          26.348,
+          88.201,
+          28.113
+        ],
+        "point": [
+          87.19,
+          27.2305
+        ],
+        "labels": {
+          "en": "Province No. 1"
+        },
+        "population": 8324352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7485,
+          26.941499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "np",
+        "region_child": "np-p2",
+        "area": 2.612457000000005,
+        "bounding_box": [
+          84.484,
+          26.425,
+          87.013,
+          27.458
+        ],
+        "point": [
+          85.7485,
+          26.941499999999998
+        ],
+        "labels": {
+          "en": "Province No. 2"
+        },
+        "population": 8080979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2465,
+          27.6525
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "np",
+        "region_child": "np-p3",
+        "area": 3.891950999999984,
+        "bounding_box": [
+          83.92,
+          26.919,
+          86.573,
+          28.386
+        ],
+        "point": [
+          85.2465,
+          27.6525
+        ],
+        "labels": {
+          "en": "Province No. 3"
+        },
+        "population": 10774338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0385,
+          28.3845
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "np",
+        "region_child": "np-p4",
+        "area": 4.389866999999979,
+        "bounding_box": [
+          82.879,
+          27.438,
+          85.198,
+          29.331
+        ],
+        "point": [
+          84.0385,
+          28.3845
+        ],
+        "labels": {
+          "en": "Province No. 4"
+        },
+        "population": 2336631
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.543,
+          28.101
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "np",
+        "region_child": "np-p5",
+        "area": 4.558848000000009,
+        "bounding_box": [
+          81.059,
+          27.333,
+          84.027,
+          28.869
+        ],
+        "point": [
+          82.543,
+          28.101
+        ],
+        "labels": {
+          "en": "Province No. 5"
+        },
+        "population": 5273721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.3305,
+          29.3045
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "np",
+        "region_child": "np-p6",
+        "area": 6.151857000000003,
+        "bounding_box": [
+          80.982,
+          28.164,
+          83.679,
+          30.445
+        ],
+        "point": [
+          82.3305,
+          29.3045
+        ],
+        "labels": {
+          "en": "Province No. 6"
+        },
+        "population": 1495149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.93350000000001,
+          29.320999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "np",
+        "region_child": "np-p7",
+        "area": 3.239148000000018,
+        "bounding_box": [
+          80.059,
+          28.395,
+          81.808,
+          30.247
+        ],
+        "point": [
+          80.93350000000001,
+          29.320999999999998
+        ],
+        "labels": {
+          "en": "Province No. 7"
+        },
+        "population": 4557641
+      }
+    }
+  ]
+}

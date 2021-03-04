@@ -1,0 +1,2255 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.12700000000001,
+          35.919
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "137",
+        "area": 0.2490960000000059,
+        "bounding_box": [
+          -92.418,
+          35.705,
+          -91.836,
+          36.133
+        ],
+        "point": [
+          -92.12700000000001,
+          35.919
+        ],
+        "labels": {
+          "en": "Stone"
+        },
+        "population": 13398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2,
+          34.4595
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "113",
+        "area": 0.2910599999999965,
+        "bounding_box": [
+          -94.47,
+          34.19,
+          -93.93,
+          34.729
+        ],
+        "point": [
+          -94.2,
+          34.4595
+        ],
+        "labels": {
+          "en": "Polk"
+        },
+        "population": 21074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.535,
+          35.7345
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "063",
+        "area": 0.2802239999999951,
+        "bounding_box": [
+          -91.871,
+          35.526,
+          -91.199,
+          35.943
+        ],
+        "point": [
+          -91.535,
+          35.7345
+        ],
+        "labels": {
+          "en": "Independence"
+        },
+        "population": 39583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.877,
+          34.778999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "085",
+        "area": 0.2898720000000003,
+        "bounding_box": [
+          -92.121,
+          34.482,
+          -91.633,
+          35.076
+        ],
+        "point": [
+          -91.877,
+          34.778999999999996
+        ],
+        "labels": {
+          "en": "Lonoke"
+        },
+        "population": 88103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.189,
+          34.0555
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "019",
+        "area": 0.3574459999999933,
+        "bounding_box": [
+          -93.502,
+          33.77,
+          -92.876,
+          34.341
+        ],
+        "point": [
+          -93.189,
+          34.0555
+        ],
+        "labels": {
+          "en": "Clark"
+        },
+        "population": 22486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8045,
+          36.3745
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "049",
+        "area": 0.17654100000000245,
+        "bounding_box": [
+          -92.159,
+          36.25,
+          -91.45,
+          36.499
+        ],
+        "point": [
+          -91.8045,
+          36.3745
+        ],
+        "labels": {
+          "en": "Fulton"
+        },
+        "population": 12886
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.71000000000001,
+          35.225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "083",
+        "area": 0.354239999999993,
+        "bounding_box": [
+          -94.142,
+          35.02,
+          -93.278,
+          35.43
+        ],
+        "point": [
+          -93.71000000000001,
+          35.225
+        ],
+        "labels": {
+          "en": "Logan"
+        },
+        "population": 22248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8545,
+          33.3165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "091",
+        "area": 0.22431500000000526,
+        "bounding_box": [
+          -94.043,
+          33.019,
+          -93.666,
+          33.614
+        ],
+        "point": [
+          -93.8545,
+          33.3165
+        ],
+        "labels": {
+          "en": "Miller"
+        },
+        "population": 46727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3825,
+          34.2555
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "001",
+        "area": 0.41187500000000377,
+        "bounding_box": [
+          -91.712,
+          33.943,
+          -91.053,
+          34.568
+        ],
+        "point": [
+          -91.3825,
+          34.2555
+        ],
+        "labels": {
+          "en": "Arkansas"
+        },
+        "population": 17672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.59100000000001,
+          36.310500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "015",
+        "area": 0.22469199999999748,
+        "bounding_box": [
+          -93.889,
+          36.122,
+          -93.293,
+          36.499
+        ],
+        "point": [
+          -93.59100000000001,
+          36.310500000000005
+        ],
+        "labels": {
+          "en": "Carroll"
+        },
+        "population": 29708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.54599999999999,
+          35.5775
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "141",
+        "area": 0.26046999999999954,
+        "bounding_box": [
+          -92.851,
+          35.364,
+          -92.241,
+          35.791
+        ],
+        "point": [
+          -92.54599999999999,
+          35.5775
+        ],
+        "labels": {
+          "en": "Van Buren"
+        },
+        "population": 18487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.437,
+          35.548
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "071",
+        "area": 0.2413319999999967,
+        "bounding_box": [
+          -93.71,
+          35.327,
+          -93.164,
+          35.769
+        ],
+        "point": [
+          -93.437,
+          35.548
+        ],
+        "labels": {
+          "en": "Johnson"
+        },
+        "population": 28617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6815,
+          35.9165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "129",
+        "area": 0.21398299999999412,
+        "bounding_box": [
+          -92.951,
+          35.718,
+          -92.412,
+          36.115
+        ],
+        "point": [
+          -92.6815,
+          35.9165
+        ],
+        "labels": {
+          "en": "Searcy"
+        },
+        "population": 8180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09899999999999,
+          34.581
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "051",
+        "area": 0.2365440000000001,
+        "bounding_box": [
+          -93.407,
+          34.389,
+          -92.791,
+          34.773
+        ],
+        "point": [
+          -93.09899999999999,
+          34.581
+        ],
+        "labels": {
+          "en": "Garland"
+        },
+        "population": 104437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.218,
+          33.971999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "133",
+        "area": 0.22895600000000038,
+        "bounding_box": [
+          -94.477,
+          33.751,
+          -93.959,
+          34.193
+        ],
+        "point": [
+          -94.218,
+          33.971999999999994
+        ],
+        "labels": {
+          "en": "Sevier"
+        },
+        "population": 18484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8345,
+          34.2775
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "069",
+        "area": 0.3435070000000023,
+        "bounding_box": [
+          -92.233,
+          34.062,
+          -91.436,
+          34.493
+        ],
+        "point": [
+          -91.8345,
+          34.2775
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 70943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.699,
+          33.9785
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "079",
+        "area": 0.21661399999999983,
+        "bounding_box": [
+          -91.976,
+          33.783,
+          -91.422,
+          34.174
+        ],
+        "point": [
+          -91.699,
+          33.9785
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 13754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.078,
+          36.307
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "121",
+        "area": 0.25267200000000073,
+        "bounding_box": [
+          -91.407,
+          36.115,
+          -90.749,
+          36.499
+        ],
+        "point": [
+          -91.078,
+          36.307
+        ],
+        "labels": {
+          "en": "Randolph"
+        },
+        "population": 17703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9445,
+          36.064
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "065",
+        "area": 0.2131540000000017,
+        "bounding_box": [
+          -92.215,
+          35.867,
+          -91.674,
+          36.261
+        ],
+        "point": [
+          -91.9445,
+          36.064
+        ],
+        "labels": {
+          "en": "Izard"
+        },
+        "population": 14168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.08,
+          34.8825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "127",
+        "area": 0.3262500000000017,
+        "bounding_box": [
+          -94.455,
+          34.665,
+          -93.705,
+          35.1
+        ],
+        "point": [
+          -94.08,
+          34.8825
+        ],
+        "labels": {
+          "en": "Scott"
+        },
+        "population": 11503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.923,
+          34.944
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "105",
+        "area": 0.26350399999999785,
+        "bounding_box": [
+          -93.306,
+          34.772,
+          -92.54,
+          35.116
+        ],
+        "point": [
+          -92.923,
+          34.944
+        ],
+        "labels": {
+          "en": "Perry"
+        },
+        "population": 10618
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.662,
+          35.848
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "031",
+        "area": 0.22199999999999953,
+        "bounding_box": [
+          -91.037,
+          35.7,
+          -90.287,
+          35.996
+        ],
+        "point": [
+          -90.662,
+          35.848
+        ],
+        "labels": {
+          "en": "Craighead"
+        },
+        "population": 113187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0215,
+          35.535
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "023",
+        "area": 0.16390200000000074,
+        "bounding_box": [
+          -92.253,
+          35.358,
+          -91.79,
+          35.712
+        ],
+        "point": [
+          -92.0215,
+          35.535
+        ],
+        "labels": {
+          "en": "Cleburne"
+        },
+        "population": 28022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0385,
+          34.328
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "059",
+        "area": 0.26308400000000276,
+        "bounding_box": [
+          -93.408,
+          34.15,
+          -92.669,
+          34.506
+        ],
+        "point": [
+          -93.0385,
+          34.328
+        ],
+        "labels": {
+          "en": "Hot Spring"
+        },
+        "population": 35774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2345,
+          33.236000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "027",
+        "area": 0.22469399999999987,
+        "bounding_box": [
+          -93.491,
+          33.017,
+          -92.978,
+          33.455
+        ],
+        "point": [
+          -93.2345,
+          33.236000000000004
+        ],
+        "labels": {
+          "en": "Columbia"
+        },
+        "population": 23828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.84299999999999,
+          33.59
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "103",
+        "area": 0.2561280000000063,
+        "bounding_box": [
+          -93.119,
+          33.358,
+          -92.567,
+          33.822
+        ],
+        "point": [
+          -92.84299999999999,
+          33.59
+        ],
+        "labels": {
+          "en": "Ouachita"
+        },
+        "population": 23639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.303,
+          35.03
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "149",
+        "area": 0.4672359999999944,
+        "bounding_box": [
+          -93.71,
+          34.743,
+          -92.896,
+          35.317
+        ],
+        "point": [
+          -93.303,
+          35.03
+        ],
+        "labels": {
+          "en": "Yell"
+        },
+        "population": 23277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.22399999999999,
+          34.67
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "095",
+        "area": 0.2992639999999952,
+        "bounding_box": [
+          -91.448,
+          34.336,
+          -91.0,
+          35.004
+        ],
+        "point": [
+          -91.22399999999999,
+          34.67
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 6473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9665,
+          35.695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "093",
+        "area": 0.3947399999999942,
+        "bounding_box": [
+          -90.289,
+          35.389,
+          -89.644,
+          36.001
+        ],
+        "point": [
+          -89.9665,
+          35.695
+        ],
+        "labels": {
+          "en": "Mississippi"
+        },
+        "population": 41551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.22,
+          35.992999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "143",
+        "area": 0.32270399999999877,
+        "bounding_box": [
+          -94.552,
+          35.75,
+          -93.888,
+          36.236
+        ],
+        "point": [
+          -94.22,
+          35.992999999999995
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 259784
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23249999999999,
+          35.925
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "101",
+        "area": 0.23480000000000048,
+        "bounding_box": [
+          -93.526,
+          35.725,
+          -92.939,
+          36.125
+        ],
+        "point": [
+          -93.23249999999999,
+          35.925
+        ],
+        "labels": {
+          "en": "Newton"
+        },
+        "population": 8049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.54400000000001,
+          33.5375
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "013",
+        "area": 0.24651399999999513,
+        "bounding_box": [
+          -92.777,
+          33.273,
+          -92.311,
+          33.802
+        ],
+        "point": [
+          -92.54400000000001,
+          33.5375
+        ],
+        "labels": {
+          "en": "Calhoun"
+        },
+        "population": 5064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.77250000000001,
+          35.2965
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "037",
+        "area": 0.16608700000000456,
+        "bounding_box": [
+          -91.043,
+          35.143,
+          -90.502,
+          35.45
+        ],
+        "point": [
+          -90.77250000000001,
+          35.2965
+        ],
+        "labels": {
+          "en": "Cross"
+        },
+        "population": 16367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8295,
+          34.3825
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "107",
+        "area": 0.30407899999999966,
+        "bounding_box": [
+          -91.118,
+          34.119,
+          -90.541,
+          34.646
+        ],
+        "point": [
+          -90.8295,
+          34.3825
+        ],
+        "labels": {
+          "en": "Phillips"
+        },
+        "population": 17887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8895,
+          35.4865
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "047",
+        "area": 0.22252500000000136,
+        "bounding_box": [
+          -94.083,
+          35.199,
+          -93.696,
+          35.774
+        ],
+        "point": [
+          -93.8895,
+          35.4865
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 18404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1925,
+          35.558
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "033",
+        "area": 0.2488140000000005,
+        "bounding_box": [
+          -94.493,
+          35.351,
+          -93.892,
+          35.765
+        ],
+        "point": [
+          -94.1925,
+          35.558
+        ],
+        "labels": {
+          "en": "Crawford"
+        },
+        "population": 72084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3085,
+          35.622
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "067",
+        "area": 0.2964079999999993,
+        "bounding_box": [
+          -91.585,
+          35.354,
+          -91.032,
+          35.89
+        ],
+        "point": [
+          -91.3085,
+          35.622
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 17561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.43549999999999,
+          36.35
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "021",
+        "area": 0.2214140000000041,
+        "bounding_box": [
+          -90.807,
+          36.201,
+          -90.064,
+          36.499
+        ],
+        "point": [
+          -90.43549999999999,
+          36.35
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 14776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3545,
+          35.1115
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "045",
+        "area": 0.24983099999999986,
+        "bounding_box": [
+          -92.598,
+          34.855,
+          -92.111,
+          35.368
+        ],
+        "point": [
+          -92.3545,
+          35.1115
+        ],
+        "labels": {
+          "en": "Faulkner"
+        },
+        "population": 149123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3725,
+          36.2365
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "005",
+        "area": 0.23362499999999894,
+        "bounding_box": [
+          -92.595,
+          35.974,
+          -92.15,
+          36.499
+        ],
+        "point": [
+          -92.3725,
+          36.2365
+        ],
+        "labels": {
+          "en": "Baxter"
+        },
+        "population": 44822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.156,
+          33.7395
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "081",
+        "area": 0.27126000000000533,
+        "bounding_box": [
+          -94.486,
+          33.534,
+          -93.826,
+          33.945
+        ],
+        "point": [
+          -94.156,
+          33.7395
+        ],
+        "labels": {
+          "en": "Little River"
+        },
+        "population": 12734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0775,
+          36.306
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "009",
+        "area": 0.1716480000000012,
+        "bounding_box": [
+          -93.301,
+          36.114,
+          -92.854,
+          36.498
+        ],
+        "point": [
+          -93.0775,
+          36.306
+        ],
+        "labels": {
+          "en": "Boone"
+        },
+        "population": 40171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7975,
+          33.202
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "003",
+        "area": 0.2669520000000066,
+        "bounding_box": [
+          -92.138,
+          33.006,
+          -91.457,
+          33.398
+        ],
+        "point": [
+          -91.7975,
+          33.202
+        ],
+        "labels": {
+          "en": "Ashley"
+        },
+        "population": 19723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2145,
+          33.8185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "041",
+        "area": 0.4142610000000033,
+        "bounding_box": [
+          -91.558,
+          33.517,
+          -90.871,
+          34.12
+        ],
+        "point": [
+          -91.2145,
+          33.8185
+        ],
+        "labels": {
+          "en": "Desha"
+        },
+        "population": 11046
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.77600000000001,
+          35.007999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "123",
+        "area": 0.2120640000000014,
+        "bounding_box": [
+          -91.152,
+          34.867,
+          -90.4,
+          35.149
+        ],
+        "point": [
+          -90.77600000000001,
+          35.007999999999996
+        ],
+        "labels": {
+          "en": "St. Francis"
+        },
+        "population": 27226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6645,
+          34.543000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "097",
+        "area": 0.21964599999999807,
+        "bounding_box": [
+          -93.935,
+          34.34,
+          -93.394,
+          34.746
+        ],
+        "point": [
+          -93.6645,
+          34.543000000000006
+        ],
+        "labels": {
+          "en": "Montgomery"
+        },
+        "population": 9795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.485,
+          36.1945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "135",
+        "area": 0.2743639999999986,
+        "bounding_box": [
+          -91.711,
+          35.891,
+          -91.259,
+          36.498
+        ],
+        "point": [
+          -91.485,
+          36.1945
+        ],
+        "labels": {
+          "en": "Sharp"
+        },
+        "population": 17121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.52250000000001,
+          36.1165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "055",
+        "area": 0.2014950000000001,
+        "bounding_box": [
+          -90.855,
+          35.965,
+          -90.19,
+          36.268
+        ],
+        "point": [
+          -90.52250000000001,
+          36.1165
+        ],
+        "labels": {
+          "en": "Greene"
+        },
+        "population": 47356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2585,
+          35.179
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "147",
+        "area": 0.23335799999999826,
+        "bounding_box": [
+          -91.477,
+          34.912,
+          -91.04,
+          35.446
+        ],
+        "point": [
+          -91.2585,
+          35.179
+        ],
+        "labels": {
+          "en": "Woodruff"
+        },
+        "population": 6056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7325,
+          35.2775
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "145",
+        "area": 0.39757500000000146,
+        "bounding_box": [
+          -92.12,
+          35.021,
+          -91.345,
+          35.534
+        ],
+        "point": [
+          -91.7325,
+          35.2775
+        ],
+        "labels": {
+          "en": "White"
+        },
+        "population": 88501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7555,
+          34.7695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "077",
+        "area": 0.1980749999999957,
+        "bounding_box": [
+          -91.103,
+          34.627,
+          -90.408,
+          34.912
+        ],
+        "point": [
+          -90.7555,
+          34.7695
+        ],
+        "labels": {
+          "en": "Lee"
+        },
+        "population": 8670
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.75999999999999,
+          35.2675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "029",
+        "area": 0.21974199999999808,
+        "bounding_box": [
+          -93.041,
+          35.072,
+          -92.479,
+          35.463
+        ],
+        "point": [
+          -92.75999999999999,
+          35.2675
+        ],
+        "labels": {
+          "en": "Conway"
+        },
+        "population": 22273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0385,
+          34.0515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "061",
+        "area": 0.2640450000000011,
+        "bounding_box": [
+          -94.256,
+          33.748,
+          -93.821,
+          34.355
+        ],
+        "point": [
+          -94.0385,
+          34.0515
+        ],
+        "labels": {
+          "en": "Howard"
+        },
+        "population": 13187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.294,
+          33.6995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "099",
+        "area": 0.1972199999999997,
+        "bounding_box": [
+          -93.484,
+          33.44,
+          -93.104,
+          33.959
+        ],
+        "point": [
+          -93.294,
+          33.6995
+        ],
+        "labels": {
+          "en": "Nevada"
+        },
+        "population": 8211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3925,
+          34.7515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "119",
+        "area": 0.38062500000000116,
+        "bounding_box": [
+          -92.755,
+          34.489,
+          -92.03,
+          35.014
+        ],
+        "point": [
+          -92.3925,
+          34.7515
+        ],
+        "labels": {
+          "en": "Pulaski"
+        },
+        "population": 406668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.443,
+          34.278000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "053",
+        "area": 0.2049199999999995,
+        "bounding_box": [
+          -92.678,
+          34.06,
+          -92.208,
+          34.496
+        ],
+        "point": [
+          -92.443,
+          34.278000000000006
+        ],
+        "labels": {
+          "en": "Grant"
+        },
+        "population": 19299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.217,
+          36.299499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "007",
+        "area": 0.32160199999999967,
+        "bounding_box": [
+          -94.618,
+          36.099,
+          -93.816,
+          36.5
+        ],
+        "point": [
+          -94.217,
+          36.299499999999995
+        ],
+        "labels": {
+          "en": "Benton"
+        },
+        "population": 321227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7045,
+          36.033500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "087",
+        "area": 0.2827989999999999,
+        "bounding_box": [
+          -93.963,
+          35.76,
+          -93.446,
+          36.307
+        ],
+        "point": [
+          -93.7045,
+          36.033500000000004
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 17297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.64699999999999,
+          33.9755
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "039",
+        "area": 0.22598599999999477,
+        "bounding_box": [
+          -92.96,
+          33.795,
+          -92.334,
+          34.156
+        ],
+        "point": [
+          -92.64699999999999,
+          33.9755
+        ],
+        "labels": {
+          "en": "Dallas"
+        },
+        "population": 7178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2145,
+          33.884
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "025",
+        "area": 0.1882799999999983,
+        "bounding_box": [
+          -92.476,
+          33.704,
+          -91.953,
+          34.064
+        ],
+        "point": [
+          -92.2145,
+          33.884
+        ],
+        "labels": {
+          "en": "Cleveland"
+        },
+        "population": 8848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28649999999999,
+          35.1375
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "035",
+        "area": 0.2673510000000051,
+        "bounding_box": [
+          -90.506,
+          34.833,
+          -90.067,
+          35.442
+        ],
+        "point": [
+          -90.28649999999999,
+          35.1375
+        ],
+        "labels": {
+          "en": "Crittenden"
+        },
+        "population": 50956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6125,
+          33.25
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "073",
+        "area": 0.228751999999997,
+        "bounding_box": [
+          -93.859,
+          33.018,
+          -93.366,
+          33.482
+        ],
+        "point": [
+          -93.6125,
+          33.25
+        ],
+        "labels": {
+          "en": "Lafayette"
+        },
+        "population": 6872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.65950000000001,
+          34.635999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "125",
+        "area": 0.37062600000000556,
+        "bounding_box": [
+          -93.075,
+          34.413,
+          -92.244,
+          34.859
+        ],
+        "point": [
+          -92.65950000000001,
+          34.635999999999996
+        ],
+        "labels": {
+          "en": "Saline"
+        },
+        "population": 136394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.252,
+          33.284
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "017",
+        "area": 0.23295999999999917,
+        "bounding_box": [
+          -91.46,
+          33.004,
+          -91.044,
+          33.564
+        ],
+        "point": [
+          -91.252,
+          33.284
+        ],
+        "labels": {
+          "en": "Chicot"
+        },
+        "population": 9843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0545,
+          35.423500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "115",
+        "area": 0.29877900000000124,
+        "bounding_box": [
+          -93.299,
+          35.118,
+          -92.81,
+          35.729
+        ],
+        "point": [
+          -93.0545,
+          35.423500000000004
+        ],
+        "labels": {
+          "en": "Pope"
+        },
+        "population": 70075
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.65,
+          36.281000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "089",
+        "area": 0.21015199999999967,
+        "bounding_box": [
+          -92.891,
+          36.063,
+          -92.409,
+          36.499
+        ],
+        "point": [
+          -92.65,
+          36.281000000000006
+        ],
+        "labels": {
+          "en": "Marion"
+        },
+        "population": 17305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5815,
+          34.786
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "117",
+        "area": 0.27234000000000536,
+        "bounding_box": [
+          -91.804,
+          34.48,
+          -91.359,
+          35.092
+        ],
+        "point": [
+          -91.5815,
+          34.786
+        ],
+        "labels": {
+          "en": "Prairie"
+        },
+        "population": 7939
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.17150000000001,
+          33.4355
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "011",
+        "area": 0.22944500000000426,
+        "bounding_box": [
+          -92.382,
+          33.163,
+          -91.961,
+          33.708
+        ],
+        "point": [
+          -92.17150000000001,
+          33.4355
+        ],
+        "labels": {
+          "en": "Bradley"
+        },
+        "population": 10506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7325,
+          33.590500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "043",
+        "area": 0.22769499999999834,
+        "bounding_box": [
+          -92.015,
+          33.389,
+          -91.45,
+          33.792
+        ],
+        "point": [
+          -91.7325,
+          33.590500000000006
+        ],
+        "labels": {
+          "en": "Drew"
+        },
+        "population": 18374
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6545,
+          34.147000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "109",
+        "area": 0.2293899999999984,
+        "bounding_box": [
+          -93.937,
+          33.944,
+          -93.372,
+          34.35
+        ],
+        "point": [
+          -93.6545,
+          34.147000000000006
+        ],
+        "labels": {
+          "en": "Pike"
+        },
+        "population": 11279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.529,
+          33.198
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "139",
+        "area": 0.34959999999999647,
+        "bounding_box": [
+          -92.989,
+          33.008,
+          -92.069,
+          33.388
+        ],
+        "point": [
+          -92.529,
+          33.198
+        ],
+        "labels": {
+          "en": "Union"
+        },
+        "population": 37860
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.23849999999999,
+          35.191
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "131",
+        "area": 0.2178799999999997,
+        "bounding_box": [
+          -94.448,
+          34.931,
+          -94.029,
+          35.451
+        ],
+        "point": [
+          -94.23849999999999,
+          35.191
+        ],
+        "labels": {
+          "en": "Sebastian"
+        },
+        "population": 137848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0535,
+          36.069500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "075",
+        "area": 0.22883900000000124,
+        "bounding_box": [
+          -91.357,
+          35.881,
+          -90.75,
+          36.258
+        ],
+        "point": [
+          -91.0535,
+          36.069500000000005
+        ],
+        "labels": {
+          "en": "Lawrence"
+        },
+        "population": 17032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6625,
+          35.573499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "111",
+        "area": 0.2025569999999988,
+        "bounding_box": [
+          -91.039,
+          35.439,
+          -90.286,
+          35.708
+        ],
+        "point": [
+          -90.6625,
+          35.573499999999996
+        ],
+        "labels": {
+          "en": "Poinsett"
+        },
+        "population": 23663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.713,
+          33.7425
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ar",
+        "region_child": "057",
+        "area": 0.27289600000000086,
+        "bounding_box": [
+          -93.969,
+          33.476,
+          -93.457,
+          34.009
+        ],
+        "point": [
+          -93.713,
+          33.7425
+        ],
+        "labels": {
+          "en": "Hempstead"
+        },
+        "population": 21708
+      }
+    }
+  ]
+}

@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9495,
+          35.292500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ml",
+        "area": 0.0022550000000000087,
+        "bounding_box": [
+          -2.97,
+          35.265,
+          -2.929,
+          35.32
+        ],
+        "point": [
+          -2.9495,
+          35.292500000000004
+        ],
+        "labels": {
+          "en": "Ciudad Autónoma de Melilla"
+        },
+        "population": 102397
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.355,
+          35.894999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ce",
+        "area": 0.002376000000000191,
+        "bounding_box": [
+          -5.382,
+          35.873,
+          -5.328,
+          35.917
+        ],
+        "point": [
+          -5.355,
+          35.894999999999996
+        ],
+        "labels": {
+          "en": "Ciudad Autónoma de Ceuta"
+        },
+        "population": 44826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.412,
+          42.281499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ri",
+        "area": 1.046900000000002,
+        "bounding_box": [
+          -3.134,
+          41.919,
+          -1.69,
+          42.644
+        ],
+        "point": [
+          -2.412,
+          42.281499999999994
+        ],
+        "labels": {
+          "en": "La Rioja"
+        },
+        "population": 366941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5860000000000003,
+          42.9705
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-pv",
+        "area": 1.6657759999999984,
+        "bounding_box": [
+          -3.442,
+          42.484,
+          -1.73,
+          43.457
+        ],
+        "point": [
+          -2.5860000000000003,
+          42.9705
+        ],
+        "labels": {
+          "en": "País Vasco/Euskadi"
+        },
+        "population": 2266080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6075,
+          42.6125
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-nc",
+        "area": 2.4826350000000024,
+        "bounding_box": [
+          -2.491,
+          41.91,
+          -0.724,
+          43.315
+        ],
+        "point": [
+          -1.6075,
+          42.6125
+        ],
+        "labels": {
+          "en": "Comunidad Foral de Navarra"
+        },
+        "population": 727345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0925,
+          42.456
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-nc",
+        "area": 0.0032120000000002927,
+        "bounding_box": [
+          -1.129,
+          42.434,
+          -1.056,
+          42.478
+        ],
+        "point": [
+          -1.0925,
+          42.456
+        ],
+        "labels": {
+          "en": "Comunidad Foral de Navarra"
+        },
+        "population": 727345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.52,
+          38.065
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-mc",
+        "area": 2.2659600000000046,
+        "bounding_box": [
+          -2.341,
+          37.375,
+          -0.699,
+          38.755
+        ],
+        "point": [
+          -1.52,
+          38.065
+        ],
+        "labels": {
+          "en": "Región de Murcia"
+        },
+        "population": 1722460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.816,
+          40.525999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-md",
+        "area": 1.9502279999999979,
+        "bounding_box": [
+          -4.579,
+          39.887,
+          -3.053,
+          41.165
+        ],
+        "point": [
+          -3.816,
+          40.525999999999996
+        ],
+        "labels": {
+          "en": "Comunidad de Madrid"
+        },
+        "population": 7485127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.287,
+          40.664500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-md",
+        "area": 0.0021779999999996377,
+        "bounding_box": [
+          -4.32,
+          40.648,
+          -4.254,
+          40.681
+        ],
+        "point": [
+          -4.287,
+          40.664500000000004
+        ],
+        "labels": {
+          "en": "Comunidad de Madrid"
+        },
+        "population": 7485127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0145,
+          42.793
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ga",
+        "area": 5.036112000000009,
+        "bounding_box": [
+          -9.294,
+          41.809,
+          -6.735,
+          43.777
+        ],
+        "point": [
+          -8.0145,
+          42.793
+        ],
+        "labels": {
+          "en": "Galicia"
+        },
+        "population": 2729129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1005,
+          39.215
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ex",
+        "area": 7.298081999999983,
+        "bounding_box": [
+          -7.536,
+          37.944,
+          -4.665,
+          40.486
+        ],
+        "point": [
+          -6.1005,
+          39.215
+        ],
+        "labels": {
+          "en": "Extremadura"
+        },
+        "population": 1147696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5045,
+          39.318
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-vc",
+        "area": 5.998738,
+        "bounding_box": [
+          -1.524,
+          37.847,
+          0.515,
+          40.789
+        ],
+        "point": [
+          -0.5045,
+          39.318
+        ],
+        "labels": {
+          "en": "Comunitat Valenciana"
+        },
+        "population": 5826961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2645,
+          40.096999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-vc",
+        "area": 0.07854000000000025,
+        "bounding_box": [
+          -1.457,
+          39.995,
+          -1.072,
+          40.199
+        ],
+        "point": [
+          -1.2645,
+          40.096999999999994
+        ],
+        "labels": {
+          "en": "Comunitat Valenciana"
+        },
+        "population": 5826961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.746,
+          41.692
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ct",
+        "area": 7.369375999999981,
+        "bounding_box": [
+          0.17,
+          40.523,
+          3.322,
+          42.861
+        ],
+        "point": [
+          1.746,
+          41.692
+        ],
+        "labels": {
+          "en": "Cataluña/Catalunya"
+        },
+        "population": 8648673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.975,
+          42.466
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ct",
+        "area": 0.0013679999999998825,
+        "bounding_box": [
+          1.957,
+          42.447,
+          1.993,
+          42.485
+        ],
+        "point": [
+          1.975,
+          42.466
+        ],
+        "labels": {
+          "en": "Cataluña/Catalunya"
+        },
+        "population": 8648673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1585,
+          39.6755
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-cm",
+        "area": 14.822924999999996,
+        "bounding_box": [
+          -5.401,
+          38.023,
+          -0.916,
+          41.328
+        ],
+        "point": [
+          -3.1585,
+          39.6755
+        ],
+        "labels": {
+          "en": "Castilla-La Mancha"
+        },
+        "population": 2492575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.429,
+          41.6605
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-cl",
+        "area": 16.671020000000006,
+        "bounding_box": [
+          -7.071,
+          40.083,
+          -1.787,
+          43.238
+        ],
+        "point": [
+          -4.429,
+          41.6605
+        ],
+        "labels": {
+          "en": "Castilla y León"
+        },
+        "population": 2619171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6895,
+          42.716499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-cl",
+        "area": 0.05416500000000127,
+        "bounding_box": [
+          -2.862,
+          42.638,
+          -2.517,
+          42.795
+        ],
+        "point": [
+          -2.6895,
+          42.716499999999996
+        ],
+        "labels": {
+          "en": "Castilla y León"
+        },
+        "population": 2619171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0005,
+          43.135999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-cb",
+        "area": 1.2825539999999962,
+        "bounding_box": [
+          -4.851,
+          42.759,
+          -3.15,
+          43.513
+        ],
+        "point": [
+          -4.0005,
+          43.135999999999996
+        ],
+        "labels": {
+          "en": "Cantabria"
+        },
+        "population": 637772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2765,
+          43.23650000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-cb",
+        "area": 0.0032329999999999933,
+        "bounding_box": [
+          -3.303,
+          43.206,
+          -3.25,
+          43.267
+        ],
+        "point": [
+          -3.2765,
+          43.23650000000001
+        ],
+        "labels": {
+          "en": "Cantabria"
+        },
+        "population": 637772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9035,
+          39.613
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ib",
+        "area": 0.7751980000000029,
+        "bounding_box": [
+          2.345,
+          39.266,
+          3.462,
+          39.96
+        ],
+        "point": [
+          2.9035,
+          39.613
+        ],
+        "labels": {
+          "en": "Illes Balears"
+        },
+        "population": 1318882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0515,
+          39.94
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ib",
+        "area": 0.13440600000000022,
+        "bounding_box": [
+          3.795,
+          39.809,
+          4.308,
+          40.071
+        ],
+        "point": [
+          4.0515,
+          39.94
+        ],
+        "labels": {
+          "en": "Illes Balears"
+        },
+        "population": 1318882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4115,
+          38.9795
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ib",
+        "area": 0.10941500000000041,
+        "bounding_box": [
+          1.214,
+          38.841,
+          1.609,
+          39.118
+        ],
+        "point": [
+          1.4115,
+          38.9795
+        ],
+        "labels": {
+          "en": "Illes Balears"
+        },
+        "population": 1318882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4809999999999999,
+          38.692499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ib",
+        "area": 0.021209999999999386,
+        "bounding_box": [
+          1.38,
+          38.64,
+          1.582,
+          38.745
+        ],
+        "point": [
+          1.4809999999999999,
+          38.692499999999995
+        ],
+        "labels": {
+          "en": "Illes Balears"
+        },
+        "population": 1318882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9465,
+          39.1395
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ib",
+        "area": 0.0014790000000001813,
+        "bounding_box": [
+          2.921,
+          39.125,
+          2.972,
+          39.154
+        ],
+        "point": [
+          2.9465,
+          39.1395
+        ],
+        "labels": {
+          "en": "Illes Balears"
+        },
+        "population": 1318882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8435,
+          43.2635
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-as",
+        "area": 2.0295869999999883,
+        "bounding_box": [
+          -7.177,
+          42.883,
+          -4.51,
+          43.644
+        ],
+        "point": [
+          -5.8435,
+          43.2635
+        ],
+        "labels": {
+          "en": "Principado de Asturias"
+        },
+        "population": 1065373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7010000000000001,
+          41.3845
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-ar",
+        "area": 9.034349999999987,
+        "bounding_box": [
+          -2.17,
+          39.847,
+          0.768,
+          42.922
+        ],
+        "point": [
+          -0.7010000000000001,
+          41.3845
+        ],
+        "labels": {
+          "en": "Aragón"
+        },
+        "population": 1486185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.576499999999999,
+          37.3695
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "es",
+        "region_child": "es-an",
+        "area": 16.023067000000008,
+        "bounding_box": [
+          -7.523,
+          36.01,
+          -1.63,
+          38.729
+        ],
+        "point": [
+          -4.576499999999999,
+          37.3695
+        ],
+        "labels": {
+          "en": "Andalucía"
+        },
+        "population": 9192752
+      }
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.80449999999999,
+          25.88
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ml",
+        "region_child": "ribhoi",
+        "area": 0.4478860000000003,
+        "bounding_box": [
+          91.336,
+          25.641,
+          92.273,
+          26.119
+        ],
+        "point": [
+          91.80449999999999,
+          25.88
+        ],
+        "labels": {
+          "en": "Ribhoi"
+        },
+        "population": 393364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2885,
+          25.5845
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ml",
+        "region_child": "west khasi hills",
+        "area": 0.5999549999999935,
+        "bounding_box": [
+          90.748,
+          25.307,
+          91.829,
+          25.862
+        ],
+        "point": [
+          91.2885,
+          25.5845
+        ],
+        "labels": {
+          "en": "West Khasi Hills"
+        },
+        "population": 342122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4865,
+          25.251
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ml",
+        "region_child": "east jaintia hills",
+        "area": 0.2789020000000002,
+        "bounding_box": [
+          92.171,
+          25.03,
+          92.802,
+          25.472
+        ],
+        "point": [
+          92.4865,
+          25.251
+        ],
+        "labels": {
+          "en": "East Jaintia Hills"
+        },
+        "population": 156982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74600000000001,
+          25.399
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ml",
+        "region_child": "east khasi hills",
+        "area": 0.43120000000000386,
+        "bounding_box": [
+          91.354,
+          25.124,
+          92.138,
+          25.674
+        ],
+        "point": [
+          91.74600000000001,
+          25.399
+        ],
+        "labels": {
+          "en": "East Khasi Hills"
+        },
+        "population": 1017179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5995,
+          25.348
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ml",
+        "region_child": "south garo hills",
+        "area": 0.30232800000000076,
+        "bounding_box": [
+          90.229,
+          25.144,
+          90.97,
+          25.552
+        ],
+        "point": [
+          90.5995,
+          25.348
+        ],
+        "labels": {
+          "en": "South Garo Hills"
+        },
+        "population": 216537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1645,
+          25.6065
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ml",
+        "region_child": "west garo hills",
+        "area": 0.43389500000000103,
+        "bounding_box": [
+          89.895,
+          25.204,
+          90.434,
+          26.009
+        ],
+        "point": [
+          90.1645,
+          25.6065
+        ],
+        "labels": {
+          "en": "West Garo Hills"
+        },
+        "population": 708060
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.651,
+          25.618000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ml",
+        "region_child": "east garo hills",
+        "area": 0.26906399999999864,
+        "bounding_box": [
+          90.318,
+          25.416,
+          90.984,
+          25.82
+        ],
+        "point": [
+          90.651,
+          25.618000000000002
+        ],
+        "labels": {
+          "en": "East Garo Hills"
+        },
+        "population": 189259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.32300000000001,
+          25.438000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ml",
+        "region_child": "west jaintia hills",
+        "area": 0.4272320000000022,
+        "bounding_box": [
+          91.985,
+          25.122,
+          92.661,
+          25.754
+        ],
+        "point": [
+          92.32300000000001,
+          25.438000000000002
+        ],
+        "labels": {
+          "en": "West Jaintia Hills"
+        },
+        "population": 379993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.19749999999999,
+          25.325
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ml",
+        "region_child": "south west khasi hills",
+        "area": 0.22513799999999964,
+        "bounding_box": [
+          90.839,
+          25.168,
+          91.556,
+          25.482
+        ],
+        "point": [
+          91.19749999999999,
+          25.325
+        ],
+        "labels": {
+          "en": "South West Khasi Hills"
+        },
+        "population": 146952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6825,
+          25.863500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ml",
+        "region_child": "north garo hills",
+        "area": 0.20129100000000125,
+        "bounding_box": [
+          90.339,
+          25.717,
+          91.026,
+          26.01
+        ],
+        "point": [
+          90.6825,
+          25.863500000000002
+        ],
+        "labels": {
+          "en": "North Garo Hills"
+        },
+        "population": 187814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.99350000000001,
+          25.447
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ml",
+        "region_child": "south west garo hills",
+        "area": 0.11360000000000138,
+        "bounding_box": [
+          89.816,
+          25.287,
+          90.171,
+          25.607
+        ],
+        "point": [
+          89.99350000000001,
+          25.447
+        ],
+        "labels": {
+          "en": "South West Garo Hills"
+        },
+        "population": 180316
+      }
+    }
+  ]
+}

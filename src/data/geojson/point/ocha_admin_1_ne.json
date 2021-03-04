@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1195,
+          19.4285
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ne",
+        "region_child": "ne01",
+        "area": 96.43336499999998,
+        "bounding_box": [
+          4.243,
+          15.326,
+          15.996,
+          23.531
+        ],
+        "point": [
+          10.1195,
+          19.4285
+        ],
+        "labels": {
+          "en": "Agadez"
+        },
+        "population": 665608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.084,
+          15.534500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ne",
+        "region_child": "ne02",
+        "area": 24.467849999999995,
+        "bounding_box": [
+          10.609,
+          13.063,
+          15.559,
+          18.006
+        ],
+        "point": [
+          13.084,
+          15.534500000000001
+        ],
+        "labels": {
+          "en": "Diffa"
+        },
+        "population": 898728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.528,
+          13.163499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ne",
+        "region_child": "ne03",
+        "area": 6.294218000000003,
+        "bounding_box": [
+          2.455,
+          11.697,
+          4.601,
+          14.63
+        ],
+        "point": [
+          3.528,
+          13.163499999999999
+        ],
+        "labels": {
+          "en": "Dosso"
+        },
+        "population": 2577116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4125,
+          14.214
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ne",
+        "region_child": "ne04",
+        "area": 5.564304,
+        "bounding_box": [
+          6.276,
+          12.99,
+          8.549,
+          15.438
+        ],
+        "point": [
+          7.4125,
+          14.214
+        ],
+        "labels": {
+          "en": "Maradi"
+        },
+        "population": 4615438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1075,
+          13.5245
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ne",
+        "region_child": "ne08",
+        "area": 0.07080500000000021,
+        "bounding_box": [
+          1.963,
+          13.402,
+          2.252,
+          13.647
+        ],
+        "point": [
+          2.1075,
+          13.5245
+        ],
+        "labels": {
+          "en": "Niamey"
+        },
+        "population": 1232659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3145,
+          16.1745
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ne",
+        "region_child": "ne05",
+        "area": 14.550374999999995,
+        "bounding_box": [
+          3.877,
+          13.644,
+          6.752,
+          18.705
+        ],
+        "point": [
+          5.3145,
+          16.1745
+        ],
+        "labels": {
+          "en": "Tahoua"
+        },
+        "population": 4996877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2129999999999996,
+          13.799499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ne",
+        "region_child": "ne06",
+        "area": 15.536729999999997,
+        "bounding_box": [
+          0.166,
+          11.902,
+          4.26,
+          15.697
+        ],
+        "point": [
+          2.2129999999999996,
+          13.799499999999998
+        ],
+        "labels": {
+          "en": "Tillabéri"
+        },
+        "population": 3711489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.676,
+          15.1525
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "ne",
+        "region_child": "ne07",
+        "area": 21.982029999999998,
+        "bounding_box": [
+          7.331,
+          12.809,
+          12.021,
+          17.496
+        ],
+        "point": [
+          9.676,
+          15.1525
+        ],
+        "labels": {
+          "en": "Zinder"
+        },
+        "population": 5227863
+      }
+    }
+  ]
+}

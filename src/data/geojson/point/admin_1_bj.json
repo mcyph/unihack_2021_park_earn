@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.926,
+          11.4585
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-al",
+        "area": 3.4271819999999975,
+        "bounding_box": [
+          2.015,
+          10.518,
+          3.837,
+          12.399
+        ],
+        "point": [
+          2.926,
+          11.4585
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إدارة أليبوري",
+          "bn": "আলিবুরি বিভাগ",
+          "de": "Alibori",
+          "en": "Alibori Department",
+          "es": "Alibori",
+          "fr": "Alibori",
+          "el": "Αλιμπόρι",
+          "hi": "अलीबोरी विभाग",
+          "hu": "Alibori",
+          "id": "Departemen Alibori",
+          "it": "dipartimento di Alibori",
+          "ja": "アリボリ県",
+          "ko": "알리보리 주",
+          "nl": "Alibori",
+          "pl": "Departament Alibori",
+          "pt": "Alibori",
+          "ru": "Алибори",
+          "sv": "Alibori",
+          "tr": "Alibori Departmanı",
+          "vi": "Alibori",
+          "zh": "阿黎博里省"
+        },
+        "population": 1217470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9065000000000003,
+          9.701
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-bo",
+        "area": 3.4614599999999993,
+        "bounding_box": [
+          1.976,
+          8.771,
+          3.837,
+          10.631
+        ],
+        "point": [
+          2.9065000000000003,
+          9.701
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إدارة بورغو",
+          "bn": "বুরগোয়া বিভাগ",
+          "de": "Borgou",
+          "en": "Borgou Department",
+          "es": "Borgou",
+          "fr": "Borgou",
+          "el": "Μπόργκου",
+          "hi": "बोर्गू विभाग",
+          "hu": "Borgou",
+          "id": "Departemen Borgou",
+          "it": "dipartimento di Borgou",
+          "ja": "ボルグー県",
+          "ko": "보르구 주",
+          "nl": "Borgou",
+          "pl": "Departament Borgou",
+          "pt": "Borgou",
+          "ru": "Боргу",
+          "sv": "Borgou",
+          "tr": "Borgou Departmanı",
+          "vi": "Borgou",
+          "zh": "博爾古省"
+        },
+        "population": 1683472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.605,
+          7.0815
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-pl",
+        "area": 0.4319699999999997,
+        "bounding_box": [
+          2.418,
+          6.504,
+          2.792,
+          7.659
+        ],
+        "point": [
+          2.605,
+          7.0815
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إدارة بلاتو",
+          "bn": "প্লাতেও বিভাগ",
+          "de": "Plateau",
+          "en": "Plateau Department",
+          "es": "Plateau",
+          "fr": "Plateau",
+          "el": "Γεωγραφικό Διαμέρισμα Πλατό",
+          "hi": "पठार विभाग",
+          "hu": "Plateau",
+          "id": "Departemen Plateau",
+          "it": "dipartimento dell'Altopiano",
+          "ja": "プラトー県",
+          "ko": "플라토 주",
+          "nl": "Plateau",
+          "pl": "Departament Plateau",
+          "pt": "Plateau",
+          "ru": "Плато",
+          "sv": "Plateau",
+          "tr": "Plateau Departmanı",
+          "vi": "Khu hành chính Plateau",
+          "zh": "高原省"
+        },
+        "population": 772344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173,
+          8.1015
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-co",
+        "area": 1.5374379999999988,
+        "bounding_box": [
+          1.604,
+          7.426,
+          2.742,
+          8.777
+        ],
+        "point": [
+          2.173,
+          8.1015
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إدارة كولاينيس",
+          "bn": "কলিন্স বিভাগ",
+          "de": "Collines",
+          "en": "Collines Department",
+          "es": "Collines",
+          "fr": "Collines",
+          "el": "Κολλίνες",
+          "hi": "कॉलिंस डिपार्टमेंट",
+          "hu": "Collines",
+          "id": "Departemen Collines",
+          "it": "dipartimento delle Colline",
+          "ja": "コリネス県",
+          "ko": "콜린 주",
+          "nl": "Collines",
+          "pl": "Departament Collines",
+          "pt": "Collines",
+          "ru": "Коллинз",
+          "sv": "Collines",
+          "tr": "Collines Departmanı",
+          "vi": "Collines",
+          "zh": "丘陵省"
+        },
+        "population": 882449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5519999999999996,
+          6.6705000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-ou",
+        "area": 0.2154300000000002,
+        "bounding_box": [
+          2.385,
+          6.348,
+          2.719,
+          6.993
+        ],
+        "point": [
+          2.5519999999999996,
+          6.6705000000000005
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة أويميه",
+          "bn": "উয়েমে বিভাগ",
+          "de": "Ouémé",
+          "en": "Ouémé Department",
+          "es": "Ouémé",
+          "fr": "Ouémé",
+          "el": "Ουεμέ",
+          "hi": "औउमे विभाग",
+          "hu": "Ouémé",
+          "id": "Departemen Ouémé",
+          "it": "dipartimento di Ouémé",
+          "ja": "ウェメ県",
+          "ko": "우에메 주",
+          "nl": "Ouémé",
+          "pl": "Departament Ouémé",
+          "pt": "Oueme",
+          "ru": "Уэме",
+          "sv": "Ouémé",
+          "tr": "Ouémé Departmanı",
+          "vi": "Khu vực hành chính Ouémé",
+          "zh": "韋梅省"
+        },
+        "population": 1444099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5579999999999998,
+          10.704
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-ak",
+        "area": 2.4163440000000014,
+        "bounding_box": [
+          0.76,
+          9.947,
+          2.356,
+          11.461
+        ],
+        "point": [
+          1.5579999999999998,
+          10.704
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "إدارة أتاكورا",
+          "bn": "আতাকোরা বিভাগ",
+          "de": "Atakora",
+          "en": "Atakora Department",
+          "es": "Atakora",
+          "fr": "Atacora",
+          "el": "Ατακόρα",
+          "hi": "अटकोरा विभाग",
+          "hu": "Atakora",
+          "id": "Departemen Atakora",
+          "it": "dipartimento di Atakora",
+          "ja": "アタコラ県",
+          "ko": "아타코라 주",
+          "nl": "Atacora",
+          "pl": "Departament Atakora",
+          "pt": "Atakora",
+          "ru": "Атакора",
+          "sv": "Atacora",
+          "tr": "Atakora Departmanı",
+          "vi": "Atakora",
+          "zh": "阿塔科拉省"
+        },
+        "population": 1071126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7730000000000001,
+          9.258
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-do",
+        "area": 1.3982159999999986,
+        "bounding_box": [
+          1.326,
+          8.476,
+          2.22,
+          10.04
+        ],
+        "point": [
+          1.7730000000000001,
+          9.258
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إدارة دونغا",
+          "bn": "ডংগা বিভাগ",
+          "de": "Donga",
+          "en": "Donga Department",
+          "es": "Donga",
+          "fr": "Donga",
+          "el": "Ντόνγκα",
+          "hi": "डोंगा विभाग",
+          "hu": "Donga",
+          "id": "Departemen Donga",
+          "it": "dipartimento di Donga",
+          "ja": "ドンガ県",
+          "ko": "동가 주",
+          "nl": "Donga",
+          "pl": "Departament Donga",
+          "pt": "Donga",
+          "ru": "Донга",
+          "sv": "Donga",
+          "tr": "Donga Departmanı",
+          "vi": "Donga",
+          "zh": "峽谷省"
+        },
+        "population": 739368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0915,
+          7.272
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-zo",
+        "area": 0.6746399999999998,
+        "bounding_box": [
+          1.623,
+          6.912,
+          2.56,
+          7.632
+        ],
+        "point": [
+          2.0915,
+          7.272
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "إدارة زو",
+          "bn": "জু বিভাগ",
+          "de": "Zou",
+          "en": "Zou Department",
+          "es": "Zou",
+          "fr": "Zou",
+          "el": "Ζου",
+          "hi": "झाऊ विभाग",
+          "hu": "Zou",
+          "id": "Departemen Zou",
+          "it": "dipartimento di Zou",
+          "ja": "ズー県",
+          "ko": "주 주",
+          "nl": "Zou",
+          "pl": "Departament Zou",
+          "pt": "Zou",
+          "ru": "Зу",
+          "sv": "Zou",
+          "tr": "Zou Departmanı",
+          "vi": "Khu vực hành chính Zou",
+          "zh": "祖省"
+        },
+        "population": 1077360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8125,
+          7.1129999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-ko",
+        "area": 0.47460599999999953,
+        "bounding_box": [
+          1.532,
+          6.69,
+          2.093,
+          7.536
+        ],
+        "point": [
+          1.8125,
+          7.1129999999999995
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إدارة كوفو",
+          "bn": "কুফু বিভাগ",
+          "de": "Couffo",
+          "en": "Kouffo Department",
+          "es": "Kouffo",
+          "fr": "Couffo",
+          "el": "Κούφο",
+          "hi": "कोफ़ो विभाग",
+          "hu": "Couffo",
+          "id": "Departemen Kouffo",
+          "it": "dipartimento di Kouffo",
+          "ja": "クッフォ県",
+          "ko": "쿠포 주",
+          "nl": "Couffo",
+          "pl": "Departament Kouffo",
+          "pt": "Kouffo",
+          "ru": "Куффо",
+          "sv": "Couffo",
+          "tr": "Kouffo Department",
+          "vi": "Kouffo",
+          "zh": "庫福省"
+        },
+        "population": 976946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.795,
+          6.4805
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-mo",
+        "area": 0.24411399999999975,
+        "bounding_box": [
+          1.566,
+          6.214,
+          2.024,
+          6.747
+        ],
+        "point": [
+          1.795,
+          6.4805
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "إدارة مونو",
+          "bn": "মনো বিভাগ",
+          "de": "Mono",
+          "en": "Mono Department",
+          "es": "Mono",
+          "fr": "Mono",
+          "el": "Μόνο",
+          "hi": "मोनो विभाग",
+          "hu": "Mono",
+          "id": "Departemen Mono",
+          "it": "dipartimento di Mono",
+          "ja": "モノ県",
+          "ko": "모노 주",
+          "nl": "Mono",
+          "pl": "Departament Mono",
+          "pt": "Mono",
+          "ru": "Моно",
+          "sv": "Mono",
+          "tr": "Mono Departmanı",
+          "vi": "Mono",
+          "zh": "莫諾省"
+        },
+        "population": 619675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2225,
+          6.604
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-aq",
+        "area": 0.33538600000000024,
+        "bounding_box": [
+          1.958,
+          6.287,
+          2.487,
+          6.921
+        ],
+        "point": [
+          2.2225,
+          6.604
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "إدارة أتلانتيك",
+          "bn": "আটলান্টিক বিভাগ",
+          "de": "Atlantique",
+          "en": "Atlantique Department",
+          "es": "Atlantique",
+          "fr": "Atlantique",
+          "el": "Αντλάτικ",
+          "hi": "अटलांटिक विभाग",
+          "hu": "Atlantique",
+          "id": "Departemen Atlantique",
+          "it": "dipartimento dell'Atlantico",
+          "ja": "アトランティック県",
+          "ko": "아틀랑티크 주",
+          "nl": "Atlantique",
+          "pl": "Departament Atlantique",
+          "pt": "Atlantique",
+          "ru": "Атлантическая провинция",
+          "sv": "Atlantique",
+          "tr": "Atlantique Departmanı",
+          "vi": "Atlantique",
+          "zh": "大西洋省"
+        },
+        "population": 2038850
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4219999999999997,
+          6.366
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bj",
+        "region_child": "bj-li",
+        "area": 0.007439999999999958,
+        "bounding_box": [
+          2.36,
+          6.336,
+          2.484,
+          6.396
+        ],
+        "point": [
+          2.4219999999999997,
+          6.366
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "الإدارة الساحلية",
+          "bn": "লিট্টোরাল বিভাগ",
+          "de": "Littoral",
+          "en": "Littoral Department",
+          "es": "Littoral",
+          "fr": "Littoral",
+          "el": "Λίττοραλ",
+          "hi": "लिटोरल विभाग",
+          "hu": "Littoral",
+          "id": "Departemen Littoral",
+          "it": "dipartimento del Litorale",
+          "ja": "リトラル県",
+          "ko": "리토랄 주",
+          "nl": "Littoral",
+          "pl": "Departament Littoral",
+          "pt": "Littoral",
+          "ru": "Литораль",
+          "sv": "Littoral",
+          "tr": "Littoral Departmanı",
+          "vi": "Littoral",
+          "zh": "濱海省"
+        },
+        "population": 615660
+      }
+    }
+  ]
+}

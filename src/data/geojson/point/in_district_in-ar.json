@@ -1,0 +1,755 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.88900000000001,
+          28.236
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "upper subansiri",
+        "area": 1.3442239999999896,
+        "bounding_box": [
+          93.183,
+          27.76,
+          94.595,
+          28.712
+        ],
+        "point": [
+          93.88900000000001,
+          28.236
+        ],
+        "labels": {
+          "en": "Upper Subansiri"
+        },
+        "population": 119913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.842,
+          28.037
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "anjaw",
+        "area": 0.9627480000000045,
+        "bounding_box": [
+          96.273,
+          27.614,
+          97.411,
+          28.46
+        ],
+        "point": [
+          96.842,
+          28.037
+        ],
+        "labels": {
+          "en": "Anjaw"
+        },
+        "population": 24295
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.3965,
+          27.270000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "changlang",
+        "area": 1.2003699999999973,
+        "bounding_box": [
+          95.629,
+          26.879,
+          97.164,
+          27.661
+        ],
+        "point": [
+          96.3965,
+          27.270000000000003
+        ],
+        "labels": {
+          "en": "Changlang"
+        },
+        "population": 184333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0075,
+          27.661
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "tawang",
+        "area": 0.37104599999999266,
+        "bounding_box": [
+          91.546,
+          27.46,
+          92.469,
+          27.862
+        ],
+        "point": [
+          92.0075,
+          27.661
+        ],
+        "labels": {
+          "en": "Tawang"
+        },
+        "population": 60232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.71600000000001,
+          27.3035
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "papum pare",
+        "area": 0.7388639999999973,
+        "bounding_box": [
+          93.212,
+          26.937,
+          94.22,
+          27.67
+        ],
+        "point": [
+          93.71600000000001,
+          27.3035
+        ],
+        "labels": {
+          "en": "Papum Pare"
+        },
+        "population": 246482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.527,
+          27.032
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "tirap",
+        "area": 0.15497600000000103,
+        "bounding_box": [
+          95.36,
+          26.8,
+          95.694,
+          27.264
+        ],
+        "point": [
+          95.527,
+          27.032
+        ],
+        "labels": {
+          "en": "Tirap"
+        },
+        "population": 68845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.31549999999999,
+          28.064999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "east siang",
+        "area": 0.2475060000000005,
+        "bounding_box": [
+          95.067,
+          27.816,
+          95.564,
+          28.314
+        ],
+        "point": [
+          95.31549999999999,
+          28.064999999999998
+        ],
+        "labels": {
+          "en": "East Siang"
+        },
+        "population": 86836
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2355,
+          27.97
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "lohit",
+        "area": 0.7432000000000023,
+        "bounding_box": [
+          95.771,
+          27.57,
+          96.7,
+          28.37
+        ],
+        "point": [
+          96.2355,
+          27.97
+        ],
+        "labels": {
+          "en": "Lohit"
+        },
+        "population": 52001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1405,
+          27.984
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "kurung kumey",
+        "area": 0.7277099999999957,
+        "bounding_box": [
+          92.663,
+          27.603,
+          93.618,
+          28.365
+        ],
+        "point": [
+          93.1405,
+          27.984
+        ],
+        "labels": {
+          "en": "Kurung Kumey"
+        },
+        "population": 76593
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8245,
+          27.578
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "lower subansiri",
+        "area": 0.2724919999999953,
+        "bounding_box": [
+          93.543,
+          27.336,
+          94.106,
+          27.82
+        ],
+        "point": [
+          93.8245,
+          27.578
+        ],
+        "labels": {
+          "en": "Lower Subansiri"
+        },
+        "population": 99516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.91749999999999,
+          27.5545
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "east kameng",
+        "area": 0.7714849999999962,
+        "bounding_box": [
+          92.461,
+          27.132,
+          93.374,
+          27.977
+        ],
+        "point": [
+          92.91749999999999,
+          27.5545
+        ],
+        "labels": {
+          "en": "East Kameng"
+        },
+        "population": 87640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.42949999999999,
+          27.336
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "west kameng",
+        "area": 0.7412520000000022,
+        "bounding_box": [
+          92.014,
+          26.89,
+          92.845,
+          27.782
+        ],
+        "point": [
+          92.42949999999999,
+          27.336
+        ],
+        "labels": {
+          "en": "West Kameng"
+        },
+        "population": 98579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7045,
+          27.9695
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "kra daadi",
+        "area": 0.36307499999999954,
+        "bounding_box": [
+          93.447,
+          27.617,
+          93.962,
+          28.322
+        ],
+        "point": [
+          93.7045,
+          27.9695
+        ],
+        "labels": {
+          "en": "Kra Daadi"
+        },
+        "population": 94033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.033,
+          27.71
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "namsai",
+        "area": 0.18570400000000367,
+        "bounding_box": [
+          95.755,
+          27.543,
+          96.311,
+          27.877
+        ],
+        "point": [
+          96.033,
+          27.71
+        ],
+        "labels": {
+          "en": "Namsai"
+        },
+        "population": 120405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.34299999999999,
+          26.880499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "longding",
+        "area": 0.148715999999999,
+        "bounding_box": [
+          95.181,
+          26.651,
+          95.505,
+          27.11
+        ],
+        "point": [
+          95.34299999999999,
+          26.880499999999998
+        ],
+        "labels": {
+          "en": "Longding"
+        },
+        "population": 60270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.79849999999999,
+          28.75
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "upper siang",
+        "area": 1.4627079999999963,
+        "bounding_box": [
+          94.187,
+          28.152,
+          95.41,
+          29.348
+        ],
+        "point": [
+          94.79849999999999,
+          28.75
+        ],
+        "labels": {
+          "en": "Upper Siang"
+        },
+        "population": 34439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.67349999999999,
+          27.8035
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "lower siang",
+        "area": 0.4607190000000032,
+        "bounding_box": [
+          94.21,
+          27.555,
+          95.137,
+          28.052
+        ],
+        "point": [
+          94.67349999999999,
+          27.8035
+        ],
+        "labels": {
+          "en": "Lower Siang"
+        },
+        "population": 18983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.93,
+          28.8675
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "upper dibang valley",
+        "area": 1.621080000000014,
+        "bounding_box": [
+          95.246,
+          28.275,
+          96.614,
+          29.46
+        ],
+        "point": [
+          95.93,
+          28.8675
+        ],
+        "labels": {
+          "en": "Upper Dibang Valley"
+        },
+        "population": 10109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.84549999999999,
+          28.2105
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "lower dibang valley",
+        "area": 0.6884050000000025,
+        "bounding_box": [
+          95.32,
+          27.883,
+          96.371,
+          28.538
+        ],
+        "point": [
+          95.84549999999999,
+          28.2105
+        ],
+        "labels": {
+          "en": "Lower Dibang Valley"
+        },
+        "population": 59933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8365,
+          28.4775
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "siang",
+        "area": 0.8335530000000004,
+        "bounding_box": [
+          94.378,
+          28.023,
+          95.295,
+          28.932
+        ],
+        "point": [
+          94.8365,
+          28.4775
+        ],
+        "labels": {
+          "en": "Siang"
+        },
+        "population": 48744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.26,
+          28.6875
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "shi yomi",
+        "area": 0.4189880000000043,
+        "bounding_box": [
+          93.962,
+          28.336,
+          94.558,
+          29.039
+        ],
+        "point": [
+          94.26,
+          28.6875
+        ],
+        "labels": {
+          "en": "Shi Yomi"
+        },
+        "population": 12401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.997,
+          27.1565
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "pakke kessang",
+        "area": 0.3915479999999997,
+        "bounding_box": [
+          92.595,
+          26.913,
+          93.399,
+          27.4
+        ],
+        "point": [
+          92.997,
+          27.1565
+        ],
+        "labels": {
+          "en": "Pakke Kessang"
+        },
+        "population": 20007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6525,
+          28.195
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "west siang",
+        "area": 0.24787400000000104,
+        "bounding_box": [
+          94.356,
+          27.986,
+          94.949,
+          28.404
+        ],
+        "point": [
+          94.6525,
+          28.195
+        ],
+        "labels": {
+          "en": "West Siang"
+        },
+        "population": 48062
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.721,
+          27.9175
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "lepa rada",
+        "area": 0.13640799999999903,
+        "bounding_box": [
+          94.485,
+          27.773,
+          94.957,
+          28.062
+        ],
+        "point": [
+          94.721,
+          27.9175
+        ],
+        "labels": {
+          "en": "Lepa Rada"
+        },
+        "population": 22360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1185,
+          27.7305
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ar",
+        "region_child": "kamle",
+        "area": 0.23408700000000177,
+        "bounding_box": [
+          93.883,
+          27.482,
+          94.354,
+          27.979
+        ],
+        "point": [
+          94.1185,
+          27.7305
+        ],
+        "labels": {
+          "en": "Kamle"
+        },
+        "population": 24905
+      }
+    }
+  ]
+}

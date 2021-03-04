@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.61250000000001,
+          30.9625
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "uttarkashi",
+        "area": 1.5821609999999917,
+        "bounding_box": [
+          77.811,
+          30.469,
+          79.414,
+          31.456
+        ],
+        "point": [
+          78.61250000000001,
+          30.9625
+        ],
+        "labels": {
+          "en": "Uttarkashi"
+        },
+        "population": 411935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.589,
+          30.500999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "chamoli",
+        "area": 1.1799000000000142,
+        "bounding_box": [
+          79.076,
+          29.926,
+          80.102,
+          31.076
+        ],
+        "point": [
+          79.589,
+          30.500999999999998
+        ],
+        "labels": {
+          "en": "Chamoli"
+        },
+        "population": 425085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9405,
+          30.496499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "dehradun",
+        "area": 0.7857150000000139,
+        "bounding_box": [
+          77.573,
+          29.962,
+          78.308,
+          31.031
+        ],
+        "point": [
+          77.9405,
+          30.496499999999997
+        ],
+        "labels": {
+          "en": "Dehradun"
+        },
+        "population": 2111981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4865,
+          30.4655
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "tehri garhwal",
+        "area": 0.9050249999999944,
+        "bounding_box": [
+          77.938,
+          30.053,
+          79.035,
+          30.878
+        ],
+        "point": [
+          78.4865,
+          30.4655
+        ],
+        "labels": {
+          "en": "Tehri Garhwal"
+        },
+        "population": 672690
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.08449999999999,
+          30.4945
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "rudraprayag",
+        "area": 0.33758500000000696,
+        "bounding_box": [
+          78.817,
+          30.179,
+          79.352,
+          30.81
+        ],
+        "point": [
+          79.08449999999999,
+          30.4945
+        ],
+        "labels": {
+          "en": "Rudraprayag"
+        },
+        "population": 250760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.43299999999999,
+          30.125999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "pithoragarh",
+        "area": 1.6695360000000061,
+        "bounding_box": [
+          79.821,
+          29.444,
+          81.045,
+          30.808
+        ],
+        "point": [
+          80.43299999999999,
+          30.125999999999998
+        ],
+        "labels": {
+          "en": "Pithoragarh"
+        },
+        "population": 512135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8155,
+          30.009999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "bageshwar",
+        "area": 0.4245660000000063,
+        "bounding_box": [
+          79.472,
+          29.701,
+          80.159,
+          30.319
+        ],
+        "point": [
+          79.8155,
+          30.009999999999998
+        ],
+        "labels": {
+          "en": "Bageshwar"
+        },
+        "population": 255754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0255,
+          29.9105
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "haridwar",
+        "area": 0.4104809999999976,
+        "bounding_box": [
+          77.715,
+          29.58,
+          78.336,
+          30.241
+        ],
+        "point": [
+          78.0255,
+          29.9105
+        ],
+        "labels": {
+          "en": "Haridwar"
+        },
+        "population": 2438878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.717,
+          29.847
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "pauri garhwal",
+        "area": 0.8507800000000014,
+        "bounding_box": [
+          78.202,
+          29.434,
+          79.232,
+          30.26
+        ],
+        "point": [
+          78.717,
+          29.847
+        ],
+        "labels": {
+          "en": "Pauri Garhwal"
+        },
+        "population": 745071
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5575,
+          29.7025
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "almora",
+        "area": 0.5756729999999991,
+        "bounding_box": [
+          79.037,
+          29.426,
+          80.078,
+          29.979
+        ],
+        "point": [
+          79.5575,
+          29.7025
+        ],
+        "labels": {
+          "en": "Almora"
+        },
+        "population": 621041
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4125,
+          29.295
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "nainital",
+        "area": 0.7132499999999964,
+        "bounding_box": [
+          78.85,
+          28.978,
+          79.975,
+          29.612
+        ],
+        "point": [
+          79.4125,
+          29.295
+        ],
+        "labels": {
+          "en": "Nainital"
+        },
+        "population": 1106004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.056,
+          29.2305
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "champawat",
+        "area": 0.3054919999999997,
+        "bounding_box": [
+          79.794,
+          28.939,
+          80.318,
+          29.522
+        ],
+        "point": [
+          80.056,
+          29.2305
+        ],
+        "labels": {
+          "en": "Champawat"
+        },
+        "population": 294094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.401,
+          29.0435
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-ut",
+        "region_child": "udham singh nagar",
+        "area": 0.866632000000005,
+        "bounding_box": [
+          78.725,
+          28.723,
+          80.077,
+          29.364
+        ],
+        "point": [
+          79.401,
+          29.0435
+        ],
+        "labels": {
+          "en": "Udham Singh Nagar"
+        },
+        "population": 2177751
+      }
+    }
+  ]
+}

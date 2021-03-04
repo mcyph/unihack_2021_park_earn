@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.841,
+          43.9675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nh",
+        "region_child": "009",
+        "area": 0.866475999999995,
+        "bounding_box": [
+          -72.335,
+          43.529,
+          -71.347,
+          44.406
+        ],
+        "point": [
+          -71.841,
+          43.9675
+        ],
+        "labels": {
+          "en": "Grafton"
+        },
+        "population": 97036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1935,
+          43.3645
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nh",
+        "region_child": "019",
+        "area": 0.24350699999999995,
+        "bounding_box": [
+          -72.452,
+          43.129,
+          -71.935,
+          43.6
+        ],
+        "point": [
+          -72.1935,
+          43.3645
+        ],
+        "labels": {
+          "en": "Sullivan"
+        },
+        "population": 47595
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.243,
+          42.947
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nh",
+        "region_child": "005",
+        "area": 0.2951599999999993,
+        "bounding_box": [
+          -72.557,
+          42.712,
+          -71.929,
+          43.182
+        ],
+        "point": [
+          -72.243,
+          42.947
+        ],
+        "labels": {
+          "en": "Cheshire"
+        },
+        "population": 81355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.388,
+          44.695499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nh",
+        "region_child": "007",
+        "area": 0.9215640000000012,
+        "bounding_box": [
+          -71.766,
+          44.086,
+          -71.01,
+          45.305
+        ],
+        "point": [
+          -71.388,
+          44.695499999999996
+        ],
+        "labels": {
+          "en": "Coos"
+        },
+        "population": 33011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.66300000000001,
+          43.31
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nh",
+        "region_child": "013",
+        "area": 0.5141079999999968,
+        "bounding_box": [
+          -72.09,
+          43.009,
+          -71.236,
+          43.611
+        ],
+        "point": [
+          -71.66300000000001,
+          43.31
+        ],
+        "labels": {
+          "en": "Merrimack"
+        },
+        "population": 158381
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.258,
+          43.884
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nh",
+        "region_child": "003",
+        "area": 0.4924280000000032,
+        "bounding_box": [
+          -71.565,
+          43.483,
+          -70.951,
+          44.285
+        ],
+        "point": [
+          -71.258,
+          43.884
+        ],
+        "labels": {
+          "en": "Carroll"
+        },
+        "population": 51827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0125,
+          43.006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nh",
+        "region_child": "015",
+        "area": 0.4707499999999971,
+        "bounding_box": [
+          -71.45,
+          42.737,
+          -70.575,
+          43.275
+        ],
+        "point": [
+          -71.0125,
+          43.006
+        ],
+        "labels": {
+          "en": "Rockingham"
+        },
+        "population": 315456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.65350000000001,
+          42.952
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nh",
+        "region_child": "011",
+        "area": 0.4166699999999948,
+        "bounding_box": [
+          -72.062,
+          42.697,
+          -71.245,
+          43.207
+        ],
+        "point": [
+          -71.65350000000001,
+          42.952
+        ],
+        "labels": {
+          "en": "Hillsborough"
+        },
+        "population": 419412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02850000000001,
+          43.326499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nh",
+        "region_child": "017",
+        "area": 0.21544099999999974,
+        "bounding_box": [
+          -71.247,
+          43.08,
+          -70.81,
+          43.573
+        ],
+        "point": [
+          -71.02850000000001,
+          43.326499999999996
+        ],
+        "labels": {
+          "en": "Strafford"
+        },
+        "population": 134630
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44550000000001,
+          43.522999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-nh",
+        "region_child": "001",
+        "area": 0.2727480000000004,
+        "bounding_box": [
+          -71.732,
+          43.285,
+          -71.159,
+          43.761
+        ],
+        "point": [
+          -71.44550000000001,
+          43.522999999999996
+        ],
+        "labels": {
+          "en": "Belknap"
+        },
+        "population": 64484
+      }
+    }
+  ]
+}

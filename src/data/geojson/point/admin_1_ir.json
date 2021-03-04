@@ -1,0 +1,1807 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.673500000000004,
+          37.8715
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-02",
+        "area": 12.568113000000006,
+        "bounding_box": [
+          44.015,
+          35.977,
+          47.332,
+          39.766
+        ],
+        "point": [
+          45.673500000000004,
+          37.8715
+        ],
+        "labels": {
+          "alt": "Azarbayjan-e Bakhtari|Azarbaijan-e Gharbi|West Azarbayejan|Azerba‹djan e Gharbi",
+          "local": null,
+          "len": 15,
+          "ar": "محافظة أذربيجان الغربية",
+          "bn": "পশ্চিম অজারবাইজন প্রদেশ",
+          "de": "West-Aserbaidschan",
+          "en": "West Azarbaijan Province",
+          "es": "Azerbaiyán Occidental",
+          "fr": "Azerbaïdjan occidental",
+          "el": "Δυτικό Αζερμπαϊτζάν",
+          "hi": "पश्चिम अज़रबैजान प्रांत",
+          "hu": "Nyugat-Azerbajdzsán tartomány",
+          "id": "Provinsi Azarbaijan Barat",
+          "it": "Azerbaigian occidentale",
+          "ja": "西アーザルバーイジャーン州",
+          "ko": "서아제르바이잔 주",
+          "nl": "West-Azerbeidzjan",
+          "pl": "Azerbejdżan Zachodni",
+          "pt": "Azerbaijão Ocidental",
+          "ru": "Западный Азербайджан",
+          "sv": "Västazarbaijan",
+          "tr": "Batı Azerbaycan Eyaleti",
+          "vi": "Tây Azerbaijan",
+          "zh": "西亞塞拜然省"
+        },
+        "population": 3281204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7775,
+          37.961
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-01",
+        "area": 8.226459999999987,
+        "bounding_box": [
+          45.1,
+          36.735,
+          48.455,
+          39.187
+        ],
+        "point": [
+          46.7775,
+          37.961
+        ],
+        "labels": {
+          "alt": "Azarbayjan-e Khavari|Azarbaijan-e Sharghi|Azarbaijan-Sharqi|East Azarbayejan|Azerba‹djan e Sharqi",
+          "local": null,
+          "len": 15,
+          "ar": "محافظة أذربيجان الشرقية",
+          "bn": "পূর্ব আজারবাইজন প্রদেশ",
+          "de": "Ost-Aserbaidschan",
+          "en": "East Azerbaijan Province",
+          "es": "Azerbaiyán Oriental",
+          "fr": "Azerbaïdjan oriental",
+          "el": "Ανατολικό Αζερμπαϊτζάν",
+          "hi": "पूर्व अज़रबैजान प्रांत",
+          "hu": "Kelet-Azerbajdzsán tartomány",
+          "id": "Provinsi Azarbaijan Timur",
+          "it": "Azerbaigian orientale",
+          "ja": "東アーザルバーイジャーン州",
+          "ko": "동아제르바이잔 주",
+          "nl": "Oost-Azerbeidzjan",
+          "pl": "Azerbejdżan Wschodni",
+          "pt": "Azerbaijão Oriental",
+          "ru": "Восточный Азербайджан",
+          "sv": "Östazarbaijan",
+          "tr": "Doğu Azerbaycan Eyaleti",
+          "vi": "Đông Azarbaijan",
+          "zh": "東亞塞拜疆省"
+        },
+        "population": 4081805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.724500000000006,
+          38.431
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-03",
+        "area": 5.912984,
+        "bounding_box": [
+          46.566,
+          37.155,
+          48.883,
+          39.707
+        ],
+        "point": [
+          47.724500000000006,
+          38.431
+        ],
+        "labels": {
+          "alt": "Ardabil",
+          "local": null,
+          "len": 7,
+          "ar": "محافظة أردبيل",
+          "bn": "আর্দাবিল প্রদেশ",
+          "de": "Ardabil",
+          "en": "Ardabil Province",
+          "es": "Provincia de Ardebil",
+          "fr": "Province d'Ardabil",
+          "el": "Αρνταμπίλ",
+          "hi": "अर्दबील प्रांत",
+          "hu": "Ardabil tartomány",
+          "id": "Provinsi Ardabil",
+          "it": "provincia di Ardabil",
+          "ja": "アルダビール州",
+          "ko": "아르다빌 주",
+          "nl": "Ardebil",
+          "pl": "Ardabil",
+          "pt": "Província de Ardabil",
+          "ru": "Ардебиль",
+          "sv": "Ardabil",
+          "tr": "Erdebil Eyaleti",
+          "vi": "Ardabil",
+          "zh": "阿爾達比勒省"
+        },
+        "population": 1309583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.516000000000005,
+          37.5035
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-19",
+        "area": 3.991960000000001,
+        "bounding_box": [
+          48.456,
+          36.562,
+          50.576,
+          38.445
+        ],
+        "point": [
+          49.516000000000005,
+          37.5035
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "غیلان",
+          "bn": "গিলন প্রদেশ",
+          "de": "Gilan",
+          "en": "Gilan Province",
+          "es": "Gilán",
+          "fr": "Gilan",
+          "el": "Γκιλάν",
+          "hi": "गिलान प्रांत",
+          "hu": "Gilán tartomány",
+          "id": "Provinsi Gīlān",
+          "it": "provincia di Gilan",
+          "ja": "ギーラーン州",
+          "ko": "길란 주",
+          "nl": "Gilan",
+          "pl": "Gilan",
+          "pt": "Gilan",
+          "ru": "Гилян",
+          "sv": "Gilan",
+          "tr": "Gilan Eyaleti",
+          "vi": "Gilan",
+          "zh": "吉蘭省"
+        },
+        "population": 2621404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8635,
+          35.6235
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-16",
+        "area": 4.820525000000018,
+        "bounding_box": [
+          45.501,
+          34.739,
+          48.226,
+          36.508
+        ],
+        "point": [
+          46.8635,
+          35.6235
+        ],
+        "labels": {
+          "alt": "Kurdistan",
+          "local": null,
+          "len": 9,
+          "ar": "كردستان",
+          "bn": "কোর্দেস্তন প্রদেশ",
+          "de": "Kordestān",
+          "en": "Kurdistan Province",
+          "es": "Kurdistán",
+          "fr": "Province iranienne du Kurdistan",
+          "el": "Κουρδιστάν",
+          "hi": "कुर्दिस्तान प्रांत",
+          "hu": "Kurdisztán tartomány",
+          "id": "Provinsi Kurdistan",
+          "it": "Kurdistan",
+          "ja": "コルデスターン州",
+          "ko": "코르데스탄 주",
+          "nl": "Kordestan",
+          "pl": "Kurdystan",
+          "pt": "Curdistão",
+          "ru": "Курдистан",
+          "sv": "Kurdistan",
+          "tr": "Kürdistan Eyaleti",
+          "vi": "Kurdistan",
+          "zh": "庫爾德斯坦省"
+        },
+        "population": 1552376
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.708,
+          34.459
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-17",
+        "area": 4.2654639999999855,
+        "bounding_box": [
+          45.417,
+          33.633,
+          47.999,
+          35.285
+        ],
+        "point": [
+          46.708,
+          34.459
+        ],
+        "labels": {
+          "alt": "Bakhtaran|Kermanshahan",
+          "local": null,
+          "len": 10,
+          "ar": "كرمانشاه",
+          "bn": "কের্মনশহ প্রদেশ",
+          "de": "Kermānschāh",
+          "en": "Kermanshah Province",
+          "es": "Kermanshah",
+          "fr": "Province de Kermanshah",
+          "el": "Κερμανσάχ",
+          "hi": "करमानशाह प्रांत",
+          "hu": null,
+          "id": "Provinsi Kermanshah",
+          "it": "provincia di Kermanshah",
+          "ja": "ケルマーンシャー州",
+          "ko": "케르만샤 주",
+          "nl": "Kermanshah",
+          "pl": "Kermanszah",
+          "pt": "Kermanshah",
+          "ru": "Керманшах",
+          "sv": "Kermanshah",
+          "tr": "Kirmanşah Eyaleti",
+          "vi": "Kermanshah",
+          "zh": "克爾曼沙汗省"
+        },
+        "population": 2022859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.812,
+          33.073499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-05",
+        "area": 4.219733999999989,
+        "bounding_box": [
+          45.725,
+          32.103,
+          47.899,
+          34.044
+        ],
+        "point": [
+          46.812,
+          33.073499999999996
+        ],
+        "labels": {
+          "alt": "Ilam and Poshtkuh",
+          "local": null,
+          "len": 4,
+          "ar": "عيلام",
+          "bn": "ইলম প্রদেশ",
+          "de": "Ilam",
+          "en": "Ilam Province",
+          "es": "Ilam",
+          "fr": "Province d'Ilam",
+          "el": null,
+          "hi": "ईलम प्रांत",
+          "hu": "Ilám tartomány",
+          "id": "Provinsi Īlām",
+          "it": "provincia di Ilam",
+          "ja": "イーラーム州",
+          "ko": "일람 주",
+          "nl": "Ilam",
+          "pl": "Ilam",
+          "pt": "Ilam",
+          "ru": "Илам",
+          "sv": "Ilam",
+          "tr": "İlam Eyaleti",
+          "vi": "Ilam",
+          "zh": "伊拉姆省"
+        },
+        "population": 572131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.004999999999995,
+          31.501
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-10",
+        "area": 8.800800000000008,
+        "bounding_box": [
+          47.58,
+          29.957,
+          50.43,
+          33.045
+        ],
+        "point": [
+          49.004999999999995,
+          31.501
+        ],
+        "labels": {
+          "alt": "Khuzistan|Kouzistan",
+          "local": null,
+          "len": 9,
+          "ar": "محافظة خوزستان",
+          "bn": "খুজেস্তন প্রদেশ",
+          "de": "Chuzestan",
+          "en": "Khuzestan Province",
+          "es": "Juzestán",
+          "fr": "Khouzistan",
+          "el": "Χουζεστάν",
+          "hi": "ख़ूज़स्तान",
+          "hu": "Huzesztán tartomány",
+          "id": "Provinsi Khūzestān",
+          "it": "Khūzestān",
+          "ja": "フーゼスターン州",
+          "ko": "후제스탄 주",
+          "nl": "Khuzestan",
+          "pl": "Chuzestan",
+          "pt": "Khuzistão",
+          "ru": "Хузестан",
+          "sv": "Khuzestan",
+          "tr": "Huzistan Eyaleti",
+          "vi": "Khuzestan",
+          "zh": "胡齊斯坦省"
+        },
+        "population": 4692752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0475,
+          37.446
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-31",
+        "area": 3.8909280000000144,
+        "bounding_box": [
+          55.867,
+          36.622,
+          58.228,
+          38.27
+        ],
+        "point": [
+          57.0475,
+          37.446
+        ],
+        "labels": {
+          "alt": "Khorasan-e Shemali",
+          "local": null,
+          "len": 14,
+          "ar": "خراسان الشمالية",
+          "bn": "উত্তর খোরসন প্রদেশ",
+          "de": "Nord-Chorasan",
+          "en": "North Khorasan Province",
+          "es": "Jorasán del Norte",
+          "fr": "Khorassan du Nord",
+          "el": "Βόρειο Χορασάν",
+          "hi": "उत्तर ख़ोरासान प्रांत",
+          "hu": "Észak-Horászán tartomány",
+          "id": "Provinsi Khorasan Utara",
+          "it": "Khorasan settentrionale",
+          "ja": "北ホラーサーン州",
+          "ko": "호라산에쇼말리 주",
+          "nl": "Noord-Khorasan",
+          "pl": "Chorasan Północny",
+          "pt": "Coração do Norte",
+          "ru": "Северный Хорасан",
+          "sv": "Nordkhorasan",
+          "tr": "Kuzey Horasan Eyaleti",
+          "vi": "Tỉnh Bắc Khorasan",
+          "zh": "北呼羅珊省"
+        },
+        "population": 894364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.004,
+          37.298
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-27",
+        "area": 4.265916000000006,
+        "bounding_box": [
+          53.705,
+          36.477,
+          56.303,
+          38.119
+        ],
+        "point": [
+          55.004,
+          37.298
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "غلستان",
+          "bn": "গোলেস্তন প্রদেশ",
+          "de": "Golestan",
+          "en": "Golestan Province",
+          "es": "Golestán",
+          "fr": "Golestan",
+          "el": "Γκολεστάν",
+          "hi": "गोलेस्तान",
+          "hu": "Golesztán tartomány",
+          "id": "Provinsi Golestān",
+          "it": "Golestan",
+          "ja": "ゴレスターン州",
+          "ko": "골레스탄 주",
+          "nl": "Golestan",
+          "pl": "Golestan",
+          "pt": "Golestan",
+          "ru": "Голестан",
+          "sv": "Golestan",
+          "tr": "Gülistan Eyaleti",
+          "vi": "Golestan",
+          "zh": "戈勒斯坦省"
+        },
+        "population": 1960679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.75,
+          35.3235
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-30",
+        "area": 26.156919999999996,
+        "bounding_box": [
+          56.21,
+          32.749,
+          61.29,
+          37.898
+        ],
+        "point": [
+          58.75,
+          35.3235
+        ],
+        "labels": {
+          "alt": "Khorasan-e Razavi",
+          "local": null,
+          "len": 15,
+          "ar": "خراسان رضوي",
+          "bn": "রাজাভি খোরসন প্রদেশ",
+          "de": "Razavi-Chorasan",
+          "en": "Razavi Khorasan Province",
+          "es": "Jorasán Razaví",
+          "fr": "Khorassan Ravazi",
+          "el": "Ραζάβι Χορασάν",
+          "hi": "रज़ावी ख़ोरासान",
+          "hu": "Razavi Horászán tartomány",
+          "id": "Provinsi Razavi Khorasan",
+          "it": "Razavi Khorasan",
+          "ja": "ラザヴィー・ホラーサーン州",
+          "ko": "호라산에라자비 주",
+          "nl": "Razavi-Khorasan",
+          "pl": "Chorasan-e Rezawi",
+          "pt": "Coração Razavi",
+          "ru": "Хорасан-Резави",
+          "sv": "Razavikhorasan",
+          "tr": "Razavi Horasan Eyaleti",
+          "vi": "Razavi Khorasan",
+          "zh": "礼萨呼罗珊省"
+        },
+        "population": 6379536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.489000000000004,
+          32.335
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-29",
+        "area": 12.854887999999997,
+        "bounding_box": [
+          57.835,
+          30.392,
+          61.143,
+          34.278
+        ],
+        "point": [
+          59.489000000000004,
+          32.335
+        ],
+        "labels": {
+          "alt": "Khorasan-e Janubi",
+          "local": null,
+          "len": 14,
+          "ar": "خراسان جنوبي",
+          "bn": "দক্ষিণ খোরসন প্রদেশ",
+          "de": "Süd-Chorasan",
+          "en": "South Khorasan Province",
+          "es": "Jorasán del Sur",
+          "fr": "Khorassan du Sud",
+          "el": "Νότιο Χορασάν",
+          "hi": "दक्षिण ख़ोरासान प्रांत",
+          "hu": "Dél-Horászán tartomány",
+          "id": "Provinsi Khorasan Selatan",
+          "it": "Khorasan meridionale",
+          "ja": "南ホラーサーン州",
+          "ko": "호라산에조누비 주",
+          "nl": "Zuid-Khorasan",
+          "pl": "Chorasan Południowy",
+          "pt": "Coração do Sul",
+          "ru": "Южный Хорасан",
+          "sv": "Sydkhorasan",
+          "tr": "Güney Horasan Eyaleti",
+          "vi": "Tỉnh Nam Khorasan",
+          "zh": "南呼羅珊省"
+        },
+        "population": 650987
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.0475,
+          28.254
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-13",
+        "area": 29.042550000000013,
+        "bounding_box": [
+          58.775,
+          25.059,
+          63.32,
+          31.449
+        ],
+        "point": [
+          61.0475,
+          28.254
+        ],
+        "labels": {
+          "alt": "Baluchestan va Sistan|Seistan and Baluchistan|Sistan e Baloutchistan",
+          "local": null,
+          "len": 22,
+          "ar": "سيستان وبلوشستان",
+          "bn": "সিস্তন ও বালুচেস্তন প্রদেশ",
+          "de": "Sistan und Belutschistan",
+          "en": "Sistan and Baluchestan",
+          "es": "Sistán y Baluchistán",
+          "fr": "Sistan-et-Baloutchistan",
+          "el": "Σιστάν και Μπαλουτσεστάν",
+          "hi": "सिस्तान और बलूचिस्तान",
+          "hu": "Szisztán és Beludzsisztán tartomány",
+          "id": "Provinsi Sistan dan Baluchestan",
+          "it": "Sistan e Baluchistan",
+          "ja": "スィースターン・バルーチェスターン州",
+          "ko": "시스탄오발루체스탄 주",
+          "nl": "Sistan en Beloetsjistan",
+          "pl": "Sistan i Beludżystan",
+          "pt": "Sistan e Baluchistão",
+          "ru": "Систан и Белуджистан",
+          "sv": "Sistan och Baluchistan",
+          "tr": "Sistan ve Belucistan Eyaleti",
+          "vi": "Tỉnh Sistan và Baluchestan",
+          "zh": "錫斯坦－俾路支斯坦省"
+        },
+        "population": 2429303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.510999999999996,
+          28.786
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-06",
+        "area": 8.549759999999987,
+        "bounding_box": [
+          50.051,
+          27.322,
+          52.971,
+          30.25
+        ],
+        "point": [
+          51.510999999999996,
+          28.786
+        ],
+        "labels": {
+          "alt": "Banader va Jazayer-e Khalij-e Fars|Bushire|Persian Gulf|Ports and Islands of the Persian Gulf",
+          "local": null,
+          "len": 7,
+          "ar": "بوشهر",
+          "bn": "বুশেহর প্রদেশ",
+          "de": "Buschehr",
+          "en": "Bushehr Province",
+          "es": "Bushehr",
+          "fr": "Province de Bouchehr",
+          "el": null,
+          "hi": "बुशहर प्रांत",
+          "hu": "Busehr tartomány",
+          "id": "Provinsi Bushehr",
+          "it": "provincia di Bushehr",
+          "ja": "ブーシェフル州",
+          "ko": "부셰르 주",
+          "nl": "Bushehr",
+          "pl": "Buszehr",
+          "pt": "Bushehr",
+          "ru": "Бушир",
+          "sv": "Bushehr",
+          "tr": "Buşehr Eyaleti",
+          "vi": "Bushehr",
+          "zh": "布什爾省"
+        },
+        "population": 1377572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.976,
+          27.1725
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-23",
+        "area": 23.45485800000002,
+        "bounding_box": [
+          52.679,
+          25.394,
+          59.273,
+          28.951
+        ],
+        "point": [
+          55.976,
+          27.1725
+        ],
+        "labels": {
+          "alt": "Banader va Jazayer-e Bahr-e Oman|Ports and Islands of the Sea of Oman|Saheli",
+          "local": null,
+          "len": 9,
+          "ar": "هرمزغان",
+          "bn": "হোর্মোজগন প্রদেশ",
+          "de": "Hormozgan",
+          "en": "Hormozgan Province",
+          "es": "Hormozgan",
+          "fr": "Hormozgan",
+          "el": null,
+          "hi": "होर्मोज़्गान प्रांत",
+          "hu": "Hormozgán tartomány",
+          "id": "Provinsi Hormozgān",
+          "it": "Hormozgan",
+          "ja": "ホルモズガーン州",
+          "ko": "호르모즈간 주",
+          "nl": "Hormozgan",
+          "pl": "Hormozgan",
+          "pt": "Hormozgan",
+          "ru": "Хормозган",
+          "sv": "Hormozgan",
+          "tr": "Hürmüzgan Eyaleti",
+          "vi": "Hormozgan",
+          "zh": "霍爾木茲甘省"
+        },
+        "population": 1713404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.784,
+          26.7735
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-23",
+        "area": 0.4617539999999997,
+        "bounding_box": [
+          55.281,
+          26.544,
+          56.287,
+          27.003
+        ],
+        "point": [
+          55.784,
+          26.7735
+        ],
+        "labels": {
+          "alt": "Banader va Jazayer-e Bahr-e Oman|Ports and Islands of the Sea of Oman|Saheli",
+          "local": null,
+          "len": 9,
+          "ar": "هرمزغان",
+          "bn": "হোর্মোজগন প্রদেশ",
+          "de": "Hormozgan",
+          "en": "Hormozgan Province",
+          "es": "Hormozgan",
+          "fr": "Hormozgan",
+          "el": null,
+          "hi": "होर्मोज़्गान प्रांत",
+          "hu": "Hormozgán tartomány",
+          "id": "Provinsi Hormozgān",
+          "it": "Hormozgan",
+          "ja": "ホルモズガーン州",
+          "ko": "호르모즈간 주",
+          "nl": "Hormozgan",
+          "pl": "Hormozgan",
+          "pt": "Hormozgan",
+          "ru": "Хормозган",
+          "sv": "Hormozgan",
+          "tr": "Hürmüzgan Eyaleti",
+          "vi": "Hormozgan",
+          "zh": "霍爾木茲甘省"
+        },
+        "population": 1713404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.97,
+          26.5265
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-23",
+        "area": 0.01031800000000026,
+        "bounding_box": [
+          53.903,
+          26.488,
+          54.037,
+          26.565
+        ],
+        "point": [
+          53.97,
+          26.5265
+        ],
+        "labels": {
+          "alt": "Banader va Jazayer-e Bahr-e Oman|Ports and Islands of the Sea of Oman|Saheli",
+          "local": null,
+          "len": 9,
+          "ar": "هرمزغان",
+          "bn": "হোর্মোজগন প্রদেশ",
+          "de": "Hormozgan",
+          "en": "Hormozgan Province",
+          "es": "Hormozgan",
+          "fr": "Hormozgan",
+          "el": null,
+          "hi": "होर्मोज़्गान प्रांत",
+          "hu": "Hormozgán tartomány",
+          "id": "Provinsi Hormozgān",
+          "it": "Hormozgan",
+          "ja": "ホルモズガーン州",
+          "ko": "호르모즈간 주",
+          "nl": "Hormozgan",
+          "pl": "Hormozgan",
+          "pt": "Hormozgan",
+          "ru": "Хормозган",
+          "sv": "Hormozgan",
+          "tr": "Hürmüzgan Eyaleti",
+          "vi": "Hormozgan",
+          "zh": "霍爾木茲甘省"
+        },
+        "population": 1713404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.465,
+          27.079
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-23",
+        "area": 0.003239999999999862,
+        "bounding_box": [
+          56.435,
+          27.052,
+          56.495,
+          27.106
+        ],
+        "point": [
+          56.465,
+          27.079
+        ],
+        "labels": {
+          "alt": "Banader va Jazayer-e Bahr-e Oman|Ports and Islands of the Sea of Oman|Saheli",
+          "local": null,
+          "len": 9,
+          "ar": "هرمزغان",
+          "bn": "হোর্মোজগন প্রদেশ",
+          "de": "Hormozgan",
+          "en": "Hormozgan Province",
+          "es": "Hormozgan",
+          "fr": "Hormozgan",
+          "el": null,
+          "hi": "होर्मोज़्गान प्रांत",
+          "hu": "Hormozgán tartomány",
+          "id": "Provinsi Hormozgān",
+          "it": "Hormozgan",
+          "ja": "ホルモズガーン州",
+          "ko": "호르모즈간 주",
+          "nl": "Hormozgan",
+          "pl": "Hormozgan",
+          "pt": "Hormozgan",
+          "ru": "Хормозган",
+          "sv": "Hormozgan",
+          "tr": "Hürmüzgan Eyaleti",
+          "vi": "Hormozgan",
+          "zh": "霍爾木茲甘省"
+        },
+        "population": 1713404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.2125,
+          36.378
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-21",
+        "area": 4.661929999999975,
+        "bounding_box": [
+          50.305,
+          35.767,
+          54.12,
+          36.989
+        ],
+        "point": [
+          52.2125,
+          36.378
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "مازندران",
+          "bn": "মজান্দারন প্রদেশ",
+          "de": "Māzandarān",
+          "en": "Mazandaran Province",
+          "es": "Mazandarán",
+          "fr": "Mazandéran",
+          "el": "Μαζανταράν",
+          "hi": "माज़ंदरान प्रांत",
+          "hu": "Mázandarán tartomány",
+          "id": "Provinsi Māzandarān",
+          "it": "Mazandaran",
+          "ja": "マーザンダラーン州",
+          "ko": "마잔다란 주",
+          "nl": "Mazandaran",
+          "pl": "Mazandaran",
+          "pt": "Mazandaran",
+          "ru": "Мазендеран",
+          "sv": "Mazandaran",
+          "tr": "Mazenderan Eyaleti",
+          "vi": "Mazandaran",
+          "zh": "馬贊德蘭省"
+        },
+        "population": 3140430
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.438,
+          35.8395
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-12",
+        "area": 16.047641999999986,
+        "bounding_box": [
+          51.789,
+          34.325,
+          57.087,
+          37.354
+        ],
+        "point": [
+          54.438,
+          35.8395
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "سمنان",
+          "bn": "সেম্‌নন প্রদেশ",
+          "de": "Semnan",
+          "en": "Semnan Province",
+          "es": "Semnán",
+          "fr": "province de Semnan",
+          "el": "Επαρχία Σεμνάν",
+          "hi": "सेमनान प्रांत",
+          "hu": "Szemnán tartomány",
+          "id": "Provinsi Semnān",
+          "it": "provincia di Semnan",
+          "ja": "セムナーン州",
+          "ko": "셈난 주",
+          "nl": "Semnan",
+          "pl": "Semnan",
+          "pt": "Semnan",
+          "ru": "Семнан",
+          "sv": "Semnan",
+          "tr": "Simnan Eyaleti",
+          "vi": null,
+          "zh": "塞姆南省"
+        },
+        "population": 675200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.29600000000001,
+          36.3935
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-11",
+        "area": 3.7118000000000113,
+        "bounding_box": [
+          47.188,
+          35.556,
+          49.404,
+          37.231
+        ],
+        "point": [
+          48.29600000000001,
+          36.3935
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "زنجان",
+          "bn": "জান্‌জন প্রদেশ",
+          "de": "Zandschan",
+          "en": "Zanjan Province",
+          "es": "Provincia de Zanjan",
+          "fr": "Province de Zanjan",
+          "el": "Ζαντζάν",
+          "hi": "ज़ंजन प्रांत",
+          "hu": "Zandzsán tartomány",
+          "id": "Provinsi Zanjan",
+          "it": "provincia di Zanjan",
+          "ja": "ザンジャーン州",
+          "ko": "잔잔 주",
+          "nl": "Zanjan",
+          "pl": "Zandżan",
+          "pt": "Zanjan",
+          "ru": "Зенджан",
+          "sv": "Zanjan",
+          "tr": "Zencan Eyaleti",
+          "vi": "Zanjan",
+          "zh": "贊詹省"
+        },
+        "population": 1114875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.701,
+          36.1255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-28",
+        "area": 3.025000000000004,
+        "bounding_box": [
+          48.601,
+          35.438,
+          50.801,
+          36.813
+        ],
+        "point": [
+          49.701,
+          36.1255
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "قزوين",
+          "bn": "কাজভিন প্রদেশ",
+          "de": "Qazvin",
+          "en": "Qazvin Province",
+          "es": "Qazvin",
+          "fr": "Province de Qazvin",
+          "el": "Καζβίν",
+          "hi": "क़ज़्वीन प्रांत",
+          "hu": "Kazvin tartomány",
+          "id": "Provinsi Qazvīn",
+          "it": "provincia di Qazvin",
+          "ja": "ガズヴィーン州",
+          "ko": "카즈빈 주",
+          "nl": "Qazvin",
+          "pl": "Kazwin",
+          "pt": "Qazvin",
+          "ru": "Казвин",
+          "sv": "Qazvin",
+          "tr": "Kazvin Eyaleti",
+          "vi": "Qazvin",
+          "zh": "加茲溫省"
+        },
+        "population": 1349942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9715,
+          34.587500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-22",
+        "area": 4.62177100000001,
+        "bounding_box": [
+          48.91,
+          33.499,
+          51.033,
+          35.676
+        ],
+        "point": [
+          49.9715,
+          34.587500000000006
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مركزي",
+          "bn": "মার্কাজি প্রদেশ",
+          "de": "Markazi",
+          "en": "Markazi Province",
+          "es": "Markazi",
+          "fr": "Markazi",
+          "el": "Μαρκαζί",
+          "hi": "मर्कज़ी प्रांत",
+          "hu": "Markazi tartomány",
+          "id": "Provinsi Markazi",
+          "it": "provincia di Markazi",
+          "ja": "マルキャズィー州",
+          "ko": "마르카지 주",
+          "nl": "Markazi",
+          "pl": "Markazi",
+          "pt": "Markazi",
+          "ru": "Центральный остан",
+          "sv": "Markazi",
+          "tr": "Merkezi Eyaleti",
+          "vi": "Markazi",
+          "zh": "中央省"
+        },
+        "population": 1437111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4195,
+          32.657
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-04",
+        "area": 22.367410000000017,
+        "bounding_box": [
+          49.453,
+          30.772,
+          55.386,
+          34.542
+        ],
+        "point": [
+          52.4195,
+          32.657
+        ],
+        "labels": {
+          "alt": "Isfahan|Ispahan",
+          "local": null,
+          "len": 7,
+          "ar": "أصفهان",
+          "bn": "এসফাহন প্রদেশ",
+          "de": "Isfahan",
+          "en": "Isfahan Province",
+          "es": "Isfahán",
+          "fr": "Province d'Ispahan",
+          "el": "Ισφαχάν",
+          "hi": "इस्फ़हान प्रांत",
+          "hu": "Iszfahán tartomány",
+          "id": "Provinsi Isfahan",
+          "it": "provincia di Esfahan",
+          "ja": "エスファハーン州",
+          "ko": "이스파한 주",
+          "nl": "Isfahan",
+          "pl": "Isfahan",
+          "pt": "Ispaão",
+          "ru": "Исфахан",
+          "sv": "Esfahan",
+          "tr": "İsfahan Eyaleti",
+          "vi": "Isfahan",
+          "zh": "伊斯法罕省"
+        },
+        "population": 5572304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.53,
+          31.8745
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-08",
+        "area": 2.4788680000000016,
+        "bounding_box": [
+          49.736,
+          31.094,
+          51.324,
+          32.655
+        ],
+        "point": [
+          50.53,
+          31.8745
+        ],
+        "labels": {
+          "alt": "Bakhtiari|Chaharmahal va Bakhtiyari|Charmahal-Bakhtiyari",
+          "local": null,
+          "len": 27,
+          "ar": "تشهارمحال وبختياري",
+          "bn": "চাহর-মাহাল ও বাখতেয়রি প্রদেশ",
+          "de": "Tschahār Mahāl und Bachtiyāri",
+          "en": "Chaharmahal and Bakhtiari Province",
+          "es": "Chahar y Bajtiari",
+          "fr": "Chahar Mahaal et Bakhtiari",
+          "el": "Τσαχαρμαχάλ και Μπαχτιαρί",
+          "hi": "चहार्महाल और बाख़्तियारी प्रांत",
+          "hu": "Csahármahál és Bahtijári tartomány",
+          "id": "Provinsi Chaharmahal dan Bakhtiari",
+          "it": "provincia di Chahar Mahal e Bakhtiari",
+          "ja": "チャハール＝マハール・バフティヤーリー州",
+          "ko": "차하르마할에바흐티아리 주",
+          "nl": "Chahar Mahaal en Bakhtiari",
+          "pl": "Czahar Mahal wa Bachtijari",
+          "pt": "Chahar Mahaal e Bakhtiari",
+          "ru": "Чехармехаль и Бахтиария",
+          "sv": "Chahar Mahal och Bakhtiari",
+          "tr": "Çaharmahal ve Bahtiyari Eyaleti",
+          "vi": "Chaharmahal và Bakhtiari",
+          "zh": "恰哈馬哈勒－巴赫蒂亞里省"
+        },
+        "population": 841439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.7945,
+          30.816499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-18",
+        "area": 2.354279,
+        "bounding_box": [
+          49.918,
+          30.145,
+          51.671,
+          31.488
+        ],
+        "point": [
+          50.7945,
+          30.816499999999998
+        ],
+        "labels": {
+          "alt": "Bovir Ahmadi and Kohkiluyeh|Boyer-Ahmad and Koh-Giluye|Boyer Ahmad e Kohkiluyeh|Boyer Ahmadi-ye Sardir va Kohkiluyeh|Kohgil",
+          "local": null,
+          "len": 26,
+          "ar": "كهكيلويه وبوير أحمد",
+          "bn": "কোহগিলুইয়ে ও বুইয়ার আহমাদ প্রদেশ",
+          "de": "Kohgiluye und Boyer Ahmad",
+          "en": "Kohgiluyeh and Boyer-Ahmad Province",
+          "es": "Kohkiluyeh y Buyer Ahmad",
+          "fr": "Kohkiluyeh et Buyer Ahmad",
+          "el": "Κογιλουγέ και Μπογέρ Αχμάντ",
+          "hi": "कोगिलुये और बोयर-अख़्मद प्रांत",
+          "hu": "Kohgiluje és Bujer Ahmad tartomány",
+          "id": "Provinsi Kohgiluyeh dan Boyer-Ahmad",
+          "it": "provincia di Kohgiluyeh e Buyer Ahmad",
+          "ja": "コフギールーイェ・ブーイェル＝アフマド州",
+          "ko": "코길루예부예르아마드 주",
+          "nl": "Kohgiluyeh en Boyer Ahmad",
+          "pl": "Kohgiluje wa Bujerahmad",
+          "pt": "Kohkiluyeh e Buyer Ahmad",
+          "ru": "Кохгилуйе и Бойерахмед",
+          "sv": "Kohgiluyeh och Buyer Ahmad",
+          "tr": "Kohgiluye ve Buyer Ahmed Eyaleti",
+          "vi": "Tỉnh Kohgiluyeh và Boyer-Ahmad",
+          "zh": "科吉盧耶－博韋艾哈邁德省"
+        },
+        "population": 591142
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.079,
+          29.426000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-14",
+        "area": 22.66874400000002,
+        "bounding_box": [
+          50.601,
+          27.139,
+          55.557,
+          31.713
+        ],
+        "point": [
+          53.079,
+          29.426000000000002
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "فارس",
+          "bn": "ফর্স প্রদেশ",
+          "de": "Fars",
+          "en": "Fars Province",
+          "es": "Fars",
+          "fr": "Fars",
+          "el": "Φαρς",
+          "hi": "फ़ार्स",
+          "hu": "Fársz tartomány",
+          "id": "Provinsi Fars",
+          "it": "provincia di Fars",
+          "ja": "ファールス州",
+          "ko": "파르스 주",
+          "nl": "Fars",
+          "pl": "Fars",
+          "pt": "Fars",
+          "ru": "Фарс",
+          "sv": "Fars",
+          "tr": "Fars Eyaleti",
+          "vi": "Fars",
+          "zh": "法爾斯省"
+        },
+        "population": 4733167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.956500000000005,
+          29.0295
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-15",
+        "area": 30.901562999999975,
+        "bounding_box": [
+          54.398,
+          26.01,
+          59.515,
+          32.049
+        ],
+        "point": [
+          56.956500000000005,
+          29.0295
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "كرمان",
+          "bn": "কের্মন প্রদেশ",
+          "de": "Kerman",
+          "en": "Kerman Province",
+          "es": "Kermán",
+          "fr": "Kerman",
+          "el": "Κέρμαν",
+          "hi": "करमान प्रांत",
+          "hu": "Kermán tartomány",
+          "id": "Provinsi Kermān",
+          "it": "provincia di Kerman",
+          "ja": "ケルマーン州",
+          "ko": "케르만 주",
+          "nl": "Kerman",
+          "pl": "Kerman",
+          "pt": "Kerman",
+          "ru": "Керман",
+          "sv": "Kerman",
+          "tr": "Kirman Eyaleti",
+          "vi": "Kerman",
+          "zh": "克爾曼省"
+        },
+        "population": 3248485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.574,
+          34.8725
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-24",
+        "area": 3.509262000000001,
+        "bounding_box": [
+          47.581,
+          33.989,
+          49.567,
+          35.756
+        ],
+        "point": [
+          48.574,
+          34.8725
+        ],
+        "labels": {
+          "alt": "Hamedan",
+          "local": null,
+          "len": 7,
+          "ar": "همدان",
+          "bn": "হামাদন প্রদেশ",
+          "de": "Hamadan",
+          "en": "Hamadan Province",
+          "es": "Hamadán",
+          "fr": "Province de Hamedan",
+          "el": "Χαμαντάν",
+          "hi": "हमादान प्रांत",
+          "hu": "Hamadán tartomány",
+          "id": "Provinsi Hamadān",
+          "it": "provincia di Hamadan",
+          "ja": "ハマダーン州",
+          "ko": "하마단 주",
+          "nl": "Hamadan",
+          "pl": "Hamadan",
+          "pt": "Hamadã",
+          "ru": "Хамадан",
+          "sv": "Hamadan",
+          "tr": "Hamedan Eyaleti",
+          "vi": "Hamadan",
+          "zh": "哈馬丹省"
+        },
+        "population": 1893632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.414500000000004,
+          33.479
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-20",
+        "area": 5.575300000000008,
+        "bounding_box": [
+          46.827,
+          32.601,
+          50.002,
+          34.357
+        ],
+        "point": [
+          48.414500000000004,
+          33.479
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "لرستان",
+          "bn": "লোরেস্তন প্রদেশ",
+          "de": "Lorestan",
+          "en": "Lorestan Province",
+          "es": "Lorestán",
+          "fr": "Lorestan",
+          "el": "Λορεστάν",
+          "hi": "लूरिस्तान",
+          "hu": "Loresztán tartomány",
+          "id": "Provinsi Lorestān",
+          "it": "Lorestan",
+          "ja": "ロレスターン州",
+          "ko": "로레스탄 주",
+          "nl": "Lorestan",
+          "pl": "Lorestan",
+          "pt": "Lorestão",
+          "ru": "Лурестан",
+          "sv": "Lorestan",
+          "tr": "Luristan Eyaleti",
+          "vi": "Lorestan",
+          "zh": "洛雷斯坦省"
+        },
+        "population": 1772362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.525499999999994,
+          32.497
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-25",
+        "area": 29.186975999999998,
+        "bounding_box": [
+          52.827,
+          29.793,
+          58.224,
+          35.201
+        ],
+        "point": [
+          55.525499999999994,
+          32.497
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "يزد",
+          "bn": "ইয়াজ্‌দ্‌ প্রদেশ",
+          "de": "Yazd",
+          "en": "Yazd Province",
+          "es": "Yazd",
+          "fr": "Province de Yazd",
+          "el": "Επαρχία Γιαζντ",
+          "hi": "यज़्द प्रांत",
+          "hu": "Jazd tartomány",
+          "id": "Provinsi Yazd",
+          "it": "provincia di Yazd",
+          "ja": "ヤズド州",
+          "ko": "야즈드 주",
+          "nl": "Yazd",
+          "pl": "Jazd",
+          "pt": "Yazd",
+          "ru": "Йезд",
+          "sv": "Yazd",
+          "tr": "Yezd Eyaleti",
+          "vi": "Yazd",
+          "zh": "亞茲德省"
+        },
+        "population": 1195296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.978,
+          34.662000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-26",
+        "area": 2.0416320000000017,
+        "bounding_box": [
+          50.06,
+          34.106,
+          51.896,
+          35.218
+        ],
+        "point": [
+          50.978,
+          34.662000000000006
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "قم",
+          "bn": "কোম প্রদেশ",
+          "de": "Ghom",
+          "en": "Qom Province",
+          "es": "Qom",
+          "fr": "Province de Qom",
+          "el": "Κομ",
+          "hi": "क़ोम प्रांत",
+          "hu": "Kom tartomány",
+          "id": "Provinsi Qom",
+          "it": "provincia di Qom",
+          "ja": "ゴム州",
+          "ko": "쿰 주",
+          "nl": "Qom",
+          "pl": "Kom",
+          "pt": "Qom",
+          "ru": "Кум",
+          "sv": "Qom",
+          "tr": "Kum Eyaleti",
+          "vi": "Qom",
+          "zh": "庫姆省"
+        },
+        "population": 1387562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.932,
+          35.4955
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-07",
+        "area": 2.8468540000000044,
+        "bounding_box": [
+          50.785,
+          34.875,
+          53.079,
+          36.116
+        ],
+        "point": [
+          51.932,
+          35.4955
+        ],
+        "labels": {
+          "alt": "Teheran|T‚h‚ran",
+          "local": null,
+          "len": 6,
+          "ar": "طهران",
+          "bn": "তেহরন প্রদেশ",
+          "de": "Teheran",
+          "en": "Tehran Province",
+          "es": "Teherán",
+          "fr": "province de Téhéran",
+          "el": "Τεχράν",
+          "hi": "तेहरान प्रांत",
+          "hu": "Teherán tartomány",
+          "id": "Provinsi Tehran",
+          "it": "provincia di Teheran",
+          "ja": "テヘラン州",
+          "ko": "테헤란 주",
+          "nl": "Teheran",
+          "pl": "Teheran",
+          "pt": "Teerão",
+          "ru": "Тегеран",
+          "sv": "Teheran",
+          "tr": "Tahran Eyaleti",
+          "vi": "Tehran",
+          "zh": "德黑蘭省"
+        },
+        "population": 15650532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.798,
+          35.945
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ir",
+        "region_child": "ir-07",
+        "area": 0.880983999999998,
+        "bounding_box": [
+          50.239,
+          35.551,
+          51.357,
+          36.339
+        ],
+        "point": [
+          50.798,
+          35.945
+        ],
+        "labels": {
+          "alt": "Teheran|T‚h‚ran",
+          "local": null,
+          "len": 6,
+          "ar": "طهران",
+          "bn": "তেহরন প্রদেশ",
+          "de": "Teheran",
+          "en": "Tehran Province",
+          "es": "Teherán",
+          "fr": "province de Téhéran",
+          "el": "Τεχράν",
+          "hi": "तेहरान प्रांत",
+          "hu": "Teherán tartomány",
+          "id": "Provinsi Tehran",
+          "it": "provincia di Teheran",
+          "ja": "テヘラン州",
+          "ko": "테헤란 주",
+          "nl": "Teheran",
+          "pl": "Teheran",
+          "pt": "Teerão",
+          "ru": "Тегеран",
+          "sv": "Teheran",
+          "tr": "Tahran Eyaleti",
+          "vi": "Tehran",
+          "zh": "德黑蘭省"
+        },
+        "population": 15650532
+      }
+    }
+  ]
+}

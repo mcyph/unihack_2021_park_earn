@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.318,
+          14.738
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn01",
+        "area": 0.11750399999999979,
+        "bounding_box": [
+          -17.51,
+          14.585,
+          -17.126,
+          14.891
+        ],
+        "point": [
+          -17.318,
+          14.738
+        ],
+        "labels": {
+          "en": "Dakar"
+        },
+        "population": 3344876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.060499999999998,
+          14.775500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn02",
+        "area": 0.6157569999999998,
+        "bounding_box": [
+          -16.685,
+          14.529,
+          -15.436,
+          15.022
+        ],
+        "point": [
+          -16.060499999999998,
+          14.775500000000001
+        ],
+        "labels": {
+          "en": "Diourbel"
+        },
+        "population": 1810110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.127000000000002,
+          14.169
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn03",
+        "area": 1.5454600000000032,
+        "bounding_box": [
+          -16.792,
+          13.588,
+          -15.462,
+          14.75
+        ],
+        "point": [
+          -16.127000000000002,
+          14.169
+        ],
+        "labels": {
+          "en": "Fatick"
+        },
+        "population": 895848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.2165,
+          14.231000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn04",
+        "area": 1.248696,
+        "bounding_box": [
+          -15.851,
+          13.739,
+          -14.582,
+          14.723
+        ],
+        "point": [
+          -15.2165,
+          14.231000000000002
+        ],
+        "labels": {
+          "en": "Kaffrine"
+        },
+        "population": 688538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.888000000000002,
+          14.0415
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn05",
+        "area": 0.8746539999999987,
+        "bounding_box": [
+          -16.367,
+          13.585,
+          -15.409,
+          14.498
+        ],
+        "point": [
+          -15.888000000000002,
+          14.0415
+        ],
+        "labels": {
+          "en": "Kaolack"
+        },
+        "population": 1176983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.285499999999999,
+          12.884
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn06",
+        "area": 2.145286,
+        "bounding_box": [
+          -13.215,
+          12.307,
+          -11.356,
+          13.461
+        ],
+        "point": [
+          -12.285499999999999,
+          12.884
+        ],
+        "labels": {
+          "en": "Kedougou"
+        },
+        "population": 186809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.401499999999999,
+          13.128499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn07",
+        "area": 1.7526630000000025,
+        "bounding_box": [
+          -15.353,
+          12.668,
+          -13.45,
+          13.589
+        ],
+        "point": [
+          -14.401499999999999,
+          13.128499999999999
+        ],
+        "labels": {
+          "en": "Kolda"
+        },
+        "population": 811279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.654,
+          15.398
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn08",
+        "area": 3.6531680000000004,
+        "bounding_box": [
+          -16.813,
+          14.61,
+          -14.495,
+          16.186
+        ],
+        "point": [
+          -15.654,
+          15.398
+        ],
+        "labels": {
+          "en": "Louga"
+        },
+        "population": 1091627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.717500000000001,
+          15.2745
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn09",
+        "area": 3.9353569999999976,
+        "bounding_box": [
+          -14.849,
+          14.405,
+          -12.586,
+          16.144
+        ],
+        "point": [
+          -13.717500000000001,
+          15.2745
+        ],
+        "labels": {
+          "en": "Matam"
+        },
+        "population": 680510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.1145,
+          16.0925
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn10",
+        "area": 3.3967669999999974,
+        "bounding_box": [
+          -16.531,
+          15.493,
+          -13.698,
+          16.692
+        ],
+        "point": [
+          -15.1145,
+          16.0925
+        ],
+        "labels": {
+          "en": "Saint Louis"
+        },
+        "population": 1090013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.567,
+          12.9055
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn11",
+        "area": 0.8763299999999993,
+        "bounding_box": [
+          -16.022,
+          12.424,
+          -15.112,
+          13.387
+        ],
+        "point": [
+          -15.567,
+          12.9055
+        ],
+        "labels": {
+          "en": "Sedhiou"
+        },
+        "population": 555607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.357,
+          13.8605
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn12",
+        "area": 7.248013999999997,
+        "bounding_box": [
+          -14.838,
+          12.637,
+          -11.876,
+          15.084
+        ],
+        "point": [
+          -13.357,
+          13.8605
+        ],
+        "labels": {
+          "en": "Tambacounda"
+        },
+        "population": 837042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.677,
+          14.6945
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn13",
+        "area": 1.3290000000000006,
+        "bounding_box": [
+          -17.177,
+          14.03,
+          -16.177,
+          15.359
+        ],
+        "point": [
+          -16.677,
+          14.6945
+        ],
+        "labels": {
+          "en": "Thies"
+        },
+        "population": 2158586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3435,
+          12.745999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "sn",
+        "region_child": "sn14",
+        "area": 0.7582520000000003,
+        "bounding_box": [
+          -16.797,
+          12.328,
+          -15.89,
+          13.164
+        ],
+        "point": [
+          -16.3435,
+          12.745999999999999
+        ],
+        "labels": {
+          "en": "Ziguinchor"
+        },
+        "population": 671851
+      }
+    }
+  ]
+}

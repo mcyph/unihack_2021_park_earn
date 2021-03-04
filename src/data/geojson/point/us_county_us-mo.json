@@ -1,0 +1,3455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.793,
+          38.384
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "083",
+        "area": 0.20642400000000244,
+        "bounding_box": [
+          -94.075,
+          38.201,
+          -93.511,
+          38.567
+        ],
+        "point": [
+          -93.793,
+          38.384
+        ],
+        "labels": {
+          "en": "Henry"
+        },
+        "population": 22653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.346,
+          37.5015
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "011",
+        "area": 0.1659200000000028,
+        "bounding_box": [
+          -94.618,
+          37.349,
+          -94.074,
+          37.654
+        ],
+        "point": [
+          -94.346,
+          37.5015
+        ],
+        "labels": {
+          "en": "Barton"
+        },
+        "population": 12300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.148,
+          40.1265
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "103",
+        "area": 0.14271000000000197,
+        "bounding_box": [
+          -92.349,
+          39.949,
+          -91.947,
+          40.304
+        ],
+        "point": [
+          -92.148,
+          40.1265
+        ],
+        "labels": {
+          "en": "Knox"
+        },
+        "population": 3901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.512,
+          39.789500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "117",
+        "area": 0.1785000000000032,
+        "bounding_box": [
+          -93.762,
+          39.611,
+          -93.262,
+          39.968
+        ],
+        "point": [
+          -93.512,
+          39.789500000000004
+        ],
+        "labels": {
+          "en": "Livingston"
+        },
+        "population": 15836
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.811,
+          38.747
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "101",
+        "area": 0.24295200000000697,
+        "bounding_box": [
+          -94.129,
+          38.556,
+          -93.493,
+          38.938
+        ],
+        "point": [
+          -93.811,
+          38.747
+        ],
+        "labels": {
+          "en": "Johnson"
+        },
+        "population": 57285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3445,
+          37.477999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "123",
+        "area": 0.13645200000000077,
+        "bounding_box": [
+          -90.55,
+          37.312,
+          -90.139,
+          37.644
+        ],
+        "point": [
+          -90.3445,
+          37.477999999999994
+        ],
+        "labels": {
+          "en": "Madison"
+        },
+        "population": 12590
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9145,
+          38.152
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "125",
+        "area": 0.16102799999999742,
+        "bounding_box": [
+          -92.198,
+          38.01,
+          -91.631,
+          38.294
+        ],
+        "point": [
+          -91.9145,
+          38.152
+        ],
+        "labels": {
+          "en": "Maries"
+        },
+        "population": 9693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.834,
+          37.1065
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "109",
+        "area": 0.16808599999999818,
+        "bounding_box": [
+          -94.063,
+          36.923,
+          -93.605,
+          37.29
+        ],
+        "point": [
+          -93.834,
+          37.1065
+        ],
+        "labels": {
+          "en": "Lawrence"
+        },
+        "population": 41824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.02449999999999,
+          37.327
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "179",
+        "area": 0.3207659999999976,
+        "bounding_box": [
+          -91.314,
+          37.05,
+          -90.735,
+          37.604
+        ],
+        "point": [
+          -91.02449999999999,
+          37.327
+        ],
+        "labels": {
+          "en": "Reynolds"
+        },
+        "population": 6612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3385,
+          36.9025
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "145",
+        "area": 0.1727310000000018,
+        "bounding_box": [
+          -94.618,
+          36.748,
+          -94.059,
+          37.057
+        ],
+        "point": [
+          -94.3385,
+          36.9025
+        ],
+        "labels": {
+          "en": "Newton"
+        },
+        "population": 66911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2565,
+          36.9535
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "043",
+        "area": 0.2043229999999992,
+        "bounding_box": [
+          -93.61,
+          36.809,
+          -92.903,
+          37.098
+        ],
+        "point": [
+          -93.2565,
+          36.9535
+        ],
+        "labels": {
+          "en": "Christian"
+        },
+        "population": 110439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3425,
+          36.633
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "119",
+        "area": 0.14766800000000088,
+        "bounding_box": [
+          -94.618,
+          36.499,
+          -94.067,
+          36.767
+        ],
+        "point": [
+          -94.3425,
+          36.633
+        ],
+        "labels": {
+          "en": "McDonald"
+        },
+        "population": 24507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.47550000000001,
+          40.423500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "005",
+        "area": 0.19283099999999836,
+        "bounding_box": [
+          -95.774,
+          40.262,
+          -95.177,
+          40.585
+        ],
+        "point": [
+          -95.47550000000001,
+          40.423500000000004
+        ],
+        "labels": {
+          "en": "Atchison"
+        },
+        "population": 5034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.334,
+          38.946
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "019",
+        "area": 0.27875999999999695,
+        "bounding_box": [
+          -92.564,
+          38.643,
+          -92.104,
+          39.249
+        ],
+        "point": [
+          -92.334,
+          38.946
+        ],
+        "labels": {
+          "en": "Boone"
+        },
+        "population": 194987
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9975,
+          40.355500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "081",
+        "area": 0.2087049999999975,
+        "bounding_box": [
+          -94.232,
+          40.133,
+          -93.763,
+          40.578
+        ],
+        "point": [
+          -93.9975,
+          40.355500000000006
+        ],
+        "labels": {
+          "en": "Harrison"
+        },
+        "population": 9043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3385,
+          38.646
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "037",
+        "area": 0.22069800000000322,
+        "bounding_box": [
+          -94.613,
+          38.445,
+          -94.064,
+          38.847
+        ],
+        "point": [
+          -94.3385,
+          38.646
+        ],
+        "labels": {
+          "en": "Cass"
+        },
+        "population": 122230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.499,
+          36.9325
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "067",
+        "area": 0.2271400000000029,
+        "bounding_box": [
+          -92.909,
+          36.794,
+          -92.089,
+          37.071
+        ],
+        "point": [
+          -92.499,
+          36.9325
+        ],
+        "labels": {
+          "en": "Douglas"
+        },
+        "population": 14214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.878,
+          37.277
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "225",
+        "area": 0.16715999999999906,
+        "bounding_box": [
+          -93.077,
+          37.067,
+          -92.679,
+          37.487
+        ],
+        "point": [
+          -92.878,
+          37.277
+        ],
+        "labels": {
+          "en": "Webster"
+        },
+        "population": 42404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.845,
+          37.5055
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "093",
+        "area": 0.29202,
+        "bounding_box": [
+          -91.155,
+          37.27,
+          -90.535,
+          37.741
+        ],
+        "point": [
+          -90.845,
+          37.5055
+        ],
+        "labels": {
+          "en": "Iron"
+        },
+        "population": 10480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5635,
+          40.113
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "079",
+        "area": 0.12331800000000072,
+        "bounding_box": [
+          -93.765,
+          39.96,
+          -93.362,
+          40.266
+        ],
+        "point": [
+          -93.5635,
+          40.113
+        ],
+        "labels": {
+          "en": "Grundy"
+        },
+        "population": 10093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.091,
+          39.3685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "163",
+        "area": 0.3387419999999969,
+        "bounding_box": [
+          -91.46,
+          39.139,
+          -90.722,
+          39.598
+        ],
+        "point": [
+          -91.091,
+          39.3685
+        ],
+        "labels": {
+          "en": "Pike"
+        },
+        "population": 18711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.55000000000001,
+          37.0565
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "201",
+        "area": 0.1862820000000018,
+        "bounding_box": [
+          -89.787,
+          36.86,
+          -89.313,
+          37.253
+        ],
+        "point": [
+          -89.55000000000001,
+          37.0565
+        ],
+        "labels": {
+          "en": "Scott"
+        },
+        "population": 38436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4585,
+          36.747
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "209",
+        "area": 0.15388200000000019,
+        "bounding_box": [
+          -93.613,
+          36.498,
+          -93.304,
+          36.996
+        ],
+        "point": [
+          -93.4585,
+          36.747
+        ],
+        "labels": {
+          "en": "Stone"
+        },
+        "population": 36344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6875,
+          39.156000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "089",
+        "area": 0.19363999999999368,
+        "bounding_box": [
+          -92.945,
+          38.968,
+          -92.43,
+          39.344
+        ],
+        "point": [
+          -92.6875,
+          39.156000000000006
+        ],
+        "labels": {
+          "en": "Howard"
+        },
+        "population": 10434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.87,
+          37.97
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "221",
+        "area": 0.21711999999999765,
+        "bounding_box": [
+          -91.1,
+          37.734,
+          -90.64,
+          38.206
+        ],
+        "point": [
+          -90.87,
+          37.97
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 27374
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4385,
+          38.2235
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "131",
+        "area": 0.2137249999999998,
+        "bounding_box": [
+          -92.696,
+          38.016,
+          -92.181,
+          38.431
+        ],
+        "point": [
+          -92.4385,
+          38.2235
+        ],
+        "labels": {
+          "en": "Miller"
+        },
+        "population": 25635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.85149999999999,
+          39.343500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "165",
+        "area": 0.19063699999999892,
+        "bounding_box": [
+          -95.103,
+          39.154,
+          -94.6,
+          39.533
+        ],
+        "point": [
+          -94.85149999999999,
+          39.343500000000006
+        ],
+        "labels": {
+          "en": "Platte"
+        },
+        "population": 108131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.857,
+          39.6755
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "021",
+        "area": 0.14899199999999851,
+        "bounding_box": [
+          -95.113,
+          39.53,
+          -94.601,
+          39.821
+        ],
+        "point": [
+          -94.857,
+          39.6755
+        ],
+        "labels": {
+          "en": "Buchanan"
+        },
+        "population": 93989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.25200000000001,
+          38.531
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "051",
+        "area": 0.20217600000000022,
+        "bounding_box": [
+          -92.495,
+          38.323,
+          -92.009,
+          38.739
+        ],
+        "point": [
+          -92.25200000000001,
+          38.531
+        ],
+        "labels": {
+          "en": "Cole"
+        },
+        "population": 80739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.44800000000001,
+          39.5025
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "173",
+        "area": 0.19818000000000086,
+        "bounding_box": [
+          -91.718,
+          39.319,
+          -91.178,
+          39.686
+        ],
+        "point": [
+          -91.44800000000001,
+          39.5025
+        ],
+        "labels": {
+          "en": "Ralls"
+        },
+        "population": 10974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.83099999999999,
+          39.975
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "003",
+        "area": 0.14136000000000198,
+        "bounding_box": [
+          -95.059,
+          39.82,
+          -94.603,
+          40.13
+        ],
+        "point": [
+          -94.83099999999999,
+          39.975
+        ],
+        "labels": {
+          "en": "Andrew"
+        },
+        "population": 16901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4535,
+          38.9125
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "139",
+        "area": 0.18227700000000163,
+        "bounding_box": [
+          -91.647,
+          38.677,
+          -91.26,
+          39.148
+        ],
+        "point": [
+          -91.4535,
+          38.9125
+        ],
+        "labels": {
+          "en": "Montgomery"
+        },
+        "population": 12274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.44200000000001,
+          36.6515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "153",
+        "area": 0.20394000000000168,
+        "bounding_box": [
+          -92.772,
+          36.497,
+          -92.112,
+          36.806
+        ],
+        "point": [
+          -92.44200000000001,
+          36.6515
+        ],
+        "labels": {
+          "en": "Ozark"
+        },
+        "population": 9859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.577,
+          39.803
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "127",
+        "area": 0.15659999999999724,
+        "bounding_box": [
+          -91.847,
+          39.658,
+          -91.307,
+          39.948
+        ],
+        "point": [
+          -91.577,
+          39.803
+        ],
+        "labels": {
+          "en": "Marion"
+        },
+        "population": 29735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9855,
+          39.3305
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "177",
+        "area": 0.17881499999999964,
+        "bounding_box": [
+          -94.213,
+          39.134,
+          -93.758,
+          39.527
+        ],
+        "point": [
+          -93.9855,
+          39.3305
+        ],
+        "labels": {
+          "en": "Ray"
+        },
+        "population": 23080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.408,
+          36.7125
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "023",
+        "area": 0.23337600000000588,
+        "bounding_box": [
+          -90.68,
+          36.498,
+          -90.136,
+          36.927
+        ],
+        "point": [
+          -90.408,
+          36.7125
+        ],
+        "labels": {
+          "en": "Butler"
+        },
+        "population": 44806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.55449999999999,
+          37.6845
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "105",
+        "area": 0.2584530000000029,
+        "bounding_box": [
+          -92.86,
+          37.473,
+          -92.249,
+          37.896
+        ],
+        "point": [
+          -92.55449999999999,
+          37.6845
+        ],
+        "labels": {
+          "en": "Laclede"
+        },
+        "population": 38864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1725,
+          39.1695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "195",
+        "area": 0.3125009999999985,
+        "bounding_box": [
+          -93.496,
+          38.928,
+          -92.849,
+          39.411
+        ],
+        "point": [
+          -93.1725,
+          39.1695
+        ],
+        "labels": {
+          "en": "Saline"
+        },
+        "population": 22744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0505,
+          38.4555
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "071",
+        "area": 0.3204110000000003,
+        "bounding_box": [
+          -91.369,
+          38.204,
+          -90.732,
+          38.707
+        ],
+        "point": [
+          -91.0505,
+          38.4555
+        ],
+        "labels": {
+          "en": "Franklin"
+        },
+        "population": 108366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9875,
+          39.4645
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "041",
+        "area": 0.2895450000000037,
+        "bounding_box": [
+          -93.286,
+          39.222,
+          -92.689,
+          39.707
+        ],
+        "point": [
+          -92.9875,
+          39.4645
+        ],
+        "labels": {
+          "en": "Chariton"
+        },
+        "population": 7166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.445,
+          37.12
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "223",
+        "area": 0.2653200000000012,
+        "bounding_box": [
+          -90.78,
+          36.922,
+          -90.11,
+          37.318
+        ],
+        "point": [
+          -90.445,
+          37.12
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 13805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.842,
+          37.737
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "039",
+        "area": 0.15284800000000406,
+        "bounding_box": [
+          -94.075,
+          37.573,
+          -93.609,
+          37.901
+        ],
+        "point": [
+          -93.842,
+          37.737
+        ],
+        "labels": {
+          "en": "Cedar"
+        },
+        "population": 14231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.042,
+          37.3195
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "017",
+        "area": 0.20235799999999618,
+        "bounding_box": [
+          -90.223,
+          37.04,
+          -89.861,
+          37.599
+        ],
+        "point": [
+          -90.042,
+          37.3195
+        ],
+        "labels": {
+          "en": "Bollinger"
+        },
+        "population": 12830
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.50399999999999,
+          39.428
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "175",
+        "area": 0.14778399999999584,
+        "bounding_box": [
+          -92.707,
+          39.246,
+          -92.301,
+          39.61
+        ],
+        "point": [
+          -92.50399999999999,
+          39.428
+        ],
+        "labels": {
+          "en": "Randolph"
+        },
+        "population": 26160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.33500000000001,
+          37.206
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "097",
+        "area": 0.1788559999999937,
+        "bounding_box": [
+          -94.618,
+          37.048,
+          -94.052,
+          37.364
+        ],
+        "point": [
+          -94.33500000000001,
+          37.206
+        ],
+        "labels": {
+          "en": "Jasper"
+        },
+        "population": 128815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.39699999999999,
+          36.693
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "149",
+        "area": 0.22030400000000075,
+        "bounding_box": [
+          -91.678,
+          36.497,
+          -91.116,
+          36.889
+        ],
+        "point": [
+          -91.39699999999999,
+          36.693
+        ],
+        "labels": {
+          "en": "Oregon"
+        },
+        "population": 11455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0185,
+          37.6595
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "059",
+        "area": 0.16870500000000094,
+        "bounding_box": [
+          -93.191,
+          37.415,
+          -92.846,
+          37.904
+        ],
+        "point": [
+          -93.0185,
+          37.6595
+        ],
+        "labels": {
+          "en": "Dallas"
+        },
+        "population": 17875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.918,
+          38.4975
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "151",
+        "area": 0.23296400000000114,
+        "bounding_box": [
+          -92.196,
+          38.288,
+          -91.64,
+          38.707
+        ],
+        "point": [
+          -91.918,
+          38.4975
+        ],
+        "labels": {
+          "en": "Osage"
+        },
+        "population": 14656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.505,
+          38.433
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "073",
+        "area": 0.15680000000000127,
+        "bounding_box": [
+          -91.645,
+          38.153,
+          -91.365,
+          38.713
+        ],
+        "point": [
+          -91.505,
+          38.433
+        ],
+        "labels": {
+          "en": "Gasconade"
+        },
+        "population": 15115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.53649999999999,
+          38.7515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "183",
+        "area": 0.3702150000000077,
+        "bounding_box": [
+          -90.964,
+          38.535,
+          -90.109,
+          38.968
+        ],
+        "point": [
+          -90.53649999999999,
+          38.7515
+        ],
+        "labels": {
+          "en": "St. Charles"
+        },
+        "population": 457524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.272,
+          40.063
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "087",
+        "area": 0.2275320000000016,
+        "bounding_box": [
+          -95.555,
+          39.862,
+          -94.989,
+          40.264
+        ],
+        "point": [
+          -95.272,
+          40.063
+        ],
+        "labels": {
+          "en": "Holt"
+        },
+        "population": 4499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3145,
+          37.954
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "055",
+        "area": 0.22667399999999943,
+        "bounding_box": [
+          -91.535,
+          37.697,
+          -91.094,
+          38.211
+        ],
+        "point": [
+          -91.3145,
+          37.954
+        ],
+        "labels": {
+          "en": "Crawford"
+        },
+        "population": 27978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7955,
+          39.101
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "107",
+        "area": 0.24460800000000038,
+        "bounding_box": [
+          -94.114,
+          38.909,
+          -93.477,
+          39.293
+        ],
+        "point": [
+          -93.7955,
+          39.101
+        ],
+        "labels": {
+          "en": "Lafayette"
+        },
+        "population": 33978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.195,
+          37.899
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "186",
+        "area": 0.24182400000000182,
+        "bounding_box": [
+          -90.459,
+          37.67,
+          -89.931,
+          38.128
+        ],
+        "point": [
+          -90.195,
+          37.899
+        ],
+        "labels": {
+          "en": "Ste. Genevieve"
+        },
+        "population": 18549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.685,
+          40.4315
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "045",
+        "area": 0.194179999999996,
+        "bounding_box": [
+          -91.951,
+          40.249,
+          -91.419,
+          40.614
+        ],
+        "point": [
+          -91.685,
+          40.4315
+        ],
+        "labels": {
+          "en": "Clark"
+        },
+        "population": 6845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.423,
+          40.478
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "227",
+        "area": 0.0785840000000022,
+        "bounding_box": [
+          -94.632,
+          40.384,
+          -94.214,
+          40.572
+        ],
+        "point": [
+          -94.423,
+          40.478
+        ],
+        "labels": {
+          "en": "Worth"
+        },
+        "population": 2026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.777,
+          37.8765
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "161",
+        "area": 0.27971999999999825,
+        "bounding_box": [
+          -92.029,
+          37.599,
+          -91.525,
+          38.154
+        ],
+        "point": [
+          -91.777,
+          37.8765
+        ],
+        "labels": {
+          "en": "Phelps"
+        },
+        "population": 51106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3195,
+          37.938
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "085",
+        "area": 0.1374300000000017,
+        "bounding_box": [
+          -93.574,
+          37.803,
+          -93.065,
+          38.073
+        ],
+        "point": [
+          -93.3195,
+          37.938
+        ],
+        "labels": {
+          "en": "Hickory"
+        },
+        "population": 10390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8255,
+          36.715500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "009",
+        "area": 0.21779899999999996,
+        "bounding_box": [
+          -94.077,
+          36.499,
+          -93.574,
+          36.932
+        ],
+        "point": [
+          -93.8255,
+          36.715500000000006
+        ],
+        "labels": {
+          "en": "Barry"
+        },
+        "population": 37800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4025,
+          37.623000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "167",
+        "area": 0.18910800000000086,
+        "bounding_box": [
+          -93.632,
+          37.417,
+          -93.173,
+          37.829
+        ],
+        "point": [
+          -93.4025,
+          37.623000000000005
+        ],
+        "labels": {
+          "en": "Polk"
+        },
+        "population": 35982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.983,
+          39.6565
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "025",
+        "area": 0.11925000000000101,
+        "bounding_box": [
+          -94.208,
+          39.524,
+          -93.758,
+          39.789
+        ],
+        "point": [
+          -93.983,
+          39.6565
+        ],
+        "labels": {
+          "en": "Caldwell"
+        },
+        "population": 9914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6945,
+          40.101
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "111",
+        "area": 0.16130399999999748,
+        "bounding_box": [
+          -91.953,
+          39.945,
+          -91.436,
+          40.257
+        ],
+        "point": [
+          -91.6945,
+          40.101
+        ],
+        "labels": {
+          "en": "Lewis"
+        },
+        "population": 9885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.851,
+          36.661
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "181",
+        "area": 0.17995199999999784,
+        "bounding_box": [
+          -91.127,
+          36.498,
+          -90.575,
+          36.824
+        ],
+        "point": [
+          -90.851,
+          36.661
+        ],
+        "labels": {
+          "en": "Ripley"
+        },
+        "population": 14660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.189,
+          38.7705
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "219",
+        "area": 0.20469999999999736,
+        "bounding_box": [
+          -91.419,
+          38.548,
+          -90.959,
+          38.993
+        ],
+        "point": [
+          -91.189,
+          38.7705
+        ],
+        "labels": {
+          "en": "Warren"
+        },
+        "population": 43772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.35650000000001,
+          39.035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "095",
+        "area": 0.20321200000000178,
+        "bounding_box": [
+          -94.608,
+          38.833,
+          -94.105,
+          39.237
+        ],
+        "point": [
+          -94.35650000000001,
+          39.035
+        ],
+        "labels": {
+          "en": "Jackson"
+        },
+        "population": 696028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.973,
+          36.877
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "207",
+        "area": 0.28600000000000136,
+        "bounding_box": [
+          -90.259,
+          36.627,
+          -89.687,
+          37.127
+        ],
+        "point": [
+          -89.973,
+          36.877
+        ],
+        "labels": {
+          "en": "Stoddard"
+        },
+        "population": 30249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2175,
+          37.812
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "169",
+        "area": 0.164274,
+        "bounding_box": [
+          -92.414,
+          37.603,
+          -92.021,
+          38.021
+        ],
+        "point": [
+          -92.2175,
+          37.812
+        ],
+        "labels": {
+          "en": "Pulaski"
+        },
+        "population": 66374
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4105,
+          40.211
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "075",
+        "area": 0.13833600000000176,
+        "bounding_box": [
+          -94.607,
+          40.035,
+          -94.214,
+          40.387
+        ],
+        "point": [
+          -94.4105,
+          40.211
+        ],
+        "labels": {
+          "en": "Gentry"
+        },
+        "population": 6571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6005,
+          40.192
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "001",
+        "area": 0.15840999999999983,
+        "bounding_box": [
+          -92.856,
+          40.037,
+          -92.345,
+          40.347
+        ],
+        "point": [
+          -92.6005,
+          40.192
+        ],
+        "labels": {
+          "en": "Adair"
+        },
+        "population": 26201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.42699999999999,
+          38.6395
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "189",
+        "area": 0.3108540000000047,
+        "bounding_box": [
+          -90.736,
+          38.388,
+          -90.118,
+          38.891
+        ],
+        "point": [
+          -90.42699999999999,
+          38.6395
+        ],
+        "labels": {
+          "en": "St. Louis"
+        },
+        "population": 976253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.47,
+          37.271
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "229",
+        "area": 0.1873679999999938,
+        "bounding_box": [
+          -92.692,
+          37.06,
+          -92.248,
+          37.482
+        ],
+        "point": [
+          -92.47,
+          37.271
+        ],
+        "labels": {
+          "en": "Wright"
+        },
+        "population": 19528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8615,
+          39.2035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "007",
+        "area": 0.2615449999999976,
+        "bounding_box": [
+          -92.314,
+          39.059,
+          -91.409,
+          39.348
+        ],
+        "point": [
+          -91.8615,
+          39.2035
+        ],
+        "labels": {
+          "en": "Audrain"
+        },
+        "population": 24770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.779,
+          38.8725
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "053",
+        "area": 0.21636999999999795,
+        "bounding_box": [
+          -93.06,
+          38.68,
+          -92.498,
+          39.065
+        ],
+        "point": [
+          -92.779,
+          38.8725
+        ],
+        "labels": {
+          "en": "Cooper"
+        },
+        "population": 18500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.40899999999999,
+          39.283
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "047",
+        "area": 0.13701600000000172,
+        "bounding_box": [
+          -94.607,
+          39.11,
+          -94.211,
+          39.456
+        ],
+        "point": [
+          -94.40899999999999,
+          39.283
+        ],
+        "labels": {
+          "en": "Clay"
+        },
+        "population": 268755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.111,
+          40.209500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "211",
+        "area": 0.18073600000000095,
+        "bounding_box": [
+          -93.367,
+          40.033,
+          -92.855,
+          40.386
+        ],
+        "point": [
+          -93.111,
+          40.209500000000006
+        ],
+        "labels": {
+          "en": "Sullivan"
+        },
+        "population": 6414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9,
+          40.352000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "147",
+        "area": 0.27300800000000286,
+        "bounding_box": [
+          -95.202,
+          40.126,
+          -94.598,
+          40.578
+        ],
+        "point": [
+          -94.9,
+          40.352000000000004
+        ],
+        "labels": {
+          "en": "Nodaway"
+        },
+        "population": 24926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.03999999999999,
+          36.6575
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "213",
+        "area": 0.17545000000000052,
+        "bounding_box": [
+          -93.315,
+          36.498,
+          -92.765,
+          36.817
+        ],
+        "point": [
+          -93.03999999999999,
+          36.6575
+        ],
+        "labels": {
+          "en": "Taney"
+        },
+        "population": 67151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.106,
+          39.8685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "115",
+        "area": 0.17456599999999825,
+        "bounding_box": [
+          -93.365,
+          39.7,
+          -92.847,
+          40.037
+        ],
+        "point": [
+          -93.106,
+          39.8685
+        ],
+        "labels": {
+          "en": "Linn"
+        },
+        "population": 11681
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.61099999999999,
+          38.675
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "135",
+        "area": 0.2282280000000015,
+        "bounding_box": [
+          -92.842,
+          38.428,
+          -92.38,
+          38.922
+        ],
+        "point": [
+          -92.61099999999999,
+          38.675
+        ],
+        "labels": {
+          "en": "Moniteau"
+        },
+        "population": 16346
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.93,
+          38.810500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "027",
+        "area": 0.30014399999999813,
+        "bounding_box": [
+          -92.226,
+          38.557,
+          -91.634,
+          39.064
+        ],
+        "point": [
+          -91.93,
+          38.810500000000005
+        ],
+        "labels": {
+          "en": "Callaway"
+        },
+        "population": 48291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51599999999999,
+          38.2525
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "099",
+        "area": 0.26347200000000415,
+        "bounding_box": [
+          -90.78,
+          38.003,
+          -90.252,
+          38.502
+        ],
+        "point": [
+          -90.51599999999999,
+          38.2525
+        ],
+        "labels": {
+          "en": "Jefferson"
+        },
+        "population": 239290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9635,
+          39.049
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "113",
+        "area": 0.2139559999999964,
+        "bounding_box": [
+          -91.264,
+          38.871,
+          -90.663,
+          39.227
+        ],
+        "point": [
+          -90.9635,
+          39.049
+        ],
+        "labels": {
+          "en": "Lincoln"
+        },
+        "population": 70588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.95,
+          37.327
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "215",
+        "area": 0.3369359999999954,
+        "bounding_box": [
+          -92.253,
+          37.049,
+          -91.647,
+          37.605
+        ],
+        "point": [
+          -91.95,
+          37.327
+        ],
+        "labels": {
+          "en": "Texas"
+        },
+        "population": 29745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8515,
+          38.439499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "141",
+        "area": 0.22967100000000054,
+        "bounding_box": [
+          -93.078,
+          38.186,
+          -92.625,
+          38.693
+        ],
+        "point": [
+          -92.8515,
+          38.439499999999995
+        ],
+        "labels": {
+          "en": "Morgan"
+        },
+        "population": 21995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.344,
+          37.257999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "077",
+        "area": 0.19063200000000297,
+        "bounding_box": [
+          -93.626,
+          37.089,
+          -93.062,
+          37.427
+        ],
+        "point": [
+          -93.344,
+          37.257999999999996
+        ],
+        "labels": {
+          "en": "Greene"
+        },
+        "population": 314776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.943,
+          36.954499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "035",
+        "area": 0.16186799999999743,
+        "bounding_box": [
+          -91.225,
+          36.811,
+          -90.661,
+          37.098
+        ],
+        "point": [
+          -90.943,
+          36.954499999999996
+        ],
+        "labels": {
+          "en": "Carter"
+        },
+        "population": 6565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.644,
+          37.3645
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "031",
+        "area": 0.21274200000000074,
+        "bounding_box": [
+          -89.867,
+          37.126,
+          -89.421,
+          37.603
+        ],
+        "point": [
+          -89.644,
+          37.3645
+        ],
+        "labels": {
+          "en": "Cape Girardeau"
+        },
+        "population": 83337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.31049999999999,
+          36.8185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "133",
+        "area": 0.21243300000000054,
+        "bounding_box": [
+          -89.52,
+          36.565,
+          -89.101,
+          37.072
+        ],
+        "point": [
+          -89.31049999999999,
+          36.8185
+        ],
+        "labels": {
+          "en": "Mississippi"
+        },
+        "population": 15335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5325,
+          40.47
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "197",
+        "area": 0.0927100000000015,
+        "bounding_box": [
+          -92.715,
+          40.343,
+          -92.35,
+          40.597
+        ],
+        "point": [
+          -92.5325,
+          40.47
+        ],
+        "labels": {
+          "en": "Schuyler"
+        },
+        "population": 4787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.888,
+          36.777
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "091",
+        "area": 0.25891199999999914,
+        "bounding_box": [
+          -92.12,
+          36.498,
+          -91.656,
+          37.056
+        ],
+        "point": [
+          -91.888,
+          36.777
+        ],
+        "labels": {
+          "en": "Howell"
+        },
+        "population": 43801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.57300000000001,
+          39.8215
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "121",
+        "area": 0.2468100000000031,
+        "bounding_box": [
+          -92.858,
+          39.605,
+          -92.288,
+          40.038
+        ],
+        "point": [
+          -92.57300000000001,
+          39.8215
+        ],
+        "labels": {
+          "en": "Macon"
+        },
+        "population": 15368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.989,
+          39.961
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "061",
+        "area": 0.16191999999999956,
+        "bounding_box": [
+          -94.219,
+          39.785,
+          -93.759,
+          40.137
+        ],
+        "point": [
+          -93.989,
+          39.961
+        ],
+        "labels": {
+          "en": "Daviess"
+        },
+        "population": 9004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0695,
+          39.778999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "205",
+        "area": 0.16065000000000176,
+        "bounding_box": [
+          -92.299,
+          39.604,
+          -91.84,
+          39.954
+        ],
+        "point": [
+          -92.0695,
+          39.778999999999996
+        ],
+        "labels": {
+          "en": "Shelby"
+        },
+        "population": 5972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3375,
+          37.1535
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "203",
+        "area": 0.34549900000000383,
+        "bounding_box": [
+          -91.658,
+          36.884,
+          -91.017,
+          37.423
+        ],
+        "point": [
+          -91.3375,
+          37.1535
+        ],
+        "labels": {
+          "en": "Shannon"
+        },
+        "population": 8572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8115,
+          37.736000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "157",
+        "area": 0.22813999999999973,
+        "bounding_box": [
+          -90.147,
+          37.566,
+          -89.476,
+          37.906
+        ],
+        "point": [
+          -89.8115,
+          37.736000000000004
+        ],
+        "labels": {
+          "en": "Perry"
+        },
+        "population": 19826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.85,
+          37.432
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "057",
+        "area": 0.14040000000000305,
+        "bounding_box": [
+          -94.084,
+          37.282,
+          -93.616,
+          37.582
+        ],
+        "point": [
+          -93.85,
+          37.432
+        ],
+        "labels": {
+          "en": "Dade"
+        },
+        "population": 7884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.14699999999999,
+          40.453500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "199",
+        "area": 0.12444000000000026,
+        "bounding_box": [
+          -92.351,
+          40.301,
+          -91.943,
+          40.606
+        ],
+        "point": [
+          -92.14699999999999,
+          40.453500000000005
+        ],
+        "labels": {
+          "en": "Scotland"
+        },
+        "population": 4729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.023,
+          40.4655
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "171",
+        "area": 0.17388799999999832,
+        "bounding_box": [
+          -93.375,
+          40.342,
+          -92.671,
+          40.589
+        ],
+        "point": [
+          -93.023,
+          40.4655
+        ],
+        "labels": {
+          "en": "Putnam"
+        },
+        "population": 4770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37950000000001,
+          37.858999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "187",
+        "area": 0.23413199999999645,
+        "bounding_box": [
+          -90.648,
+          37.641,
+          -90.111,
+          38.077
+        ],
+        "point": [
+          -90.37950000000001,
+          37.858999999999995
+        ],
+        "labels": {
+          "en": "St. Francois"
+        },
+        "population": 76771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.404,
+          39.6015
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "049",
+        "area": 0.11602799999999994,
+        "bounding_box": [
+          -94.602,
+          39.455,
+          -94.206,
+          39.748
+        ],
+        "point": [
+          -94.404,
+          39.6015
+        ],
+        "labels": {
+          "en": "Clinton"
+        },
+        "population": 22943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4315,
+          39.411
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "033",
+        "area": 0.26854999999999823,
+        "bounding_box": [
+          -93.759,
+          39.206,
+          -93.104,
+          39.616
+        ],
+        "point": [
+          -93.4315,
+          39.411
+        ],
+        "labels": {
+          "en": "Carroll"
+        },
+        "population": 8538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.338,
+          37.85
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "217",
+        "area": 0.23519999999999594,
+        "bounding_box": [
+          -94.618,
+          37.64,
+          -94.058,
+          38.06
+        ],
+        "point": [
+          -94.338,
+          37.85
+        ],
+        "labels": {
+          "en": "Vernon"
+        },
+        "population": 21922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.291,
+          38.2985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "015",
+        "area": 0.2194719999999989,
+        "bounding_box": [
+          -93.523,
+          38.062,
+          -93.059,
+          38.535
+        ],
+        "point": [
+          -93.291,
+          38.2985
+        ],
+        "labels": {
+          "en": "Benton"
+        },
+        "population": 21152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.481,
+          37.602999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "065",
+        "area": 0.24665599999999535,
+        "bounding_box": [
+          -91.809,
+          37.415,
+          -91.153,
+          37.791
+        ],
+        "point": [
+          -91.481,
+          37.602999999999994
+        ],
+        "labels": {
+          "en": "Dent"
+        },
+        "population": 16526
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7815,
+          38.024
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "185",
+        "area": 0.2230479999999987,
+        "bounding_box": [
+          -94.066,
+          37.828,
+          -93.497,
+          38.22
+        ],
+        "point": [
+          -93.7815,
+          38.024
+        ],
+        "labels": {
+          "en": "St. Clair"
+        },
+        "population": 9995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.571,
+          40.422
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "129",
+        "area": 0.12892799999999852,
+        "bounding_box": [
+          -93.775,
+          40.264,
+          -93.367,
+          40.58
+        ],
+        "point": [
+          -93.571,
+          40.422
+        ],
+        "labels": {
+          "en": "Mercer"
+        },
+        "population": 3929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2815,
+          38.7245
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "159",
+        "area": 0.20233100000000243,
+        "bounding_box": [
+          -93.513,
+          38.506,
+          -93.05,
+          38.943
+        ],
+        "point": [
+          -93.2815,
+          38.7245
+        ],
+        "labels": {
+          "en": "Pettis"
+        },
+        "population": 45128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.404,
+          39.8925
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "063",
+        "area": 0.117786,
+        "bounding_box": [
+          -94.605,
+          39.746,
+          -94.203,
+          40.039
+        ],
+        "point": [
+          -94.404,
+          39.8925
+        ],
+        "labels": {
+          "en": "DeKalb"
+        },
+        "population": 11602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.166,
+          36.313500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "069",
+        "area": 0.26924000000000337,
+        "bounding_box": [
+          -90.378,
+          35.996,
+          -89.954,
+          36.631
+        ],
+        "point": [
+          -90.166,
+          36.313500000000005
+        ],
+        "labels": {
+          "en": "Dunklin"
+        },
+        "population": 30398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.011,
+          39.5005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "137",
+        "area": 0.1943499999999971,
+        "bounding_box": [
+          -92.31,
+          39.338,
+          -91.712,
+          39.663
+        ],
+        "point": [
+          -92.011,
+          39.5005
+        ],
+        "labels": {
+          "en": "Monroe"
+        },
+        "population": 8311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7485,
+          36.213
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "155",
+        "area": 0.1827560000000017,
+        "bounding_box": [
+          -89.962,
+          35.999,
+          -89.535,
+          36.427
+        ],
+        "point": [
+          -89.7485,
+          36.213
+        ],
+        "labels": {
+          "en": "Pemiscot"
+        },
+        "population": 16679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.244,
+          38.653
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "510",
+        "area": 0.0372679999999998,
+        "bounding_box": [
+          -90.321,
+          38.532,
+          -90.167,
+          38.774
+        ],
+        "point": [
+          -90.244,
+          38.653
+        ],
+        "labels": {
+          "en": "St. Louis"
+        },
+        "population": 300429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.332,
+          38.2525
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "013",
+        "area": 0.25436400000000353,
+        "bounding_box": [
+          -94.614,
+          38.027,
+          -94.05,
+          38.478
+        ],
+        "point": [
+          -94.332,
+          38.2525
+        ],
+        "labels": {
+          "en": "Bates"
+        },
+        "population": 17245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64949999999999,
+          36.6035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "143",
+        "area": 0.3437849999999941,
+        "bounding_box": [
+          -89.972,
+          36.337,
+          -89.327,
+          36.87
+        ],
+        "point": [
+          -89.64949999999999,
+          36.6035
+        ],
+        "labels": {
+          "en": "New Madrid"
+        },
+        "population": 18119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.744,
+          38.036
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-mo",
+        "region_child": "029",
+        "area": 0.3190719999999951,
+        "bounding_box": [
+          -93.082,
+          37.8,
+          -92.406,
+          38.272
+        ],
+        "point": [
+          -92.744,
+          38.036
+        ],
+        "labels": {
+          "en": "Camden"
+        },
+        "population": 52902
+      }
+    }
+  ]
+}

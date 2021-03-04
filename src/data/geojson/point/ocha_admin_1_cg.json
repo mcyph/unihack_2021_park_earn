@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.498000000000001,
+          -4.137499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg01",
+        "area": 2.2519980000000004,
+        "bounding_box": [
+          12.619,
+          -4.778,
+          14.377,
+          -3.497
+        ],
+        "point": [
+          13.498000000000001,
+          -4.137499999999999
+        ],
+        "labels": {
+          "en": "Bouenza"
+        },
+        "population": 260871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2615,
+          -4.243499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg02",
+        "area": 0.03897899999999998,
+        "bounding_box": [
+          15.17,
+          -4.35,
+          15.353,
+          -4.137
+        ],
+        "point": [
+          15.2615,
+          -4.243499999999999
+        ],
+        "labels": {
+          "en": "Brazzaville"
+        },
+        "population": 866111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2595,
+          -0.5485
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg03",
+        "area": 5.511518999999999,
+        "bounding_box": [
+          14.959,
+          -1.608,
+          17.56,
+          0.511
+        ],
+        "point": [
+          16.2595,
+          -0.5485
+        ],
+        "labels": {
+          "en": "Cuvette"
+        },
+        "population": 276724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5775,
+          -0.32299999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg04",
+        "area": 4.732727999999999,
+        "bounding_box": [
+          13.888,
+          -2.039,
+          15.267,
+          1.393
+        ],
+        "point": [
+          14.5775,
+          -0.32299999999999995
+        ],
+        "labels": {
+          "en": "Cuvette-Ouest"
+        },
+        "population": 186162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9765,
+          -4.2705
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg05",
+        "area": 2.3376449999999984,
+        "bounding_box": [
+          11.205,
+          -5.028,
+          12.748,
+          -3.513
+        ],
+        "point": [
+          11.9765,
+          -4.2705
+        ],
+        "labels": {
+          "en": "Kouilou"
+        },
+        "population": 206362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52,
+          -3.091
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg06",
+        "area": 3.2586760000000017,
+        "bounding_box": [
+          12.681,
+          -4.062,
+          14.359,
+          -2.12
+        ],
+        "point": [
+          13.52,
+          -3.091
+        ],
+        "labels": {
+          "en": "Lekoumou"
+        },
+        "population": 160948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.549500000000002,
+          1.4654999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg07",
+        "area": 9.849474999999986,
+        "bounding_box": [
+          16.449,
+          -0.772,
+          18.65,
+          3.703
+        ],
+        "point": [
+          17.549500000000002,
+          1.4654999999999998
+        ],
+        "labels": {
+          "en": "Likouala"
+        },
+        "population": 1015849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.611,
+          -3.3870000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg08",
+        "area": 6.103768000000002,
+        "bounding_box": [
+          11.613,
+          -4.916,
+          13.609,
+          -1.858
+        ],
+        "point": [
+          12.611,
+          -3.3870000000000005
+        ],
+        "labels": {
+          "en": "Niari"
+        },
+        "population": 160056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.341999999999999,
+          -2.029
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg09",
+        "area": 5.673635999999997,
+        "bounding_box": [
+          14.025,
+          -3.106,
+          16.659,
+          -0.952
+        ],
+        "point": [
+          15.341999999999999,
+          -2.029
+        ],
+        "labels": {
+          "en": "Plateaux"
+        },
+        "population": 114097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8875,
+          -4.8065
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg10",
+        "area": 0.025781000000000172,
+        "bounding_box": [
+          11.824,
+          -4.908,
+          11.951,
+          -4.705
+        ],
+        "point": [
+          11.8875,
+          -4.8065
+        ],
+        "labels": {
+          "en": "Point-Noire"
+        },
+        "population": 275182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0475,
+          -3.8185000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg11",
+        "area": 5.160753000000003,
+        "bounding_box": [
+          13.873,
+          -4.917,
+          16.222,
+          -2.72
+        ],
+        "point": [
+          15.0475,
+          -3.8185000000000002
+        ],
+        "labels": {
+          "en": "Pool"
+        },
+        "population": 387423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0695,
+          1.3690000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cg",
+        "region_child": "cg12",
+        "area": 10.350469999999998,
+        "bounding_box": [
+          13.137,
+          0.03,
+          17.002,
+          2.708
+        ],
+        "point": [
+          15.0695,
+          1.3690000000000002
+        ],
+        "labels": {
+          "en": "Sangha"
+        },
+        "population": 112524
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.559,
+              22.163
+            ],
+            [
+              113.534,
+              22.161
+            ],
+            [
+              113.547,
+              22.105
+            ],
+            [
+              113.567,
+              22.123
+            ],
+            [
+              113.559,
+              22.163
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "mo",
+        "region_child": "mo-m",
+        "area": 0.0019139999999992427,
+        "bounding_box": [
+          113.534,
+          22.105,
+          113.567,
+          22.163
+        ],
+        "point": [
+          113.5505,
+          22.134
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "ماكاو",
+          "bn": "মাকাও",
+          "de": "Macau",
+          "en": "Macau",
+          "es": "Macao",
+          "fr": "Macao",
+          "el": "Μακάου",
+          "hi": "मकाउ",
+          "hu": "Makaó",
+          "id": "Makau",
+          "it": "Macao",
+          "ja": "マカオ",
+          "ko": "마카오",
+          "nl": "Macau",
+          "pl": "Makau",
+          "pt": "Macau",
+          "ru": "Макао",
+          "sv": "Macao",
+          "tr": "Makao",
+          "vi": "Ma Cao",
+          "zh": "澳門"
+        },
+        "population": 95121
+      }
+    }
+  ]
+}

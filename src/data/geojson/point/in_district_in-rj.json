@@ -1,0 +1,1145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.76400000000001,
+          28.2075
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "churu",
+        "area": 2.875190000000013,
+        "bounding_box": [
+          73.857,
+          27.415,
+          75.671,
+          29.0
+        ],
+        "point": [
+          74.76400000000001,
+          28.2075
+        ],
+        "labels": {
+          "en": "Churu"
+        },
+        "population": 2203877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.56,
+          28.0805
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "jhunjhunu",
+        "area": 0.9383899999999928,
+        "bounding_box": [
+          75.025,
+          27.642,
+          76.095,
+          28.519
+        ],
+        "point": [
+          75.56,
+          28.0805
+        ],
+        "labels": {
+          "en": "Jhunjhunu"
+        },
+        "population": 2450298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.911,
+          27.0275
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "jaisalmer",
+        "area": 5.762225999999994,
+        "bounding_box": [
+          69.484,
+          26.018,
+          72.338,
+          28.037
+        ],
+        "point": [
+          70.911,
+          27.0275
+        ],
+        "labels": {
+          "en": "Jaisalmer"
+        },
+        "population": 851715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.38550000000001,
+          27.662
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "sikar",
+        "area": 1.5245380000000075,
+        "bounding_box": [
+          74.681,
+          27.121,
+          76.09,
+          28.203
+        ],
+        "point": [
+          75.38550000000001,
+          27.662
+        ],
+        "labels": {
+          "en": "Sikar"
+        },
+        "population": 3024358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6625,
+          27.6375
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "alwar",
+        "area": 1.2755310000000057,
+        "bounding_box": [
+          76.116,
+          27.054,
+          77.209,
+          28.221
+        ],
+        "point": [
+          76.6625,
+          27.6375
+        ],
+        "labels": {
+          "en": "Alwar"
+        },
+        "population": 4485197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6,
+          27.15
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "jaipur",
+        "area": 1.9482399999999973,
+        "bounding_box": [
+          74.914,
+          26.44,
+          76.286,
+          27.86
+        ],
+        "point": [
+          75.6,
+          27.15
+        ],
+        "labels": {
+          "en": "Jaipur"
+        },
+        "population": 8193729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8395,
+          26.7365
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "jodhpur",
+        "area": 3.6417870000000114,
+        "bounding_box": [
+          71.809,
+          25.853,
+          73.87,
+          27.62
+        ],
+        "point": [
+          72.8395,
+          26.7365
+        ],
+        "labels": {
+          "en": "Jodhpur"
+        },
+        "population": 4622855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.267,
+          27.5205
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "jodhpur",
+        "area": 0.0031200000000001795,
+        "bounding_box": [
+          72.243,
+          27.488,
+          72.291,
+          27.553
+        ],
+        "point": [
+          72.267,
+          27.5205
+        ],
+        "labels": {
+          "en": "Jodhpur"
+        },
+        "population": 4622855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.321,
+          27.2655
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "bharatpur",
+        "area": 0.9891960000000002,
+        "bounding_box": [
+          76.879,
+          26.706,
+          77.763,
+          27.825
+        ],
+        "point": [
+          77.321,
+          27.2655
+        ],
+        "labels": {
+          "en": "Bharatpur"
+        },
+        "population": 2952902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.22399999999999,
+          27.058999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "nagaur",
+        "area": 2.9568440000000034,
+        "bounding_box": [
+          73.085,
+          26.41,
+          75.363,
+          27.708
+        ],
+        "point": [
+          74.22399999999999,
+          27.058999999999997
+        ],
+        "labels": {
+          "en": "Nagaur"
+        },
+        "population": 3830820
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.62100000000001,
+          26.805999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "dausa",
+        "area": 0.8128079999999948,
+        "bounding_box": [
+          76.144,
+          26.38,
+          77.098,
+          27.232
+        ],
+        "point": [
+          76.62100000000001,
+          26.805999999999997
+        ],
+        "labels": {
+          "en": "Dausa"
+        },
+        "population": 2161538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.934,
+          26.516
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "karauli",
+        "area": 0.8924959999999971,
+        "bounding_box": [
+          76.473,
+          26.032,
+          77.395,
+          27.0
+        ],
+        "point": [
+          76.934,
+          26.516
+        ],
+        "labels": {
+          "en": "Karauli"
+        },
+        "population": 1771742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7495,
+          26.6555
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "dholpur",
+        "area": 0.6122410000000071,
+        "bounding_box": [
+          77.228,
+          26.362,
+          78.271,
+          26.949
+        ],
+        "point": [
+          77.7495,
+          26.6555
+        ],
+        "labels": {
+          "en": "Dholpur"
+        },
+        "population": 1498698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.46600000000001,
+          25.5815
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "barmer",
+        "area": 5.153058000000018,
+        "bounding_box": [
+          70.083,
+          24.65,
+          72.849,
+          26.513
+        ],
+        "point": [
+          71.46600000000001,
+          25.5815
+        ],
+        "labels": {
+          "en": "Barmer"
+        },
+        "population": 3351843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4805,
+          26.229
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "sawai madhopur",
+        "area": 0.9769759999999899,
+        "bounding_box": [
+          75.98,
+          25.741,
+          76.981,
+          26.717
+        ],
+        "point": [
+          76.4805,
+          26.229
+        ],
+        "labels": {
+          "en": "Sawai Madhopur"
+        },
+        "population": 1516324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.714,
+          26.122
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "tonk",
+        "area": 1.0661039999999906,
+        "bounding_box": [
+          75.111,
+          25.68,
+          76.317,
+          26.564
+        ],
+        "point": [
+          75.714,
+          26.122
+        ],
+        "labels": {
+          "en": "Tonk"
+        },
+        "population": 1639209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.588,
+          25.6055
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "pali",
+        "area": 2.7716340000000175,
+        "bounding_box": [
+          72.779,
+          24.749,
+          74.397,
+          26.462
+        ],
+        "point": [
+          73.588,
+          25.6055
+        ],
+        "labels": {
+          "en": "Pali"
+        },
+        "population": 2259206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7355,
+          25.489
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "bhilwara",
+        "area": 1.371756000000003,
+        "bounding_box": [
+          74.012,
+          25.015,
+          75.459,
+          25.963
+        ],
+        "point": [
+          74.7355,
+          25.489
+        ],
+        "labels": {
+          "en": "Bhilwara"
+        },
+        "population": 2819700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1395,
+          25.2095
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "jalore",
+        "area": 2.2855029999999843,
+        "bounding_box": [
+          71.188,
+          24.609,
+          73.091,
+          25.81
+        ],
+        "point": [
+          72.1395,
+          25.2095
+        ],
+        "labels": {
+          "en": "Jalore"
+        },
+        "population": 2253868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.809,
+          25.447499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "bundi",
+        "area": 0.9484979999999958,
+        "bounding_box": [
+          75.262,
+          25.014,
+          76.356,
+          25.881
+        ],
+        "point": [
+          75.809,
+          25.447499999999998
+        ],
+        "labels": {
+          "en": "Bundi"
+        },
+        "population": 1322326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0655,
+          25.195
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "kota",
+        "area": 1.3825559999999841,
+        "bounding_box": [
+          75.537,
+          24.541,
+          76.594,
+          25.849
+        ],
+        "point": [
+          76.0655,
+          25.195
+        ],
+        "labels": {
+          "en": "Kota"
+        },
+        "population": 2289432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.709,
+          24.810499999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "sirohi",
+        "area": 0.8750280000000055,
+        "bounding_box": [
+          72.247,
+          24.337,
+          73.171,
+          25.284
+        ],
+        "point": [
+          72.709,
+          24.810499999999998
+        ],
+        "labels": {
+          "en": "Sirohi"
+        },
+        "population": 1261049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8115,
+          24.917
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "baran",
+        "area": 1.2654680000000118,
+        "bounding_box": [
+          76.196,
+          24.403,
+          77.427,
+          25.431
+        ],
+        "point": [
+          76.8115,
+          24.917
+        ],
+        "labels": {
+          "en": "Baran"
+        },
+        "population": 1451918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.71549999999999,
+          24.4535
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "udaipur",
+        "area": 1.8617309999999943,
+        "bounding_box": [
+          73.0,
+          23.803,
+          74.431,
+          25.104
+        ],
+        "point": [
+          73.71549999999999,
+          24.4535
+        ],
+        "labels": {
+          "en": "Udaipur"
+        },
+        "population": 3614075
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2045,
+          24.308999999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "jhalawar",
+        "area": 1.6691399999999976,
+        "bounding_box": [
+          75.462,
+          23.747,
+          76.947,
+          24.871
+        ],
+        "point": [
+          76.2045,
+          24.308999999999997
+        ],
+        "labels": {
+          "en": "Jhalawar"
+        },
+        "population": 1669136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.864,
+          23.673000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "dungarpur",
+        "area": 0.692223999999999,
+        "bounding_box": [
+          73.352,
+          23.335,
+          74.376,
+          24.011
+        ],
+        "point": [
+          73.864,
+          23.673000000000002
+        ],
+        "labels": {
+          "en": "Dungarpur"
+        },
+        "population": 1671547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.368,
+          23.492
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "banswara",
+        "area": 0.7083879999999978,
+        "bounding_box": [
+          73.959,
+          23.059,
+          74.777,
+          23.925
+        ],
+        "point": [
+          74.368,
+          23.492
+        ],
+        "labels": {
+          "en": "Banswara"
+        },
+        "population": 2236231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.729,
+          26.332
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "ajmer",
+        "area": 1.607147999999988,
+        "bounding_box": [
+          74.108,
+          25.685,
+          75.35,
+          26.979
+        ],
+        "point": [
+          74.729,
+          26.332
+        ],
+        "labels": {
+          "en": "Ajmer"
+        },
+        "population": 2990476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9995,
+          25.758
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "ajmer",
+        "area": 0.03996000000000069,
+        "bounding_box": [
+          73.907,
+          25.65,
+          74.092,
+          25.866
+        ],
+        "point": [
+          73.9995,
+          25.758
+        ],
+        "labels": {
+          "en": "Ajmer"
+        },
+        "population": 2990476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.895,
+          25.2885
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "rajsamand",
+        "area": 0.972054000000005,
+        "bounding_box": [
+          73.472,
+          24.714,
+          74.318,
+          25.863
+        ],
+        "point": [
+          73.895,
+          25.2885
+        ],
+        "labels": {
+          "en": "Rajsamand"
+        },
+        "population": 1351332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.30799999999999,
+          25.9465
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "rajsamand",
+        "area": 0.023200000000001497,
+        "bounding_box": [
+          74.228,
+          25.874,
+          74.388,
+          26.019
+        ],
+        "point": [
+          74.30799999999999,
+          25.9465
+        ],
+        "labels": {
+          "en": "Rajsamand"
+        },
+        "population": 1351332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.22399999999999,
+          25.869
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "rajsamand",
+        "area": 0.003223999999999851,
+        "bounding_box": [
+          74.193,
+          25.843,
+          74.255,
+          25.895
+        ],
+        "point": [
+          74.22399999999999,
+          25.869
+        ],
+        "labels": {
+          "en": "Rajsamand"
+        },
+        "population": 1351332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.654,
+          24.717
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "chittorgarh",
+        "area": 1.0977999999999954,
+        "bounding_box": [
+          74.104,
+          24.218,
+          75.204,
+          25.216
+        ],
+        "point": [
+          74.654,
+          24.717
+        ],
+        "labels": {
+          "en": "Chittorgarh"
+        },
+        "population": 1837926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.499,
+          24.865000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "chittorgarh",
+        "area": 0.23110399999999914,
+        "bounding_box": [
+          75.185,
+          24.681,
+          75.813,
+          25.049
+        ],
+        "point": [
+          75.499,
+          24.865000000000002
+        ],
+        "labels": {
+          "en": "Chittorgarh"
+        },
+        "population": 1837926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.48,
+          29.4615
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "ganganagar",
+        "area": 2.409827999999992,
+        "bounding_box": [
+          72.662,
+          28.725,
+          74.298,
+          30.198
+        ],
+        "point": [
+          73.48,
+          29.4615
+        ],
+        "labels": {
+          "en": "Ganganagar"
+        },
+        "population": 2160112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.679,
+          29.365499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "hanumangarh",
+        "area": 1.9995839999999951,
+        "bounding_box": [
+          73.831,
+          28.776,
+          75.527,
+          29.955
+        ],
+        "point": [
+          74.679,
+          29.365499999999997
+        ],
+        "labels": {
+          "en": "Hanumangarh"
+        },
+        "population": 2003091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.11449999999999,
+          28.1175
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "bikaner",
+        "area": 4.638255000000021,
+        "bounding_box": [
+          71.871,
+          27.185,
+          74.358,
+          29.05
+        ],
+        "point": [
+          73.11449999999999,
+          28.1175
+        ],
+        "labels": {
+          "en": "Bikaner"
+        },
+        "population": 3127156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5995,
+          24.0205
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-rj",
+        "region_child": "pratapgarh",
+        "area": 0.7474050000000008,
+        "bounding_box": [
+          74.217,
+          23.532,
+          74.982,
+          24.509
+        ],
+        "point": [
+          74.5995,
+          24.0205
+        ],
+        "labels": {
+          "en": "Pratapgarh"
+        },
+        "population": 1067774
+      }
+    }
+  ]
+}

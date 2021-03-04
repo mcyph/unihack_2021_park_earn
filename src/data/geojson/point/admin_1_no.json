@@ -1,0 +1,349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8855,
+          59.3955
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "no",
+        "region_child": "no-38",
+        "area": 5.672715000000004,
+        "bounding_box": [
+          7.096,
+          58.603,
+          10.675,
+          60.188
+        ],
+        "point": [
+          8.8855,
+          59.3955
+        ],
+        "labels": {
+          "no": "Vestfold og Telemark",
+          "en": "Vestfold og Telemark"
+        },
+        "population": 426524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9095,
+          58.716
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "no",
+        "region_child": "no-42",
+        "area": 6.735366000000005,
+        "bounding_box": [
+          6.15,
+          57.759,
+          9.669,
+          59.673
+        ],
+        "point": [
+          7.9095,
+          58.716
+        ],
+        "labels": {
+          "no": "Agder",
+          "en": "Agder"
+        },
+        "population": 305422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.689499999999999,
+          59.926500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "no",
+        "region_child": "no-30",
+        "area": 10.49183099999998,
+        "bounding_box": [
+          7.439,
+          58.761,
+          11.94,
+          61.092
+        ],
+        "point": [
+          9.689499999999999,
+          59.926500000000004
+        ],
+        "labels": {
+          "no": "Viken",
+          "en": "Viken"
+        },
+        "population": 1232494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.835,
+          58.936499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "no",
+        "region_child": "no-11",
+        "area": 5.01492,
+        "bounding_box": [
+          4.455,
+          58.028,
+          7.215,
+          59.845
+        ],
+        "point": [
+          5.835,
+          58.936499999999995
+        ],
+        "labels": {
+          "no": "Rogaland",
+          "en": "Rogaland"
+        },
+        "population": 500872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3645,
+          67.268
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "no",
+        "region_child": "no-18",
+        "area": 35.27503400000001,
+        "bounding_box": [
+          10.578,
+          64.939,
+          18.151,
+          69.597
+        ],
+        "point": [
+          14.3645,
+          67.268
+        ],
+        "labels": {
+          "no": "Nordland",
+          "en": "Nordland"
+        },
+        "population": 236672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.091,
+          62.8455
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "no",
+        "region_child": "no-15",
+        "area": 8.391059999999994,
+        "bounding_box": [
+          4.817,
+          61.923,
+          9.365,
+          63.768
+        ],
+        "point": [
+          7.091,
+          62.8455
+        ],
+        "labels": {
+          "no": "Møre og Romsdal",
+          "en": "Møre og Romsdal"
+        },
+        "population": 261894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.205,
+          60.9285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "no",
+        "region_child": "no-46",
+        "area": 12.308237999999982,
+        "bounding_box": [
+          4.088,
+          59.475,
+          8.322,
+          62.382
+        ],
+        "point": [
+          6.205,
+          60.9285
+        ],
+        "labels": {
+          "no": "Vestland",
+          "en": "Vestland"
+        },
+        "population": 643803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.717500000000001,
+          59.9725
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "no",
+        "region_child": "no-03",
+        "area": 0.14761099999999985,
+        "bounding_box": [
+          10.489,
+          59.811,
+          10.946,
+          60.134
+        ],
+        "point": [
+          10.717500000000001,
+          59.9725
+        ],
+        "labels": {
+          "no": "Oslo",
+          "en": "Oslo"
+        },
+        "population": 689294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.987,
+          63.863
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "no",
+        "region_child": "no-50",
+        "area": 21.463091999999993,
+        "bounding_box": [
+          7.648,
+          62.256,
+          14.326,
+          65.47
+        ],
+        "point": [
+          10.987,
+          63.863
+        ],
+        "labels": {
+          "no": "Trøndelag",
+          "sma": "Trööndelage",
+          "en": "Trøndelag"
+        },
+        "population": 464925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.685000000000002,
+          69.87
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "no",
+        "region_child": "no-54",
+        "area": 48.914312000000095,
+        "bounding_box": [
+          15.608,
+          68.356,
+          31.762,
+          71.384
+        ],
+        "point": [
+          23.685000000000002,
+          69.87
+        ],
+        "labels": {
+          "no": "Troms og Finnmark",
+          "fkv": "Tromssa ja Finmarkku",
+          "se": "Romsa ja Finnmárku",
+          "en": "Troms og Finnmark"
+        },
+        "population": 238327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.107,
+          61.269000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "no",
+        "region_child": "no-34",
+        "area": 15.78796800000001,
+        "bounding_box": [
+          7.343,
+          59.841,
+          12.871,
+          62.697
+        ],
+        "point": [
+          10.107,
+          61.269000000000005
+        ],
+        "labels": {
+          "no": "Innlandet",
+          "en": "Innlandet"
+        },
+        "population": 368581
+      }
+    }
+  ]
+}

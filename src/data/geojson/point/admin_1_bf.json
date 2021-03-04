@@ -1,0 +1,2390 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.795,
+          12.114
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-tap",
+        "area": 1.7255000000000016,
+        "bounding_box": [
+          1.2,
+          11.389,
+          2.39,
+          12.839
+        ],
+        "point": [
+          1.795,
+          12.114
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة  تابوا",
+          "bn": "তাপোয়া প্রদেশ",
+          "de": "Tapoa",
+          "en": "Tapoa Province",
+          "es": "Provincia de Tapoa",
+          "fr": "Tapoa",
+          "el": "Ταπόα",
+          "hi": "टैपो प्रांत",
+          "hu": null,
+          "id": "Provinsi Tapoa",
+          "it": "provincia di Tapoa",
+          "ja": "タポア県",
+          "ko": "타포아 현",
+          "nl": "Tapoa",
+          "pl": "Prowincja Tapoa",
+          "pt": "Tapoa",
+          "ru": "Тапоа",
+          "sv": "Province de la Tapoa",
+          "tr": "Tapoa Province",
+          "vi": "Tapoa",
+          "zh": "塔波阿省"
+        },
+        "population": 565581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.899,
+          11.4255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-kmp",
+        "area": 1.0322799999999994,
+        "bounding_box": [
+          0.375,
+          10.933,
+          1.423,
+          11.918
+        ],
+        "point": [
+          0.899,
+          11.4255
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "محافظة كومبينغا",
+          "bn": "কম্পিয়েঙ্গা প্রদেশ",
+          "de": "Kompienga",
+          "en": "Kompienga Province",
+          "es": "Provincia de Kompienga",
+          "fr": "Kompienga",
+          "el": "Κομπιένγκα",
+          "hi": "कोम्पिएंगा प्रांत",
+          "hu": null,
+          "id": "Provinsi Kompienga",
+          "it": "provincia di Kompienga",
+          "ja": "コンピエンガ県",
+          "ko": "콤피엥가 현",
+          "nl": "Kompienga",
+          "pl": "Prowincja Kompienga",
+          "pt": "Kompienga",
+          "ru": "Компьенга",
+          "sv": "Province de la Kompienga",
+          "tr": "Kompienga Province",
+          "vi": "Tỉnh Kompienga",
+          "zh": "孔皮恩加省"
+        },
+        "population": 203538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.234999999999999,
+          10.6695
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-ler",
+        "area": 0.43603199999999953,
+        "bounding_box": [
+          -5.523,
+          10.291,
+          -4.947,
+          11.048
+        ],
+        "point": [
+          -5.234999999999999,
+          10.6695
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة ليرابا",
+          "bn": "লিরাবা প্রদেশ",
+          "de": "Léraba",
+          "en": "Léraba Province",
+          "es": "Provincia de Léraba",
+          "fr": "Léraba",
+          "el": "Λεραμπά",
+          "hi": "लेरबा प्रांत",
+          "hu": null,
+          "id": "Provinsi Léraba",
+          "it": "provincia di Léraba",
+          "ja": "レラバ県",
+          "ko": "레라바 현",
+          "nl": "Léraba",
+          "pl": "Prowincja Léraba",
+          "pt": "Léraba",
+          "ru": "Лераба",
+          "sv": "Province de la Léraba",
+          "tr": "Leraba Province",
+          "vi": "Léraba",
+          "zh": "雷拉巴省"
+        },
+        "population": 194971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4175,
+          10.2485
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-com",
+        "area": 1.8635029999999997,
+        "bounding_box": [
+          -5.146,
+          9.609,
+          -3.689,
+          10.888
+        ],
+        "point": [
+          -4.4175,
+          10.2485
+        ],
+        "labels": {
+          "alt": "Comoé",
+          "local": null,
+          "len": 5,
+          "ar": "محافظة كومويه",
+          "bn": "কোমোয় প্রদেশ",
+          "de": "Comoé",
+          "en": "Comoé Province",
+          "es": "Provincia de Comoé",
+          "fr": "Comoé",
+          "el": "Κομοέ",
+          "hi": "कोमोए प्रांत",
+          "hu": null,
+          "id": "Provinsi Comoé",
+          "it": "provincia di Comoé",
+          "ja": "コモエ県",
+          "ko": "코모에 현",
+          "nl": "Comoé",
+          "pl": "Prowincja Comoé",
+          "pt": "Comoé",
+          "ru": "Комоэ",
+          "sv": "Province de la Comoé",
+          "tr": "Comoé Province",
+          "vi": "Comoé",
+          "zh": "科莫埃省"
+        },
+        "population": 938542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.374,
+          10.293
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-pon",
+        "area": 1.1088000000000007,
+        "bounding_box": [
+          -3.99,
+          9.843,
+          -2.758,
+          10.743
+        ],
+        "point": [
+          -3.374,
+          10.293
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "محافظة بوني",
+          "bn": "পনি প্রদেশ",
+          "de": "Poni",
+          "en": "Poni Province",
+          "es": "Provincia de Poni",
+          "fr": "Poni",
+          "el": "Πόνι",
+          "hi": "पोनी प्रांत",
+          "hu": null,
+          "id": "Provinsi Poni",
+          "it": "provincia di Poni",
+          "ja": "ポニ県",
+          "ko": "포니 현",
+          "nl": "Poni",
+          "pl": "Prowincja Poni",
+          "pt": "Poni",
+          "ru": "Пони",
+          "sv": "Province du Poni",
+          "tr": "Poni Province",
+          "vi": "Poni",
+          "zh": "波尼省"
+        },
+        "population": 425558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9485,
+          9.751
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-nou",
+        "area": 0.3726420000000001,
+        "bounding_box": [
+          -3.208,
+          9.392,
+          -2.689,
+          10.11
+        ],
+        "point": [
+          -2.9485,
+          9.751
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "محافظة نومبيل",
+          "bn": "নুম্বিল প্রদেশ",
+          "de": "Noumbiel",
+          "en": "Noumbiel Province",
+          "es": "Provincia de Noumbiel",
+          "fr": "Noumbiel",
+          "el": "Νούμπιελ",
+          "hi": "नोम्बिएल प्रांत",
+          "hu": null,
+          "id": "Provinsi Noumbiel",
+          "it": "provincia di Noumbiel",
+          "ja": "ヌンビエル県",
+          "ko": "눔비엘 현",
+          "nl": "Noumbiel",
+          "pl": "Prowincja Noumbiel",
+          "pt": "Noumbiel",
+          "ru": "Нумбиель",
+          "sv": "Province du Noumbièl",
+          "tr": "Noumbiel Province",
+          "vi": "Noumbiel",
+          "zh": "努姆比埃爾省"
+        },
+        "population": 87309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4115,
+          14.6115
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-oud",
+        "area": 1.1834309999999992,
+        "bounding_box": [
+          -1.043,
+          14.143,
+          0.22,
+          15.08
+        ],
+        "point": [
+          -0.4115,
+          14.6115
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة أودالان",
+          "bn": "ওউদালান প্রদেশ",
+          "de": "Oudalan",
+          "en": "Oudalan Province",
+          "es": "Provincia de Oudalan",
+          "fr": "Oudalan",
+          "el": "Ουνταλάν",
+          "hi": "औदलान प्रांत",
+          "hu": null,
+          "id": "Provinsi Oudalan",
+          "it": "provincia di Oudalan",
+          "ja": "ウダラン県",
+          "ko": "우달란 현",
+          "nl": "Oudalan",
+          "pl": "Prowincja Oudalan",
+          "pt": "Oudalan",
+          "ru": "Удалан",
+          "sv": "Province de l'Oudalan",
+          "tr": "Oudalan Province",
+          "vi": "Oudalan",
+          "zh": "烏達蘭省"
+        },
+        "population": 328846
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.318,
+          14.273499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-som",
+        "area": 1.6705260000000004,
+        "bounding_box": [
+          -2.085,
+          13.729,
+          -0.551,
+          14.818
+        ],
+        "point": [
+          -1.318,
+          14.273499999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": null,
+          "bn": null,
+          "de": "Soum",
+          "en": "Soum Province",
+          "es": "Provincia de Soum",
+          "fr": "Soum",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "provincia di Soum",
+          "ja": "スム県",
+          "ko": "숨 현",
+          "nl": "Soum",
+          "pl": "Prowincja Soum",
+          "pt": "Soum",
+          "ru": "Сум",
+          "sv": "Province du Soum",
+          "tr": null,
+          "vi": "Soum",
+          "zh": "蘇姆省"
+        },
+        "population": 529493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2035,
+          13.899000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-lor",
+        "area": 0.7219800000000011,
+        "bounding_box": [
+          -2.676,
+          13.517,
+          -1.731,
+          14.281
+        ],
+        "point": [
+          -2.2035,
+          13.899000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة لوروم",
+          "bn": "লোরুম প্রদেশ",
+          "de": "Loroum",
+          "en": "Loroum Province",
+          "es": "Provincia de Loroum",
+          "fr": "Loroum",
+          "el": "Λόρουμ",
+          "hi": "लोरूम प्रांत",
+          "hu": null,
+          "id": "Provinsi Loroum",
+          "it": "provincia di Loroum",
+          "ja": "ロルム県",
+          "ko": "로룸 현",
+          "nl": "Loroum",
+          "pl": "Prowincja Loroum",
+          "pt": "Loroum",
+          "ru": "Лорум",
+          "sv": "Province du Loroum",
+          "tr": "Loroum Province",
+          "vi": "Loroum",
+          "zh": "羅盧姆省"
+        },
+        "population": 203598
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3255,
+          13.5855
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-yat",
+        "area": 1.3456169999999996,
+        "bounding_box": [
+          -2.93,
+          13.029,
+          -1.721,
+          14.142
+        ],
+        "point": [
+          -2.3255,
+          13.5855
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة ياتنغا",
+          "bn": "ইয়াটেঙ্গা প্রদেশ",
+          "de": "Yatenga",
+          "en": "Yatenga Province",
+          "es": "Provincia de Yatenga",
+          "fr": "Yatenga",
+          "el": "Γιατένγκα",
+          "hi": "यतींगा प्रांत",
+          "hu": null,
+          "id": "Provinsi Yatenga",
+          "it": "provincia di Yatenga",
+          "ja": "ヤテンガ県",
+          "ko": "야텡가 현",
+          "nl": "Yatenga",
+          "pl": "Prowincja Yatenga",
+          "pt": "Yatenga",
+          "ru": "Ятенга",
+          "sv": "Province du Yatenga",
+          "tr": "Yatenga Province",
+          "vi": "Yatenga",
+          "zh": "雅滕加省"
+        },
+        "population": 774789
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.965,
+          13.2515
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-sor",
+        "area": 0.953344000000001,
+        "bounding_box": [
+          -3.477,
+          12.786,
+          -2.453,
+          13.717
+        ],
+        "point": [
+          -2.965,
+          13.2515
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظة سورو",
+          "bn": "সৌরু প্রদেশ",
+          "de": "Provinz Sourou",
+          "en": "Sourou Province",
+          "es": "Provincia de Sourou",
+          "fr": "Sourou",
+          "el": "Σούρου",
+          "hi": "सौरू प्रांत",
+          "hu": null,
+          "id": "Provinsi Sourou",
+          "it": "provincia di Sourou",
+          "ja": "スル県",
+          "ko": "수루 현",
+          "nl": "Sourou",
+          "pl": "Prowincja Sourou",
+          "pt": "Sourou",
+          "ru": "Суру",
+          "sv": "Sourou",
+          "tr": "Sourou Province",
+          "vi": "Sourou",
+          "zh": "蘇魯省"
+        },
+        "population": 288415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8885,
+          12.932500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-kos",
+        "area": 1.0295250000000011,
+        "bounding_box": [
+          -4.351,
+          12.376,
+          -3.426,
+          13.489
+        ],
+        "point": [
+          -3.8885,
+          12.932500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة كوسي",
+          "bn": "কোসি প্রদেশ",
+          "de": "Kossi",
+          "en": "Kossi Province",
+          "es": "Provincia de Kossi",
+          "fr": "Kossi",
+          "el": "Κόσσι",
+          "hi": "कोसी प्रांत",
+          "hu": null,
+          "id": "Provinsi Kossi",
+          "it": "provincia di Kossi",
+          "ja": "コッシ県",
+          "ko": "코시 현",
+          "nl": "Kossi",
+          "pl": "Prowincja Kossi",
+          "pt": "Kossi",
+          "ru": "Косси",
+          "sv": "Province de la Kossi",
+          "tr": "Kossi Province",
+          "vi": "Kossi",
+          "zh": "孔西省"
+        },
+        "population": 364188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.108499999999999,
+          12.227
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-ban",
+        "area": 1.110779999999999,
+        "bounding_box": [
+          -4.653,
+          11.717,
+          -3.564,
+          12.737
+        ],
+        "point": [
+          -4.108499999999999,
+          12.227
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة بانوا",
+          "bn": "বানওয়া প্রদেশ",
+          "de": "Banwa",
+          "en": "Banwa Province",
+          "es": "Provincia de Banwa",
+          "fr": "Banwa",
+          "el": "Μπάνβα",
+          "hi": "बनवा प्रांत",
+          "hu": null,
+          "id": "Provinsi Banwa",
+          "it": "provincia di Banwa",
+          "ja": "バンワ県",
+          "ko": "반와 현",
+          "nl": "Banwa",
+          "pl": "Prowincja Banwa",
+          "pt": "Banwa",
+          "ru": "Банва",
+          "sv": "Province des Banwa",
+          "tr": "Banwa Province",
+          "vi": "Banwa",
+          "zh": "巴瓦省"
+        },
+        "population": 372114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1899999999999995,
+          11.3855
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-hou",
+        "area": 1.6827440000000005,
+        "bounding_box": [
+          -4.794,
+          10.689,
+          -3.586,
+          12.082
+        ],
+        "point": [
+          -4.1899999999999995,
+          11.3855
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة هويت",
+          "bn": "হুয়েত প্রদেশ",
+          "de": "Houet",
+          "en": "Houet Province",
+          "es": "Provincia de Houet",
+          "fr": "Houet",
+          "el": "Χουέτ",
+          "hi": "हूएट प्रांत",
+          "hu": null,
+          "id": "Provinsi Houet",
+          "it": "provincia di Houet",
+          "ja": "ウエ県",
+          "ko": "우에 현",
+          "nl": "Houet",
+          "pl": "Prowincja Houet",
+          "pt": "Houet",
+          "ru": "Уэ",
+          "sv": "Province du Houet",
+          "tr": "Houet Province",
+          "vi": "Houet",
+          "zh": "烏埃省"
+        },
+        "population": 1611522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0280000000000005,
+          11.4235
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-ken",
+        "area": 1.1730120000000008,
+        "bounding_box": [
+          -5.506,
+          10.81,
+          -4.55,
+          12.037
+        ],
+        "point": [
+          -5.0280000000000005,
+          11.4235
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة كينيدوغو",
+          "bn": "কােনেদগৌ প্রদেশ",
+          "de": "Kénédougou",
+          "en": "Kénédougou Province",
+          "es": "Provincia de Kénédougou",
+          "fr": "Kénédougou",
+          "el": "Κενέντουγκου",
+          "hi": "केनेडूगू प्रांत",
+          "hu": null,
+          "id": "Provinsi Kénédougou",
+          "it": "provincia di Kénédougou",
+          "ja": "ケネドゥグ県",
+          "ko": "케네두구 현",
+          "nl": "Kénédougou",
+          "pl": "Prowincja Kénédougou",
+          "pt": "Kénédougou",
+          "ru": "Кенедугу",
+          "sv": "Province du Kénédougou",
+          "tr": "Kenedougou Province",
+          "vi": "Kénédougou",
+          "zh": "凱內杜古省"
+        },
+        "population": 485498
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07100000000000006,
+          13.9665
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-sen",
+        "area": 1.072338,
+        "bounding_box": [
+          -0.642,
+          13.497,
+          0.5,
+          14.436
+        ],
+        "point": [
+          -0.07100000000000006,
+          13.9665
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "محافظة سينو",
+          "bn": "সেনো প্রদেশ",
+          "de": "Séno",
+          "en": "Séno Province",
+          "es": "Provincia de Séno",
+          "fr": "Séno",
+          "el": "Σένο",
+          "hi": "सेनो प्रांत",
+          "hu": null,
+          "id": "Provinsi Séno",
+          "it": "provincia di Séno",
+          "ja": "セノ県",
+          "ko": "세노 현",
+          "nl": "Séno",
+          "pl": "Prowincja Séno",
+          "pt": "Séno",
+          "ru": "Сено",
+          "sv": "Province du Séno",
+          "tr": "Séno Province",
+          "vi": "Séno",
+          "zh": "塞諾省"
+        },
+        "population": 380666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.625,
+          13.4025
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-yag",
+        "area": 1.0100220000000002,
+        "bounding_box": [
+          0.062,
+          12.954,
+          1.188,
+          13.851
+        ],
+        "point": [
+          0.625,
+          13.4025
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة ياجا",
+          "bn": "ইয়াঘা প্রদেশ",
+          "de": "Yagha",
+          "en": "Yagha Province",
+          "es": "Provincia de Yagha",
+          "fr": "Yagha",
+          "el": "Γιάγκχα",
+          "hi": "याघा प्रांत",
+          "hu": null,
+          "id": "Provinsi Yagha",
+          "it": "provincia di Yagha",
+          "ja": "ヤガ県",
+          "ko": "야가 현",
+          "nl": "Yagha",
+          "pl": "Prowincja Yagha",
+          "pt": "Yagha",
+          "ru": "Яга",
+          "sv": "Province du Yagha",
+          "tr": "Yagha Province",
+          "vi": "Yagha",
+          "zh": "亞加省"
+        },
+        "population": 246426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7759999999999999,
+          12.7075
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-kmd",
+        "area": 0.8009059999999996,
+        "bounding_box": [
+          0.247,
+          12.329,
+          1.305,
+          13.086
+        ],
+        "point": [
+          0.7759999999999999,
+          12.7075
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "محافظة كوموندجاري",
+          "bn": "কমন্দারি প্রদেশ",
+          "de": "Komondjari",
+          "en": "Komondjari Province",
+          "es": "Provincia de Komondjari",
+          "fr": "Komondjari",
+          "el": "Κομοντζάρι",
+          "hi": "कोमोंड्यारी प्रांत",
+          "hu": null,
+          "id": "Provinsi Komondjari",
+          "it": "provincia di Komandjoari",
+          "ja": "コモンジャリ県",
+          "ko": "코몽자리 현",
+          "nl": "Komondjari",
+          "pl": "Prowincja Komondjari",
+          "pt": "Komondjari",
+          "ru": "Комонджари",
+          "sv": "Province de la Komandjoari",
+          "tr": "Komondjari Province",
+          "vi": "Komondjari",
+          "zh": "科蒙加里省"
+        },
+        "population": 142144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.204,
+          11.4055
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-kop",
+        "area": 0.5646960000000002,
+        "bounding_box": [
+          -0.168,
+          11.026,
+          0.576,
+          11.785
+        ],
+        "point": [
+          0.204,
+          11.4055
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة كولبيلوغو",
+          "bn": "কুল্পেলঙ্গ প্রদেশ",
+          "de": "Koulpélogo",
+          "en": "Koulpélogo Province",
+          "es": "Provincia de Koulpélogo",
+          "fr": "Koulpélogo",
+          "el": "Κουλπέλογκο",
+          "hi": "कौलपेलोगो प्रांत",
+          "hu": null,
+          "id": "Provinsi Koulpélogo",
+          "it": "provincia di Koulpélogo",
+          "ja": "クルペロゴ県",
+          "ko": "쿨펠로고 현",
+          "nl": "Koulpélogo",
+          "pl": "Prowincja Koulpélogo",
+          "pt": "Koulpélogo",
+          "ru": "Кульпелого",
+          "sv": "Province du Koulpélogo",
+          "tr": "Koulpélogo Province",
+          "vi": "Koulpélogo",
+          "zh": "庫爾佩羅戈省"
+        },
+        "population": 407625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.437,
+          11.4475
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-blg",
+        "area": 1.0509460000000006,
+        "bounding_box": [
+          -0.924,
+          10.908,
+          0.05,
+          11.987
+        ],
+        "point": [
+          -0.437,
+          11.4475
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "بولجو",
+          "bn": "বুল্গো",
+          "de": "Boulgou",
+          "en": "Boulgou",
+          "es": "Boulgou",
+          "fr": "Boulgou",
+          "el": "Μπούλγκου",
+          "hi": "बोल्गू",
+          "hu": null,
+          "id": "Boulgou",
+          "it": "provincia di Boulgou",
+          "ja": "ブルグ県",
+          "ko": "불구 현",
+          "nl": "Boulgou",
+          "pl": "Boulgou",
+          "pt": "Boulgou",
+          "ru": "Булгу",
+          "sv": "Boulgou",
+          "tr": "Boulgou",
+          "vi": "Boulgou",
+          "zh": "布爾古省"
+        },
+        "population": 802856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.165,
+          11.251999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-nao",
+        "area": 0.5365680000000007,
+        "bounding_box": [
+          -1.639,
+          10.969,
+          -0.691,
+          11.535
+        ],
+        "point": [
+          -1.165,
+          11.251999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة ناهوري",
+          "bn": "নাহৌরি প্রদেশ",
+          "de": "Nahouri",
+          "en": "Nahouri Province",
+          "es": "Provincia de Nahouri",
+          "fr": "Nahouri",
+          "el": "Ναχούρι",
+          "hi": "नहौरी प्रांत",
+          "hu": null,
+          "id": "Provinsi Nahouri",
+          "it": "provincia di Nahouri",
+          "ja": "ナウリ県",
+          "ko": "나우리 현",
+          "nl": "Nahouri",
+          "pl": "Prowincja Nahouri",
+          "pt": "Nahouri",
+          "ru": "Нахури",
+          "sv": "Nahouri Province",
+          "tr": "Nahouri Province",
+          "vi": "Nahouri",
+          "zh": "納烏里省"
+        },
+        "population": 245752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.109,
+          11.448
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-sis",
+        "area": 1.2843599999999993,
+        "bounding_box": [
+          -2.804,
+          10.986,
+          -1.414,
+          11.91
+        ],
+        "point": [
+          -2.109,
+          11.448
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة سيسيلي",
+          "bn": "সিসিলি প্রদেশ",
+          "de": "Sissili",
+          "en": "Sissili Province",
+          "es": "Provincia de Sissili",
+          "fr": "Sissili",
+          "el": "Σισσίλι",
+          "hi": "सिसिली प्रांत",
+          "hu": null,
+          "id": "Provinsi Sissili",
+          "it": "provincia di Sissili",
+          "ja": "シッシリ県",
+          "ko": "시실리 현",
+          "nl": "Sissili",
+          "pl": "Prowincja Sissili",
+          "pt": "Sissili",
+          "ru": "Сиссили",
+          "sv": "Province de la Sissili",
+          "tr": "Sissili Province",
+          "vi": "Sissili",
+          "zh": "錫西里省"
+        },
+        "population": 326009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9699999999999998,
+          11.024000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-iob",
+        "area": 0.43423199999999945,
+        "bounding_box": [
+          -3.303,
+          10.698,
+          -2.637,
+          11.35
+        ],
+        "point": [
+          -2.9699999999999998,
+          11.024000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "محافظة إيوبا",
+          "bn": "ইয়োবের প্রদেশ",
+          "de": "Ioba",
+          "en": "Ioba Province",
+          "es": "Provincia de Ioba",
+          "fr": "Ioba",
+          "el": "Ιόμπα",
+          "hi": "आयोबा प्रांत",
+          "hu": null,
+          "id": "Provinsi Ioba",
+          "it": "provincia di Ioba",
+          "ja": "イオバ県",
+          "ko": "이오바 현",
+          "nl": "Ioba",
+          "pl": "Prowincja Ioba",
+          "pt": "Ioba",
+          "ru": "Иоба",
+          "sv": "Province du Ioba",
+          "tr": "Ioba Province",
+          "vi": "Ioba",
+          "zh": "伊奧巴省"
+        },
+        "population": 206940
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.069,
+          11.6665
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-bal",
+        "area": 0.9432959999999991,
+        "bounding_box": [
+          -3.613,
+          11.233,
+          -2.525,
+          12.1
+        ],
+        "point": [
+          -3.069,
+          11.6665
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة بالي",
+          "bn": "বেইল প্রদেশ",
+          "de": "Balé",
+          "en": "Balé Province",
+          "es": "Provincia de Balé",
+          "fr": "Balé",
+          "el": "Μπαλέ",
+          "hi": "बैले प्रांत",
+          "hu": null,
+          "id": "Provinsi Balé",
+          "it": "provincia di Balé",
+          "ja": "バレ県",
+          "ko": "발레 현",
+          "nl": "Balé",
+          "pl": "Prowincja Balé",
+          "pt": "Balé",
+          "ru": "Бале",
+          "sv": "Province des Balé",
+          "tr": "Bale Province",
+          "vi": "Balé",
+          "zh": "巴雷省"
+        },
+        "population": 313527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5705,
+          12.210999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-sng",
+        "area": 0.837794,
+        "bounding_box": [
+          -2.919,
+          11.61,
+          -2.222,
+          12.812
+        ],
+        "point": [
+          -2.5705,
+          12.210999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة سانغوي",
+          "bn": "সাঙ্গুই প্রদেশ",
+          "de": "Sanguié",
+          "en": "Sanguié Province",
+          "es": "Provincia de Sanguié",
+          "fr": "Sanguié",
+          "el": "Σανγκιέ",
+          "hi": "सैन्गुई प्रांत",
+          "hu": null,
+          "id": "Provinsi Sanguié",
+          "it": "provincia di Sanguié",
+          "ja": "サンギエ県",
+          "ko": "상기에 현",
+          "nl": "Sanguié",
+          "pl": "Prowincja Sanguié",
+          "pt": "Sanguié",
+          "ru": "Санги",
+          "sv": "Province du Sanguié",
+          "tr": "Sangie Province",
+          "vi": "Sanguié",
+          "zh": "桑吉省"
+        },
+        "population": 403864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4095,
+          11.41
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-tui",
+        "area": 1.025766000000002,
+        "bounding_box": [
+          -3.991,
+          10.969,
+          -2.828,
+          11.851
+        ],
+        "point": [
+          -3.4095,
+          11.41
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "مقاطعة توي",
+          "bn": "তুয় প্রদেশ",
+          "de": "Tuy",
+          "en": "Tuy Province",
+          "es": "Provincia de Tuy",
+          "fr": "Tuy",
+          "el": "Τούι",
+          "hi": "टाय प्रांत",
+          "hu": null,
+          "id": "Provinsi Tuy",
+          "it": "provincia di Tuy",
+          "ja": "トゥイ県",
+          "ko": "투이 현",
+          "nl": "Tuy",
+          "pl": "Prowincja Tuy",
+          "pt": "Tuy",
+          "ru": "Провинция Туй",
+          "sv": "Province du Tuy",
+          "tr": "Tuy Province",
+          "vi": "Tuy",
+          "zh": "圖伊省"
+        },
+        "population": 384880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4210000000000003,
+          10.8945
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-bgr",
+        "area": 0.4438079999999999,
+        "bounding_box": [
+          -3.789,
+          10.593,
+          -3.053,
+          11.196
+        ],
+        "point": [
+          -3.4210000000000003,
+          10.8945
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "محافظة بوغوريبا",
+          "bn": "বৌগৌরিবা প্রদেশ",
+          "de": "Bougouriba",
+          "en": "Bougouriba Province",
+          "es": "Provincia de Bougouriba",
+          "fr": "Bougouriba",
+          "el": "Μπουγκουρίμπα",
+          "hi": "बौगोरीबा प्रांत",
+          "hu": null,
+          "id": "Provinsi Bougouriba",
+          "it": "provincia di Bougouriba",
+          "ja": "ブグリバ県",
+          "ko": "부구리바 현",
+          "nl": "Bougouriba",
+          "pl": "Prowincja Bougouriba",
+          "pt": "Bougouriba",
+          "ru": "Бугуриба",
+          "sv": "Province de la Bougouriba",
+          "tr": "Bougouriba",
+          "vi": "Bougouriba",
+          "zh": "布古里巴省"
+        },
+        "population": 208739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.387,
+          12.2345
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-mou",
+        "area": 1.2248280000000005,
+        "bounding_box": [
+          -3.981,
+          11.719,
+          -2.793,
+          12.75
+        ],
+        "point": [
+          -3.387,
+          12.2345
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "موهون",
+          "bn": "মৌহুন",
+          "de": "Mouhoun",
+          "en": "Mouhoun",
+          "es": "Provincia de Mouhoun",
+          "fr": "Mouhoun",
+          "el": "Μουχούν",
+          "hi": "मुहून",
+          "hu": null,
+          "id": "Mouhoun",
+          "it": "provincia di Mouhoun",
+          "ja": "ムフン県",
+          "ko": "무운 현",
+          "nl": "Mouhoun",
+          "pl": "Prowincja Mouhoun",
+          "pt": "Mouhoun",
+          "ru": "Мухун",
+          "sv": "Province du Mouhoun",
+          "tr": "Mouhoun",
+          "vi": "Mouhoun",
+          "zh": "穆翁省"
+        },
+        "population": 420137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2915,
+          12.1765
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-kot",
+        "area": 0.4947150000000008,
+        "bounding_box": [
+          -0.614,
+          11.793,
+          0.031,
+          12.56
+        ],
+        "point": [
+          -0.2915,
+          12.1765
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة كوريتينغا",
+          "bn": "কুরিটেঙ্গা প্রদেশ",
+          "de": "Kouritenga",
+          "en": "Kouritenga Province",
+          "es": "Provincia de Kouritenga",
+          "fr": "Kouritenga",
+          "el": "Κουριτένγκα",
+          "hi": "कौरितेंगा प्रांत",
+          "hu": null,
+          "id": "Provinsi Kouritenga",
+          "it": "provincia di Kouritenga",
+          "ja": "クリテンガ県",
+          "ko": "쿠리텡가 현",
+          "nl": "Kouritenga",
+          "pl": "Prowincja Kouritenga",
+          "pt": "Kouritenga",
+          "ru": "Куритенга",
+          "sv": "Kouritenga Province",
+          "tr": "Kouritenga Province",
+          "vi": "Kouritenga",
+          "zh": "庫里滕加省"
+        },
+        "population": 507115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.768,
+          12.257
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-gan",
+        "area": 0.5815720000000006,
+        "bounding_box": [
+          -1.115,
+          11.838,
+          -0.421,
+          12.676
+        ],
+        "point": [
+          -0.768,
+          12.257
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "محافظة غانزورغو",
+          "bn": "গাঞ্জুরগু প্রদেশ",
+          "de": "Ganzourgou",
+          "en": "Ganzourgou Province",
+          "es": "Provincia de Ganzourgou",
+          "fr": "Ganzourgou",
+          "el": "Γκανζούργκου",
+          "hi": "गैनजूरगू प्रांत",
+          "hu": null,
+          "id": "Provinsi Ganzourgou",
+          "it": "provincia di Ganzourgou",
+          "ja": "ガンズル県",
+          "ko": "간주르구 현",
+          "nl": "Ganzourgou",
+          "pl": "Prowincja Ganzourgou",
+          "pt": "Ganzourgou",
+          "ru": "Ганзургу",
+          "sv": "Province du Ganzourgou",
+          "tr": "Ganzourgou Province",
+          "vi": "Ganzourgou",
+          "zh": "岡祖爾古省"
+        },
+        "population": 443909
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9405000000000001,
+          11.5465
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-zou",
+        "area": 0.6185850000000003,
+        "bounding_box": [
+          -1.348,
+          11.167,
+          -0.533,
+          11.926
+        ],
+        "point": [
+          -0.9405000000000001,
+          11.5465
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "محافظة زوندويوغو",
+          "bn": "জুন্ডবেগো প্রদেশ",
+          "de": "Zoundwéogo",
+          "en": "Zoundwéogo Province",
+          "es": "Provincia de Zoundwéogo",
+          "fr": "Zoundwéogo",
+          "el": "Ζουντβέογκο",
+          "hi": "जौंडवेगो प्रांत",
+          "hu": null,
+          "id": "Provinsi Zoundwéogo",
+          "it": "provincia di Zoundwéogo",
+          "ja": "ズンドウェオゴ県",
+          "ko": "준드웨오고 현",
+          "nl": "Zoundwéogo",
+          "pl": "Prowincja Zoundwéogo",
+          "pt": "Zoundwéogo",
+          "ru": "Зундвеого",
+          "sv": "Zoundwéogo",
+          "tr": "Zoundwéogo Province",
+          "vi": "Zoundwéogo",
+          "zh": "宗德韋奧戈省"
+        },
+        "population": 337932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.832,
+          11.6345
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-zir",
+        "area": 0.7200199999999984,
+        "bounding_box": [
+          -2.35,
+          11.287,
+          -1.314,
+          11.982
+        ],
+        "point": [
+          -1.832,
+          11.6345
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 4,
+          "ar": "مقاطعة زيرو",
+          "bn": "জিরো প্রদেশ",
+          "de": "Ziro",
+          "en": "Ziro Province",
+          "es": "Provincia de Ziro",
+          "fr": "Ziro",
+          "el": "Ζίρο",
+          "hi": "ज़िरो प्रांत",
+          "hu": null,
+          "id": "Provinsi Ziro",
+          "it": "provincia di Ziro",
+          "ja": "ジロ県",
+          "ko": "지로 현",
+          "nl": "Ziro",
+          "pl": "Prowincja Ziro",
+          "pt": "Ziro",
+          "ru": "Зиро",
+          "sv": "Province du Ziro",
+          "tr": "Ziro Province",
+          "vi": "Ziro",
+          "zh": "濟羅省"
+        },
+        "population": 313499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.136,
+          12.305
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-blk",
+        "area": 0.5577520000000008,
+        "bounding_box": [
+          -2.482,
+          11.902,
+          -1.79,
+          12.708
+        ],
+        "point": [
+          -2.136,
+          12.305
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "محافظة بولكييمدي",
+          "bn": "বুল্কিমডি প্রদেশ",
+          "de": "Boulkiemdé",
+          "en": "Boulkiemdé Province",
+          "es": "Provincia de Boulkiemdé",
+          "fr": "Boulkiemdé",
+          "el": "Μπουλκιεμντέ",
+          "hi": "बोलकिएम्डे प्रांत",
+          "hu": null,
+          "id": "Provinsi Boulkiemdé",
+          "it": "provincia di Boulkiemdé",
+          "ja": "ブルキアンデ県",
+          "ko": "불키엠데 현",
+          "nl": "Boulkiemdé",
+          "pl": "Prowincja Boulkiemdé",
+          "pt": "Boulkiemdé",
+          "ru": "Булькиемде",
+          "sv": "Boulkiemdé",
+          "tr": "Boulkiemde Provience",
+          "vi": "Boulkiemdé",
+          "zh": "布爾基恩德省"
+        },
+        "population": 656036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4660000000000002,
+          12.365
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-kad",
+        "area": 0.4977279999999998,
+        "bounding_box": [
+          -1.87,
+          12.057,
+          -1.062,
+          12.673
+        ],
+        "point": [
+          -1.4660000000000002,
+          12.365
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة كاديوغو",
+          "bn": "কাডিওগো প্রদেশ",
+          "de": "Kadiogo",
+          "en": "Kadiogo Province",
+          "es": "Provincia de Kadiogo",
+          "fr": "Kadiogo",
+          "el": "Καντιόγκο",
+          "hi": "कडीओगो प्रांत",
+          "hu": null,
+          "id": "Provinsi Kadiogo",
+          "it": "provincia di Kadiogo",
+          "ja": "カディオゴ県",
+          "ko": "카디오고 현",
+          "nl": "Kadiogo",
+          "pl": "Prowincja Kadiogo",
+          "pt": "Kadiogo",
+          "ru": "Кадиого",
+          "sv": "Kadiogo Province",
+          "tr": "Kadigo Province",
+          "vi": "Kadiogo",
+          "zh": "卡焦戈省"
+        },
+        "population": 4206071
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.286,
+          12.591000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-oub",
+        "area": 0.6012080000000012,
+        "bounding_box": [
+          -1.732,
+          12.254,
+          -0.84,
+          12.928
+        ],
+        "point": [
+          -1.286,
+          12.591000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "محافظة أوبريتنغا",
+          "bn": "ইউব্রিটেঙ্গা প্রদেশ",
+          "de": "Oubritenga",
+          "en": "Oubritenga Province",
+          "es": "Provincia de Oubritenga",
+          "fr": "Oubritenga",
+          "el": "Ουμπριτένγκα",
+          "hi": "औब्रिटेंगा प्रांत",
+          "hu": null,
+          "id": "Provinsi Oubritenga",
+          "it": "provincia di Oubritenga",
+          "ja": "ウブリテンガ県",
+          "ko": "우브리텡가 현",
+          "nl": "Oubritenga",
+          "pl": "Prowincja Oubritenga",
+          "pt": "Oubritenga",
+          "ru": "Убритенга",
+          "sv": "Province d'Oubritenga",
+          "tr": "Oubritenga Province",
+          "vi": "Oubritenga",
+          "zh": "烏布里滕加省"
+        },
+        "population": 317910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6105,
+          12.216999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-gou",
+        "area": 1.6052739999999985,
+        "bounding_box": [
+          -0.11,
+          11.66,
+          1.331,
+          12.774
+        ],
+        "point": [
+          0.6105,
+          12.216999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة غورما",
+          "bn": "গুরমা প্রদেশ",
+          "de": "Gourma",
+          "en": "Gourma Province",
+          "es": "Provincia de Gourma",
+          "fr": "Gourma",
+          "el": "Γκούρμα",
+          "hi": "गूरमा प्रांत",
+          "hu": null,
+          "id": "Provinsi Gourma",
+          "it": "provincia di Gourma",
+          "ja": "グルマ県",
+          "ko": "구르마 현",
+          "nl": "Gourma",
+          "pl": "Prowincja Gurma",
+          "pt": "Gourma",
+          "ru": "Гурма",
+          "sv": "Province du Gourma",
+          "tr": "Gourma Province",
+          "vi": "Gourma",
+          "zh": "古爾馬省"
+        },
+        "population": 491788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.10949999999999999,
+          12.904499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-gna",
+        "area": 1.2809969999999995,
+        "bounding_box": [
+          -0.366,
+          12.231,
+          0.585,
+          13.578
+        ],
+        "point": [
+          0.10949999999999999,
+          12.904499999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظةغناغنا",
+          "bn": "গুনাগা প্রদেশ",
+          "de": "Gnagna",
+          "en": "Gnagna Province",
+          "es": "Provincia de Gnagna",
+          "fr": "Gnagna",
+          "el": "Γκνάγκνα",
+          "hi": "नाग्ना प्रांत",
+          "hu": null,
+          "id": "Provinsi Gnagna",
+          "it": "provincia di Gnagna",
+          "ja": "グナグナ州",
+          "ko": "그나그나 현",
+          "nl": "Gnagna",
+          "pl": "Prowincja Gnagna",
+          "pt": "Gnagna",
+          "ru": "Няня",
+          "sv": "Gnagna Province",
+          "tr": "Gnagna Province",
+          "vi": "Gnagna",
+          "zh": "尼亞尼亞省"
+        },
+        "population": 603610
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4649999999999999,
+          11.889
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-baz",
+        "area": 0.7039400000000013,
+        "bounding_box": [
+          -2.042,
+          11.584,
+          -0.888,
+          12.194
+        ],
+        "point": [
+          -1.4649999999999999,
+          11.889
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة بازيجا",
+          "bn": "বাজেঙ্গা প্রদেশ",
+          "de": "Bazèga",
+          "en": "Bazèga Province",
+          "es": "Provincia de Bazéga",
+          "fr": "Bazèga",
+          "el": "Επαρχία Μπαζέγκα",
+          "hi": "बज़ेग़ा प्रांत",
+          "hu": null,
+          "id": "Provinsi Bazèga",
+          "it": "provincia di Bazèga",
+          "ja": "バゼガ県",
+          "ko": "바제가 현",
+          "nl": "Bazéga",
+          "pl": "Prowincja Bazéga",
+          "pt": "Bazéga",
+          "ru": "Базега",
+          "sv": "Bazega Province",
+          "tr": "Bazega Province",
+          "vi": "Bazéga",
+          "zh": "巴澤加省"
+        },
+        "population": 289433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.837,
+          12.5845
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-kow",
+        "area": 0.30510599999999943,
+        "bounding_box": [
+          -2.078,
+          12.268,
+          -1.596,
+          12.901
+        ],
+        "point": [
+          -1.837,
+          12.5845
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "محافظة كورويوغو",
+          "bn": "কুরওয়েওগো প্রদেশ",
+          "de": "Kourwéogo",
+          "en": "Kourwéogo Province",
+          "es": "Provincia de Kourwéogo",
+          "fr": "Kourwéogo",
+          "el": "Κουρβέογκο",
+          "hi": "कौरवेगो प्रांत",
+          "hu": null,
+          "id": "Provinsi Kourwéogo",
+          "it": "provincia di Kourwéogo",
+          "ja": "クルウェゴ県",
+          "ko": "쿠르웨오고 현",
+          "nl": "Kourwéogo",
+          "pl": "Prowincja Kourwéogo",
+          "pt": "Kourwéogo",
+          "ru": "Курвеого",
+          "sv": "Province du Kourwéogo",
+          "tr": "Kourwéogo",
+          "vi": "Kourwéogo",
+          "zh": "庫爾維奧戈省"
+        },
+        "population": 180933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.033,
+          12.6735
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-nay",
+        "area": 0.5155919999999997,
+        "bounding_box": [
+          -3.429,
+          12.348,
+          -2.637,
+          12.999
+        ],
+        "point": [
+          -3.033,
+          12.6735
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "محافظة نيالا",
+          "bn": "নায়ালা প্রদেশ",
+          "de": "Nayala",
+          "en": "Nayala Province",
+          "es": "Provincia de Nayala",
+          "fr": "Nayala",
+          "el": "Ναγιάλα",
+          "hi": "नायला प्रांत",
+          "hu": null,
+          "id": "Provinsi Nayala",
+          "it": "provincia di Nayala",
+          "ja": "ナヤラ県",
+          "ko": "나얄라 현",
+          "nl": "Nayala",
+          "pl": "Prowincja Nayala",
+          "pt": "Nayala",
+          "ru": "Наяла",
+          "sv": "Province du Nayala",
+          "tr": "Nayala Province",
+          "vi": "Nayala",
+          "zh": "納亞拉省"
+        },
+        "population": 217635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1065,
+          12.878499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-pas",
+        "area": 0.6347250000000003,
+        "bounding_box": [
+          -2.711,
+          12.616,
+          -1.502,
+          13.141
+        ],
+        "point": [
+          -2.1065,
+          12.878499999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة باسوري",
+          "bn": "প্যাসেরে প্রদেশ",
+          "de": "Passoré",
+          "en": "Passoré Province",
+          "es": "Provincia de Passoré",
+          "fr": "Passoré",
+          "el": "Πασορέ",
+          "hi": "पासोरे प्रांत",
+          "hu": null,
+          "id": "Provinsi Passoré",
+          "it": "provincia di Passoré",
+          "ja": "パッソレ県",
+          "ko": "파소레 현",
+          "nl": "Passoré",
+          "pl": "Prowincja Passoré",
+          "pt": "Passoré",
+          "ru": "Провинция Пассор",
+          "sv": "Province du Passoré",
+          "tr": "Passoré",
+          "vi": "Passoré",
+          "zh": "帕索雷省"
+        },
+        "population": 401640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3810000000000002,
+          13.1745
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-zon",
+        "area": 0.2690099999999999,
+        "bounding_box": [
+          -2.696,
+          12.961,
+          -2.066,
+          13.388
+        ],
+        "point": [
+          -2.3810000000000002,
+          13.1745
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "محافظة زوندوما",
+          "bn": "জোন্ডোমা প্রদেশ",
+          "de": "Zondoma",
+          "en": "Zondoma Province",
+          "es": "Provincia de Zondoma",
+          "fr": "Zondoma",
+          "el": "Ζοντόμα",
+          "hi": "ज़ोंडोमा प्रांत",
+          "hu": null,
+          "id": "Provinsi Zondoma",
+          "it": "provincia di Zondoma",
+          "ja": "ゾンドマ県",
+          "ko": "존도마 현",
+          "nl": "Zondoma",
+          "pl": "Prowincja Zondoma",
+          "pt": "Zondoma",
+          "ru": "Зондома",
+          "sv": "Province du Zondoma",
+          "tr": "Zondoma Province",
+          "vi": "Zondoma",
+          "zh": "宗多馬省"
+        },
+        "population": 221331
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.504,
+          13.195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-nam",
+        "area": 0.8939839999999999,
+        "bounding_box": [
+          -0.811,
+          12.467,
+          -0.197,
+          13.923
+        ],
+        "point": [
+          -0.504,
+          13.195
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "محافظة نامنتنغا",
+          "bn": "নামেনটেঙ্গা প্রদেশ",
+          "de": "Namentenga",
+          "en": "Namentenga Province",
+          "es": "Provincia de Namentenga",
+          "fr": "Namentenga",
+          "el": "Ναμεντένγκα",
+          "hi": "नमेंटेंगा प्रांत",
+          "hu": null,
+          "id": "Provinsi Namentenga",
+          "it": "provincia di Namentenga",
+          "ja": "ナメテンガ県",
+          "ko": "나멘텡가 현",
+          "nl": "Namentenga",
+          "pl": "Prowincja Namentenga",
+          "pt": "Namentenga",
+          "ru": "Наментенга",
+          "sv": "Province du Namentenga",
+          "tr": "Namentenga Province",
+          "vi": "Namentenga",
+          "zh": "納門滕加省"
+        },
+        "population": 495683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0805,
+          13.247499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-smt",
+        "area": 1.367415000000001,
+        "bounding_box": [
+          -1.553,
+          12.524,
+          -0.608,
+          13.971
+        ],
+        "point": [
+          -1.0805,
+          13.247499999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "مقاطعة سانماتنغا",
+          "bn": "স্যান্মাটেঙ্গা প্রদেশ",
+          "de": "Sanmatenga",
+          "en": "Sanmatenga Province",
+          "es": "Provincia de Sanmatenga",
+          "fr": "Sanmatenga",
+          "el": "Σανματένγκα",
+          "hi": "सैनमतेंगा प्रांत",
+          "hu": null,
+          "id": "Provinsi Sanmatenga",
+          "it": "provincia di Sanmatenga",
+          "ja": "サンマテンガ県",
+          "ko": "산마텡가 현",
+          "nl": "Sanmatenga",
+          "pl": "Prowincja Sanmatenga",
+          "pt": "Sanmatenga",
+          "ru": "Санматенга",
+          "sv": "Province du Sanmatenga",
+          "tr": "Sanmatenga Province",
+          "vi": "Sanmatenga",
+          "zh": "桑馬滕加省"
+        },
+        "population": 859066
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5775,
+          13.4485
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "bf",
+        "region_child": "bf-bam",
+        "area": 0.5463090000000004,
+        "bounding_box": [
+          -1.878,
+          12.994,
+          -1.277,
+          13.903
+        ],
+        "point": [
+          -1.5775,
+          13.4485
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "محافظة بام",
+          "bn": "বাম প্রদেশ",
+          "de": "Bam",
+          "en": "Bam Province",
+          "es": "Provincia de Bam",
+          "fr": "Bam",
+          "el": "Μπαμ",
+          "hi": "बार्न प्रांत",
+          "hu": null,
+          "id": "Provinsi Bam",
+          "it": "provincia di Bam",
+          "ja": "バム県",
+          "ko": "밤 현",
+          "nl": "Bam",
+          "pl": "Prowincja Bam",
+          "pt": "Bam",
+          "ru": "Бам",
+          "sv": "Province du Bam",
+          "tr": "Bam",
+          "vi": "Bam",
+          "zh": "巴姆省"
+        },
+        "population": 414176
+      }
+    }
+  ]
+}

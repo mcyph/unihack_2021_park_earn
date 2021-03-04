@@ -1,0 +1,1085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0504999999999995,
+          50.472
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "ahrweiler",
+        "area": 0.20775599999999952,
+        "bounding_box": [
+          6.752,
+          50.298,
+          7.349,
+          50.646
+        ],
+        "point": [
+          7.0504999999999995,
+          50.472
+        ],
+        "labels": {
+          "en": "Ahrweiler"
+        },
+        "population": 120674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7495,
+          50.7505
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "altenkirchen",
+        "area": 0.2336949999999992,
+        "bounding_box": [
+          7.446,
+          50.558,
+          8.053,
+          50.943
+        ],
+        "point": [
+          7.7495,
+          50.7505
+        ],
+        "labels": {
+          "en": "Altenkirchen"
+        },
+        "population": 123738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6865000000000006,
+          49.8195
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "bad kreuznach",
+        "area": 0.2166030000000001,
+        "bounding_box": [
+          7.393,
+          49.635,
+          7.98,
+          50.004
+        ],
+        "point": [
+          7.6865000000000006,
+          49.8195
+        ],
+        "labels": {
+          "en": "Bad Kreuznach"
+        },
+        "population": 152795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.285,
+          49.7315
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "birkenfeld",
+        "area": 0.17760599999999963,
+        "bounding_box": [
+          7.032,
+          49.556,
+          7.538,
+          49.907
+        ],
+        "point": [
+          7.285,
+          49.7315
+        ],
+        "labels": {
+          "en": "Birkenfeld"
+        },
+        "population": 76221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1855,
+          50.121
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "cochem-zell",
+        "area": 0.14195999999999895,
+        "bounding_box": [
+          6.958,
+          49.965,
+          7.413,
+          50.277
+        ],
+        "point": [
+          7.1855,
+          50.121
+        ],
+        "labels": {
+          "en": "Cochem-Zell"
+        },
+        "population": 60515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5975,
+          50.345
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "koblenz coblenz städte",
+        "area": 0.02608200000000097,
+        "bounding_box": [
+          7.494,
+          50.282,
+          7.701,
+          50.408
+        ],
+        "point": [
+          7.5975,
+          50.345
+        ],
+        "labels": {
+          "en": "Koblenz Coblenz Städte"
+        },
+        "population": 108325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3355,
+          50.3155
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "mayen-koblenz",
+        "area": 0.2245949999999984,
+        "bounding_box": [
+          6.979,
+          50.158,
+          7.692,
+          50.473
+        ],
+        "point": [
+          7.3355,
+          50.3155
+        ],
+        "labels": {
+          "en": "Mayen-Koblenz"
+        },
+        "population": 212802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4655000000000005,
+          50.5615
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "neuwied",
+        "area": 0.15319300000000097,
+        "bounding_box": [
+          7.216,
+          50.408,
+          7.715,
+          50.715
+        ],
+        "point": [
+          7.4655000000000005,
+          50.5615
+        ],
+        "labels": {
+          "en": "Neuwied"
+        },
+        "population": 175000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.493499999999999,
+          50.056
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "rhein-hunsrück",
+        "area": 0.24011800000000233,
+        "bounding_box": [
+          7.209,
+          49.845,
+          7.778,
+          50.267
+        ],
+        "point": [
+          7.493499999999999,
+          50.056
+        ],
+        "labels": {
+          "en": "Rhein-Hunsrück"
+        },
+        "population": 99854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8625,
+          50.2425
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "rhein-lahn",
+        "area": 0.19299700000000175,
+        "bounding_box": [
+          7.586,
+          50.068,
+          8.139,
+          50.417
+        ],
+        "point": [
+          7.8625,
+          50.2425
+        ],
+        "labels": {
+          "en": "Rhein-Lahn"
+        },
+        "population": 114421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.888999999999999,
+          50.54
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "westerwaldkreis",
+        "area": 0.21887999999999996,
+        "bounding_box": [
+          7.604,
+          50.348,
+          8.174,
+          50.732
+        ],
+        "point": [
+          7.888999999999999,
+          50.54
+        ],
+        "labels": {
+          "en": "Westerwaldkreis"
+        },
+        "population": 195815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1995,
+          49.741
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "alzey-worms",
+        "area": 0.17648400000000003,
+        "bounding_box": [
+          7.913,
+          49.587,
+          8.486,
+          49.895
+        ],
+        "point": [
+          8.1995,
+          49.741
+        ],
+        "labels": {
+          "en": "Alzey-Worms"
+        },
+        "population": 124287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0755,
+          49.466499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "bad dürkheim",
+        "area": 0.15151500000000256,
+        "bounding_box": [
+          7.835,
+          49.309,
+          8.316,
+          49.624
+        ],
+        "point": [
+          8.0755,
+          49.466499999999996
+        ],
+        "labels": {
+          "en": "Bad Dürkheim"
+        },
+        "population": 128221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.938000000000001,
+          49.627
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "donnersbergkreis",
+        "area": 0.1265880000000006,
+        "bounding_box": [
+          7.707,
+          49.49,
+          8.169,
+          49.764
+        ],
+        "point": [
+          7.938000000000001,
+          49.627
+        ],
+        "labels": {
+          "en": "Donnersbergkreis"
+        },
+        "population": 74346
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.368,
+          49.5355
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "frankenthal städte",
+        "area": 0.011286000000000504,
+        "bounding_box": [
+          8.311,
+          49.486,
+          8.425,
+          49.585
+        ],
+        "point": [
+          8.368,
+          49.5355
+        ],
+        "labels": {
+          "en": "Frankenthal Städte"
+        },
+        "population": 47229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.236999999999998,
+          49.134
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "germersheim",
+        "area": 0.11747999999999935,
+        "bounding_box": [
+          8.059,
+          48.969,
+          8.415,
+          49.299
+        ],
+        "point": [
+          8.236999999999998,
+          49.134
+        ],
+        "labels": {
+          "en": "Germersheim"
+        },
+        "population": 125917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7565,
+          49.429
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "kaiserslautern städte",
+        "area": 0.032026000000000186,
+        "bounding_box": [
+          7.637,
+          49.362,
+          7.876,
+          49.496
+        ],
+        "point": [
+          7.7565,
+          49.429
+        ],
+        "labels": {
+          "en": "Kaiserslautern Städte"
+        },
+        "population": 91780
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7035,
+          49.450500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "kaiserslautern",
+        "area": 0.17225299999999913,
+        "bounding_box": [
+          7.397,
+          49.31,
+          8.01,
+          49.591
+        ],
+        "point": [
+          7.7035,
+          49.450500000000005
+        ],
+        "labels": {
+          "en": "Kaiserslautern"
+        },
+        "population": 103953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.497,
+          49.541
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "kusel",
+        "area": 0.16552800000000284,
+        "bounding_box": [
+          7.255,
+          49.37,
+          7.739,
+          49.712
+        ],
+        "point": [
+          7.497,
+          49.541
+        ],
+        "labels": {
+          "en": "Kusel"
+        },
+        "population": 63633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1055,
+          49.1965
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "landau städte",
+        "area": 0.012877000000000123,
+        "bounding_box": [
+          8.024,
+          49.157,
+          8.187,
+          49.236
+        ],
+        "point": [
+          8.1055,
+          49.1965
+        ],
+        "labels": {
+          "en": "Landau Städte"
+        },
+        "population": 44999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.922499999999999,
+          49.289
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "landau städte",
+        "area": 0.00567000000000019,
+        "bounding_box": [
+          7.87,
+          49.262,
+          7.975,
+          49.316
+        ],
+        "point": [
+          7.922499999999999,
+          49.289
+        ],
+        "labels": {
+          "en": "Landau Städte"
+        },
+        "population": 44999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.388,
+          49.489000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "ludwigshafen städte",
+        "area": 0.020296000000000432,
+        "bounding_box": [
+          8.302,
+          49.43,
+          8.474,
+          49.548
+        ],
+        "point": [
+          8.388,
+          49.489000000000004
+        ],
+        "labels": {
+          "en": "Ludwigshafen Städte"
+        },
+        "population": 154085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0425,
+          49.917
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "mainz-bingen",
+        "area": 0.24990000000000262,
+        "bounding_box": [
+          7.675,
+          49.747,
+          8.41,
+          50.087
+        ],
+        "point": [
+          8.0425,
+          49.917
+        ],
+        "labels": {
+          "en": "Mainz-Bingen"
+        },
+        "population": 207178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2545,
+          49.963499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "mainz städte",
+        "area": 0.027383000000000456,
+        "bounding_box": [
+          8.156,
+          49.894,
+          8.353,
+          50.033
+        ],
+        "point": [
+          8.2545,
+          49.963499999999996
+        ],
+        "labels": {
+          "en": "Mainz Städte"
+        },
+        "population": 213884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.163,
+          49.3485
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "neustadt städte",
+        "area": 0.031915999999999604,
+        "bounding_box": [
+          8.005,
+          49.298,
+          8.321,
+          49.399
+        ],
+        "point": [
+          8.163,
+          49.3485
+        ],
+        "labels": {
+          "en": "Neustadt Städte"
+        },
+        "population": 48994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3725,
+          49.4315
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "rhein-pfalz-kreis",
+        "area": 0.09691500000000097,
+        "bounding_box": [
+          8.236,
+          49.254,
+          8.509,
+          49.609
+        ],
+        "point": [
+          8.3725,
+          49.4315
+        ],
+        "labels": {
+          "en": "Rhein-Pfalz-Kreis"
+        },
+        "population": 152486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.434999999999999,
+          49.337
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "speyer spires städte",
+        "area": 0.010148000000000693,
+        "bounding_box": [
+          8.376,
+          49.294,
+          8.494,
+          49.38
+        ],
+        "point": [
+          8.434999999999999,
+          49.337
+        ],
+        "labels": {
+          "en": "Speyer Spires Städte"
+        },
+        "population": 45365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0805,
+          49.17100000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "südliche weinstraße",
+        "area": 0.1673100000000002,
+        "bounding_box": [
+          7.833,
+          49.002,
+          8.328,
+          49.34
+        ],
+        "point": [
+          8.0805,
+          49.17100000000001
+        ],
+        "labels": {
+          "en": "Südliche Weinstraße"
+        },
+        "population": 108513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6235,
+          49.207
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "südwestpfalz",
+        "area": 0.20845199999999944,
+        "bounding_box": [
+          7.324,
+          49.033,
+          7.923,
+          49.381
+        ],
+        "point": [
+          7.6235,
+          49.207
+        ],
+        "labels": {
+          "en": "Südwestpfalz"
+        },
+        "population": 183019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3485,
+          49.659
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "worms städte",
+        "area": 0.02967799999999909,
+        "bounding_box": [
+          8.244,
+          49.588,
+          8.453,
+          49.73
+        ],
+        "point": [
+          8.3485,
+          49.659
+        ],
+        "labels": {
+          "en": "Worms Städte"
+        },
+        "population": 77051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3740000000000006,
+          49.260999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "zweibrücken städte",
+        "area": 0.020336000000000454,
+        "bounding_box": [
+          7.292,
+          49.199,
+          7.456,
+          49.323
+        ],
+        "point": [
+          7.3740000000000006,
+          49.260999999999996
+        ],
+        "labels": {
+          "en": "Zweibrücken Städte"
+        },
+        "population": 31956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9765,
+          49.902
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "bernkastel-wittlich",
+        "area": 0.2618019999999987,
+        "bounding_box": [
+          6.683,
+          49.679,
+          7.27,
+          50.125
+        ],
+        "point": [
+          6.9765,
+          49.902
+        ],
+        "labels": {
+          "en": "Bernkastel-Wittlich"
+        },
+        "population": 109389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4135,
+          50.0685
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "bitburg-prüm",
+        "area": 0.3199170000000033,
+        "bounding_box": [
+          6.098,
+          49.815,
+          6.729,
+          50.322
+        ],
+        "point": [
+          6.4135,
+          50.0685
+        ],
+        "labels": {
+          "en": "Bitburg-Prüm"
+        },
+        "population": 96163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7165,
+          49.715500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "trier-saarburg",
+        "area": 0.27565499999999876,
+        "bounding_box": [
+          6.364,
+          49.52,
+          7.069,
+          49.911
+        ],
+        "point": [
+          6.7165,
+          49.715500000000006
+        ],
+        "labels": {
+          "en": "Trier-Saarburg"
+        },
+        "population": 149220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.647,
+          49.7785
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "trier städte",
+        "area": 0.03045799999999931,
+        "bounding_box": [
+          6.55,
+          49.7,
+          6.744,
+          49.857
+        ],
+        "point": [
+          6.647,
+          49.7785
+        ],
+        "labels": {
+          "en": "Trier Städte"
+        },
+        "population": 111486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7295,
+          50.227000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "de_kreis",
+        "region_parent": "de-rp",
+        "region_child": "vulkaneifel",
+        "area": 0.22088399999999672,
+        "bounding_box": [
+          6.38,
+          50.069,
+          7.079,
+          50.385
+        ],
+        "point": [
+          6.7295,
+          50.227000000000004
+        ],
+        "labels": {
+          "en": "Vulkaneifel"
+        },
+        "population": 59274
+      }
+    }
+  ]
+}

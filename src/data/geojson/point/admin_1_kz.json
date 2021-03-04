@@ -1,0 +1,1012 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.977,
+          48.617000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-vos",
+        "area": 65.639772,
+        "bounding_box": [
+          76.63,
+          45.548,
+          87.324,
+          51.686
+        ],
+        "point": [
+          81.977,
+          48.617000000000004
+        ],
+        "labels": {
+          "alt": "Shyghys Qazaqstan|Vostochno-Kazakhstan",
+          "local": null,
+          "len": 15,
+          "ar": "أوبليس كازاخستان الشرقي",
+          "bn": "ইস্ট কাজাকাস্তান অঞ্চল",
+          "de": "Ostkasachstan",
+          "en": "East Kazakhstan Region",
+          "es": "Provincia de Kazajistán Oriental",
+          "fr": "Kazakhstan-Oriental",
+          "el": "Περιφέρεια Ανατολικού Καζακστάν",
+          "hi": "पूर्व क़ाज़ाक़स्तान प्रांत",
+          "hu": null,
+          "id": "Provinsi Kazakhstan Timur",
+          "it": "regione del Kazakistan Orientale",
+          "ja": "東カザフスタン州",
+          "ko": "시기스카작스탄 주",
+          "nl": "Oblast Oost-Kazachstan",
+          "pl": "Obwód wschodniokazachstański",
+          "pt": "Cazaquistão Oriental",
+          "ru": "Восточно-Казахстанская область",
+          "sv": "Östkazakstan",
+          "tr": "Doğu Kazakistan Eyaleti",
+          "vi": "Đông Kazakhstan",
+          "zh": "東哈薩克斯坦州"
+        },
+        "population": 1287693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2235,
+          44.747
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-ala",
+        "area": 45.11059400000003,
+        "bounding_box": [
+          73.813,
+          42.19,
+          82.634,
+          47.304
+        ],
+        "point": [
+          78.2235,
+          44.747
+        ],
+        "labels": {
+          "alt": "Alma-Ata|Alma-Atinskaya Oblast'|Almatinskaya Oblast'",
+          "local": null,
+          "len": 6,
+          "ar": "أوبليس ألماطي",
+          "bn": "আলমাটি অঞ্চল",
+          "de": "Almaty",
+          "en": "Almaty Region",
+          "es": "Provincia de Almaty",
+          "fr": "Oblys d'Almaty",
+          "el": "Επαρχία Αλμάτι",
+          "hi": "अलमाती प्रांत",
+          "hu": null,
+          "id": "Provinsi Almaty",
+          "it": "regione di Almaty",
+          "ja": "アルマトイ州",
+          "ko": "알마티 주",
+          "nl": "Oblast Almaty",
+          "pl": "Obwód ałmacki",
+          "pt": "Almaty",
+          "ru": "Алматинская область",
+          "sv": "Almaty",
+          "tr": "Almatı Eyaleti",
+          "vi": "Almaty",
+          "zh": "阿拉木圖州"
+        },
+        "population": 3878020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.92150000000001,
+          43.2965
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-ala",
+        "area": 0.047025000000002495,
+        "bounding_box": [
+          76.809,
+          43.192,
+          77.034,
+          43.401
+        ],
+        "point": [
+          76.92150000000001,
+          43.2965
+        ],
+        "labels": {
+          "alt": "Alma-Ata|Alma-Atinskaya Oblast'|Almatinskaya Oblast'",
+          "local": null,
+          "len": 6,
+          "ar": "أوبليس ألماطي",
+          "bn": "আলমাটি অঞ্চল",
+          "de": "Almaty",
+          "en": "Almaty Region",
+          "es": "Provincia de Almaty",
+          "fr": "Oblys d'Almaty",
+          "el": "Επαρχία Αλμάτι",
+          "hi": "अलमाती प्रांत",
+          "hu": null,
+          "id": "Provinsi Almaty",
+          "it": "regione di Almaty",
+          "ja": "アルマトイ州",
+          "ko": "알마티 주",
+          "nl": "Oblast Almaty",
+          "pl": "Obwód ałmacki",
+          "pt": "Almaty",
+          "ru": "Алматинская область",
+          "sv": "Almaty",
+          "tr": "Almatı Eyaleti",
+          "vi": "Almaty",
+          "zh": "阿拉木圖州"
+        },
+        "population": 3878020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.489,
+          44.1475
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-zha",
+        "area": 24.002412000000014,
+        "bounding_box": [
+          69.171,
+          42.339,
+          75.807,
+          45.956
+        ],
+        "point": [
+          72.489,
+          44.1475
+        ],
+        "labels": {
+          "alt": "Dzhambul",
+          "local": null,
+          "len": 7,
+          "ar": "أوبليس جامبيل",
+          "bn": null,
+          "de": "Schambyl",
+          "en": "Jambyl Province",
+          "es": "Provincia de Zhambyl",
+          "fr": "Oblys de Djamboul",
+          "el": null,
+          "hi": "झ़ामबिल प्रांत",
+          "hu": null,
+          "id": "Provinsi Zhambyl",
+          "it": "regione di Žambyl",
+          "ja": "ジャンブール州",
+          "ko": "잠빌 주",
+          "nl": "Oblast Jambıl",
+          "pl": "Obwód żambylski",
+          "pt": "Jambyl",
+          "ru": "Жамбылская область",
+          "sv": "Zjambyl",
+          "tr": "Jambıl Eyaleti",
+          "vi": "Zhambyl",
+          "zh": "江布爾州"
+        },
+        "population": 1106352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.477,
+          43.2715
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-yuz",
+        "area": 26.55336599999995,
+        "bounding_box": [
+          66.006,
+          40.585,
+          70.948,
+          45.958
+        ],
+        "point": [
+          68.477,
+          43.2715
+        ],
+        "labels": {
+          "alt": "Chimkent",
+          "local": null,
+          "len": 16,
+          "ar": "أوبليس كازاخستان الجنوبي",
+          "bn": "সাউথ কাজাকাস্তান অঞ্চল",
+          "de": "Südkasachstan",
+          "en": "South Kazakhstan Region",
+          "es": "Provincia de Kazajistán Meridional",
+          "fr": "Kazakhstan-Méridional",
+          "el": "Περιφέρεια Νότιου Καζακστάν",
+          "hi": "दक्षिण क़ाज़ाक़स्तान प्रांत",
+          "hu": null,
+          "id": "Provinsi Kazakhstan Selatan",
+          "it": "regione del Kazakistan Meridionale",
+          "ja": "南カザフスタン州",
+          "ko": "옹튀스틱카작스탄 주",
+          "nl": "Oblast Zuid-Kazachstan",
+          "pl": "Obwód południowokazachstański",
+          "pt": "Cazaquistão do Sul",
+          "ru": "Южно-Казахстанская область",
+          "sv": "Sydkazakstan",
+          "tr": "Güney Kazakistan Eyaleti",
+          "vi": "Nam Kazakhstan",
+          "zh": "南哈薩克斯坦州"
+        },
+        "population": 3137755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.466499999999996,
+          43.8695
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-man",
+        "area": 33.84774299999996,
+        "bounding_box": [
+          50.225,
+          41.259,
+          56.708,
+          46.48
+        ],
+        "point": [
+          53.466499999999996,
+          43.8695
+        ],
+        "labels": {
+          "alt": "Mangistau|Mangyshlak",
+          "local": null,
+          "len": 11,
+          "ar": "أوبليس مانكيستاو",
+          "bn": "মঙ্গিস্টৌ অঞ্চল",
+          "de": "Mangghystau",
+          "en": "Mangystau Region",
+          "es": "Provincia de Mangystau",
+          "fr": "Oblys de Manguistaou",
+          "el": "Περιφέρεια Μανγκιστάου",
+          "hi": "मान्गीस्त​ऊ प्रांत",
+          "hu": null,
+          "id": "Provinsi Mangghystau",
+          "it": "regione di Mangghystau",
+          "ja": "マンギスタウ州",
+          "ko": "망기스타우 주",
+          "nl": "Oblast Mañğıstaw",
+          "pl": "Obwód mangystauski",
+          "pt": "Mangghystau",
+          "ru": "Мангистауская область",
+          "sv": "Mangghystaw",
+          "tr": "Mangistav Eyaleti",
+          "vi": "Mangistau",
+          "zh": "曼格斯套州"
+        },
+        "population": 786163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.626999999999995,
+          45.466
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-man",
+        "area": 0.01829999999999981,
+        "bounding_box": [
+          52.552,
+          45.405,
+          52.702,
+          45.527
+        ],
+        "point": [
+          52.626999999999995,
+          45.466
+        ],
+        "labels": {
+          "alt": "Mangistau|Mangyshlak",
+          "local": null,
+          "len": 11,
+          "ar": "أوبليس مانكيستاو",
+          "bn": "মঙ্গিস্টৌ অঞ্চল",
+          "de": "Mangghystau",
+          "en": "Mangystau Region",
+          "es": "Provincia de Mangystau",
+          "fr": "Oblys de Manguistaou",
+          "el": "Περιφέρεια Μανγκιστάου",
+          "hi": "मान्गीस्त​ऊ प्रांत",
+          "hu": null,
+          "id": "Provinsi Mangghystau",
+          "it": "regione di Mangghystau",
+          "ja": "マンギスタウ州",
+          "ko": "망기스타우 주",
+          "nl": "Oblast Mañğıstaw",
+          "pl": "Obwód mangystauski",
+          "pt": "Mangghystau",
+          "ru": "Мангистауская область",
+          "sv": "Mangghystaw",
+          "tr": "Mangistav Eyaleti",
+          "vi": "Mangistau",
+          "zh": "曼格斯套州"
+        },
+        "population": 786163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.711,
+          44.897
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-man",
+        "area": 0.00514800000000039,
+        "bounding_box": [
+          50.678,
+          44.858,
+          50.744,
+          44.936
+        ],
+        "point": [
+          50.711,
+          44.897
+        ],
+        "labels": {
+          "alt": "Mangistau|Mangyshlak",
+          "local": null,
+          "len": 11,
+          "ar": "أوبليس مانكيستاو",
+          "bn": "মঙ্গিস্টৌ অঞ্চল",
+          "de": "Mangghystau",
+          "en": "Mangystau Region",
+          "es": "Provincia de Mangystau",
+          "fr": "Oblys de Manguistaou",
+          "el": "Περιφέρεια Μανγκιστάου",
+          "hi": "मान्गीस्त​ऊ प्रांत",
+          "hu": null,
+          "id": "Provinsi Mangghystau",
+          "it": "regione di Mangghystau",
+          "ja": "マンギスタウ州",
+          "ko": "망기스타우 주",
+          "nl": "Oblast Mañğıstaw",
+          "pl": "Obwód mangystauski",
+          "pt": "Mangghystau",
+          "ru": "Мангистауская область",
+          "sv": "Mangghystaw",
+          "tr": "Mangistav Eyaleti",
+          "vi": "Mangistau",
+          "zh": "曼格斯套州"
+        },
+        "population": 786163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.615,
+          45.0645
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-kzy",
+        "area": 49.76144800000003,
+        "bounding_box": [
+          59.027,
+          42.353,
+          68.203,
+          47.776
+        ],
+        "point": [
+          63.615,
+          45.0645
+        ],
+        "labels": {
+          "alt": "Kyzyl-Orda|Kzyl-Orda|Kzyl-Ordinskaya Oblast'",
+          "local": null,
+          "len": 9,
+          "ar": "أوبليس كيزيلوردا",
+          "bn": "কিজিলোর্দা প্রদেশ",
+          "de": "Qysylorda",
+          "en": "Kyzylorda Province",
+          "es": "Provincia de Kyzylorda",
+          "fr": "Oblys de Kyzylorda",
+          "el": "Περιφέρεια Κιζιλόρντα",
+          "hi": "किज़िलओरदा प्रांत",
+          "hu": null,
+          "id": "Provinsi Qyzylorda",
+          "it": "regione di Qyzylorda",
+          "ja": "クズロルダ州",
+          "ko": "키질로르다 주",
+          "nl": "Oblast Qızılorda",
+          "pl": "Obwód kyzyłordyński",
+          "pt": "Qyzylorda",
+          "ru": "Кызылординская область",
+          "sv": "Qyzylorda",
+          "tr": "Kızılorda Eyaleti",
+          "vi": "Kyzylorda",
+          "zh": "克孜勒奧爾達州"
+        },
+        "population": 739983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.9375,
+          48.229
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-akt",
+        "area": 64.60942199999997,
+        "bounding_box": [
+          53.671,
+          45.162,
+          64.204,
+          51.296
+        ],
+        "point": [
+          58.9375,
+          48.229
+        ],
+        "labels": {
+          "alt": "Aktyubinsk",
+          "local": null,
+          "len": 6,
+          "ar": "أوبليس أكتوبي",
+          "bn": "আকতুবে অঞ্চল",
+          "de": "Aqtöbe",
+          "en": "Aktobe Region",
+          "es": "Provincia de Aktobe",
+          "fr": "Oblys d'Aqtöbe",
+          "el": "Περιφέρεια Ακτόμπε",
+          "hi": "अकतोबे प्रांत",
+          "hu": null,
+          "id": "Provinsi Aqtöbe",
+          "it": "regione di Aqtöbe",
+          "ja": "アクトベ州",
+          "ko": "악퇴베 주",
+          "nl": "Oblast Aqtöbe",
+          "pl": "Obwód aktobski",
+          "pt": "Aqtöbe",
+          "ru": "Актюбинская область",
+          "sv": "Aqtöbe",
+          "tr": "Aktöbe eyaleti",
+          "vi": "Aktobe",
+          "zh": "阿克托貝州"
+        },
+        "population": 897549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.026,
+          53.8215
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-sev",
+        "area": 25.854724000000033,
+        "bounding_box": [
+          66.02,
+          52.208,
+          74.032,
+          55.435
+        ],
+        "point": [
+          70.026,
+          53.8215
+        ],
+        "labels": {
+          "alt": "Severo-Kazakhstan|Soltustik Qazaqstan",
+          "local": null,
+          "len": 16,
+          "ar": "أوبليس كازاخستان الشمالي",
+          "bn": "উত্তর কাজাখস্তান প্রদেশ",
+          "de": "Nordkasachstan",
+          "en": "North Kazakhstan Province",
+          "es": "Provincia de Kazajistán Septentrional",
+          "fr": "Kazakhstan-Septentrional",
+          "el": "Περιφέρεια Βορείου Καζακστάν",
+          "hi": "उत्तर क़ाज़ाक़स्तान प्रांत",
+          "hu": null,
+          "id": "Provinsi Kazakhstan Utara",
+          "it": "regione del Kazakistan Settentrionale",
+          "ja": "北カザフスタン州",
+          "ko": "솔튀스틱카작스탄 주",
+          "nl": "Oblast Noord-Kazachstan",
+          "pl": "Obwód północnokazachstański",
+          "pt": "Cazaquistão do Norte",
+          "ru": "Северо-Казахстанская область",
+          "sv": "Nordkazakstan",
+          "tr": "Kuzey Kazakistan Eyaleti",
+          "vi": "Bắc Kazakhstan",
+          "zh": "北哈薩克斯坦州"
+        },
+        "population": 490356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.1295,
+          51.4225
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-kus",
+        "area": 54.22184099999999,
+        "bounding_box": [
+          59.986,
+          48.151,
+          68.273,
+          54.694
+        ],
+        "point": [
+          64.1295,
+          51.4225
+        ],
+        "labels": {
+          "alt": "Kustanai|Kustanay",
+          "local": null,
+          "len": 8,
+          "ar": "أوبليس كوستناي",
+          "bn": "কুস্টানি অঞ্চল",
+          "de": "Qostanai",
+          "en": "Kostanay Region",
+          "es": "Provincia de Kostanay",
+          "fr": "Oblys de Kostanaï",
+          "el": "Κοστανέι",
+          "hi": "कोस्तानय प्रांत",
+          "hu": "Kosztanaji terület",
+          "id": "Provinsi Qostanay",
+          "it": "regione di Qostanay",
+          "ja": "コスタナイ州",
+          "ko": "코스타나이 주",
+          "nl": "Oblast Qostanay",
+          "pl": "Obwód kustanajski",
+          "pt": "Qostanay",
+          "ru": "Костанайская область",
+          "sv": "Qostanaj",
+          "tr": "Kostanay Eyaleti",
+          "vi": "Kostanay",
+          "zh": "庫斯塔奈州"
+        },
+        "population": 770867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.375,
+          52.232
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-pav",
+        "area": 26.114964000000008,
+        "bounding_box": [
+          73.446,
+          50.003,
+          79.304,
+          54.461
+        ],
+        "point": [
+          76.375,
+          52.232
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "أوبليس بافلودار",
+          "bn": "পাভলোদার প্রদেশ",
+          "de": "Pawlodar",
+          "en": "Pavlodar Province",
+          "es": "Provincia de Pavlodar",
+          "fr": "Oblys de Pavlodar",
+          "el": "Περιφέρεια Παβλοντάρ",
+          "hi": "पाव्लोदार प्रांत",
+          "hu": null,
+          "id": "Provinsi Pavlodar",
+          "it": "regione di Pavlodar",
+          "ja": "パブロダール州",
+          "ko": "파블로다르 주",
+          "nl": "Oblast Pavlodar",
+          "pl": "Obwód pawłodarski",
+          "pt": "Pavlodar",
+          "ru": "Павлодарская область",
+          "sv": "Pavlodar",
+          "tr": "Pavlodar Eyaleti",
+          "vi": "Pavlodar",
+          "zh": "巴甫洛達爾州"
+        },
+        "population": 694064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.515,
+          49.851
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-zap",
+        "area": 30.883472000000015,
+        "bounding_box": [
+          46.479,
+          47.938,
+          54.551,
+          51.764
+        ],
+        "point": [
+          50.515,
+          49.851
+        ],
+        "labels": {
+          "alt": "Ural'sk",
+          "local": null,
+          "len": 15,
+          "ar": "كازاخستان الغربية",
+          "bn": "পশ্চি্চিম কাজাকস্তান প্রদেশ",
+          "de": "Westkasachstan",
+          "en": "West Kazakhstan Province",
+          "es": "Provincia de Kazajistán Occidental",
+          "fr": "Kazakhstan-Occidental",
+          "el": "Περιφέρεια Δυτικού Καζακστάν",
+          "hi": "पश्चिम क़ाज़ाक़स्तान प्रांत",
+          "hu": null,
+          "id": "Provinsi Kazakhstan Barat",
+          "it": "regione del Kazakistan Occidentale",
+          "ja": "西カザフスタン州",
+          "ko": "바티스카작스탄 주",
+          "nl": "Oblast Batıs Qazaqstan",
+          "pl": "Obwód zachodniokazachstański",
+          "pt": "Cazaquistão Ocidental",
+          "ru": "Западно-Казахстанская область",
+          "sv": "Västkazakstan",
+          "tr": "Batı Kazakistan Eyaleti",
+          "vi": "Tây Kazakhstan",
+          "zh": "西哈薩克斯坦州"
+        },
+        "population": 582576
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.762,
+          47.461
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-aty",
+        "area": 32.46821199999997,
+        "bounding_box": [
+          47.051,
+          45.738,
+          56.473,
+          49.184
+        ],
+        "point": [
+          51.762,
+          47.461
+        ],
+        "labels": {
+          "alt": "Ateransk|Gur'yev",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة أتيراو",
+          "bn": "আতিরাউ প্রদেশ",
+          "de": "Atyrau",
+          "en": "Atyrau Province",
+          "es": "Atyrau",
+          "fr": "Oblys d'Atyraou",
+          "el": "Περιφέρεια Ατιράου",
+          "hi": "अतिर​ऊ प्रांत",
+          "hu": null,
+          "id": "Provinsi Atyrau",
+          "it": "regione di Atyrau",
+          "ja": "アティラウ州",
+          "ko": "아티라우 주",
+          "nl": "Oblast Atıraw",
+          "pl": "Obwód atyrauski",
+          "pt": "Atyrau",
+          "ru": "Атырауская область",
+          "sv": "Atyraw",
+          "tr": "Atırav Eyaleti",
+          "vi": "Atyrau",
+          "zh": "阿特勞州"
+        },
+        "population": 514326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.781,
+          46.290499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-aty",
+        "area": 0.015960000000000925,
+        "bounding_box": [
+          49.721,
+          46.224,
+          49.841,
+          46.357
+        ],
+        "point": [
+          49.781,
+          46.290499999999994
+        ],
+        "labels": {
+          "alt": "Ateransk|Gur'yev",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة أتيراو",
+          "bn": "আতিরাউ প্রদেশ",
+          "de": "Atyrau",
+          "en": "Atyrau Province",
+          "es": "Atyrau",
+          "fr": "Oblys d'Atyraou",
+          "el": "Περιφέρεια Ατιράου",
+          "hi": "अतिर​ऊ प्रांत",
+          "hu": null,
+          "id": "Provinsi Atyrau",
+          "it": "regione di Atyrau",
+          "ja": "アティラウ州",
+          "ko": "아티라우 주",
+          "nl": "Oblast Atıraw",
+          "pl": "Obwód atyrauski",
+          "pt": "Atyrau",
+          "ru": "Атырауская область",
+          "sv": "Atyraw",
+          "tr": "Atırav Eyaleti",
+          "vi": "Atyrau",
+          "zh": "阿特勞州"
+        },
+        "population": 514326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.852,
+          51.837500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-akm",
+        "area": 32.73164399999998,
+        "bounding_box": [
+          65.43,
+          49.987,
+          74.274,
+          53.688
+        ],
+        "point": [
+          69.852,
+          51.837500000000006
+        ],
+        "labels": {
+          "alt": "Akmolin|Akmolinsk|Tselinograd",
+          "local": null,
+          "len": 6,
+          "ar": "أوبليس أكمولا",
+          "bn": "আকমুলা অঞ্চল",
+          "de": "Aqmola",
+          "en": "Akmola Region",
+          "es": "Provincia de Akmola",
+          "fr": "Oblys d'Aqmola",
+          "el": "Ακμόλα",
+          "hi": "अकमोला प्रांत",
+          "hu": null,
+          "id": "Provinsi Aqmola",
+          "it": "regione di Aqmola",
+          "ja": "アクモラ州",
+          "ko": "아크몰라 주",
+          "nl": "Oblast Aqmola",
+          "pl": "Obwód akmolski",
+          "pt": "Aqmola",
+          "ru": "Акмолинская область",
+          "sv": "Aqmola",
+          "tr": "Akmola Eyaleti",
+          "vi": "Akmola",
+          "zh": "阿克莫拉州"
+        },
+        "population": 1263827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.1925,
+          48.605000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-kar",
+        "area": 80.4722160000001,
+        "bounding_box": [
+          62.652,
+          45.937,
+          77.733,
+          51.273
+        ],
+        "point": [
+          70.1925,
+          48.605000000000004
+        ],
+        "labels": {
+          "alt": "Karaganda|Karagandinskaya Oblast'",
+          "local": null,
+          "len": 10,
+          "ar": "أوبليس كراغندي",
+          "bn": "কারাগান্ডি অঞ্চল",
+          "de": "Qaraghandy",
+          "en": "Karagandy Region",
+          "es": "Provincia de Karagandá",
+          "fr": "Oblys de Karaganda",
+          "el": "Περιφέρεια Καραγκάντα",
+          "hi": "काराग़ान्दी प्रांत",
+          "hu": "Karagandi terület",
+          "id": "Provinsi Qaraghandy",
+          "it": "regione di Karaganda",
+          "ja": "カラガンダ州",
+          "ko": "카라간다 주",
+          "nl": "Oblast Qarağandı",
+          "pl": "Obwód karagandzki",
+          "pt": "Qaraghandy",
+          "ru": "Карагандинская область",
+          "sv": "Qaraghandy",
+          "tr": "Karagandı Eyaleti",
+          "vi": "Karagandy",
+          "zh": "卡拉干達州"
+        },
+        "population": 1283662
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4285,
+          51.1375
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "kz",
+        "region_child": "kz-ast",
+        "area": 0.11602499999999825,
+        "bounding_box": [
+          71.25,
+          50.975,
+          71.607,
+          51.3
+        ],
+        "point": [
+          71.4285,
+          51.1375
+        ],
+        "labels": {
+          "alt": null,
+          "local": "Астана қаласы",
+          "len": 6,
+          "ar": "أستانة",
+          "bn": "আস্তানা",
+          "de": "Astana",
+          "en": "Astana",
+          "es": "Astaná",
+          "fr": "Astana",
+          "el": "Αστανά",
+          "hi": "अस्ताना",
+          "hu": "Asztana",
+          "id": "Astana",
+          "it": "Astana",
+          "ja": "アスタナ",
+          "ko": "아스타나",
+          "nl": "Astana",
+          "pl": "Astana",
+          "pt": "Astana",
+          "ru": "Астана",
+          "sv": "Astana",
+          "tr": "Astana",
+          "vi": "Astana",
+          "zh": "阿斯塔納"
+        },
+        "population": 564307
+      }
+    }
+  ]
+}

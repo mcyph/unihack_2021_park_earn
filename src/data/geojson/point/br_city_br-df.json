@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.7975,
+          -15.7755
+        ]
+      },
+      "properties": {
+        "region_schema": "br_city",
+        "region_parent": "br-df",
+        "region_child": "brasília",
+        "area": 0.5394289999999979,
+        "bounding_box": [
+          -48.287,
+          -16.051,
+          -47.308,
+          -15.5
+        ],
+        "point": [
+          -47.7975,
+          -15.7755
+        ],
+        "labels": {
+          "en": "Brasília"
+        },
+        "population": 3225477
+      }
+    }
+  ]
+}

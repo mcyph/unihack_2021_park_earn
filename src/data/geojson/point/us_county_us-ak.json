@@ -1,0 +1,2435 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.125,
+          55.436
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "130",
+        "area": 4.465880000000035,
+        "bounding_box": [
+          -132.276,
+          54.466,
+          -129.974,
+          56.406
+        ],
+        "point": [
+          -131.125,
+          55.436
+        ],
+        "labels": {
+          "en": "Ketchikan Gateway"
+        },
+        "population": 12905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.87099999999998,
+          66.866
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "188",
+        "area": 32.72410000000009,
+        "bounding_box": [
+          -165.596,
+          65.437,
+          -154.146,
+          68.295
+        ],
+        "point": [
+          -159.87099999999998,
+          66.866
+        ],
+        "labels": {
+          "en": "Northwest Arctic"
+        },
+        "population": 7852
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.441,
+          57.0745
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "220",
+        "area": 3.754178000000008,
+        "bounding_box": [
+          -136.454,
+          56.148,
+          -134.428,
+          58.001
+        ],
+        "point": [
+          -135.441,
+          57.0745
+        ],
+        "labels": {
+          "en": "Sitka"
+        },
+        "population": 8927
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.025,
+          65.223
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "290",
+        "area": 131.381484,
+        "bounding_box": [
+          -161.048,
+          61.946,
+          -141.002,
+          68.5
+        ],
+        "point": [
+          -151.025,
+          65.223
+        ],
+        "labels": {
+          "en": "Yukon-Koyukuk"
+        },
+        "population": 4801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.44299999999998,
+          61.1085
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "020",
+        "area": 1.4734620000000225,
+        "bounding_box": [
+          -150.424,
+          60.733,
+          -148.462,
+          61.484
+        ],
+        "point": [
+          -149.44299999999998,
+          61.1085
+        ],
+        "labels": {
+          "en": "Anchorage"
+        },
+        "population": 327176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.95350000000002,
+          55.8995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "198",
+        "area": 8.687444999999993,
+        "bounding_box": [
+          -134.667,
+          54.632,
+          -131.24,
+          57.167
+        ],
+        "point": [
+          -132.95350000000002,
+          55.8995
+        ],
+        "labels": {
+          "en": "Prince of Wales-Hyder"
+        },
+        "population": 5596
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.196,
+          55.945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "198",
+        "area": 0.13741600000000648,
+        "bounding_box": [
+          -130.389,
+          55.767,
+          -130.003,
+          56.123
+        ],
+        "point": [
+          -130.196,
+          55.945
+        ],
+        "labels": {
+          "en": "Prince of Wales-Hyder"
+        },
+        "population": 5596
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.892,
+          57.087
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "195",
+        "area": 2.480016000000034,
+        "bounding_box": [
+          -133.739,
+          56.355,
+          -132.045,
+          57.819
+        ],
+        "point": [
+          -132.892,
+          57.087
+        ],
+        "labels": {
+          "en": "Petersburg"
+        },
+        "population": 2871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.084,
+          56.2685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "275",
+        "area": 2.7537300000000164,
+        "bounding_box": [
+          -133.169,
+          55.634,
+          -130.999,
+          56.903
+        ],
+        "point": [
+          -132.084,
+          56.2685
+        ],
+        "labels": {
+          "en": "Wrangell"
+        },
+        "population": 2289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.1945,
+          58.3805
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "110",
+        "area": 2.4028750000000274,
+        "bounding_box": [
+          -135.217,
+          57.793,
+          -133.172,
+          58.968
+        ],
+        "point": [
+          -134.1945,
+          58.3805
+        ],
+        "labels": {
+          "en": "Juneau"
+        },
+        "population": 31857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.656,
+          60.039500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "122",
+        "area": 17.153778000000038,
+        "bounding_box": [
+          -154.749,
+          58.653,
+          -148.563,
+          61.426
+        ],
+        "point": [
+          -151.656,
+          60.039500000000004
+        ],
+        "labels": {
+          "en": "Kenai Peninsula"
+        },
+        "population": 61787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.0,
+          63.542
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "068",
+        "area": 9.79200000000003,
+        "bounding_box": [
+          -153.0,
+          62.726,
+          -147.0,
+          64.358
+        ],
+        "point": [
+          -150.0,
+          63.542
+        ],
+        "labels": {
+          "en": "Denali"
+        },
+        "population": 1757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.0005,
+          63.8715
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "240",
+        "area": 23.60606499999995,
+        "bounding_box": [
+          -147.0,
+          61.904,
+          -141.001,
+          65.839
+        ],
+        "point": [
+          -144.0005,
+          63.8715
+        ],
+        "labels": {
+          "en": "Southeast Fairbanks"
+        },
+        "population": 8002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.9755,
+          61.468500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "261",
+        "area": 27.80655300000003,
+        "bounding_box": [
+          -148.949,
+          59.719,
+          -141.002,
+          63.218
+        ],
+        "point": [
+          -144.9755,
+          61.468500000000006
+        ],
+        "labels": {
+          "en": "Valdez-Cordova"
+        },
+        "population": 9109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.327,
+          59.4615
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "261",
+        "area": 0.09158600000000591,
+        "bounding_box": [
+          -146.508,
+          59.335,
+          -146.146,
+          59.588
+        ],
+        "point": [
+          -146.327,
+          59.4615
+        ],
+        "labels": {
+          "en": "Valdez-Cordova"
+        },
+        "population": 9109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.27800000000002,
+          64.855
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "090",
+        "area": 5.704920000000002,
+        "bounding_box": [
+          -148.663,
+          64.257,
+          -143.893,
+          65.453
+        ],
+        "point": [
+          -146.27800000000002,
+          64.855
+        ],
+        "labels": {
+          "en": "Fairbanks North Star"
+        },
+        "population": 114933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.4085,
+          58.924
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "100",
+        "area": 3.506100000000007,
+        "bounding_box": [
+          -136.496,
+          58.118,
+          -134.321,
+          59.73
+        ],
+        "point": [
+          -135.4085,
+          58.924
+        ],
+        "labels": {
+          "en": "Haines"
+        },
+        "population": 2634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.26,
+          60.3945
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "050",
+        "area": 47.53844,
+        "bounding_box": [
+          -165.52,
+          58.496,
+          -153.0,
+          62.293
+        ],
+        "point": [
+          -159.26,
+          60.3945
+        ],
+        "labels": {
+          "en": "Bethel"
+        },
+        "population": 18038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.481,
+          60.102500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "050",
+        "area": 1.763086000000013,
+        "bounding_box": [
+          -167.56,
+          59.694,
+          -165.402,
+          60.511
+        ],
+        "point": [
+          -166.481,
+          60.102500000000006
+        ],
+        "labels": {
+          "en": "Bethel"
+        },
+        "population": 18038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.6705,
+          60.4935
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "050",
+        "area": 0.5716069999999955,
+        "bounding_box": [
+          -173.232,
+          60.239,
+          -172.109,
+          60.748
+        ],
+        "point": [
+          -172.6705,
+          60.4935
+        ],
+        "labels": {
+          "en": "Bethel"
+        },
+        "population": 18038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.762,
+          60.200500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "050",
+        "area": 0.031487999999999405,
+        "bounding_box": [
+          -172.89,
+          60.139,
+          -172.634,
+          60.262
+        ],
+        "point": [
+          -172.762,
+          60.200500000000005
+        ],
+        "labels": {
+          "en": "Bethel"
+        },
+        "population": 18038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6485,
+          58.272
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "164",
+        "area": 34.25780400000008,
+        "bounding_box": [
+          -159.9,
+          55.638,
+          -153.397,
+          60.906
+        ],
+        "point": [
+          -156.6485,
+          58.272
+        ],
+        "labels": {
+          "en": "Lake and Peninsula"
+        },
+        "population": 1460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.15699999999998,
+          58.7515
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "060",
+        "area": 0.4535340000000111,
+        "bounding_box": [
+          -158.0,
+          58.617,
+          -156.314,
+          58.886
+        ],
+        "point": [
+          -157.15699999999998,
+          58.7515
+        ],
+        "labels": {
+          "en": "Bristol Bay"
+        },
+        "population": 790
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.6825,
+          59.6635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "070",
+        "area": 14.265535000000018,
+        "bounding_box": [
+          -161.365,
+          58.334,
+          -156.0,
+          60.993
+        ],
+        "point": [
+          -158.6825,
+          59.6635
+        ],
+        "labels": {
+          "en": "Dillingham"
+        },
+        "population": 4773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.3205,
+          58.667
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "070",
+        "area": 0.11711400000000091,
+        "bounding_box": [
+          -160.544,
+          58.536,
+          -160.097,
+          58.798
+        ],
+        "point": [
+          -160.3205,
+          58.667
+        ],
+        "labels": {
+          "en": "Dillingham"
+        },
+        "population": 4773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.9805,
+          58.6005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "070",
+        "area": 0.030785000000001842,
+        "bounding_box": [
+          -160.098,
+          58.535,
+          -159.863,
+          58.666
+        ],
+        "point": [
+          -159.9805,
+          58.6005
+        ],
+        "labels": {
+          "en": "Dillingham"
+        },
+        "population": 4773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.71300000000002,
+          62.281
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "170",
+        "area": 15.813511999999983,
+        "bounding_box": [
+          -153.002,
+          61.079,
+          -146.424,
+          63.483
+        ],
+        "point": [
+          -149.71300000000002,
+          62.281
+        ],
+        "labels": {
+          "en": "Matanuska-Susitna"
+        },
+        "population": 133515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.96550000000002,
+          55.641000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "013",
+        "area": 16.020943999999982,
+        "bounding_box": [
+          -165.037,
+          54.337,
+          -158.894,
+          56.945
+        ],
+        "point": [
+          -161.96550000000002,
+          55.641000000000005
+        ],
+        "labels": {
+          "en": "Aleutians East"
+        },
+        "population": 3658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.45350000000002,
+          54.13249999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "013",
+        "area": 0.6689849999999943,
+        "bounding_box": [
+          -166.226,
+          53.916,
+          -164.681,
+          54.349
+        ],
+        "point": [
+          -165.45350000000002,
+          54.13249999999999
+        ],
+        "labels": {
+          "en": "Aleutians East"
+        },
+        "population": 3658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.626,
+          54.396
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "013",
+        "area": 0.24521600000000524,
+        "bounding_box": [
+          -163.014,
+          54.238,
+          -162.238,
+          54.554
+        ],
+        "point": [
+          -162.626,
+          54.396
+        ],
+        "labels": {
+          "en": "Aleutians East"
+        },
+        "population": 3658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.6645,
+          54.796499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "013",
+        "area": 0.09652500000000103,
+        "bounding_box": [
+          -159.912,
+          54.699,
+          -159.417,
+          54.894
+        ],
+        "point": [
+          -159.6645,
+          54.796499999999995
+        ],
+        "labels": {
+          "en": "Aleutians East"
+        },
+        "population": 3658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.14999999999998,
+          55.437
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "013",
+        "area": 0.0458719999999988,
+        "bounding_box": [
+          -163.272,
+          55.343,
+          -163.028,
+          55.531
+        ],
+        "point": [
+          -163.14999999999998,
+          55.437
+        ],
+        "labels": {
+          "en": "Aleutians East"
+        },
+        "population": 3658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.101,
+          55.156499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "013",
+        "area": 0.01936399999999907,
+        "bounding_box": [
+          -161.195,
+          55.105,
+          -161.007,
+          55.208
+        ],
+        "point": [
+          -161.101,
+          55.156499999999994
+        ],
+        "labels": {
+          "en": "Aleutians East"
+        },
+        "population": 3658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.728,
+          54.805499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "013",
+        "area": 0.019109999999998167,
+        "bounding_box": [
+          -162.819,
+          54.753,
+          -162.637,
+          54.858
+        ],
+        "point": [
+          -162.728,
+          54.805499999999995
+        ],
+        "labels": {
+          "en": "Aleutians East"
+        },
+        "population": 3658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.2385,
+          62.117000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "158",
+        "area": 14.64239999999999,
+        "bounding_box": [
+          -166.289,
+          60.917,
+          -160.188,
+          63.317
+        ],
+        "point": [
+          -163.2385,
+          62.117000000000004
+        ],
+        "labels": {
+          "en": "Kusilvak"
+        },
+        "population": 7916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.9865,
+          69.72
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "185",
+        "area": 89.34023999999995,
+        "bounding_box": [
+          -166.972,
+          68.0,
+          -141.001,
+          71.44
+        ],
+        "point": [
+          -153.9865,
+          69.72
+        ],
+        "labels": {
+          "en": "North Slope"
+        },
+        "population": 12041
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.80450000000002,
+          64.8195
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "180",
+        "area": 32.01082499999992,
+        "bounding_box": [
+          -168.232,
+          63.012,
+          -159.377,
+          66.627
+        ],
+        "point": [
+          -163.80450000000002,
+          64.8195
+        ],
+        "labels": {
+          "en": "Nome"
+        },
+        "population": 9798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.272,
+          63.3645
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "180",
+        "area": 3.2471740000000064,
+        "bounding_box": [
+          -171.965,
+          62.885,
+          -168.579,
+          63.844
+        ],
+        "point": [
+          -170.272,
+          63.3645
+        ],
+        "labels": {
+          "en": "Nome"
+        },
+        "population": 9798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.064,
+          64.976
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "180",
+        "area": 0.04020000000000162,
+        "bounding_box": [
+          -168.214,
+          64.909,
+          -167.914,
+          65.043
+        ],
+        "point": [
+          -168.064,
+          64.976
+        ],
+        "labels": {
+          "en": "Nome"
+        },
+        "population": 9798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.30700000000002,
+          64.12549999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "180",
+        "area": 0.03302000000000124,
+        "bounding_box": [
+          -161.437,
+          64.062,
+          -161.177,
+          64.189
+        ],
+        "point": [
+          -161.30700000000002,
+          64.12549999999999
+        ],
+        "labels": {
+          "en": "Nome"
+        },
+        "population": 9798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.86700000000002,
+          65.753
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "180",
+        "area": 0.028980000000002195,
+        "bounding_box": [
+          -168.972,
+          65.684,
+          -168.762,
+          65.822
+        ],
+        "point": [
+          -168.86700000000002,
+          65.753
+        ],
+        "labels": {
+          "en": "Nome"
+        },
+        "population": 9798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.748,
+          65.6225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "180",
+        "area": 0.024926000000001083,
+        "bounding_box": [
+          -168.869,
+          65.571,
+          -168.627,
+          65.674
+        ],
+        "point": [
+          -168.748,
+          65.6225
+        ],
+        "labels": {
+          "en": "Nome"
+        },
+        "population": 9798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.7465,
+          63.6035
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "180",
+        "area": 0.023175000000002687,
+        "bounding_box": [
+          -161.859,
+          63.552,
+          -161.634,
+          63.655
+        ],
+        "point": [
+          -161.7465,
+          63.6035
+        ],
+        "labels": {
+          "en": "Nome"
+        },
+        "population": 9798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.564,
+          52.0045
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 5.131280000000012,
+        "bounding_box": [
+          -178.308,
+          51.537,
+          -172.82,
+          52.472
+        ],
+        "point": [
+          -175.564,
+          52.0045
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -167.625,
+          53.392
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 4.6090159999999925,
+        "bounding_box": [
+          -169.327,
+          52.715,
+          -165.923,
+          54.069
+        ],
+        "point": [
+          -167.625,
+          53.392
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.9645,
+          52.8735
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.4722389999999852,
+        "bounding_box": [
+          172.348,
+          52.682,
+          173.581,
+          53.065
+        ],
+        "point": [
+          172.9645,
+          52.8735
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.05450000000002,
+          51.5055
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.44288100000000064,
+        "bounding_box": [
+          178.531,
+          51.294,
+          179.578,
+          51.717
+        ],
+        "point": [
+          179.05450000000002,
+          51.5055
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.925,
+          52.897999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.33040000000000896,
+        "bounding_box": [
+          -170.275,
+          52.662,
+          -169.575,
+          53.134
+        ],
+        "point": [
+          -169.925,
+          52.897999999999996
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.493,
+          51.9735
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.3284219999999982,
+        "bounding_box": [
+          177.112,
+          51.758,
+          177.874,
+          52.189
+        ],
+        "point": [
+          177.493,
+          51.9735
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.3355,
+          51.977000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.17445999999999665,
+        "bounding_box": [
+          178.0,
+          51.847,
+          178.671,
+          52.107
+        ],
+        "point": [
+          178.3355,
+          51.977000000000004
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.5645,
+          52.429
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.1597420000000001,
+        "bounding_box": [
+          173.273,
+          52.292,
+          173.856,
+          52.566
+        ],
+        "point": [
+          173.5645,
+          52.429
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.26749999999998,
+          57.1505
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.15789899999999737,
+        "bounding_box": [
+          -170.523,
+          56.996,
+          -170.012,
+          57.305
+        ],
+        "point": [
+          -170.26749999999998,
+          57.1505
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.786,
+          51.57599999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.13104000000000135,
+        "bounding_box": [
+          -179.15,
+          51.486,
+          -178.422,
+          51.666
+        ],
+        "point": [
+          -178.786,
+          51.57599999999999
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.466,
+          52.3215
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.1259699999999977,
+        "bounding_box": [
+          -172.721,
+          52.198,
+          -172.211,
+          52.445
+        ],
+        "point": [
+          -172.466,
+          52.3215
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.6245,
+          51.9485
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.1219890000000011,
+        "bounding_box": [
+          179.389,
+          51.819,
+          179.86,
+          52.078
+        ],
+        "point": [
+          179.6245,
+          51.9485
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.70049999999998,
+          52.6195
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.12004500000000104,
+        "bounding_box": [
+          -170.927,
+          52.487,
+          -170.474,
+          52.752
+        ],
+        "point": [
+          -170.70049999999998,
+          52.6195
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -179.0275,
+          51.316
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.11477399999999646,
+        "bounding_box": [
+          -179.231,
+          51.175,
+          -178.824,
+          51.457
+        ],
+        "point": [
+          -179.0275,
+          51.316
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.629,
+          56.57899999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.09638400000000191,
+        "bounding_box": [
+          -169.88,
+          56.483,
+          -169.378,
+          56.675
+        ],
+        "point": [
+          -169.629,
+          56.57899999999999
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.2065,
+          52.5155
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.09337500000000087,
+        "bounding_box": [
+          -171.394,
+          52.391,
+          -171.019,
+          52.64
+        ],
+        "point": [
+          -171.2065,
+          52.5155
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.00549999999998,
+          52.7455
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.08323500000000156,
+        "bounding_box": [
+          173.773,
+          52.656,
+          174.238,
+          52.835
+        ],
+        "point": [
+          174.00549999999998,
+          52.7455
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.3095,
+          51.7965
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.06974499999999736,
+        "bounding_box": [
+          178.121,
+          51.704,
+          178.498,
+          51.889
+        ],
+        "point": [
+          178.3095,
+          51.7965
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.802,
+          51.790499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.06045000000000053,
+        "bounding_box": [
+          -178.957,
+          51.693,
+          -178.647,
+          51.888
+        ],
+        "point": [
+          -178.802,
+          51.790499999999994
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.914,
+          52.3605
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.04801799999999848,
+        "bounding_box": [
+          175.763,
+          52.281,
+          176.065,
+          52.44
+        ],
+        "point": [
+          175.914,
+          52.3605
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -177.4425,
+          51.911500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.03131699999999775,
+        "bounding_box": [
+          -177.552,
+          51.84,
+          -177.333,
+          51.983
+        ],
+        "point": [
+          -177.4425,
+          51.911500000000004
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.3095,
+          51.4805
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.029403000000001647,
+        "bounding_box": [
+          -178.431,
+          51.42,
+          -178.188,
+          51.541
+        ],
+        "point": [
+          -178.3095,
+          51.4805
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.507,
+          52.1725
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.02698600000000231,
+        "bounding_box": [
+          -175.61,
+          52.107,
+          -175.404,
+          52.238
+        ],
+        "point": [
+          -175.507,
+          52.1725
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.9495,
+          57.183499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.02231100000000184,
+        "bounding_box": [
+          -170.05,
+          57.128,
+          -169.849,
+          57.239
+        ],
+        "point": [
+          -169.9495,
+          57.183499999999995
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.13049999999998,
+          52.221999999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.022301999999999565,
+        "bounding_box": [
+          -175.225,
+          52.163,
+          -175.036,
+          52.281
+        ],
+        "point": [
+          -175.13049999999998,
+          52.221999999999994
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.04399999999998,
+          53.935
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.021839999999998087,
+        "bounding_box": [
+          -168.135,
+          53.875,
+          -167.953,
+          53.995
+        ],
+        "point": [
+          -168.04399999999998,
+          53.935
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3635,
+          52.123
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.017368000000000033,
+        "bounding_box": [
+          177.28,
+          52.071,
+          177.447,
+          52.175
+        ],
+        "point": [
+          177.3635,
+          52.123
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.017,
+          51.872
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "016",
+        "area": 0.01693200000000032,
+        "bounding_box": [
+          177.934,
+          51.821,
+          178.1,
+          51.923
+        ],
+        "point": [
+          178.017,
+          51.872
+        ],
+        "labels": {
+          "en": "Aleutians West"
+        },
+        "population": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.3125,
+          57.556
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "150",
+        "area": 7.789685999999992,
+        "bounding_box": [
+          -154.934,
+          56.355,
+          -151.691,
+          58.757
+        ],
+        "point": [
+          -153.3125,
+          57.556
+        ],
+        "labels": {
+          "en": "Kodiak Island"
+        },
+        "population": 13276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.9515,
+          57.9795
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "150",
+        "area": 6.668947000000038,
+        "bounding_box": [
+          -156.751,
+          57.053,
+          -153.152,
+          58.906
+        ],
+        "point": [
+          -154.9515,
+          57.9795
+        ],
+        "labels": {
+          "en": "Kodiak Island"
+        },
+        "population": 13276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.1595,
+          58.9185
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "150",
+        "area": 0.12115500000000347,
+        "bounding_box": [
+          -152.467,
+          58.82,
+          -151.852,
+          59.017
+        ],
+        "point": [
+          -152.1595,
+          58.9185
+        ],
+        "labels": {
+          "en": "Kodiak Island"
+        },
+        "population": 13276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.725,
+          56.1165
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "150",
+        "area": 0.11641199999999757,
+        "bounding_box": [
+          -156.903,
+          55.953,
+          -156.547,
+          56.28
+        ],
+        "point": [
+          -156.725,
+          56.1165
+        ],
+        "labels": {
+          "en": "Kodiak Island"
+        },
+        "population": 13276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.64499999999998,
+          55.8155
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "150",
+        "area": 0.0887039999999947,
+        "bounding_box": [
+          -155.837,
+          55.7,
+          -155.453,
+          55.931
+        ],
+        "point": [
+          -155.64499999999998,
+          55.8155
+        ],
+        "labels": {
+          "en": "Kodiak Island"
+        },
+        "population": 13276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.69650000000001,
+          59.665
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "282",
+        "area": 10.957601999999993,
+        "bounding_box": [
+          -143.893,
+          58.808,
+          -137.5,
+          60.522
+        ],
+        "point": [
+          -140.69650000000001,
+          59.665
+        ],
+        "labels": {
+          "en": "Yakutat"
+        },
+        "population": 542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3535,
+          59.572
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "230",
+        "area": 0.3286040000000056,
+        "bounding_box": [
+          -135.717,
+          59.346,
+          -134.99,
+          59.798
+        ],
+        "point": [
+          -135.3535,
+          59.572
+        ],
+        "labels": {
+          "en": "Skagway"
+        },
+        "population": 1089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.848,
+          58.063500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "105",
+        "area": 10.516380000000073,
+        "bounding_box": [
+          -138.038,
+          56.863,
+          -133.658,
+          59.264
+        ],
+        "point": [
+          -135.848,
+          58.063500000000005
+        ],
+        "labels": {
+          "en": "Hoonah-Angoon"
+        },
+        "population": 1790
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.1735,
+          57.8635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "105",
+        "area": 0.6020250000000013,
+        "bounding_box": [
+          -133.697,
+          57.576,
+          -132.65,
+          58.151
+        ],
+        "point": [
+          -133.1735,
+          57.8635
+        ],
+        "labels": {
+          "en": "Hoonah-Angoon"
+        },
+        "population": 1790
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.8905,
+          59.3985
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ak",
+        "region_child": "105",
+        "area": 0.0018249999999993733,
+        "bounding_box": [
+          -135.927,
+          59.386,
+          -135.854,
+          59.411
+        ],
+        "point": [
+          -135.8905,
+          59.3985
+        ],
+        "labels": {
+          "en": "Hoonah-Angoon"
+        },
+        "population": 1790
+      }
+    }
+  ]
+}

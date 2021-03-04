@@ -1,0 +1,906 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.244,
+          9.7965
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-vk",
+        "area": 6.889739999999995,
+        "bounding_box": [
+          20.814,
+          8.592,
+          23.674,
+          11.001
+        ],
+        "point": [
+          22.244,
+          9.7965
+        ],
+        "labels": {
+          "alt": "Birao",
+          "local": null,
+          "len": 6,
+          "ar": "محافظة فاكاجا",
+          "bn": "ভাকাগা প্রশাসনিক অঞ্চল",
+          "de": "Vakaga",
+          "en": "Vakaga Prefecture",
+          "es": "Vakaga",
+          "fr": "Vakaga",
+          "el": "Βακάγκα",
+          "hi": "वकागा प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Vakaga",
+          "it": "prefettura di Vakaga",
+          "ja": "バカガ州",
+          "ko": "바카가 주",
+          "nl": "Vakaga",
+          "pl": "Prefektura Vakaga",
+          "pt": "Vakaga",
+          "ru": "Вакага",
+          "sv": "Vakaga",
+          "tr": "Vakaga",
+          "vi": "Tỉnh Vakaga",
+          "zh": "瓦卡加省"
+        },
+        "population": 68533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8495,
+          7.3565
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-hk",
+        "area": 13.129107000000003,
+        "bounding_box": [
+          21.105,
+          5.475,
+          24.594,
+          9.238
+        ],
+        "point": [
+          22.8495,
+          7.3565
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "محافظة هوت-كوتو",
+          "bn": "হাউতে-কোতো প্রশাসনিক অঞ্চল",
+          "de": "Haute-Kotto",
+          "en": "Haute-Kotto Prefecture",
+          "es": "Haute-Kotto",
+          "fr": "Haute-Kotto",
+          "el": "Χότε-Κόττο",
+          "hi": "ओट-कोटो प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Haute-Kotto",
+          "it": "prefettura di Haute-Kotto",
+          "ja": "オート・コト州",
+          "ko": "오트코토 주",
+          "nl": "Haute-Kotto",
+          "pl": "Prefektura Haute-Kotto",
+          "pt": "Haute-Kotto",
+          "ru": "Верхнее Котто",
+          "sv": "Haute-Kotto",
+          "tr": "Haute-Kotto",
+          "vi": "Tỉnh Haute-Kotto",
+          "zh": "上科托省"
+        },
+        "population": 124224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.851,
+          6.5955
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-hm",
+        "area": 10.656180000000003,
+        "bounding_box": [
+          24.261,
+          4.92,
+          27.441,
+          8.271
+        ],
+        "point": [
+          25.851,
+          6.5955
+        ],
+        "labels": {
+          "alt": "Haut-M'bomou|Obo-Zemio",
+          "local": null,
+          "len": 11,
+          "ar": "محافظة هوت مبومو",
+          "bn": "হাাউত-ম্বমৌ প্রশাসনিক অঞ্চল",
+          "de": "Haut-Mbomou",
+          "en": "Haut-Mbomou Prefecture",
+          "es": "Haut-Mbomou",
+          "fr": "Haut-Mbomou",
+          "el": "Χοτ-Μπόμου",
+          "hi": "ओट-बोमू प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Haut-Mbomou",
+          "it": "prefettura di Haut-Mbomou",
+          "ja": "オー・ムボム州",
+          "ko": "오트음보무 주",
+          "nl": "Haut-Mbomou",
+          "pl": "Prefektura Haut-Mbomou",
+          "pt": "Haut-Mbomou",
+          "ru": "Верхнее Мбому",
+          "sv": "Haut-Mbomou",
+          "tr": "Haut-Mbomou",
+          "vi": "Quận Haut-Mbomou",
+          "zh": "上姆博穆省"
+        },
+        "population": 80078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.314500000000002,
+          5.737500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-kg",
+        "area": 2.2570109999999994,
+        "bounding_box": [
+          18.614,
+          4.932,
+          20.015,
+          6.543
+        ],
+        "point": [
+          19.314500000000002,
+          5.737500000000001
+        ],
+        "labels": {
+          "alt": "Kémo-Gribingui|Kémo-Ibingui",
+          "local": null,
+          "len": 4,
+          "ar": "محافظة كيمو",
+          "bn": "কেমো প্রশাসনিক অঞ্চল",
+          "de": "Kémo",
+          "en": "Kémo Prefecture",
+          "es": "Kémo",
+          "fr": "Kémo",
+          "el": "Κέμο",
+          "hi": "केमो प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Kémo",
+          "it": "prefettura di Kémo",
+          "ja": "ケモ州",
+          "ko": "케모 주",
+          "nl": "Kémo",
+          "pl": "Prefektura Kémo",
+          "pt": "Kémo",
+          "ru": "Кемо",
+          "sv": "Préfecture de la Kémo",
+          "tr": "Kémo",
+          "vi": "Tỉnh Kémo",
+          "zh": "凱莫省"
+        },
+        "population": 161516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.707,
+          6.114000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-uk",
+        "area": 7.836948000000003,
+        "bounding_box": [
+          19.474,
+          4.525,
+          21.94,
+          7.703
+        ],
+        "point": [
+          20.707,
+          6.114000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة أواكا",
+          "bn": "ওউকা প্রশাসনিক অঞ্চল",
+          "de": "Ouaka",
+          "en": "Ouaka Prefecture",
+          "es": "Ouaka",
+          "fr": "Ouaka",
+          "el": "Ουάκα",
+          "hi": "ओका प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Ouaka",
+          "it": "prefettura di Ouaka",
+          "ja": "ワカ州",
+          "ko": "와카 주",
+          "nl": "Ouaka",
+          "pl": "Prefektura Ouaka",
+          "pt": "Ouaka",
+          "ru": "Уака",
+          "sv": "Ouaka",
+          "tr": "Ouaka Bölgesi",
+          "vi": "Tỉnh Ouaka",
+          "zh": "瓦卡省"
+        },
+        "population": 379919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2955,
+          4.978
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-bk",
+        "area": 2.512146,
+        "bounding_box": [
+          20.457,
+          4.229,
+          22.134,
+          5.727
+        ],
+        "point": [
+          21.2955,
+          4.978
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "محافظة باس-كوتو",
+          "bn": "বাস্যি-কোতো প্রশাসনিক অঞ্চল",
+          "de": "Basse-Kotto",
+          "en": "Basse-Kotto Prefecture",
+          "es": "Basse-Kotto",
+          "fr": "Basse-Kotto",
+          "el": "Μπάσσε-Κόττο",
+          "hi": "बैसे-कोटो प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Basse-Kotto",
+          "it": "prefettura di Basse-Kotto",
+          "ja": "バス・コト州",
+          "ko": "바스코토 주",
+          "nl": "Basse-Kotto",
+          "pl": "Prefektura Basse-Kotto",
+          "pt": "Basse-Kotto",
+          "ru": "Нижнее Котто",
+          "sv": "Basse-Kotto",
+          "tr": "Basse-Kotto Prefecture",
+          "vi": "Basse-Kotto",
+          "zh": "下科托省"
+        },
+        "population": 341799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.462,
+          5.441
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-mb",
+        "area": 9.021312000000009,
+        "bounding_box": [
+          21.743,
+          4.129,
+          25.181,
+          6.753
+        ],
+        "point": [
+          23.462,
+          5.441
+        ],
+        "labels": {
+          "alt": "M'Bomou",
+          "local": null,
+          "len": 6,
+          "ar": "محافظة مبومو",
+          "bn": "ম্বমৌ প্রশাসনিক অঞ্চল",
+          "de": "Mbomou",
+          "en": "Mbomou Prefecture",
+          "es": "Mbomou",
+          "fr": "Mbomou",
+          "el": "Μπόμου",
+          "hi": "बोमू प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Mbomou",
+          "it": "Prefettura di Mbomou",
+          "ja": "ムボム州",
+          "ko": "음보무 주",
+          "nl": "Mbomou",
+          "pl": "Prefektura Mbomou",
+          "pt": "Mbomou",
+          "ru": "Мбому",
+          "sv": "Mbomou",
+          "tr": "Mbomou Bölgesi",
+          "vi": "Tỉnh Mbomou",
+          "zh": "姆博穆省"
+        },
+        "population": 213304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.802,
+          4.8825
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-mp",
+        "area": 5.300909999999998,
+        "bounding_box": [
+          16.497,
+          3.867,
+          19.107,
+          5.898
+        ],
+        "point": [
+          17.802,
+          4.8825
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": "أومبلامبوكو",
+          "bn": "ওম্বেলা-ম'পোকো প্রশাসনিক অঞ্চল",
+          "de": "Ombella-Mpoko",
+          "en": "Ombella-M'Poko Prefecture",
+          "es": "Ombella-M'Poko",
+          "fr": "Ombella-M'Poko",
+          "el": "Ομπέλα-Μπόκο",
+          "hi": "ओम्बेला-मोपोको प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Ombella-M'Poko",
+          "it": "prefettura di Ombella-M'Poko",
+          "ja": "オンベラ・ムポコ州",
+          "ko": "옴벨라음포코 주",
+          "nl": "Ombella-M'Poko",
+          "pl": "Prefektura Ombella-M'Poko",
+          "pt": "Ombella-M'Poko",
+          "ru": "Омбелла-Мпоко",
+          "sv": "Ombella-Mpoko",
+          "tr": "Ombella-Mpoko",
+          "vi": "Tỉnh Ombella-M'Poko",
+          "zh": "翁貝拉－姆波科省"
+        },
+        "population": 471717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5445,
+          4.372
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-bgf",
+        "area": 0.013596000000000169,
+        "bounding_box": [
+          18.493,
+          4.306,
+          18.596,
+          4.438
+        ],
+        "point": [
+          18.5445,
+          4.372
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "بانغي",
+          "bn": "বাঙ্গুই",
+          "de": "Bangui",
+          "en": "Bangui",
+          "es": "Bangui",
+          "fr": "Bangui",
+          "el": "Μπανγκί",
+          "hi": "बैंगुई",
+          "hu": "Bangui",
+          "id": "Bangui",
+          "it": "Bangui",
+          "ja": "バンギ",
+          "ko": "방기",
+          "nl": "Bangui",
+          "pl": "Bangi",
+          "pt": "Bangui",
+          "ru": "Банги",
+          "sv": "Bangui",
+          "tr": "Bangui",
+          "vi": "Bangui",
+          "zh": "班基"
+        },
+        "population": 856822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.682000000000002,
+          4.2565
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-lb",
+        "area": 2.943392000000002,
+        "bounding_box": [
+          16.738,
+          3.477,
+          18.626,
+          5.036
+        ],
+        "point": [
+          17.682000000000002,
+          4.2565
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "لوبايه",
+          "bn": "লোবায় প্রিফেকচার",
+          "de": "Lobaye",
+          "en": "Lobaye Prefecture",
+          "es": "Lobaye",
+          "fr": "Lobaye",
+          "el": "Επαρχία Λομπάγιε",
+          "hi": "लोबाये प्रीफेक्चर",
+          "hu": null,
+          "id": "Lobaye",
+          "it": "prefettura di Lobaye",
+          "ja": "ロバイエ州",
+          "ko": "로바예 주",
+          "nl": "Lobaye",
+          "pl": "Prefektura Lobaye",
+          "pt": "Lobaye",
+          "ru": "Лобае",
+          "sv": "Lobaye",
+          "tr": "Lobaye Kaymakamlığı",
+          "vi": "Tỉnh Lobaye",
+          "zh": "洛巴耶省"
+        },
+        "population": 346429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6425,
+          8.395
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-bb",
+        "area": 9.622249999999998,
+        "bounding_box": [
+          18.893,
+          7.02,
+          22.392,
+          9.77
+        ],
+        "point": [
+          20.6425,
+          8.395
+        ],
+        "labels": {
+          "alt": "Bamingui-Bangora|N'Délé|Ndélé",
+          "local": null,
+          "len": 17,
+          "ar": "محافظة بامينغوي بانغوران",
+          "bn": "বামিঙ্গুই-ব্যাঙ্গোরান প্রশাসনিক অঞ্চল",
+          "de": "Bamingui-Bangoran",
+          "en": "Bamingui-Bangoran Prefecture",
+          "es": "Bamingui-Bangoran",
+          "fr": "Bamingui-Bangoran",
+          "el": "Μπαμινγκούι-Μπανγκοράν",
+          "hi": "बमिंगुई-बंगोरन प्रीफेक्चर",
+          "hu": null,
+          "id": "Bamingui-Bangoran",
+          "it": "prefettura di Bamingui-Bangoran",
+          "ja": "バミンギ・バンゴラン州",
+          "ko": "바밍기방고랑 주",
+          "nl": "Bamingui-Bangoran",
+          "pl": "Prefektura Bamingui-Bangoran",
+          "pt": "Bamingui-Bangoran",
+          "ru": "Баминги-Бангоран",
+          "sv": "Bamingui-Bangoran",
+          "tr": "Bamingui-Bangoran",
+          "vi": "Bamingui-Bangoran",
+          "zh": "巴明吉-班戈兰省"
+        },
+        "population": 58205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.877499999999998,
+          7.0985
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-ac",
+        "area": 7.351599000000005,
+        "bounding_box": [
+          16.679,
+          5.565,
+          19.076,
+          8.632
+        ],
+        "point": [
+          17.877499999999998,
+          7.0985
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "محافظة أوهام",
+          "bn": "ওউহাম প্রশাসনিক অঞ্চল",
+          "de": "Ouham",
+          "en": "Ouham Prefecture",
+          "es": "Ouham",
+          "fr": "Ouham",
+          "el": "Ούχαμ",
+          "hi": "औहम",
+          "hu": null,
+          "id": "Prefektur Ouham",
+          "it": "prefettura di Ouham",
+          "ja": "ウハム州",
+          "ko": "우암 주",
+          "nl": "Ouham",
+          "pl": "Prefektura Ouham",
+          "pt": "Ouham",
+          "ru": "Уам",
+          "sv": "Ouham",
+          "tr": "Ouham Bölgesi",
+          "vi": "Tỉnh Ouham",
+          "zh": "瓦姆省"
+        },
+        "population": 523801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.009999999999998,
+          6.718999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-op",
+        "area": 5.009151999999998,
+        "bounding_box": [
+          14.922,
+          5.568,
+          17.098,
+          7.87
+        ],
+        "point": [
+          16.009999999999998,
+          6.718999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "محافظة أوهام-بيندي",
+          "bn": "ওউহাম-পেন্ডে প্রশাসনিক অঞ্চল",
+          "de": "Ouham-Pendé",
+          "en": "Ouham-Pendé Prefecture",
+          "es": "Ouham-Pendé",
+          "fr": "Ouham-Pendé",
+          "el": "Ούχαμ-Πεντέ",
+          "hi": "ओउहम-पेंदे प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Ouham-Pendé",
+          "it": "prefettura di Ouham-Pendé",
+          "ja": "ウハム・ペンデ州",
+          "ko": "우암펭데 주",
+          "nl": "Ouham-Pendé",
+          "pl": "Prefektura Ouham-Pendé",
+          "pt": "Ouham-Pendé",
+          "ru": "Уам-Пенде",
+          "sv": "Préfecture de l'Ouham-Pendé",
+          "tr": "Quận Ouham-Pendé",
+          "vi": "Quận Ouham-Pendé",
+          "zh": "瓦姆-彭代省"
+        },
+        "population": 600874
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.338,
+          3.2475000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-se",
+        "area": 4.3534960000000025,
+        "bounding_box": [
+          15.262,
+          2.236,
+          17.414,
+          4.259
+        ],
+        "point": [
+          16.338,
+          3.2475000000000005
+        ],
+        "labels": {
+          "alt": "Sangha|Sangha-Économique|Sangha M'baéré",
+          "local": null,
+          "len": 13,
+          "ar": "محافظة سانغا مبايري الاقتصادية",
+          "bn": "সাঙ্ঘা-ম্বাইরি প্রশাসনিক অঞ্চল",
+          "de": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré Economic Prefecture",
+          "es": "Sangha-Mbaéré",
+          "fr": "Sangha-Mbaéré",
+          "el": "Σάνγκα-Μπαέρε",
+          "hi": "संघा-एम्बेरे इकॉनोमिक प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Ekonomi Sangha-Mbaéré",
+          "it": "prefettura di Sangha-Mbaéré",
+          "ja": "サンガ・ムバエレ州",
+          "ko": "상가음바에레 주",
+          "nl": "Sangha-Mbaéré",
+          "pl": "Prefektura Ekonomiczna Sangha-Mbaéré",
+          "pt": "Sangha-Mbaéré",
+          "ru": "Санга-Мбаэре",
+          "sv": "Préfecture de la Sangha-Mbaéré",
+          "tr": "Sangha-Mbaéré",
+          "vi": "Tỉnh Kinh tế Sangha-Mbaéré",
+          "zh": "桑加-姆巴埃雷省"
+        },
+        "population": 143206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.462,
+          5.849
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-nm",
+        "area": 3.8559360000000007,
+        "bounding_box": [
+          14.398,
+          4.943,
+          16.526,
+          6.755
+        ],
+        "point": [
+          15.462,
+          5.849
+        ],
+        "labels": {
+          "alt": "Bouar-Baboua|Buar-Baboua|Nana Nambéré",
+          "local": null,
+          "len": 12,
+          "ar": "محافظة نانا مامبيري",
+          "bn": "নানা-মাম্বিরি প্রশাসনিক অঞ্চল",
+          "de": "Nana-Mambéré",
+          "en": "Nana-Mambéré Prefecture",
+          "es": "Nana-Mambéré",
+          "fr": "Nana-Mambéré",
+          "el": "Νανά-Μαμπέρε",
+          "hi": "नाना-मेम्बरे प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Nana-Mambéré",
+          "it": "prefettura di Nana-Mambéré",
+          "ja": "ナナ・メンベレ州",
+          "ko": "나나맘베레 주",
+          "nl": "Nana-Mambéré",
+          "pl": "Prefektura Nana-Mambéré",
+          "pt": "Nana-Mambéré",
+          "ru": "Нана-Мамбере",
+          "sv": "Préfecture de la Nana-Mambéré",
+          "tr": "Nana-Mambéré",
+          "vi": "Quận Nana-Mambéré",
+          "zh": "納納-曼貝雷省"
+        },
+        "population": 324665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.889,
+          4.5235
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-hs",
+        "area": 4.230217999999999,
+        "bounding_box": [
+          14.66,
+          3.663,
+          17.118,
+          5.384
+        ],
+        "point": [
+          15.889,
+          4.5235
+        ],
+        "labels": {
+          "alt": "Haute-Sangha|Mambéré Kadéi",
+          "local": null,
+          "len": 13,
+          "ar": "مامبرة كاديي",
+          "bn": "মেম্বার-কাদেই",
+          "de": "Mambéré-Kadéï",
+          "en": "Mambéré-Kadéï",
+          "es": "Mambéré-Kadéï",
+          "fr": "Mambéré-Kadéï",
+          "el": "Μαμπέρε-Καντέι",
+          "hi": "मेम्बरे-कैडी",
+          "hu": null,
+          "id": "Mambéré-Kadéï",
+          "it": "prefettura di Mambéré-Kadéï",
+          "ja": "マンベレ・カデイ州",
+          "ko": "맘베레카데이 주",
+          "nl": "Mambéré-Kadéï",
+          "pl": "Prefektura Mambéré-Kadéï",
+          "pt": "Mambéré-Kadéï",
+          "ru": "Мамбере-Кадеи",
+          "sv": "Mambéré-Kadéï",
+          "tr": "Mambéré-Kadei",
+          "vi": "Mambéré-Kadéi",
+          "zh": "曼貝雷-卡代省"
+        },
+        "population": 513984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4055,
+          7.511
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cf",
+        "region_child": "cf-kb",
+        "area": 3.2181439999999952,
+        "bounding_box": [
+          18.655,
+          6.439,
+          20.156,
+          8.583
+        ],
+        "point": [
+          19.4055,
+          7.511
+        ],
+        "labels": {
+          "alt": "Nana-Gribingui|Gribingui|Gribingui-Économique|Ibingui|Nana Gribizi",
+          "local": null,
+          "len": 12,
+          "ar": "نانا-جريبيزي",
+          "bn": "নানা-গ্রেবিজি অর্থনৈতিক প্রশাসনিক অঞ্চল",
+          "de": "Nana-Grébizi",
+          "en": "Nana-Grébizi Economic Prefecture",
+          "es": "Nana-Grébizi",
+          "fr": "Nana-Grébizi",
+          "el": "Νάνα-Γκρέμπιζι",
+          "hi": "नाना-ग्रेबेज़ी इकॉनोमिक प्रीफेक्चर",
+          "hu": null,
+          "id": "Prefektur Ekonomi Nana-Grébizi",
+          "it": "prefettura di Nana-Grébizi",
+          "ja": "ナナ・グリビジ州",
+          "ko": "나나그레비지 주",
+          "nl": "Nana-Grébizi",
+          "pl": "Prefektura Ekonomiczna Nana-Grébizi",
+          "pt": "Nana-Grébizi",
+          "ru": "Нана-Гребизи",
+          "sv": "Préfecture de la Nana-Grébizi",
+          "tr": "Nana-Grébizi",
+          "vi": "Tỉnh Nana-Grébizi Economic",
+          "zh": "纳纳-格里比齐省"
+        },
+        "population": 161255
+      }
+    }
+  ]
+}

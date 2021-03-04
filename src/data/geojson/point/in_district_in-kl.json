@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.15,
+          12.442499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "kasaragod",
+        "area": 0.3976200000000051,
+        "bounding_box": [
+          74.868,
+          12.09,
+          75.432,
+          12.795
+        ],
+        "point": [
+          75.15,
+          12.442499999999999
+        ],
+        "labels": {
+          "en": "Kasaragod"
+        },
+        "population": 1299192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.108,
+          11.7155
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "wayanad",
+        "area": 0.35548799999999836,
+        "bounding_box": [
+          75.772,
+          11.451,
+          76.444,
+          11.98
+        ],
+        "point": [
+          76.108,
+          11.7155
+        ],
+        "labels": {
+          "en": "Wayanad"
+        },
+        "population": 848989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.84,
+          11.463000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "kozhikode",
+        "area": 0.41207999999999717,
+        "bounding_box": [
+          75.537,
+          11.123,
+          76.143,
+          11.803
+        ],
+        "point": [
+          75.84,
+          11.463000000000001
+        ],
+        "labels": {
+          "en": "Kozhikode"
+        },
+        "population": 3278881
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.18799999999999,
+          11.1065
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "malappuram",
+        "area": 0.6103320000000031,
+        "bounding_box": [
+          75.826,
+          10.685,
+          76.55,
+          11.528
+        ],
+        "point": [
+          76.18799999999999,
+          11.1065
+        ],
+        "labels": {
+          "en": "Malappuram"
+        },
+        "population": 4472324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.467,
+          10.788
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "palakkad",
+        "area": 0.7955199999999958,
+        "bounding_box": [
+          76.027,
+          10.336,
+          76.907,
+          11.24
+        ],
+        "point": [
+          76.467,
+          10.788
+        ],
+        "labels": {
+          "en": "Palakkad"
+        },
+        "population": 3025028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4245,
+          10.478000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "thrissur",
+        "area": 0.5666100000000013,
+        "bounding_box": [
+          75.957,
+          10.175,
+          76.892,
+          10.781
+        ],
+        "point": [
+          76.4245,
+          10.478000000000002
+        ],
+        "labels": {
+          "en": "Thrissur"
+        },
+        "population": 3285269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9,
+          10.252500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "thrissur",
+        "area": 1.9999999999942303e-06,
+        "bounding_box": [
+          76.899,
+          10.252,
+          76.901,
+          10.253
+        ],
+        "point": [
+          76.9,
+          10.252500000000001
+        ],
+        "labels": {
+          "en": "Thrissur"
+        },
+        "population": 3285269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.02000000000001,
+          9.8155
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "idukki",
+        "area": 0.8506400000000072,
+        "bounding_box": [
+          76.628,
+          9.273,
+          77.412,
+          10.358
+        ],
+        "point": [
+          77.02000000000001,
+          9.8155
+        ],
+        "labels": {
+          "en": "Idukki"
+        },
+        "population": 1051986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6285,
+          10.026499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "ernakulam",
+        "area": 0.5074709999999959,
+        "bounding_box": [
+          76.168,
+          9.751,
+          77.089,
+          10.302
+        ],
+        "point": [
+          76.6285,
+          10.026499999999999
+        ],
+        "labels": {
+          "en": "Ernakulam"
+        },
+        "population": 3417915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4845,
+          9.488
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "alappuzha",
+        "area": 0.3296220000000009,
+        "bounding_box": [
+          76.279,
+          9.087,
+          76.69,
+          9.889
+        ],
+        "point": [
+          76.4845,
+          9.488
+        ],
+        "labels": {
+          "en": "Alappuzha"
+        },
+        "population": 2123650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6745,
+          9.628499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "kottayam",
+        "area": 0.2816449999999999,
+        "bounding_box": [
+          76.365,
+          9.401,
+          76.984,
+          9.856
+        ],
+        "point": [
+          76.6745,
+          9.628499999999999
+        ],
+        "labels": {
+          "en": "Kottayam"
+        },
+        "population": 2014327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.881,
+          9.2775
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "pathanamthitta",
+        "area": 0.33700800000000125,
+        "bounding_box": [
+          76.473,
+          9.071,
+          77.289,
+          9.484
+        ],
+        "point": [
+          76.881,
+          9.2775
+        ],
+        "labels": {
+          "en": "Pathanamthitta"
+        },
+        "population": 1324740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.871,
+          8.966999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "kollam",
+        "area": 0.3254040000000003,
+        "bounding_box": [
+          76.478,
+          8.76,
+          77.264,
+          9.174
+        ],
+        "point": [
+          76.871,
+          8.966999999999999
+        ],
+        "labels": {
+          "en": "Kollam"
+        },
+        "population": 2489175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.983,
+          8.577
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "thiruvananthapuram",
+        "area": 0.3431400000000024,
+        "bounding_box": [
+          76.682,
+          8.292,
+          77.284,
+          8.862
+        ],
+        "point": [
+          76.983,
+          8.577
+        ],
+        "labels": {
+          "en": "Thiruvananthapuram"
+        },
+        "population": 3248987
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.553,
+          11.9825
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-kl",
+        "region_child": "kannur",
+        "area": 0.4760099999999993,
+        "bounding_box": [
+          75.166,
+          11.675,
+          75.94,
+          12.29
+        ],
+        "point": [
+          75.553,
+          11.9825
+        ],
+        "labels": {
+          "en": "Kannur"
+        },
+        "population": 2677764
+      }
+    }
+  ]
+}

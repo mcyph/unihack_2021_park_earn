@@ -1,0 +1,875 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.27850000000001,
+          41.572500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "033",
+        "area": 0.39943499999999155,
+        "bounding_box": [
+          -111.511,
+          41.143,
+          -111.046,
+          42.002
+        ],
+        "point": [
+          -111.27850000000001,
+          41.572500000000005
+        ],
+        "labels": {
+          "en": "Rich"
+        },
+        "population": 2634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7805,
+          41.685
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "005",
+        "area": 0.4769100000000051,
+        "bounding_box": [
+          -112.159,
+          41.37,
+          -111.402,
+          42.0
+        ],
+        "point": [
+          -111.7805,
+          41.685
+        ],
+        "labels": {
+          "en": "Cache"
+        },
+        "population": 138915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.43950000000001,
+          40.320499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "013",
+        "area": 0.9538830000000101,
+        "bounding_box": [
+          -110.903,
+          39.806,
+          -109.976,
+          40.835
+        ],
+        "point": [
+          -110.43950000000001,
+          40.320499999999996
+        ],
+        "labels": {
+          "en": "Duchesne"
+        },
+        "population": 23996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1165,
+          40.961
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "011",
+        "area": 0.2899199999999985,
+        "bounding_box": [
+          -112.494,
+          40.769,
+          -111.739,
+          41.153
+        ],
+        "point": [
+          -112.1165,
+          40.961
+        ],
+        "labels": {
+          "en": "Davis"
+        },
+        "population": 390233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.958,
+          41.501000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "003",
+        "area": 2.1723360000000116,
+        "bounding_box": [
+          -114.042,
+          41.0,
+          -111.874,
+          42.002
+        ],
+        "point": [
+          -112.958,
+          41.501000000000005
+        ],
+        "labels": {
+          "en": "Box Elder"
+        },
+        "population": 58637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.032,
+          39.0625
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "027",
+        "area": 2.0013880000000097,
+        "bounding_box": [
+          -114.05,
+          38.571,
+          -112.014,
+          39.554
+        ],
+        "point": [
+          -113.032,
+          39.0625
+        ],
+        "labels": {
+          "en": "Millard"
+        },
+        "population": 12606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.549,
+          41.077
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "029",
+        "area": 0.38966399999999585,
+        "bounding_box": [
+          -111.877,
+          40.78,
+          -111.221,
+          41.374
+        ],
+        "point": [
+          -111.549,
+          41.077
+        ],
+        "labels": {
+          "en": "Morgan"
+        },
+        "population": 12580
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.95750000000001,
+          41.253
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "057",
+        "area": 0.3776960000000018,
+        "bounding_box": [
+          -112.494,
+          41.077,
+          -111.421,
+          41.429
+        ],
+        "point": [
+          -111.95750000000001,
+          41.253
+        ],
+        "labels": {
+          "en": "Weber"
+        },
+        "population": 274550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.771,
+          37.272
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "025",
+        "area": 1.229439999999988,
+        "bounding_box": [
+          -112.901,
+          37.0,
+          -110.641,
+          37.544
+        ],
+        "point": [
+          -111.771,
+          37.272
+        ],
+        "labels": {
+          "en": "Kane"
+        },
+        "population": 8402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9065,
+          40.6695
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "035",
+        "area": 0.35703500000000077,
+        "bounding_box": [
+          -112.26,
+          40.417,
+          -111.553,
+          40.922
+        ],
+        "point": [
+          -111.9065,
+          40.6695
+        ],
+        "labels": {
+          "en": "Salt Lake"
+        },
+        "population": 1179185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.91,
+          38.774
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "041",
+        "area": 0.6658559999999983,
+        "bounding_box": [
+          -112.522,
+          38.502,
+          -111.298,
+          39.046
+        ],
+        "point": [
+          -111.91,
+          38.774
+        ],
+        "labels": {
+          "en": "Sevier"
+        },
+        "population": 22977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3085,
+          37.845
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "017",
+        "area": 1.7062980000000032,
+        "bounding_box": [
+          -112.689,
+          37.536,
+          -109.928,
+          38.154
+        ],
+        "point": [
+          -111.3085,
+          37.845
+        ],
+        "labels": {
+          "en": "Garfield"
+        },
+        "population": 5655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.476,
+          37.309
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "053",
+        "area": 0.7131720000000001,
+        "bounding_box": [
+          -114.053,
+          37.0,
+          -112.899,
+          37.618
+        ],
+        "point": [
+          -113.476,
+          37.309
+        ],
+        "labels": {
+          "en": "Washington"
+        },
+        "population": 211466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.143,
+          38.329
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "031",
+        "area": 0.2759639999999963,
+        "bounding_box": [
+          -112.52,
+          38.146,
+          -111.766,
+          38.512
+        ],
+        "point": [
+          -112.143,
+          38.329
+        ],
+        "labels": {
+          "en": "Piute"
+        },
+        "population": 1675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.825,
+          40.900999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "043",
+        "area": 1.156896000000006,
+        "bounding_box": [
+          -111.649,
+          40.55,
+          -110.001,
+          41.252
+        ],
+        "point": [
+          -110.825,
+          40.900999999999996
+        ],
+        "labels": {
+          "en": "Summit"
+        },
+        "population": 44286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.64750000000001,
+          39.102000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "015",
+        "area": 1.588076000000004,
+        "bounding_box": [
+          -111.307,
+          38.5,
+          -109.988,
+          39.704
+        ],
+        "point": [
+          -110.64750000000001,
+          39.102000000000004
+        ],
+        "labels": {
+          "en": "Emery"
+        },
+        "population": 11069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5245,
+          40.832
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "009",
+        "area": 0.32402000000000425,
+        "bounding_box": [
+          -110.001,
+          40.662,
+          -109.048,
+          41.002
+        ],
+        "point": [
+          -109.5245,
+          40.832
+        ],
+        "labels": {
+          "en": "Daggett"
+        },
+        "population": 1245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1935,
+          38.3605
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "001",
+        "area": 0.7323050000000008,
+        "bounding_box": [
+          -114.051,
+          38.147,
+          -112.336,
+          38.574
+        ],
+        "point": [
+          -113.1935,
+          38.3605
+        ],
+        "labels": {
+          "en": "Beaver"
+        },
+        "population": 7328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.548,
+          40.16
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "047",
+        "area": 1.3959999999999937,
+        "bounding_box": [
+          -110.048,
+          39.462,
+          -109.048,
+          40.858
+        ],
+        "point": [
+          -109.548,
+          40.16
+        ],
+        "labels": {
+          "en": "Uintah"
+        },
+        "population": 42177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.536,
+          40.177
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "049",
+        "area": 1.0847999999999918,
+        "bounding_box": [
+          -112.214,
+          39.777,
+          -110.858,
+          40.577
+        ],
+        "point": [
+          -111.536,
+          40.177
+        ],
+        "labels": {
+          "en": "Utah"
+        },
+        "population": 725116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.869,
+          38.33
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "055",
+        "area": 0.7056000000000018,
+        "bounding_box": [
+          -111.849,
+          38.15,
+          -109.889,
+          38.51
+        ],
+        "point": [
+          -110.869,
+          38.33
+        ],
+        "labels": {
+          "en": "Wayne"
+        },
+        "population": 3076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.81649999999999,
+          39.6635
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "023",
+        "area": 1.7167110000000123,
+        "bounding_box": [
+          -114.048,
+          39.315,
+          -111.585,
+          40.012
+        ],
+        "point": [
+          -112.81649999999999,
+          39.6635
+        ],
+        "labels": {
+          "en": "Juab"
+        },
+        "population": 12744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.561,
+          39.6415
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "007",
+        "area": 0.47333999999999843,
+        "bounding_box": [
+          -111.247,
+          39.469,
+          -109.875,
+          39.814
+        ],
+        "point": [
+          -110.561,
+          39.6415
+        ],
+        "labels": {
+          "en": "Carbon"
+        },
+        "population": 22319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2595,
+          37.811499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "021",
+        "area": 1.0698750000000121,
+        "bounding_box": [
+          -114.052,
+          37.474,
+          -112.467,
+          38.149
+        ],
+        "point": [
+          -113.2595,
+          37.811499999999995
+        ],
+        "labels": {
+          "en": "Iron"
+        },
+        "population": 63059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6315,
+          39.4225
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "039",
+        "area": 0.6005890000000088,
+        "bounding_box": [
+          -112.016,
+          39.032,
+          -111.247,
+          39.813
+        ],
+        "point": [
+          -111.6315,
+          39.4225
+        ],
+        "labels": {
+          "en": "Sanpete"
+        },
+        "population": 34064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.22749999999999,
+          37.748999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "037",
+        "area": 3.5612419999999982,
+        "bounding_box": [
+          -111.413,
+          36.998,
+          -109.042,
+          38.5
+        ],
+        "point": [
+          -110.22749999999999,
+          37.748999999999995
+        ],
+        "labels": {
+          "en": "San Juan"
+        },
+        "population": 15071
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.256,
+          40.295
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "051",
+        "area": 0.5751200000000062,
+        "bounding_box": [
+          -111.62,
+          39.9,
+          -110.892,
+          40.69
+        ],
+        "point": [
+          -111.256,
+          40.295
+        ],
+        "labels": {
+          "en": "Wasatch"
+        },
+        "population": 36354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.61500000000001,
+          39.0
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "019",
+        "area": 1.1280000000000001,
+        "bounding_box": [
+          -110.179,
+          38.5,
+          -109.051,
+          39.5
+        ],
+        "point": [
+          -109.61500000000001,
+          39.0
+        ],
+        "labels": {
+          "en": "Grand"
+        },
+        "population": 10144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.09700000000001,
+          40.4905
+        ]
+      },
+      "properties": {
+        "region_schema": "us_county",
+        "region_parent": "us-ut",
+        "region_child": "045",
+        "area": 2.22869999999998,
+        "bounding_box": [
+          -114.047,
+          39.904,
+          -112.147,
+          41.077
+        ],
+        "point": [
+          -113.09700000000001,
+          40.4905
+        ],
+        "labels": {
+          "en": "Tooele"
+        },
+        "population": 83123
+      }
+    }
+  ]
+}

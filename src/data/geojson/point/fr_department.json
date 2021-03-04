@@ -1,0 +1,3305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6094999999999997,
+          49.460499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-hdf",
+        "region_child": "aisne",
+        "area": 1.5687130000000071,
+        "bounding_box": [
+          2.965,
+          48.852,
+          4.254,
+          50.069
+        ],
+        "point": [
+          3.6094999999999997,
+          49.460499999999996
+        ],
+        "labels": {
+          "en": "Aisne"
+        },
+        "population": 548032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3685,
+          50.5215
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-hdf",
+        "region_child": "pas-de-calais",
+        "area": 1.5739909999999941,
+        "bounding_box": [
+          1.558,
+          50.036,
+          3.179,
+          51.007
+        ],
+        "point": [
+          2.3685,
+          50.5215
+        ],
+        "labels": {
+          "en": "Pas-de-Calais"
+        },
+        "population": 1488283
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4255,
+          49.409000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-hdf",
+        "region_child": "oise",
+        "area": 1.0267580000000007,
+        "bounding_box": [
+          1.69,
+          49.06,
+          3.161,
+          49.758
+        ],
+        "point": [
+          2.4255,
+          49.409000000000006
+        ],
+        "labels": {
+          "en": "Oise"
+        },
+        "population": 850499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1479999999999997,
+          50.528999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-hdf",
+        "region_child": "nord",
+        "area": 2.4191999999999942,
+        "bounding_box": [
+          2.068,
+          49.969,
+          4.228,
+          51.089
+        ],
+        "point": [
+          3.1479999999999997,
+          50.528999999999996
+        ],
+        "labels": {
+          "en": "Nord"
+        },
+        "population": 2589571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0365,
+          50.1415
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-hdf",
+        "region_child": "nord",
+        "area": 0.0016789999999997167,
+        "bounding_box": [
+          3.0,
+          50.13,
+          3.073,
+          50.153
+        ],
+        "point": [
+          3.0365,
+          50.1415
+        ],
+        "labels": {
+          "en": "Nord"
+        },
+        "population": 2589571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2865,
+          49.971500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-hdf",
+        "region_child": "somme",
+        "area": 1.415952999999998,
+        "bounding_box": [
+          1.38,
+          49.581,
+          3.193,
+          50.362
+        ],
+        "point": [
+          2.2865,
+          49.971500000000006
+        ],
+        "labels": {
+          "en": "Somme"
+        },
+        "population": 589531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.125500000000001,
+          48.319500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ges",
+        "region_child": "aube",
+        "area": 1.1608249999999989,
+        "bounding_box": [
+          3.388,
+          47.926,
+          4.863,
+          48.713
+        ],
+        "point": [
+          4.125500000000001,
+          48.319500000000005
+        ],
+        "labels": {
+          "en": "Aube"
+        },
+        "population": 320560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3715,
+          49.013999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ges",
+        "region_child": "meuse",
+        "area": 1.1637899999999959,
+        "bounding_box": [
+          4.889,
+          48.411,
+          5.854,
+          49.617
+        ],
+        "point": [
+          5.3715,
+          49.013999999999996
+        ],
+        "labels": {
+          "en": "Meuse"
+        },
+        "population": 198113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5895,
+          48.592
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ges",
+        "region_child": "bas-rhin",
+        "area": 1.1790560000000039,
+        "bounding_box": [
+          6.965,
+          48.12,
+          8.214,
+          49.064
+        ],
+        "point": [
+          7.5895,
+          48.592
+        ],
+        "labels": {
+          "en": "Bas-Rhin"
+        },
+        "population": 1181959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.234,
+          47.866
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ges",
+        "region_child": "haut-rhin",
+        "area": 0.6890880000000039,
+        "bounding_box": [
+          6.846,
+          47.422,
+          7.622,
+          48.31
+        ],
+        "point": [
+          7.234,
+          47.866
+        ],
+        "labels": {
+          "en": "Haut-Rhin"
+        },
+        "population": 813010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7125,
+          49.698499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ges",
+        "region_child": "ardennes",
+        "area": 1.2607750000000062,
+        "bounding_box": [
+          4.031,
+          49.236,
+          5.394,
+          50.161
+        ],
+        "point": [
+          4.7125,
+          49.698499999999996
+        ],
+        "labels": {
+          "en": "Ardennes"
+        },
+        "population": 281409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3035,
+          48.1635
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ges",
+        "region_child": "vosges",
+        "area": 1.2540890000000013,
+        "bounding_box": [
+          5.409,
+          47.813,
+          7.198,
+          48.514
+        ],
+        "point": [
+          6.3035,
+          48.1635
+        ],
+        "labels": {
+          "en": "Vosges"
+        },
+        "population": 382375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.217499999999999,
+          48.961
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ges",
+        "region_child": "marne",
+        "area": 1.4569300000000005,
+        "bounding_box": [
+          3.399,
+          48.516,
+          5.036,
+          49.406
+        ],
+        "point": [
+          4.217499999999999,
+          48.961
+        ],
+        "labels": {
+          "en": "Marne"
+        },
+        "population": 575123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2695,
+          48.132999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ges",
+        "region_child": "haute-marne",
+        "area": 1.371096000000003,
+        "bounding_box": [
+          4.653,
+          47.577,
+          5.886,
+          48.689
+        ],
+        "point": [
+          5.2695,
+          48.132999999999996
+        ],
+        "labels": {
+          "en": "Haute-Marne"
+        },
+        "population": 178523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.763999999999999,
+          49.019
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ges",
+        "region_child": "moselle",
+        "area": 1.7106439999999987,
+        "bounding_box": [
+          5.893,
+          48.528,
+          7.635,
+          49.51
+        ],
+        "point": [
+          6.763999999999999,
+          49.019
+        ],
+        "labels": {
+          "en": "Moselle"
+        },
+        "population": 1086772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2925,
+          48.951499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ges",
+        "region_child": "meurthe-et-moselle",
+        "area": 1.9981829999999936,
+        "bounding_box": [
+          5.462,
+          48.35,
+          7.123,
+          49.553
+        ],
+        "point": [
+          6.2925,
+          48.951499999999996
+        ],
+        "labels": {
+          "en": "Meurthe-et-Moselle"
+        },
+        "population": 760364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35849999999999993,
+          49.091
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-nor",
+        "region_child": "calvados",
+        "area": 1.0786979999999957,
+        "bounding_box": [
+          -1.154,
+          48.752,
+          0.437,
+          49.43
+        ],
+        "point": [
+          -0.35849999999999993,
+          49.091
+        ],
+        "labels": {
+          "en": "Calvados"
+        },
+        "population": 725303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05349999999999999,
+          48.5775
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-nor",
+        "region_child": "orne",
+        "area": 1.4451569999999943,
+        "bounding_box": [
+          -0.86,
+          48.182,
+          0.967,
+          48.973
+        ],
+        "point": [
+          0.05349999999999999,
+          48.5775
+        ],
+        "labels": {
+          "en": "Orne"
+        },
+        "population": 297564
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9279999999999999,
+          49.6605
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-nor",
+        "region_child": "seine-maritime",
+        "area": 1.4085080000000003,
+        "bounding_box": [
+          0.066,
+          49.252,
+          1.79,
+          50.069
+        ],
+        "point": [
+          0.9279999999999999,
+          49.6605
+        ],
+        "labels": {
+          "en": "Seine-Maritime"
+        },
+        "population": 1269380
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.05,
+          49.077
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-nor",
+        "region_child": "eure",
+        "area": 1.2258840000000002,
+        "bounding_box": [
+          0.297,
+          48.67,
+          1.803,
+          49.484
+        ],
+        "point": [
+          1.05,
+          49.077
+        ],
+        "labels": {
+          "en": "Eure"
+        },
+        "population": 641726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3415,
+          49.092
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-nor",
+        "region_child": "manche",
+        "area": 1.533012000000001,
+        "bounding_box": [
+          -1.946,
+          48.458,
+          -0.737,
+          49.726
+        ],
+        "point": [
+          -1.3415,
+          49.092
+        ],
+        "labels": {
+          "en": "Manche"
+        },
+        "population": 511490
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.712,
+          45.0475
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "cantal",
+        "area": 1.1201739999999993,
+        "bounding_box": [
+          2.063,
+          44.616,
+          3.361,
+          45.479
+        ],
+        "point": [
+          2.712,
+          45.0475
+        ],
+        "labels": {
+          "en": "Cantal"
+        },
+        "population": 147649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2255,
+          45.7555
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "loire",
+        "area": 1.1065830000000039,
+        "bounding_box": [
+          3.694,
+          45.235,
+          4.757,
+          46.276
+        ],
+        "point": [
+          4.2255,
+          45.7555
+        ],
+        "labels": {
+          "en": "Loire"
+        },
+        "population": 775355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.186,
+          45.771
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "puy-de-dôme",
+        "area": 1.5449280000000056,
+        "bounding_box": [
+          2.388,
+          45.287,
+          3.984,
+          46.255
+        ],
+        "point": [
+          3.186,
+          45.771
+        ],
+        "labels": {
+          "en": "Puy-de-Dôme"
+        },
+        "population": 668620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.374499999999999,
+          44.8155
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "ardèche",
+        "area": 1.1285249999999984,
+        "bounding_box": [
+          3.862,
+          44.265,
+          4.887,
+          45.366
+        ],
+        "point": [
+          4.374499999999999,
+          44.8155
+        ],
+        "labels": {
+          "en": "Ardèche"
+        },
+        "population": 351251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7044999999999995,
+          45.879000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "rhône",
+        "area": 0.7216379999999976,
+        "bounding_box": [
+          4.278,
+          45.456,
+          5.131,
+          46.302
+        ],
+        "point": [
+          4.7044999999999995,
+          45.879000000000005
+        ],
+        "labels": {
+          "en": "Rhône"
+        },
+        "population": 1872988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1395,
+          46.3675
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "allier",
+        "area": 1.498941000000008,
+        "bounding_box": [
+          2.281,
+          45.931,
+          3.998,
+          46.804
+        ],
+        "point": [
+          3.1395,
+          46.3675
+        ],
+        "labels": {
+          "en": "Allier"
+        },
+        "population": 343310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.552,
+          45.289500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "isère",
+        "area": 1.9158180000000076,
+        "bounding_box": [
+          4.745,
+          44.696,
+          6.359,
+          45.883
+        ],
+        "point": [
+          5.552,
+          45.289500000000004
+        ],
+        "labels": {
+          "en": "Isère"
+        },
+        "population": 1345775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.404,
+          45.497
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "savoie",
+        "area": 1.3759200000000082,
+        "bounding_box": [
+          5.624,
+          45.056,
+          7.184,
+          45.938
+        ],
+        "point": [
+          6.404,
+          45.497
+        ],
+        "labels": {
+          "en": "Savoie"
+        },
+        "population": 459254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.426,
+          46.0465
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "haute-savoie",
+        "area": 0.8936279999999985,
+        "bounding_box": [
+          5.808,
+          45.685,
+          7.044,
+          46.408
+        ],
+        "point": [
+          6.426,
+          46.0465
+        ],
+        "labels": {
+          "en": "Haute-Savoie"
+        },
+        "population": 855294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4495000000000005,
+          46.065
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "ain",
+        "area": 1.302664000000005,
+        "bounding_box": [
+          4.729,
+          45.613,
+          6.17,
+          46.517
+        ],
+        "point": [
+          5.4495000000000005,
+          46.065
+        ],
+        "labels": {
+          "en": "Ain"
+        },
+        "population": 687461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2379999999999995,
+          44.730000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "drôme",
+        "area": 1.4465840000000016,
+        "bounding_box": [
+          4.649,
+          44.116,
+          5.827,
+          45.344
+        ],
+        "point": [
+          5.2379999999999995,
+          44.730000000000004
+        ],
+        "labels": {
+          "en": "Drôme"
+        },
+        "population": 544858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7935,
+          45.086
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-ara",
+        "region_child": "haute-loire",
+        "area": 0.9432359999999963,
+        "bounding_box": [
+          3.104,
+          44.744,
+          4.483,
+          45.428
+        ],
+        "point": [
+          3.7935,
+          45.086
+        ],
+        "labels": {
+          "en": "Haute-Loire"
+        },
+        "population": 242329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3780000000000001,
+          48.447500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-cvl",
+        "region_child": "eure-et-loir",
+        "area": 1.2159840000000024,
+        "bounding_box": [
+          0.762,
+          47.954,
+          1.994,
+          48.941
+        ],
+        "point": [
+          1.3780000000000001,
+          48.447500000000005
+        ],
+        "labels": {
+          "en": "Eure-et-Loir"
+        },
+        "population": 455152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3205,
+          47.9165
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-cvl",
+        "region_child": "loiret",
+        "area": 1.3840549999999991,
+        "bounding_box": [
+          1.513,
+          47.488,
+          3.128,
+          48.345
+        ],
+        "point": [
+          2.3205,
+          47.9165
+        ],
+        "labels": {
+          "en": "Loiret"
+        },
+        "population": 701877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7095,
+          47.223
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-cvl",
+        "region_child": "indre-et-loire",
+        "area": 1.2742920000000018,
+        "bounding_box": [
+          0.054,
+          46.737,
+          1.365,
+          47.709
+        ],
+        "point": [
+          0.7095,
+          47.223
+        ],
+        "labels": {
+          "en": "Indre-et-Loire"
+        },
+        "population": 634653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5355,
+          46.812
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-cvl",
+        "region_child": "indre",
+        "area": 1.24341,
+        "bounding_box": [
+          0.867,
+          46.347,
+          2.204,
+          47.277
+        ],
+        "point": [
+          1.5355,
+          46.812
+        ],
+        "labels": {
+          "en": "Indre"
+        },
+        "population": 235050
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.427,
+          47.0245
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-cvl",
+        "region_child": "cher",
+        "area": 1.5765359999999953,
+        "bounding_box": [
+          1.775,
+          46.42,
+          3.079,
+          47.629
+        ],
+        "point": [
+          2.427,
+          47.0245
+        ],
+        "labels": {
+          "en": "Cher"
+        },
+        "population": 311753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4125,
+          47.6565
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-cvl",
+        "region_child": "loir-et-cher",
+        "area": 1.5648830000000045,
+        "bounding_box": [
+          0.581,
+          47.186,
+          2.244,
+          48.127
+        ],
+        "point": [
+          1.4125,
+          47.6565
+        ],
+        "labels": {
+          "en": "Loir-et-Cher"
+        },
+        "population": 347672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.654,
+          48.168
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bre",
+        "region_child": "ille-et-vilaine",
+        "area": 1.3596839999999977,
+        "bounding_box": [
+          -2.287,
+          47.631,
+          -1.021,
+          48.705
+        ],
+        "point": [
+          -1.654,
+          48.168
+        ],
+        "labels": {
+          "en": "Ille-et-Vilaine"
+        },
+        "population": 1128552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.064,
+          48.6015
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bre",
+        "region_child": "ille-et-vilaine",
+        "area": 0.00979799999999971,
+        "bounding_box": [
+          -2.133,
+          48.566,
+          -1.995,
+          48.637
+        ],
+        "point": [
+          -2.064,
+          48.6015
+        ],
+        "labels": {
+          "en": "Ille-et-Vilaine"
+        },
+        "population": 1128552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7855,
+          48.45099999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bre",
+        "region_child": "côtes-d'armor",
+        "area": 1.4535040000000012,
+        "bounding_box": [
+          -3.659,
+          48.035,
+          -1.912,
+          48.867
+        ],
+        "point": [
+          -2.7855,
+          48.45099999999999
+        ],
+        "labels": {
+          "en": "Côtes-d'Armor"
+        },
+        "population": 628783
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.093,
+          48.241
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bre",
+        "region_child": "finistère",
+        "area": 1.3243999999999976,
+        "bounding_box": [
+          -4.793,
+          47.768,
+          -3.393,
+          48.714
+        ],
+        "point": [
+          -4.093,
+          48.241
+        ],
+        "labels": {
+          "en": "Finistère"
+        },
+        "population": 907129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.071,
+          48.467
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bre",
+        "region_child": "finistère",
+        "area": 0.00198399999999979,
+        "bounding_box": [
+          -5.102,
+          48.451,
+          -5.04,
+          48.483
+        ],
+        "point": [
+          -5.071,
+          48.467
+        ],
+        "labels": {
+          "en": "Finistère"
+        },
+        "population": 907129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.891,
+          47.829499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bre",
+        "region_child": "morbihan",
+        "area": 1.2833659999999971,
+        "bounding_box": [
+          -3.732,
+          47.448,
+          -2.05,
+          48.211
+        ],
+        "point": [
+          -2.891,
+          47.829499999999996
+        ],
+        "labels": {
+          "en": "Morbihan"
+        },
+        "population": 798116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1755,
+          47.331500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bre",
+        "region_child": "morbihan",
+        "area": 0.017169000000000195,
+        "bounding_box": [
+          -3.264,
+          47.283,
+          -3.087,
+          47.38
+        ],
+        "point": [
+          -3.1755,
+          47.331500000000005
+        ],
+        "labels": {
+          "en": "Morbihan"
+        },
+        "population": 798116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.465,
+          47.637
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bre",
+        "region_child": "morbihan",
+        "area": 0.0029240000000005134,
+        "bounding_box": [
+          -3.508,
+          47.62,
+          -3.422,
+          47.654
+        ],
+        "point": [
+          -3.465,
+          47.637
+        ],
+        "labels": {
+          "en": "Morbihan"
+        },
+        "population": 798116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.729,
+          46.7825
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bfc",
+        "region_child": "jura",
+        "area": 0.9887639999999998,
+        "bounding_box": [
+          5.255,
+          46.261,
+          6.203,
+          47.304
+        ],
+        "point": [
+          5.729,
+          46.7825
+        ],
+        "labels": {
+          "en": "Jura"
+        },
+        "population": 277721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5945,
+          47.8535
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bfc",
+        "region_child": "yonne",
+        "area": 1.5944749999999936,
+        "bounding_box": [
+          2.857,
+          47.313,
+          4.332,
+          48.394
+        ],
+        "point": [
+          3.5945,
+          47.8535
+        ],
+        "labels": {
+          "en": "Yonne"
+        },
+        "population": 358795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.54,
+          47.123000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bfc",
+        "region_child": "nièvre",
+        "area": 1.2852599999999994,
+        "bounding_box": [
+          2.849,
+          46.658,
+          4.231,
+          47.588
+        ],
+        "point": [
+          3.54,
+          47.123000000000005
+        ],
+        "labels": {
+          "en": "Nièvre"
+        },
+        "population": 215589
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.544,
+          46.656
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bfc",
+        "region_child": "saône-et-loire",
+        "area": 1.826340000000008,
+        "bounding_box": [
+          3.629,
+          46.157,
+          5.459,
+          47.155
+        ],
+        "point": [
+          4.544,
+          46.656
+        ],
+        "labels": {
+          "en": "Saône-et-Loire"
+        },
+        "population": 574731
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3805,
+          47.0585
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bfc",
+        "region_child": "doubs",
+        "area": 1.375267000000001,
+        "bounding_box": [
+          5.699,
+          46.554,
+          7.062,
+          47.563
+        ],
+        "point": [
+          6.3805,
+          47.0585
+        ],
+        "labels": {
+          "en": "Doubs"
+        },
+        "population": 563251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7925,
+          47.465500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bfc",
+        "region_child": "côte-d'or",
+        "area": 1.640436999999997,
+        "bounding_box": [
+          4.066,
+          46.901,
+          5.519,
+          48.03
+        ],
+        "point": [
+          4.7925,
+          47.465500000000006
+        ],
+        "labels": {
+          "en": "Côte-d'Or"
+        },
+        "population": 551941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.149,
+          47.1325
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bfc",
+        "region_child": "côte-d'or",
+        "area": 0.002442000000000432,
+        "bounding_box": [
+          4.116,
+          47.114,
+          4.182,
+          47.151
+        ],
+        "point": [
+          4.149,
+          47.1325
+        ],
+        "labels": {
+          "en": "Côte-d'Or"
+        },
+        "population": 551941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.099,
+          47.635999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bfc",
+        "region_child": "haute-saône",
+        "area": 1.1019999999999972,
+        "bounding_box": [
+          5.374,
+          47.256,
+          6.824,
+          48.016
+        ],
+        "point": [
+          6.099,
+          47.635999999999996
+        ],
+        "labels": {
+          "en": "Haute-Saône"
+        },
+        "population": 256141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.949,
+          47.628
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-bfc",
+        "region_child": "territoire de belfort",
+        "area": 0.14898000000000008,
+        "bounding_box": [
+          6.758,
+          47.433,
+          7.14,
+          47.823
+        ],
+        "point": [
+          6.949,
+          47.628
+        ],
+        "labels": {
+          "en": "Territoire de Belfort"
+        },
+        "population": 150182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.694,
+          44.01349999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "landes",
+        "area": 1.7234939999999983,
+        "bounding_box": [
+          -1.525,
+          43.495,
+          0.137,
+          44.532
+        ],
+        "point": [
+          -0.694,
+          44.01349999999999
+        ],
+        "labels": {
+          "en": "Landes"
+        },
+        "population": 453728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.46699999999999997,
+          44.3725
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "lot-et-garonne",
+        "area": 0.9472640000000042,
+        "bounding_box": [
+          -0.141,
+          43.983,
+          1.075,
+          44.762
+        ],
+        "point": [
+          0.46699999999999997,
+          44.3725
+        ],
+        "labels": {
+          "en": "Lot-et-Garonne"
+        },
+        "population": 361164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6185,
+          45.7225
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "charente-maritime",
+        "area": 1.5824830000000039,
+        "bounding_box": [
+          -1.243,
+          45.089,
+          0.006,
+          46.356
+        ],
+        "point": [
+          -0.6185,
+          45.7225
+        ],
+        "labels": {
+          "en": "Charente-Maritime"
+        },
+        "population": 684535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3005,
+          45.926
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "charente-maritime",
+        "area": 0.05444999999999942,
+        "bounding_box": [
+          -1.413,
+          45.805,
+          -1.188,
+          46.047
+        ],
+        "point": [
+          -1.3005,
+          45.926
+        ],
+        "labels": {
+          "en": "Charente-Maritime"
+        },
+        "population": 684535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4184999999999999,
+          46.200500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "charente-maritime",
+        "area": 0.03277500000000056,
+        "bounding_box": [
+          -1.561,
+          46.143,
+          -1.276,
+          46.258
+        ],
+        "point": [
+          -1.4184999999999999,
+          46.200500000000005
+        ],
+        "labels": {
+          "en": "Charente-Maritime"
+        },
+        "population": 684535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8775,
+          45.3395
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "corrèze",
+        "area": 1.0811310000000038,
+        "bounding_box": [
+          1.227,
+          44.924,
+          2.528,
+          45.755
+        ],
+        "point": [
+          1.8775,
+          45.3395
+        ],
+        "labels": {
+          "en": "Corrèze"
+        },
+        "population": 258983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.704,
+          45.146
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "dordogne",
+        "area": 1.6933440000000077,
+        "bounding_box": [
+          -0.04,
+          44.577,
+          1.448,
+          45.715
+        ],
+        "point": [
+          0.704,
+          45.146
+        ],
+        "labels": {
+          "en": "Dordogne"
+        },
+        "population": 442234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.882,
+          43.1945
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "pyrénées-atlantiques",
+        "area": 1.4550359999999951,
+        "bounding_box": [
+          -1.788,
+          42.793,
+          0.024,
+          43.596
+        ],
+        "point": [
+          -0.882,
+          43.1945
+        ],
+        "labels": {
+          "en": "Pyrénées-Atlantiques"
+        },
+        "population": 712754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2645,
+          45.922
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "haute-vienne",
+        "area": 1.213163999999995,
+        "bounding_box": [
+          0.63,
+          45.444,
+          1.899,
+          46.4
+        ],
+        "point": [
+          1.2645,
+          45.922
+        ],
+        "labels": {
+          "en": "Haute-Vienne"
+        },
+        "population": 402311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.993,
+          46.0595
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "creuse",
+        "area": 0.9776759999999962,
+        "bounding_box": [
+          1.375,
+          45.664,
+          2.611,
+          46.455
+        ],
+        "point": [
+          1.993,
+          46.0595
+        ],
+        "labels": {
+          "en": "Creuse"
+        },
+        "population": 124123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47350000000000003,
+          44.8845
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "gironde",
+        "area": 2.1778370000000002,
+        "bounding_box": [
+          -1.262,
+          44.194,
+          0.315,
+          45.575
+        ],
+        "point": [
+          -0.47350000000000003,
+          44.8845
+        ],
+        "labels": {
+          "en": "Gironde"
+        },
+        "population": 1625622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5555000000000001,
+          46.6135
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "vienne",
+        "area": 1.479375,
+        "bounding_box": [
+          -0.102,
+          46.051,
+          1.213,
+          47.176
+        ],
+        "point": [
+          0.5555000000000001,
+          46.6135
+        ],
+        "labels": {
+          "en": "Vienne"
+        },
+        "population": 462091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2415,
+          45.6655
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "charente",
+        "area": 1.328641000000004,
+        "bounding_box": [
+          -0.46,
+          45.192,
+          0.943,
+          46.139
+        ],
+        "point": [
+          0.2415,
+          45.6655
+        ],
+        "labels": {
+          "en": "Charente"
+        },
+        "population": 368452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3385,
+          46.539
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-naq",
+        "region_child": "deux-sèvres",
+        "area": 1.259765999999998,
+        "bounding_box": [
+          -0.892,
+          45.97,
+          0.215,
+          47.108
+        ],
+        "point": [
+          -0.3385,
+          46.539
+        ],
+        "labels": {
+          "en": "Deux-Sèvres"
+        },
+        "population": 395355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.447,
+          48.908500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-idf",
+        "region_child": "seine-saint-denis",
+        "area": 0.06333599999999877,
+        "bounding_box": [
+          2.291,
+          48.807,
+          2.603,
+          49.01
+        ],
+        "point": [
+          2.447,
+          48.908500000000004
+        ],
+        "labels": {
+          "en": "Seine-Saint-Denis"
+        },
+        "population": 1721565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3435,
+          48.8595
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-idf",
+        "region_child": "paris",
+        "area": 0.020315000000000194,
+        "bounding_box": [
+          2.224,
+          48.817,
+          2.463,
+          48.902
+        ],
+        "point": [
+          2.3435,
+          48.8595
+        ],
+        "labels": {
+          "en": "Paris"
+        },
+        "population": 2352721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.837,
+          48.759
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-idf",
+        "region_child": "yvelines",
+        "area": 0.49764000000000397,
+        "bounding_box": [
+          1.447,
+          48.44,
+          2.227,
+          49.078
+        ],
+        "point": [
+          1.837,
+          48.759
+        ],
+        "labels": {
+          "en": "Yvelines"
+        },
+        "population": 1475917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2439999999999998,
+          48.8405
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-idf",
+        "region_child": "hauts-de-seine",
+        "area": 0.04066400000000061,
+        "bounding_box": [
+          2.152,
+          48.73,
+          2.336,
+          48.951
+        ],
+        "point": [
+          2.2439999999999998,
+          48.8405
+        ],
+        "labels": {
+          "en": "Hauts-de-Seine"
+        },
+        "population": 1703888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9795,
+          48.620000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-idf",
+        "region_child": "seine-et-marne",
+        "area": 1.1483880000000026,
+        "bounding_box": [
+          2.403,
+          48.122,
+          3.556,
+          49.118
+        ],
+        "point": [
+          2.9795,
+          48.620000000000005
+        ],
+        "labels": {
+          "en": "Seine-et-Marne"
+        },
+        "population": 1528571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4619999999999997,
+          48.7765
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-idf",
+        "region_child": "val-de-marne",
+        "area": 0.05137599999999904,
+        "bounding_box": [
+          2.31,
+          48.692,
+          2.614,
+          48.861
+        ],
+        "point": [
+          2.4619999999999997,
+          48.7765
+        ],
+        "labels": {
+          "en": "Val-de-Marne"
+        },
+        "population": 1379274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.247,
+          48.5315
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-idf",
+        "region_child": "essonne",
+        "area": 0.31785000000000285,
+        "bounding_box": [
+          1.922,
+          48.287,
+          2.572,
+          48.776
+        ],
+        "point": [
+          2.247,
+          48.5315
+        ],
+        "labels": {
+          "en": "Essonne"
+        },
+        "population": 1314135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1,
+          49.070499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-idf",
+        "region_child": "val-d'oise",
+        "area": 0.31718600000000047,
+        "bounding_box": [
+          1.609,
+          48.909,
+          2.591,
+          49.232
+        ],
+        "point": [
+          2.1,
+          49.070499999999996
+        ],
+        "labels": {
+          "en": "Val-d'Oise"
+        },
+        "population": 1287739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.225,
+          44.164
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pac",
+        "region_child": "alpes-de-haute-provence",
+        "area": 1.4403839999999961,
+        "bounding_box": [
+          5.499,
+          43.668,
+          6.951,
+          44.66
+        ],
+        "point": [
+          6.225,
+          44.164
+        ],
+        "labels": {
+          "en": "Alpes-de-Haute-Provence"
+        },
+        "population": 187158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.247999999999999,
+          44.6565
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pac",
+        "region_child": "hautes-alpes",
+        "area": 1.5601780000000045,
+        "bounding_box": [
+          5.419,
+          44.186,
+          7.077,
+          45.127
+        ],
+        "point": [
+          6.247999999999999,
+          44.6565
+        ],
+        "labels": {
+          "en": "Hautes-Alpes"
+        },
+        "population": 154854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3015,
+          43.4265
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pac",
+        "region_child": "var",
+        "area": 0.9601350000000008,
+        "bounding_box": [
+          5.669,
+          43.047,
+          6.934,
+          43.806
+        ],
+        "point": [
+          6.3015,
+          43.4265
+        ],
+        "labels": {
+          "en": "Var"
+        },
+        "population": 1121656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.226,
+          43.0015
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pac",
+        "region_child": "var",
+        "area": 0.0017760000000002962,
+        "bounding_box": [
+          6.202,
+          42.983,
+          6.25,
+          43.02
+        ],
+        "point": [
+          6.226,
+          43.0015
+        ],
+        "labels": {
+          "en": "Var"
+        },
+        "population": 1121656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1765,
+          43.9205
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pac",
+        "region_child": "alpes-maritimes",
+        "area": 0.9523609999999998,
+        "bounding_box": [
+          6.636,
+          43.48,
+          7.717,
+          44.361
+        ],
+        "point": [
+          7.1765,
+          43.9205
+        ],
+        "labels": {
+          "en": "Alpes-Maritimes"
+        },
+        "population": 1130787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.202999999999999,
+          43.9945
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pac",
+        "region_child": "vaucluse",
+        "area": 0.743467999999999,
+        "bounding_box": [
+          4.649,
+          43.659,
+          5.757,
+          44.33
+        ],
+        "point": [
+          5.202999999999999,
+          43.9945
+        ],
+        "labels": {
+          "en": "Vaucluse"
+        },
+        "population": 592551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9735,
+          44.364
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pac",
+        "region_child": "vaucluse",
+        "area": 0.026398000000000074,
+        "bounding_box": [
+          4.875,
+          44.297,
+          5.072,
+          44.431
+        ],
+        "point": [
+          4.9735,
+          44.364
+        ],
+        "labels": {
+          "en": "Vaucluse"
+        },
+        "population": 592551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0215,
+          43.543499999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pac",
+        "region_child": "bouches-du-rhône",
+        "area": 1.2046630000000038,
+        "bounding_box": [
+          4.23,
+          43.163,
+          5.813,
+          43.924
+        ],
+        "point": [
+          5.0215,
+          43.543499999999995
+        ],
+        "labels": {
+          "en": "Bouches-du-Rhône"
+        },
+        "population": 2100233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.504,
+          42.945
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "ariège",
+        "area": 0.9972480000000062,
+        "bounding_box": [
+          0.832,
+          42.574,
+          2.176,
+          43.316
+        ],
+        "point": [
+          1.504,
+          42.945
+        ],
+        "labels": {
+          "en": "Ariège"
+        },
+        "population": 170004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.49,
+          44.5425
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "lozère",
+        "area": 0.8707119999999993,
+        "bounding_box": [
+          2.982,
+          44.114,
+          3.998,
+          44.971
+        ],
+        "point": [
+          3.49,
+          44.5425
+        ],
+        "labels": {
+          "en": "Lozère"
+        },
+        "population": 82338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.241,
+          43.791
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "tarn",
+        "area": 1.1298320000000002,
+        "bounding_box": [
+          1.547,
+          43.384,
+          2.935,
+          44.198
+        ],
+        "point": [
+          2.241,
+          43.791
+        ],
+        "labels": {
+          "en": "Tarn"
+        },
+        "population": 419680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.366,
+          44.081500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "tarn-et-garonne",
+        "area": 0.7750080000000028,
+        "bounding_box": [
+          0.742,
+          43.771,
+          1.99,
+          44.392
+        ],
+        "point": [
+          1.366,
+          44.081500000000005
+        ],
+        "labels": {
+          "en": "Tarn-et-Garonne"
+        },
+        "population": 288403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4645,
+          43.054500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "aude",
+        "area": 1.2594830000000001,
+        "bounding_box": [
+          1.688,
+          42.649,
+          3.241,
+          43.46
+        ],
+        "point": [
+          2.4645,
+          43.054500000000004
+        ],
+        "labels": {
+          "en": "Aude"
+        },
+        "population": 415793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0525,
+          43.96
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "gard",
+        "area": 1.5789999999999997,
+        "bounding_box": [
+          3.263,
+          43.46,
+          4.842,
+          44.46
+        ],
+        "point": [
+          4.0525,
+          43.96
+        ],
+        "labels": {
+          "en": "Gard"
+        },
+        "population": 810932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15750000000000003,
+          43.1405
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "hautes-pyrénées",
+        "area": 0.9021390000000045,
+        "bounding_box": [
+          -0.327,
+          42.675,
+          0.642,
+          43.606
+        ],
+        "point": [
+          0.15750000000000003,
+          43.1405
+        ],
+        "labels": {
+          "en": "Hautes-Pyrénées"
+        },
+        "population": 241017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11049999999999999,
+          43.2765
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "hautes-pyrénées",
+        "area": 0.004087000000000009,
+        "bounding_box": [
+          -0.141,
+          43.243,
+          -0.08,
+          43.31
+        ],
+        "point": [
+          -0.11049999999999999,
+          43.2765
+        ],
+        "labels": {
+          "en": "Hautes-Pyrénées"
+        },
+        "population": 241017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.087,
+          43.333
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "hautes-pyrénées",
+        "area": 0.002495999999999981,
+        "bounding_box": [
+          -0.111,
+          43.307,
+          -0.063,
+          43.359
+        ],
+        "point": [
+          -0.087,
+          43.333
+        ],
+        "labels": {
+          "en": "Hautes-Pyrénées"
+        },
+        "population": 241017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4495,
+          42.626000000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "pyrénées-orientales",
+        "area": 0.8450479999999944,
+        "bounding_box": [
+          1.726,
+          42.334,
+          3.173,
+          42.918
+        ],
+        "point": [
+          2.4495,
+          42.626000000000005
+        ],
+        "labels": {
+          "en": "Pyrénées-Orientales"
+        },
+        "population": 516602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6455,
+          44.316500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "aveyron",
+        "area": 2.012139000000004,
+        "bounding_box": [
+          1.84,
+          43.692,
+          3.451,
+          44.941
+        ],
+        "point": [
+          2.6455,
+          44.316500000000005
+        ],
+        "labels": {
+          "en": "Aveyron"
+        },
+        "population": 293650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2355,
+          43.304
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "haute-garonne",
+        "area": 1.9488360000000025,
+        "bounding_box": [
+          0.442,
+          42.69,
+          2.029,
+          43.918
+        ],
+        "point": [
+          1.2355,
+          43.304
+        ],
+        "labels": {
+          "en": "Haute-Garonne"
+        },
+        "population": 1500180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4595000000000001,
+          43.694500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "gers",
+        "area": 1.1374610000000045,
+        "bounding_box": [
+          -0.282,
+          43.311,
+          1.201,
+          44.078
+        ],
+        "point": [
+          0.4595000000000001,
+          43.694500000000005
+        ],
+        "labels": {
+          "en": "Gers"
+        },
+        "population": 208813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.367,
+          43.591
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "hérault",
+        "area": 1.2504240000000002,
+        "bounding_box": [
+          2.54,
+          43.213,
+          4.194,
+          43.969
+        ],
+        "point": [
+          3.367,
+          43.591
+        ],
+        "labels": {
+          "en": "Hérault"
+        },
+        "population": 1210532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6079999999999999,
+          44.625
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-occ",
+        "region_child": "lot",
+        "area": 1.0087159999999984,
+        "bounding_box": [
+          1.009,
+          44.204,
+          2.207,
+          45.046
+        ],
+        "point": [
+          1.6079999999999999,
+          44.625
+        ],
+        "labels": {
+          "en": "Lot"
+        },
+        "population": 193711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.346,
+          46.6755
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pdl",
+        "region_child": "vendée",
+        "area": 1.3202720000000001,
+        "bounding_box": [
+          -2.154,
+          46.267,
+          -0.538,
+          47.084
+        ],
+        "point": [
+          -1.346,
+          46.6755
+        ],
+        "labels": {
+          "en": "Vendée"
+        },
+        "population": 743488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.225,
+          46.9695
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pdl",
+        "region_child": "vendée",
+        "area": 0.01801799999999958,
+        "bounding_box": [
+          -2.302,
+          46.911,
+          -2.148,
+          47.028
+        ],
+        "point": [
+          -2.225,
+          46.9695
+        ],
+        "labels": {
+          "en": "Vendée"
+        },
+        "population": 743488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3520000000000003,
+          46.709
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pdl",
+        "region_child": "vendée",
+        "area": 0.004323999999999935,
+        "bounding_box": [
+          -2.399,
+          46.686,
+          -2.305,
+          46.732
+        ],
+        "point": [
+          -2.3520000000000003,
+          46.709
+        ],
+        "labels": {
+          "en": "Vendée"
+        },
+        "population": 743488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7399999999999998,
+          47.346000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pdl",
+        "region_child": "loire-atlantique",
+        "area": 1.543536000000002,
+        "bounding_box": [
+          -2.534,
+          46.86,
+          -0.946,
+          47.832
+        ],
+        "point": [
+          -1.7399999999999998,
+          47.346000000000004
+        ],
+        "labels": {
+          "en": "Loire-Atlantique"
+        },
+        "population": 1432353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5349999999999999,
+          47.393
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pdl",
+        "region_child": "maine-et-loire",
+        "area": 1.2843600000000048,
+        "bounding_box": [
+          -1.305,
+          46.976,
+          0.235,
+          47.81
+        ],
+        "point": [
+          -0.5349999999999999,
+          47.393
+        ],
+        "labels": {
+          "en": "Maine-et-Loire"
+        },
+        "population": 845693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.23300000000000004,
+          48.0245
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pdl",
+        "region_child": "sarthe",
+        "area": 1.2407819999999923,
+        "bounding_box": [
+          -0.448,
+          47.569,
+          0.914,
+          48.48
+        ],
+        "point": [
+          0.23300000000000004,
+          48.0245
+        ],
+        "labels": {
+          "en": "Sarthe"
+        },
+        "population": 606677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.645,
+          48.152
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-pdl",
+        "region_child": "mayenne",
+        "area": 0.9867520000000009,
+        "bounding_box": [
+          -1.238,
+          47.736,
+          -0.052,
+          48.568
+        ],
+        "point": [
+          -0.645,
+          48.152
+        ],
+        "labels": {
+          "en": "Mayenne"
+        },
+        "population": 332605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9795,
+          41.8735
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-cor",
+        "region_child": "corse-du-sud",
+        "area": 0.867825000000001,
+        "bounding_box": [
+          8.552,
+          41.366,
+          9.407,
+          42.381
+        ],
+        "point": [
+          8.9795,
+          41.8735
+        ],
+        "labels": {
+          "en": "Corse-du-Sud"
+        },
+        "population": 162737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.065999999999999,
+          42.4245
+        ]
+      },
+      "properties": {
+        "region_schema": "fr_department",
+        "region_parent": "fr-cor",
+        "region_child": "haute-corse",
+        "area": 1.158549999999996,
+        "bounding_box": [
+          8.573,
+          41.837,
+          9.559,
+          43.012
+        ],
+        "point": [
+          9.065999999999999,
+          42.4245
+        ],
+        "labels": {
+          "en": "Haute-Corse"
+        },
+        "population": 183089
+      }
+    }
+  ]
+}

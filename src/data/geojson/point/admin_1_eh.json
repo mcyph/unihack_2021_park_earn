@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.8905,
+          24.214
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "eh",
+        "region_child": "eh-x01~",
+        "area": 58.04058600000003,
+        "bounding_box": [
+          -17.1,
+          20.767,
+          -8.681,
+          27.661
+        ],
+        "point": [
+          -12.8905,
+          24.214
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 14,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 846
+      }
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.798,
+          50.557
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-us",
+        "area": 1.607040000000001,
+        "bounding_box": [
+          12.961,
+          50.077,
+          14.635,
+          51.037
+        ],
+        "point": [
+          13.798,
+          50.557
+        ],
+        "labels": {
+          "alt": "Ústí nad Labem Region, Ústecký kraj",
+          "local": null,
+          "len": 7,
+          "ar": "إقليم أوستي ناد لابم",
+          "bn": "উস্টি নাড লাবেম অঞ্চল",
+          "de": "Ústecký kraj",
+          "en": "Ústí nad Labem Region",
+          "es": "Región de Ústí nad Labem",
+          "fr": "région d'Aussig-sur-Elbe",
+          "el": "Περιφέρεια Ούστι ναντ Λάμπεμ",
+          "hi": "उस्ती नाड लाबेम क्षेत्र",
+          "hu": "Ústí nad Labem-i kerület",
+          "id": "Daerah Ústí nad Labem",
+          "it": "regione di Ústí nad Labem",
+          "ja": "ウースチー州",
+          "ko": "우스티 주",
+          "nl": "Ústí nad Labem",
+          "pl": "Kraj ustecki",
+          "pt": "Ústí nad Labem",
+          "ru": "Устецкий край",
+          "sv": "Ústí nad Labem",
+          "tr": "Ústí nad Labem",
+          "vi": "Ústí nad Labem",
+          "zh": "烏斯季州"
+        },
+        "population": 795664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.981,
+          50.7395
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-li",
+        "area": 0.6884340000000079,
+        "bounding_box": [
+          14.34,
+          50.471,
+          15.622,
+          51.008
+        ],
+        "point": [
+          14.981,
+          50.7395
+        ],
+        "labels": {
+          "alt": "Reichenberg| Liberec",
+          "local": null,
+          "len": 9,
+          "ar": "إقليم ليبيريتس",
+          "bn": "লাইবেরেক অঞ্চল",
+          "de": "Liberecký kraj",
+          "en": "Liberec Region",
+          "es": "Región de Liberec",
+          "fr": "région de Liberec",
+          "el": "Περιφέρεια Λίμπερετς",
+          "hi": "लिबेरेक प्रदेश",
+          "hu": "Libereci kerület",
+          "id": "Daerah Liberec",
+          "it": "regione di Liberec",
+          "ja": "リベレツ州",
+          "ko": "리베레츠 주",
+          "nl": "Liberec",
+          "pl": "Kraj liberecki",
+          "pt": "Liberec",
+          "ru": "Либерецкий край",
+          "sv": "Liberec",
+          "tr": "Liberec Bölgesi",
+          "vi": "Liberec",
+          "zh": "利贝雷茨州"
+        },
+        "population": 439446
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.684999999999999,
+          50.173
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-ka",
+        "area": 0.6485600000000011,
+        "bounding_box": [
+          12.08,
+          49.905,
+          13.29,
+          50.441
+        ],
+        "point": [
+          12.684999999999999,
+          50.173
+        ],
+        "labels": {
+          "alt": "Carlsbad| Karlovy Vary",
+          "local": null,
+          "len": 11,
+          "ar": "إقليم كارلوفي فاري",
+          "bn": "কার্লোভি ভেরি অঞ্চল",
+          "de": "Karlovarský kraj",
+          "en": "Karlovy Vary Region",
+          "es": "Región de Karlovy Vary",
+          "fr": "région de Karlovy Vary",
+          "el": "Περιφέρεια Κάρλοβυ Βάρυ",
+          "hi": "कार्लोवी वेरी प्रदेश",
+          "hu": "Karlovy Vary-i kerület",
+          "id": "Daerah Karlovy Vary",
+          "it": "regione di Karlovy Vary",
+          "ja": "カルロヴィ・ヴァリ州",
+          "ko": "카를로비바리 주",
+          "nl": "Karlsbad",
+          "pl": "Kraj karlowarski",
+          "pt": "Karlovy Vary",
+          "ru": "Карловарский край",
+          "sv": "Karlovy Vary",
+          "tr": "Karlovy Vary ili",
+          "vi": "Karlovy Vary",
+          "zh": "卡羅維發利州"
+        },
+        "population": 295082
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.097999999999999,
+          49.522999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-pl",
+        "area": 1.6707599999999911,
+        "bounding_box": [
+          12.384,
+          48.938,
+          13.812,
+          50.108
+        ],
+        "point": [
+          13.097999999999999,
+          49.522999999999996
+        ],
+        "labels": {
+          "alt": "Plzeň Region, Plzeňský kraj",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة بلزن-المدينة",
+          "bn": null,
+          "de": "Okres Plzeň-město",
+          "en": "Plzeň-City District",
+          "es": null,
+          "fr": "District de Plzeň-město",
+          "el": null,
+          "hi": null,
+          "hu": "Plzeň városi járás",
+          "id": null,
+          "it": "Distretto di Plzeň-město",
+          "ja": null,
+          "ko": null,
+          "nl": "Okres Plzeň-město",
+          "pl": null,
+          "pt": "Distrito de Plzeň-Ciudad",
+          "ru": "Пльзень-город",
+          "sv": "Okres Plzeň-Město",
+          "tr": null,
+          "vi": null,
+          "zh": "比爾森城縣"
+        },
+        "population": 600240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5485,
+          49.085499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-jc",
+        "area": 2.1659149999999983,
+        "bounding_box": [
+          13.522,
+          48.558,
+          15.575,
+          49.613
+        ],
+        "point": [
+          14.5485,
+          49.085499999999996
+        ],
+        "labels": {
+          "alt": "Budweis|Budejovický|Ceskobudejovický|South Bohemian",
+          "local": null,
+          "len": 9,
+          "ar": "إقليم جنوب بوهيميا",
+          "bn": "সাউথ বুহেমিয়া অঞ্চল",
+          "de": "Jihočeský kraj",
+          "en": "South Bohemia Region",
+          "es": "Región de Bohemia Meridional",
+          "fr": "Bohême-du-Sud",
+          "el": "Περιφέρεια Νότιας Βοημίας",
+          "hi": "दक्षिण बोहेमियाई क्षेत्र",
+          "hu": "Dél-csehországi kerület",
+          "id": "Daerah Bohemia Selatan",
+          "it": "Boemia Meridionale",
+          "ja": "南ボヘミア州",
+          "ko": "남보헤미아 주",
+          "nl": "Zuid-Bohemen",
+          "pl": "Kraj południowoczeski",
+          "pt": "Boêmia do Sul",
+          "ru": "Южночешский край",
+          "sv": "Södra Böhmen",
+          "tr": "Güney Bohemya ili",
+          "vi": "Nam Bohemia",
+          "zh": "南波希米亚州"
+        },
+        "population": 636682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8535,
+          50.402
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-kr",
+        "area": 1.1103599999999973,
+        "bounding_box": [
+          15.123,
+          50.022,
+          16.584,
+          50.782
+        ],
+        "point": [
+          15.8535,
+          50.402
+        ],
+        "labels": {
+          "alt": "Königsgrätz| Hradec Králové",
+          "local": null,
+          "len": 15,
+          "ar": "إقليم هرادتس كرالوفه",
+          "bn": "হারডেক ক্রালোভ অঞ্চল",
+          "de": "Královéhradecký kraj",
+          "en": "Hradec Králové Region",
+          "es": "Región de Hradec Králové",
+          "fr": "région de Hradec Králové",
+          "el": "Περιφέρεια Χράντετς Κράλοβε",
+          "hi": "ह्रदेक क्रालोव प्रदेश",
+          "hu": "Hradec Králové-i kerület",
+          "id": "Daerah Hradec Kralove",
+          "it": "regione di Hradec Králové",
+          "ja": "フラデツ・クラーロヴェー州",
+          "ko": "흐라데츠크랄로베 주",
+          "nl": "Hradec Králové",
+          "pl": "Kraj hradecki",
+          "pt": "Hradec Králové",
+          "ru": "Краловеградецкий край",
+          "sv": "Hradec Králové",
+          "tr": "Hradec Králové ili",
+          "vi": "Hradec Králové",
+          "zh": "赫拉德茨-克拉洛韋州"
+        },
+        "population": 554949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.316499999999998,
+          49.846000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-ol",
+        "area": 1.3534920000000021,
+        "bounding_box": [
+          16.727,
+          49.272,
+          17.906,
+          50.42
+        ],
+        "point": [
+          17.316499999999998,
+          49.846000000000004
+        ],
+        "labels": {
+          "alt": "Olomouc Region, Olomoucký kraj",
+          "local": null,
+          "len": 9,
+          "ar": "إقليم أولوموتس",
+          "bn": "ওলোমুক অঞ্চল",
+          "de": "Olomoucký kraj",
+          "en": "Olomouc Region",
+          "es": "Región de Olomouc",
+          "fr": "région d'Olomouc",
+          "el": "Περιφέρεια Όλομουτς",
+          "hi": "ओलोमौक क्षेत्र",
+          "hu": "Olomouci kerület",
+          "id": "Daerah Olomouc",
+          "it": "regione di Olomouc",
+          "ja": "オロモウツ州",
+          "ko": "올로모우츠 주",
+          "nl": "Olomouc",
+          "pl": "Kraj ołomuniecki",
+          "pt": "Olomouc",
+          "ru": "Оломоуцкий край",
+          "sv": "Olomouc",
+          "tr": "Olomuc Bölgesi",
+          "vi": "Olomouc",
+          "zh": "奧洛穆克州"
+        },
+        "population": 609275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1145,
+          49.8935
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-pa",
+        "area": 0.8960229999999952,
+        "bounding_box": [
+          15.359,
+          49.597,
+          16.87,
+          50.19
+        ],
+        "point": [
+          16.1145,
+          49.8935
+        ],
+        "labels": {
+          "alt": "Pardubice Region, Pardubický kraj",
+          "local": null,
+          "len": 10,
+          "ar": "إقليم باردوبيتسه",
+          "bn": "পারডোবিচে অঞ্চল",
+          "de": "Pardubický kraj",
+          "en": "Pardubice Region",
+          "es": "Región de Pardubice",
+          "fr": "région de Pardubice",
+          "el": "Περιφέρεια Παρντούμπιτσε",
+          "hi": "पार्दुबिस प्रदेश",
+          "hu": "Pardubicei kerület",
+          "id": "Daerah Pardubice",
+          "it": "regione di Pardubice",
+          "ja": "パルドゥビツェ州",
+          "ko": "파르두비체 주",
+          "nl": "Pardubice",
+          "pl": "Kraj pardubicki",
+          "pt": "Pardubice",
+          "ru": "Пардубицкий край",
+          "sv": "Pardubice",
+          "tr": "Pardubice Bölgesi",
+          "vi": "Pardubice",
+          "zh": "帕爾杜比采州"
+        },
+        "population": 514195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9845,
+          49.845
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-mo",
+        "area": 1.5887339999999963,
+        "bounding_box": [
+          17.134,
+          49.378,
+          18.835,
+          50.312
+        ],
+        "point": [
+          17.9845,
+          49.845
+        ],
+        "labels": {
+          "alt": "Mährisch-Ostrau|Mähren|Morava|Moravie|Mor via|Moravskoslezský|Ostravský| Moravian-Silesian",
+          "local": null,
+          "len": 15,
+          "ar": "إقليم مورافيا-سيليزيا",
+          "bn": "মুরাভিয়ান অঞ্চল",
+          "de": "Moravskoslezský kraj",
+          "en": "Moravian-Silesian Region",
+          "es": "Región de Moravia-Silesia",
+          "fr": "région de Moravie-Silésie",
+          "el": "Περιφέρεια Μοραβίας Σιλεσίας",
+          "hi": "मोरावियन-सिलेसियन क्षेत्र",
+          "hu": "Morva-sziléziai kerület",
+          "id": "Daerah Moravia-Silesia",
+          "it": "regione di Moravia-Slesia",
+          "ja": "モラヴィア・スレスコ州",
+          "ko": "모라바슬레스코 주",
+          "nl": "Moravië-Silezië",
+          "pl": "Kraj morawsko-śląski",
+          "pt": "Morávia-Silésia",
+          "ru": "Моравскосилезский край",
+          "sv": "Mähren-Schlesien",
+          "tr": "Moravya-Silezya Bölgesi",
+          "vi": "Moravia–Silesia",
+          "zh": "摩拉維亞-西里西亞州"
+        },
+        "population": 1121400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.595,
+          49.119
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-jm",
+        "area": 2.1650600000000026,
+        "bounding_box": [
+          15.544,
+          48.604,
+          17.646,
+          49.634
+        ],
+        "point": [
+          16.595,
+          49.119
+        ],
+        "labels": {
+          "alt": "South Moravian Region, Jihomoravský kraj",
+          "local": null,
+          "len": 12,
+          "ar": "محافظة مورافيا الجنوبية",
+          "bn": "সাউথ মুরাভিয়ান অঞ্চল",
+          "de": "Jihomoravský kraj",
+          "en": "South Moravian Region",
+          "es": "Región de Moravia Meridional",
+          "fr": "Moravie du Sud",
+          "el": "Περιφέρεια Νότιας Μοραβίας",
+          "hi": "दक्षिण मोरावियन क्षेत्र",
+          "hu": "Dél-morvaországi kerület",
+          "id": "Wilayah Moravia Selatan",
+          "it": "Moravia meridionale",
+          "ja": "南モラヴィア州",
+          "ko": "남모라바 주",
+          "nl": "Zuid-Moravië",
+          "pl": "Kraj południowomorawski",
+          "pt": "Morávia do Sul",
+          "ru": "Южноморавский край",
+          "sv": "Södra Mähren",
+          "tr": "Güney Moravya ili",
+          "vi": "Nam Moravia",
+          "zh": "南摩拉維亞州"
+        },
+        "population": 1193880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.749000000000002,
+          49.1845
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-zl",
+        "area": 0.8740600000000027,
+        "bounding_box": [
+          17.111,
+          48.842,
+          18.387,
+          49.527
+        ],
+        "point": [
+          17.749000000000002,
+          49.1845
+        ],
+        "labels": {
+          "alt": "Zlín Region, Zlínský kraj",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة زلين",
+          "bn": null,
+          "de": "Okres Zlín",
+          "en": "Zlín District",
+          "es": null,
+          "fr": "District de Zlín",
+          "el": null,
+          "hi": null,
+          "hu": "Zlíni járás",
+          "id": null,
+          "it": "Distretto di Zlín",
+          "ja": null,
+          "ko": null,
+          "nl": "Okres Zlín",
+          "pl": "Powiat Zlin",
+          "pt": "Zlín",
+          "ru": "Злин",
+          "sv": "Okres Zlín",
+          "tr": null,
+          "vi": "Zlín",
+          "zh": null
+        },
+        "population": 569250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.643999999999998,
+          49.411500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-vy",
+        "area": 1.4102219999999912,
+        "bounding_box": [
+          14.885,
+          48.947,
+          16.403,
+          49.876
+        ],
+        "point": [
+          15.643999999999998,
+          49.411500000000004
+        ],
+        "labels": {
+          "alt": "Iglau|Jihlavský|Vysocina|Vysočina",
+          "local": null,
+          "len": 8,
+          "ar": "إقليم فيسوتشنا",
+          "bn": "ভাইসোচিনা অঞ্চল",
+          "de": "Kraj Vysočina",
+          "en": "Vysočina Region",
+          "es": "Región de Vysočina",
+          "fr": "région de Vysočina",
+          "el": "Περιφέρεια Βίσοτσινα",
+          "hi": "विसोकिना क्षेत्र",
+          "hu": "Vysočina kerület",
+          "id": "Daerah Vysočina",
+          "it": "regione di Vysočina",
+          "ja": "ヴィソチナ州",
+          "ko": "비소치나 주",
+          "nl": "Vysočina",
+          "pl": "Kraj Vysočina",
+          "pt": "Vysočina",
+          "ru": "Край Высочина",
+          "sv": "Vysočina",
+          "tr": "Vysocina Bölgesi",
+          "vi": "Vysočina",
+          "zh": "維索基納州"
+        },
+        "population": 512327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.456,
+          50.0455
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-st",
+        "area": 2.3372999999999986,
+        "bounding_box": [
+          13.406,
+          49.489,
+          15.506,
+          50.602
+        ],
+        "point": [
+          14.456,
+          50.0455
+        ],
+        "labels": {
+          "alt": "Central Bohemian",
+          "local": null,
+          "len": 11,
+          "ar": "إقليم بوهيميا الوسطى",
+          "bn": "সেন্ট্রাল বুহেমিয়ান অঞ্চল",
+          "de": "Středočeský kraj",
+          "en": "Central Bohemian Region",
+          "es": "Bohemia Central",
+          "fr": "Bohême centrale",
+          "el": "Περιφέρεια Κεντρικής Βοημίας",
+          "hi": "केंद्रीय बोहेमियन क्षेत्र",
+          "hu": "Közép-csehországi kerület",
+          "id": "Daerah Bohemia Tengah",
+          "it": "Boemia centrale",
+          "ja": "中央ボヘミア州",
+          "ko": "중앙보헤미아 주",
+          "nl": "Midden-Bohemen",
+          "pl": "Kraj środkowoczeski",
+          "pt": "Boêmia Central",
+          "ru": "Среднечешский край",
+          "sv": "Mellersta Böhmen",
+          "tr": "Orta Bohemia",
+          "vi": "Trung Bohemia",
+          "zh": "中波希米亚州"
+        },
+        "population": 1578871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.45,
+          50.061
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "cz",
+        "region_child": "cz-pr",
+        "area": 0.09692799999999911,
+        "bounding_box": [
+          14.217,
+          49.957,
+          14.683,
+          50.165
+        ],
+        "point": [
+          14.45,
+          50.061
+        ],
+        "labels": {
+          "alt": "Prag |Hlavní město Praha",
+          "local": null,
+          "len": 6,
+          "ar": "براغ",
+          "bn": "প্রাগ",
+          "de": "Prag",
+          "en": "Prague",
+          "es": "Praga",
+          "fr": "Prague",
+          "el": "Πράγα",
+          "hi": "प्राग",
+          "hu": "Prága",
+          "id": "Praha",
+          "it": "Praga",
+          "ja": "プラハ",
+          "ko": "프라하",
+          "nl": "Praag",
+          "pl": "Praga",
+          "pt": "Praga",
+          "ru": "Прага",
+          "sv": "Prag",
+          "tr": "Prag",
+          "vi": "Praha",
+          "zh": "布拉格"
+        },
+        "population": 1350194
+      }
+    }
+  ]
+}

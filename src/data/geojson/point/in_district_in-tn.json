@@ -1,0 +1,1145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.815,
+          13.254000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "thiruvallur",
+        "area": 0.6563159999999989,
+        "bounding_box": [
+          79.284,
+          12.945,
+          80.346,
+          13.563
+        ],
+        "point": [
+          79.815,
+          13.254000000000001
+        ],
+        "labels": {
+          "en": "Thiruvallur"
+        },
+        "population": 4786767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2145,
+          13.0
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "chennai",
+        "area": 0.04947800000000076,
+        "bounding_box": [
+          80.128,
+          12.857,
+          80.301,
+          13.143
+        ],
+        "point": [
+          80.2145,
+          13.0
+        ],
+        "labels": {
+          "en": "Chennai"
+        },
+        "population": 5607590
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.071,
+          12.515
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "krishnagiri",
+        "area": 0.902400000000003,
+        "bounding_box": [
+          77.471,
+          12.139,
+          78.671,
+          12.891
+        ],
+        "point": [
+          78.071,
+          12.515
+        ],
+        "labels": {
+          "en": "Krishnagiri"
+        },
+        "population": 2146070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1935,
+          12.429
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "tiruvannamalai",
+        "area": 1.0012500000000006,
+        "bounding_box": [
+          78.631,
+          11.984,
+          79.756,
+          12.874
+        ],
+        "point": [
+          79.1935,
+          12.429
+        ],
+        "labels": {
+          "en": "Tiruvannamalai"
+        },
+        "population": 2921688
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.205,
+          12.1495
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "dharmapuri",
+        "area": 0.7564699999999946,
+        "bounding_box": [
+          77.676,
+          11.792,
+          78.734,
+          12.507
+        ],
+        "point": [
+          78.205,
+          12.1495
+        ],
+        "labels": {
+          "en": "Dharmapuri"
+        },
+        "population": 1772808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2525,
+          11.646999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "salem",
+        "area": 0.7841839999999979,
+        "bounding_box": [
+          77.662,
+          11.315,
+          78.843,
+          11.979
+        ],
+        "point": [
+          78.2525,
+          11.646999999999998
+        ],
+        "labels": {
+          "en": "Salem"
+        },
+        "population": 3968605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3835,
+          11.4885
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "erode",
+        "area": 1.018773000000003,
+        "bounding_box": [
+          76.834,
+          11.025,
+          77.933,
+          11.952
+        ],
+        "point": [
+          77.3835,
+          11.4885
+        ],
+        "labels": {
+          "en": "Erode"
+        },
+        "population": 2293756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.623,
+          11.445
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "nilgiris",
+        "area": 0.40560000000000024,
+        "bounding_box": [
+          76.233,
+          11.185,
+          77.013,
+          11.705
+        ],
+        "point": [
+          76.623,
+          11.445
+        ],
+        "labels": {
+          "en": "Nilgiris"
+        },
+        "population": 709141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0845,
+          11.305
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "namakkal",
+        "area": 0.4689519999999981,
+        "bounding_box": [
+          77.683,
+          11.013,
+          78.486,
+          11.597
+        ],
+        "point": [
+          78.0845,
+          11.305
+        ],
+        "labels": {
+          "en": "Namakkal"
+        },
+        "population": 2003893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.90950000000001,
+          11.291
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "perambalur",
+        "area": 0.2398880000000049,
+        "bounding_box": [
+          78.651,
+          11.059,
+          79.168,
+          11.523
+        ],
+        "point": [
+          78.90950000000001,
+          11.291
+        ],
+        "labels": {
+          "en": "Perambalur"
+        },
+        "population": 604632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9765,
+          10.8125
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "coimbatore",
+        "area": 0.7499349999999898,
+        "bounding_box": [
+          76.659,
+          10.222,
+          77.294,
+          11.403
+        ],
+        "point": [
+          76.9765,
+          10.8125
+        ],
+        "labels": {
+          "en": "Coimbatore"
+        },
+        "population": 4180752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.589,
+          10.8545
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "tiruchirappalli",
+        "area": 0.9387359999999982,
+        "bounding_box": [
+          78.165,
+          10.301,
+          79.013,
+          11.408
+        ],
+        "point": [
+          78.589,
+          10.8545
+        ],
+        "labels": {
+          "en": "Tiruchirappalli"
+        },
+        "population": 3070307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.226,
+          11.1525
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "ariyalur",
+        "area": 0.3016080000000057,
+        "bounding_box": [
+          78.942,
+          10.887,
+          79.51,
+          11.418
+        ],
+        "point": [
+          79.226,
+          11.1525
+        ],
+        "labels": {
+          "en": "Ariyalur"
+        },
+        "population": 767515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45949999999999,
+          10.7925
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "tiruppur",
+        "area": 0.9366030000000035,
+        "bounding_box": [
+          77.041,
+          10.233,
+          77.878,
+          11.352
+        ],
+        "point": [
+          77.45949999999999,
+          10.7925
+        ],
+        "labels": {
+          "en": "Tiruppur"
+        },
+        "population": 3129463
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2025,
+          10.660499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "thanjavur",
+        "area": 0.7339469999999922,
+        "bounding_box": [
+          78.852,
+          10.137,
+          79.553,
+          11.184
+        ],
+        "point": [
+          79.2025,
+          10.660499999999999
+        ],
+        "labels": {
+          "en": "Thanjavur"
+        },
+        "population": 2500151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.16499999999999,
+          10.822
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "karur",
+        "area": 0.4553999999999929,
+        "bounding_box": [
+          77.751,
+          10.547,
+          78.579,
+          11.097
+        ],
+        "point": [
+          78.16499999999999,
+          10.822
+        ],
+        "labels": {
+          "en": "Karur"
+        },
+        "population": 1240550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5155,
+          10.6875
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "thiruvarur",
+        "area": 0.31995899999999655,
+        "bounding_box": [
+          79.272,
+          10.359,
+          79.759,
+          11.016
+        ],
+        "point": [
+          79.5155,
+          10.6875
+        ],
+        "labels": {
+          "en": "Thiruvarur"
+        },
+        "population": 1429952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.803,
+          10.4185
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "dindigul",
+        "area": 0.8399499999999948,
+        "bounding_box": [
+          77.268,
+          10.026,
+          78.338,
+          10.811
+        ],
+        "point": [
+          77.803,
+          10.4185
+        ],
+        "labels": {
+          "en": "Dindigul"
+        },
+        "population": 2450691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.961,
+          9.9365
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "madurai",
+        "area": 0.7425179999999997,
+        "bounding_box": [
+          77.464,
+          9.563,
+          78.458,
+          10.31
+        ],
+        "point": [
+          77.961,
+          9.9365
+        ],
+        "labels": {
+          "en": "Madurai"
+        },
+        "population": 3378575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4465,
+          9.865
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "theni",
+        "area": 0.38544399999999174,
+        "bounding_box": [
+          77.168,
+          9.519,
+          77.725,
+          10.211
+        ],
+        "point": [
+          77.4465,
+          9.865
+        ],
+        "labels": {
+          "en": "Theni"
+        },
+        "population": 1408542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8845,
+          9.494
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "virudhunagar",
+        "area": 0.6371440000000044,
+        "bounding_box": [
+          77.339,
+          9.202,
+          78.43,
+          9.786
+        ],
+        "point": [
+          77.8845,
+          9.494
+        ],
+        "labels": {
+          "en": "Virudhunagar"
+        },
+        "population": 2103515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.02950000000001,
+          8.846
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "thoothukkudi",
+        "area": 0.7422839999999988,
+        "bounding_box": [
+          77.674,
+          8.324,
+          78.385,
+          9.368
+        ],
+        "point": [
+          78.02950000000001,
+          8.846
+        ],
+        "labels": {
+          "en": "Thoothukkudi"
+        },
+        "population": 1809425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3435,
+          8.3275
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "kanyakumari",
+        "area": 0.2469729999999999,
+        "bounding_box": [
+          77.098,
+          8.076,
+          77.589,
+          8.579
+        ],
+        "point": [
+          77.3435,
+          8.3275
+        ],
+        "labels": {
+          "en": "Kanyakumari"
+        },
+        "population": 2064209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5895,
+          12.117
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "viluppuram",
+        "area": 0.5591159999999936,
+        "bounding_box": [
+          79.171,
+          11.783,
+          80.008,
+          12.451
+        ],
+        "point": [
+          79.5895,
+          12.117
+        ],
+        "labels": {
+          "en": "Viluppuram"
+        },
+        "population": 2515452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.345,
+          11.516
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "cuddalore",
+        "area": 0.6832800000000055,
+        "bounding_box": [
+          78.877,
+          11.151,
+          79.813,
+          11.881
+        ],
+        "point": [
+          79.345,
+          11.516
+        ],
+        "labels": {
+          "en": "Cuddalore"
+        },
+        "population": 2967435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.85249999999999,
+          10.293
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "pudukkottai",
+        "area": 0.7063159999999922,
+        "bounding_box": [
+          78.453,
+          9.851,
+          79.252,
+          10.735
+        ],
+        "point": [
+          78.85249999999999,
+          10.293
+        ],
+        "labels": {
+          "en": "Pudukkottai"
+        },
+        "population": 1828418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.562,
+          9.965
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "sivaganga",
+        "area": 0.7778599999999962,
+        "bounding_box": [
+          78.125,
+          9.52,
+          78.999,
+          10.41
+        ],
+        "point": [
+          78.562,
+          9.965
+        ],
+        "labels": {
+          "en": "Sivaganga"
+        },
+        "population": 1544993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7825,
+          9.519
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "ramanathapuram",
+        "area": 0.9596499999999937,
+        "bounding_box": [
+          78.218,
+          9.094,
+          79.347,
+          9.944
+        ],
+        "point": [
+          78.7825,
+          9.519
+        ],
+        "labels": {
+          "en": "Ramanathapuram"
+        },
+        "population": 1534100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.67699999999999,
+          10.6005
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "nagapattinam",
+        "area": 0.2693700000000071,
+        "bounding_box": [
+          79.472,
+          10.272,
+          79.882,
+          10.929
+        ],
+        "point": [
+          79.67699999999999,
+          10.6005
+        ],
+        "labels": {
+          "en": "Nagapattinam"
+        },
+        "population": 1797204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6835,
+          11.1945
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "nagapattinam",
+        "area": 0.15835499999999936,
+        "bounding_box": [
+          79.511,
+          10.965,
+          79.856,
+          11.424
+        ],
+        "point": [
+          79.6835,
+          11.1945
+        ],
+        "labels": {
+          "en": "Nagapattinam"
+        },
+        "population": 1797204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.04499999999999,
+          11.793
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "kallakurichi",
+        "area": 0.4815359999999981,
+        "bounding_box": [
+          78.627,
+          11.505,
+          79.463,
+          12.081
+        ],
+        "point": [
+          79.04499999999999,
+          11.793
+        ],
+        "labels": {
+          "en": "Kallakurichi"
+        },
+        "population": 1576894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50399999999999,
+          9.0805
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "tenkasi",
+        "area": 0.48208999999999597,
+        "bounding_box": [
+          77.149,
+          8.741,
+          77.859,
+          9.42
+        ],
+        "point": [
+          77.50399999999999,
+          9.0805
+        ],
+        "labels": {
+          "en": "Tenkasi"
+        },
+        "population": 1664662
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.575,
+          8.604500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "tirunelveli",
+        "area": 0.7357680000000016,
+        "bounding_box": [
+          77.179,
+          8.14,
+          77.971,
+          9.069
+        ],
+        "point": [
+          77.575,
+          8.604500000000002
+        ],
+        "labels": {
+          "en": "Tirunelveli"
+        },
+        "population": 1868643
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9485,
+          12.895
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "vellore",
+        "area": 0.36208400000000196,
+        "bounding_box": [
+          78.603,
+          12.633,
+          79.294,
+          13.157
+        ],
+        "point": [
+          78.9485,
+          12.895
+        ],
+        "labels": {
+          "en": "Vellore"
+        },
+        "population": 1727795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.48400000000001,
+          12.913499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "ranipet",
+        "area": 0.349452000000005,
+        "bounding_box": [
+          79.178,
+          12.628,
+          79.79,
+          13.199
+        ],
+        "point": [
+          79.48400000000001,
+          12.913499999999999
+        ],
+        "labels": {
+          "en": "Ranipet"
+        },
+        "population": 1204070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.66,
+          12.5765
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "tirupathur",
+        "area": 0.3223220000000004,
+        "bounding_box": [
+          78.407,
+          12.258,
+          78.913,
+          12.895
+        ],
+        "point": [
+          78.66,
+          12.5765
+        ],
+        "labels": {
+          "en": "Tirupathur"
+        },
+        "population": 1321864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.832,
+          12.7895
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "kancheepuram",
+        "area": 0.28119000000000366,
+        "bounding_box": [
+          79.559,
+          12.532,
+          80.105,
+          13.047
+        ],
+        "point": [
+          79.832,
+          12.7895
+        ],
+        "labels": {
+          "en": "Kancheepuram"
+        },
+        "population": 1561439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.94749999999999,
+          12.6325
+        ]
+      },
+      "properties": {
+        "region_schema": "in_district",
+        "region_parent": "in-tn",
+        "region_child": "chengalpattu",
+        "area": 0.4963049999999961,
+        "bounding_box": [
+          79.64,
+          12.229,
+          80.255,
+          13.036
+        ],
+        "point": [
+          79.94749999999999,
+          12.6325
+        ],
+        "labels": {
+          "en": "Chengalpattu"
+        },
+        "population": 3164405
+      }
+    }
+  ]
+}

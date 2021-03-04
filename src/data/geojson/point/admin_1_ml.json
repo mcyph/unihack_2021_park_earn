@@ -1,0 +1,482 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.198,
+          13.789000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ml",
+        "region_child": "ml-1",
+        "area": 15.693335999999999,
+        "bounding_box": [
+          -12.264,
+          11.89,
+          -8.132,
+          15.688
+        ],
+        "point": [
+          -10.198,
+          13.789000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "منطقة كايس",
+          "bn": "কায়েস অঞ্চল",
+          "de": "Region Kayes",
+          "en": "Kayes Region",
+          "es": "Kayes",
+          "fr": "Kayes",
+          "el": "Περιφέρεια Καγιές",
+          "hi": "कायेस क्षेत्र",
+          "hu": "Kayes régió",
+          "id": "Region Kayes",
+          "it": "regione di Kayes",
+          "ja": "カイ州",
+          "ko": "케이스 주",
+          "nl": "Kayes",
+          "pl": "Region Kayes",
+          "pt": "Kayes",
+          "ru": "Каес",
+          "sv": "Kayes",
+          "tr": "Kayes Bölgesi",
+          "vi": "Khu vực Kayes",
+          "zh": "卡伊區"
+        },
+        "population": 3009720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2945,
+          20.026
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ml",
+        "region_child": "ml-6",
+        "area": 65.560986,
+        "bounding_box": [
+          -6.593,
+          15.057,
+          0.004,
+          24.995
+        ],
+        "point": [
+          -3.2945,
+          20.026
+        ],
+        "labels": {
+          "alt": "Timbouctou|Tombouctou|Timbuct|Timbuctu|Tombuktu|Tombuctú|Tomboucto",
+          "local": null,
+          "len": 8,
+          "ar": "منطقة تمبكتو",
+          "bn": "তম্বুকতু অঞ্চল",
+          "de": "Region Timbuktu",
+          "en": "Tombouctou Region",
+          "es": "Tombuctú",
+          "fr": "Région de Tombouctou",
+          "el": "Περιφέρεια Τομπουκτού",
+          "hi": "टॉम्बौक्टाउ क्षेत्र",
+          "hu": null,
+          "id": "Region Timbuktu",
+          "it": "regione di Timbuctù",
+          "ja": "トンブクトゥ州",
+          "ko": "통북투 주",
+          "nl": "Timboektoe",
+          "pl": "Region Timbuktu",
+          "pt": "Tombouctou",
+          "ru": "Томбукту",
+          "sv": "Timbuktu",
+          "tr": "Tombouctou Bölgesi",
+          "vi": "Khu vực Tombouctou",
+          "zh": "通布圖區"
+        },
+        "population": 1100381
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2644999999999997,
+          16.933
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ml",
+        "region_child": "ml-7",
+        "area": 24.033491999999992,
+        "bounding_box": [
+          -1.707,
+          14.911,
+          4.236,
+          18.955
+        ],
+        "point": [
+          1.2644999999999997,
+          16.933
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 3,
+          "ar": "منطقة غاو",
+          "bn": "গাও অঞ্চল",
+          "de": "Region Gao",
+          "en": "Gao Region",
+          "es": "Gao",
+          "fr": "Région de Gao",
+          "el": "Περιφέρεια Γκαό",
+          "hi": "गाओ क्षेत्र",
+          "hu": "Gao régió",
+          "id": "Region Gao",
+          "it": "regione di Gao",
+          "ja": "ガオ州",
+          "ko": "가오 주",
+          "nl": "Gao",
+          "pl": "Region Gao",
+          "pt": "Gao",
+          "ru": "Гао",
+          "sv": "Gao",
+          "tr": "Gao Belediyesi",
+          "vi": "Khu vực Gao",
+          "zh": "加奥区"
+        },
+        "population": 903367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2175,
+          14.5315
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ml",
+        "region_child": "ml-5",
+        "area": 13.343211,
+        "bounding_box": [
+          -5.664,
+          13.168,
+          -0.771,
+          15.895
+        ],
+        "point": [
+          -3.2175,
+          14.5315
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "منطقة موبتي",
+          "bn": "মুপ্তি অঞ্চল",
+          "de": "Region Mopti",
+          "en": "Mopti Region",
+          "es": "Región de Mopti",
+          "fr": "Région de Mopti",
+          "el": "Περιφέρεια Μοπτί",
+          "hi": "मोपटी क्षेत्र",
+          "hu": null,
+          "id": "Region Mopti",
+          "it": "regione di Mopti",
+          "ja": "モプティ州",
+          "ko": "몹티 주",
+          "nl": "Mopti",
+          "pl": "Region Mopti",
+          "pt": "Mopti",
+          "ru": "Мопти",
+          "sv": "Mopti",
+          "tr": "Mopti Region",
+          "vi": "Khu vực Mopti",
+          "zh": "莫普提区"
+        },
+        "population": 2943817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.519500000000001,
+          14.054
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ml",
+        "region_child": "ml-4",
+        "area": 9.362754000000004,
+        "bounding_box": [
+          -7.081,
+          12.555,
+          -3.958,
+          15.553
+        ],
+        "point": [
+          -5.519500000000001,
+          14.054
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "منطقة سيغو",
+          "bn": "সেগুউ অঞ্চল",
+          "de": "Region Ségou",
+          "en": "Ségou Region",
+          "es": "Segú",
+          "fr": "Région de Ségou",
+          "el": "Περιφέρεια Σεγκού",
+          "hi": "सेगोऊ क्षेत्र",
+          "hu": null,
+          "id": "Region Ségou",
+          "it": "regione di Ségou",
+          "ja": "セグー州",
+          "ko": "세구 주",
+          "nl": "Ségou",
+          "pl": "Region Ségou",
+          "pt": "Ségou",
+          "ru": "Сегу",
+          "sv": "Ségou",
+          "tr": "Ségou Bölgesi",
+          "vi": "Khu vực Ségou",
+          "zh": "塞古区"
+        },
+        "population": 3376026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.542,
+          11.4785
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ml",
+        "region_child": "ml-3",
+        "area": 11.537869999999998,
+        "bounding_box": [
+          -8.697,
+          10.14,
+          -4.387,
+          12.817
+        ],
+        "point": [
+          -6.542,
+          11.4785
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "منطقة سيكاسو",
+          "bn": "সিকাসো অঞ্চল",
+          "de": "Region Sikasso",
+          "en": "Sikasso Region",
+          "es": "Sikasso",
+          "fr": "Région de Sikasso",
+          "el": "Περιφέρεια Σικασσό",
+          "hi": "सिकासो क्षेत्र",
+          "hu": "Sikasso régió",
+          "id": "Region Sikasso",
+          "it": "regione di Sikasso",
+          "ja": "シカソ州",
+          "ko": "시카소 주",
+          "nl": "Sikasso",
+          "pl": "Region Sikasso",
+          "pt": "Sikasso",
+          "ru": "Сикасо",
+          "sv": "Sikasso",
+          "tr": "Sikasso Bölgesi",
+          "vi": "Khu vực Sikasso",
+          "zh": "锡卡索区"
+        },
+        "population": 4040683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.543,
+          13.475999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ml",
+        "region_child": "ml-2",
+        "area": 12.911840000000002,
+        "bounding_box": [
+          -9.141,
+          11.456,
+          -5.945,
+          15.496
+        ],
+        "point": [
+          -7.543,
+          13.475999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 9,
+          "ar": "منطقة كوليكورو",
+          "bn": "কউলিকুরো অঞ্চল",
+          "de": "Region Koulikoro",
+          "en": "Koulikoro Region",
+          "es": "Kulikoró",
+          "fr": "Région de Koulikoro",
+          "el": "Περιφέρεια Κουλικορό",
+          "hi": "कोइलिकोरो क्षेत्र",
+          "hu": "Koulikoro régió",
+          "id": "Region Koulikoro",
+          "it": "regione di Koulikoro",
+          "ja": "クリコロ州",
+          "ko": "쿨리코로 주",
+          "nl": "Koulikoro",
+          "pl": "Region Koulikoro",
+          "pt": "Koulikoro",
+          "ru": "Куликоро",
+          "sv": "Koulikoro",
+          "tr": "Koulikoro Bölgesi",
+          "vi": "Khu vực Koulikoro",
+          "zh": "库利科罗区"
+        },
+        "population": 5085087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0945,
+          19.739
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ml",
+        "region_child": "ml-8",
+        "area": 26.480499999999996,
+        "bounding_box": [
+          -2.043,
+          17.629,
+          4.232,
+          21.849
+        ],
+        "point": [
+          1.0945,
+          19.739
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "منطقة كيدال",
+          "bn": "কিডাল অঞ্চল",
+          "de": "Region Kidal",
+          "en": "Kidal Region",
+          "es": "Kidal",
+          "fr": "Région de Kidal",
+          "el": "Περιφέρεια Κιντάλ",
+          "hi": "किडाल प्रदेश",
+          "hu": "Kidal régió",
+          "id": "Region Kidal",
+          "it": "regione di Kidal",
+          "ja": "キダル州",
+          "ko": "키달 주",
+          "nl": "Kidal",
+          "pl": "Region Kidal",
+          "pt": "Kidal",
+          "ru": "Кидаль",
+          "sv": "Kidal",
+          "tr": "Kidal Region",
+          "vi": "Khu vực Kidal",
+          "zh": "基達爾區"
+        },
+        "population": 133074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.001000000000001,
+          12.6235
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "ml",
+        "region_child": "ml-bko",
+        "area": 0.02189600000000035,
+        "bounding_box": [
+          -8.069,
+          12.543,
+          -7.933,
+          12.704
+        ],
+        "point": [
+          -8.001000000000001,
+          12.6235
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "باماكو",
+          "bn": "বামাকো",
+          "de": "Bamako",
+          "en": "Bamako",
+          "es": "Bamako",
+          "fr": "Bamako",
+          "el": "Μπαμακό",
+          "hi": "बमाको",
+          "hu": "Bamako",
+          "id": "Bamako",
+          "it": "Bamako",
+          "ja": "バマコ",
+          "ko": "바마코",
+          "nl": "Bamako",
+          "pl": "Bamako",
+          "pt": "Bamako",
+          "ru": "Бамако",
+          "sv": "Bamako",
+          "tr": "Bamako",
+          "vi": "Bamako",
+          "zh": "巴馬科"
+        },
+        "population": 2737202
+      }
+    }
+  ]
+}

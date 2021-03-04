@@ -1,0 +1,1171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22749999999999,
+          24.859499999999997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-tao",
+        "area": 0.2703190000000052,
+        "bounding_box": [
+          120.972,
+          24.595,
+          121.483,
+          25.124
+        ],
+        "point": [
+          121.22749999999999,
+          24.859499999999997
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "مدينة تاويون",
+          "bn": "তাওউয়ান শহর",
+          "de": "Taoyuan",
+          "en": "Taoyuan City",
+          "es": "Taoyuan",
+          "fr": "comté de Taoyuan",
+          "el": "Ταογιουάν",
+          "hi": "ताओयुआन सिटी",
+          "hu": "Taojüan megye",
+          "id": "Kabupaten Taoyuan",
+          "it": "Taoyuan",
+          "ja": "桃園市",
+          "ko": "타오위안 시",
+          "nl": "Taoyuan",
+          "pl": "Taoyuan",
+          "pt": "Taoyuan",
+          "ru": "Таоюань",
+          "sv": "Taoyuan",
+          "tr": "Taoyuan",
+          "vi": "Đào Viên",
+          "zh": "桃園市"
+        },
+        "population": 2674999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1635,
+          24.692500000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-hsq",
+        "area": 0.25794300000000087,
+        "bounding_box": [
+          120.915,
+          24.433,
+          121.412,
+          24.952
+        ],
+        "point": [
+          121.1635,
+          24.692500000000003
+        ],
+        "labels": {
+          "alt": "Xinzhu",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة هسينشو",
+          "bn": "হেসিনচু কাউন্টি",
+          "de": "Landkreis Hsinchu",
+          "en": "Hsinchu County",
+          "es": "Condado de Hsinchu",
+          "fr": "comté de Hsinchu",
+          "el": "Χσίντσου",
+          "hi": "सिंचू काउंटी",
+          "hu": null,
+          "id": "Kabupaten Hsinchu",
+          "it": "Contea di Hsinchu",
+          "ja": "新竹県",
+          "ko": "신주 현",
+          "nl": "Hsinchu",
+          "pl": "Xinzhu",
+          "pt": "Condado de Hsinchu",
+          "ru": "Синьчжу",
+          "sv": "Hsinchu",
+          "tr": "Hsinchu County",
+          "vi": "Tân Trúc",
+          "zh": "新竹縣"
+        },
+        "population": 588476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.95750000000001,
+          24.784
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-hsz",
+        "area": 0.02332199999999986,
+        "bounding_box": [
+          120.873,
+          24.715,
+          121.042,
+          24.853
+        ],
+        "point": [
+          120.95750000000001,
+          24.784
+        ],
+        "labels": {
+          "alt": "Xinzhu Shi",
+          "local": null,
+          "len": 12,
+          "ar": "سين شو",
+          "bn": "সিনসো",
+          "de": "Hsinchu",
+          "en": "Hsinchu",
+          "es": "Hsinchu",
+          "fr": "Hsinchu",
+          "el": "Χσιντσού",
+          "hi": "सिंचु",
+          "hu": "Hszincsu",
+          "id": "Kota Hsinchu",
+          "it": "Hsinchu",
+          "ja": "新竹市",
+          "ko": "신주 시",
+          "nl": "Hsinchu",
+          "pl": "Xinzhu",
+          "pt": "Hsinchu",
+          "ru": "Синьчжу",
+          "sv": "Hsinchu",
+          "tr": "Hsinchu",
+          "vi": "Tân Trúc",
+          "zh": "新竹市"
+        },
+        "population": 474965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.94200000000001,
+          24.520000000000003
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-mia",
+        "area": 0.2927520000000043,
+        "bounding_box": [
+          120.621,
+          24.292,
+          121.263,
+          24.748
+        ],
+        "point": [
+          120.94200000000001,
+          24.520000000000003
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة مياولي",
+          "bn": "মিয়াওলি কাউন্টি",
+          "de": "Landkreis Miaoli",
+          "en": "Miaoli County",
+          "es": "Comté de Miaoli",
+          "fr": "comté de Miaoli",
+          "el": "Μιαολί",
+          "hi": "मियाओली काउंटी",
+          "hu": null,
+          "id": "Kabupaten Miaoli",
+          "it": "contea di Miaoli",
+          "ja": "苗栗県",
+          "ko": "먀오리 현",
+          "nl": "Miaoli",
+          "pl": "Miaoli",
+          "pt": "Condado de Miaoli",
+          "ru": "Мяоли",
+          "sv": "Miaoli County",
+          "tr": "Miaoli County",
+          "vi": "Miêu Lật",
+          "zh": "苗栗縣"
+        },
+        "population": 539660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.966,
+          24.2335
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-txg",
+        "area": 0.43699,
+        "bounding_box": [
+          120.475,
+          24.011,
+          121.457,
+          24.456
+        ],
+        "point": [
+          120.966,
+          24.2335
+        ],
+        "labels": {
+          "alt": "Taizhong Shi",
+          "local": null,
+          "len": 13,
+          "ar": null,
+          "bn": null,
+          "de": null,
+          "en": null,
+          "es": null,
+          "fr": null,
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": null,
+          "ja": null,
+          "ko": null,
+          "nl": null,
+          "pl": null,
+          "pt": null,
+          "ru": null,
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": null
+        },
+        "population": 3004633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4555,
+          23.991
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-cha",
+        "area": 0.1827360000000017,
+        "bounding_box": [
+          120.244,
+          23.775,
+          120.667,
+          24.207
+        ],
+        "point": [
+          120.4555,
+          23.991
+        ],
+        "labels": {
+          "alt": "Zhanghua|Changhwa",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة تشانغوا",
+          "bn": "চ্যাংহুয়া কাউন্টি",
+          "de": "Landkreis Changhua",
+          "en": "Changhua County",
+          "es": "Condado de Changhua",
+          "fr": "comté de Changhua",
+          "el": "Τσάνγκουα",
+          "hi": "चान्गुआ काउंटी",
+          "hu": null,
+          "id": "Kabupaten Changhua",
+          "it": "contea di Changhua",
+          "ja": "彰化県",
+          "ko": "장화 현",
+          "nl": "Changhua",
+          "pl": "Zhanghua",
+          "pt": "Condado de Changhua",
+          "ru": "Чжанхуа",
+          "sv": "Changhus",
+          "tr": "Changhua",
+          "vi": "Chương Hóa",
+          "zh": "彰化縣"
+        },
+        "population": 1239195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4325,
+          23.673000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-yun",
+        "area": 0.2036100000000026,
+        "bounding_box": [
+          120.124,
+          23.508,
+          120.741,
+          23.838
+        ],
+        "point": [
+          120.4325,
+          23.673000000000002
+        ],
+        "labels": {
+          "alt": "Yüanlin",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة يونلين",
+          "bn": "ইউনলিন কাউন্টি",
+          "de": "Landkreis Yunlin",
+          "en": "Yunlin County",
+          "es": "Condado de Yunlin",
+          "fr": "comté de Yunlin",
+          "el": "Γιούνλιν",
+          "hi": "यूनलिन काउंटी",
+          "hu": null,
+          "id": "Kabupaten Yunlin",
+          "it": "contea di Yunlin",
+          "ja": "雲林県",
+          "ko": "윈린 현",
+          "nl": "Yunlin",
+          "pl": "Yunlin",
+          "pt": "Condado de Yunlin",
+          "ru": "Юньлинь",
+          "sv": "Yunlin County",
+          "tr": "Yunlin County",
+          "vi": "Vân Lâm",
+          "zh": "雲林縣"
+        },
+        "population": 519785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5395,
+          23.4325
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-cyq",
+        "area": 0.3506749999999988,
+        "bounding_box": [
+          120.117,
+          23.225,
+          120.962,
+          23.64
+        ],
+        "point": [
+          120.5395,
+          23.4325
+        ],
+        "labels": {
+          "alt": "Jiayi|Chiai",
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة شياي",
+          "bn": "চিয়ায়ি কাউন্টি",
+          "de": "Landkreis Chiayi",
+          "en": "Chiayi County",
+          "es": "Condado del Chiayai",
+          "fr": "comté de Chiayi",
+          "el": "Κομητεία Τσιαγί",
+          "hi": "चायेई काउंटी",
+          "hu": null,
+          "id": "Kabupaten Chiayi",
+          "it": "contea di Chiayi",
+          "ja": "嘉義県",
+          "ko": "자이 현",
+          "nl": "Chiayi",
+          "pl": "Jiayi",
+          "pt": "Condado de Chiayi",
+          "ru": "Цзяи",
+          "sv": "Chiayi",
+          "tr": "Chiayi Country",
+          "vi": "Gia Nghĩa",
+          "zh": "嘉義縣"
+        },
+        "population": 474142
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.356,
+          23.155
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-tnn",
+        "area": 0.3076920000000047,
+        "bounding_box": [
+          120.059,
+          22.896,
+          120.653,
+          23.414
+        ],
+        "point": [
+          120.356,
+          23.155
+        ],
+        "labels": {
+          "alt": "Tainan Shi",
+          "local": null,
+          "len": 11,
+          "ar": "تاينان",
+          "bn": "তাইনান",
+          "de": "Tainan",
+          "en": "Tainan",
+          "es": "Tainan",
+          "fr": "Tainan",
+          "el": "Ταϊνάν",
+          "hi": "ताइनान",
+          "hu": "Tajnan",
+          "id": "Kota Tainan",
+          "it": "Tainan",
+          "ja": "台南市",
+          "ko": "타이난 시",
+          "nl": "Tainan",
+          "pl": "Tainan",
+          "pt": "Tainan",
+          "ru": "Тайнань",
+          "sv": "Tainan",
+          "tr": "Tainan",
+          "vi": "Đài Nam",
+          "zh": "臺南市"
+        },
+        "population": 1684388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.60849999999999,
+          22.979
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-khh",
+        "area": 0.8759359999999964,
+        "bounding_box": [
+          120.167,
+          22.483,
+          121.05,
+          23.475
+        ],
+        "point": [
+          120.60849999999999,
+          22.979
+        ],
+        "labels": {
+          "alt": "Gaoxiong Shi",
+          "local": null,
+          "len": 14,
+          "ar": "كاوهسيونغ",
+          "bn": "কোসিয়োং শহর",
+          "de": "Kaohsiung",
+          "en": "Kaohsiung City",
+          "es": "Kaohsiung",
+          "fr": "Kaohsiung",
+          "el": "Καοσιούνγκ",
+          "hi": "काऊशुंग सिटी",
+          "hu": "Kaohsziung",
+          "id": "Kota Kaohsiung",
+          "it": "Kaohsiung",
+          "ja": "高雄市",
+          "ko": "가오슝 시",
+          "nl": "Kaohsiung",
+          "pl": "Kaohsiung",
+          "pt": "Kaohsiung",
+          "ru": "Гаосюн",
+          "sv": "Kaohsiung",
+          "tr": "Kaohsiung",
+          "vi": "Cao Hùng",
+          "zh": "高雄市"
+        },
+        "population": 2729535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6615,
+          22.4065
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-pif",
+        "area": 0.4805369999999959,
+        "bounding_box": [
+          120.412,
+          21.925,
+          120.911,
+          22.888
+        ],
+        "point": [
+          120.6615,
+          22.4065
+        ],
+        "labels": {
+          "alt": "Pingdong",
+          "local": null,
+          "len": 8,
+          "ar": "مقاطعة بينغتونغ",
+          "bn": "পিংটুং কাউন্টি",
+          "de": "Landkreis Pingtung",
+          "en": "Pingtung County",
+          "es": "Condado de Pingtung",
+          "fr": "comté de Pingtung",
+          "el": "Πίνγκτουνγκ",
+          "hi": "पिंगटूंग काउंटी",
+          "hu": null,
+          "id": "Kabupaten Pingtung",
+          "it": "Contea di Pingtung",
+          "ja": "屏東県",
+          "ko": "핑둥 현",
+          "nl": "Pingtung",
+          "pl": "Pingdong",
+          "pt": "Condado de Pingtung",
+          "ru": "Пиндун",
+          "sv": "Pingtung",
+          "tr": "Pingtung",
+          "vi": "Bình Đông",
+          "zh": "屏東縣"
+        },
+        "population": 717947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.11449999999999,
+          22.8365
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-ttt",
+        "area": 0.8750070000000099,
+        "bounding_box": [
+          120.749,
+          22.238,
+          121.48,
+          23.435
+        ],
+        "point": [
+          121.11449999999999,
+          22.8365
+        ],
+        "labels": {
+          "alt": "Taidong",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة تايتونغ",
+          "bn": "টাইটুং কাউন্টি",
+          "de": "Landkreis Taitung",
+          "en": "Taitung County",
+          "es": "Condado del Taitung",
+          "fr": "comté de Taitung",
+          "el": "Ταϊτούνγκ",
+          "hi": "ताइतुंग काउंटी",
+          "hu": null,
+          "id": "Kabupaten Taitung",
+          "it": "Contea di Taitung",
+          "ja": "台東県",
+          "ko": "타이둥 현",
+          "nl": "Taitung",
+          "pl": "Taidong",
+          "pt": "Condado de Taitung",
+          "ru": "Тайдун",
+          "sv": "Taitung",
+          "tr": "Taitung County",
+          "vi": "Đài Đông",
+          "zh": "臺東縣"
+        },
+        "population": 158728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5295,
+          22.0635
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-ttt",
+        "area": 0.002774999999999507,
+        "bounding_box": [
+          121.492,
+          22.045,
+          121.567,
+          22.082
+        ],
+        "point": [
+          121.5295,
+          22.0635
+        ],
+        "labels": {
+          "alt": "Taidong",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة تايتونغ",
+          "bn": "টাইটুং কাউন্টি",
+          "de": "Landkreis Taitung",
+          "en": "Taitung County",
+          "es": "Condado del Taitung",
+          "fr": "comté de Taitung",
+          "el": "Ταϊτούνγκ",
+          "hi": "ताइतुंग काउंटी",
+          "hu": null,
+          "id": "Kabupaten Taitung",
+          "it": "Contea di Taitung",
+          "ja": "台東県",
+          "ko": "타이둥 현",
+          "nl": "Taitung",
+          "pl": "Taidong",
+          "pt": "Condado de Taitung",
+          "ru": "Тайдун",
+          "sv": "Taitung",
+          "tr": "Taitung County",
+          "vi": "Đài Đông",
+          "zh": "臺東縣"
+        },
+        "population": 158728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3825,
+          23.741500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-hua",
+        "area": 0.9864029999999908,
+        "bounding_box": [
+          120.992,
+          23.11,
+          121.773,
+          24.373
+        ],
+        "point": [
+          121.3825,
+          23.741500000000002
+        ],
+        "labels": {
+          "alt": "Hualian",
+          "local": null,
+          "len": 7,
+          "ar": "مقاطعة هوالين",
+          "bn": "হুয়ালিয়েন কাউন্টি",
+          "de": "Landkreis Hualien",
+          "en": "Hualien County",
+          "es": "Condado de Hualien",
+          "fr": "comté d'Hualien",
+          "el": "Χουάλιεν",
+          "hi": "हुअलिएन काउंटी",
+          "hu": null,
+          "id": "Kabupaten Hualien",
+          "it": "Contea di Hualien",
+          "ja": "花蓮県",
+          "ko": "화롄 현",
+          "nl": "Hualien",
+          "pl": "Hualian",
+          "pt": "Condado de Hualien",
+          "ru": "Хуалянь",
+          "sv": "Hualien",
+          "tr": "Hualien",
+          "vi": "Hoa Liên",
+          "zh": "花蓮縣"
+        },
+        "population": 264200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.644,
+          24.6595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-ila",
+        "area": 0.43755199999999317,
+        "bounding_box": [
+          121.316,
+          24.326,
+          121.972,
+          24.993
+        ],
+        "point": [
+          121.644,
+          24.6595
+        ],
+        "labels": {
+          "alt": "Ilan",
+          "local": null,
+          "len": 5,
+          "ar": "مقاطعة ييلان",
+          "bn": "ইলান কাউন্টি",
+          "de": "Landkreis Ilan",
+          "en": "Yilan County",
+          "es": "Condado de Yilan",
+          "fr": "comté de Yilan",
+          "el": "Γιλάν",
+          "hi": "यिलान काउंटी",
+          "hu": null,
+          "id": "Kabupaten Yilan",
+          "it": "Contea di Yilan",
+          "ja": "宜蘭県",
+          "ko": "이란 현",
+          "nl": "Yilan",
+          "pl": "Yilan",
+          "pt": "Condado de Yilan",
+          "ru": "Илань",
+          "sv": "Yilan",
+          "tr": "Yilan",
+          "vi": "Nghi Lan",
+          "zh": "宜蘭縣"
+        },
+        "population": 356896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.62950000000001,
+          24.984
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-tpq",
+        "area": 0.4151099999999915,
+        "bounding_box": [
+          121.287,
+          24.681,
+          121.972,
+          25.287
+        ],
+        "point": [
+          121.62950000000001,
+          24.984
+        ],
+        "labels": {
+          "alt": "Xinbei Shi",
+          "local": null,
+          "len": 15,
+          "ar": "تايبيه الجديدة",
+          "bn": "নিউ তাইপে সিটি",
+          "de": "Neu-Taipeh",
+          "en": "New Taipei City",
+          "es": "Nuevo Taipéi",
+          "fr": "Nouveau Taipei",
+          "el": "Νιού Ταϊπέι Σίτι",
+          "hi": "न्यू ताइपे शहर",
+          "hu": "Hszinpej",
+          "id": "Kabupaten Taipei",
+          "it": "Nuova Taipei",
+          "ja": "新北市",
+          "ko": "신베이 시",
+          "nl": "Nieuw Taipei",
+          "pl": "Nowe Tajpej",
+          "pt": "Novo Taipé",
+          "ru": "Синьбэй",
+          "sv": "Ny Taipei City",
+          "tr": "New Taipei",
+          "vi": "Tân Bắc",
+          "zh": "新北市"
+        },
+        "population": 4591876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.697,
+          25.113500000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-kee",
+        "area": 0.014208000000000096,
+        "bounding_box": [
+          121.633,
+          25.058,
+          121.761,
+          25.169
+        ],
+        "point": [
+          121.697,
+          25.113500000000002
+        ],
+        "labels": {
+          "alt": "Jilong Shi|Chilung City",
+          "local": null,
+          "len": 12,
+          "ar": "كيلونغ",
+          "bn": "কেলুং",
+          "de": "Keelung",
+          "en": "Keelung",
+          "es": "Keelung",
+          "fr": "Chilung",
+          "el": "Κίλανγκ",
+          "hi": "कीलंग",
+          "hu": "Csilung",
+          "id": "Kota Keelung",
+          "it": "Keelung",
+          "ja": "基隆市",
+          "ko": "지룽 시",
+          "nl": "Keelung",
+          "pl": "Keelung",
+          "pt": "Keelung",
+          "ru": "Цзилун",
+          "sv": "Chilung",
+          "tr": "Keelung",
+          "vi": "Cơ Long",
+          "zh": "基隆市"
+        },
+        "population": 417220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.3745,
+          24.457
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-kin",
+        "area": 0.02442000000000057,
+        "bounding_box": [
+          118.282,
+          24.391,
+          118.467,
+          24.523
+        ],
+        "point": [
+          118.3745,
+          24.457
+        ],
+        "labels": {
+          "alt": "Chinmen|Jinmen",
+          "local": null,
+          "len": 6,
+          "ar": "كنمن",
+          "bn": "কোয়েময়",
+          "de": "Kinmen",
+          "en": "Kinmen",
+          "es": "Kinmen",
+          "fr": "Jinmen",
+          "el": "Κίνμεν",
+          "hi": "किन्मेन",
+          "hu": "Csinmen-szigetek",
+          "id": "Kabupaten Kinmen",
+          "it": "Kinmen",
+          "ja": "金門県",
+          "ko": "진먼 현",
+          "nl": "Kinmen",
+          "pl": "Kinmen",
+          "pt": "Kinmen",
+          "ru": "Цзиньмэнь",
+          "sv": "Kinmen",
+          "tr": "Kinmen",
+          "vi": "Kim Môn",
+          "zh": "金門縣"
+        },
+        "population": 44835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6165,
+          23.576
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-pen",
+        "area": 0.005346000000000405,
+        "bounding_box": [
+          119.567,
+          23.549,
+          119.666,
+          23.603
+        ],
+        "point": [
+          119.6165,
+          23.576
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "بسكادورز",
+          "bn": null,
+          "de": "Landkreis Penghu",
+          "en": "Penghu County",
+          "es": null,
+          "fr": "comté de Penghu",
+          "el": null,
+          "hi": null,
+          "hu": null,
+          "id": "Kabupaten Penghu",
+          "it": "contea di Penghu",
+          "ja": "澎湖県",
+          "ko": "펑후 현",
+          "nl": null,
+          "pl": null,
+          "pt": "Penghu",
+          "ru": "Пэнху",
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": "澎湖縣"
+        },
+        "population": 30074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98849999999999,
+          23.8395
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-nan",
+        "area": 0.582014999999999,
+        "bounding_box": [
+          120.627,
+          23.437,
+          121.35,
+          24.242
+        ],
+        "point": [
+          120.98849999999999,
+          23.8395
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "مقاطعة نانتو",
+          "bn": "নান্তু কাউন্টি",
+          "de": "Landkreis Nantou",
+          "en": "Nantou County",
+          "es": "Condado del Nantou",
+          "fr": "comté de Nantou",
+          "el": "Ναντού",
+          "hi": "नैनटो काउंटी",
+          "hu": null,
+          "id": "Kabupaten Nantou",
+          "it": "contea di Nantou",
+          "ja": "南投県",
+          "ko": "난터우 현",
+          "nl": "Nantou",
+          "pl": "Nantou",
+          "pt": "Condado de Nantou",
+          "ru": "Наньтоу",
+          "sv": "Nantou",
+          "tr": "Nantou",
+          "vi": "Nam Đầu",
+          "zh": "南投縣"
+        },
+        "population": 450087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55850000000001,
+          25.0885
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-tpe",
+        "area": 0.04535499999999938,
+        "bounding_box": [
+          121.462,
+          24.971,
+          121.655,
+          25.206
+        ],
+        "point": [
+          121.55850000000001,
+          25.0885
+        ],
+        "labels": {
+          "alt": "Taibei Shi",
+          "local": null,
+          "len": 11,
+          "ar": "تايبيه",
+          "bn": "তাইপে",
+          "de": "Taipeh",
+          "en": "Taipei",
+          "es": "Taipéi",
+          "fr": "Taipei",
+          "el": "Ταϊπέι",
+          "hi": "ताइपे",
+          "hu": "Tajpej",
+          "id": "Kota Taipei",
+          "it": "Taipei",
+          "ja": "台北市",
+          "ko": "타이베이 시",
+          "nl": "Taipei",
+          "pl": "Tajpej",
+          "pt": "Taipé",
+          "ru": "Тайбэй",
+          "sv": "Taipei",
+          "tr": "Taipei",
+          "vi": "Đài Bắc",
+          "zh": "臺北市"
+        },
+        "population": 2263083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.443,
+          23.481
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "tw",
+        "region_child": "tw-cyi",
+        "area": 0.009504000000000252,
+        "bounding_box": [
+          120.377,
+          23.445,
+          120.509,
+          23.517
+        ],
+        "point": [
+          120.443,
+          23.481
+        ],
+        "labels": {
+          "alt": "Jiayi Shi|Chiai City",
+          "local": null,
+          "len": 11,
+          "ar": "شيا يي",
+          "bn": "সিয়াই  শহর",
+          "de": "Chiayi",
+          "en": "Chiayi City",
+          "es": "Chiayi",
+          "fr": "Chiayi",
+          "el": "Τσιάγι",
+          "hi": "छिअई  सिटी",
+          "hu": "Csiaji",
+          "id": "Kota Chiayi",
+          "it": "Chiayi",
+          "ja": "嘉義市",
+          "ko": "자이 시",
+          "nl": "Chiayi",
+          "pl": "Jiayi",
+          "pt": "Chiayi",
+          "ru": "Цзяи",
+          "sv": "Jiayi",
+          "tr": "Chiayi",
+          "vi": "Gia Nghĩa",
+          "zh": "嘉義市"
+        },
+        "population": 385401
+      }
+    }
+  ]
+}

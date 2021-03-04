@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.8155,
+          16.0995
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv01",
+        "area": 0.07495500000000052,
+        "bounding_box": [
+          -22.958,
+          15.968,
+          -22.673,
+          16.231
+        ],
+        "point": [
+          -22.8155,
+          16.0995
+        ],
+        "labels": {
+          "en": "Boa Vista"
+        },
+        "population": 18654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.701,
+          14.854
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv02",
+        "area": 0.005888000000000039,
+        "bounding_box": [
+          -24.733,
+          14.808,
+          -24.669,
+          14.9
+        ],
+        "point": [
+          -24.701,
+          14.854
+        ],
+        "labels": {
+          "en": "Brava"
+        },
+        "population": 3499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1595,
+          15.228
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv03",
+        "area": 0.031020000000000235,
+        "bounding_box": [
+          -23.23,
+          15.118,
+          -23.089,
+          15.338
+        ],
+        "point": [
+          -23.1595,
+          15.228
+        ],
+        "labels": {
+          "en": "Maio"
+        },
+        "population": 5987
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.333,
+          14.998
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv04",
+        "area": 0.00844799999999976,
+        "bounding_box": [
+          -24.377,
+          14.95,
+          -24.289,
+          15.046
+        ],
+        "point": [
+          -24.333,
+          14.998
+        ],
+        "labels": {
+          "en": "Mosteiros"
+        },
+        "population": 4793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.029,
+          17.124000000000002
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv05",
+        "area": 0.006255999999999958,
+        "bounding_box": [
+          -25.063,
+          17.078,
+          -24.995,
+          17.17
+        ],
+        "point": [
+          -25.029,
+          17.124000000000002
+        ],
+        "labels": {
+          "en": "Paul"
+        },
+        "population": 13089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.186,
+          17.017
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv06",
+        "area": 0.07770000000000077,
+        "bounding_box": [
+          -25.361,
+          16.906,
+          -25.011,
+          17.128
+        ],
+        "point": [
+          -25.186,
+          17.017
+        ],
+        "labels": {
+          "en": "Porto Novo"
+        },
+        "population": 5429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.522,
+          14.9495
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv07",
+        "area": 0.011466000000000023,
+        "bounding_box": [
+          -23.585,
+          14.904,
+          -23.459,
+          14.995
+        ],
+        "point": [
+          -23.522,
+          14.9495
+        ],
+        "labels": {
+          "en": "Praia"
+        },
+        "population": 13894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.1855,
+          16.604
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv08",
+        "area": 0.04228399999999972,
+        "bounding_box": [
+          -24.356,
+          16.542,
+          -24.015,
+          16.666
+        ],
+        "point": [
+          -24.1855,
+          16.604
+        ],
+        "labels": {
+          "en": "Ribeira Brava"
+        },
+        "population": 5906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.125999999999998,
+          17.1415
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv09",
+        "area": 0.024610000000000676,
+        "bounding_box": [
+          -25.233,
+          17.084,
+          -25.019,
+          17.199
+        ],
+        "point": [
+          -25.125999999999998,
+          17.1415
+        ],
+        "labels": {
+          "en": "Ribeira Grande"
+        },
+        "population": 22567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6465,
+          14.974499999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv10",
+        "area": 0.015620999999999772,
+        "bounding_box": [
+          -23.708,
+          14.911,
+          -23.585,
+          15.038
+        ],
+        "point": [
+          -23.6465,
+          14.974499999999999
+        ],
+        "labels": {
+          "en": "Ribeira Grande De Santiago"
+        },
+        "population": 4799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.930500000000002,
+          16.723
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv11",
+        "area": 0.031122000000000444,
+        "bounding_box": [
+          -22.989,
+          16.59,
+          -22.872,
+          16.856
+        ],
+        "point": [
+          -22.930500000000002,
+          16.723
+        ],
+        "labels": {
+          "en": "Sal"
+        },
+        "population": 19191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.694499999999998,
+          15.114999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv12",
+        "area": 0.02798400000000046,
+        "bounding_box": [
+          -23.774,
+          15.027,
+          -23.615,
+          15.203
+        ],
+        "point": [
+          -23.694499999999998,
+          15.114999999999998
+        ],
+        "labels": {
+          "en": "Santa Catarina"
+        },
+        "population": 48530
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.334,
+          14.9025
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv13",
+        "area": 0.019152000000000252,
+        "bounding_box": [
+          -24.39,
+          14.817,
+          -24.278,
+          14.988
+        ],
+        "point": [
+          -24.334,
+          14.9025
+        ],
+        "labels": {
+          "en": "Santa Catarina Do Fogo"
+        },
+        "population": 23414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.554499999999997,
+          15.122
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv14",
+        "area": 0.014706000000000252,
+        "bounding_box": [
+          -23.619,
+          15.065,
+          -23.49,
+          15.179
+        ],
+        "point": [
+          -23.554499999999997,
+          15.122
+        ],
+        "labels": {
+          "en": "Santa Cruz"
+        },
+        "population": 11745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5285,
+          15.017
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv15",
+        "area": 0.016631999999999852,
+        "bounding_box": [
+          -23.623,
+          14.973,
+          -23.434,
+          15.061
+        ],
+        "point": [
+          -23.5285,
+          15.017
+        ],
+        "labels": {
+          "en": "Sao Domingos"
+        },
+        "population": 16714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.439,
+          14.9215
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv16",
+        "area": 0.026333999999999465,
+        "bounding_box": [
+          -24.502,
+          14.817,
+          -24.376,
+          15.026
+        ],
+        "point": [
+          -24.439,
+          14.9215
+        ],
+        "labels": {
+          "en": "Sao Filipe"
+        },
+        "population": 4497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5935,
+          15.074
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv17",
+        "area": 0.004250000000000103,
+        "bounding_box": [
+          -23.636,
+          15.049,
+          -23.551,
+          15.099
+        ],
+        "point": [
+          -23.5935,
+          15.074
+        ],
+        "labels": {
+          "en": "Sao Lourenco Dos Orgaos"
+        },
+        "population": 109919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6375,
+          15.2
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv18",
+        "area": 0.010246000000000102,
+        "bounding_box": [
+          -23.692,
+          15.153,
+          -23.583,
+          15.247
+        ],
+        "point": [
+          -23.6375,
+          15.2
+        ],
+        "labels": {
+          "en": "Sao Miguel"
+        },
+        "population": 4624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6235,
+          15.088000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv19",
+        "area": 0.0036720000000001877,
+        "bounding_box": [
+          -23.649,
+          15.052,
+          -23.598,
+          15.124
+        ],
+        "point": [
+          -23.6235,
+          15.088000000000001
+        ],
+        "labels": {
+          "en": "Sao Salvador Do Mundo"
+        },
+        "population": 23247
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.973,
+          16.85
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv20",
+        "area": 0.03182799999999939,
+        "bounding_box": [
+          -25.082,
+          16.777,
+          -24.864,
+          16.923
+        ],
+        "point": [
+          -24.973,
+          16.85
+        ],
+        "labels": {
+          "en": "Sao Vicente"
+        },
+        "population": 77026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.707,
+          15.2635
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv21",
+        "area": 0.013900000000000133,
+        "bounding_box": [
+          -23.757,
+          15.194,
+          -23.657,
+          15.333
+        ],
+        "point": [
+          -23.707,
+          15.2635
+        ],
+        "labels": {
+          "en": "Tarrafal"
+        },
+        "population": 44468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.3645,
+          16.604
+        ]
+      },
+      "properties": {
+        "region_schema": "ocha_admin_1",
+        "region_parent": "cv",
+        "region_child": "cv22",
+        "area": 0.015251999999999547,
+        "bounding_box": [
+          -24.426,
+          16.542,
+          -24.303,
+          16.666
+        ],
+        "point": [
+          -24.3645,
+          16.604
+        ],
+        "labels": {
+          "en": "Tarrafal de Sao Nicolau"
+        },
+        "population": 3283
+      }
+    }
+  ]
+}

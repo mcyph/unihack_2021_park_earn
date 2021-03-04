@@ -1,0 +1,3291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4555,
+          40.3665
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-c",
+        "area": 1.6070129999999976,
+        "bounding_box": [
+          20.74,
+          39.805,
+          22.171,
+          40.928
+        ],
+        "point": [
+          21.4555,
+          40.3665
+        ],
+        "labels": {
+          "alt": "Macedonia West",
+          "local": "Δυτικής Μακεδονίας",
+          "len": 16,
+          "ar": "مقدونيا الغربية",
+          "bn": "ওয়েস্ট মেসিডোনিয়া অঞ্চল",
+          "de": "Westmakedonien",
+          "en": "West Macedonia Region",
+          "es": "Macedonia Occidental",
+          "fr": "Macédoine-Occidentale",
+          "el": "Περιφέρεια Δυτικής Μακεδονίας",
+          "hi": "पश्चिमी मैसेडोनिया क्षेत्र",
+          "hu": "Nyugat-Makedónia",
+          "id": "Makedonia Barat",
+          "it": "Macedonia Occidentale",
+          "ja": "西マケドニア",
+          "ko": "서마케도니아 주",
+          "nl": "West-Macedonië",
+          "pl": "Region Macedonia Zachodnia",
+          "pt": "Macedônia Ocidental",
+          "ru": "Западная Македония",
+          "sv": "Västra Makedonien",
+          "tr": "Batı Makedonya",
+          "vi": "Tây Macedonia",
+          "zh": "西马其顿"
+        },
+        "population": 276579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.692500000000003,
+          39.6385
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-d",
+        "area": 1.9071449999999956,
+        "bounding_box": [
+          20.0,
+          38.95,
+          21.385,
+          40.327
+        ],
+        "point": [
+          20.692500000000003,
+          39.6385
+        ],
+        "labels": {
+          "alt": "Epirus",
+          "local": "Ήπειρος",
+          "len": 7,
+          "ar": "إبيروس",
+          "bn": "এপিরাস অঞ্চল",
+          "de": "Epirus",
+          "en": "Epirus Region",
+          "es": "Epiro",
+          "fr": "Épire",
+          "el": "Περιφέρεια Ηπείρου",
+          "hi": "एपिरस क्षेत्र",
+          "hu": "Epirusz",
+          "id": "Epirus",
+          "it": "Epiro",
+          "ja": "イピロス",
+          "ko": "이피로스 주",
+          "nl": "Epirus",
+          "pl": "Epir",
+          "pt": "Epiro",
+          "ru": "Эпир",
+          "sv": "Epirus",
+          "tr": "Epir",
+          "vi": "Epirus",
+          "zh": "伊庇鲁斯"
+        },
+        "population": 318058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9105,
+          40.656499999999994
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-b",
+        "area": 3.603001000000002,
+        "bounding_box": [
+          21.699,
+          39.913,
+          24.122,
+          41.4
+        ],
+        "point": [
+          22.9105,
+          40.656499999999994
+        ],
+        "labels": {
+          "alt": "Macedonia Central",
+          "local": "Κεντρική Μακεδονία",
+          "len": 18,
+          "ar": "مقدونيا الوسطى",
+          "bn": "সেন্ট্রাল মেসিডোনিয়া অঞ্চল",
+          "de": "Zentralmakedonien",
+          "en": "Central Macedonia",
+          "es": "Macedonia Central",
+          "fr": "Macédoine-Centrale",
+          "el": "Περιφέρεια Κεντρικής Μακεδονίας",
+          "hi": "केंद्रीय मैसेडोनिया क्षेत्र",
+          "hu": "Közép-Makedónia",
+          "id": "Makedonia Tengah",
+          "it": "Macedonia Centrale",
+          "ja": "中央マケドニア",
+          "ko": "중앙마케도니아 주",
+          "nl": "Centraal-Macedonië",
+          "pl": "Region Macedonia Środkowa",
+          "pt": "Macedônia Central",
+          "ru": "Центральная Македония",
+          "sv": "Mellersta Makedonien",
+          "tr": "Orta Makedonya",
+          "vi": "Trung Macedonia",
+          "zh": "中马其顿"
+        },
+        "population": 1805294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.131,
+          41.237
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-a",
+        "area": 3.0662160000000025,
+        "bounding_box": [
+          23.625,
+          40.728,
+          26.637,
+          41.746
+        ],
+        "point": [
+          25.131,
+          41.237
+        ],
+        "labels": {
+          "alt": "Macedonia East and Thrace",
+          "local": "Ανατολική Μακεδονία και Θράκη",
+          "len": 30,
+          "ar": "مقدونيا الشرقية وتراقيا",
+          "bn": "পূর্ব ম্যাসেডোনিয়া এবং থ্রেস",
+          "de": "Ostmakedonien und Thrakien",
+          "en": "East Macedonia and Thrace",
+          "es": "Macedonia Oriental y Tracia",
+          "fr": "Macédoine-Orientale-et-Thrace",
+          "el": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "hi": "पूर्वी मैसेडोनिया और थ्रेस",
+          "hu": "Kelet-Makedónia és Thrákia",
+          "id": "Makedonia Timur dan Trasia",
+          "it": "Macedonia Orientale e Tracia",
+          "ja": "東マケドニア・トラキア",
+          "ko": "동마케도니아 트라키 주",
+          "nl": "Oost-Macedonië en Thracië",
+          "pl": "Region Macedonia Wschodnia i Tracja",
+          "pt": "Macedônia Oriental e Trácia",
+          "ru": "Восточная Македония и Фракия",
+          "sv": "Östra Makedonien och Thrakien",
+          "tr": "Doğu Makedonya ve Trakya",
+          "vi": "Đông Macedonia và Thrace",
+          "zh": "东马其顿-色雷斯"
+        },
+        "population": 564408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.649,
+          40.6875
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-a",
+        "area": 0.06384200000000133,
+        "bounding_box": [
+          24.512,
+          40.571,
+          24.786,
+          40.804
+        ],
+        "point": [
+          24.649,
+          40.6875
+        ],
+        "labels": {
+          "alt": "Macedonia East and Thrace",
+          "local": "Ανατολική Μακεδονία και Θράκη",
+          "len": 30,
+          "ar": "مقدونيا الشرقية وتراقيا",
+          "bn": "পূর্ব ম্যাসেডোনিয়া এবং থ্রেস",
+          "de": "Ostmakedonien und Thrakien",
+          "en": "East Macedonia and Thrace",
+          "es": "Macedonia Oriental y Tracia",
+          "fr": "Macédoine-Orientale-et-Thrace",
+          "el": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "hi": "पूर्वी मैसेडोनिया और थ्रेस",
+          "hu": "Kelet-Makedónia és Thrákia",
+          "id": "Makedonia Timur dan Trasia",
+          "it": "Macedonia Orientale e Tracia",
+          "ja": "東マケドニア・トラキア",
+          "ko": "동마케도니아 트라키 주",
+          "nl": "Oost-Macedonië en Thracië",
+          "pl": "Region Macedonia Wschodnia i Tracja",
+          "pt": "Macedônia Oriental e Trácia",
+          "ru": "Восточная Македония и Фракия",
+          "sv": "Östra Makedonien och Thrakien",
+          "tr": "Doğu Makedonya ve Trakya",
+          "vi": "Đông Macedonia và Thrace",
+          "zh": "东马其顿-色雷斯"
+        },
+        "population": 564408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5765,
+          40.456500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-a",
+        "area": 0.026792999999999297,
+        "bounding_box": [
+          25.462,
+          40.398,
+          25.691,
+          40.515
+        ],
+        "point": [
+          25.5765,
+          40.456500000000005
+        ],
+        "labels": {
+          "alt": "Macedonia East and Thrace",
+          "local": "Ανατολική Μακεδονία και Θράκη",
+          "len": 30,
+          "ar": "مقدونيا الشرقية وتراقيا",
+          "bn": "পূর্ব ম্যাসেডোনিয়া এবং থ্রেস",
+          "de": "Ostmakedonien und Thrakien",
+          "en": "East Macedonia and Thrace",
+          "es": "Macedonia Oriental y Tracia",
+          "fr": "Macédoine-Orientale-et-Thrace",
+          "el": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "hi": "पूर्वी मैसेडोनिया और थ्रेस",
+          "hu": "Kelet-Makedónia és Thrákia",
+          "id": "Makedonia Timur dan Trasia",
+          "it": "Macedonia Orientale e Tracia",
+          "ja": "東マケドニア・トラキア",
+          "ko": "동마케도니아 트라키 주",
+          "nl": "Oost-Macedonië en Thracië",
+          "pl": "Region Macedonia Wschodnia i Tracja",
+          "pt": "Macedônia Oriental e Trácia",
+          "ru": "Восточная Македония и Фракия",
+          "sv": "Östra Makedonien och Thrakien",
+          "tr": "Doğu Makedonya ve Trakya",
+          "vi": "Đông Macedonia và Thrace",
+          "zh": "东马其顿-色雷斯"
+        },
+        "population": 564408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1925,
+          40.2885
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-69",
+        "area": 0.1223009999999993,
+        "bounding_box": [
+          24.002,
+          40.128,
+          24.383,
+          40.449
+        ],
+        "point": [
+          24.1925,
+          40.2885
+        ],
+        "labels": {
+          "alt": "Mount Athos|Holy Mountain",
+          "local": "Όρος Άθως",
+          "len": 10,
+          "ar": "جبل آثوس",
+          "bn": null,
+          "de": "Athos",
+          "en": "Mount Athos",
+          "es": "Monte Athos",
+          "fr": "Aktè",
+          "el": "Άγιο Όρος",
+          "hi": "एथोस पर्वत",
+          "hu": "Athosz-hegy",
+          "id": "Gunung Athos",
+          "it": "Monte Athos",
+          "ja": "アトス山",
+          "ko": "아토스 산",
+          "nl": "Oros Athos",
+          "pl": "Athos",
+          "pt": "Monte Atos",
+          "ru": "Афон",
+          "sv": "Athos",
+          "tr": "Aynoroz",
+          "vi": "Núi Athos",
+          "zh": "阿索斯山"
+        },
+        "population": 1574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.226,
+          39.562
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-e",
+        "area": 2.700720000000001,
+        "bounding_box": [
+          21.11,
+          38.957,
+          23.342,
+          40.167
+        ],
+        "point": [
+          22.226,
+          39.562
+        ],
+        "labels": {
+          "alt": "Thessaly",
+          "local": "Θεσσαλία",
+          "len": 9,
+          "ar": "ثيساليا",
+          "bn": "থেসালি",
+          "de": "Thessalien",
+          "en": "Thessaly",
+          "es": "Tesalia",
+          "fr": "Thessalie",
+          "el": "Θεσσαλία",
+          "hi": "थेसली",
+          "hu": "Thesszália",
+          "id": "Thessalia",
+          "it": "Tessaglia",
+          "ja": "テッサリア",
+          "ko": "테살리아",
+          "nl": "Thessalië",
+          "pl": "Tesalia",
+          "pt": "Tessália",
+          "ru": "Фессалия",
+          "sv": "Thessalien",
+          "tr": "Tesalya",
+          "vi": "Thessaly",
+          "zh": "色萨利"
+        },
+        "population": 704122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7295,
+          39.125
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-e",
+        "area": 0.011430000000000334,
+        "bounding_box": [
+          23.666,
+          39.08,
+          23.793,
+          39.17
+        ],
+        "point": [
+          23.7295,
+          39.125
+        ],
+        "labels": {
+          "alt": "Thessaly",
+          "local": "Θεσσαλία",
+          "len": 9,
+          "ar": "ثيساليا",
+          "bn": "থেসালি",
+          "de": "Thessalien",
+          "en": "Thessaly",
+          "es": "Tesalia",
+          "fr": "Thessalie",
+          "el": "Θεσσαλία",
+          "hi": "थेसली",
+          "hu": "Thesszália",
+          "id": "Thessalia",
+          "it": "Tessaglia",
+          "ja": "テッサリア",
+          "ko": "테살리아",
+          "nl": "Thessalië",
+          "pl": "Tesalia",
+          "pt": "Tessália",
+          "ru": "Фессалия",
+          "sv": "Thessalien",
+          "tr": "Tesalya",
+          "vi": "Thessaly",
+          "zh": "色萨利"
+        },
+        "population": 704122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.471,
+          39.18
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-e",
+        "area": 0.005712000000000035,
+        "bounding_box": [
+          23.429,
+          39.146,
+          23.513,
+          39.214
+        ],
+        "point": [
+          23.471,
+          39.18
+        ],
+        "labels": {
+          "alt": "Thessaly",
+          "local": "Θεσσαλία",
+          "len": 9,
+          "ar": "ثيساليا",
+          "bn": "থেসালি",
+          "de": "Thessalien",
+          "en": "Thessaly",
+          "es": "Tesalia",
+          "fr": "Thessalie",
+          "el": "Θεσσαλία",
+          "hi": "थेसली",
+          "hu": "Thesszália",
+          "id": "Thessalia",
+          "it": "Tessaglia",
+          "ja": "テッサリア",
+          "ko": "테살리아",
+          "nl": "Thessalië",
+          "pl": "Tesalia",
+          "pt": "Tessália",
+          "ru": "Фессалия",
+          "sv": "Thessalien",
+          "tr": "Tesalya",
+          "vi": "Thessaly",
+          "zh": "色萨利"
+        },
+        "population": 704122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5645,
+          38.683
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-h",
+        "area": 2.698410000000001,
+        "bounding_box": [
+          21.362,
+          38.122,
+          23.767,
+          39.244
+        ],
+        "point": [
+          22.5645,
+          38.683
+        ],
+        "labels": {
+          "alt": "Greece Central",
+          "local": "Κεντρική Ελλάδα",
+          "len": 13,
+          "ar": "وسط اليونان",
+          "bn": null,
+          "de": "Mittelgriechenland",
+          "en": "Central Greece Region",
+          "es": "Grecia Central",
+          "fr": "Grèce-Centrale",
+          "el": "Περιφέρεια Στερεάς Ελλάδας",
+          "hi": "मध्य ग्रीस क्षेत्र",
+          "hu": "Közép-Görögország",
+          "id": "Yunani Tengah",
+          "it": "Grecia Centrale",
+          "ja": "中央ギリシャ",
+          "ko": "중앙그리스 주",
+          "nl": "Centraal-Griekenland",
+          "pl": "Region Grecja Środkowa",
+          "pt": "Grécia Central",
+          "ru": "Центральная Греция",
+          "sv": "Grekiska fastlandet",
+          "tr": "Orta Yunanistan",
+          "vi": "Trung Hy Lạp",
+          "zh": "中希臘"
+        },
+        "population": 502716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.725,
+          38.502
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-h",
+        "area": 1.8770399999999965,
+        "bounding_box": [
+          22.856,
+          37.962,
+          24.594,
+          39.042
+        ],
+        "point": [
+          23.725,
+          38.502
+        ],
+        "labels": {
+          "alt": "Greece Central",
+          "local": "Κεντρική Ελλάδα",
+          "len": 13,
+          "ar": "وسط اليونان",
+          "bn": null,
+          "de": "Mittelgriechenland",
+          "en": "Central Greece Region",
+          "es": "Grecia Central",
+          "fr": "Grèce-Centrale",
+          "el": "Περιφέρεια Στερεάς Ελλάδας",
+          "hi": "मध्य ग्रीस क्षेत्र",
+          "hu": "Közép-Görögország",
+          "id": "Yunani Tengah",
+          "it": "Grecia Centrale",
+          "ja": "中央ギリシャ",
+          "ko": "중앙그리스 주",
+          "nl": "Centraal-Griekenland",
+          "pl": "Region Grecja Środkowa",
+          "pt": "Grécia Central",
+          "ru": "Центральная Греция",
+          "sv": "Grekiska fastlandet",
+          "tr": "Orta Yunanistan",
+          "vi": "Trung Hy Lạp",
+          "zh": "中希臘"
+        },
+        "population": 502716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.566,
+          38.875
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-h",
+        "area": 0.04706400000000101,
+        "bounding_box": [
+          24.455,
+          38.769,
+          24.677,
+          38.981
+        ],
+        "point": [
+          24.566,
+          38.875
+        ],
+        "labels": {
+          "alt": "Greece Central",
+          "local": "Κεντρική Ελλάδα",
+          "len": 13,
+          "ar": "وسط اليونان",
+          "bn": null,
+          "de": "Mittelgriechenland",
+          "en": "Central Greece Region",
+          "es": "Grecia Central",
+          "fr": "Grèce-Centrale",
+          "el": "Περιφέρεια Στερεάς Ελλάδας",
+          "hi": "मध्य ग्रीस क्षेत्र",
+          "hu": "Közép-Görögország",
+          "id": "Yunani Tengah",
+          "it": "Grecia Centrale",
+          "ja": "中央ギリシャ",
+          "ko": "중앙그리스 주",
+          "nl": "Centraal-Griekenland",
+          "pl": "Region Grecja Środkowa",
+          "pt": "Grécia Central",
+          "ru": "Центральная Греция",
+          "sv": "Grekiska fastlandet",
+          "tr": "Orta Yunanistan",
+          "vi": "Trung Hy Lạp",
+          "zh": "中希臘"
+        },
+        "population": 502716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5815,
+          37.997
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-a1",
+        "area": 0.6975899999999972,
+        "bounding_box": [
+          23.076,
+          37.652,
+          24.087,
+          38.342
+        ],
+        "point": [
+          23.5815,
+          37.997
+        ],
+        "labels": {
+          "alt": "Attica",
+          "local": "Αττική",
+          "len": 6,
+          "ar": "أتيكا",
+          "bn": "আটিকা অঞ্চল",
+          "de": "Attika",
+          "en": "Attica Region",
+          "es": "Región Attica",
+          "fr": "Attique",
+          "el": "Περιφέρεια Αττικής",
+          "hi": "अटिका क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Attica",
+          "it": "Attica",
+          "ja": "アッティキ",
+          "ko": "아티키 주",
+          "nl": "Attika",
+          "pl": "Region Attyka",
+          "pt": "Região Attica",
+          "ru": "Аттика",
+          "sv": "Attica",
+          "tr": "Attika",
+          "vi": "Khu vực Attica",
+          "zh": "阿提卡"
+        },
+        "population": 3508574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.342,
+          37.524
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-a1",
+        "area": 0.08095999999999927,
+        "bounding_box": [
+          23.158,
+          37.414,
+          23.526,
+          37.634
+        ],
+        "point": [
+          23.342,
+          37.524
+        ],
+        "labels": {
+          "alt": "Attica",
+          "local": "Αττική",
+          "len": 6,
+          "ar": "أتيكا",
+          "bn": "আটিকা অঞ্চল",
+          "de": "Attika",
+          "en": "Attica Region",
+          "es": "Región Attica",
+          "fr": "Attique",
+          "el": "Περιφέρεια Αττικής",
+          "hi": "अटिका क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Attica",
+          "it": "Attica",
+          "ja": "アッティキ",
+          "ko": "아티키 주",
+          "nl": "Attika",
+          "pl": "Region Attyka",
+          "pt": "Região Attica",
+          "ru": "Аттика",
+          "sv": "Attica",
+          "tr": "Attika",
+          "vi": "Khu vực Attica",
+          "zh": "阿提卡"
+        },
+        "population": 3508574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.988500000000002,
+          36.264
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-a1",
+        "area": 0.04212600000000067,
+        "bounding_box": [
+          22.9,
+          36.145,
+          23.077,
+          36.383
+        ],
+        "point": [
+          22.988500000000002,
+          36.264
+        ],
+        "labels": {
+          "alt": "Attica",
+          "local": "Αττική",
+          "len": 6,
+          "ar": "أتيكا",
+          "bn": "আটিকা অঞ্চল",
+          "de": "Attika",
+          "en": "Attica Region",
+          "es": "Región Attica",
+          "fr": "Attique",
+          "el": "Περιφέρεια Αττικής",
+          "hi": "अटिका क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Attica",
+          "it": "Attica",
+          "ja": "アッティキ",
+          "ko": "아티키 주",
+          "nl": "Attika",
+          "pl": "Region Attyka",
+          "pt": "Região Attica",
+          "ru": "Аттика",
+          "sv": "Attica",
+          "tr": "Attika",
+          "vi": "Khu vực Attica",
+          "zh": "阿提卡"
+        },
+        "population": 3508574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4755,
+          37.941500000000005
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-a1",
+        "area": 0.01552500000000004,
+        "bounding_box": [
+          23.408,
+          37.884,
+          23.543,
+          37.999
+        ],
+        "point": [
+          23.4755,
+          37.941500000000005
+        ],
+        "labels": {
+          "alt": "Attica",
+          "local": "Αττική",
+          "len": 6,
+          "ar": "أتيكا",
+          "bn": "আটিকা অঞ্চল",
+          "de": "Attika",
+          "en": "Attica Region",
+          "es": "Región Attica",
+          "fr": "Attique",
+          "el": "Περιφέρεια Αττικής",
+          "hi": "अटिका क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Attica",
+          "it": "Attica",
+          "ja": "アッティキ",
+          "ko": "아티키 주",
+          "nl": "Attika",
+          "pl": "Region Attyka",
+          "pt": "Região Attica",
+          "ru": "Аттика",
+          "sv": "Attica",
+          "tr": "Attika",
+          "vi": "Khu vực Attica",
+          "zh": "阿提卡"
+        },
+        "population": 3508574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.485999999999997,
+          37.733000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-a1",
+        "area": 0.00984000000000017,
+        "bounding_box": [
+          23.426,
+          37.692,
+          23.546,
+          37.774
+        ],
+        "point": [
+          23.485999999999997,
+          37.733000000000004
+        ],
+        "labels": {
+          "alt": "Attica",
+          "local": "Αττική",
+          "len": 6,
+          "ar": "أتيكا",
+          "bn": "আটিকা অঞ্চল",
+          "de": "Attika",
+          "en": "Attica Region",
+          "es": "Región Attica",
+          "fr": "Attique",
+          "el": "Περιφέρεια Αττικής",
+          "hi": "अटिका क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Attica",
+          "it": "Attica",
+          "ja": "アッティキ",
+          "ko": "아티키 주",
+          "nl": "Attika",
+          "pl": "Region Attyka",
+          "pt": "Região Attica",
+          "ru": "Аттика",
+          "sv": "Attica",
+          "tr": "Attika",
+          "vi": "Khu vực Attica",
+          "zh": "阿提卡"
+        },
+        "population": 3508574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5255,
+          37.3455
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-a1",
+        "area": 0.006273000000000294,
+        "bounding_box": [
+          23.464,
+          37.32,
+          23.587,
+          37.371
+        ],
+        "point": [
+          23.5255,
+          37.3455
+        ],
+        "labels": {
+          "alt": "Attica",
+          "local": "Αττική",
+          "len": 6,
+          "ar": "أتيكا",
+          "bn": "আটিকা অঞ্চল",
+          "de": "Attika",
+          "en": "Attica Region",
+          "es": "Región Attica",
+          "fr": "Attique",
+          "el": "Περιφέρεια Αττικής",
+          "hi": "अटिका क्षेत्र",
+          "hu": null,
+          "id": "Wilayah Attica",
+          "it": "Attica",
+          "ja": "アッティキ",
+          "ko": "아티키 주",
+          "nl": "Attika",
+          "pl": "Region Attyka",
+          "pt": "Região Attica",
+          "ru": "Аттика",
+          "sv": "Attica",
+          "tr": "Attika",
+          "vi": "Khu vực Attica",
+          "zh": "阿提卡"
+        },
+        "population": 3508574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.505000000000003,
+          37.2985
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-j",
+        "area": 3.240145999999996,
+        "bounding_box": [
+          21.568,
+          36.434,
+          23.442,
+          38.163
+        ],
+        "point": [
+          22.505000000000003,
+          37.2985
+        ],
+        "labels": {
+          "alt": "Peloponnese",
+          "local": "ΙΠελοπόννησος",
+          "len": 12,
+          "ar": "بيلوبونيز",
+          "bn": "পেলোপোনেসে অঞ্চল",
+          "de": "Peloponnes",
+          "en": "Peloponnese Region",
+          "es": "Periferia de Peloponeso",
+          "fr": "Péloponnèse",
+          "el": "Περιφέρεια Πελοποννήσου",
+          "hi": "पेलोपोनीज़ प्रदेश",
+          "hu": "Peloponnészosz",
+          "id": "Peloponnesa",
+          "it": "Peloponneso",
+          "ja": "ペロポネソス",
+          "ko": "펠로폰네소스 주",
+          "nl": "Peloponnesos",
+          "pl": "Region Peloponez",
+          "pt": "Região de Peloponnes",
+          "ru": "Пелопоннес",
+          "sv": "Peloponnesos",
+          "tr": "Mora",
+          "vi": "Khu vực Peloponnese",
+          "zh": "伯罗奔尼撒"
+        },
+        "population": 540064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.739,
+          37.86
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-g",
+        "area": 1.2178920000000024,
+        "bounding_box": [
+          21.106,
+          37.379,
+          22.372,
+          38.341
+        ],
+        "point": [
+          21.739,
+          37.86
+        ],
+        "labels": {
+          "alt": "Greece West",
+          "local": "Δυτικής Ελλάδος",
+          "len": 13,
+          "ar": "غرب اليونان",
+          "bn": "ওয়েস্ট গ্রীস অঞ্চল",
+          "de": "Westgriechenland",
+          "en": "West Greece Region",
+          "es": "Grecia Occidental",
+          "fr": "Grèce-Occidentale",
+          "el": "Περιφέρεια Δυτικής Ελλάδας",
+          "hi": "पश्चिमी ग्रीस क्षेत्र",
+          "hu": "Nyugat-Görögország",
+          "id": "Yunani Barat",
+          "it": "Grecia Occidentale",
+          "ja": "西ギリシャ",
+          "ko": "서그리스 주",
+          "nl": "West-Griekenland",
+          "pl": "Region Grecja Zachodnia",
+          "pt": "Grécia Ocidental",
+          "ru": "Западная Греция",
+          "sv": "Västra Grekland",
+          "tr": "Batı Yunanistan",
+          "vi": "Tây Hy Lạp",
+          "zh": "西希腊"
+        },
+        "population": 617946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.363500000000002,
+          38.729
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-g",
+        "area": 1.0786500000000034,
+        "bounding_box": [
+          20.729,
+          38.304,
+          21.998,
+          39.154
+        ],
+        "point": [
+          21.363500000000002,
+          38.729
+        ],
+        "labels": {
+          "alt": "Greece West",
+          "local": "Δυτικής Ελλάδος",
+          "len": 13,
+          "ar": "غرب اليونان",
+          "bn": "ওয়েস্ট গ্রীস অঞ্চল",
+          "de": "Westgriechenland",
+          "en": "West Greece Region",
+          "es": "Grecia Occidental",
+          "fr": "Grèce-Occidentale",
+          "el": "Περιφέρεια Δυτικής Ελλάδας",
+          "hi": "पश्चिमी ग्रीस क्षेत्र",
+          "hu": "Nyugat-Görögország",
+          "id": "Yunani Barat",
+          "it": "Grecia Occidentale",
+          "ja": "西ギリシャ",
+          "ko": "서그리스 주",
+          "nl": "West-Griekenland",
+          "pl": "Region Grecja Zachodnia",
+          "pt": "Grécia Ocidental",
+          "ru": "Западная Греция",
+          "sv": "Västra Grekland",
+          "tr": "Batı Yunanistan",
+          "vi": "Tây Hy Lạp",
+          "zh": "西希腊"
+        },
+        "population": 617946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9195,
+          35.293000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-m",
+        "area": 2.023766000000004,
+        "bounding_box": [
+          23.518,
+          34.932,
+          26.321,
+          35.654
+        ],
+        "point": [
+          24.9195,
+          35.293000000000006
+        ],
+        "labels": {
+          "alt": "Crete",
+          "local": "Κρήτη",
+          "len": 5,
+          "ar": "كريت",
+          "bn": "ক্রিট",
+          "de": "Kreta",
+          "en": "Crete",
+          "es": "Creta",
+          "fr": "Crète",
+          "el": "Κρήτη",
+          "hi": "क्रीत",
+          "hu": "Kréta",
+          "id": "Kreta",
+          "it": "Creta",
+          "ja": "クレタ島",
+          "ko": "크레타",
+          "nl": "Kreta",
+          "pl": "Kreta",
+          "pt": "Creta",
+          "ru": "Крит",
+          "sv": "Kreta",
+          "tr": "Girit",
+          "vi": "Kríti",
+          "zh": "克里特"
+        },
+        "population": 630791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9705,
+          36.161500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.29267699999999847,
+        "bounding_box": [
+          27.701,
+          35.89,
+          28.24,
+          36.433
+        ],
+        "point": [
+          27.9705,
+          36.161500000000004
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8435,
+          37.852000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.08612999999999991,
+        "bounding_box": [
+          24.695,
+          37.707,
+          24.992,
+          37.997
+        ],
+        "point": [
+          24.8435,
+          37.852000000000004
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4685,
+          37.0605
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.06856300000000023,
+        "bounding_box": [
+          25.342,
+          36.925,
+          25.595,
+          37.196
+        ],
+        "point": [
+          25.4685,
+          37.0605
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1505,
+          35.5985
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.04900499999999926,
+        "bounding_box": [
+          27.068,
+          35.45,
+          27.233,
+          35.747
+        ],
+        "point": [
+          27.1505,
+          35.5985
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.194499999999998,
+          36.834500000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.043070999999999963,
+        "bounding_box": [
+          27.048,
+          36.761,
+          27.341,
+          36.908
+        ],
+        "point": [
+          27.194499999999998,
+          36.834500000000006
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.128500000000003,
+          37.6075
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.038889000000000125,
+        "bounding_box": [
+          24.998,
+          37.533,
+          25.259,
+          37.682
+        ],
+        "point": [
+          25.128500000000003,
+          37.6075
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1915,
+          37.0655
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.027788999999999314,
+        "bounding_box": [
+          25.103,
+          36.987,
+          25.28,
+          37.144
+        ],
+        "point": [
+          25.1915,
+          37.0655
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.36,
+          36.5755
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.02475000000000005,
+        "bounding_box": [
+          26.261,
+          36.513,
+          26.459,
+          36.638
+        ],
+        "point": [
+          26.36,
+          36.5755
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4345,
+          36.716499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.022969000000000236,
+        "bounding_box": [
+          24.323,
+          36.665,
+          24.546,
+          36.768
+        ],
+        "point": [
+          24.4345,
+          36.716499999999996
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3355,
+          37.608999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.01863400000000076,
+        "bounding_box": [
+          24.275,
+          37.532,
+          24.396,
+          37.686
+        ],
+        "point": [
+          24.3355,
+          37.608999999999995
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.331000000000003,
+          36.7315
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.017272000000000235,
+        "bounding_box": [
+          25.263,
+          36.668,
+          25.399,
+          36.795
+        ],
+        "point": [
+          25.331000000000003,
+          36.7315
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.384999999999998,
+          37.46
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.014976000000000794,
+        "bounding_box": [
+          25.307,
+          37.412,
+          25.463,
+          37.508
+        ],
+        "point": [
+          25.384999999999998,
+          37.46
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.423000000000002,
+          37.378
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.01495999999999993,
+        "bounding_box": [
+          24.368,
+          37.31,
+          24.478,
+          37.446
+        ],
+        "point": [
+          24.423000000000002,
+          37.378
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.43,
+          36.408
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.01440000000000004,
+        "bounding_box": [
+          25.38,
+          36.336,
+          25.48,
+          36.48
+        ],
+        "point": [
+          25.43,
+          36.408
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.985500000000002,
+          36.89
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.012641999999999999,
+        "bounding_box": [
+          25.921,
+          36.841,
+          26.05,
+          36.939
+        ],
+        "point": [
+          25.985500000000002,
+          36.89
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9125,
+          37.44
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.012104000000000545,
+        "bounding_box": [
+          24.868,
+          37.372,
+          24.957,
+          37.508
+        ],
+        "point": [
+          24.9125,
+          37.44
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9765,
+          36.9755
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.011739000000000261,
+        "bounding_box": [
+          26.912,
+          36.93,
+          27.041,
+          37.021
+        ],
+        "point": [
+          26.9765,
+          36.9755
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.721,
+          36.9695
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.011527999999999521,
+        "bounding_box": [
+          24.677,
+          36.904,
+          24.765,
+          37.035
+        ],
+        "point": [
+          24.721,
+          36.9695
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8185,
+          36.5875
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.010881000000000163,
+        "bounding_box": [
+          27.76,
+          36.541,
+          27.877,
+          36.634
+        ],
+        "point": [
+          27.8185,
+          36.5875
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.346,
+          36.431
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.009995999999999578,
+        "bounding_box": [
+          27.295,
+          36.382,
+          27.397,
+          36.48
+        ],
+        "point": [
+          27.346,
+          36.431
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4895,
+          37.164500000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.007553000000000591,
+        "bounding_box": [
+          24.444,
+          37.123,
+          24.535,
+          37.206
+        ],
+        "point": [
+          24.4895,
+          37.164500000000004
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.137999999999998,
+          36.6785
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.007469999999999845,
+        "bounding_box": [
+          25.093,
+          36.637,
+          25.183,
+          36.72
+        ],
+        "point": [
+          25.137999999999998,
+          36.6785
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.932000000000002,
+          35.391999999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.006863999999999433,
+        "bounding_box": [
+          26.888,
+          35.353,
+          26.976,
+          35.431
+        ],
+        "point": [
+          26.932000000000002,
+          35.391999999999996
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.823999999999998,
+          37.167
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.006336000000000246,
+        "bounding_box": [
+          26.776,
+          37.134,
+          26.872,
+          37.2
+        ],
+        "point": [
+          26.823999999999998,
+          37.167
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.899,
+          36.6335
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.00617400000000017,
+        "bounding_box": [
+          24.85,
+          36.602,
+          24.948,
+          36.665
+        ],
+        "point": [
+          24.899,
+          36.6335
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.567,
+          36.809
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.004428000000000208,
+        "bounding_box": [
+          24.526,
+          36.782,
+          24.608,
+          36.836
+        ],
+        "point": [
+          24.567,
+          36.809
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1675,
+          36.5895
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-l",
+        "area": 0.0032329999999998306,
+        "bounding_box": [
+          27.137,
+          36.563,
+          27.198,
+          36.616
+        ],
+        "point": [
+          27.1675,
+          36.5895
+        ],
+        "labels": {
+          "alt": "Aegean South",
+          "local": "Νοτίου Αιγαίου",
+          "len": 12,
+          "ar": "جنوب إيجة",
+          "bn": "দক্ষিণ এজিয়েন",
+          "de": "Südliche Ägäis",
+          "en": "South Aegean",
+          "es": "Egeo Meridional",
+          "fr": "Égée-Méridionale",
+          "el": "Περιφέρεια Νοτίου Αιγαίου",
+          "hi": "दक्षिण एजियन",
+          "hu": "Dél-Égei-szigetek",
+          "id": "Aegea Selatan",
+          "it": "Egeo Meridionale",
+          "ja": "南エーゲ",
+          "ko": "남에게 주",
+          "nl": "Zuid-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Południowe",
+          "pt": "Egeu Meridional",
+          "ru": "Южные Эгейские острова",
+          "sv": "Sydegeiska öarna",
+          "tr": "Güney Ege",
+          "vi": "Nam Aegea",
+          "zh": "南愛琴"
+        },
+        "population": 235058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.229,
+          39.175
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-k",
+        "area": 0.31865600000000227,
+        "bounding_box": [
+          25.846,
+          38.967,
+          26.612,
+          39.383
+        ],
+        "point": [
+          26.229,
+          39.175
+        ],
+        "labels": {
+          "alt": "Aegean North",
+          "local": "Βορείου Αιγαίου",
+          "len": 13,
+          "ar": "شمال إيجة",
+          "bn": "নর্থ এজিয়ান অঞ্চল",
+          "de": "Nördliche Ägäis",
+          "en": "North Aegean Region",
+          "es": "Egeo Septentrional",
+          "fr": "Égée-Septentrionale",
+          "el": "Περιφέρεια Βορείου Αιγαίου",
+          "hi": "उत्तरी एजियन क्षेत्र",
+          "hu": "Észak-Égei-szigetek",
+          "id": "Aegea Utara",
+          "it": "Egeo Settentrionale",
+          "ja": "北エーゲ",
+          "ko": "북에게 주",
+          "nl": "Noord-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Północne",
+          "pt": "Egeu Setentrional",
+          "ru": "Северные Эгейские острова",
+          "sv": "Nordegeiska öarna",
+          "tr": "Kuzey Ege",
+          "vi": "Bắc Aegea",
+          "zh": "北愛琴"
+        },
+        "population": 178238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.003500000000003,
+          38.385
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-k",
+        "area": 0.14059800000000142,
+        "bounding_box": [
+          25.843,
+          38.166,
+          26.164,
+          38.604
+        ],
+        "point": [
+          26.003500000000003,
+          38.385
+        ],
+        "labels": {
+          "alt": "Aegean North",
+          "local": "Βορείου Αιγαίου",
+          "len": 13,
+          "ar": "شمال إيجة",
+          "bn": "নর্থ এজিয়ান অঞ্চল",
+          "de": "Nördliche Ägäis",
+          "en": "North Aegean Region",
+          "es": "Egeo Septentrional",
+          "fr": "Égée-Septentrionale",
+          "el": "Περιφέρεια Βορείου Αιγαίου",
+          "hi": "उत्तरी एजियन क्षेत्र",
+          "hu": "Észak-Égei-szigetek",
+          "id": "Aegea Utara",
+          "it": "Egeo Settentrionale",
+          "ja": "北エーゲ",
+          "ko": "북에게 주",
+          "nl": "Noord-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Północne",
+          "pt": "Egeu Setentrional",
+          "ru": "Северные Эгейские острова",
+          "sv": "Nordegeiska öarna",
+          "tr": "Kuzey Ege",
+          "vi": "Bắc Aegea",
+          "zh": "北愛琴"
+        },
+        "population": 178238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.247500000000002,
+          39.912
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-k",
+        "area": 0.10044000000000129,
+        "bounding_box": [
+          25.045,
+          39.788,
+          25.45,
+          40.036
+        ],
+        "point": [
+          25.247500000000002,
+          39.912
+        ],
+        "labels": {
+          "alt": "Aegean North",
+          "local": "Βορείου Αιγαίου",
+          "len": 13,
+          "ar": "شمال إيجة",
+          "bn": "নর্থ এজিয়ান অঞ্চল",
+          "de": "Nördliche Ägäis",
+          "en": "North Aegean Region",
+          "es": "Egeo Septentrional",
+          "fr": "Égée-Septentrionale",
+          "el": "Περιφέρεια Βορείου Αιγαίου",
+          "hi": "उत्तरी एजियन क्षेत्र",
+          "hu": "Észak-Égei-szigetek",
+          "id": "Aegea Utara",
+          "it": "Egeo Settentrionale",
+          "ja": "北エーゲ",
+          "ko": "북에게 주",
+          "nl": "Noord-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Północne",
+          "pt": "Egeu Setentrional",
+          "ru": "Северные Эгейские острова",
+          "sv": "Nordegeiska öarna",
+          "tr": "Kuzey Ege",
+          "vi": "Bắc Aegea",
+          "zh": "北愛琴"
+        },
+        "population": 178238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.814,
+          37.7285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-k",
+        "area": 0.0800279999999997,
+        "bounding_box": [
+          26.58,
+          37.643,
+          27.048,
+          37.814
+        ],
+        "point": [
+          26.814,
+          37.7285
+        ],
+        "labels": {
+          "alt": "Aegean North",
+          "local": "Βορείου Αιγαίου",
+          "len": 13,
+          "ar": "شمال إيجة",
+          "bn": "নর্থ এজিয়ান অঞ্চল",
+          "de": "Nördliche Ägäis",
+          "en": "North Aegean Region",
+          "es": "Egeo Septentrional",
+          "fr": "Égée-Septentrionale",
+          "el": "Περιφέρεια Βορείου Αιγαίου",
+          "hi": "उत्तरी एजियन क्षेत्र",
+          "hu": "Észak-Égei-szigetek",
+          "id": "Aegea Utara",
+          "it": "Egeo Settentrionale",
+          "ja": "北エーゲ",
+          "ko": "북에게 주",
+          "nl": "Noord-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Północne",
+          "pt": "Egeu Setentrional",
+          "ru": "Северные Эгейские острова",
+          "sv": "Nordegeiska öarna",
+          "tr": "Kuzey Ege",
+          "vi": "Bắc Aegea",
+          "zh": "北愛琴"
+        },
+        "population": 178238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.168999999999997,
+          37.601
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-k",
+        "area": 0.06562000000000053,
+        "bounding_box": [
+          25.976,
+          37.516,
+          26.362,
+          37.686
+        ],
+        "point": [
+          26.168999999999997,
+          37.601
+        ],
+        "labels": {
+          "alt": "Aegean North",
+          "local": "Βορείου Αιγαίου",
+          "len": 13,
+          "ar": "شمال إيجة",
+          "bn": "নর্থ এজিয়ান অঞ্চল",
+          "de": "Nördliche Ägäis",
+          "en": "North Aegean Region",
+          "es": "Egeo Septentrional",
+          "fr": "Égée-Septentrionale",
+          "el": "Περιφέρεια Βορείου Αιγαίου",
+          "hi": "उत्तरी एजियन क्षेत्र",
+          "hu": "Észak-Égei-szigetek",
+          "id": "Aegea Utara",
+          "it": "Egeo Settentrionale",
+          "ja": "北エーゲ",
+          "ko": "북에게 주",
+          "nl": "Noord-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Północne",
+          "pt": "Egeu Setentrional",
+          "ru": "Северные Эгейские острова",
+          "sv": "Nordegeiska öarna",
+          "tr": "Kuzey Ege",
+          "vi": "Bắc Aegea",
+          "zh": "北愛琴"
+        },
+        "population": 178238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.572499999999998,
+          38.573499999999996
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-k",
+        "area": 0.007623000000000539,
+        "bounding_box": [
+          25.523,
+          38.535,
+          25.622,
+          38.612
+        ],
+        "point": [
+          25.572499999999998,
+          38.573499999999996
+        ],
+        "labels": {
+          "alt": "Aegean North",
+          "local": "Βορείου Αιγαίου",
+          "len": 13,
+          "ar": "شمال إيجة",
+          "bn": "নর্থ এজিয়ান অঞ্চল",
+          "de": "Nördliche Ägäis",
+          "en": "North Aegean Region",
+          "es": "Egeo Septentrional",
+          "fr": "Égée-Septentrionale",
+          "el": "Περιφέρεια Βορείου Αιγαίου",
+          "hi": "उत्तरी एजियन क्षेत्र",
+          "hu": "Észak-Égei-szigetek",
+          "id": "Aegea Utara",
+          "it": "Egeo Settentrionale",
+          "ja": "北エーゲ",
+          "ko": "북에게 주",
+          "nl": "Noord-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Północne",
+          "pt": "Egeu Setentrional",
+          "ru": "Северные Эгейские острова",
+          "sv": "Nordegeiska öarna",
+          "tr": "Kuzey Ege",
+          "vi": "Bắc Aegea",
+          "zh": "北愛琴"
+        },
+        "population": 178238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.008499999999998,
+          39.5155
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-k",
+        "area": 0.00611099999999997,
+        "bounding_box": [
+          24.977,
+          39.467,
+          25.04,
+          39.564
+        ],
+        "point": [
+          25.008499999999998,
+          39.5155
+        ],
+        "labels": {
+          "alt": "Aegean North",
+          "local": "Βορείου Αιγαίου",
+          "len": 13,
+          "ar": "شمال إيجة",
+          "bn": "নর্থ এজিয়ান অঞ্চল",
+          "de": "Nördliche Ägäis",
+          "en": "North Aegean Region",
+          "es": "Egeo Septentrional",
+          "fr": "Égée-Septentrionale",
+          "el": "Περιφέρεια Βορείου Αιγαίου",
+          "hi": "उत्तरी एजियन क्षेत्र",
+          "hu": "Észak-Égei-szigetek",
+          "id": "Aegea Utara",
+          "it": "Egeo Settentrionale",
+          "ja": "北エーゲ",
+          "ko": "북에게 주",
+          "nl": "Noord-Egeïsche Eilanden",
+          "pl": "Region Wyspy Egejskie Północne",
+          "pt": "Egeu Setentrional",
+          "ru": "Северные Эгейские острова",
+          "sv": "Nordegeiska öarna",
+          "tr": "Kuzey Ege",
+          "vi": "Bắc Aegea",
+          "zh": "北愛琴"
+        },
+        "population": 178238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.871000000000002,
+          39.595
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-f",
+        "area": 0.2162000000000015,
+        "bounding_box": [
+          19.636,
+          39.365,
+          20.106,
+          39.825
+        ],
+        "point": [
+          19.871000000000002,
+          39.595
+        ],
+        "labels": {
+          "alt": "Ionian Islands",
+          "local": "Ιόνια νησιά",
+          "len": 12,
+          "ar": "الجزر الأيونية",
+          "bn": null,
+          "de": "Ionische Inseln",
+          "en": "Ionian Islands Region",
+          "es": "Periferia de Islas Jónicas",
+          "fr": "Îles Ioniennes",
+          "el": "Περιφέρεια Ιονίων Νήσων",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Isole Ionie",
+          "ja": null,
+          "ko": null,
+          "nl": "Ionian Islands Region",
+          "pl": "Region Wyspy Jońskie",
+          "pt": "Ilhas Jónicas",
+          "ru": "Ионические острова",
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": "愛奧尼亞群島"
+        },
+        "population": 179797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5685,
+          38.268
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-f",
+        "area": 0.18910799999999942,
+        "bounding_box": [
+          20.339,
+          38.062,
+          20.798,
+          38.474
+        ],
+        "point": [
+          20.5685,
+          38.268
+        ],
+        "labels": {
+          "alt": "Ionian Islands",
+          "local": "Ιόνια νησιά",
+          "len": 12,
+          "ar": "الجزر الأيونية",
+          "bn": null,
+          "de": "Ionische Inseln",
+          "en": "Ionian Islands Region",
+          "es": "Periferia de Islas Jónicas",
+          "fr": "Îles Ioniennes",
+          "el": "Περιφέρεια Ιονίων Νήσων",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Isole Ionie",
+          "ja": null,
+          "ko": null,
+          "nl": "Ionian Islands Region",
+          "pl": "Region Wyspy Jońskie",
+          "pt": "Ilhas Jónicas",
+          "ru": "Ионические острова",
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": "愛奧尼亞群島"
+        },
+        "population": 179797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.759999999999998,
+          37.791
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-f",
+        "area": 0.07839599999999963,
+        "bounding_box": [
+          20.619,
+          37.652,
+          20.901,
+          37.93
+        ],
+        "point": [
+          20.759999999999998,
+          37.791
+        ],
+        "labels": {
+          "alt": "Ionian Islands",
+          "local": "Ιόνια νησιά",
+          "len": 12,
+          "ar": "الجزر الأيونية",
+          "bn": null,
+          "de": "Ionische Inseln",
+          "en": "Ionian Islands Region",
+          "es": "Periferia de Islas Jónicas",
+          "fr": "Îles Ioniennes",
+          "el": "Περιφέρεια Ιονίων Νήσων",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Isole Ionie",
+          "ja": null,
+          "ko": null,
+          "nl": "Ionian Islands Region",
+          "pl": "Region Wyspy Jońskie",
+          "pt": "Ilhas Jónicas",
+          "ru": "Ионические острова",
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": "愛奧尼亞群島"
+        },
+        "population": 179797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6455,
+          38.727000000000004
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-f",
+        "area": 0.04108199999999989,
+        "bounding_box": [
+          20.562,
+          38.604,
+          20.729,
+          38.85
+        ],
+        "point": [
+          20.6455,
+          38.727000000000004
+        ],
+        "labels": {
+          "alt": "Ionian Islands",
+          "local": "Ιόνια νησιά",
+          "len": 12,
+          "ar": "الجزر الأيونية",
+          "bn": null,
+          "de": "Ionische Inseln",
+          "en": "Ionian Islands Region",
+          "es": "Periferia de Islas Jónicas",
+          "fr": "Îles Ioniennes",
+          "el": "Περιφέρεια Ιονίων Νήσων",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Isole Ionie",
+          "ja": null,
+          "ko": null,
+          "nl": "Ionian Islands Region",
+          "pl": "Region Wyspy Jońskie",
+          "pt": "Ilhas Jónicas",
+          "ru": "Ионические острова",
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": "愛奧尼亞群島"
+        },
+        "population": 179797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.678,
+          38.4195
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "gr",
+        "region_child": "gr-f",
+        "area": 0.004180000000000007,
+        "bounding_box": [
+          20.64,
+          38.392,
+          20.716,
+          38.447
+        ],
+        "point": [
+          20.678,
+          38.4195
+        ],
+        "labels": {
+          "alt": "Ionian Islands",
+          "local": "Ιόνια νησιά",
+          "len": 12,
+          "ar": "الجزر الأيونية",
+          "bn": null,
+          "de": "Ionische Inseln",
+          "en": "Ionian Islands Region",
+          "es": "Periferia de Islas Jónicas",
+          "fr": "Îles Ioniennes",
+          "el": "Περιφέρεια Ιονίων Νήσων",
+          "hi": null,
+          "hu": null,
+          "id": null,
+          "it": "Isole Ionie",
+          "ja": null,
+          "ko": null,
+          "nl": "Ionian Islands Region",
+          "pl": "Region Wyspy Jońskie",
+          "pt": "Ilhas Jónicas",
+          "ru": "Ионические острова",
+          "sv": null,
+          "tr": null,
+          "vi": null,
+          "zh": "愛奧尼亞群島"
+        },
+        "population": 179797
+      }
+    }
+  ]
+}

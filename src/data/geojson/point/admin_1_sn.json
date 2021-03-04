@@ -1,0 +1,853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.500499999999999,
+          12.876999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-ke",
+        "area": 2.563790000000002,
+        "bounding_box": [
+          -13.623,
+          12.306,
+          -11.378,
+          13.448
+        ],
+        "point": [
+          -12.500499999999999,
+          12.876999999999999
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "كيدوغو",
+          "bn": "কেদুগো",
+          "de": "Region Kédougou",
+          "en": "Kédougou",
+          "es": "Kédougou",
+          "fr": "Kédougou",
+          "el": "Κεντούγκου",
+          "hi": "केडूगू",
+          "hu": null,
+          "id": "Kédougou",
+          "it": "Kédougou",
+          "ja": "ケドゥグ州",
+          "ko": "케두구 주",
+          "nl": "Kédougou",
+          "pl": "Kédougou",
+          "pt": "Kédougou",
+          "ru": "Кедугу",
+          "sv": "Kédougou",
+          "tr": "Kédougou",
+          "vi": "Kédougou",
+          "zh": "凱杜古區"
+        },
+        "population": 223859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.375,
+          14.043
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-tc",
+        "area": 6.290459999999999,
+        "bounding_box": [
+          -14.86,
+          12.984,
+          -11.89,
+          15.102
+        ],
+        "point": [
+          -13.375,
+          14.043
+        ],
+        "labels": {
+          "alt": "Sénégal Oriental",
+          "local": null,
+          "len": 11,
+          "ar": "إقليم تامباكوندا",
+          "bn": "তাম্বাকুন্ডা অঞ্চল",
+          "de": "Region Tambacounda",
+          "en": "Tambacounda Region",
+          "es": "Tambacounda",
+          "fr": "Tambacounda",
+          "el": "Ταμπακούντα",
+          "hi": "ताम्बाकुंडा प्रदेश",
+          "hu": null,
+          "id": "Region Tambacounda",
+          "it": "regione di Tambacounda",
+          "ja": "タンバクンダ州",
+          "ko": "탐바쿤다 주",
+          "nl": "Tambacounda",
+          "pl": "Region Tambacounda",
+          "pt": "Tambacounda",
+          "ru": "Тамбакунда",
+          "sv": "Tambacounda",
+          "tr": "Tambacounda Bölgesi",
+          "vi": "Khu vực Tambacounda",
+          "zh": "坦巴昆達區"
+        },
+        "population": 796403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.363,
+          13.120000000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-kd",
+        "area": 1.8856399999999993,
+        "bounding_box": [
+          -15.366,
+          12.65,
+          -13.36,
+          13.59
+        ],
+        "point": [
+          -14.363,
+          13.120000000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "كولدا",
+          "bn": "কোডলা",
+          "de": "Region Kolda",
+          "en": "Kolda",
+          "es": "Kolda",
+          "fr": "Kolda",
+          "el": "Κολντά",
+          "hi": "कोल्डा",
+          "hu": null,
+          "id": "Region Kolda",
+          "it": "Kolda",
+          "ja": "コルダ州",
+          "ko": "콜다 주",
+          "nl": "Kolda",
+          "pl": "Kolda",
+          "pt": "Kolda",
+          "ru": "Колда",
+          "sv": "Kolda",
+          "tr": "Kolda",
+          "vi": "Kolda",
+          "zh": "科爾達區"
+        },
+        "population": 834547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5765,
+          12.909500000000001
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-se",
+        "area": 0.8509049999999984,
+        "bounding_box": [
+          -16.022,
+          12.432,
+          -15.131,
+          13.387
+        ],
+        "point": [
+          -15.5765,
+          12.909500000000001
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "سيدهيو",
+          "bn": "সেধিউ",
+          "de": "Region Sédhiou",
+          "en": "Sédhiou",
+          "es": "Sédhiou",
+          "fr": "Sédhiou",
+          "el": "Σεντιού",
+          "hi": "सेदियोऊ",
+          "hu": null,
+          "id": "Sédhiou",
+          "it": "Sédhiou",
+          "ja": "セディウ州",
+          "ko": "세디우 주",
+          "nl": "Sédhiou",
+          "pl": "Sédhiou",
+          "pt": "Região de Sédhiou",
+          "ru": "Седиу",
+          "sv": "Sédhiou",
+          "tr": "Sédhiou",
+          "vi": "Sédhiou",
+          "zh": "塞久區"
+        },
+        "population": 542091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3465,
+          12.8645
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-zg",
+        "area": 0.5385009999999997,
+        "bounding_box": [
+          -16.796,
+          12.565,
+          -15.897,
+          13.164
+        ],
+        "point": [
+          -16.3465,
+          12.8645
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "زينغشور",
+          "bn": "জিগুইনকা",
+          "de": "Region Ziguinchor",
+          "en": "Ziguinchor",
+          "es": "Ziguinchor",
+          "fr": "Ziguinchor",
+          "el": "Ζιγκινσόρ",
+          "hi": "ज़िगुइनिचर क्षेत्र",
+          "hu": null,
+          "id": "Region Ziguinchor",
+          "it": "Ziguinchor",
+          "ja": "ジガンショール州",
+          "ko": "지긴쇼르 주",
+          "nl": "Ziguinchor",
+          "pl": "Ziguinchor",
+          "pt": "Ziguinchor",
+          "ru": "Зигиншор",
+          "sv": "Ziguinchor",
+          "tr": "Ziguinchor",
+          "vi": "Ziguinchor",
+          "zh": "济金绍尔区"
+        },
+        "population": 654326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3435,
+          12.483
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-zg",
+        "area": 0.27569999999999917,
+        "bounding_box": [
+          -16.803,
+          12.333,
+          -15.884,
+          12.633
+        ],
+        "point": [
+          -16.3435,
+          12.483
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "زينغشور",
+          "bn": "জিগুইনকা",
+          "de": "Region Ziguinchor",
+          "en": "Ziguinchor",
+          "es": "Ziguinchor",
+          "fr": "Ziguinchor",
+          "el": "Ζιγκινσόρ",
+          "hi": "ज़िगुइनिचर क्षेत्र",
+          "hu": null,
+          "id": "Region Ziguinchor",
+          "it": "Ziguinchor",
+          "ja": "ジガンショール州",
+          "ko": "지긴쇼르 주",
+          "nl": "Ziguinchor",
+          "pl": "Ziguinchor",
+          "pt": "Ziguinchor",
+          "ru": "Зигиншор",
+          "sv": "Ziguinchor",
+          "tr": "Ziguinchor",
+          "vi": "Ziguinchor",
+          "zh": "济金绍尔区"
+        },
+        "population": 654326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.13,
+          16.1645
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-sl",
+        "area": 2.973671999999999,
+        "bounding_box": [
+          -16.542,
+          15.638,
+          -13.718,
+          16.691
+        ],
+        "point": [
+          -15.13,
+          16.1645
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 11,
+          "ar": "إقليم سانت لويس",
+          "bn": "সেন্ট লুইস",
+          "de": "Region Saint-Louis",
+          "en": "Saint-Louis",
+          "es": "Saint-Louis",
+          "fr": "Saint-Louis",
+          "el": "Σεν Λουί",
+          "hi": "सेंट-लुइ प्रदेश",
+          "hu": null,
+          "id": "Region Saint-Louis",
+          "it": "Saint-Louis",
+          "ja": "サンルイ州",
+          "ko": "생루이 주",
+          "nl": "Saint-Louis",
+          "pl": "Saint-Louis",
+          "pt": "Saint-Louis",
+          "ru": "Сен-Луи",
+          "sv": "Saint-Louis",
+          "tr": "Saint-Louis",
+          "vi": "Saint-Louis",
+          "zh": "聖路易區"
+        },
+        "population": 1080709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.718,
+          15.2745
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-mt",
+        "area": 4.0326900000000006,
+        "bounding_box": [
+          -14.863,
+          14.394,
+          -12.573,
+          16.155
+        ],
+        "point": [
+          -13.718,
+          15.2745
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "ماتام",
+          "bn": "মাতাম",
+          "de": "Region Matam",
+          "en": "Matam",
+          "es": "Matam",
+          "fr": "Matam",
+          "el": "Ματάμ",
+          "hi": "मतम",
+          "hu": null,
+          "id": "Region Matam",
+          "it": "Matam",
+          "ja": "マタム州",
+          "ko": "마탐 주",
+          "nl": "Matam",
+          "pl": "Matam",
+          "pt": "Matam",
+          "ru": "Матам",
+          "sv": "Matam",
+          "tr": "Matam",
+          "vi": "Matam",
+          "zh": "馬塔姆區"
+        },
+        "population": 739392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.216000000000001,
+          14.22
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-ka",
+        "area": 1.2217679999999997,
+        "bounding_box": [
+          -15.855,
+          13.742,
+          -14.577,
+          14.698
+        ],
+        "point": [
+          -15.216000000000001,
+          14.22
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "اقليم كفرين",
+          "bn": "ক্যাফ্রিন",
+          "de": "Region Kaffrine",
+          "en": "Kaffrine",
+          "es": "Kaffrine",
+          "fr": "Kaffrine",
+          "el": "Καφρίν",
+          "hi": "कैफरीन",
+          "hu": null,
+          "id": "Kaffrine",
+          "it": "Kaffrine",
+          "ja": "カフリン州",
+          "ko": "카프린 주",
+          "nl": "Kaffrine",
+          "pl": "Kaffrine",
+          "pt": "Kaffrine",
+          "ru": "Кафрин",
+          "sv": "Kaffrine",
+          "tr": "Kaffrine",
+          "vi": "Kaffrine",
+          "zh": "卡夫林區"
+        },
+        "population": 695999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.887,
+          13.984
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-kl",
+        "area": 0.7907719999999987,
+        "bounding_box": [
+          -16.38,
+          13.583,
+          -15.394,
+          14.385
+        ],
+        "point": [
+          -15.887,
+          13.984
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 7,
+          "ar": "كاولاك",
+          "bn": "কাওলাক",
+          "de": "Region Kaolack",
+          "en": "Kaolack",
+          "es": "Kaolack",
+          "fr": "Kaolack",
+          "el": "Καολάκ",
+          "hi": "काओलैक",
+          "hu": null,
+          "id": "Region Kaolack",
+          "it": "Regione di Kaolack",
+          "ja": "カオラック州",
+          "ko": "카올라크 주",
+          "nl": "Kaolack",
+          "pl": "Kaolack",
+          "pt": "Kaolack",
+          "ru": "Каолак",
+          "sv": "Kaolack",
+          "tr": "kaolack",
+          "vi": "Kaolack",
+          "zh": "考拉克区"
+        },
+        "population": 1135027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.121,
+          14.3565
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-fk",
+        "area": 1.0639800000000017,
+        "bounding_box": [
+          -16.811,
+          13.971,
+          -15.431,
+          14.742
+        ],
+        "point": [
+          -16.121,
+          14.3565
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم فاتيك",
+          "bn": "ফ্যাটিক",
+          "de": "Region Fatick",
+          "en": "Fatick",
+          "es": "Fatick",
+          "fr": "Fatick",
+          "el": "Φατίκ",
+          "hi": "फटिक",
+          "hu": null,
+          "id": "Region Fatick",
+          "it": "Fatick",
+          "ja": "ファティック州",
+          "ko": "파티크 주",
+          "nl": "Fatick",
+          "pl": "Fatick",
+          "pt": "Fatick",
+          "ru": "Фатик",
+          "sv": "Fatick",
+          "tr": "Fatick",
+          "vi": "Fatick",
+          "zh": "法蒂克区"
+        },
+        "population": 932971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.416,
+          13.874
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-fk",
+        "area": 0.38263599999999903,
+        "bounding_box": [
+          -16.747,
+          13.585,
+          -16.085,
+          14.163
+        ],
+        "point": [
+          -16.416,
+          13.874
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 6,
+          "ar": "إقليم فاتيك",
+          "bn": "ফ্যাটিক",
+          "de": "Region Fatick",
+          "en": "Fatick",
+          "es": "Fatick",
+          "fr": "Fatick",
+          "el": "Φατίκ",
+          "hi": "फटिक",
+          "hu": null,
+          "id": "Region Fatick",
+          "it": "Fatick",
+          "ja": "ファティック州",
+          "ko": "파티크 주",
+          "nl": "Fatick",
+          "pl": "Fatick",
+          "pt": "Fatick",
+          "ru": "Фатик",
+          "sv": "Fatick",
+          "tr": "Fatick",
+          "vi": "Fatick",
+          "zh": "法蒂克区"
+        },
+        "population": 932971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.6345,
+          15.390999999999998
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-lg",
+        "area": 3.481981999999996,
+        "bounding_box": [
+          -16.735,
+          14.6,
+          -14.534,
+          16.182
+        ],
+        "point": [
+          -15.6345,
+          15.390999999999998
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "إقليم لوغا",
+          "bn": "লুগা",
+          "de": "Region Louga",
+          "en": "Louga",
+          "es": "Louga",
+          "fr": "Louga",
+          "el": "Λουγκά",
+          "hi": "लूगा प्रदेश",
+          "hu": null,
+          "id": "Region Louga",
+          "it": "Louga",
+          "ja": "ルーガ州",
+          "ko": "루가 주",
+          "nl": "Louga",
+          "pl": "Louga",
+          "pt": "Louga",
+          "ru": "Луга",
+          "sv": "Louga",
+          "tr": "Louga",
+          "vi": "Louga",
+          "zh": "盧加區"
+        },
+        "population": 1058913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.657,
+          14.801
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-th",
+        "area": 1.4195999999999964,
+        "bounding_box": [
+          -17.182,
+          14.125,
+          -16.132,
+          15.477
+        ],
+        "point": [
+          -16.657,
+          14.801
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 5,
+          "ar": "ثيس",
+          "bn": "থিস",
+          "de": "Region Thiès",
+          "en": "Thiès",
+          "es": "Thiès",
+          "fr": "Thiès",
+          "el": "Τιες",
+          "hi": "थीस",
+          "hu": null,
+          "id": "Region Thiès",
+          "it": "Thiès",
+          "ja": "ティエス州",
+          "ko": "티에스 주",
+          "nl": "Thiès",
+          "pl": "Thiès",
+          "pt": "Thiès",
+          "ru": "Тиес",
+          "sv": "Thiès",
+          "tr": "Thiès",
+          "vi": "Thiès",
+          "zh": "捷斯區"
+        },
+        "population": 2159178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.332500000000003,
+          14.754999999999999
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-dk",
+        "area": 0.11558800000000029,
+        "bounding_box": [
+          -17.536,
+          14.613,
+          -17.129,
+          14.897
+        ],
+        "point": [
+          -17.332500000000003,
+          14.754999999999999
+        ],
+        "labels": {
+          "alt": "Cap Vert|Dacar",
+          "local": null,
+          "len": 5,
+          "ar": "داكار",
+          "bn": "ডাকার",
+          "de": "Region Dakar",
+          "en": "Dakar",
+          "es": "Dakar",
+          "fr": "Dakar",
+          "el": "Ντακάρ",
+          "hi": "डकार",
+          "hu": null,
+          "id": "Region Dakar",
+          "it": "Dakar",
+          "ja": "ダカール州",
+          "ko": "다카르 주",
+          "nl": "Dakar",
+          "pl": "Dakar",
+          "pt": "Dakar",
+          "ru": "Дакар",
+          "sv": "Dakar",
+          "tr": "Dakar",
+          "vi": "Dakar",
+          "zh": "达喀尔区"
+        },
+        "population": 3571514
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.029,
+          14.769
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "sn",
+        "region_child": "sn-db",
+        "area": 0.6308280000000008,
+        "bounding_box": [
+          -16.678,
+          14.526,
+          -15.38,
+          15.012
+        ],
+        "point": [
+          -16.029,
+          14.769
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 8,
+          "ar": "إقليم ديوربيل",
+          "bn": "ডিউরেবেল অঞ্চল",
+          "de": "Region Diourbel",
+          "en": "Diourbel Region",
+          "es": "Diourbel",
+          "fr": "Diourbel",
+          "el": "Ντιουρμπέλ",
+          "hi": "डिउरबेल प्रदेश",
+          "hu": "Diourbel régió",
+          "id": "Region Diourbel",
+          "it": "Regione di Diourbel",
+          "ja": "ジュルベル州",
+          "ko": "디우르벨 주",
+          "nl": "Diourbel",
+          "pl": "Regon Diourbel",
+          "pt": "Diourbel",
+          "ru": "Диурбель",
+          "sv": "Diourbel",
+          "tr": "Diorbel Bölgesi",
+          "vi": "Khu vực Diourbel",
+          "zh": "久尔贝勒区"
+        },
+        "population": 1801554
+      }
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7535,
+          48.2255
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "at",
+        "region_child": "at-3",
+        "area": 4.095605000000014,
+        "bounding_box": [
+          14.445,
+          47.443,
+          17.062,
+          49.008
+        ],
+        "point": [
+          15.7535,
+          48.2255
+        ],
+        "labels": {
+          "alt": "Lower Austria|Baixa-Áustria|Baja Austria|Niederdonau|Österreich unter der Enns",
+          "local": null,
+          "len": 16,
+          "ar": "النمسا السفلى",
+          "bn": "লোয়ার অস্ট্রিয়া",
+          "de": "Niederösterreich",
+          "en": "Lower Austria",
+          "es": "Baja Austria",
+          "fr": "Basse-Autriche",
+          "el": "Κάτω Αυστρία",
+          "hi": "निचला ऑस्ट्रिया",
+          "hu": "Alsó-Ausztria",
+          "id": "Austria Hilir",
+          "it": "Bassa Austria",
+          "ja": "ニーダーエスターライヒ州",
+          "ko": "니더외스터라이히 주",
+          "nl": "Neder-Oostenrijk",
+          "pl": "Dolna Austria",
+          "pt": "Baixa Áustria",
+          "ru": "Нижняя Австрия",
+          "sv": "Niederösterreich",
+          "tr": "Aşağı Avusturya",
+          "vi": "Niederösterreich",
+          "zh": "下奧地利州"
+        },
+        "population": 1902566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.86,
+          48.12
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "at",
+        "region_child": "at-4",
+        "area": 2.881160000000004,
+        "bounding_box": [
+          12.745,
+          47.474,
+          14.975,
+          48.766
+        ],
+        "point": [
+          13.86,
+          48.12
+        ],
+        "labels": {
+          "alt": "Upper Austria|Alta-Áustria|Alta Austria|Österreich ober der Enns|Oberösterreich",
+          "local": null,
+          "len": 14,
+          "ar": "النمسا العليا",
+          "bn": "আপার অস্ট্রিয়া",
+          "de": "Oberösterreich",
+          "en": "Upper Austria",
+          "es": "Alta Austria",
+          "fr": "Haute-Autriche",
+          "el": "Άνω Αυστρία",
+          "hi": "ऊपरी ऑस्ट्रिया",
+          "hu": "Felső-Ausztria",
+          "id": "Austria Hulu",
+          "it": "Alta Austria",
+          "ja": "オーバーエスターライヒ州",
+          "ko": "오버외스터라이히 주",
+          "nl": "Opper-Oostenrijk",
+          "pl": "Górna Austria",
+          "pt": "Alta Áustria",
+          "ru": "Верхняя Австрия",
+          "sv": "Oberösterreich",
+          "tr": "Yukarı Avusturya",
+          "vi": "Oberösterreich",
+          "zh": "上奧地利"
+        },
+        "population": 1452291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.575499999999998,
+          47.475
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "at",
+        "region_child": "at-1",
+        "area": 1.461019999999995,
+        "bounding_box": [
+          16.003,
+          46.837,
+          17.148,
+          48.113
+        ],
+        "point": [
+          16.575499999999998,
+          47.475
+        ],
+        "labels": {
+          "alt": "Burgenlândia",
+          "local": null,
+          "len": 10,
+          "ar": "بورغنلاند",
+          "bn": "বুর্গেনল্যান্ড",
+          "de": "Burgenland",
+          "en": "Burgenland",
+          "es": "Burgenland",
+          "fr": "Burgenland",
+          "el": "Μπούργκενλαντ",
+          "hi": "बुर्गेनलैंड",
+          "hu": "Burgenland",
+          "id": "Burgenland",
+          "it": "Burgenland",
+          "ja": "ブルゲンラント州",
+          "ko": "부르겐란트 주",
+          "nl": "Burgenland",
+          "pl": "Burgenland",
+          "pt": "Burgenland",
+          "ru": "Бургенланд",
+          "sv": "Burgenland",
+          "tr": "Burgenland",
+          "vi": "Burgenland",
+          "zh": "布尔根兰州"
+        },
+        "population": 301288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.865,
+          47.2145
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "at",
+        "region_child": "at-8",
+        "area": 0.5056799999999988,
+        "bounding_box": [
+          9.521,
+          46.847,
+          10.209,
+          47.582
+        ],
+        "point": [
+          9.865,
+          47.2145
+        ],
+        "labels": {
+          "alt": null,
+          "local": null,
+          "len": 10,
+          "ar": "فورآرلبرغ",
+          "bn": "ভোরালবার্গ",
+          "de": "Vorarlberg",
+          "en": "Vorarlberg",
+          "es": "Vorarlberg",
+          "fr": "Vorarlberg",
+          "el": "Φόραρλμπεργκ",
+          "hi": "वोरार्लबर्ग",
+          "hu": "Vorarlberg",
+          "id": "Vorarlberg",
+          "it": "Vorarlberg",
+          "ja": "フォアアールベルク州",
+          "ko": "포어아를베르크 주",
+          "nl": "Vorarlberg",
+          "pl": "Vorarlberg",
+          "pt": "Vorarlberg",
+          "ru": "Форарльберг",
+          "sv": "Vorarlberg",
+          "tr": "Vorarlberg",
+          "vi": "Vorarlberg",
+          "zh": "福拉尔贝格州"
+        },
+        "population": 407760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.381,
+          47.2285
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "at",
+        "region_child": "at-7",
+        "area": 2.406491999999999,
+        "bounding_box": [
+          10.083,
+          46.765,
+          12.679,
+          47.692
+        ],
+        "point": [
+          11.381,
+          47.2285
+        ],
+        "labels": {
+          "alt": "Tyrol",
+          "local": null,
+          "len": 5,
+          "ar": "تيرول",
+          "bn": "টিরোল",
+          "de": "Tirol",
+          "en": "Tyrol",
+          "es": "Tirol",
+          "fr": "Tyrol",
+          "el": "Τιρόλο",
+          "hi": "टिरोल",
+          "hu": "Tirol",
+          "id": "Tirol",
+          "it": "Tirolo",
+          "ja": "チロル州",
+          "ko": "티롤 주",
+          "nl": "Tirol",
+          "pl": "Tyrol",
+          "pt": "Tirol",
+          "ru": "Тироль",
+          "sv": "Tyrolen",
+          "tr": "Tirol",
+          "vi": "Tirol",
+          "zh": "蒂罗尔州"
+        },
+        "population": 751435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.528,
+          46.9035
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "at",
+        "region_child": "at-7",
+        "area": 0.42116999999999605,
+        "bounding_box": [
+          12.111,
+          46.651,
+          12.945,
+          47.156
+        ],
+        "point": [
+          12.528,
+          46.9035
+        ],
+        "labels": {
+          "alt": "Tyrol",
+          "local": null,
+          "len": 5,
+          "ar": "تيرول",
+          "bn": "টিরোল",
+          "de": "Tirol",
+          "en": "Tyrol",
+          "es": "Tirol",
+          "fr": "Tyrol",
+          "el": "Τιρόλο",
+          "hi": "टिरोल",
+          "hu": "Tirol",
+          "id": "Tirol",
+          "it": "Tirolo",
+          "ja": "チロル州",
+          "ko": "티롤 주",
+          "nl": "Tirol",
+          "pl": "Tyrol",
+          "pt": "Tirol",
+          "ru": "Тироль",
+          "sv": "Tyrolen",
+          "tr": "Tirol",
+          "vi": "Tirol",
+          "zh": "蒂罗尔州"
+        },
+        "population": 751435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0105,
+          47.492999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "at",
+        "region_child": "at-5",
+        "area": 1.9975339999999921,
+        "bounding_box": [
+          12.084,
+          46.954,
+          13.937,
+          48.032
+        ],
+        "point": [
+          13.0105,
+          47.492999999999995
+        ],
+        "labels": {
+          "alt": "Salzburgo",
+          "local": null,
+          "len": 8,
+          "ar": "سالزبورغ",
+          "bn": "সলজবুর্গ",
+          "de": "Salzburg",
+          "en": "Salzburg",
+          "es": "Salzburgo",
+          "fr": "Salzbourg",
+          "el": "Σάλτσμπουργκ",
+          "hi": "साल्ज़बर्ग",
+          "hu": "Salzburg",
+          "id": "Salzburg",
+          "it": "Salisburghese",
+          "ja": "ザルツブルク州",
+          "ko": "잘츠부르크 주",
+          "nl": "Salzburg",
+          "pl": "Salzburg",
+          "pt": "Salzburgo",
+          "ru": "Зальцбург",
+          "sv": "Salzburg",
+          "tr": "Salzburg",
+          "vi": "Salzburg",
+          "zh": "萨尔茨堡州"
+        },
+        "population": 562689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.870000000000001,
+          46.764
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "at",
+        "region_child": "at-2",
+        "area": 1.839167999999999,
+        "bounding_box": [
+          12.634,
+          46.392,
+          15.106,
+          47.136
+        ],
+        "point": [
+          13.870000000000001,
+          46.764
+        ],
+        "labels": {
+          "alt": "Carinthia|Caríntia|Carintia",
+          "local": null,
+          "len": 7,
+          "ar": "كيرنتن",
+          "bn": "ক্যারিন্থিয়া",
+          "de": "Kärnten",
+          "en": "Carinthia",
+          "es": "Carintia",
+          "fr": "Carinthie",
+          "el": "Καρινθία",
+          "hi": "केरिन्थिया",
+          "hu": "Karintia",
+          "id": "Kärnten",
+          "it": "Carinzia",
+          "ja": "ケルンテン州",
+          "ko": "케른텐 주",
+          "nl": "Karinthië",
+          "pl": "Karyntia",
+          "pt": "Caríntia",
+          "ru": "Каринтия",
+          "sv": "Kärnten",
+          "tr": "Karintiya",
+          "vi": "Kärnten",
+          "zh": "克恩顿州"
+        },
+        "population": 558152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8565,
+          47.226
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "at",
+        "region_child": "at-6",
+        "area": 3.0944340000000015,
+        "bounding_box": [
+          13.565,
+          46.627,
+          16.148,
+          47.825
+        ],
+        "point": [
+          14.8565,
+          47.226
+        ],
+        "labels": {
+          "alt": "Styria|Est¡ria|Estiria",
+          "local": null,
+          "len": 10,
+          "ar": "شتايرمارك",
+          "bn": "স্টায়রিয়া",
+          "de": "Steiermark",
+          "en": "Styria",
+          "es": "Estiria",
+          "fr": "Styrie",
+          "el": "Στυρία",
+          "hi": "स्टायरिया",
+          "hu": "Stájerország",
+          "id": "Stiria",
+          "it": "Stiria",
+          "ja": "シュタイアーマルク州",
+          "ko": "슈타이어마르크 주",
+          "nl": "Stiermarken",
+          "pl": "Styria",
+          "pt": "Estíria",
+          "ru": "Штирия",
+          "sv": "Steiermark",
+          "tr": "Steiermark",
+          "vi": "Steiermark",
+          "zh": "施蒂利亞州"
+        },
+        "population": 1238972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3795,
+          48.2385
+        ]
+      },
+      "properties": {
+        "region_schema": "admin_1",
+        "region_parent": "at",
+        "region_child": "at-9",
+        "area": 0.06855700000000126,
+        "bounding_box": [
+          16.188,
+          48.149,
+          16.571,
+          48.328
+        ],
+        "point": [
+          16.3795,
+          48.2385
+        ],
+        "labels": {
+          "alt": "Vienna|Viena",
+          "local": null,
+          "len": 4,
+          "ar": "فيينا",
+          "bn": "ভিয়েনা",
+          "de": "Wien",
+          "en": "Vienna",
+          "es": "Viena",
+          "fr": "Vienne",
+          "el": "Βιέννη",
+          "hi": "वियना",
+          "hu": "Bécs",
+          "id": "Wina",
+          "it": "Vienna",
+          "ja": "ウィーン",
+          "ko": "빈",
+          "nl": "Wenen",
+          "pl": "Wiedeń",
+          "pt": "Viena",
+          "ru": "Вена",
+          "sv": "Wien",
+          "tr": "Viyana",
+          "vi": "Viên",
+          "zh": "維也納"
+        },
+        "population": 1653108
+      }
+    }
+  ]
+}

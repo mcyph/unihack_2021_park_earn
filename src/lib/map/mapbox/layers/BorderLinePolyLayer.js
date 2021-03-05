@@ -35,9 +35,10 @@ class BorderLinePolyLayer {
    *                  this as 0.5 for very packed schemas such as postcodes.
    *                  defaults to 1.0
    * @param mapBoxSourceId a MapBoxSource ID, either for cases or underlays
+   * @param addBeforeLayer
    */
   constructor(map, uniqueId, color, lineWidth, mapBoxSourceId, addBeforeLayer) {
-    this.map = map;
+    this.map = map.map || map;
     this.uniqueId = uniqueId;
     this.color = color;
     this.lineWidth = lineWidth;

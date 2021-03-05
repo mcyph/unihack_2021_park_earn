@@ -21,7 +21,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
-import cm from "./ColorManagement";
+import cm from "../ColorManagement";
 
 class NumbersStatLayer {
   /**
@@ -35,7 +35,7 @@ class NumbersStatLayer {
    * @param numbersGeoJSONKey
    */
   constructor(map, uniqueId, mapBoxSourceId, numbersGeoJSONKey) {
-    this.map = map;
+    this.map = map.map || map;
     this.uniqueId = uniqueId;
     this.mapBoxSourceId = mapBoxSourceId;
     this.numbersGeoJSONKey = numbersGeoJSONKey;

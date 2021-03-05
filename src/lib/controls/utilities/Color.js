@@ -24,12 +24,50 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class Divider extends Component {
-  TYPE = {
-    HORIZONTAL: 'divider',
-    HORIZONTAL_CENTEREDTEXT: 'divider text-center',
-    VERTICAL: 'divider-vert'
+class Color extends Component {
+  static PRIMARY = 'PRIMARY';
+  static SECONDARY = 'SECONDARY';
+  static DARK = 'DARK';
+  static GRAY = 'GRAY';
+  static LIGHT = 'LIGHT';
+  static SUCCESS = 'SUCCESS';
+  static WARNING = 'WARNING';
+  static ERROR = 'ERROR';
+
+  static __TEXT = {
+    PRIMARY: 'text-primary',
+    SECONDARY: 'text-secondary',
+    DARK: 'text-dark',
+    GRAY: 'text-gray',
+    LIGHT: 'text-light',
+    SUCCESS: 'text-success',
+    WARNING: 'text-warning',
+    ERROR: 'text-error'
+  }
+  static __BACKGROUND = {
+    PRIMARY: 'bg-primary',
+    SECONDARY: 'bg-secondary',
+    DARK: 'bg-dark',
+    GRAY: 'bg-gray',
+    //LIGHT: 'text-light',
+    SUCCESS: 'bg-success',
+    WARNING: 'bg-warning',
+    ERROR: 'bg-error'
+  }
+
+  constructor({ text, background, style, children }) {
+    super({ text, background, style, children })
+  }
+
+  render() {
+    let className = (this.props.text||'') + ' ' + (this.props.background||'');
+    return <>
+      <span className={ className }
+            style={ this.props.style }>
+        { this.props.children }
+      </span>
+    </>;
   }
 }
 
-export default Divider;
+export default Color;

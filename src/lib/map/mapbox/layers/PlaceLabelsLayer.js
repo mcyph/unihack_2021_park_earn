@@ -21,12 +21,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
-import getMapBoxCaseColors from "./getMapBoxCaseColors";
-import cm from "./ColorManagement";
+import getMapBoxCaseColors from "../getMapBoxCaseColors";
+import cm from "../ColorManagement";
 
 class PlaceLabelsLayer {
   constructor(map, uniqueId, mapboxSourceId, placeGeoJSONKey) {
-    this.map = map;
+    this.map = map.map || map;
     this.uniqueId = uniqueId;
     this.mapboxSourceId = mapboxSourceId;
     this.placeGeoJSONKey = placeGeoJSONKey;

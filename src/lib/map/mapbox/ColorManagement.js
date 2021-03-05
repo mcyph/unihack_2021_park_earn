@@ -23,8 +23,6 @@ SOFTWARE.
  */
 
 import tinycolor from "tinycolor2";
-import ECHARTS_DARK_THEME from "./echarts_dark_theme.json";
-import ECHARTS_LIGHT_THEME from "./echarts_light_theme.json";
 
 
 let COLOR_SCHEME_DARK = 0,
@@ -34,7 +32,6 @@ let COLOR_SCHEME_DARK = 0,
 let COLOR_SCHEMES = {};
 
 COLOR_SCHEMES[COLOR_SCHEME_DARK] = {
-    'eChartsTheme': ECHARTS_DARK_THEME,
     'hyperlink': tinycolor('#1277d3'),
     'hoverRectangle': tinycolor("rgb(6,25,150)"),
     //'waterColor': tinycolor('#a0cfdf'),
@@ -65,7 +62,6 @@ COLOR_SCHEMES[COLOR_SCHEME_DARK] = {
 };
 
 COLOR_SCHEMES[COLOR_SCHEME_LIGHT] = {
-    'eChartsTheme': 'default',
     'hyperlink': tinycolor('#00f'),
     'hoverRectangle': tinycolor("rgb(6,25,150)"),
     'waterColor': tinycolor('#9bc1d9'),
@@ -194,14 +190,6 @@ class ColorManagement {
     setColorSchemeType(colorSchemeType) {
         localStorage['colorSchemeType'] = colorSchemeType;
         window.location.reload();
-    }
-
-    /**
-     *
-     * @returns {*}
-     */
-    getEChartsTheme() {
-        return this.__colorScheme['eChartsTheme'];
     }
 
     /*****************************************************************

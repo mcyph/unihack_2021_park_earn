@@ -22,8 +22,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-import getMapBoxCaseColors from "./getMapBoxCaseColors";
-import cm from "./ColorManagement";
+import getMapBoxCaseColors from "../getMapBoxCaseColors";
+import cm from "../ColorManagement";
 
 const FILL_OPACITY = 0.66;
 
@@ -35,10 +35,11 @@ class FillPolyLayer {
    *
    * @param map a MapBox GL instance
    * @param uniqueId a unique ID for the MapBox GL layer
-   * @param mapBoxSource a MapBoxSource instance
+   * @param mapBoxSourceId a MapBoxSource instance
+   * @param addBeforeLayer
    */
   constructor(map, uniqueId, mapBoxSourceId, addBeforeLayer) {
-    this.map = map;
+    this.map = map.map || map;
     this.uniqueId = uniqueId;
     this.mapBoxSourceId = mapBoxSourceId;
 

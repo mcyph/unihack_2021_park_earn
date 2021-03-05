@@ -22,6 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
+import * as mapboxgl from "maplibre-gl/dist/maplibre-gl";
 import React, { Component } from "react";
 
 class MapboxControl extends Component {
@@ -33,14 +34,102 @@ class MapboxControl extends Component {
     SATELLITE: 'mapbox://styles/mapbox/satellite-v9'
   };
 
-  constructor({  }) {
-    super({  });
+  constructor({ mapboxStyle, style }) {
+    mapboxStyle = mapboxStyle || MapboxControl.THEMES.STREETS;
+    super({ mapboxStyle, style });
   }
 
   render() {
-    return (
+    return <>
+      <div ref={el => this.absContainer = el}
+           style={{ position: "relative" }}>
+        <div ref={el => this.mapContainer = el}
+             style={{
+               background: 'white',
+               height: this.props.height || '60vh'
+             }} />
+      </div>
+    </>;
+  }
 
-    );
+  componentDidMount() {
+    this.__unmounted = false;
+
+    const map = this.map = new mapboxgl.Map({
+      container: this.mapContainer,
+      style: this.props.mapboxStyle,
+      zoom: 1,
+      maxZoom: 15.5,
+
+      pitch: 0,
+
+      //minZoom: 1,
+      transition: {
+        duration: 0,
+        delay: 0
+      },
+      fadeDuration: 0
+    });
+
+    let runMeLater=async()=>{
+      if (!this.mapContainer) {
+        // Control probably destroyed in the interim!
+        return;
+      }
+
+      // Disable map rotation
+      map.dragRotate.disable();
+      map.touchZoomRotate.disableRotation();
+
+      // Add geolocate control to the map.
+      map.addControl(
+        new mapboxgl.GeolocateControl({
+          positionOptions: {
+            enableHighAccuracy: true
+          },
+          trackUserLocation: true
+        })
+      );
+      map.addControl(new mapboxgl.NavigationControl());
+      map.addControl(new mapboxgl.FullscreenControl());
+
+      let onLoad = () => {
+        if (this.__unmounted) {
+          //console.log("UNMOUNTED!!!")
+          return;
+        } else if (!map.loaded()) {
+          // Sometimes the load event doesn't fire here due to
+          // it being in an async function, so just keep polling!
+          return setTimeout(onLoad, 20);
+        }
+
+        // Bind events for loading data
+        map.on('move', () => {
+          // TODO!
+        });
+        map.on('zoom', () => {
+          // TODO!
+        });
+        map.on('moveend', () => {
+          // TODO!
+        });
+        map.on('zoomstart', () => {
+          // TODO!
+        });
+        map.on('zoomend', () => {
+          // TODO!
+        });
+        map.on('click', ()=>{
+          // TODO!
+        });
+      };
+      onLoad();
+    };
+    runMeLater();
+  }
+
+  componentWillUnmount() {
+    this.__unmounted = true;
   }
 }
 

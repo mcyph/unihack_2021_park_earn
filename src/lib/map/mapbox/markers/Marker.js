@@ -26,36 +26,29 @@ SOFTWARE.
 import mapboxgl from "!mapbox-gl";
 
 class Marker {
-    constructor(map, imageURL, geoJSONData) {
+    constructor(map, imageURL, long, lat) {
       map = map.map || map;
       this.map = map;
       this.imageURL = imageURL;
 
       // add markers to map
-      this.__markerElms = geoJSONData.getGeoJSON()['features'].map(function(marker) {
-        // create a HTML element for each feature
-        var el = document.createElement('div');
-        el.className = 'mapbox-marker';
-        el.style.backgroundImage = imageURL;
+      // create a HTML element for each feature
+      let el = this.el = document.createElement('div');
+      el.className = 'mapbox-marker';
+      el.style.backgroundImage = 'url('+imageURL+')';
 
-        // make a marker for each feature and add to the map
-        new mapboxgl.Marker(el)
-          .setLngLat(marker.geometry.coordinates)
-          .addTo(map);
-        return el;
-      });
+      // make a marker for each feature and add to the map
+      new mapboxgl.Marker(el)
+        .setLngLat([long, lat])
+        .addTo(map);
     }
 
     show() {
-      for (let elm of this.__markerElms) {
-        elm.style.display = 'block';
-      }
+      this.el.style.display = 'block';
     }
 
     hide() {
-      for (let elm of this.__markerElms) {
-        elm.style.display = 'none';
-      }
+      this.el.style.display = 'none';
     }
 }
 

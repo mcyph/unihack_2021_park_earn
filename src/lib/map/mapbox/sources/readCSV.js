@@ -10,11 +10,11 @@ let readCSV=(csvData, extraOptions)=>{
   let csvOptions = {
     columns: true,
     skip_empty_lines: true,
-    ...extraOptions
+    ...(extraOptions||{})
   };
   let out = [];
   for (let record of parseCSV(csvData, csvOptions)) {
-    out.push(record); // Do we need this??
+    out.push(record)
   }
   return out;
 }

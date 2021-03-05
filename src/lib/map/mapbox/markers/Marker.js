@@ -22,7 +22,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
-import mapboxgl from "maplibre-gl";
+// eslint-disable-next-line import/no-webpack-loader-syntax
+import mapboxgl from "!mapbox-gl";
 
 class Marker {
     constructor(map, imageURL, geoJSONData) {
@@ -41,6 +42,7 @@ class Marker {
         new mapboxgl.Marker(el)
           .setLngLat(marker.geometry.coordinates)
           .addTo(map);
+        return el;
       });
     }
 

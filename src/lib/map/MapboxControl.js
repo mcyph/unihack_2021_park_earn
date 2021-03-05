@@ -22,8 +22,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
-import mapboxgl from "maplibre-gl";
+import "mapbox-gl/dist/mapbox-gl.css";
 import React, { Component } from "react";
+
+// eslint-disable-next-line import/no-webpack-loader-syntax
+import mapboxgl from "!mapbox-gl";
+
+// eslint-disable-next-line import/no-webpack-loader-syntax
+mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
+mapboxgl.accessToken = 'pk.eyJ1IjoiZGF2ZW0xMTIyMzMiLCJhIjoiY2tsdzRwODkxMHRxOTJubjZnODRkOWlheiJ9.xUGfN07ebJ_McOeNcEvbUA';
 
 class MapboxControl extends Component {
   static THEMES = {
@@ -35,33 +42,31 @@ class MapboxControl extends Component {
   };
 
   constructor({ mapboxStyle, style }) {
-    mapboxStyle = mapboxStyle || MapboxControl.THEMES.STREETS;
+    mapboxStyle = mapboxStyle || MapboxControl.THEMES.OUTDOORS;
     super({ mapboxStyle, style });
+    this.mapboxStyle = mapboxStyle;
+    this.style = style;
   }
 
-  render() {
+  render=()=>{
     return <>
       <div ref={el => this.absContainer = el}
            style={{ position: "relative",
                     ...this.props.style }}>
         <div ref={el => this.mapContainer = el}
-             style={{
-               background: 'white',
-               height: '100%'
-             }} />
+             style={this.props.style}/>
       </div>
     </>;
   }
 
-  componentDidMount() {
+  componentDidMount=()=>{
     this.__unmounted = false;
 
     const map = this.map = new mapboxgl.Map({
       container: this.mapContainer,
-      style: this.props.mapboxStyle,
+      style: this.mapboxStyle,
       zoom: 1,
       maxZoom: 15.5,
-
       pitch: 0,
 
       //minZoom: 1,
@@ -129,7 +134,7 @@ class MapboxControl extends Component {
     runMeLater();
   }
 
-  componentWillUnmount() {
+  componentWillUnmount=()=>{
     this.__unmounted = true;
   }
 }

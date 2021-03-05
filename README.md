@@ -27,10 +27,14 @@ a more detailed tutorial up soon.
        git clone https://github.com/[my user name here]/react_spectrecss_kickstarter.git
        cd react_spectrecss_kickstarter
   
+4. To install node.js dependencies, type:
+   
+       npm install
+       
 4. Then, to run the server, type the following from Windows 
    from a command prompt:
    
-       npm install
+       npm start
    
    and browse to the address http://localhost:3000 with a 
    web browser for the demo once things are done!

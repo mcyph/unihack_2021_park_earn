@@ -5,6 +5,7 @@ import GeoJSONData from "../map/mapbox/sources/GeoJSONData";
 import parkingSensorData from "./On-street_Parking_Bay_Sensors.csv";
 import worldPointData from "../../data/geojson/point/admin_0.json";
 import readCSV from "../map/mapbox/sources/readCSV";
+import Marker from "../map/mapbox/markers/Marker";
 
 class Map extends Component {
   constructor({ }) {
@@ -20,8 +21,16 @@ class Map extends Component {
 
   componentDidMount() {
     let geoJSONData = new GeoJSONData(GeoJSONData.POINTS, worldPointData);
-    let csvData = readCSV(parkingSensorData);
-    geoJSONData.joinDataOnKey()
+    for (let sensor of readCSV(parkingSensorData)) {
+      let lat = parseFloat(sensor['lat']);
+      let long = parseFloat(sensor['long']);
+      if (sensor['status'] === 'Unoccupied') {
+        new Marker(this.__mapboxControl, '', geoJSONData)
+      } else if (sensor['status'] === 'Present') {
+
+      }
+    }
+    //geoJSONData.joinDataOnKey(csvData)
   }
 }
 

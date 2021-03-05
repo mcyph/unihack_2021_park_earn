@@ -26,7 +26,7 @@ class GeoJSONData {
    */
   assignToMap(map) {
     this.removeFromMap();
-    TODO;
+    //TODO;
     this.__map = map;
   }
 
@@ -35,7 +35,7 @@ class GeoJSONData {
    */
   removeFromMap() {
     if (this.__map) {
-      TODO;
+      //TODO;
       this.__sourceId = null;
       this.__map = null;
     }

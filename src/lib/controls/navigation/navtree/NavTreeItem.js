@@ -25,8 +25,8 @@ SOFTWARE.
 import { Component } from "react";
 
 class NavTreeItem extends Component {
-  constructor({ href, active, style, children }) {
-    super({ href, active, style, children })
+  constructor({ href, onClick, active, style, children }) {
+    super({ href, onClick, active, style, children })
     this.active = active;
     this.style = style;
     this.children = children;
@@ -34,7 +34,8 @@ class NavTreeItem extends Component {
 
   render() {
     return <>
-      <li className={ this.props.active ? "nav-item active" : "nav-item" }>
+      <li className={ this.props.active ? "nav-item active" : "nav-item" }
+          onClick={ this.props.onClick }>
           <a href={ this.props.href }>
             { this.props.children }
           </a>

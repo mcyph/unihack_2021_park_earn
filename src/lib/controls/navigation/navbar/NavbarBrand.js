@@ -28,15 +28,17 @@ class Navbar extends Component {
   /**
    *
    * @param href
+   * @param onClick
    * @param children
    */
-  constructor({ href, children }) {
-    super({ href, children });
+  constructor({ href, onClick, children }) {
+    super({ href, onClick, children });
   }
 
   render() {
     return <>
       <a href={ this.props.href }
+         onClick={ this.props.onClick }
          className="navbar-brand mr-2">
         { this.props.children }
       </a>

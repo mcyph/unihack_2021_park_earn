@@ -16,7 +16,7 @@ let Navigation=()=>{
     <p>
       <Breadcrumbs>
         <BreadcrumbItem href="#">Testing testing 123</BreadcrumbItem>
-        <BreadcrumbItem>Active Item</BreadcrumbItem>
+        <BreadcrumbItem href="#">Active Item</BreadcrumbItem>
       </Breadcrumbs>
     </p>
     <hr/>

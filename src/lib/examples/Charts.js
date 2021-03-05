@@ -15,6 +15,9 @@ import TreeMap from "../charts/TreeMap";
 
 let Charts=()=>{
   return <>
+    <h2>Charts</h2>
+
+    <h3>Basic Charts</h3>
     <BasicBarChart data={[["plot 1", [["apple", 10], ["pear", 15], ["banana", 5]]],
                           ["plot 2", [["apple", 10], ["pear", 15], ["banana", 5]]],
                           ["plot 3", [["apple", 10], ["pear", 15], ["banana", 5]]]]}
@@ -31,18 +34,58 @@ let Charts=()=>{
     <BasicPieChart data={ [['apple', 30], ['orange', 60], ['pear', 10]] }
                    sort={ BasicPieChart.SORT.ASCENDING }
                    style={{ height: "50vh" }}/>
+    <FunnelChart data={[['apple', 60], ['banana', 40], ['cherry', 20],
+                        ['orange', 80], ['pear', 100]]}
+                 sort={ FunnelChart.SORT.ASCENDING }
+                 style={{ height: "50vh" }}/>
+    <ScatterPlot
+      data={[
+        // TODO!
+        [10.0, 8.04], [8.07, 6.95], [13.0, 7.58], [9.05, 8.81],
+        [11.0, 8.33], [14.0, 7.66], [13.4, 6.81], [10.0, 6.33],
+        [14.0, 8.96], [12.5, 6.82], [9.15, 7.20], [11.5, 7.20],
+        [3.03, 4.23], [12.2, 7.83], [2.02, 4.47], [1.05, 3.33],
+        [4.05, 4.96], [6.03, 7.24], [12.0, 6.26], [12.0, 8.84],
+        [7.08, 5.82], [5.02, 5.68]
+      ]}
+      symbolSize={ 20 }
+      style={{ height: "50vh" }}/>
+
+    <h3>Statistical Charts</h3>
+    <BoxPlotChart style={{ height: "70vh" }}/>
+    <CandlestickChart style={{ height: "50vh" }}/>
+
+    <h3>Hierarchical Charts</h3>
+    <SunburstChart style={{ height: "60vh" }}>
+      <SunburstChart.Item name={'parent 1'} value={10}>
+        <SunburstChart.Item name={'parent 1>child 1'} value={4}/>
+        <SunburstChart.Item name={'parent 1>child 2'} value={6}/>
+      </SunburstChart.Item>
+      <SunburstChart.Item name={'parent 2'} value={20}>
+        <SunburstChart.Item name={'parent 2>child 3'} value={20}>
+          <SunburstChart.Item name={'child 3>child'} value={20}/>
+        </SunburstChart.Item>
+      </SunburstChart.Item>
+    </SunburstChart>
+    <TreeMap style={{ height: "30vh" }}>
+      <TreeMap.Item name={'parent 1'} value={10}>
+        <TreeMap.Item name={'parent 1>child 1'} value={4}/>
+        <TreeMap.Item name={'parent 1>child 2'} value={6}/>
+      </TreeMap.Item>
+      <TreeMap.Item name={'parent 2'} value={20}>
+        <TreeMap.Item name={'parent 2>child 3'} value={20}>
+          <TreeMap.Item name={'child 3>child'} value={20}/>
+        </TreeMap.Item>
+      </TreeMap.Item>
+    </TreeMap>
+
+    <h3>Other Charts</h3>
     <NestedPieChart innerData={[['Fruit', 50], ['Vegetable', 50]]}
                     outerData={[['Watermelon', 25], ['Banana', 25],
                                 ['Carrot', 25], ['Celery', 25]]}
                     innerName="Category"
                     outerName="Food"
                     style={{ height: "50vh" }}/>
-    <BoxPlotChart style={{ height: "70vh" }}/>
-    <CandlestickChart style={{ height: "50vh" }}/>
-    <FunnelChart data={[['apple', 60], ['banana', 40], ['cherry', 20],
-                        ['orange', 80], ['pear', 100]]}
-                 sort={ FunnelChart.SORT.ASCENDING }
-                 style={{ height: "50vh" }}/>
     <GaugeChart value={ 50 }
                 style={{ height: "30vh" }}/>
     <HeatmapCartesian
@@ -74,58 +117,7 @@ let Charts=()=>{
           [6,20,1],[6,21,2],[6,22,2],[6,23,6]]}
         style={{ height: "70vh" }}/>
     <SankeyChart
-
       style={{ height: "30vh" }}/>
-    <ScatterPlot
-      data={ [
-        // TODO!
-        [10.0, 8.04],
-        [8.07, 6.95],
-        [13.0, 7.58],
-        [9.05, 8.81],
-        [11.0, 8.33],
-        [14.0, 7.66],
-        [13.4, 6.81],
-        [10.0, 6.33],
-        [14.0, 8.96],
-        [12.5, 6.82],
-        [9.15, 7.20],
-        [11.5, 7.20],
-        [3.03, 4.23],
-        [12.2, 7.83],
-        [2.02, 4.47],
-        [1.05, 3.33],
-        [4.05, 4.96],
-        [6.03, 7.24],
-        [12.0, 6.26],
-        [12.0, 8.84],
-        [7.08, 5.82],
-        [5.02, 5.68]
-      ] }
-      symbolSize={ 20 }
-      style={{ height: "50vh" }}/>
-    <SunburstChart style={{ height: "60vh" }}>
-      <SunburstChart.Item name={'parent 1'} value={10}>
-        <SunburstChart.Item name={'parent 1>child 1'} value={4}/>
-        <SunburstChart.Item name={'parent 1>child 2'} value={6}/>
-      </SunburstChart.Item>
-      <SunburstChart.Item name={'parent 2'} value={20}>
-        <SunburstChart.Item name={'parent 2>child 3'} value={20}>
-          <SunburstChart.Item name={'child 3>child'} value={20}/>
-        </SunburstChart.Item>
-      </SunburstChart.Item>
-    </SunburstChart>
-    <TreeMap style={{ height: "30vh" }}>
-      <TreeMap.Item name={'parent 1'} value={10}>
-        <TreeMap.Item name={'parent 1>child 1'} value={4}/>
-        <TreeMap.Item name={'parent 1>child 2'} value={6}/>
-      </TreeMap.Item>
-      <TreeMap.Item name={'parent 2'} value={20}>
-        <TreeMap.Item name={'parent 2>child 3'} value={20}>
-          <TreeMap.Item name={'child 3>child'} value={20}/>
-        </TreeMap.Item>
-      </TreeMap.Item>
-    </TreeMap>
   </>;
 }
 

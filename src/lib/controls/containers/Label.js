@@ -34,18 +34,20 @@ class Label extends Component {
     ERROR: 'label-error'
   };
 
-  constructor({ title, type, rounded }) {
-    super({ title, type, rounded });
+  constructor({ title, type, rounded, children }) {
+    super({ title, type, rounded, children });
   }
   render() {
     let className = 'label';
-    if (this.props.type)
-      className += ' '+this.props.type;
-    if (this.props.rounded)
+    if (this.props.type) {
+      className += ' ' + this.props.type;
+    }
+    if (this.props.rounded) {
       className += ' label-rounded'
+    }
 
     return <span className={ className }>
-      { this.props.title }
+      { this.props.children }
     </span>
   }
 }

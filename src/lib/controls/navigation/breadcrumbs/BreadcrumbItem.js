@@ -31,21 +31,25 @@ class BreadcrumbItem extends Component {
    * that allows seeing where you are and going one above
    *
    * @param title
+   * @param onClick
    * @param style
    */
-  constructor({ href, style, children }) {
-    super({ href, style, children });
+  constructor({ href, onClick, style, children }) {
+    href = href || "javascript:;";
+    super({ href, onClick, style, children });
   }
 
   render() {
     if (this.props.href) {
       return <li className="breadcrumb-item">
-        <a href={ this.props.href }>
+        <a href={ this.props.href }
+           onClick={ this.props.onClick }>
           { this.props.children }
         </a>
       </li>;
     } else {
-      return <li className="breadcrumb-item">
+      return <li className="breadcrumb-item"
+                 onClick={ this.props.onClick }>
         { this.props.children }
       </li>;
     }

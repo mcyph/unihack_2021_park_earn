@@ -52,7 +52,10 @@
 
 
 
-
+.example-nav * {
+ margin-bottom: 0;
+ margin-top: 0;
+}
 
 
 /*! Spectre.css Docs | MIT License | github.com/picturepan2/spectre */.version::after {

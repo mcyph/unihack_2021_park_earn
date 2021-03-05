@@ -1,7 +1,6 @@
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 import Containers from "./lib/examples/controls/Containers";
-import Forms from "./lib/examples/controls/Forms";
 import Progress from "./lib/examples/controls/Progress";
 import Navigation from "./lib/examples/controls/Navigation";
 import Floating from "./lib/examples/controls/Floating";
@@ -30,28 +29,65 @@ import OffCanvas from "./lib/controls/containers/offcanvas/OffCanvas";
 import SourceCodeDisplay from "./lib/previews/SourceCodeDisplay";
 import NavTree from "./lib/controls/navigation/navtree/NavTree";
 import NavTreeItem from "./lib/controls/navigation/navtree/NavTreeItem";
+import FormsButtons from "./lib/examples/controls/FormsButtons";
+import FormsSelectControls from "./lib/examples/controls/FormsSelectControls";
+import FormsSliders from "./lib/examples/controls/FormsSliders";
+import FormsTextControls from "./lib/examples/controls/FormsTextControls";
+import FormsToggleControls from "./lib/examples/controls/FormsToggleControls";
+import Labels from "./lib/examples/Labels";
+import Toasts from "./lib/examples/Toasts";
 
 let MyNav=()=>{
   return <>
-    <nav>
+    <nav className="example-nav">
       <NavTree>
-        <NavTreeItem><Link to="/layout">Layout</Link></NavTreeItem>
-        <NavTreeItem><Link to="/containers">Containers</Link></NavTreeItem>
-        <NavTreeItem><Link to="/forms">Forms</Link></NavTreeItem>
-        <NavTreeItem><Link to="/progress">Progress</Link></NavTreeItem>
-        <NavTreeItem><Link to="/tables_grids">TablesGrids</Link></NavTreeItem>
-        <NavTreeItem><Link to="/tabs">Tabs</Link></NavTreeItem>
-        <NavTreeItem><Link to="/navigation">Navigation</Link></NavTreeItem>
-        <NavTreeItem><Link to="/menus">Menus</Link></NavTreeItem>
-        <NavTreeItem><Link to="/icons">Icons</Link></NavTreeItem>
-        {/*<NavTreeItem><Link to="/floating">Floating</Link></NavTreeItem>*/}
-        <NavTreeItem><Link to="/images">Images</Link></NavTreeItem>
-
-        <NavTreeItem><Link to="/charts">Charts</Link></NavTreeItem>
-        {/*<NavTreeItem><Link to="/landing">Landing Pages</Link></NavTreeItem>*/}
-        {/*<NavTreeItem><Link to="/map">Map Visualizations</Link></NavTreeItem>*/}
-        <NavTreeItem><Link to="/editors">Editors</Link></NavTreeItem>
-        <NavTreeItem><Link to="/previews">Previews</Link></NavTreeItem>
+        <NavTreeItem>
+          <a>Layout/Containers</a>
+          <NavTree>
+            <NavTreeItem><Link to="/containers">Containers</Link></NavTreeItem>
+            <NavTreeItem><Link to="/labels">Labels</Link></NavTreeItem>
+            {/*<NavTreeItem><Link to="/landing">Landing Pages</Link></NavTreeItem>*/}
+            <NavTreeItem><Link to="/layout">Layout</Link></NavTreeItem>
+            <NavTreeItem><Link to="/tables_grids">TablesGrids</Link></NavTreeItem>
+            <NavTreeItem><Link to="/toasts">Toasts</Link></NavTreeItem>
+          </NavTree>
+        </NavTreeItem>
+        <NavTreeItem>
+          <a>Forms</a>
+          <NavTree>
+            <NavTreeItem><Link to="/forms_buttons">Buttons</Link></NavTreeItem>
+            <NavTreeItem><Link to="/progress">Progress</Link></NavTreeItem>
+            <NavTreeItem><Link to="/forms_select_controls">Select Controls</Link></NavTreeItem>
+            <NavTreeItem><Link to="/forms_sliders">Sliders</Link></NavTreeItem>
+            <NavTreeItem><Link to="/forms_text_controls">Text Controls</Link></NavTreeItem>
+            <NavTreeItem><Link to="/forms_toggle_controls">Toggle Controls</Link></NavTreeItem>
+          </NavTree>
+        </NavTreeItem>
+        <NavTreeItem>
+          <a>Navigation/Menus</a>
+          <NavTree>
+            {/*<NavTreeItem><Link to="/floating">Floating</Link></NavTreeItem>*/}
+            <NavTreeItem><Link to="/menus">Menus</Link></NavTreeItem>
+            <NavTreeItem><Link to="/navigation">Navigation</Link></NavTreeItem>
+            <NavTreeItem><Link to="/tabs">Tabs</Link></NavTreeItem>
+          </NavTree>
+        </NavTreeItem>
+        <NavTreeItem>
+          <a>Graphics/Charts/Vis</a>
+          <NavTree>
+            <NavTreeItem><Link to="/charts">Charts</Link></NavTreeItem>
+            <NavTreeItem><Link to="/icons">Icons</Link></NavTreeItem>
+            <NavTreeItem><Link to="/images">Images</Link></NavTreeItem>
+            {/*<NavTreeItem><Link to="/map">Map Visualizations</Link></NavTreeItem>*/}
+          </NavTree>
+        </NavTreeItem>
+        <NavTreeItem>
+          <a>Rich Markup</a>
+          <NavTree>
+            <NavTreeItem><Link to="/editors">Editors</Link></NavTreeItem>
+            <NavTreeItem><Link to="/previews">Previews</Link></NavTreeItem>
+          </NavTree>
+        </NavTreeItem>
       </NavTree>
     </nav>
   </>;
@@ -92,7 +128,15 @@ let ExampleKitchenSink=()=>{
         <Switch>
           <Route path="/containers"><SourceDisplay reactClass={<Containers/>} jsonKey="Containers"/></Route>
           <Route path="/floating"><SourceDisplay reactClass={<Floating/>} jsonKey="Floating"/></Route>
-          <Route path="/forms"><SourceDisplay reactClass={<Forms/>} jsonKey="Forms"/></Route>
+          <Route path="/labels"><SourceDisplay reactClass={<Labels/>} jsonKey="Labels"/></Route>
+          <Route path="/toasts"><SourceDisplay reactClass={<Toasts/>} jsonKey="Toasts"/></Route>
+
+          <Route path="/forms_buttons"><SourceDisplay reactClass={<FormsButtons/>} jsonKey="FormsButtons"/></Route>
+          <Route path="/forms_select_controls"><SourceDisplay reactClass={<FormsSelectControls/>} jsonKey="FormsSelectControls"/></Route>
+          <Route path="/forms_sliders"><SourceDisplay reactClass={<FormsSliders/>} jsonKey="FormsSliders"/></Route>
+          <Route path="/forms_text_controls"><SourceDisplay reactClass={<FormsTextControls/>} jsonKey="FormsTextControls"/></Route>
+          <Route path="/forms_toggle_controls"><SourceDisplay reactClass={<FormsToggleControls/>} jsonKey="FormsToggleControls"/></Route>
+
           <Route path="/icons"><SourceDisplay reactClass={<Icons/>} jsonKey="Icons"/></Route>
           <Route path="/images"><SourceDisplay reactClass={<Images/>} jsonKey="Images"/></Route>
           <Route path="/menus"><SourceDisplay reactClass={<Menus/>} jsonKey="Menus"/></Route>

@@ -24,26 +24,39 @@ SOFTWARE.
 
 import { Component } from "react";
 
-class NavbarLink extends Component {
-  /**
-   *
-   * @param href
-   * @param onClick
-   * @param children
-   */
-  constructor({ href, onClick, children }) {
-    super({ href, onClick, children });
-  }
+class Toast extends Component {
+  static TYPE = {
+    DEFAULT: '',
+    PRIMARY: 'toast-primary',
+    SECONDARY: 'toast-secondary',
+    SUCCESS: 'toast-success',
+    WARNING: 'toast-warning',
+    ERROR: 'toast-error'
+  };
 
+  constructor({ title, type, rounded, onClose, children }) {
+    super({ title, type, rounded, onClose, children });
+  }
   render() {
-    return <>
-      <a href={ this.props.href }
-         onClick={ this.props.onClick }
-         className="btn btn-link">
-        { this.props.children }
-      </a>
-    </>
+    let className = 'toast';
+    if (this.props.type) {
+      className += ' ' + this.props.type;
+    }
+    if (this.props.rounded) {
+      className += ' toast-rounded'
+    }
+
+    return <span className={ className }>
+      {
+        this.props.onClose &&
+          <button className="btn btn-clear float-right"
+                  onClick={() => {
+                    this.props.onClose()
+                  }}/>
+      }
+      { this.props.children }
+    </span>
   }
 }
 
-export default NavbarLink;
+export default Toast;

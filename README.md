@@ -27,8 +27,13 @@ a more detailed tutorial up soon.
    
        git clone https://github.com/[my user name here]/react_spectrecss_kickstarter.git
        cd react_spectrecss_kickstarter
-   
-3. Then, to run the server, type the following from Windows 
+
+4. Create a blank .env file with the following contents to make 
+   sure the development server restarts on file changes:
+
+       CHOKIDAR_USEPOLLING=true
+  
+5. Then, to run the server, type the following from Windows 
    from an administrator command prompt:
    
        docker-compose up
@@ -39,6 +44,12 @@ a more detailed tutorial up soon.
    
    and browse to the address http://localhost:3000 with a 
    web browser for the demo once things are done!
+
+**NB:** After adding new packages to package.json, type:
+
+    docker-compose build
+
+to make sure `npm install` gets run and the cache cleared.
 
 ## License 
 

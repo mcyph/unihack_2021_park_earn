@@ -78,7 +78,7 @@ let MyNav=()=>{
             <NavTreeItem><Link to="/charts">Charts</Link></NavTreeItem>
             <NavTreeItem><Link to="/icons">Icons</Link></NavTreeItem>
             <NavTreeItem><Link to="/images">Images</Link></NavTreeItem>
-            {/*<NavTreeItem><Link to="/map">Map Visualizations</Link></NavTreeItem>*/}
+            <NavTreeItem><Link to="/map">Map Visualizations</Link></NavTreeItem>
           </NavTree>
         </NavTreeItem>
         <NavTreeItem>

@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
-import * as mapboxgl from "maplibre-gl/dist/maplibre-gl";
+import mapboxgl from "maplibre-gl";
 import React, { Component } from "react";
 
 class MapboxControl extends Component {
@@ -42,11 +42,12 @@ class MapboxControl extends Component {
   render() {
     return <>
       <div ref={el => this.absContainer = el}
-           style={{ position: "relative" }}>
+           style={{ position: "relative",
+                    ...this.props.style }}>
         <div ref={el => this.mapContainer = el}
              style={{
                background: 'white',
-               height: this.props.height || '60vh'
+               height: '100%'
              }} />
       </div>
     </>;

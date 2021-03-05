@@ -1,5 +1,8 @@
+import React from "react";
+import MapboxControl from "../map/MapboxControl";
+
 let Map=()=>{
-  return null;
+  return <MapboxControl/>;
 }
 
 export default Map;

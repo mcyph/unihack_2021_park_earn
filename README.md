@@ -20,36 +20,24 @@ a more detailed tutorial up soon.
 
 ## Quickstart
 
-1. Install Docker and Docker-Compose for your operating system: 
-   https://www.docker.com/
+1. node.js for your operating system: https://nodejs.org/en/download/
 2. Fork this repository using the GitHub link in the top right
 3. Open a console window, then type:
    
        git clone https://github.com/[my user name here]/react_spectrecss_kickstarter.git
        cd react_spectrecss_kickstarter
-
-4. Create a blank .env file with the following contents to make 
-   sure the development server restarts on file changes:
-
-       CHOKIDAR_USEPOLLING=true
   
-5. Then, to run the server, type the following from Windows 
-   from an administrator command prompt:
+4. Then, to run the server, type the following from Windows 
+   from a command prompt:
    
-       docker-compose up
-   
-   or the following from linux or unix-like OSes:
-
-       sudo docker-compose up
+       npm install
    
    and browse to the address http://localhost:3000 with a 
    web browser for the demo once things are done!
 
-**NB:** After adding new packages to package.json, type:
+**NB:** After adding new packages to package.json, remember to type:
 
-    docker-compose build
-
-to make sure `npm install` gets run and the cache cleared.
+    npm install
 
 ## License 
 

@@ -22,6 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
+// eslint-disable-next-line import/no-webpack-loader-syntax
 import "mapbox-gl/dist/mapbox-gl.css";
 import React, { Component } from "react";
 

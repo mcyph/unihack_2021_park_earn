@@ -31,15 +31,16 @@ class NavbarLink extends Component {
    * @param onClick
    * @param children
    */
-  constructor({ href, onClick, children }) {
-    super({ href, onClick, children });
+  constructor({ href, onClick, style, children }) {
+    super({ href, onClick, style, children });
   }
 
   render() {
     return <>
       <a href={ this.props.href }
          onClick={ this.props.onClick }
-         className="btn btn-link">
+         className="btn btn-link"
+         style={ this.props.style }>
         { this.props.children }
       </a>
     </>

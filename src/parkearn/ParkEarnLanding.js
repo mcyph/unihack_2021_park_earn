@@ -5,6 +5,9 @@ import FlexRow from "../lib/controls/containers/flexbox/FlexRow";
 import FlexCol from "../lib/controls/containers/flexbox/FlexCol";
 import Button from "../lib/controls/forms/controls/Button";
 
+import ParkEarnTitleBar from "./ParkEarnTitleBar"
+import FontAwesomeIcon from "../lib/controls/icons/FontAwesomeIcon";
+
 class ParkEarnLanding extends Component {
   constructor({ }) {
     super({ });
@@ -12,7 +15,10 @@ class ParkEarnLanding extends Component {
 
   render() {
     return <>
-      <Hero size={ Hero.SIZE.LARGE } style={{ fontSize: "150%", textAlign: "center" }}>
+      <ParkEarnTitleBar />
+
+      <Hero size={ Hero.SIZE.LARGE }
+            style={{ fontSize: "150%", textAlign: "center" }}>
         <FlexContainer>
           <FlexRow singleLine={true}>
             <FlexCol style={{ paddingTop: "6.5%" }}>
@@ -21,10 +27,20 @@ class ParkEarnLanding extends Component {
                 <span style={{whiteSpace: "nowrap"}}>Lorem ipsum dolor sit amet</span>,
                 <wbr/><span style={{whiteSpace: "nowrap"}}> consectutur adipscing elit.</span></p>
               <p>
-                <FlexContainer style={{ padding: "0 5%", }}>
+                <FlexContainer style={{ padding: "0 12%", }}>
                   <FlexRow singleLine={true}>
-                    <FlexCol><Button>Search Parking</Button></FlexCol>
-                    <FlexCol><Button>Rent Driveway</Button></FlexCol>
+                    <FlexCol>
+                      <Button color={ Button.COLOR.PRIMARY }>
+                      <FontAwesomeIcon iconSet={FontAwesomeIcon.SOLID} icon="search" style={{marginRight:"5px"}} />
+                      Search Parking
+                      </Button>
+                    </FlexCol>
+                    <FlexCol>
+                      <Button color={ Button.COLOR.PRIMARY } >
+                        <FontAwesomeIcon iconSet={FontAwesomeIcon.SOLID} icon="road" style={{marginRight:"5px"}} />
+                        Rent Driveway
+                      </Button>
+                    </FlexCol>
                   </FlexRow>
                 </FlexContainer>
               </p>

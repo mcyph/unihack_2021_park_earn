@@ -121,8 +121,8 @@ class Form extends Component {
       <Form.FormContext.Provider value={ this }>
         <form action={ this.props.action }
               method={ this.props.method }
-              onChange={ this.props.onChange }
-              onSubmit={ this.props.onSubmit }
+              onChange={ () => this.props.onChange && this.props.onChange(this.__values) }
+              onSubmit={ () => this.props.onSubmit && this.props.onSubmit(this.__values) }
               autoComplete={ this.props.autocomplete }
               style={ this.props.style }>
           {

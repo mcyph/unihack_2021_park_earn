@@ -4,10 +4,9 @@ import FlexContainer from "../lib/controls/containers/flexbox/FlexContainer";
 import FlexRow from "../lib/controls/containers/flexbox/FlexRow";
 import FlexCol from "../lib/controls/containers/flexbox/FlexCol";
 import Button from "../lib/controls/forms/controls/Button";
-import RadioGroup from "../lib/controls/forms/controls/options/RadioGroup";
+import ParkEarnTitleBar from "./ParkEarnTitleBar"
 import { Formik, Field } from "formik";
 import { auth } from "../firebase/index.js";
-
 class ParkEarnSignup extends Component {
   constructor({ }) {
     super({ });
@@ -25,6 +24,8 @@ class ParkEarnSignup extends Component {
 
   render() {
     return <>
+      <ParkEarnTitleBar items={['Rent', 'Park', 'Login']} />
+
       <Hero size={ Hero.SIZE.LARGE } style={{ fontSize: "150%", textAlign: "center" }}>
         <FlexContainer>
           <FlexRow singleLine={true}>

@@ -30,7 +30,7 @@ class ParkEarnSignup extends Component {
         <FlexContainer>
           <FlexRow singleLine={true}>
             <FlexCol>
-              <h1>Sign Up</h1>
+              <h1 style={{textAlign: "center"}}>Sign Up</h1>
               <FlexContainer>
                 <Formik
                       initialValues={{ name: '', email: '', phone: '', password: '', confirmPassword: '', customerType: 'Renter'  }}
@@ -79,8 +79,10 @@ class ParkEarnSignup extends Component {
                         isSubmitting
                       }) => (
                         <form onSubmit={handleSubmit}>
-                          <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}>Name</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}><input
+                          <FlexRow style={{ justifyContent: "center" }}><label className="form-label">Name</label></FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
+                            className="form-input"
+                            style={{ maxWidth: "320px" }}
                             type="text"
                             name="name"
                             onChange={handleChange}
@@ -89,8 +91,10 @@ class ParkEarnSignup extends Component {
                           /></FlexRow>
                           {errors.name && touched.name && errors.name}
 
-                          <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}>Email</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}><input
+                          <FlexRow style={{ justifyContent: "center" }}><label className="form-label">Email</label></FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
+                            className="form-input"
+                            style={{ maxWidth: "320px" }}
                             type="email"
                             name="email"
                             onChange={handleChange}
@@ -99,8 +103,10 @@ class ParkEarnSignup extends Component {
                           /></FlexRow>
                           {errors.email && touched.email && errors.email}
 
-                          <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}>Phone</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}><input
+                          <FlexRow style={{ justifyContent: "center" }}><label className="form-label">Phone</label></FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
+                            className="form-input"
+                            style={{ maxWidth: "320px" }}
                             type="text"
                             name="phone"
                             onChange={handleChange}
@@ -109,8 +115,10 @@ class ParkEarnSignup extends Component {
                           /></FlexRow>
                           {errors.phone && touched.phone && errors.phone}
 
-                          <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}>Password</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}><input
+                          <FlexRow style={{ justifyContent: "center" }}><label className="form-label">Password</label></FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
+                            className="form-input"
+                            style={{ maxWidth: "320px" }}
                             type="password"
                             name="password"
                             onChange={handleChange}
@@ -119,8 +127,10 @@ class ParkEarnSignup extends Component {
                           /></FlexRow>
                           {errors.password && touched.password && errors.password}
 
-                          <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}>Confirm Password</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}><input
+                          <FlexRow style={{ justifyContent: "center" }}><label className="form-label">Confirm Password</label></FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
+                            className="form-input"
+                            style={{ maxWidth: "320px" }}
                             type="password"
                             name="confirmPassword"
                             onChange={handleChange}
@@ -130,15 +140,15 @@ class ParkEarnSignup extends Component {
                           {errors.confirmPassword && touched.confirmPassword && errors.confirmPassword}
 
                           
-                          <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}><div id="my-radio-group">You are a</div></FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><div id="my-radio-group"><label className="form-label">You are a</label></div></FlexRow>
                           <div role="group" aria-labelledby="my-radio-group">
-                            <FlexRow style={{ paddingLeft: "25%", }}>
+                            <FlexRow style={{ justifyContent: "center" }}>
                               <label>
                                 <Field type="radio" name="customerType" value="Renter" />
                                 {" "} Renter
                               </label>
                             </FlexRow>
-                            <FlexRow style={{ paddingLeft: "25%", justifyContent: "center" }}>
+                            <FlexRow style={{ justifyContent: "center" }}>
                               <label>
                                 <Field type="radio" name="customerType" value="Customer" />
                                 {" "} Customer
@@ -146,8 +156,11 @@ class ParkEarnSignup extends Component {
                             </FlexRow>
                           </div>
 
-                          <FlexCol>
-                            <Button type={Button.TYPE.SUBMIT} disabled={isSubmitting}>
+                          <FlexCol style={{ justifyContent: "center" }}>
+                            <Button type={Button.TYPE.SUBMIT}
+                                    size={Button.SIZE.LARGE}
+                                    color={Button.COLOR.PRIMARY}
+                                    disabled={isSubmitting}>
                               Create Account
                             </Button>
                           </FlexCol>

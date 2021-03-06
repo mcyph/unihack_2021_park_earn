@@ -7,11 +7,12 @@ import HeatmapCartesian from "../lib/charts/HeatmapCartesian"
 
 import ParkEarnTitleBar from "./ParkEarnTitleBar"
 import photo from "./garage.jpg";
-import Table from "../lib/controls/tables_grids/table/Table";
 
-import TableBody from "../lib/controls/tables_grids/table/TableBody";
-import TableCol from "../lib/controls/tables_grids/table/TableCol";
-import TableRow from "../lib/controls/tables_grids/table/TableRow";
+import Timeline from "../lib/controls/containers/timeline/Timeline";
+import TimelineContent from "../lib/controls/containers/timeline/TimelineContent";
+import TimelineIcon from "../lib/controls/containers/timeline/TimelineIcon";
+import TimelineLeft from "../lib/controls/containers/timeline/TimelineLeft";
+import TimelineItem from "../lib/controls/containers/timeline/TimelineItem";
 
 class ParkEarnRenterDash extends Component {
   constructor({ }) {
@@ -69,49 +70,37 @@ class ParkEarnRenterDash extends Component {
 
           <FlexRow singleLine={true}>
             <FlexCol>
-
               <FlexRow style={{margin: "5% 0"}}>
                 <div style={{ border: "2px solid lightgray", padding: "5% 2% 5% 2%" }} >
-                  <label>Availability:</label>
-                  <Table>
-                  <TableBody>
-                    <TableRow>
-                      <TableCol>Sunday</TableCol>
-                      <TableCol>08.00-18.00</TableCol>
-                    </TableRow>
-                  </TableBody>
+                  <h3>Availability</h3>
 
-                  <TableBody>
-                    <TableRow>
-                      <TableCol>Monday</TableCol>
-                      <TableCol>08.00-18.00</TableCol>
-                    </TableRow>
-                  </TableBody>
-                  </Table>
-
+                  <Timeline style={{marginTop: "25px", overflow: "hidden", paddingBottom: "4px"}}>
+                    <TimelineItem style={{marginBottom: "0px"}}>
+                      <TimelineLeft><TimelineIcon /></TimelineLeft>
+                      <TimelineContent>Monday 14 Feb<br/><ul style={{padding: 0, margin: 0}}><li>08.00-18.00</li></ul></TimelineContent>
+                    </TimelineItem>
+                    <TimelineItem style={{marginBottom: "0px"}}>
+                      <TimelineLeft><TimelineIcon /></TimelineLeft>
+                      <TimelineContent>Sunday 15 Feb<br/><ul style={{padding: 0, margin: 0}}><li>08.00-18.00</li></ul></TimelineContent>
+                    </TimelineItem>
+                  </Timeline>
                 </div>
               </FlexRow>
 
               <FlexRow style={{margin: "5% 0"}}>
                 <div style={{ border: "2px solid lightgray", padding: "5% 2% 5% 2%" }} >
-                  <label>Upcoming Bookings:</label>
-                  <Table>
-                  <TableBody>
-                    <TableRow>
-                      <TableCol>Sunday</TableCol>
-                      <TableCol>14.00-16.00</TableCol>
-                    </TableRow>
-                  </TableBody>
+                  <h3>Upcoming Bookings</h3>
 
-                  <TableBody>
-                    <TableRow>
-                      <TableCol>Monday</TableCol>
-                      <TableCol>08.00-08.30</TableCol>
-                    </TableRow>
-                  </TableBody>
-                  </Table>
-                  
-
+                  <Timeline style={{marginTop: "25px", overflow: "hidden", paddingBottom: "4px"}}>
+                    <TimelineItem style={{marginBottom: "0px"}}>
+                      <TimelineLeft><TimelineIcon /></TimelineLeft>
+                      <TimelineContent>Sunday 14 Feb<br/><ul style={{padding: 0, margin: 0}}><li>9:00 - 11:30</li><li>14:00 - 16:00</li></ul></TimelineContent>
+                    </TimelineItem>
+                    <TimelineItem style={{marginBottom: "0px"}}>
+                      <TimelineLeft><TimelineIcon /></TimelineLeft>
+                      <TimelineContent>Monday 15 Feb<br/><ul style={{padding: 0, margin: 0}}><li>08:00 - 08:30</li></ul></TimelineContent>
+                    </TimelineItem>
+                  </Timeline>
                 </div>
               </FlexRow>
 

@@ -7,6 +7,7 @@ import Button from "../lib/controls/forms/controls/Button";
 
 import ParkEarnTitleBar from "./ParkEarnTitleBar"
 import FontAwesomeIcon from "../lib/controls/icons/FontAwesomeIcon";
+import {Link} from "react-router-dom";
 
 class ParkEarnLanding extends Component {
   constructor({ }) {
@@ -30,16 +31,20 @@ class ParkEarnLanding extends Component {
                 <FlexContainer style={{ padding: "0 12%", }}>
                   <FlexRow singleLine={true}>
                     <FlexCol>
-                      <Button color={ Button.COLOR.PRIMARY }>
-                      <FontAwesomeIcon iconSet={FontAwesomeIcon.SOLID} icon="search" style={{marginRight:"5px"}} />
-                      Search Parking
-                      </Button>
+                      <Link to="/parkearn_map">
+                        <Button color={ Button.COLOR.PRIMARY }>
+                        <FontAwesomeIcon iconSet={FontAwesomeIcon.SOLID} icon="search" style={{marginRight:"5px"}} />
+                        Search Parking
+                        </Button>
+                      </Link>
                     </FlexCol>
                     <FlexCol>
-                      <Button color={ Button.COLOR.PRIMARY } >
-                        <FontAwesomeIcon iconSet={FontAwesomeIcon.SOLID} icon="road" style={{marginRight:"5px"}} />
-                        Rent Driveway
-                      </Button>
+                      <Link to="/parkearn_rentdriveway">
+                        <Button color={ Button.COLOR.PRIMARY } >
+                          <FontAwesomeIcon iconSet={FontAwesomeIcon.SOLID} icon="road" style={{marginRight:"5px"}} />
+                          Rent Driveway
+                        </Button>
+                      </Link>
                     </FlexCol>
                   </FlexRow>
                 </FlexContainer>

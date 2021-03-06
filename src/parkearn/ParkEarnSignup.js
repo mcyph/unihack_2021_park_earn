@@ -146,7 +146,7 @@ class ParkEarnSignup extends Component {
                             </div>
                           </FlexRow>
                           <FlexRow style={{ justifyContent: "center", textAlign: "left" }}>
-                            <div role="group" aria-labelledby="my-radio-group" style={{width: "5em", whiteSpace: "nowrap"}}>
+                            <div role="group" aria-labelledby="my-radio-group" style={{width: "5.5em", whiteSpace: "nowrap"}}>
                               <label>
                                 <Field type="radio" name="customerType" value="Renter" />
                                 {" "} Renter

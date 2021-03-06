@@ -5,25 +5,33 @@ import NavbarBrand from "../lib/controls/navigation/navbar/NavbarBrand";
 import NavbarSection from "../lib/controls/navigation/navbar/NavbarSection";
 import NavbarLink from "../lib/controls/navigation/navbar/NavbarLink";
 
+/**
+   *
+   * @param items an array of strings, e.g. ['Rent', 'Park', 'Login', 'Sign Up']
+   * to be displayed on top navbar on each page
+   */
 class ParkEarnBooking extends Component {
-  constructor({ }) {
-    super({ });
+  constructor({ items }) {
+    super({ items });
+    items = items;
   }
 
   render() {
     return <>
       <Navbar>
         <NavbarSection>
-          <NavbarBrand href="/">
+          <NavbarBrand href="parkearn_landing">
             <img src={ process.env.PUBLIC_URL + "/logo192.png" }
                  style={{width: "64px", verticalAlign: "middle"}} />
           </NavbarBrand>
         </NavbarSection>
         <NavbarSection>
-          <NavbarLink href="/rent" style={{ fontSize: "130%" }}>Rent</NavbarLink>
-          <NavbarLink href="/park" style={{ fontSize: "130%" }}>Park</NavbarLink>
-          <NavbarLink href="/login" style={{ fontSize: "130%" }}>Login</NavbarLink>
-          <NavbarLink href="/sign_up" style={{ fontSize: "130%" }}>Sign Up</NavbarLink>
+          {
+            // create a navbar link for each item
+            this.props.items.map( item => {
+              return <NavbarLink href={`parkearn_${item.toLowerCase().replace(/\s/g,'')}`} style={{ fontSize: "130%" }}>{item}</NavbarLink>
+            })
+          }
         </NavbarSection>
       </Navbar>
     </>;

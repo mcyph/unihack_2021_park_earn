@@ -15,7 +15,7 @@ class ParkEarnLanding extends Component {
 
   render() {
     return <>
-      <ParkEarnTitleBar />
+      <ParkEarnTitleBar items={['Rent', 'Park', 'Login', 'Sign Up']} />
 
       <Hero size={ Hero.SIZE.LARGE }
             style={{ fontSize: "150%", textAlign: "center" }}>

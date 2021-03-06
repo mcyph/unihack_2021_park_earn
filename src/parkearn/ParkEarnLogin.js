@@ -4,6 +4,7 @@ import FlexContainer from "../lib/controls/containers/flexbox/FlexContainer";
 import FlexRow from "../lib/controls/containers/flexbox/FlexRow";
 import FlexCol from "../lib/controls/containers/flexbox/FlexCol";
 import Button from "../lib/controls/forms/controls/Button";
+import ParkEarnTitleBar from "./ParkEarnTitleBar"
 import { Formik } from "formik";
 import { auth } from "../firebase/index.js";
 class ParkEarnLogin extends Component {
@@ -26,6 +27,8 @@ class ParkEarnLogin extends Component {
 
   render() {
     return <>
+      <ParkEarnTitleBar items={['Rent', 'Park', 'Sign Up']} />
+
       <Hero size={ Hero.SIZE.LARGE } style={{ fontSize: "150%", textAlign: "center" }}>
         <FlexContainer>
           <FlexRow singleLine={true}>
@@ -73,7 +76,6 @@ class ParkEarnLogin extends Component {
                             value={values.email}
                           /></FlexRow>
                           {errors.email && touched.email && errors.email}
-                          
                           <FlexRow style={{ paddingLeft: "25%", }}>Password</FlexRow>
                           <FlexRow style={{ paddingLeft: "25%", }}><input
                             type="password"

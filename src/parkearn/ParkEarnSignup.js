@@ -79,8 +79,8 @@ class ParkEarnSignup extends Component {
                         isSubmitting
                       }) => (
                         <form onSubmit={handleSubmit}>
-                          <FlexRow style={{ paddingLeft: "25%", }}>Name</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", }}><input
+                          <FlexRow style={{ justifyContent: "center" }}>Name</FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
                             type="text"
                             name="name"
                             onChange={handleChange}
@@ -89,8 +89,8 @@ class ParkEarnSignup extends Component {
                           /></FlexRow>
                           {errors.name && touched.name && errors.name}
 
-                          <FlexRow style={{ paddingLeft: "25%", }}>Email</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", }}><input
+                          <FlexRow style={{ justifyContent: "center" }}>Email</FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
                             type="email"
                             name="email"
                             onChange={handleChange}
@@ -99,8 +99,8 @@ class ParkEarnSignup extends Component {
                           /></FlexRow>
                           {errors.email && touched.email && errors.email}
 
-                          <FlexRow style={{ paddingLeft: "25%", }}>Phone</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", }}><input
+                          <FlexRow style={{ justifyContent: "center" }}>Phone</FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
                             type="text"
                             name="phone"
                             onChange={handleChange}
@@ -109,8 +109,8 @@ class ParkEarnSignup extends Component {
                           /></FlexRow>
                           {errors.phone && touched.phone && errors.phone}
 
-                          <FlexRow style={{ paddingLeft: "25%", }}>Password</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", }}><input
+                          <FlexRow style={{ justifyContent: "center" }}>Password</FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
                             type="password"
                             name="password"
                             onChange={handleChange}
@@ -119,8 +119,8 @@ class ParkEarnSignup extends Component {
                           /></FlexRow>
                           {errors.password && touched.password && errors.password}
 
-                          <FlexRow style={{ paddingLeft: "25%", }}>Confirm Password</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", }}><input
+                          <FlexRow style={{ justifyContent: "center" }}>Confirm Password</FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
                             type="password"
                             name="confirmPassword"
                             onChange={handleChange}
@@ -130,15 +130,15 @@ class ParkEarnSignup extends Component {
                           {errors.confirmPassword && touched.confirmPassword && errors.confirmPassword}
 
                           
-                          <FlexRow style={{ paddingLeft: "25%", }}><div id="my-radio-group">You are a</div></FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><div id="my-radio-group">You are a</div></FlexRow>
                           <div role="group" aria-labelledby="my-radio-group">
-                            <FlexRow style={{ paddingLeft: "25%", }}>
+                            <FlexRow style={{ justifyContent: "center" }}>
                               <label>
                                 <Field type="radio" name="customerType" value="Renter" />
                                 {" "} Renter
                               </label>
                             </FlexRow>
-                            <FlexRow style={{ paddingLeft: "25%", }}>
+                            <FlexRow style={{ justifyContent: "center" }}>
                               <label>
                                 <Field type="radio" name="customerType" value="Customer" />
                                 {" "} Customer

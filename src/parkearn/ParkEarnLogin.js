@@ -67,8 +67,10 @@ class ParkEarnLogin extends Component {
                         isSubmitting
                       }) => (
                         <form onSubmit={handleSubmit}>
-                          <FlexRow style={{ justifyContent: "center" }}>Email</FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><label className="form-label">Email</label></FlexRow>
                           <FlexRow style={{ justifyContent: "center" }}><input
+                            className="form-input"
+                            style={{ maxWidth: "350px" }}
                             type="email"
                             name="email"
                             onChange={handleChange}
@@ -77,8 +79,10 @@ class ParkEarnLogin extends Component {
                           /></FlexRow>
                           {errors.email && touched.email && errors.email}
 
-                          <FlexRow style={{ justifyContent: "center" }}>Password</FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><label className="form-label">Password</label></FlexRow>
                           <FlexRow style={{ justifyContent: "center" }}><input
+                            className="form-input"
+                            style={{ maxWidth: "350px" }}
                             type="password"
                             name="password"
                             onChange={handleChange}
@@ -87,7 +91,10 @@ class ParkEarnLogin extends Component {
                           /></FlexRow>
                           {errors.password && touched.password && errors.password}
                           <FlexCol>
-                            <Button type={Button.TYPE.SUBMIT} disabled={isSubmitting}>
+                            <Button type={ Button.TYPE.SUBMIT }
+                                    size={ Button.SIZE.LARGE }
+                                    color={ Button.COLOR.PRIMARY }
+                                    disabled={ isSubmitting }>
                               Login
                             </Button>
                           </FlexCol>

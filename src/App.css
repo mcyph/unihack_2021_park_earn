@@ -48,7 +48,9 @@
 
 
 
-
+.mapboxgl-ctrl-geocoder {
+min-width: 100%;
+}
 
 .mapbox-marker {
   /*background-image: url('mapbox-icon.png');*/

@@ -23,30 +23,108 @@ SOFTWARE.
  */
 
 import { Component } from "react";
+import calendar from "calendar-month-array";
 
 class Calendar extends Component {
   static SIZE_NORMAL = '';
   static SIZE_LARGE = 'calendar-lg';
 
-  constructor({ year, month, size, style }) {
-    super({ year, month, size, style });
+  constructor({ year, month, day, size, style }) {
+    super({ year, month, day, size, style });
   }
 
   render() {
+    let weeks = calendar(new Date(this.props.year, this.props.month, this.props.day), {
+      weekStartDay: 1,
+      formatHeader: date => date.toString().slice(0, 2),
+      formatDate: date => date.getDate(),  // FIXME!
+      formatSiblingMonthDate: () => null
+    });
+
+    let out = [];
+    let foundFirstDay = false;
+
+    for (let week of weeks.slice(1)) {
+      for (let day of week) {
+        if (!day && !foundFirstDay) {
+          // Still in previous month
+          out.push(
+            <div className="calendar-date prev-month">
+              <button className="date-item"
+                      onClick={() => {}}>
+                { day }
+              </button>
+            </div>
+          );
+        } else if (day && !foundFirstDay) {
+          // In current month
+          // TODO: Add handling for "today"!!!
+          // TODO: Add handling for "disabled"!!!
+          // <div className="calendar-date tooltip" data-tooltip="Not available">
+          //               <button className="date-item" disabled="">6</button>
+          //             </div>
+          // <div className="calendar-date">
+          //               <button className="date-item date-today">4</button>
+          //             </div>
+          // TODO: Add handling for ranges!!!
+          // { /*calendar range*/ }
+          //             <div className="calendar-date calendar-range range-start">
+          //               <button className="date-item">7</button>
+          //             </div>
+          //             <div className="calendar-date calendar-range">
+          //               <button className="date-item">8</button>
+          //             </div>
+          //             <div className="calendar-date calendar-range range-end">
+          //               <button className="date-item">9</button>
+          //             </div>
+          // TODO: Add support for calendar events/active days!!!
+          // <div className="calendar-date">
+          //               <button className="date-item active">20</button>
+          //               <div className="calendar-events">
+          //                 <a className="calendar-event bg-success text-light" href="#calendars">Spring Equinox</a>
+          //               </div>
+          //             </div>
+          out.push(
+            <div className="calendar-date">
+              <button className="date-item"
+                      onClick={() => {}}>
+                { day }
+              </button>
+            </div>
+          );
+        } else if (!day && foundFirstDay) {
+          // In next month
+          out.push(
+            <div className="calendar-date next-month">
+              <button className="date-item"
+                      onClick={() => {}}>
+                { day }
+              </button>
+            </div>
+          );
+        } else {
+          throw new Error("Shouldn't get here!")
+        }
+      }
+    }
+
     return <>
-      <div className="calendar">
+      <div className={ "calendar "+this.props.size }>
         { /*calendar navbar*/ }
         <div className="calendar-nav navbar">
-          <button className="btn btn-action btn-link btn-lg">
-            <i className="icon icon-arrow-left"></i>
+          <button className="btn btn-action btn-link btn-lg"
+                  onClick={() => {}}>
+            <i className="icon icon-arrow-left" />
           </button>
           <div className="navbar-primary">March 2017</div>
-          <button className="btn btn-action btn-link btn-lg">
-            <i className="icon icon-arrow-right"></i>
+          <button className="btn btn-action btn-link btn-lg"
+                  onClick={() => {}}>
+            <i className="icon icon-arrow-right" />
           </button>
         </div>
 
         <div className="calendar-container">
+          { /*calendar days header*/ }
           <div className="calendar-header">
             <div className="calendar-date">Sun</div>
             <div className="calendar-date">Mon</div>
@@ -57,77 +135,9 @@ class Calendar extends Component {
             <div className="calendar-date">Sat</div>
           </div>
 
+          { /*calendar days*/ }
           <div className="calendar-body">
-            { /*calendar previous month*/ }
-            <div className="calendar-date prev-month">
-              <button className="date-item">26</button>
-            </div>
-            ...
-            <div className="calendar-date prev-month">
-              <button className="date-item">28</button>
-            </div>
-
-            { /*calendar current month*/ }
-            <div className="calendar-date">
-              <button className="date-item">1</button>
-            </div>
-            <div className="calendar-date">
-              <button className="date-item">2</button>
-            </div>
-            <div className="calendar-date">
-              <button className="date-item">3</button>
-            </div>
-            { /*calendar date: today*/ }
-            <div className="calendar-date">
-              <button className="date-item date-today">4</button>
-            </div>
-            { /*calendar date: tooltip*/ }
-            <div className="calendar-date tooltip" data-tooltip="You have appointments">
-              <button className="date-item">5</button>
-            </div>
-            { /*calendar date: not available*/ }
-            <div className="calendar-date tooltip" data-tooltip="Not available">
-              <button className="date-item" disabled="">6</button>
-            </div>
-
-            { /*calendar range*/ }
-            <div className="calendar-date calendar-range range-start">
-              <button className="date-item">7</button>
-            </div>
-            <div className="calendar-date calendar-range">
-              <button className="date-item">8</button>
-            </div>
-            <div className="calendar-date calendar-range range-end">
-              <button className="date-item">9</button>
-            </div>
-            ...
-            <div className="calendar-date">
-              <button className="date-item">31</button>
-            </div>
-
-            { /*calendar next month*/ }
-            <div className="calendar-date next-month">
-              <button className="date-item">1</button>
-            </div>
-          </div>
-        </div>
-      </div>
-
-
-      <div className="calendar calendar-lg">
-        { /*calendar navbar structure*/ }
-
-        <div className="calendar-container">
-          { /*calendar header structure*/ }
-
-          <div className="calendar-body">
-            { /*calendar date with events*/ }
-            <div className="calendar-date">
-              <button className="date-item active">20</button>
-              <div className="calendar-events">
-                <a className="calendar-event bg-success text-light" href="#calendars">Spring Equinox</a>
-              </div>
-            </div>
+            { out }
           </div>
         </div>
       </div>

@@ -45,7 +45,8 @@ class Hero extends Component {
 
   render() {
     let className = "hero bg-gray "+this.props.size;
-    return <div className={ className }>
+    return <div className={ className }
+                style={ this.props.style }>
       <div className="hero-body">
         <h1>{ this.props.title }</h1>
         <p>{ this.props.children }</p>

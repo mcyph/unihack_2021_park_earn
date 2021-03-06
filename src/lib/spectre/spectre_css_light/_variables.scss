@@ -5,19 +5,20 @@ $version: "0.5.9";
 $rtl: false !default;
 
 // Core colors
-$primary-color: #073ad9 !default;
+$primary-color: #a39ef1 !default;
 $primary-color-dark: darken($primary-color, 3%) !default;
 $primary-color-light: lighten($primary-color, 3%) !default;
 $secondary-color: lighten($primary-color, 37.5%) !default;
-$secondary-color-dark: darken($secondary-color, 3%) !default;
-$secondary-color-light: lighten($secondary-color, 3%) !default;
+/*$secondary-color: #85c6a1 !default;*/
+$secondary-color-dark: darken($secondary-color, 100%) !default;
+$secondary-color-light: darken($secondary-color, 3%) !default;
 
 // Gray colors
-$dark-color: #303742 !default;
+$dark-color: #353042 !default;
 $light-color: #fff !default;
-$gray-color: lighten($dark-color, 55%) !default;
+$gray-color-light: #f9f9f9 !default;
+$gray-color: darken($dark-color, 55%) !default;
 $gray-color-dark: darken($gray-color, 30%) !default;
-$gray-color-light: lighten($gray-color, 20%) !default;
 
 $border-color: lighten($dark-color, 65%) !default;
 $border-color-dark: darken($border-color, 10%) !default;
@@ -27,7 +28,7 @@ $bg-color-dark: darken($bg-color, 3%) !default;
 $bg-color-light: $light-color !default;
 
 // Control colors
-$success-color: #4caf50 !default;
+$success-color: #7bba97 !default;
 $warning-color: #ff9800 !default;
 $error-color: #f44336 !default;
 

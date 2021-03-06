@@ -36,11 +36,30 @@ import FormsTextControls from "./lib/examples/controls/FormsTextControls";
 import FormsToggleControls from "./lib/examples/controls/FormsToggleControls";
 import Labels from "./lib/examples/Labels";
 import Toasts from "./lib/examples/Toasts";
+import ParkEarnMap from "./parkearn/ParkEarnMap";
+import ParkEarnBooking from "./parkearn/ParkEarnBooking";
+import ParkEarnRentDriveway from "./parkearn/ParkEarnRentDriveway";
+import ParkEarnRenterDash from "./parkearn/ParkEarnRenterDash";
+import ParkEarnLanding from "./parkearn/ParkEarnLanding";
+import ParkEarnSignup from "./parkearn/ParkEarnSignup";
+import ParkEarnLogin from "./parkearn/ParkEarnLogin";
 
 let MyNav=()=>{
   return <>
     <nav className="example-nav">
       <NavTree>
+        <NavTreeItem>
+          <a>ParkEarn UI</a>
+          <NavTree>
+            <NavTreeItem><Link to="/parkearn_map">Map</Link></NavTreeItem>
+            <NavTreeItem><Link to="/parkearn_booking">Booking</Link></NavTreeItem>
+            <NavTreeItem><Link to="/parkearn_rentdriveway">Rent Driveway</Link></NavTreeItem>
+            <NavTreeItem><Link to="/parkearn_renterdash">Renter Dashboard</Link></NavTreeItem>
+            <NavTreeItem><Link to="/parkearn_landing">Landing</Link></NavTreeItem>
+            <NavTreeItem><Link to="/parkearn_signup">Sign Up</Link></NavTreeItem>
+            <NavTreeItem><Link to="/parkearn_login">Login</Link></NavTreeItem>
+          </NavTree>
+        </NavTreeItem>
         <NavTreeItem>
           <a>Layout/Containers</a>
           <NavTree>
@@ -122,10 +141,18 @@ let ExampleKitchenSink=()=>{
         </OffCanvasContent>
       </OffCanvas>
 
-      <div style={{ maxWidth: "1600px",
+      <div style={{ //maxWidth: "1600px",
                     marginLeft: "15rem",
                     paddingTop: "0.9rem" }}>
         <Switch>
+          <Route path="/parkearn_map"><SourceDisplay reactClass={<ParkEarnMap/>} jsonKey="ParkEarnMap"/></Route>
+          <Route path="/parkearn_booking"><SourceDisplay reactClass={<ParkEarnBooking/>} jsonKey="ParkEarnBooking"/></Route>
+          <Route path="/parkearn_rentdriveway"><SourceDisplay reactClass={<ParkEarnRentDriveway/>} jsonKey="ParkEarnRentDriveway"/></Route>
+          <Route path="/parkearn_renterdash"><SourceDisplay reactClass={<ParkEarnRenterDash/>} jsonKey="ParkEarnRenterDash"/></Route>
+          <Route path="/parkearn_landing"><SourceDisplay reactClass={<ParkEarnLanding/>} jsonKey="ParkEarnLanding"/></Route>
+          <Route path="/parkearn_signup"><SourceDisplay reactClass={<ParkEarnSignup/>} jsonKey="ParkEarnSignup"/></Route>
+          <Route path="/parkearn_login"><SourceDisplay reactClass={<ParkEarnLogin/>} jsonKey="ParkEarnLogin"/></Route>
+
           <Route path="/containers"><SourceDisplay reactClass={<Containers/>} jsonKey="Containers"/></Route>
           <Route path="/floating"><SourceDisplay reactClass={<Floating/>} jsonKey="Floating"/></Route>
           <Route path="/labels"><SourceDisplay reactClass={<Labels/>} jsonKey="Labels"/></Route>

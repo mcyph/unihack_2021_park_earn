@@ -67,8 +67,8 @@ class ParkEarnLogin extends Component {
                         isSubmitting
                       }) => (
                         <form onSubmit={handleSubmit}>
-                          <FlexRow style={{ paddingLeft: "25%", }}>Email</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", }}><input
+                          <FlexRow style={{ justifyContent: "center" }}>Email</FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
                             type="email"
                             name="email"
                             onChange={handleChange}
@@ -76,8 +76,9 @@ class ParkEarnLogin extends Component {
                             value={values.email}
                           /></FlexRow>
                           {errors.email && touched.email && errors.email}
-                          <FlexRow style={{ paddingLeft: "25%", }}>Password</FlexRow>
-                          <FlexRow style={{ paddingLeft: "25%", }}><input
+
+                          <FlexRow style={{ justifyContent: "center" }}>Password</FlexRow>
+                          <FlexRow style={{ justifyContent: "center" }}><input
                             type="password"
                             name="password"
                             onChange={handleChange}

@@ -140,21 +140,23 @@ class ParkEarnSignup extends Component {
                           {errors.confirmPassword && touched.confirmPassword && errors.confirmPassword}
 
                           
-                          <FlexRow style={{ justifyContent: "center" }}><div id="my-radio-group"><label className="form-label">You are a</label></div></FlexRow>
-                          <div role="group" aria-labelledby="my-radio-group">
-                            <FlexRow style={{ justifyContent: "center" }}>
+                          <FlexRow style={{ justifyContent: "center" }}>
+                            <div id="my-radio-group">
+                              <label className="form-label">You are a</label>
+                            </div>
+                          </FlexRow>
+                          <FlexRow style={{ justifyContent: "center", textAlign: "left" }}>
+                            <div role="group" aria-labelledby="my-radio-group" style={{width: "5em", whiteSpace: "nowrap"}}>
                               <label>
                                 <Field type="radio" name="customerType" value="Renter" />
                                 {" "} Renter
-                              </label>
-                            </FlexRow>
-                            <FlexRow style={{ justifyContent: "center" }}>
+                              </label><br/>
                               <label>
                                 <Field type="radio" name="customerType" value="Customer" />
                                 {" "} Customer
                               </label>
-                            </FlexRow>
-                          </div>
+                            </div>
+                          </FlexRow>
 
                           <FlexCol style={{ justifyContent: "center" }}>
                             <Button type={Button.TYPE.SUBMIT}

@@ -19,7 +19,7 @@ class ParkEarnBooking extends Component {
   render() {
     return (
       <>
-        <ParkEarnTitleBar />
+        <ParkEarnTitleBar items={['Park', 'My Account', 'Logout']}/>
         <FlexContainer>
           <FlexRow>
             <FlexCol defaultSize={6}>

@@ -39,6 +39,3 @@ class ParkEarnBooking extends Component {
 }
 
 export default ParkEarnBooking;
-
-
-

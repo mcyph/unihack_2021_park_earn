@@ -99,7 +99,7 @@ class ParkEarnMap extends Component {
               </p>
             </FlexCol>
             <FlexCol className="halves" defaultSize={3}>
-              rightasdasdasdasdasdasdasd
+              map on the right-hand side
             </FlexCol>
           </FlexRow>
         </FlexContainer>

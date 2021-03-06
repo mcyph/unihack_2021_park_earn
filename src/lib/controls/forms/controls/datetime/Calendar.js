@@ -29,12 +29,12 @@ class Calendar extends Component {
   static SIZE_NORMAL = '';
   static SIZE_LARGE = 'calendar-lg';
 
-  constructor({ year, month, day, size, style }) {
-    super({ year, month, day, size, style });
+  constructor({ currentDate, size, onChange, onPrevMonth, onNextMonth, style }) {
+    super({ currentDate, size, onChange, onPrevMonth, onNextMonth, style });
   }
 
   render() {
-    let weeks = calendar(new Date(this.props.year, this.props.month, this.props.day), {
+    let weeks = calendar(this.props.currentDate, {
       weekStartDay: 1,
       formatHeader: date => date.toString().slice(0, 2),
       formatDate: date => date.getDate(),  // FIXME!
@@ -51,7 +51,7 @@ class Calendar extends Component {
           out.push(
             <div className="calendar-date prev-month">
               <button className="date-item"
-                      onClick={() => {}}>
+                      onClick={() => {this.onChange && this.onChange(parseInt(day))}}>
                 { day }
               </button>
             </div>
@@ -87,7 +87,7 @@ class Calendar extends Component {
           out.push(
             <div className="calendar-date">
               <button className="date-item"
-                      onClick={() => {}}>
+                      onClick={() => {this.onChange && this.onChange(parseInt(day))}}>
                 { day }
               </button>
             </div>
@@ -97,7 +97,7 @@ class Calendar extends Component {
           out.push(
             <div className="calendar-date next-month">
               <button className="date-item"
-                      onClick={() => {}}>
+                      onClick={() => {this.onChange && this.onChange(parseInt(day))}}>
                 { day }
               </button>
             </div>
@@ -113,12 +113,12 @@ class Calendar extends Component {
         { /*calendar navbar*/ }
         <div className="calendar-nav navbar">
           <button className="btn btn-action btn-link btn-lg"
-                  onClick={() => {}}>
+                  onClick={() => { this.props.onPrevMonth && this.props.onPrevMonth() }}>
             <i className="icon icon-arrow-left" />
           </button>
           <div className="navbar-primary">March 2017</div>
           <button className="btn btn-action btn-link btn-lg"
-                  onClick={() => {}}>
+                  onClick={() => { this.props.onNextMonth && this.props.onNextMonth() }}>
             <i className="icon icon-arrow-right" />
           </button>
         </div>

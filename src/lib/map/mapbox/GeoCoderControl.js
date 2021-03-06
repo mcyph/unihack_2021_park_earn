@@ -30,33 +30,55 @@ import mapboxgl from "!mapbox-gl";
 import MapboxGeocoder from '!mapbox-gl-geocoder';
 // eslint-disable-next-line import/no-webpack-loader-syntax
 import 'mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css';
+import MapboxControl from "../MapboxControl";
 
 class GeoCoderControl extends Component {
-  constructor({ style }) {
-    super({ style });
+  constructor({ onResults, onResultSelected, onLoading, style }) {
+    super({ onResults, style });
     this.geocoder = new MapboxGeocoder({
       // According to https://github.com/mapbox/mapbox-gl-geocoder,
       // POI results not allowed outside map under MapBox GL's terms of service
-      types: 'district,place,locality,neighbourhood,address',
+      types: 'country,region,place,postcode,locality,neighborhood',
       accessToken: mapboxgl.accessToken,
       mapboxgl: mapboxgl
     });
+
+    if (onResults) {
+      this.geocoder.on('results', onResults);
+    }
+    if (onResultSelected) {
+      this.geocoder.on('result', onResultSelected);
+    }
+    if (onLoading) {
+      this.geocoder.on('loading', onLoading);
+    }
   }
 
   render=()=>{
     return <>
-      <div ref={el => this.absContainer = el}
-           style={{ position: "relative",
-                    ...this.props.style }}>
-        <div ref={el => this.coderContainer = el}
-             style={this.props.style}/>
-      </div>
+      <div ref={el => this.coderContainer = el}
+           style={{
+             zIndex: 1,
+             width: "100%",
+             ...this.props.style
+           }} />
+      <div style={{ opacity: 0, height: 0, width: 0 }}>
+         <MapboxControl ref={el => {this.map = el ? el.map : null;}}
+                        style={{height: "500px"}} />
+       </div>
     </>;
   }
 
   componentDidMount=()=> {
     this.__unmounted = false;
-    this.geocoder.addTo(this.coderContainer);
+    let callLater=()=> {
+      if (this.map) {
+        this.coderContainer.appendChild(this.geocoder.onAdd(this.map));
+      } else {
+        setTimeout(callLater, 300)
+      }
+    }
+    callLater();
   }
 
   componentWillUnmount=()=>{

@@ -43,6 +43,7 @@ import ParkEarnRenterDash from "./parkearn/ParkEarnRenterDash";
 import ParkEarnLanding from "./parkearn/ParkEarnLanding";
 import ParkEarnSignup from "./parkearn/ParkEarnSignup";
 import ParkEarnLogin from "./parkearn/ParkEarnLogin";
+import Calendars from "./lib/examples/controls/Calendars";
 
 let MyNav=()=>{
   return <>
@@ -75,6 +76,7 @@ let MyNav=()=>{
           <a>Forms</a>
           <NavTree>
             <NavTreeItem><Link to="/forms_buttons">Buttons</Link></NavTreeItem>
+            <NavTreeItem><Link to="/calendars">Calendars</Link></NavTreeItem>
             <NavTreeItem><Link to="/progress">Progress</Link></NavTreeItem>
             <NavTreeItem><Link to="/forms_select_controls">Select Controls</Link></NavTreeItem>
             <NavTreeItem><Link to="/forms_sliders">Sliders</Link></NavTreeItem>
@@ -164,6 +166,7 @@ let ExampleKitchenSink=()=>{
           <Route path="/forms_text_controls"><SourceDisplay reactClass={<FormsTextControls/>} jsonKey="FormsTextControls"/></Route>
           <Route path="/forms_toggle_controls"><SourceDisplay reactClass={<FormsToggleControls/>} jsonKey="FormsToggleControls"/></Route>
 
+          <Route path="/calendars"><SourceDisplay reactClass={<Calendars/>} jsonKey="Calendars"/></Route>
           <Route path="/icons"><SourceDisplay reactClass={<Icons/>} jsonKey="Icons"/></Route>
           <Route path="/images"><SourceDisplay reactClass={<Images/>} jsonKey="Images"/></Route>
           <Route path="/menus"><SourceDisplay reactClass={<Menus/>} jsonKey="Menus"/></Route>

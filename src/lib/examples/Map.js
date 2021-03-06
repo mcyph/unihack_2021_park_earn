@@ -18,10 +18,11 @@ class Map extends Component {
 
   render() {
     return <>
-      <GeoCoderControl />
+      <GeoCoderControl onResultSelected={result => console.log(JSON.stringify(result))}
+                     onResults={results => console.log(JSON.stringify(results))} />
       <MapboxControl ref={el => {this.__mapboxControl = el;}}
-                     style={{height: "50vh"}} />;
-    </>
+                     style={{height: "50vh"}} />
+    </>;
   }
 
   componentDidMount() {

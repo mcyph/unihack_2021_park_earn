@@ -26,7 +26,7 @@ SOFTWARE.
 import mapboxgl from "!mapbox-gl";
 
 class Marker {
-    constructor(map, imageURL, long, lat) {
+    constructor(map, imageURL, long, lat, markerSize) {
       map = map.map || map;
       this.map = map;
       this.imageURL = imageURL;
@@ -36,6 +36,11 @@ class Marker {
       let el = this.el = document.createElement('div');
       el.className = 'mapbox-marker';
       el.style.backgroundImage = 'url('+imageURL+')';
+
+      if (markerSize) {
+        el.style.width = markerSize+"px"
+        el.style.height = markerSize+"px"
+      }
 
       // make a marker for each feature and add to the map
       new mapboxgl.Marker(el)

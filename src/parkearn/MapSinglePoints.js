@@ -26,7 +26,7 @@ class MapSinglePoints extends Component {
   componentDidMount() {
     //let geoJSONData = new GeoJSONData(GeoJSONData.POINTS, worldPointData);
     for (let [long, lat] of this.props.points) {
-      new Marker(this.__mapboxControl, GREEN_PIN, long, lat)
+      new Marker(this.__mapboxControl, RED_PIN, long, lat, 32)
     }
     //geoJSONData.joinDataOnKey(csvData)
   }

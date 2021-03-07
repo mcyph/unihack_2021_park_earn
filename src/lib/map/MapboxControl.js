@@ -130,10 +130,10 @@ class MapboxControl extends Component {
           // TODO!
         });
 
-        map.fitBounds(
+        map.fitBounds([
           [145.4981307, -37.5186652],
           [146.6335045, -37.6388972]
-        );
+        ]);
       };
       onLoad();
     };

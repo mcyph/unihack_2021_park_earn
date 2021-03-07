@@ -38,7 +38,6 @@ import Labels from "./lib/examples/Labels";
 import Toasts from "./lib/examples/Toasts";
 import ParkEarnMap from "./parkearn/ParkEarnMap";
 import ParkEarnBooking from "./parkearn/ParkEarnBooking";
-import ParkEarnRentDriveway from "./parkearn/ParkEarnRentDriveway";
 import ParkEarnRenterDash from "./parkearn/ParkEarnRenterDash";
 import ParkEarnLanding from "./parkearn/ParkEarnLanding";
 import ParkEarnSignup from "./parkearn/ParkEarnSignup";
@@ -149,7 +148,6 @@ let ExampleKitchenSink=()=>{
         <Switch>
           <Route path="/parkearn_map"><SourceDisplay reactClass={<ParkEarnMap/>} jsonKey="ParkEarnMap"/></Route>
           <Route path="/parkearn_booking"><SourceDisplay reactClass={<ParkEarnBooking/>} jsonKey="ParkEarnBooking"/></Route>
-          <Route path="/parkearn_rentdriveway"><SourceDisplay reactClass={<ParkEarnRentDriveway/>} jsonKey="ParkEarnRentDriveway"/></Route>
           <Route path="/parkearn_renterdash"><SourceDisplay reactClass={<ParkEarnRenterDash/>} jsonKey="ParkEarnRenterDash"/></Route>
           <Route path="/parkearn_landing"><SourceDisplay reactClass={<ParkEarnLanding/>} jsonKey="ParkEarnLanding"/></Route>
           <Route path="/parkearn_signup"><SourceDisplay reactClass={<ParkEarnSignup/>} jsonKey="ParkEarnSignup"/></Route>

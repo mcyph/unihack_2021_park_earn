@@ -16,93 +16,120 @@ import CardTitle from "../lib/controls/containers/card/CardTitle";
 import garagePic1 from "./garage.jpg";
 import garagePic2 from "./garage2.jpg";
 
+import ParkEarnBooking from "./ParkEarnBooking";
+
 import "./ParkEarnMap.css";
 class ParkEarnMap extends Component {
   constructor({}) {
     super({});
   }
+  state = { clicked: false };
 
   render() {
     return (
-      <div className="container">
-        <ParkEarnTitleBar items={["Rent", "Login", "Sign Up"]} />
-        <FlexContainer>
-          <FlexRow singleLine={true}>
-            <FlexCol className="halves">
-              <Formik
-                initialValues={{
-                  address: "enter address",
-                  dateTime: "enter dateTime",
-                }}
-                onSubmit={async (values) => {
-                  await new Promise((resolve) => setTimeout(resolve, 500));
-                  alert(JSON.stringify(values, null, 2));
-                }}
-              >
-                <Form>
-                  <Field name="address" type="text" />
-                  <Field
-                    name="dateTime"
-                    type="text"
-                    style={{ marginLeft: "10px" }}
-                  />
-                  <button type="search" style={{ marginLeft: "10px" }}>
-                    Search
-                  </button>
-                </Form>
-              </Formik>
-              <p>
-                <Card>
-                  <FlexRow>
-                    <FlexCol>
-                      <CardImage>
-                        <img
-                          src={garagePic1}
-                          style={{
-                            width: "200px",
-                            height: "100%",
-                          }}
-                          resizeMode={"contain"}
-                        />
-                      </CardImage>
-                    </FlexCol>
-                    <FlexCol>
-                      <CardHeader>
-                        <CardTitle>123 High Street</CardTitle>
-                      </CardHeader>
-                      <CardBody>12:00pm to 6:00pm</CardBody>
-                    </FlexCol>
-                  </FlexRow>
-                </Card>{" "}
-                <Card>
-                  <FlexRow>
-                    <FlexCol>
-                      <CardImage>
-                        <img
-                          src={garagePic2}
-                          style={{
-                            width: "200px",
-                            height: "100%",
-                          }}
-                          resizeMode={"contain"}
-                        />
-                      </CardImage>
-                    </FlexCol>
-                    <FlexCol>
-                      <CardHeader>
-                        <CardTitle>97 Springvale Road</CardTitle>
-                      </CardHeader>
-                      <CardBody>11:00pm to 6:00pm</CardBody>
-                    </FlexCol>
-                  </FlexRow>
-                </Card>
-              </p>
-            </FlexCol>
-            <FlexCol className="halves" defaultSize={3}>
-              map on the right-hand side
-            </FlexCol>
-          </FlexRow>
-        </FlexContainer>
+      <div>
+        {this.state.clicked ? (
+          <>
+            <ParkEarnBooking />{" "}
+            <Button
+              onClick={() => {
+                this.setState({ clicked: false });
+              }}
+            >
+              Back
+            </Button>
+          </>
+        ) : (
+          <div className="container">
+            <ParkEarnTitleBar items={["Rent", "Login", "Sign Up"]} />
+            <FlexContainer>
+              <FlexRow singleLine={true}>
+                <FlexCol className="halves">
+                  <Formik
+                    initialValues={{
+                      address: "enter address",
+                      dateTime: "enter dateTime",
+                    }}
+                    onSubmit={async (values) => {
+                      await new Promise((resolve) => setTimeout(resolve, 500));
+                      alert(JSON.stringify(values, null, 2));
+                    }}
+                  >
+                    <Form>
+                      <Field name="address" type="text" />
+                      <Field
+                        name="dateTime"
+                        type="text"
+                        style={{ marginLeft: "10px" }}
+                      />
+                      <button type="search" style={{ marginLeft: "10px" }}>
+                        Search
+                      </button>
+                    </Form>
+                  </Formik>
+                  <p>
+                    <Button
+                      onClick={() => {
+                        this.setState({ clicked: true });
+                      }}
+                      style={{ height: "180px", width: "400px" }}
+                    >
+                      <Card>
+                        <FlexRow>
+                          <FlexCol>
+                            <CardImage>
+                              <img
+                                src={garagePic1}
+                                style={{
+                                  height: "150px",
+                                  width: "100%",
+                                }}
+                                resizeMode={"contain"}
+                              />
+                            </CardImage>
+                          </FlexCol>
+                          <FlexCol>
+                            <CardHeader>
+                              <CardTitle>123 High Street</CardTitle>
+                            </CardHeader>
+                            <CardBody>12:00pm to 6:00pm</CardBody>
+                          </FlexCol>
+                        </FlexRow>
+                      </Card>
+                    </Button>
+                    <Button style={{ height: "180px", width: "400px" }}>
+                      <Card>
+                        <FlexRow>
+                          <FlexCol>
+                            <CardImage>
+                              <img
+                                src={garagePic2}
+                                style={{
+                                  height: "150px",
+                                  width: "100%",
+                                }}
+                                resizeMode={"contain"}
+                              />
+                            </CardImage>
+                          </FlexCol>
+                          <FlexCol>
+                            <CardHeader>
+                              <CardTitle>97 Springvale Road</CardTitle>
+                            </CardHeader>
+                            <CardBody>11:00pm to 6:00pm</CardBody>
+                          </FlexCol>
+                        </FlexRow>
+                      </Card>
+                    </Button>
+                  </p>
+                </FlexCol>
+                <FlexCol className="halves" defaultSize={3}>
+                  map on the right-hand side
+                </FlexCol>
+              </FlexRow>
+            </FlexContainer>
+          </div>
+        )}
       </div>
     );
   }

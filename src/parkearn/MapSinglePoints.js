@@ -19,7 +19,7 @@ class MapSinglePoints extends Component {
   render() {
     return <>
       <MapboxControl ref={el => {this.__mapboxControl = el;}}
-                     style={{height: "50vh", ...this.props.style}} />
+                     style={{height: "50vh", overflow: "hidden", ...this.props.style}} />
     </>;
   }
 

@@ -64,7 +64,7 @@ class GeoCoderControl extends Component {
            }} />
       <div style={{ opacity: 0, height: 0 }}>
          <MapboxControl ref={el => {this.map = el ? el.map : null;}}
-                        style={{height: "500px"}} />
+                        style={{height: "0px", width: "0px", opacity: 0}} />
        </div>
     </>;
   }

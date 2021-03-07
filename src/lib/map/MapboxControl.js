@@ -53,6 +53,7 @@ class MapboxControl extends Component {
     return <>
       <div ref={el => this.absContainer = el}
            style={{ position: "relative",
+                    overflow: "hidden",
                     ...this.props.style }}>
         <div ref={el => this.mapContainer = el}
              style={this.props.style}/>

@@ -22,22 +22,6 @@ import ParkEarnRenterDash from './parkearn/ParkEarnRenterDash';
 import ParkEarnMap from './parkearn/ParkEarnMap';
 import ParkEarnLogout from './parkearn/ParkEarnLogout';
 
-db.init((db) => {
-  db.addCustomer({
-    name: "name", email: "name@example.com", phone: "5553210", password: "password"
-  });
-  db.addRenter({
-    lat: 55.5, lng: 90.5, userImage: null, placeImage: null,
-    name: "Joe Bloggs", email: "name@example.com", phone: "5553210", password: "password"
-  });
-  db.addBooking({
-    renterId: 1, customerId: 1, fromTimeslot: "2021/3/6 12:00", toTimeslot: "2021/3/6 12:30"
-  })
-  console.log(db.getCustomers());
-  console.log(db.getRenters());
-  console.log(db.getBookings());
-});
-
 
 function App() {
   // Replace the below lines with your own content!

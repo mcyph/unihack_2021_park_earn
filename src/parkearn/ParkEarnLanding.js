@@ -30,10 +30,10 @@ class ParkEarnLanding extends Component {
         <FlexContainer>
           <FlexRow singleLine={true}>
             <FlexCol style={{ paddingTop: "6.5%" }}>
-              <h1>Website Pitch</h1>
+              <h1>Park Earn</h1>
               <p>
-                <span style={{whiteSpace: "nowrap"}}>Lorem ipsum dolor sit amet</span>,
-                <wbr/><span style={{whiteSpace: "nowrap"}}> consectutur adipscing elit.</span></p>
+                <span style={{whiteSpace: "nowrap"}}>Providing cheap parking</span>,
+                <wbr/><span style={{whiteSpace: "nowrap"}}> and putting a little something in your wallet.</span></p>
               <p>
                 <FlexContainer style={{ padding: "0 12%", }}>
                   <FlexRow singleLine={true}>

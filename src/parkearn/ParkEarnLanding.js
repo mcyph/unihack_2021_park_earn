@@ -20,7 +20,7 @@ class ParkEarnLanding extends Component {
 
   render() {
 
-    let items = this.state.authUser ? ['Rent', 'Park', 'Logout'] : ['Rent', 'Park', 'Login', 'Sign Up']
+    let items = this.state.authUser ? ['Rent', 'Park', 'Dashboard', 'Logout'] : ['Rent', 'Park', 'Login', 'Sign Up']
 
     return <>
       <ParkEarnTitleBar items={items} />

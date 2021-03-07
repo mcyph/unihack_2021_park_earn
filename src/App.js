@@ -17,6 +17,9 @@ import ParkEarnLanding from './parkearn/ParkEarnLanding';
 import ParkEarnLogin from './parkearn/ParkEarnLogin';
 import ParkEarnSignup from './parkearn/ParkEarnSignup';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import ParkEarnBooking from './parkearn/ParkEarnBooking';
+import ParkEarnRenterDash from './parkearn/ParkEarnRenterDash';
+import ParkEarnMap from './parkearn/ParkEarnMap';
 
 db.init((db) => {
   db.addCustomer({
@@ -45,6 +48,9 @@ function App() {
             <Route path='/' component={ParkEarnLanding} exact/>
             <Route path='/login' component={ParkEarnLogin} exact />
             <Route path='/signup' component={ParkEarnSignup} exact/>
+            <Route path='/rent' component={ParkEarnBooking} exact/>
+            <Route path='/dashboard' component={ParkEarnRenterDash} exact/>
+            <Route path='/park' component={ParkEarnMap} exact/>
           </Switch>
         </div>
       </Router>

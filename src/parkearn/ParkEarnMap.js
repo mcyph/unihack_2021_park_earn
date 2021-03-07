@@ -91,42 +91,74 @@ class ParkEarnMap extends Component {
                     </Form>
                   </Formik>
 
-                  {this.state.parkingList.map((item) => (
-                    <p>
-                      <Button
-                        onClick={() => {
-                          this.setState({ clicked: true });
-                        }}
-                        style={{ height: "100%", width: "100%" }}
-                      >
-                        <Card>
-                          <FlexRow singleLine={true}>
-                            <FlexCol>
-                              <CardImage>
-                                <img
-                                  src={item.picture}
-                                  style={{
-                                    height: "100%",
-                                    width: "100%",
-                                  }}
-                                  resizeMode={"contain"}
-                                />
-                              </CardImage>
-                            </FlexCol>
-                            <FlexCol className="cardTextField">
-                              <CardHeader>
-                                <CardTitle singleLine={false}>
-                                  {item.title}
-                                </CardTitle>
-                                <CardSubtitle>{item.address}</CardSubtitle>
-                              </CardHeader>
-                              <CardBody>{item.rate}</CardBody>
-                            </FlexCol>
-                          </FlexRow>
-                        </Card>
-                      </Button>
-                    </p>
-                  ))}
+                  <p style={{ marginTop: "15px" }}>
+                    <Button
+                      onClick={() => {
+                        this.setState({ clicked: true });
+                      }}
+                      style={{
+                        height: "180px",
+                        width: "100%",
+                        marginLeft: "-10px",
+                      }}
+                      borderStyle={Button.BORDER_STYLE.LINK}
+                    >
+                      <Card>
+                        <FlexRow>
+                          <FlexCol>
+                            <CardImage>
+                              <img
+                                src={garagePic1}
+                                style={{
+                                  height: "150px",
+                                  width: "100%",
+                                }}
+                                resizeMode={"contain"}
+                              />
+                            </CardImage>
+                          </FlexCol>
+                          <FlexCol>
+                            <CardHeader>
+                              <CardTitle>123 High Street</CardTitle>
+                            </CardHeader>
+                            <CardBody>12:00pm to 6:00pm</CardBody>
+                          </FlexCol>
+                        </FlexRow>
+                      </Card>
+                    </Button>
+                    <Button
+                      style={{
+                        height: "180px",
+                        width: "100%",
+                        marginTop: "8px",
+                        marginLeft: "-10px",
+                      }}
+                      borderStyle={Button.BORDER_STYLE.LINK}
+                    >
+                      <Card>
+                        <FlexRow>
+                          <FlexCol>
+                            <CardImage>
+                              <img
+                                src={garagePic2}
+                                style={{
+                                  height: "150px",
+                                  width: "100%",
+                                }}
+                                resizeMode={"contain"}
+                              />
+                            </CardImage>
+                          </FlexCol>
+                          <FlexCol>
+                            <CardHeader>
+                              <CardTitle>97 Springvale Road</CardTitle>
+                            </CardHeader>
+                            <CardBody>11:00pm to 6:00pm</CardBody>
+                          </FlexCol>
+                        </FlexRow>
+                      </Card>
+                    </Button>
+                  </p>
                 </FlexCol>
                 <FlexCol className="halves" defaultSize={3}>
                   map on the right-hand side

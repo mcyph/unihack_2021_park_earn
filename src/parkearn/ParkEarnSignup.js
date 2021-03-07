@@ -7,6 +7,8 @@ import Button from "../lib/controls/forms/controls/Button";
 import ParkEarnTitleBar from "./ParkEarnTitleBar"
 import { Formik, Field } from "formik";
 import { auth } from "../firebase/index.js";
+import Tabs from "../lib/controls/tabs/Tabs";
+import TabItem from "../lib/controls/tabs/TabItem";
 class ParkEarnSignup extends Component {
   constructor({ }) {
     super({ });
@@ -79,6 +81,34 @@ class ParkEarnSignup extends Component {
                         isSubmitting
                       }) => (
                         <form onSubmit={handleSubmit}>
+
+                          <Tabs style={{justifyContent: "center"}}>
+                            <label className="form-label">I am a:&nbsp;&nbsp;</label>
+                            <TabItem href="#" name="Customer"  active={true} />
+                            <TabItem href="#" name="Renter" />
+                          </Tabs>
+
+                          {/*
+                          <FlexRow style={{ justifyContent: "center" }}>
+                            <div id="my-radio-group">
+                              <label className="form-label">You are a</label>
+                            </div>
+                          </FlexRow>
+
+                          <FlexRow style={{ justifyContent: "center", textAlign: "left" }}>
+                            <div role="group" aria-labelledby="my-radio-group" style={{width: "5.5em", whiteSpace: "nowrap"}}>
+                              <label>
+                                <Field type="radio" name="customerType" value="Renter" />
+                                {" "} Renter
+                              </label><br/>
+                              <label>
+                                <Field type="radio" name="customerType" value="Customer" />
+                                {" "} Customer
+                              </label>
+                            </div>
+                          </FlexRow>
+                          */}
+
                           <FlexRow style={{ justifyContent: "center" }}><label className="form-label">Name</label></FlexRow>
                           <FlexRow style={{ justifyContent: "center" }}><input
                             className="form-input"
@@ -138,25 +168,6 @@ class ParkEarnSignup extends Component {
                             value={values.confirmPassword}
                           /></FlexRow>
                           {errors.confirmPassword && touched.confirmPassword && errors.confirmPassword}
-
-                          
-                          <FlexRow style={{ justifyContent: "center" }}>
-                            <div id="my-radio-group">
-                              <label className="form-label">You are a</label>
-                            </div>
-                          </FlexRow>
-                          <FlexRow style={{ justifyContent: "center", textAlign: "left" }}>
-                            <div role="group" aria-labelledby="my-radio-group" style={{width: "5.5em", whiteSpace: "nowrap"}}>
-                              <label>
-                                <Field type="radio" name="customerType" value="Renter" />
-                                {" "} Renter
-                              </label><br/>
-                              <label>
-                                <Field type="radio" name="customerType" value="Customer" />
-                                {" "} Customer
-                              </label>
-                            </div>
-                          </FlexRow>
 
                           <FlexCol style={{ justifyContent: "center" }}>
                             <Button type={Button.TYPE.SUBMIT}

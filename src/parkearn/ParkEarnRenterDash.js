@@ -26,7 +26,7 @@ class ParkEarnRenterDash extends Component {
   render() {
     return <>
 
-      <ParkEarnTitleBar items={['Rent']} />
+      <ParkEarnTitleBar items={['Rent', 'Park']} />
 
       <Hero size={Hero.SIZE.LARGE}
         style={{ fontSize: "100%", textAlign: "left", padding:"2.5% 0" }}>

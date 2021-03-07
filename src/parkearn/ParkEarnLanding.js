@@ -8,15 +8,22 @@ import Button from "../lib/controls/forms/controls/Button";
 import ParkEarnTitleBar from "./ParkEarnTitleBar"
 import FontAwesomeIcon from "../lib/controls/icons/FontAwesomeIcon";
 import {Link} from "react-router-dom";
+import { auth } from "../firebase/index.js";
 
 class ParkEarnLanding extends Component {
   constructor({ }) {
     super({ });
+    this.state = {
+      authUser: JSON.parse(localStorage.getItem('authUser')),
+    };
   }
 
   render() {
+
+    let items = this.state.authUser ? ['Rent', 'Park', 'Logout'] : ['Rent', 'Park', 'Login', 'Sign Up']
+
     return <>
-      <ParkEarnTitleBar items={['Rent', 'Park', 'Login', 'Sign Up']} />
+      <ParkEarnTitleBar items={items} />
 
       <Hero size={ Hero.SIZE.LARGE }
             style={{ fontSize: "150%", textAlign: "center" }}>

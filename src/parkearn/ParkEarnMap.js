@@ -47,9 +47,13 @@ class ParkEarnMap extends Component {
         picture: garagePic3,
       },
     ],
+    authUser: JSON.parse(localStorage.getItem('authUser')),
   };
 
   render() {
+
+    let items = this.state.authUser ? ['Rent', 'Dashboard', 'Logout'] : ["Rent", "Login", "Sign Up"]
+
     return (
       <div>
         {this.state.clicked ? (
@@ -65,7 +69,7 @@ class ParkEarnMap extends Component {
           </>
         ) : (
           <div className="container">
-            <ParkEarnTitleBar items={["Rent", "Login", "Sign Up"]} />
+            <ParkEarnTitleBar items={items} />
             <FlexContainer>
               <FlexRow singleLine={true}>
                 <FlexCol className="halves" defaultSize={6}>

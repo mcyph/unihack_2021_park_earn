@@ -15,7 +15,9 @@ import Card from "../lib/controls/containers/card/Card";
 import MapboxControl from "../lib/map/MapboxControl";
 
 class ParkEarnBooking extends Component {
-  state = {};
+  state = {
+    authUser: JSON.parse(localStorage.getItem('authUser')),
+  };
 
   constructor({}) {
     super({});
@@ -23,9 +25,11 @@ class ParkEarnBooking extends Component {
 
   render() {
 
+    let items = this.state.authUser ? ['Park', 'Dashboard', 'Logout'] : ["Park", "Login", "Sign Up"]
+
     return (
       <>
-        <ParkEarnTitleBar items={['Park', 'Dashboard', 'Logout']}/>
+        <ParkEarnTitleBar items={items}/>
         <FlexContainer>
           <FlexRow>
             <FlexCol defaultSize={6}>

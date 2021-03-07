@@ -62,7 +62,7 @@ class GeoCoderControl extends Component {
              width: "100%",
              ...this.props.style
            }} />
-      <div style={{ opacity: 0, height: 0, width: 0 }}>
+      <div style={{ opacity: 0, height: 0 }}>
          <MapboxControl ref={el => {this.map = el ? el.map : null;}}
                         style={{height: "500px"}} />
        </div>
@@ -74,6 +74,14 @@ class GeoCoderControl extends Component {
     let callLater=()=> {
       if (this.map) {
         this.coderContainer.appendChild(this.geocoder.onAdd(this.map));
+        let input = this.coderContainer.querySelector('input');
+        input.className = "input-text " + input.className
+        input.placeholder = "enter address";
+        input.style.width = "auto";
+        input.offsetParent.style.width = "auto";
+        input.offsetParent.style.minWidth = "auto";
+        input.offsetParent.style.maxWidth = "auto";
+
       } else {
         setTimeout(callLater, 300)
       }

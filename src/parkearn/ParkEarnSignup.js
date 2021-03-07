@@ -12,6 +12,7 @@ import TabItem from "../lib/controls/tabs/TabItem";
 class ParkEarnSignup extends Component {
   constructor({ }) {
     super({ });
+    this.state = {customerIsActive: true}
   }
 
   createUserWithEmailAndPasswordHandler = (email, password) => {
@@ -35,7 +36,7 @@ class ParkEarnSignup extends Component {
               <h1 style={{textAlign: "center"}}>Sign Up</h1>
               <FlexContainer>
                 <Formik
-                      initialValues={{ name: '', email: '', phone: '', password: '', confirmPassword: '', customerType: 'Renter'  }}
+                      initialValues={{ name: '', email: '', phone: '', password: '', confirmPassword: '', customerType: 'Customer'  }}
                       validate={values => {
                         const errors = {};
 
@@ -78,14 +79,21 @@ class ParkEarnSignup extends Component {
                         handleChange,
                         handleBlur,
                         handleSubmit,
-                        isSubmitting
+                        isSubmitting,
+                        setFieldValue
                       }) => (
                         <form onSubmit={handleSubmit}>
 
                           <Tabs style={{justifyContent: "center"}}>
                             <label className="form-label">I am a:&nbsp;&nbsp;</label>
-                            <TabItem href="#" name="Customer"  active={true} />
-                            <TabItem href="#" name="Renter" />
+                            <TabItem href='#' name="Customer"  active={this.state.customerIsActive} onClick={_ => {
+                              setFieldValue('customerType', 'Customer');
+                              this.setState({customerIsActive: true})
+                              }}/>
+                            <TabItem href='#' name="Renter" active={!this.state.customerIsActive} onClick={_ => {
+                              setFieldValue('customerType', 'Renter');
+                              this.setState({customerIsActive: false})
+                              }} />
                           </Tabs>
 
                           {/*

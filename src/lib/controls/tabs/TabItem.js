@@ -32,7 +32,7 @@ class TabItem extends Component {
   render() {
     return (
       <li className={ this.props.active ? 'tab-item active' : 'tab-item' }>
-        <a href={ this.props.href }>
+        <a href={ this.props.href } onClick={this.props.onClick}>
           { this.props.leftButton || '' }
           { this.props.icon || '' }
           { this.props.name || '' }

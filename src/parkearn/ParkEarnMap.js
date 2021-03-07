@@ -13,6 +13,7 @@ import CardFooter from "../lib/controls/containers/card/CardFooter";
 import CardImage from "../lib/controls/containers/card/CardImage";
 import CardSubtitle from "../lib/controls/containers/card/CardSubtitle";
 import CardTitle from "../lib/controls/containers/card/CardTitle";
+import MapboxControl from "../lib/map/MapboxControl";
 import garagePic1 from "./garage1.jpg";
 import garagePic2 from "./garage3.jpg";
 import garagePic3 from "./garage5.jpg";
@@ -67,11 +68,11 @@ class ParkEarnMap extends Component {
             <ParkEarnTitleBar items={["Rent", "Login", "Sign Up"]} />
             <FlexContainer>
               <FlexRow singleLine={true}>
-                <FlexCol className="halves">
+                <FlexCol className="halves" defaultSize={6}>
                   <Formik
                     initialValues={{
-                      address: "enter address",
-                      dateTime: "enter dateTime",
+                      address: "",
+                      dateTime: "",
                     }}
                     onSubmit={async (values) => {
                       await new Promise((resolve) => setTimeout(resolve, 500));
@@ -79,57 +80,81 @@ class ParkEarnMap extends Component {
                     }}
                   >
                     <Form>
-                      <Field name="address" type="text" />
                       <Field
+                        className="form-input"
+                        name="address"
+                        type="text"
+                        placeholder="enter address"
+                        style={{ maxWidth: "180px", float: "left" }}
+                      />
+                      <Field
+                        className="form-input"
                         name="dateTime"
                         type="text"
-                        style={{ marginLeft: "10px" }}
+                        placeholder="enter date and time"
+                        style={{
+                          marginLeft: "10px",
+                          maxWidth: "180px",
+                          float: "left",
+                        }}
                       />
-                      <button type="search" style={{ marginLeft: "10px" }}>
+                      <button
+                        className="btn btn-primary"
+                        type="search"
+                        style={{ marginLeft: "10px" }}
+                      >
                         Search
                       </button>
                     </Form>
                   </Formik>
 
-                  {this.state.parkingList.map((item) => (
-                    <p>
-                      <Button
-                        onClick={() => {
-                          this.setState({ clicked: true });
-                        }}
-                        style={{ height: "100%", width: "100%" }}
-                      >
-                        <Card>
-                          <FlexRow singleLine={true}>
-                            <FlexCol>
-                              <CardImage>
-                                <img
-                                  src={item.picture}
-                                  style={{
-                                    height: "100%",
-                                    width: "100%",
-                                  }}
-                                  resizeMode={"contain"}
-                                />
-                              </CardImage>
-                            </FlexCol>
-                            <FlexCol className="cardTextField">
-                              <CardHeader>
-                                <CardTitle singleLine={false}>
-                                  {item.title}
-                                </CardTitle>
-                                <CardSubtitle>{item.address}</CardSubtitle>
-                              </CardHeader>
-                              <CardBody>{item.rate}</CardBody>
-                            </FlexCol>
-                          </FlexRow>
-                        </Card>
-                      </Button>
-                    </p>
-                  ))}
+                  <p style={{ marginTop: "15px" }}>
+                    {this.state.parkingList.map((item) => (
+                      <p>
+                        <Button
+                          onClick={() => {
+                            this.setState({ clicked: true });
+                          }}
+                          style={{
+                            height: "100%",
+                            width: "100%",
+                            marginLeft: "-10px",
+                            marginTop: "8px",
+                          }}
+                          borderStyle={Button.BORDER_STYLE.LINK}
+                        >
+                          <Card>
+                            <FlexRow singleLine={true}>
+                              <FlexCol>
+                                <CardImage>
+                                  <img
+                                    src={item.picture}
+                                    style={{
+                                      height: "100%",
+                                      width: "100%",
+                                    }}
+                                    resizeMode={"contain"}
+                                  />
+                                </CardImage>
+                              </FlexCol>
+                              <FlexCol className="cardTextField">
+                                <CardHeader>
+                                  <CardTitle singleLine={false}>
+                                    {item.title}
+                                  </CardTitle>
+                                  <CardSubtitle>{item.address}</CardSubtitle>
+                                </CardHeader>
+                                <CardBody>{item.rate}</CardBody>
+                              </FlexCol>
+                            </FlexRow>
+                          </Card>
+                        </Button>
+                      </p>
+                    ))}
+                  </p>
                 </FlexCol>
-                <FlexCol className="halves" defaultSize={3}>
-                  map on the right-hand side
+                <FlexCol className="halves" defaultSize={6}>
+                  <MapboxControl style={{ height: "35vh" }} />
                 </FlexCol>
               </FlexRow>
             </FlexContainer>

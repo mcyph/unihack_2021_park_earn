@@ -38,7 +38,7 @@ class ParkEarnLanding extends Component {
                 <FlexContainer style={{ padding: "0 12%", }}>
                   <FlexRow singleLine={true}>
                     <FlexCol>
-                      <Link to="/parkearn_map">
+                      <Link to="/park">
                         <Button color={ Button.COLOR.PRIMARY }>
                         <FontAwesomeIcon iconSet={FontAwesomeIcon.SOLID} icon="search" style={{marginRight:"5px"}} />
                         Search Parking
@@ -46,7 +46,7 @@ class ParkEarnLanding extends Component {
                       </Link>
                     </FlexCol>
                     <FlexCol>
-                      <Link to="/parkearn_rentdriveway">
+                      <Link to="/rent">
                         <Button color={ Button.COLOR.PRIMARY } >
                           <FontAwesomeIcon iconSet={FontAwesomeIcon.SOLID} icon="road" style={{marginRight:"5px"}} />
                           Rent Driveway

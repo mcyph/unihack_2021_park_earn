@@ -26,8 +26,8 @@ import { Component } from "react";
 import EChartsChart from "./EChartsChart";
 
 class HeatmapCartesian extends Component {
-  constructor({ data, xAxisValues, yAxisValues, style }) {
-    super({ data, xAxisValues, yAxisValues, style });
+  constructor({ data, xAxisValues, yAxisValues, fromColor, toColor, style }) {
+    super({ data, xAxisValues, yAxisValues, fromColor, toColor, style });
   }
 
   /*******************************************************************
@@ -71,6 +71,9 @@ class HeatmapCartesian extends Component {
             calculable: true,
             orient: 'horizontal',
             left: 'center',
+            inRange : {
+              color: ['#d4d2f1', '#a39ef1']
+            }
         },
         series: [{
             name: 'Punch Card',

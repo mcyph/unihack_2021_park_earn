@@ -21,6 +21,9 @@ import garagePic3 from "./garage5.jpg";
 import ParkEarnBooking from "./ParkEarnBooking";
 
 import "./ParkEarnMap.css";
+import GeoCoderControl from "../lib/map/mapbox/GeoCoderControl";
+import MapSinglePoints from "./MapSinglePoints";
+
 class ParkEarnMap extends Component {
   constructor({}) {
     super({});
@@ -80,12 +83,15 @@ class ParkEarnMap extends Component {
                     }}
                   >
                     <Form>
+                    <GeoCoderControl onResultSelected={result => console.log(JSON.stringify(result))}
+                        onResults={results => console.log(JSON.stringify(results))}
+                        style={{width: "170px", float: "left"}}/>
                       <Field
                         className="form-input"
                         name="address"
                         type="text"
                         placeholder="enter address"
-                        style={{ maxWidth: "180px", float: "left" }}
+                        style={{ maxWidth: "180px", float: "left", display: "none" }}
                       />
                       <Field
                         className="form-input"
@@ -154,7 +160,7 @@ class ParkEarnMap extends Component {
                   </p>
                 </FlexCol>
                 <FlexCol className="halves" defaultSize={6}>
-                  <MapboxControl style={{ height: "35vh" }} />
+                  <MapSinglePoints points={[[145.7211998, -37.7840254]]} style={{ height: "35vh" }} />
                 </FlexCol>
               </FlexRow>
             </FlexContainer>

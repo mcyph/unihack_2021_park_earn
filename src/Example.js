@@ -20,7 +20,7 @@ import Editors from "./lib/examples/Editors";
 import Gamification from "./lib/examples/Gamification";
 import Landing from "./lib/examples/Landing";
 import Layout from "./lib/examples/Layout";
-import Map from "./lib/examples/Map";
+import MapSearchPark from "./parkearn/MapSearchPark";
 import Previews from "./lib/examples/Previews";
 
 import OffCanvasSidebar from "./lib/controls/containers/offcanvas/OffCanvasSidebar";
@@ -180,7 +180,7 @@ let ExampleKitchenSink=()=>{
           <Route path="/gamification"><SourceDisplay reactClass={<Gamification/>} jsonKey="Gamification"/></Route>
           <Route path="/landing"><SourceDisplay reactClass={<Landing/>} jsonKey="Landing"/></Route>
           <Route path="/layout"><SourceDisplay reactClass={<Layout/>} jsonKey="Layout"/></Route>
-          <Route path="/map"><SourceDisplay reactClass={<Map/>} jsonKey="Map"/></Route>
+          <Route path="/map"><SourceDisplay reactClass={<MapSearchPark/>} jsonKey="Map"/></Route>
           <Route path="/previews"><SourceDisplay reactClass={<Previews/>} jsonKey="Previews"/></Route>
 
           <Route path="/"><SourceDisplay reactClass={<Layout/>} jsonKey="Layout" /></Route>

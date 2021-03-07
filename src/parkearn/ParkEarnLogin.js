@@ -7,15 +7,23 @@ import Button from "../lib/controls/forms/controls/Button";
 import ParkEarnTitleBar from "./ParkEarnTitleBar"
 import { Formik } from "formik";
 import { auth } from "../firebase/index.js";
+import { Redirect } from "react-router-dom";
 class ParkEarnLogin extends Component {
   constructor({ }) {
     super({ });
+    this.state = {redirect: false}
+    auth.onAuthStateChanged(authUser => {
+      authUser
+        ? localStorage.setItem('authUser', JSON.stringify(authUser))
+        : localStorage.removeItem('authUser')
+    });
   }
 
   signInWithEmailAndPasswordHandler = (email, password) => {
     auth.signInWithEmailAndPassword(email, password)
     .then(() => {
-      alert('logged in')
+      alert('Logged In Successfully!')
+      this.setState({redirect: true})
     })
     .catch(error => {
       var errorCode = error.code;
@@ -26,6 +34,11 @@ class ParkEarnLogin extends Component {
   };
 
   render() {
+
+    if (this.state.redirect) {
+      return <Redirect to="/"/>
+    }
+
     return <>
       <ParkEarnTitleBar items={['Rent', 'Park', 'Sign Up']} />
 

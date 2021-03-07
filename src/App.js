@@ -13,6 +13,10 @@ import "./lib/spectre/spectre_css_light/spectre-icons.scss";
 import Example from "./Example";
 
 import db from './db/DB';
+import ParkEarnLanding from './parkearn/ParkEarnLanding';
+import ParkEarnLogin from './parkearn/ParkEarnLogin';
+import ParkEarnSignup from './parkearn/ParkEarnSignup';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 db.init((db) => {
   db.addCustomer({
@@ -34,7 +38,16 @@ db.init((db) => {
 function App() {
   // Replace the below lines with your own content!
   return <>
-    <Example />
+    {/* <Example /> */}
+    <Router>
+        <div className="App">
+          <Switch>
+            <Route path='/' component={ParkEarnLanding} exact/>
+            <Route path='/login' component={ParkEarnLogin} exact />
+            <Route path='/signup' component={ParkEarnSignup} exact/>
+          </Switch>
+        </div>
+      </Router>
   </>;
 }
 

@@ -21,7 +21,7 @@ class ParkEarnBooking extends Component {
     return <>
       <Navbar>
         <NavbarSection>
-          <NavbarBrand href="parkearn_landing">
+          <NavbarBrand href="/">
             <img src={ process.env.PUBLIC_URL + "/logo192.png" }
                  style={{width: "64px", verticalAlign: "middle"}} />
           </NavbarBrand>
@@ -30,7 +30,7 @@ class ParkEarnBooking extends Component {
           {
             // create a navbar link for each item
             this.props.items.map( item => {
-              let link = `/parkearn_${item.toLowerCase().replace(/\s/g,'')}`;
+              let link = `/${item.toLowerCase().replace(/\s/g,'')}`;
               return <NavbarLink style={{ fontSize: "130%" }} href={link}>
                 <Link to={link}>
                   {item}

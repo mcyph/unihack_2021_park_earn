@@ -9,16 +9,23 @@ import { Formik, Field } from "formik";
 import { auth } from "../firebase/index.js";
 import Tabs from "../lib/controls/tabs/Tabs";
 import TabItem from "../lib/controls/tabs/TabItem";
+import { Redirect } from "react-router-dom";
 class ParkEarnSignup extends Component {
   constructor({ }) {
     super({ });
-    this.state = {customerIsActive: true}
+    this.state = {customerIsActive: true, redirect: false}
+    auth.onAuthStateChanged(authUser => {
+      authUser
+        ? localStorage.setItem('authUser', JSON.stringify(authUser))
+        : localStorage.removeItem('authUser')
+    });
   }
 
   createUserWithEmailAndPasswordHandler = (email, password) => {
     auth.createUserWithEmailAndPassword(email, password)
     .then(() => {
-      alert('signed up')
+      alert('Signed Up Successfully!')
+      this.setState({redirect: true})
     })
     .catch((error) => {
       console.log(error.code + ': ' + error.message)
@@ -26,6 +33,11 @@ class ParkEarnSignup extends Component {
   };
 
   render() {
+
+    if (this.state.redirect) {
+      return <Redirect to="/"/>
+    }
+
     return <>
       <ParkEarnTitleBar items={['Rent', 'Park', 'Login']} />
 
@@ -68,7 +80,7 @@ class ParkEarnSignup extends Component {
                       }}
                       onSubmit={(values, { setSubmitting }) => {
                         this.createUserWithEmailAndPasswordHandler(values.email, values.password)
-                        alert(JSON.stringify(values, null, 2));
+                        // alert(JSON.stringify(values, null, 2));
                         setSubmitting(false);
                       }}
                     >

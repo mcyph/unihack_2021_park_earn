@@ -20,6 +20,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ParkEarnBooking from './parkearn/ParkEarnBooking';
 import ParkEarnRenterDash from './parkearn/ParkEarnRenterDash';
 import ParkEarnMap from './parkearn/ParkEarnMap';
+import ParkEarnLogout from './parkearn/ParkEarnLogout';
 
 db.init((db) => {
   db.addCustomer({
@@ -51,6 +52,7 @@ function App() {
             <Route path='/rent' component={ParkEarnBooking} exact/>
             <Route path='/dashboard' component={ParkEarnRenterDash} exact/>
             <Route path='/park' component={ParkEarnMap} exact/>
+            <Route path='/logout' component={ParkEarnLogout} exact/>
           </Switch>
         </div>
       </Router>

@@ -20,7 +20,7 @@ import Editors from "./lib/examples/Editors";
 import Gamification from "./lib/examples/Gamification";
 import Landing from "./lib/examples/Landing";
 import Layout from "./lib/examples/Layout";
-import Map from "./lib/examples/Map";
+import MapSearchPark from "./parkearn/MapSearchPark";
 import Previews from "./lib/examples/Previews";
 
 import OffCanvasSidebar from "./lib/controls/containers/offcanvas/OffCanvasSidebar";
@@ -38,7 +38,6 @@ import Labels from "./lib/examples/Labels";
 import Toasts from "./lib/examples/Toasts";
 import ParkEarnMap from "./parkearn/ParkEarnMap";
 import ParkEarnBooking from "./parkearn/ParkEarnBooking";
-import ParkEarnRentDriveway from "./parkearn/ParkEarnRentDriveway";
 import ParkEarnRenterDash from "./parkearn/ParkEarnRenterDash";
 import ParkEarnLanding from "./parkearn/ParkEarnLanding";
 import ParkEarnSignup from "./parkearn/ParkEarnSignup";
@@ -149,7 +148,6 @@ let ExampleKitchenSink=()=>{
         <Switch>
           <Route path="/parkearn_map"><SourceDisplay reactClass={<ParkEarnMap/>} jsonKey="ParkEarnMap"/></Route>
           <Route path="/parkearn_booking"><SourceDisplay reactClass={<ParkEarnBooking/>} jsonKey="ParkEarnBooking"/></Route>
-          <Route path="/parkearn_rentdriveway"><SourceDisplay reactClass={<ParkEarnRentDriveway/>} jsonKey="ParkEarnRentDriveway"/></Route>
           <Route path="/parkearn_renterdash"><SourceDisplay reactClass={<ParkEarnRenterDash/>} jsonKey="ParkEarnRenterDash"/></Route>
           <Route path="/parkearn_landing"><SourceDisplay reactClass={<ParkEarnLanding/>} jsonKey="ParkEarnLanding"/></Route>
           <Route path="/parkearn_signup"><SourceDisplay reactClass={<ParkEarnSignup/>} jsonKey="ParkEarnSignup"/></Route>
@@ -180,7 +178,7 @@ let ExampleKitchenSink=()=>{
           <Route path="/gamification"><SourceDisplay reactClass={<Gamification/>} jsonKey="Gamification"/></Route>
           <Route path="/landing"><SourceDisplay reactClass={<Landing/>} jsonKey="Landing"/></Route>
           <Route path="/layout"><SourceDisplay reactClass={<Layout/>} jsonKey="Layout"/></Route>
-          <Route path="/map"><SourceDisplay reactClass={<Map/>} jsonKey="Map"/></Route>
+          <Route path="/map"><SourceDisplay reactClass={<MapSearchPark/>} jsonKey="Map"/></Route>
           <Route path="/previews"><SourceDisplay reactClass={<Previews/>} jsonKey="Previews"/></Route>
 
           <Route path="/"><SourceDisplay reactClass={<Layout/>} jsonKey="Layout" /></Route>

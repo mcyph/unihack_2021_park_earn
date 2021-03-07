@@ -1,18 +1,15 @@
 import React, { Component } from "react";
 import photo from "./garage.jpg";
-import Form from "../lib/controls/forms/Form";
-import SingleLineText from "../lib/controls/forms/controls/text/SingleLineText";
 import FlexContainer from "../lib/controls/containers/flexbox/FlexContainer";
 import FlexRow from "../lib/controls/containers/flexbox/FlexRow";
 import FlexCol from "../lib/controls/containers/flexbox/FlexCol";
-import RadioGroup from "../lib/controls/forms/controls/options/RadioGroup";
 import Button from "../lib/controls/forms/controls/Button";
 
 import ParkEarnTitleBar from "./ParkEarnTitleBar.js";
 import "./ParkEarnRenterBooking.css";
 import SevenDaySelector from "../lib/controls/forms/controls/datetime/SevenDaySelector";
 import Card from "../lib/controls/containers/card/Card";
-import MapboxControl from "../lib/map/MapboxControl";
+import MapSinglePoints from "./MapSinglePoints";
 
 class ParkEarnBooking extends Component {
   state = {
@@ -39,7 +36,7 @@ class ParkEarnBooking extends Component {
                   <img src={photo} alt="myGarage" className="photo" style={{width: "100%", "height": "100%"}} />
                 </p>
                 <p>Address: 123 High St</p>
-                <MapboxControl style={{height: "40vh"}}></MapboxControl>
+                <MapSinglePoints points={[[145.7211998, -37.7840254]]} style={{ height: "40vh" }} />
               </Card>
             </FlexCol>
             <FlexCol defaultSize={6}>

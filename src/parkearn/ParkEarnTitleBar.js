@@ -4,6 +4,7 @@ import Navbar from "../lib/controls/navigation/navbar/Navbar";
 import NavbarBrand from "../lib/controls/navigation/navbar/NavbarBrand";
 import NavbarSection from "../lib/controls/navigation/navbar/NavbarSection";
 import NavbarLink from "../lib/controls/navigation/navbar/NavbarLink";
+import {Link} from "react-router-dom";
 
 /**
    *
@@ -29,7 +30,12 @@ class ParkEarnBooking extends Component {
           {
             // create a navbar link for each item
             this.props.items.map( item => {
-              return <NavbarLink href={`parkearn_${item.toLowerCase().replace(/\s/g,'')}`} style={{ fontSize: "130%" }}>{item}</NavbarLink>
+              let link = `/parkearn_${item.toLowerCase().replace(/\s/g,'')}`;
+              return <NavbarLink style={{ fontSize: "130%" }} href={link}>
+                <Link to={link}>
+                  {item}
+                </Link>
+              </NavbarLink>
             })
           }
         </NavbarSection>

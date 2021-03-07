@@ -19,6 +19,7 @@ import garagePic2 from "./garage2.jpg";
 import ParkEarnBooking from "./ParkEarnBooking";
 
 import "./ParkEarnMap.css";
+import MapboxControl from "../lib/map/MapboxControl";
 class ParkEarnMap extends Component {
   constructor({}) {
     super({});
@@ -44,11 +45,11 @@ class ParkEarnMap extends Component {
             <ParkEarnTitleBar items={["Rent", "Login", "Sign Up"]} />
             <FlexContainer>
               <FlexRow singleLine={true}>
-                <FlexCol className="halves">
+                <FlexCol className="halves" defaultSize={6}>
                   <Formik
                     initialValues={{
-                      address: "enter address",
-                      dateTime: "enter dateTime",
+                      address: "",
+                      dateTime: ""
                     }}
                     onSubmit={async (values) => {
                       await new Promise((resolve) => setTimeout(resolve, 500));
@@ -56,23 +57,38 @@ class ParkEarnMap extends Component {
                     }}
                   >
                     <Form>
-                      <Field name="address" type="text" />
                       <Field
+                        className="form-input"
+                        name="address"
+                        type="text"
+                        placeholder="enter address"
+                        style={{ maxWidth: "180px", float: "left" }}
+                      />
+                      <Field
+                        className="form-input"
                         name="dateTime"
                         type="text"
-                        style={{ marginLeft: "10px" }}
+                        placeholder="enter date and time"
+                        style={{ marginLeft: "10px", maxWidth: "180px", float: "left" }}
                       />
-                      <button type="search" style={{ marginLeft: "10px" }}>
+                      <button className="btn btn-primary"
+                              type="search"
+                              style={{ marginLeft: "10px" }}>
                         Search
                       </button>
                     </Form>
                   </Formik>
-                  <p>
+                  <p style={{marginTop: "15px"}}>
                     <Button
                       onClick={() => {
                         this.setState({ clicked: true });
                       }}
-                      style={{ height: "180px", width: "400px" }}
+                      style={{
+                        height: "180px",
+                        width: "100%",
+                        marginLeft: "-10px"
+                      }}
+                      borderStyle={Button.BORDER_STYLE.LINK}
                     >
                       <Card>
                         <FlexRow>
@@ -97,7 +113,13 @@ class ParkEarnMap extends Component {
                         </FlexRow>
                       </Card>
                     </Button>
-                    <Button style={{ height: "180px", width: "400px" }}>
+                    <Button style={{
+                              height: "180px",
+                              width: "100%",
+                              marginTop: "8px",
+                              marginLeft: "-10px"
+                            }}
+                            borderStyle={Button.BORDER_STYLE.LINK} >
                       <Card>
                         <FlexRow>
                           <FlexCol>
@@ -123,8 +145,8 @@ class ParkEarnMap extends Component {
                     </Button>
                   </p>
                 </FlexCol>
-                <FlexCol className="halves" defaultSize={3}>
-                  map on the right-hand side
+                <FlexCol className="halves" defaultSize={6}>
+                  <MapboxControl style={{height: "35vh"}} />
                 </FlexCol>
               </FlexRow>
             </FlexContainer>
